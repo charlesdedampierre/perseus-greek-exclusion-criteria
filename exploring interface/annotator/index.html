@@ -181,20 +181,19 @@
 
 <main>
   <section class="panel" id="panel-features">
-    <h2>Features</h2>
     <h3 class="rule-name" id="rule-name"></h3>
     <div class="rule-sub" id="rule-sub"></div>
-    <table class="features" id="features-table"></table>
+    <table class="features"><tbody id="features-top"></tbody></table>
+    <h2 style="margin-top: 14px;">Verbatim</h2>
+    <div class="verbatim" id="verbatim"></div>
+    <table class="features" style="margin-top: 12px;"><tbody id="features-bottom"></tbody></table>
     <div class="meta">
       Shortcuts: <kbd>↑</kbd> valid · <kbd>↓</kbd> invalid · <kbd>→</kbd> next · <kbd>←</kbd> prev · <kbd>s</kbd> skip
     </div>
   </section>
 
   <section class="panel" id="panel-annotate">
-    <h2>Verbatim</h2>
-    <div class="verbatim" id="verbatim"></div>
-
-    <h2 style="margin-top: 16px;">Your annotation</h2>
+    <h2>Your annotation</h2>
     <div class="rating">
       <button class="up"   data-rating="up">👍 Valid</button>
       <button class="down" data-rating="down">👎 Invalid</button>
@@ -227,24 +226,24 @@
   let current = 0;
   let annotations = loadAnnotations();
 
-  // Columns shown in the features table (order = display order)
-  const FEATURE_COLS = [
-    "criteria", "rule", "group", "resource", "directionality",
-    "rule_polity", "rule_polity_reasoning",
-    "rule_time_reference", "rule_time_reasoning",
-    "confidence", "reasoning",
-    "contemporary", "factuality", "is_historical",
-    "group_specificity", "group_immutability",
-    "resource_materiality", "resource_generality", "resource_persistence",
-    "tautological",
-    "author", "impact_year", "cliopatria_polity", "occupations",
-    "work_title", "genre", "period", "main_language", "pub_date",
-    "file_id", "rule_uid",
+  // Features shown before the verbatim quote
+  const FEATURE_COLS_TOP = [
+    "rule_polity",
+    "rule_polity_reasoning",
+    "rule_time_reference",
+    "rule_time_reasoning",
   ];
-  const HIGHLIGHT = new Set([
-    "rule_polity", "rule_polity_reasoning",
-    "rule_time_reference", "rule_time_reasoning",
-  ]);
+  // Features shown after the verbatim quote
+  const FEATURE_COLS_BOTTOM = [
+    "author",
+    "impact_year",
+    "cliopatria_polity",
+    "occupations",
+    "work_title",
+    "genre",
+    "period",
+  ];
+  const HIGHLIGHT = new Set();  // minimal view: nothing singled out
   const LABELS = {
     rule_polity: "rule polity",
     rule_polity_reasoning: "polity reasoning",
@@ -293,18 +292,19 @@
     document.getElementById("rule-sub").innerHTML =
       `${escapeHtml(sub)} ${r.rule_time_reference ? pillFor(r.rule_time_reference) : ""}`;
 
-    document.getElementById("verbatim").textContent = r.verbatim || "(no verbatim provided)";
+    const rowHtml = (k) => {
+      if (r[k] === undefined || r[k] === null || r[k] === "") return "";
+      const cls = HIGHLIGHT.has(k) ? " class='highlight'" : "";
+      const val = k === "rule_time_reference" ? pillFor(r[k]) : escapeHtml(r[k]);
+      return `<tr${cls}><th>${escapeHtml(labelFor(k))}</th><td>${val}</td></tr>`;
+    };
 
-    const tbl = document.getElementById("features-table");
-    tbl.innerHTML = FEATURE_COLS
-      .filter(k => r[k] !== undefined && r[k] !== null && r[k] !== "")
-      .map(k => {
-        const cls = HIGHLIGHT.has(k) ? " class='highlight'" : "";
-        const val = k === "rule_time_reference"
-          ? pillFor(r[k])
-          : escapeHtml(r[k]);
-        return `<tr${cls}><th>${escapeHtml(labelFor(k))}</th><td>${val}</td></tr>`;
-      }).join("");
+    document.getElementById("features-top").innerHTML =
+      FEATURE_COLS_TOP.map(rowHtml).join("");
+    document.getElementById("features-bottom").innerHTML =
+      FEATURE_COLS_BOTTOM.map(rowHtml).join("");
+    document.getElementById("verbatim").textContent =
+      r.verbatim || "(no verbatim provided)";
 
     const ann = annotations[r.rule_uid] || {};
     document.querySelectorAll(".rating button").forEach(btn => {
