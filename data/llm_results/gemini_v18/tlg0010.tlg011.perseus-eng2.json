@@ -1,0 +1,735 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Athletic victor bounty eligibility",
+      "rule_category": "Grant of economic privilege",
+      "group": "Athletes",
+      "group_category": "Occupation",
+      "resource": "Right to public bounties and rewards",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Many times have I wondered at those who first convoked the national assemblies and established the athletic games, amazed that they should have thought the prowess of men’s bodies to be deserving of so great bounties, while to those who had toiled in private for the public good and trained their own minds so as to be able to help also their fellow-men they apportioned no reward whatsoever"
+      ],
+      "reasoning": "The author contrasts the physical prowess of athletes, which is rewarded with 'great bounties' by the state/assemblies, with the lack of rewards for intellectual contributors, establishing a clear rule of material reward for one group over the other.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific class of high-performing competitors within the Greek world.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Intellectual public service reward exclusion",
+      "rule_category": "Denial of economic privilege",
+      "group": "Orators and teachers",
+      "group_category": "Occupation",
+      "resource": "Right to public rewards for service",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Many times have I wondered at those who first convoked the national assemblies and established the athletic games, amazed that they should have thought the prowess of men’s bodies to be deserving of so great bounties, while to those who had toiled in private for the public good and trained their own minds so as to be able to help also their fellow-men they apportioned no reward whatsoever"
+      ],
+      "reasoning": "The text explicitly states that those who train their minds for the public good (intellectuals/orators) receive 'no reward whatsoever' from the established national systems that reward athletes.",
+      "specificity": 4,
+      "specificity_reasoning": "While broader than athletes, this concerns the specific professional class of those 'trained in mind' for public benefit.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ancestral leadership rights",
+      "rule_category": "Access to political succession",
+      "group": "Lacedaemonians",
+      "group_category": "Origin",
+      "resource": "Right to regional hegemony and leadership",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] Now our own city could easily be induced to adopt this policy, but at present the Lacedaemonians are still hard to persuade; for they have inherited the false doctrine that leadership is theirs by ancestral right."
+      ],
+      "reasoning": "The text identifies a customary claim (though the author disputes its factual basis) where the Lacedaemonians exercise political leadership based on an inherited ancestral right.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire citizen body of a specific city-state (Sparta) in relation to the rest of Greece.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Indigenous Athenian lineage status",
+      "rule_category": "Access to political legitimacy",
+      "group": "Athenians",
+      "group_category": "Origin",
+      "resource": "Right to claim autochthonous land ownership",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§24] for we did not become dwellers in this land by driving others out of it, nor by finding it uninhabited, nor by coming together here a motley horde composed of many races; but we are of a lineage so noble and so pure that throughout our history we have continued in possession of the very land which gave us birth, since we are sprung from its very soil"
+      ],
+      "reasoning": "Isocrates defines the Athenians as having a unique status ('noble and pure') and a right to the land based on being 'sprung from its soil,' contrasting them with groups who gained land by conquest or migration.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire citizen population of Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious initiation requirement",
+      "rule_category": "Access to religious rituals",
+      "group": "Initiates",
+      "group_category": "Occupation",
+      "resource": "Right to witness and participate in sacred rites",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§28] When Demeter came to our land... and, being moved to kindness towards our ancestors by services which may not be told save to her initiates, gave these two gifts... and the holy rite which inspires in those who partake of it sweeter hopes",
+        "[§29] The mystic rite we continue even now, each year, to reveal to the initiates"
+      ],
+      "reasoning": "The text specifies that the 'holy rite' (Eleusinian Mysteries) and certain knowledge are restricted only to those who have undergone initiation, excluding all others from the experience and the 'sweeter hopes' attached to it.",
+      "specificity": 5,
+      "specificity_reasoning": "Initiates are a specific subgroup of the population who meet certain criteria of ritual purity and selection.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Crop tribute obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Hellenic cities",
+      "group_category": "Origin",
+      "resource": "Right to retain total harvest (harvest property)",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] For most of the Hellenic cities, in memory of our ancient services, send us each year the first-fruits of the harvest, and those who neglect to do so have often been admonished by the Pythian priestess to pay us our due portion of their crops"
+      ],
+      "reasoning": "The text describes a systematic custom, enforced by religious oracular authority (the Pythian priestess), requiring other Greek cities to send a portion of their crops (first-fruits) to Athens.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the majority of Greek city-states across the Mediterranean.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Overseas colony settlement leadership",
+      "rule_category": "Military service reward",
+      "group": "The needy",
+      "group_category": "Wealth",
+      "resource": "Right to land allocation and city founding",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§35] our city... sent out leaders to the several states, who, enlisting the neediest of the people, and placing themselves at their head, overcame the barbarians in war, founded many cities on either continent, settled colonies in all the islands"
+      ],
+      "reasoning": "Athens provided the 'neediest' with the opportunity to acquire land and status by enlisting them in military/colonial expeditions to found new cities on conquered barbarian lands.",
+      "specificity": 3,
+      "specificity_reasoning": "This targeted the landless/poor class specifically for external settlement.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Athenian homicide jurisdiction",
+      "rule_category": "Legal standing",
+      "group": "Hellenes",
+      "group_category": "Origin",
+      "resource": "Right to settle homicide cases via reason and law",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] This is apparent from the fact that those who in the beginning brought charges of homicide, and desired to settle their mutual differences by reason and not by violence, tried their cases under our laws."
+      ],
+      "reasoning": "Isocrates identifies that the early Greeks (Hellenes) who wished to avoid blood-feuds and violence utilized Athenian laws to settle homicide charges, establishing a concrete legal mechanism for non-Athenians to seek justice.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to many, it specifically concerns those involved in homicide litigation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreigner refuge status",
+      "rule_category": "Access to judicial protection",
+      "group": "Unfortunate foreigners",
+      "group_category": "Citizenship",
+      "resource": "Secure refuge from home-city misfortunes",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] Moreover, she has established her polity in general in such a spirit of welcome to strangers and friendliness to all men, that it adapts itself both to those who lack means and to those who wish to enjoy the means which they possess, and that it fails to be of service neither to those who are prosperous nor to those who are unfortunate in their own cities; nay, both classes find with us what they desire, the former the most delightful pastimes, the latter the securest refuge."
+      ],
+      "reasoning": "The text explicitly states that the Athenian polity functions as a 'secure refuge' for those who are 'unfortunate in their own cities' (e.g., political exiles or the oppressed), granting them physical security.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad class of displaced or endangered persons within the Greek world.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Market access for traders",
+      "rule_category": "Grant of economic privilege",
+      "group": "Hellenes",
+      "group_category": "Origin",
+      "resource": "Access to a central import-export market",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] ...she established the Piraeus as a market in the center of Hellas—a market of such abundance that the articles which it is difficult to get, one here, one there, from the rest of the world, all these it is easy to procure from Athens."
+      ],
+      "reasoning": "The establishment of Piraeus as a central market provides concrete economic benefits to all Greeks for the disposal of surplus goods and the acquisition of scarce imports.",
+      "specificity": 2,
+      "specificity_reasoning": "The market is open to nearly everyone involved in commerce within the Greek world.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sacred festival truce",
+      "rule_category": "Protection from bodily harm",
+      "group": "Hellenes",
+      "group_category": "Origin",
+      "resource": "Right to travel and assemble under safe truce",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] Now the founders of our great festivals are justly praised for handing down to us a custom by which, having proclaimed a truce and resolved our pending quarrels, we come together in one place, where, as we make our prayers and sacrifices in common..."
+      ],
+      "reasoning": "The institution of the festival truce (ekecheiria) provides a concrete legal and religious protection for all participants, allowing them to travel and assemble without fear of violence from ongoing wars.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all Greeks attending these major pan-Hellenic gatherings.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Contestant merit recognition",
+      "rule_category": "Military and athletic prize-taking",
+      "group": "Athletes and talented men",
+      "group_category": "Occupation",
+      "resource": "Right to compete for and receive prizes",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§44] And neither to common men nor to those of superior gifts is the time so spent idle and profitless, but in the concourse of the Hellenes the latter have the opportunity to display their prowess...",
+        "[§45] ...and, furthermore, to see contests not alone of speed and strength, but of eloquence and wisdom and of all the other arts—and for these the greatest prizes;"
+      ],
+      "reasoning": "Society provides a structured mechanism (festivals/contests) for those with specific skills to win material and symbolic prizes, which are enforced by public judgment.",
+      "specificity": 5,
+      "specificity_reasoning": "This is specific to those with the high-level talent required to compete in pan-Hellenic games.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Fallen soldier burial rights",
+      "rule_category": "Religious access",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to funeral rites after death in battle",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§55] Adrastus... called upon our city to lend aid in a misfortune which was of universal concern, and not to suffer that men who die in battle be left unburied nor that ancient custom and immemorial law be brought to naught.",
+        "[§58] Taking the field against the Thebans, they compelled them to restore the dead to their kindred for burial;"
+      ],
+      "reasoning": "The text describes an 'immemorial law' and 'ancient custom' that soldiers killed in battle must be buried. Athens used military force to enforce this right for the defeated Argives.",
+      "specificity": 4,
+      "specificity_reasoning": "Specific to any soldier who dies in combat.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of immigrant rule",
+      "rule_category": "Exclusion from political power",
+      "group": "Immigrants",
+      "group_category": "Citizenship",
+      "resource": "Right to hold political authority over indigenous populations",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§63] But if we have to leave out of account considerations of gratitude and fairness, and, returning to the main question, state the point which is most essential, assuredly it is not ancestral custom for immigrants to set themselves over the sons of the soil, or the recipients of benefits over their benefactors, or refugees over those who gave them asylum."
+      ],
+      "reasoning": "Isocrates cites an 'ancestral custom' that prohibits immigrants or refugees from exercising power over indigenous ('sons of the soil') citizens, serving as a rule of political exclusion based on origin/lineage.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to any non-native group residing within a host city-state.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Public revenue integrity",
+      "rule_category": "Protection of public resources",
+      "group": "Political leaders",
+      "group_category": "Occupation",
+      "resource": "Right to personal use of public funds",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§76] ...but were as careful of the public revenues as of their private property, yet abstained from them as men ought from that to which they have no right."
+      ],
+      "reasoning": "Isocrates describes the ancestral norm where those in power were legally and customarily barred from treating public treasury as personal wealth, enforcing a strict separation between private property and state taxes.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to the class of magistrates and political leaders, a significant but distinct subset of the citizenry.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elite accountability to reputation",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from public dishonor for state failure",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§77] ...but thought it a more dreadful thing to be charged with dishonor by their countrymen than to die honorably for their country; and they blushed more for the sins of the commonwealth than men do nowadays for their own."
+      ],
+      "reasoning": "The text establishes a social rule where the individual citizen was held personally and morally responsible for the 'sins' or failures of the state, losing the right to private reputation if the collective failed.",
+      "specificity": 2,
+      "specificity_reasoning": "This encompasses the entire body of active citizens in the described era.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Non-arbitrary governance",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Freedom from excessive written regulation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§78] ...for they understood that for good and true men there would be no need of many written laws, but that if they started with a few principles of agreement they would readily be of one mind as to both private and public affairs."
+      ],
+      "reasoning": "In the idealized past, citizens were granted the right to live under a few stable principles rather than a complex, predatory, or over-regulated legal code, which Isocrates contrasts with contemporary litigiousness.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the 'good and true' men (citizens) in their interpersonal and civic dealings.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Prohibition of factional destruction",
+      "rule_category": "Political power restriction",
+      "group": "Political factions",
+      "group_category": "Occupation",
+      "resource": "Right to destroy political opponents",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§79] ...they opposed one another, not to see which faction should destroy the other and rule over the remnant, but which should outstrip the other in doing something good for the state; and they organized their political clubs, not for personal advantage, but for the benefit of the people."
+      ],
+      "reasoning": "The customary rule of the period mentioned forbade political clubs (hetaireiai) from using their power to annihilate rivals or seize the state for factional gain.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to organized political activists and members of political clubs.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Hellenic alliance autonomy",
+      "rule_category": "Grant of economic privilege",
+      "group": "Weaker Hellenic states",
+      "group_category": "Origin",
+      "resource": "Freedom from tyrannical command",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§80] They treated the Hellenes with consideration and not with insolence, regarding it as their duty to command them in the field but not to tyrannize over them, desiring rather to be addressed as leaders than as masters..."
+      ],
+      "reasoning": "Under the ancestral hegemony, allied Greek states were granted a degree of autonomy and protection from 'insolence' or tyranny, distinguishing leadership in war from total political subversion.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to the specific international relations between the leading city and other Greek city-states.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Equitable diplomatic treatment",
+      "rule_category": "Access to judicial protection",
+      "group": "Weaker states",
+      "group_category": "Wealth",
+      "resource": "Reciprocal treatment by stronger powers",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§81] ...thinking it their duty to feel toward the weaker as they expected the stronger to feel toward themselves."
+      ],
+      "reasoning": "There was a normative rule of reciprocity in international relations where powerful states were expected to grant weaker states the same considerations they would wish for themselves if they were the underdog.",
+      "specificity": 7,
+      "specificity_reasoning": "This is a high-level diplomatic norm affecting the interactions between city-states based on their relative power.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Posthumous heroic honors",
+      "rule_category": "Access to political succession",
+      "group": "War dead",
+      "group_category": "Occupation",
+      "resource": "Right to divine honors (demi-god status)",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§84] ...should be deemed worthy of the same honors as are given to those who have sprung from the gods and are called demi-gods; for while the gods surrendered the bodies even of their own sons to the doom of nature, yet they have made immortal the memory of their valor."
+      ],
+      "reasoning": "Soldiers who died in the defense of Hellas were granted a specific civic-religious status (immortal memory and demi-god honors) that was normally reserved for mythological figures.",
+      "specificity": 6,
+      "specificity_reasoning": "Specific to those who died in the Persian Wars.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Democratic office eligibility",
+      "rule_category": "Access to political office",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to hold public office",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§105] supporting the people but making war on despotic powers, considering it an outrage that the many should be subject to the few, that those who were poorer in fortune but not inferior in other respects should be banished from the offices, that, furthermore, in a fatherland which belongs to all in common some should hold the place of masters, others of aliens, and that men who are citizens by birth should be robbed by law of their share in the government."
+      ],
+      "reasoning": "Isocrates describes the Athenian-led democratic system as one that explicitly rejects wealth-based exclusions from office, framing the exclusion of the poor as an 'outrage' and a violation of the rights of birth-citizens.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a very large segment of the male citizen population (the non-wealthy).",
+      "confidence": 10
+    },
+    {
+      "rule_category": "Access to political speech",
+      "rule_name": "Citizen government participation",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to share in government",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§105] and that men who are citizens by birth should be robbed by law of their share in the government."
+      ],
+      "reasoning": "The text asserts that being a 'citizen by birth' carries an inherent legal right to participate in the government of the fatherland.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule covers the entire class of birth-right citizens within the state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Allied internal autonomy",
+      "rule_category": "Grant of political autonomy",
+      "group": "Allied states",
+      "group_category": "Citizenship",
+      "resource": "Right to direct own internal affairs",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§105] guarding the interests of the whole confederacy but leaving each member of it free to direct its own affairs;"
+      ],
+      "reasoning": "Isocrates claims that under Athenian hegemony, members of the confederacy retained the right to manage their own local business despite being part of a larger alliance.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to the member states of the Athenian maritime confederacy.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Due process protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§113] nay, to crown their other effronteries, they even have the audacity to talk of the private and public suits which were once tried in Athens, when they themselves put to death without trial more men in the space of three months than Athens tried during the whole period of her supremacy."
+      ],
+      "reasoning": "The author contrasts the Athenian system of formal trials (suits) with the lawless executions of the decarchies, implying that the Athenian rule afforded citizens protection from arbitrary execution via the legal system.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general legal protection for the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exclusion from office",
+      "rule_category": "Political exclusion",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to hold public office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§105] considering it an outrage that ... those who were poorer in fortune but not inferior in other respects should be banished from the offices"
+      ],
+      "reasoning": "Isocrates explicitly mentions 'banishment from offices' based on fortune as a practice of the 'few' (oligarchies) which Athens opposed, thereby identifying a real-world rule in non-democratic Greek states.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the large class of non-wealthy citizens in oligarchic systems.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Persian maritime restriction",
+      "rule_category": "Restriction of movement",
+      "group": "Persians",
+      "group_category": "Origin",
+      "resource": "Freedom of movement in the Aegean Sea",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§118] they launched no ship of war this side of Phaselis but remained inactive",
+        "[§120] in those days we were constantly setting limits to the empire of the King, levying tribute on some of his subjects, and barring him from the sea"
+      ],
+      "reasoning": "Under the terms described (the Peace of Callias), the Persian King and his forces were legally/diplomatically barred from sailing war vessels into specific Greek maritime zones.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to the subjects and military of a specific foreign empire.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection of women",
+      "rule_category": "Protection from bodily harm",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from physical insult and outrage",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§114] And of their banishments, their civil strife, their subversion of laws, their political revolutions, their atrocities upon children, their insults to women, their pillage of estates, who could tell the tale?"
+      ],
+      "reasoning": "The author lists 'insults to women' as an atrocity of the decarchies that broke established societal norms, implying that under normal Athenian rule, women were protected by custom or law from such physical or social outrages.",
+      "specificity": 2,
+      "specificity_reasoning": "This refers to the general category of women in the population.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Barbarian subject corporal punishment",
+      "rule_category": "Denial of bodily integrity",
+      "group": "Subjects of the Persian King",
+      "group_category": "Origin",
+      "resource": "Protection from extreme corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§123] ...must also in their own persons submit to greater indignities than those which are suffered in our world by purchased slaves; for none of us is so cruel to his servants as are the barbarians in punishing free men."
+      ],
+      "reasoning": "Isocrates contrasts the treatment of servants/slaves in Greece with the treatment of free subjects under the Persian King (barbarians), noting that the latter are subjected to worse physical punishments than Greek slaves.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies generally to all free subjects within the Persian Empire compared to the Greek standard.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Conscripted military service",
+      "rule_category": "Military service obligation",
+      "group": "Subjects of the Persian King",
+      "group_category": "Origin",
+      "resource": "Freedom from forced military service for enemies",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§124] But the crowning misery is that they are compelled to take the field with the enemy in the very cause of slavery and to fight against men who assert their right to freedom..."
+      ],
+      "reasoning": "The text explicitly states that these subjects are compelled by their masters (the Persian King/Lacedaemonians) to fight in wars that further their own enslavement.",
+      "specificity": 4,
+      "specificity_reasoning": "It applies to the populations of the Greek cities in Asia and other territories under Persian or Lacedaemonian hegemony.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Regional political autonomy",
+      "rule_category": "Denial of self-governance",
+      "group": "City-states",
+      "group_category": "Citizenship",
+      "resource": "Right to self-government",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§127] ...while they do not permit the very greatest of our cities to govern even themselves, but try to compel them to submit to slavery or else involve them in the greatest disasters?"
+      ],
+      "reasoning": "Isocrates criticizes the Lacedaemonians for preventing Greek cities from exercising their traditional right to autonomy and self-governance.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule impacts almost all Greek city-states under the Lacedaemonian hegemony.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Lacedaemonian neighbor serfdom",
+      "rule_category": "Mass enslavement or serfdom",
+      "group": "Neighbors of Lacedaemon",
+      "group_category": "Origin",
+      "resource": "Freedom from serfdom",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§131] For we have reason to reproach the Lacedaemonians for this also, that in the interest of their own city they compel their neighbors to live in serfdom..."
+      ],
+      "reasoning": "The text describes a specific policy where the Lacedaemonians reduce surrounding populations (likely the Helots or Messenians) to a state of serfdom for their own economic benefit.",
+      "specificity": 5,
+      "specificity_reasoning": "It specifically targets the populations geographically adjacent to Sparta.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Island resource taxation",
+      "rule_category": "Economic exploitation",
+      "group": "Islanders",
+      "group_category": "Origin",
+      "resource": "Retention of wealth from labor",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§132] ...to undertake such deeds much rather than to levy tribute on the islanders, who are deserving of their pity, seeing that because of the scarcity of land they are compelled to till mountains..."
+      ],
+      "reasoning": "The text identifies a practice of levying tribute on inhabitants of islands, who are already economically disadvantaged by poor land quality, effectively depriving them of their limited resources.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the inhabitants of the Cyclades and other small Greek islands.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Diplomatic immunity comparison",
+      "rule_category": "Legal protection",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Protection from harm during missions",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§149] ...yet they returned in greater security than ambassadors who go to him on a friendly mission."
+      ],
+      "reasoning": "Isocrates uses ambassadors as a benchmark for safety, implying that in his society, ambassadors are granted a high level of security and protection when traveling on missions.",
+      "specificity": 6,
+      "specificity_reasoning": "Ambassadors are a distinct and small professional/political class.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Barbarian religious exclusion",
+      "rule_category": "Exclusion from sacred rites",
+      "group": "Barbarians",
+      "group_category": "Origin",
+      "resource": "Right to participate in sacred mysteries",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§157] at the celebration of the Mysteries, the Eumolpidae and the Kerykes, because of our hatred of the Persians, give solemn warning to the other barbarians also, even as to men guilty of murder, that they are for ever banned from the sacred rites."
+      ],
+      "reasoning": "The text describes a formal religious ban where specific priestly families (Eumolpidae and Kerykes) explicitly exclude all non-Greeks from the Eleusinian Mysteries, treating their status as an inherent pollution comparable to murder.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to all non-Greeks, the rule specifically targets participation in the most prestigious religious ceremonies of the Athenian state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Anti-Persian political speech restriction",
+      "rule_category": "Restriction of political speech",
+      "group": "Athenian citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to propose diplomatic overtures",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§157] in our public assemblies even to this day, before any other business is transacted, the Athenians call down curses upon any citizen who proposes friendly overtures to the Persians."
+      ],
+      "reasoning": "The passage describes a formal, institutionalized ritual (the 'ara') in the Athenian Assembly that creates a legal and religious deterrent against specific political proposals, effectively restricting the range of diplomatic speech allowed to citizens.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any citizen acting within the primary political body of the state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Treasonous defection capital punishment",
+      "rule_category": "Access to judicial protection",
+      "group": "Athenian citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from execution for political defection",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§157] our fathers condemned many to death for defection to the Medes."
+      ],
+      "reasoning": "Isocrates cites historical but legally recognized precedents where citizens lost their right to life for the specific political act of 'Medizing' (defection to the Persians).",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to the category of citizens during times of war or diplomatic crisis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Educational canon preference",
+      "rule_category": "Grant of cultural privilege",
+      "group": "Youth",
+      "group_category": "Age",
+      "resource": "Right to education in ancestral valor",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§159] our ancestors determined to give his art a place of honor in our musical contests and in the education of our youth, in order that we, hearing his verses over and over again, may learn by heart the enmity which stands from of old between us and them."
+      ],
+      "reasoning": "The text explains a deliberate societal rule to include Homeric poetry in the curriculum for the specific purpose of forming citizen identity and ideological hostility toward foreigners.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all male youths undergoing the standard Athenian education.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Military pay prioritization",
+      "rule_category": "Grant of economic privilege",
+      "group": "Foreign mercenaries",
+      "group_category": "Occupation",
+      "resource": "Timely payment of military wages",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§153] they maintained the army under Agesilaus at their own expense for eight months, but they deprived the soldiers who were fighting in the Persian cause of their pay for double that length of time."
+      ],
+      "reasoning": "The text contrasts how the Persians prioritize the payment of their enemies' mercenaries (to bribe/maintain them) over their own troops, showing an arbitrary allocation of concrete financial resources based on political utility.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to specific military divisions under particular commanders.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Subject population political subjection",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Asiatic subjects",
+      "group_category": "Origin",
+      "resource": "Right to political self-determination",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§166] the King holds sway over the people of the continent, not because they are his willing subjects, but because he has surrounded himself with a force which is greater than any of those which they severally possess."
+      ],
+      "reasoning": "Isocrates identifies that the diverse nations of Asia are held in a state of involuntary subjection by military force, denying them the status of willing citizens or autonomous political entities.",
+      "specificity": 1,
+      "specificity_reasoning": "This covers the vast majority of the population of the Persian Empire.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Barbarian sovereignty over Asia",
+      "rule_category": "Territorial exclusion",
+      "group": "Greeks",
+      "group_category": "Origin",
+      "resource": "Right to sovereign control over Asian territories",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§178] But instead of that, they assigned no honor whatsoever to our city or to Lacedaemon, while they set up the barbarian as lord of all Asia; as if we had gone to war for his sake, or as if the rule of the Persians had been long established, and we were only just now founding our cities"
+      ],
+      "reasoning": "Isocrates describes the terms of the King's Peace (Treaty of Antalcidas), which legally formalizes the Persian King's dominion over Greek cities in Asia, stripping the Greek states of their traditional sovereignty in that region.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule affected all Greek inhabitants of Asia Minor and the geopolitical standing of the major Greek city-states.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Barbarian enslavement",
+      "rule_category": "Labor exploitation",
+      "group": "Barbarians",
+      "group_category": "Origin",
+      "resource": "Protection from enslavement and domestic servitude",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§181] For verily it is shameful for us, who in our private life think the barbarians are fit only to be used as household slaves, to permit by our public policy so many of our allies to be enslaved by them"
+      ],
+      "reasoning": "The text explicitly states a social norm in Greek private life where non-Greeks (Barbarians) are considered naturally suited for slavery, indicating a lack of protection from enslavement based on ethnicity.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all non-Greeks encountered by the Greek society in a private or commercial capacity.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreign appropriation of wealth",
+      "rule_category": "Economic extraction",
+      "group": "Barbarians",
+      "group_category": "Origin",
+      "resource": "Right to retain accumulated wealth and possessions",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§182] and it will profit equally both those who crave the quiet life and those who are eager for war; for it will enable the former to reap the fruits of their own possessions in security and the latter to win great wealth from the possessions of our foes.",
+        "[§187] Therefore you must come to my aid and try to picture to yourselves what vast prosperity we should attain if we should turn the war which now involves ourselves against the peoples of the continent, and bring the prosperity of Asia across to Europe."
+      ],
+      "reasoning": "Isocrates advocates for a pan-Hellenic war specifically to seize the material resources of the Persians. The text treats the property of 'Barbarians' as a legitimate target for systematic relocation to Greece.",
+      "specificity": 2,
+      "specificity_reasoning": "The rule targets the entire population of the Persian Empire ('peoples of the continent').",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ally protection from enslavement",
+      "rule_category": "Access to judicial protection",
+      "group": "Greek Allies",
+      "group_category": "Citizenship",
+      "resource": "Protection from foreign enslavement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§176] while those which bring shame upon us and by which many of our allies have been given over to the enemy—these remain intact, and we all regard them as binding upon us",
+        "[§181] it is shameful for us... to permit by our public policy so many of our allies to be enslaved by them"
+      ],
+      "reasoning": "Under the specific legal conditions of the Treaty of Antalcidas, certain Greek allies lost their protection against Persian subjugation and enslavement, a reversal of previous Greek customary protection.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to specific groups of people (allies in specific geographic regions) rather than all Greeks.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Island independence",
+      "rule_category": "Grant of political autonomy",
+      "group": "Island Greeks",
+      "group_category": "Origin",
+      "resource": "Right to political independence and self-governance",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§176] For those which guarantee the independence of the islands and of the cities in Europe have long since been broken and are dead letters on the pillars"
+      ],
+      "reasoning": "Isocrates notes that while the law (engraved on pillars) theoretically grants independence to islanders and European cities, in practice, these groups have lost this autonomy due to the non-enforcement of the treaty's positive clauses.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets specific regional Greek communities.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 7,
+  "_file_id": "tlg0010.tlg011.perseus-eng2",
+  "_input_tokens": 52155,
+  "_output_tokens": 10785,
+  "_model": "google/gemini-3-flash-preview"
+}

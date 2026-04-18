@@ -1,0 +1,88 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Judicial eloquence privilege",
+      "rule_category": "Access to judicial protection",
+      "group": "Princes",
+      "group_category": "Lineage",
+      "resource": "Right to persuasive speech in judgment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] ...whomever of heaven-nourished princes the daughters of great Zeus honor and behold at his birth, they pour sweet dew upon his tongue, and from his lips flow gracious words. All the people look towards him while he settles causes with true judgements: and he, speaking surely, would soon make wise end even of a great quarrel; for therefore are there princes wise in heart, because when the people are being misguided in their assembly, they set right the matter again with ease, persuading them with gentle words."
+      ],
+      "reasoning": "Hesiod describes a specific social and legal function of the 'prince' (basileus). The ability to resolve disputes and'set right' the assembly through divinely-sanctioned eloquence is a resource granted specifically to this elite class, ensuring their control over legal and political outcomes.",
+      "specificity": 8,
+      "specificity_reasoning": "Princes represent a small, elite segment of the population with hereditary authority.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sacrificial meat distribution",
+      "rule_category": "Denial of nutrition",
+      "group": "Mortal men",
+      "group_category": "Origin",
+      "resource": "Right to edible portions of animal sacrifice",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] But for Zeus he put the white bones dressed up with cunning art and covered with shining fat. ... and because of this the tribes of men upon earth burn white bones to the deathless gods upon fragrant altars."
+      ],
+      "reasoning": "The myth of Prometheus at Mecone establishes the societal rule of sacrifice: humans retain the meat (flesh and fat-covered inner parts) while the gods receive the bones. This is a concrete material resource (food/wealth) allocated by religious/customary law.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule applies to all mortal men throughout Hesiodic society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female economic dependency",
+      "rule_category": "Denial of property rights",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to be economic contributors",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] For from her is the race of women and female kind: of her is the deadly race and tribe of women who live amongst mortal men to their great trouble, no helpmeets in hateful poverty, but only in wealth. And as in thatched hives bees feed the drones whose nature is to do mischief... even so Zeus who thunders on high made women to be an evil to mortal men, with a nature to do evil."
+      ],
+      "reasoning": "Hesiod defines women as consumption-oriented beings who do not assist in labor (poverty) but only participate in the consumption of accumulated wealth. This reflects a customary view of women as material drains on the household (oikos) rather than economic partners.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to one half of the human population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Intestate inheritance secondary",
+      "rule_category": "Exclusion from inheritance",
+      "group": "Kinsfolk",
+      "group_category": "Lineage",
+      "resource": "Right to inherit over direct heirs",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] ...whoever avoids marriage and the sorrows that women cause, and will not wed, reaches deadly old age without anyone to tend his years, and though he at least has no lack of livelihood while he lives, yet, when he is dead, his kinsfolk divide his possessions amongst them."
+      ],
+      "reasoning": "The text outlines the legal consequence of remaining unmarried and childless: the individual's property is not passed to a direct heir (son) but is fragmented and divided among collateral kinsfolk, establishing the priority of lineage in property retention.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the kin-groups of unmarried, childless men.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Oath-breaker judicial exclusion",
+      "rule_category": "Legal standing restriction",
+      "group": "Deathless gods",
+      "group_category": "Origin",
+      "resource": "Right to participate in councils and feasts",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] For nine years he is cut off from the eternal gods and never joins their councils or their feasts, nine full years. But in the tenth year he comes again to join the assemblies of the deathless gods who live in the house of Olympus."
+      ],
+      "reasoning": "The text describes a concrete legal penalty for perjury (swearing falsely by Styx). The offender is stripped of political/social participation (councils/assemblies) for a fixed term. While the group is 'gods,' Hesiod presents this as the model for the 'Oath who most troubles men,' reflecting human judicial practice regarding perjury.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to any member of the ruling class/divine status who commits a specific legal infraction.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0020.tlg001.perseus-eng2",
+  "_input_tokens": 17081,
+  "_output_tokens": 1369,
+  "_model": "google/gemini-3-flash-preview"
+}

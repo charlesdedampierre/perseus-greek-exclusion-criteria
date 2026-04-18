@@ -1,0 +1,756 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Occupation",
+      "rule": "Ecclesiastical subjection to the bishop",
+      "group": "presbytery",
+      "resource": "Administrative autonomy",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§1] It is, therefore, seemly in every way to glorify Jesus Christ, who has glorified you, that you may be joined together in one subjection, subject to the bishop and to the presbytery, and may in all things be sanctified. ... For your justly famous presbytery, worthy of God, is attuned to the bishop as the strings to a harp."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a specific hierarchical rule where the presbytery (the council of elders/priests) must be subject to and in total harmony with the bishop, likened to strings governed by a harp.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Heretic exclusion from the assembly",
+      "group": "unbelievers",
+      "resource": "Right to participate in the assembly",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§1] Let no man be deceived: unless a man be within the sanctuary he lacks the bread of God, for if the prayer of one or two has such might, how much more has that of the bishop and of the whole Church? So then he who does not join in the common assembly, is already haughty, and has separated himself."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author outlines a rule of religious exclusion: those who do not participate in the common assembly or hold 'evil doctrine' are considered to have separated themselves and are denied 'the bread of God' (Eucharist).",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Universal obedience to the bishop",
+      "group": "adult male citizens",
+      "resource": "Freedom of action in religious matters",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§1] Therefore it is fitting that you should live in harmony with the will of the bishop, as indeed you do. ... we must regard the bishop as the Lord himself."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text mandates that all members of the Christian community (the group) must align their will and actions with the bishop, effectively removing independent religious jurisdiction for the laity.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Presbyterial subjection to bishops",
+      "group": "priests",
+      "resource": "Autonomy in decision making",
+      "directionality": "LESS",
+      "verbatim": "[§8] It is, therefore, seemly in every way to glorify Jesus Christ, who has glorified you, that you may be joined together in one subjection, subject to the bishop and to the presbytery, and may in all things be sanctified. [...] [§14] Therefore it is fitting that you should live in harmony with the will of the bishop, as indeed you do. For your justly famous presbytery, worthy of God, is attuned to the bishop as the strings to a harp.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes the established hierarchy of the early church, where the presbytery (elders/priests) must be 'attuned' and 'subject' to the bishop, indicating a lack of independent authority for the lower clergy group.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Exclusion from the bread of God",
+      "group": "Foreigners",
+      "resource": "Access to the common assembly",
+      "directionality": "LESS",
+      "verbatim": "[§17] Let no man be deceived: unless a man be within the sanctuary he lacks the bread of God [...] So then he who does not join in the common assembly, is already haughty, and has separated himself.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Ignatius defines a rule of religious exclusion: those who are not part of the specific religious assembly (the sanctuary/community) are barred from receiving the 'bread of God' (Eucharist), which is a material/immaterial resource of the group.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Segregation from heretics",
+      "group": "Foreigners",
+      "resource": "Right of residence and speech",
+      "directionality": "LESS",
+      "verbatim": "[§24] For there are some who make a practice of carrying about the Name with wicked guile, and do certain other things unworthy of God; these you must shun as wild beasts, for they are ravening dogs, who bite secretly, and you must be upon your guard against them [...] [§30] I have learnt, however, that some from elsewhere have stayed with you, who have evil doctrine; but you did not suffer them to sow it among you, and stopped your ears.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of social and religious shunning for those categorized by different religious beliefs (heresy). They are denied the resource of social reception and the right to speak/be heard within the community.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Prisoner protection from execution",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": "[§6] [2] For when you heard that I had been sent a prisoner from Syria for the sake of our common name and hope, in the hope of obtaining by your prayers the privilege of fighting with beasts at Rome, that by so doing I might be enabled to be a true disciple, you hastened to see me.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Ignatius describes his status as a prisoner (a temporary loss of freedom) which entails the loss of protection from capital punishment ('fighting with beasts').",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Obedience to church leadership",
+      "group": "the faithful",
+      "resource": "Right to participate in breaking bread",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§68] [2] especially if the Lord reveal to me that you all severally join in the common meeting in grace from his name, in one faith and in Jesus Christ, who was of the family of David according to the flesh, the Son of Man and the Son of God, so that you obey the bishop and the presbytery with an undisturbed mind, breaking one bread, which is the medicine of immortality, the antidote that we should not die, but live for ever in Jesus Christ."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a rule of ecclesiastical order where the general group of believers must obey specific occupational groups (bishop and presbytery) as a condition of their unified participation in the ritual of breaking bread.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Adulterer exclusion from inheritance",
+      "group": "those who corrupt families",
+      "resource": "Right to inherit the kingdom of God",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§54] [1] Do not err, my brethren; they who corrupt families shall not inherit the kingdom of God."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific category of people (those who 'corrupt families', referring to sexual immorality/adultery 'according to the flesh') and explicitly states they lose the resource of divine inheritance.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "False teacher capital punishment",
+      "group": "those who corrupt families according to the flesh",
+      "resource": "Protection from the death penalty",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§55] [2] If then those who do this according to the flesh suffer death, how much more if a man corrupt by false teaching the faith of God for the sake of which Jesus Christ was crucified?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author refers to a contemporary or existing legal/religious reality where those who commit carnal sins ('corrupt families according to the flesh') are subject to death, using this as a rhetorical ladder to describe the spiritual fate of false teachers.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Universal meeting obligation",
+      "group": "the faithful",
+      "resource": "Access to common meetings",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§43] Seek, then, to come together more frequently to give thanks and glory to God. For when you gather together frequently the powers of Satan are destroyed, and his mischief is brought to nothing, by the concord of your faith."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a norm or rule for the religious community to gather frequently, framing the gathering as a communal resource that provides protection from spiritual 'mischief'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Respect for youthful bishops",
+      "group": "young people",
+      "resource": "Right to exercise ecclesiastical authority",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§81] Now it becomes you not to presume on the youth of the bishop, but to render him all respect according to the power of God the Father, as I have heard that even the holy presbyters have not taken advantage of his outwardly youthful appearance, but yield to him in their godly prudence, yet not to him, but to the Father of Jesus Christ, to the bishop of all."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly commands the community not to let the age of the bishop (youth) undermine his authority or the respect due to his office, suggesting that in this society, age was a potential barrier to authority that the rule explicitly overrides.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Deacon subjection to higher clergy",
+      "group": "deacons",
+      "resource": "Right to autonomous action",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§79] Forasmuch then as I was permitted to see you in the person of Damas, your godly bishop... and the deacon Zotion, whose friendship I would enjoy because he is subject to the bishop as to the grace of God, and to the presbytery as to the law of Jesus Christ"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies the deacon's virtuous status specifically through his subjection to the bishop and presbytery, establishing a hierarchical rule based on religious occupation/rank.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Presbyterial submission to bishops",
+      "group": "priests",
+      "resource": "Right to independent governance",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§81] as I have heard that even the holy presbyters have not taken advantage of his outwardly youthful appearance, but yield to him in their godly prudence, yet not to him, but to the Father of Jesus Christ, to the bishop of all."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the presbyters (priests/elders) yielding to the bishop as a normative expectation of the religious structure, thereby limiting their own administrative autonomy.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Christian exclusion of Jewish practice",
+      "group": "Christians",
+      "resource": "Right to practice Judaism",
+      "directionality": "LESS",
+      "verbatim": [
+        "It is monstrous to talk of Jesus Christ and to practise Judaism. For Christianity did not base its faith on Judaism, but Judaism on Christianity, and every tongue believing on God was brought together in it."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author establishes a strict boundary for the group 'Christians', forbidding them from the resource of practicing Jewish customs (Judaism) as a matter of communal rule.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Sabbath observance replacement",
+      "group": "Christians",
+      "resource": "Right to observe the Sabbath",
+      "directionality": "LESS",
+      "verbatim": [
+        "If then they who walked in ancient customs came to a new hope, no longer living for the Sabbath, but for the Lord’s Day, on which also our life sprang up through him and his death... we suffer, that we may be found disciples of Jesus Christ our only teacher"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a transition in religious practice where the group (disciples/Christians) is expected to abandon the resource of the Sabbath in favor of the Lord's Day.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Clerical oversight of communal actions",
+      "group": "Laity",
+      "resource": "Right to independent communal action",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§91] As then the Lord was united to the Father and did nothing without him, neither by himself nor through the Apostles, so do you do nothing without the bishop and the presbyters. Do not attempt to make anything appear right for you by yourselves, but let there be in common one prayer, one supplication, one mind, one hope in love"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of ecclesiastical hierarchy where the general members of the community (the group) are prohibited from performing communal or religious acts independently of the specific clerical offices (bishop and presbyters).",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Divine grace through Christian identification",
+      "group": "Jews",
+      "resource": "Access to divine grace",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§95] For if we are living until now according to Judaism, we confess that we have not received grace."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text claims that those remaining within the religious framework of Judaism are excluded from the spiritual 'resource' of grace, which is here reserved for the Christian group.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Subjection to church hierarchy",
+      "group": "Laity",
+      "resource": "Autonomy from ecclesiastical authority",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§110] Be subject to the bishop and to one another, even as Jesus Christ was subject to the Father, and the Apostles were subject to Christ and to the Father, in order that there may be a union both of flesh and of spirit."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text mandates a structural subjection where the general members of the group are required to submit to the authority of the bishop, thereby losing personal or collective autonomy within the organization.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Prisoner status inferiority",
+      "group": "Prisoners",
+      "resource": "Social and spiritual parity",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§107] For even though I am in bonds I am not to be compared to one of you that have been set free."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes between those in bonds and those who are free, explicitly stating that a prisoner (even a religious leader) lacks the status or standing to be compared to the free members of the group.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Ecclesiastical subjection to bishops",
+      "group": "Congregation",
+      "resource": "Right to act independently of leadership",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§121] For when you are in subjection to the bishop as to Jesus Christ it is clear to me that you are living not after men, but after Jesus Christ... [§123] Therefore it is necessary (as is your practice) that you should do nothing without the bishop, but be also in subjection to the presbytery, as to the Apostles of Jesus Christ our hope."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes the mandatory operational structure of the church where the general members (congregation) are prohibited from performing any religious or community actions without the authorization of the bishop.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Clerical authority over church definition",
+      "group": "Deacons, Presbyters, and Bishops",
+      "resource": "Right to constitute a church",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§126] Likewise let all respect the deacons as Jesus Christ, even as the bishop is also a type of the Father, and the presbyters as the council of God and the college of Apostles. Without these the name of Church is not given."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that the presence and recognition of specific clerical offices are the necessary criteria for a group to be legally/spiritually defined as a 'Church'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Heretic exclusion from purity",
+      "group": "Heretics",
+      "resource": "Right to be considered pure in conscience",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§140] He who is within the sanctuary is pure, but he who is without the sanctuary is not pure; that is to say whoever does anything apart from the bishop and the presbytery and the deacons is not pure in his conscience."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author defines those who act outside the established religious hierarchy and doctrine (heretics/those 'without') as lacking the resource of spiritual purity or a clear conscience.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Instructional limitations for the young",
+      "group": "Babes (young/immature converts)",
+      "resource": "Access to advanced theological knowledge",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§133] Am I not able to write to you heavenly things? Yes, but I am afraid that I should do you harm seeing you are babes. Pardon me, for I refrain lest you be choked by what you cannot receive."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author restricts the dissemination of 'heavenly things' (advanced doctrine) based on the spiritual age/maturity of the recipients, viewing them as incapable of handling the resource.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Clerical support for the Bishop",
+      "group": "presbyters",
+      "resource": "Right to exercise independent authority",
+      "directionality": "LESS",
+      "verbatim": "[§154] [2] For it is right that each of you, and especially the presbyters, should refresh the bishop, to the honour of the Father, of Jesus Christ, and of the Apostles. [...] [§158] [2] Submit yourselves to the bishop as to the commandment, and likewise to the presbytery.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a hierarchy where presbyters are specifically tasked with supporting ('refreshing') the bishop and the laity is commanded to submit to the bishop's authority as a divine mandate.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Unbeliever exclusion from community",
+      "group": "unbelievers",
+      "resource": "Right of communal belonging",
+      "directionality": "LESS",
+      "verbatim": "[§147] But if, as some affirm who are without God,—that is, are unbelievers—his suffering was only a semblance (but it is they who are merely a semblance) [...] [§149] Fly from these wicked offshoots, which bear deadly fruit, which if a man eat he presently dies.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author classifies those with differing theological views as 'unbelievers' and 'without God,' instructing the in-group to 'fly from' them, effectively removing their access to the social and spiritual community.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Apostolic legal status",
+      "group": "Apostles",
+      "resource": "Freedom from enslavement",
+      "directionality": "MORE",
+      "verbatim": "[§160] I do not order you as did Peter and Paul; they were Apostles, I am a convict; they were free, I am even until now a slave. But if I suffer I shall be Jesus Christ’s freedman, and in him I shall rise free.",
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Ignatius contrasts his own status as a 'convict' and 'slave' (likely referring to his prisoner status/legal chains) with that of the Apostles Peter and Paul, who he identifies as 'free' under the law/society of their time.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Christian exclusion from world-pleasing",
+      "group": "Christians",
+      "resource": "Right to social acceptance (heathen)",
+      "directionality": "LESS",
+      "verbatim": "[§141] Give no occasion to the heathen, in order that the congregation of God may not be blasphemed for a few foolish persons. [...] [§160] Christianity is not the work of persuasiveness, but of greatness, when it is hated by the world.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Ignatius frames the Christian group as inherently 'hated by the world' and instructs members to avoid behaviors (like grudges) that would give 'the heathen' cause to further attack the group's reputation.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Freedom",
+      "group": "Convicts",
+      "resource": "Right to issue commands",
+      "directionality": "LESS",
+      "rule": "Convict exclusion from apostolic authority",
+      "verbatim": [
+        "[§176] [3] I do not order you as did Peter and Paul; they were Apostles, 1 am a convict; they were free, I am even until now a slave."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Ignatius contrasts his status as a prisoner ('convict'/'slave') with that of the 'free' Apostles (Peter and Paul), stating that because of his current legal status, he lacks the authority to issue orders to the church as they did.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "group": "Christians",
+      "resource": "Protection from world hatred",
+      "directionality": "LESS",
+      "rule": "Christianity's exposure to societal hatred",
+      "verbatim": [
+        "[§172] [3] Christianity is not the work of persuasiveness, but of greatness, when it is hated by the world."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author defines the religious group (Christians) as being characterized by the fact that they are 'hated by the world', indicating a lack of the resource of social protection or acceptance.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "group": "Bishops",
+      "resource": "Right to lead the local church",
+      "directionality": "MORE",
+      "rule": "Bishop oversight of regional churches",
+      "verbatim": [
+        "[§166] ...that God has vouchsafed that the bishop of Syria shall be found at the setting of the sun, having fetched him from the sun’s rising.",
+        "[§194] [1] Remember in your prayers the Church in Syria which has God for its Shepherd in my room. Its bishop shall be Jesus Christ alone,—and your love."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific office (Bishop) associated with the governance and 'shepherding' of a regional church (Syria), denoting the resource of religious leadership.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "group": "Foreigners",
+      "resource": "Right to hospitality and support",
+      "directionality": "MORE",
+      "rule": "Christian traveler refreshment requirement",
+      "verbatim": [
+        "[§199] [2] Concerning those who have preceded me from Syria to Rome to the glory of God... it is right for you to refresh them in every way."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of conduct for the Roman church to provide 'refreshment' (support/hospitality) to foreign travelers ('those who have preceded me from Syria') on the basis of their shared religious identity.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Schismatic exclusion from the Kingdom",
+      "group": "Schismatics",
+      "resource": "Right to inherit the Kingdom of God",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§210] Be not deceived, my brethren, if any one follow a maker of schism, he does not inherit the kingdom of God; if any man walk in strange doctrine he has no part in the Passion."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a clear exclusionary rule where individuals who follow schismatic leaders or separate from the church unity are barred from the spiritual resource of inheriting the Kingdom. This is presented as a general rule governing the Christian community.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Clerical authority over rituals",
+      "group": "Laity",
+      "resource": "Right to perform independent Eucharist",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§214] Be careful therefore to use one Eucharist (for there is one flesh of our Lord Jesus Christ, and one cup for union with his blood, one altar, as there is one bishop with the presbytery and the deacons my fellow servants), in order that whatever you do you may do it according unto God."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Ignatius mandates that the Eucharist be conducted only under the authority of the bishop and clergy, effectively removing the resource of independent ritual practice from the general group of believers.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Judaizing teaching restriction",
+      "group": "Uncircumcised persons",
+      "resource": "Right to teach Judaism in Church",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§219] But if anyone interpret Judaism to you do not listen to him; for it is better to hear Christianity from the circumcised than Judaism from the uncircumcised."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule regarding who may provide religious interpretation, specifically barring the uncircumcised from teaching Judaism to the community, thereby restricting their influence and teaching rights.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Episcopal authority over the community",
+      "group": "Citizens (Church members)",
+      "resource": "Autonomy in collective action",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§201] I spoke with a great voice,— with God’s own voice,—Give heed to the bishop. and to the presbytery and deacons... Do nothing without the bishop, keep your flesh as the temple of God, love unity, flee from divisions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage codifies a rule of total subjection to the bishop ('Do nothing without the bishop'), which reduces the autonomy of the church members in favor of centralized clerical authority.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Ecclesiastical obedience to bishops",
+      "group": "Deacons",
+      "resource": "Right to act independently",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§223] I cried out while I was with you, I spoke with a great voice,— with God’s own voice,—Give heed to the bishop. and to the presbytery and deacons. [...] Do nothing without the bishop, keep your flesh as the temple of God, love unity, flee from divisions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Ignatius establishes a clear hierarchy where the lower clergy (deacons) are ordered to take no significant action without the authorization or oversight of the bishop, effectively reducing their autonomy within the church structure.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Bishop's role in communal reconciliation",
+      "group": "Bishops",
+      "resource": "Authority over communal repentance",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§226] The Lord then forgives all who repent, if their repentance lead to the unity of God and the council of the bishop."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that divine forgiveness is conditionally linked to the 'council of the bishop,' granting the person in this office the immaterial resource of spiritual and communal gatekeeping during the process of repentance.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Diplomatic representation by deacons",
+      "group": "Deacons",
+      "resource": "Right to act as ambassador",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§232] Since it was reported to me that the Church which is in Antioch in Syria is in peace [...] it is proper for you, as a Church of God, to appoint a deacon to go as the ambassador of God to it, to congratulate those who are gathered together, and to glorify the Name."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies deacons as the specific group eligible for the role of 'ambassador of God' to represent one church to another, a positive grant of diplomatic and political influence within the Christian community.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Prophetic exclusion from the Holy of Holies",
+      "group": "Prophets",
+      "resource": "Access to the secret things of God",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§229] The priests likewise are noble, but the High Priest who has been entrusted with the Holy of Holies is greater, and only to him have the secret things of God been entrusted. He is the door of the Father, through which enter Abraham and Isaac and Jacob and the Prophets and the Apostles and the Church."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Ignatius distinguishes between the 'High Priest' (Christ) and other religious figures like the Prophets or Apostles. He explicitly states that 'only' the High Priest is entrusted with secret things, meaning other holy groups (Prophets) have less direct access to these immaterial resources.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Exclusion of heretics from fellowship",
+      "group": "Unbelievers",
+      "resource": "Right to social and communal reception",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§250] But I guard you in advance against beasts in the form of men, whom you must not only not receive, but if it is possible not even meet, but only pray for them, if perchance they may repent, difficult though that be,—but Jesus Christ who is our true life has the power over this."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a communal rule regarding individuals held to have 'strange opinions' or who 'deny' the nature of Christ, explicitly commanding the congregation to deny them reception or even social meetings.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Episcopal authorization for sacraments",
+      "group": "Laity",
+      "resource": "Right to perform baptisms or agape",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§238] It is not lawful either to baptise or to hold an agape without the bishop; but whatever he approve, this is also pleasing to God, that everything which you do may be secure and valid."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text outlines a clear restriction on the performance of religious rites based on ecclesiastical office (Occupation), stating that those without the bishop's approval lack the lawful right to conduct specific communal rituals.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Episcopal control of church activities",
+      "group": "Presbyters and Deacons",
+      "resource": "Right to independent church action",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§238] Let no one do any of the things appertaining to the Church without the bishop. Let that be considered a valid Eucharist which is celebrated by the bishop, or by one whom he appoints."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The rule subordinates all other church officials and members to the Bishop, removing their right to perform valid sacraments or church business independently.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Heretic exclusion from public discourse",
+      "group": "Unbelievers",
+      "resource": "Right to be spoken of in public",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§238] It is right to refrain from such men and not even to speak about them in private or in public, but to give heed to the prophets and especially to the Gospel, in which the Passion has been revealed to us and the Resurrection has been accomplished."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This is a social rule of shunning based on religious criteria, where the group 'unbelievers' or 'those with strange opinions' are deprived of the resource of being discussed or acknowledged in the community's public or private discourse.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Heretic social and public exclusion",
+      "group": "Metics / Foreigners",
+      "resource": "Right to public and private speech",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§262] [2] It is right to refrain from such men and not even to speak about them in private or in public, but to give heed to the prophets and especially to the Gospel, in which the Passion has been revealed to us and the Resurrection has been accomplished."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a rule for the community to socially isolate those with dissenting religious views (heretics), stripping them of the resource of social interaction and public/private recognition.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Episcopal authorization for sacraments",
+      "group": "priests",
+      "resource": "Right to perform baptisms and feasts",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§265] [2] Wherever the bishop appears let the congregation be present; just as wherever Jesus Christ is, there is the Catholic Church. It is not lawful either to baptise or to hold an agape without the bishop; but whatever he approve, this is also pleasing to God, that everything which you do may be secure and valid."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a clear administrative rule where lower clergy or lay members lack the authority to perform key religious rites (baptism/agape) without the explicit approval or presence of the bishop.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Ecclesiastical administrative autonomy",
+      "group": "priests",
+      "resource": "Right to act without episcopal oversight",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§264] [1] ...Let no one do any of the things appertaining to the Church without the bishop. Let that be considered a valid Eucharist which is celebrated by the bishop, or by one whom he appoints."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This rule subordinates all church officials and members to the bishop, removing their resource of independent action in church matters.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Exclusion from Eucharist for dissenters",
+      "group": "Metics / Foreigners",
+      "resource": "Access to the Eucharist",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§260] Th ey abstain from Eucharist and prayer, because they do not confess that the Eucharist is the flesh of our Saviour Jesus Christ who suffered for our sins, which the Father raised up by his goodness."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a group defined by their religious 'strange opinions' who are excluded (or exclude themselves via rule-bound doctrinal deviation) from the communal resource of the Eucharist.",
+      "confidence": 9
+    },
+    {
+      "criteria": "High order of generality",
+      "rule": "Judicial immunity for high office",
+      "group": "kings",
+      "resource": "Protection from status-based exaltation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§258] [1] ...Let not office exalt anyone, for faith and love is everything, and nothing has been preferred to them."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author asserts a communal norm where holding a high 'office' (secular or religious) should not grant the resource of superiority or 'exaltation' over the fundamental criteria of faith.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Widow protection by the bishop",
+      "group": "Widows",
+      "resource": "Protection from neglect",
+      "directionality": "MORE",
+      "verbatim": "[§295] Let not the widows be neglected. Be yourself their protector after the Lord. Let nothing be done without your approval, and do nothing yourself without God, as indeed you do nothing; stand fast.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author specifically identifies widows as a group requiring the institutional protection and oversight of the bishop to ensure they are not neglected within the community.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave manumission restriction",
+      "group": "Slaves",
+      "resource": "Right to communal manumission",
+      "directionality": "LESS",
+      "verbatim": "[§295] Do not be haughty to slaves, either men or women; yet do not let them be puffed up, but let them rather endure slavery to the glory of God, that they may obtain a better freedom from God. Let them not desire to be set free at the Church’s expense, that they be not found the slaves of lust.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a community norm where slaves are discouraged from seeking manumission funded by the common church fund, instructing them to remain in their status.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Episcopal marriage consent",
+      "group": "Men and women who marry",
+      "resource": "Right to autonomous marriage",
+      "directionality": "LESS",
+      "verbatim": "[§299] But it is right for men and women who marry to be united with the consent of the bishop, that the marriage be according to the Lord and not according to lust. Let all things be done to the honour of God.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Social regulation of the group (those marrying) is achieved by requiring the bishop's approval for their union, thereby limiting individual choice in favor of institutional oversight.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Clerical subordination to bishops",
+      "group": "Presbyters and deacons",
+      "resource": "Right to institutional autonomy",
+      "directionality": "LESS",
+      "verbatim": "[§302] I am devoted to those who are subject to the bishop, presbyters, and deacons; and may it be mine to have my lot with them in God. Labour with one another, struggle together, run together, suffer together, rest together, rise up together as God’s stewards and assessors and servants.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly defines presbyters and deacons as groups 'subject to the bishop', establishing a hierarchy of power within the early Church offices.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Christian self-determination restriction",
+      "group": "Christians",
+      "resource": "Right to personal autonomy",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§308] [3] A Christian has no power over himself, but gives his time to God."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author defines a rule for the Christian group where members lack the resource of personal autonomy ('power over himself'), subordinating their agency and time to the deity.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Bishops' authority to appoint couriers",
+      "group": "priests",
+      "resource": "Authority to appoint official messengers",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§307] [2] You ought, O Polycarp, most blessed of God, to summon a godly council, and elect someone who is very dear to you and is zealous, who can be called God’s courier; appoint him to go to Syria to glorify your zealous love to the glory of God."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Ignatius instructs Polycarp (a bishop/leader) on his right and duty to organize a council and appoint individuals to specific diplomatic roles ('God’s courier'), reflecting the administrative powers of church leadership.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 14,
+  "_file_id": "tlg1443.tlg001.perseus-eng1",
+  "_input_tokens": 83572,
+  "_output_tokens": 11126,
+  "_model": "google/gemini-3-flash-preview"
+}

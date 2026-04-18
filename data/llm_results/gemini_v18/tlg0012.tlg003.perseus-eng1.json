@@ -1,0 +1,89 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Stranger's right to hospitality",
+      "rule_category": "Access to social support",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to shelter and food",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Have reverence for him who needs a home and stranger’s dole, all ye who dwell in the high city of Cyme, the lovely maiden, hard by the foothills of lofty Sardene, ye who drink the heavenly water of the divine stream, eddying Hermus, whom deathless Zeus begot."
+      ],
+      "reasoning": "The text invokes a religious and social obligation for the inhabitants of a city to provide 'dole' (provisions) and a home to those in need who are traveling or from elsewhere, framing it as an act of 'reverence'.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the broad category of 'strangers' or travelers moving between poleis, which was a common occurrence in ancient Greek society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Host's duty of protection",
+      "rule_category": "Sanction for mistreatment",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Protection from deception by hosts",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] Also may I avenge me on the wretch who deceived me and grieved Zeus the lord of guests and his own guest-table.",
+        "[§8] Sailors, who rove the seas and whom a hateful fate has made as the shy sea-fowl, living an unenviable life, observe the reverence due to Zeus who rules on high, the god of strangers; for terrible is the vengeance of this god afterwards for whosoever has sinned."
+      ],
+      "reasoning": "The text highlights the existence of 'Xenia' (guest-friendship) where a guest has a recognized right to honest treatment at a 'guest-table'. Violations are met with both the threat of personal vengeance and divine sanction.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a fundamental cultural rule governing interactions between any host and any traveler in this Mediterranean context.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prince's right of assembly",
+      "rule_category": "Access to political speech",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Right to sit in assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] wealth will make a house great, and reverend princes seated in assembly are a goodly sight for the folk to see."
+      ],
+      "reasoning": "The text identifies 'princes' (basileis) as the specific group that populates the assembly, indicating that political deliberation/office is a resource tied to high lineage and status.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies to an elite minority ('princes') within the broader population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Artisan's reward for service",
+      "rule_category": "Economic exchange",
+      "group": "Artisans",
+      "group_category": "Occupation",
+      "resource": "Right to payment for skill",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] Potters, if you will give me a reward, I will sing for you. ... Grant that the potters may get great gain and grant me so to sing to them."
+      ],
+      "reasoning": "The text describes an exchange where artisans (potters) and poets engage in a transaction for mutual gain. It established the expectation of payment ('reward') for services rendered.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those in the pottery trade or similar professional crafts.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Property-based class identity",
+      "rule_category": "Social stratification",
+      "group": "Landless poor",
+      "group_category": "Wealth",
+      "resource": "Right to hold rich lands or livestock",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] Ay, for of such fathers you are sprung as neither hold rich lands nor tend countless sheep."
+      ],
+      "reasoning": "The text uses the absence of land ownership and livestock as a defining characteristic of a specific class of people (the families of the fishermen), contrasting them with the landed elite.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes a large segment of the non-elite population whose identity is defined by their lack of resources.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0012.tlg003.perseus-eng1",
+  "_input_tokens": 5873,
+  "_output_tokens": 1214,
+  "_model": "google/gemini-3-flash-preview"
+}

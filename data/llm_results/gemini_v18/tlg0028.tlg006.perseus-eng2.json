@@ -1,0 +1,171 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Post-conviction civic exclusion",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Convicted murderers",
+      "group_category": "Legal status",
+      "resource": "Freedom of movement to sacred and civic sites",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] Once you condemn him, a defendant must perforce accept your verdict, even if he was not the murderer or concerned in the crime. The law banishes him from his city, its temples, its games, and its sacrifices, the greatest and the most ancient of human institutions; and he must acquiesce."
+      ],
+      "reasoning": "The text explicitly describes the legal consequences of a murder conviction: the loss of the right to remain in the city and participate in its religious and social life.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies specifically to a small subset of the population who have been legally convicted of a specific capital crime.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Homicide suspect self-exclusion",
+      "rule_category": "Protection from ritual pollution",
+      "group": "Homicide suspects",
+      "group_category": "Legal status",
+      "resource": "Right to enter sacred spaces",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] So powerful is the compulsion of the law, that even if a man slays one who is his own chattel and who has none to avenge him, his fear of the ordinances of god and of man causes him to purify himself and withhold himself from those places prescribed by law, in the hope that by so doing he will best avoid disaster."
+      ],
+      "reasoning": "The text indicates that law and custom require even those who kill their own slaves ('chattel') to stay away from certain prescribed (sacred) places until purified, effectively a temporary loss of religious access rights.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to any individual who has committed a homicide, regardless of the status of the victim.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prosecutorial oath requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Homicide defendants",
+      "group_category": "Legal status",
+      "resource": "Protection from unsworn accusations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] The prosecution swore that I was responsible for the death of Diodotus as having instigated the act which led to it; whereas I swore that I did not cause his death, whether by my own act or by instigation."
+      ],
+      "reasoning": "The text references the 'sworn statements' required of both parties in a murder trial, which serves as a legal protection ensuring that accusations are made under religious sanction.",
+      "specificity": 8,
+      "specificity_reasoning": "This is a specific procedural rule for murder trials (dikē phonou).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave admissibility under torture",
+      "rule_category": "Legal standing restriction",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify without torture",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§23] As to the slaves, if he considered that they were answering his questions truthfully, well and good; if he did not, I was ready to place all my own at his disposal for examination under torture, and should he demand any that did not belong to me, I agreed to obtain the consent of their owner and hand them over to him to examine as he liked."
+      ],
+      "reasoning": "In Athenian law, as reflected in this challenge, a slave's testimony was only legally rigorous or 'verifiable' through 'basanos' (judicial torture). The slave does not have the right to have their word accepted on oath like a free man.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire enslaved population of the city.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Liturgical recruitment authority",
+      "rule_category": "Grant of economic privilege",
+      "group": "Choregi",
+      "group_category": "Wealth",
+      "resource": "Right to recruit labor for festivals",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] Next, I recruited the best chorus that I could, without indicting a single fine, without extorting a single pledge, and without making a single enemy."
+      ],
+      "reasoning": "A Choregus (a wealthy citizen funding a festival) had the legal power to recruit children for choruses and could even use fines or 'pledges' (seizures) to enforce cooperation, showing a specific grant of local coercive power.",
+      "specificity": 9,
+      "specificity_reasoning": "Only a very small number of the wealthiest citizens were appointed as Choregi each year.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave testimony under torture",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify without torture",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§25] You do not need to be reminded, gentlemen, that the one occasion when compulsion is as absolute and as effective as is humanly possible [...] arises when there is an abundance of witnesses, both slave and free, and it is possible to put pressure upon the free men by exacting an oath or word of honor [...] and upon the slaves by other devices, which will force them to tell the truth even if their revelations are bound to cost them their lives."
+      ],
+      "reasoning": "The text explicitly contrasts the 'oath' used for free men with 'other devices' (judicial torture) used to compel slaves to tell the truth in legal matters, even at the risk of their lives.",
+      "specificity": 2,
+      "specificity_reasoning": "This relates to the general legal standing of the entire slave population in Athenian homicide trials.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Murder charge disability",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Accused murderers",
+      "group_category": "Legal standing",
+      "resource": "Right to access public and sacred spaces",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§35] On the other hand, could they but induce my accusers here to register a charge and proclaim that I was under the statutory ban, they would, they thought, be safely rid of the whole business.",
+        "[§36] The law runs that the ban comes into force as soon as anyone has a charge of murder registered against him; and if placed under it, not only should I myself have been unable to proeeed with my case, but once the party responsible for the impeachment and in possession of the facts failed to proceed, the four would gain an acquittal without difficulty."
+      ],
+      "reasoning": "The text describes a 'statutory ban' or 'proclamation' that automatically triggers upon the registration of a murder charge, preventing the accused from entering public spaces like courts or the Council-chamber.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies to any individual currently facing a registered murder charge, which is a specific legal subgroup.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prosecutorial time limits",
+      "rule_category": "Legal procedure",
+      "group": "Magistrates",
+      "group_category": "Occupation",
+      "resource": "Right to hand over pending cases to successor",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§42] It would thus clearly have been impossible for him to bring the case into court during his own period of office; and he is not allowed to hand on an action for murder to his successor; such a thing has never been done by any Basileus in this country."
+      ],
+      "reasoning": "The text states a specific legal restriction on the Basileus (King Archon) preventing him from transferring an active murder prosecution to the person following him in office.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule applies only to a single high-ranking magistrate (the Basileus) regarding specific types of cases.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious exclusion for accused",
+      "rule_category": "Religious access",
+      "group": "Accused murderers",
+      "group_category": "Legal standing",
+      "resource": "Right to participate in sacrifices and enter temples",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§45] ...why, in that very chamber itself stands a shrine of Zeus the Councillor and Athena the Councillor, where members offer prayers as they enter; and I was one of those members: I did as they did: in their company I entered all our other sanctuaries: I offered sacrifices and prayers on behalf of this city...",
+        "[§46] And the prosecution were in Athens: they witnessed it: by registering their charge they could have debarred me from it all."
+      ],
+      "reasoning": "The defendant argues that if the murder charge had been registered, he would have been legally/religiously debarred from entering sanctuaries and participating in civic sacrifices.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual formally accused of murder during the period of their trial.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Council membership suspension",
+      "rule_category": "Political power",
+      "group": "Accused murderers",
+      "group_category": "Legal standing",
+      "resource": "Right to serve in the Council",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§46] And the prosecution were in Athens: they witnessed it: by registering their charge they could have debarred me from it all."
+      ],
+      "reasoning": "Registration of a homicide charge results in an immediate 'ban' that prevents a citizen from exercising their duties as a member of the Council (Boule) or acting as a Prytanis.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to Council members who are formally accused of murder.",
+      "confidence": 10
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg0028.tlg006.perseus-eng2",
+  "_input_tokens": 15223,
+  "_output_tokens": 2584,
+  "_model": "google/gemini-3-flash-preview"
+}

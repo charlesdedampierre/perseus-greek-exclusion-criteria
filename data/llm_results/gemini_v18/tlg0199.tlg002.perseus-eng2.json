@@ -1,0 +1,88 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Public assembly participation",
+      "rule_category": "Access to political speech",
+      "group": "Male citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to participate in the assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Then heralds rushed through the broad town and brought together the ranks of the Trojans into the assembly-place of the army."
+      ],
+      "reasoning": "The text describes the formal summoning of the 'ranks' (the male military/citizen body) to a specific political space (the assembly-place) to hear the speech of leaders, indicating a structured right to assembly for this group.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad class of male citizens/soldiers within the city-state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maiden protection from assault",
+      "rule_category": "Protection of bodily integrity",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Protection from non-consensual physical contact",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] He no longer kept his hand away from the maiden; he touched her white cheeks. And Eriboea cried out to the descendant of Pandion with his bronze breastplate. Theseus saw, and he rolled his dark eyes under his brows; cruel pain tore his heart, and he spoke: Son of greatest Zeus, the spirit you guide in your heart is no longer pious. Hero, restrain your overbearing force."
+      ],
+      "reasoning": "Theseus's immediate and violent verbal intervention against King Minos for touching Eriboea characterizes such an act as 'impious' and 'overbearing force', showing a social rule that maidens are entitled to protection from unwanted physical advances by men in power.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to unmarried women (maidens) in public or shared spaces.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Consent in sexual union",
+      "rule_category": "Marriage restriction",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to refuse sexual subdual",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] And so, war-lord of Knossos, I bid you to restrain your grievous violence; for I would not want to see the lovely immortal light of Dawn if you were to subdue one of these young people against her will."
+      ],
+      "reasoning": "Theseus explicitly threatens death or combat to prevent the king from 'subduing' a young person 'against her will,' establishing that the use of force to compel sexual or physical submission is a violation of a hero's code of justice.",
+      "specificity": 4,
+      "specificity_reasoning": "Targeted at the protection of high-status youths being transported for tribute.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Hereditary political legitimacy",
+      "rule_category": "Access to political succession",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to succeed to kingship",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] What is it that tears your heart? Speak; for I think that you of all mortals have the aid of valiant young men at your disposal, son of Pandion and Creusa."
+      ],
+      "reasoning": "The chorus addresses Aegeus by his lineage (son of Pandion and Creusa) and links his kingly authority to his ancestry, reflecting the rule that political power is accessed through legitimate descent from the previous ruler.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies only to the royal line and its immediate heirs.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Border protection duty",
+      "rule_category": "Access to judicial protection",
+      "group": "Landowners",
+      "group_category": "Wealth",
+      "resource": "Protection from resource theft",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] Does some enemy of our land beset our borders, leading an army? Or are evil-plotting robbers, against the will of the shepherds, rustling our flocks of sheep by force?"
+      ],
+      "reasoning": "The King's duty to respond to the 'war song' is framed around protecting the borders and the property (flocks) of the inhabitants from 'robbers' and 'force,' indicating a societal rule that the state provides protection for livestock and land assets.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to those who own livestock and land near the borders.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0199.tlg002.perseus-eng2",
+  "_input_tokens": 7054,
+  "_output_tokens": 1215,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,908 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Age",
+      "rule": "Age-based sensory leading",
+      "group": "cattle",
+      "resource": "Reasoning faculty",
+      "directionality": "LESS",
+      "verbatim": "[§12] Some of these people have even expressly declared that the soul possesses no reasoning faculty, but that we are led like cattle by the impression of our senses, and are unable to refuse or dissent from anything.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author describes a philosophical school's view that animals (and by extension humans under their theory) lack a reasoning faculty and are governed purely by sensory impressions, contrasting this with the 'better' view of innate ideas.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Anatomical knowledge of butchers",
+      "group": "butchers",
+      "resource": "Functional anatomical knowledge",
+      "directionality": "MORE",
+      "verbatim": "[§13] That these are organs for secreting [separating out] the urine, was the belief not only of Hippocrates... but practically every butcher is aware of this, from the fact that he daily observes both the position of the kidneys and the duct (termed the ureter).",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies butchers as a group possessing specific empirical knowledge of organ function due to their daily occupational activities, distinguishing them from sophist philosophers who ignore physical evidence.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Nephritic identification by symptoms",
+      "group": "nephritics",
+      "resource": "Recognition of medical condition",
+      "directionality": "MORE",
+      "verbatim": "[§13] But, even leaving the butchers aside, all people who suffer either from frequent dysuria or from retention of urine call themselves nephritics, when they feel pain in the loins and pass sandy matter in their water.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author defines a group by a health condition (urinary distress) and notes their ability to identify their own ailment based on specific physical symptoms, which serves as a rule-based categorization in clinical practice.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Education",
+      "rule": "Sophist exclusion from learning",
+      "group": "Sophists",
+      "resource": "Capacity for sound knowledge",
+      "directionality": "LESS",
+      "verbatim": "[§13] The fact is that those who are enslaved to their sects are not merely devoid of all sound knowledge, but they will not even stop to learn! Instead of listening... they refuse to learn; they even go so far as to scoff.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Galen characterizes Sophists/sectarians as a group that, due to their intellectual commitments, loses the resource of acquiring new or sound knowledge because they refuse the process of listening/learning.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Education",
+      "rule": "Social status of unintelligent",
+      "group": "unintelligent people",
+      "resource": "Exemption from menial tasks",
+      "directionality": "LESS",
+      "verbatim": "[§14] And there are some of them, who, even if they meet with more than one teacher, are yet so unintelligent and slow-witted that even by the time they have reached old age they are still incapable of understanding the steps of an argument.... In the old days such people used to be set to menial tasks.",
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The author cites a historical societal rule where individuals defined by low cognitive capacity (Education/Intellect criterion) were relegated to menial labor, contrasting this with his contemporary time where they style themselves as physicians.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Physician identification of elementary qualities",
+      "group": "physicians",
+      "resource": "Right to define physical reality",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§3] In fact, all those known to us who have been both physicians and philosophers Hippocrates was the first who took in hand to demonstrate that there are, in all, four mutually interacting qualities, and that to the operation of these is due the genesis and destruction of all things that come into and pass out of being."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Galen identifies a specific group (physician-philosophers, exemplified by Hippocrates) as the authoritative source for the fundamental scientific rule governing the genesis and destruction of all things, contrasting their established empirical demonstrations against the 'illusions' of the Sophists.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Sophist exclusion from physical reality",
+      "group": "Sophists",
+      "resource": "Right to define physical reality",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§3] The Sophists, however, while allowing that bread in turning into blood becomes changed as regards sight, taste, and touch, will not agree that this change occurs in reality. Thus some of them hold that all such phenomena are tricks and illusions of our senses; the senses, they say, are affected now in one way, now in another, whereas the underlying substance does not admit of any of these changes to which the names are given."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text characterizes Sophists by their denial of actual physical change (alteration), effectively excluding their intellectual framework from the accepted medical and philosophical consensus of reality maintained by Galen and the 'ancients'.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Post-birth growth faculty predominance",
+      "group": "Post-natal offspring (children to youth)",
+      "resource": "Predominance of the faculty of growth",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§8] When, however, the animal has attained its complete size, then, during the whole period following its birth and until the acme is reached, the faculty of growth is predominant, while the alterative and nutritive faculties are accessory — in fact, act as its handmaids."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen describes a biological rule of developmental stages where the 'faculty of growth' moves from a subordinate role in the fetus to a dominant role in the living animal from birth until physical maturity (the 'acme').",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Fetal faculty subordination",
+      "group": "Foetuses",
+      "resource": "Supreme authority of growth and nutrition faculties",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§8] Passing now to the faculty of Growth let us first mention that this, too, is present in the foetus in utero as is also the nutritive faculty, but that at that stage these two faculties are, as it were, handmaids to those already mentioned, and do not possess in themselves supreme authority."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that for the group defined by the prenatal age stage (fetus), the faculties of growth and nutrition are subordinate ('handmaids') rather than primary, unlike in later life stages.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Ethnicity",
+      "rule": "Regional bladder game customs",
+      "group": "Ionians",
+      "resource": "Access to specific cultural games (bladder distension)",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§8] Children take the bladders of pigs, fill them with air, and then rub them on ashes near the fire... This is a common game in the district of Ionia, and among not a few other nations."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific social/recreational practice (a game) that is characteristic of certain ethnic/regional groups, specifically Ionians.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Human dietary restriction on grass",
+      "group": "Humans",
+      "resource": "Capacity to derive nourishment from grass",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§11] For, as we are unable to draw any nourishment from grass, although this is possible for cattle, similarly we can derive nourishment from radishes, albeit not to the same extent as from meat"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen defines a boundary between species (humans vs cattle) regarding the resource of nutritional extraction; humans are excluded from deriving nourishment from grass due to their physiological nature.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Tissue nutrition failure in leprosy",
+      "group": "People with white leprosy",
+      "resource": "Assimilation of nutriment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§12] The so-called white [leprosy] shows the difference between assimilation and adhesion... In white [leprosy], again, there is adhesion of the nutriment but no real assimilation."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen identifies a specific group (those with white leprosy) defined by a health criterion who, despite having functioning adhesion of nutrients, lack the biological resource of assimilation, which he defines as the final stage of the nutrition process.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Academic exclusion of the illogical",
+      "group": "Illegitimate or uneducated thinkers",
+      "resource": "Right to intellectual recognition",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§13] I speak, of course, of such of them as know what they are talking about, and who realize the logical sequence of their hypotheses, and stand by them; as for those who cannot understand even this, but who simply talk any nonsense that comes to their tongues, and who do not remain definitely attached either to one sect or the other — such people are not even worth mentioning."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Galen establishes a boundary based on education and the capacity for logical reasoning. Those who fail to demonstrate mastery of logical sequences ('talk any nonsense') are excluded from the resource of being 'worth mentioning' within the professional/philosophical discourse.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Nutritional adhesion failure in dropsy",
+      "group": "People with anasarca dropsy",
+      "resource": "Adhesion of nutrients to tissue",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§12] the kind of dropsy which some people call anasarca clearly distinguishes presentation from adhesion... while, however, the nutriment conveyed to the part does undergo presentation, it is still too watery... therefore, adhesion cannot come about, since, owing to this abundance of thin, crude liquid, the pabulum runs off and easily slips away from the solid parts of the body."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Based on a specific health condition (anasarca), Galen notes that these individuals lose the capacity for nutriment to adhere to their body parts, a necessary step in human biological development/sustenance.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Butcher observation of anatomy",
+      "group": "Butchers",
+      "resource": "Access to anatomical knowledge",
+      "directionality": "MORE",
+      "verbatim": "[§14] That these are organs for secreting [separating out] the urine, was the belief not only of Hippocrates, Diocles, Erasistratus, Praxagoras, and all other physicians of eminence, but practically every butcher is aware of this, from the fact that he daily observes both the position of the kidneys and the duct (termed the ureter) which runs from each kidney into the bladder, and from this arrangement he infers their characteristic use and faculty.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen identifies butchers as a specific occupational group that, through their daily work, possesses empirical knowledge of internal anatomy (the function of kidneys and ureters) comparable to that of eminent physicians.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Nephritic self-identification and diagnosis",
+      "group": "People with kidney ailments",
+      "resource": "Right to medical self-labeling",
+      "directionality": "MORE",
+      "verbatim": "[§14] But, even leaving the butchers aside, all people who suffer either from frequent dysuria or from retention of urine call themselves nephritics, when they feel pain in the loins and pass sandy matter in their water.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a group defined by their health condition (sufferers of dysuria/retention) and notes their social and linguistic practice of identifying themselves as 'nephritics' based on specific physical symptoms.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Sophist skill in disputation",
+      "group": "Sophists",
+      "reasoning": "The text identifies 'Sophists' as a professional group characterized by their mastery of language and skill in public debate, even when contradicting empirical medical facts.",
+      "resource": "Mastery of public language",
+      "directionality": "MORE",
+      "verbatim": "[§14] Thus, one of our Sophists who is a thoroughly hardened disputer and as skilful a master of language as there ever was, once got into a discussion with me on this subject; so far from being put out of countenance by any of the above-mentioned considerations, he even expressed his surprise that I should try to overturn obvious facts by ridiculous arguments!",
+      "contemporary": 1,
+      "factuality": 1,
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Seasonal drug efficacy by age",
+      "group": "Old men",
+      "resource": "Evacuation of phlegm via drugs",
+      "directionality": "MORE",
+      "verbatim": "[§14] Is not also the fact that in summer yellow bile is evacuated in greater quantity by the same drugs, and in winter phlegm, and that in a young man more bile is evacuated, and in an old man more phlegm?",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen describes a medical rule where the physiological response to drugs is determined by age. Old men are categorized as having a greater capacity/tendency to evacuate phlegm compared to younger men.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Age-based drug safety",
+      "group": "Young men",
+      "resource": "Protection from harm during purgation",
+      "directionality": "LESS",
+      "verbatim": "[§14] Thus if you give in the summer season a drug which attracts phlegm to a young man of a lean and warm habit, who has lived neither idly nor too luxuriously, you will with great difficulty evacuate a very small quantity of this humour, and you will do the man the utmost harm. On the other hand, if you give him a cholagogue, you will produce an abundant evacuation and not injure him at all.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage establishes a rule for medical practitioners: young men (especially lean/warm ones) lack the 'resource' of safety/protection when given phlegm-attracting drugs in summer, facing 'utmost harm' unlike when given cholagogues.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "group": "uneducated physicians and philosophers",
+      "resource": "Right to hold professional titles",
+      "directionality": "MORE",
+      "rule": "Unqualified use of professional titles",
+      "verbatim": [
+        "Now people of the present day do not begin by getting a clear comprehension of these sects, as well as of the better ones, thereafter devoting a long time to judging and testing the true and false in each of them; despite their ignorance, they style themselves, some physicians and others philosophers. [§15]"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen observes that in his time, individuals who lack proper education and the ability to judge logical arguments are nevertheless allowed to adopt the titles and social status of 'physician' or 'philosopher'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "group": "unintelligent or uneducated people",
+      "resource": "Protection from menial labor",
+      "directionality": "MORE",
+      "rule": "Exemption from menial tasks",
+      "verbatim": [
+        "And there are some of them, who, even if they meet with more than one teacher, are yet so unintelligent and slow-witted that even by the time they have reached old age they are still incapable of understanding the steps of an argument.... In the old days such people used to be set to menial tasks.... [§15]"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen contrasts the current state of society with the past, noting that people who are 'slow-witted' or unable to understand logic—who would have previously been relegated to menial labor—are now able to exist in higher social or intellectual roles.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "group": "Slaves",
+      "resource": "Right to speak freely",
+      "directionality": "LESS",
+      "rule": "Slave silence upon accusation",
+      "verbatim": [
+        " [§17] They are like slaves who have had plenty to say in the early part of their career, and have managed by excessive rascality to escape many and frequent accusations, but who, later, when caught in the act of thieving, cannot find any excuse; the more modest one then keeps silence, as though thunderstruck, whilst the more shameless continues to hide the missing article beneath his arm and denies on oath that he has ever seen it."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen uses a contemporary social reality—the behavior and legal vulnerability of slaves when caught in a crime—as a metaphor for his intellectual opponents. This illustrates that slaves, once caught, have no effective right to defense or speech that can mitigate their situation, leading to either silence or 'shameless' denial.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "group": "Rhetoricians",
+      "resource": "Right to use persuasive reasoning",
+      "directionality": "MORE",
+      "rule": "Rhetorical use of logic",
+      "verbatim": [
+        "[§17] For rhetoric proceeds by persuasive reasoning; words without reasoning are buffoonery rather than rhetoric."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text defines the professional group of rhetoricians by their access to and use of 'persuasive reasoning' as a necessary resource for their craft, distinguishing it from 'buffoonery'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave comedic characterization",
+      "group": "Slaves",
+      "resource": "Right to moral reputation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§18] [17] PART 17 Now such of the younger men as have dignified themselves with the names of these two authorities by taking the appellations Erasistrateans or Asclepiadeans are like the Davi and Getae — the slaves introduced by the excellent Menander into his comedies. As these slaves held that they had done nothing fine unless they had cheated their master three times, so also the men I am discussing have taken their time over the construction of impudent sophisms"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen references a contemporary cultural norm and literary convention where slaves (specifically Davi and Getae in New Comedy) are defined by their status as deceitful actors against their masters, stripping them of the resource of being perceived as honest or virtuous.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Butcher anatomical expertise",
+      "group": "Butchers",
+      "resource": "Protection from being deemed foolish",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§18] I dwell purposely on this topic, knowing well that nobody else has anything to say about the function of the kidneys, but that either we must prove more foolish than the very butchers if we do not agree that the urine passes through the kidneys"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen implies that butchers, by virtue of their occupation and handling of carcasses, possess a baseline of anatomical knowledge regarding the kidneys that even a professional doctor should not fall below, establishing a minimum level of empirical recognition for the group.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Honey suitability for the elderly",
+      "group": "old people",
+      "resource": "Right to retain blood from honey",
+      "directionality": "MORE",
+      "verbatim": [
+        "Old people, however, it suits well enough, inasmuch as the alteration which it undergoes is not into bile, but into blood.",
+        "the Empiricist physicians too have made precisely the same observation, namely, that honey is good for an old man and not for a young one"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen discusses the biological rule that honey supports blood production in older individuals, contrasting it with younger, warmer temperaments where it turns into bile.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Honey restriction for the young",
+      "group": "young people",
+      "resource": "Right to retain blood from honey",
+      "directionality": "LESS",
+      "verbatim": [
+        "the Empiricist physicians too have made precisely the same observation, namely, that honey is good for an old man and not for a young one",
+        "in those who are in the prime of life, especially if they are warm by nature and are leading a life of toil, the honey changes entirely into yellow bile."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Younger people, or those in their prime, are physically categorized as having warmer natures that convert honey into harmful yellow bile rather than blood.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Honey restriction for bilious patients",
+      "group": "Heavily bilious patients",
+      "resource": "Access to honey as nutriment",
+      "directionality": "LESS",
+      "verbatim": [
+        "Therefore Hippocrates not improperly advised those who were naturally bilious not to take honey, since they were obviously of too warm a temperament.",
+        "So also, not only Hippocrates, but all physicians say that honey is bad in bilious diseases but good in old age"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The medical norm established by Galen and the ancients restricts the consumption of honey for those with bilious conditions due to its transformative properties in warm bodies.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Honey benefit for phlegmatic patients",
+      "group": "phlegmatic patients",
+      "resource": "Access to honey as nutriment",
+      "directionality": "MORE",
+      "verbatim": [
+        "honey is good for an old man and not for a young one, that it is harmful for those who are naturally bilious, and serviceable for those who are phlegmatic."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Phlegmatic individuals (defined by the cold/moist humor) are granted positive medical access to honey as an appropriate resource for their health.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Athlete recognition of defeat",
+      "group": "amateur wrestlers",
+      "resource": "Protection from being held by loser",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§21] But when a man shamelessly goes on using circumlocutions, and never acknowledges when he has had a fall, he is like the amateur wrestlers, who, when they have been overthrown by the experts and are lying on their backs on the ground, so far from recognizing their fall, actually seize their victorious adversaries by the necks and prevent them from getting away, thus supposing themselves to be the winners!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen describes a specific societal behavior within the athletic community where amateur wrestlers, unlike experts, fail to observe the convention of acknowledging a fall. The 'expert' or 'victorious' group loses the resource of being released from the match despite having won according to the rules of the sport.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Living biological growth restriction",
+      "group": "Living things",
+      "resource": "Capacity for biological growth",
+      "directionality": "MORE",
+      "verbatim": [
+        "And how can this happen? someone will ask. Only by our basket suddenly becoming an animal or a plant; for growth belongs to living things alone. (§22)"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen defines growth as a specific biological process (extension in all directions via nourishment) that is a resource/capacity exclusive to living organisms (animals and plants), contrasting this with mechanical 'genesis' or construction seen in inanimate objects.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Maternal blood as material principle",
+      "group": "Women",
+      "resource": "Contribution of material to procreation",
+      "directionality": "MORE",
+      "verbatim": [
+        "And what is the semen? Clearly the active principle of the animal, the material principle being the menstrual blood. (§22)",
+        "But Nature does not preserve the original character of any kind of matter; if she did so, then all parts of the animal would be blood — that blood, namely, which flows to the semen from the impregnated female and which is, so to speak, like the statuary's wax, a single uniform matter, subjected to the artificer. (§22)"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific material resource (menstrual blood) provided by the female group as the necessary substance for the formation of an animal, though it is categorized as passive 'material' rather than 'active' principle.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Artisan external material manipulation",
+      "group": "Statuaries (Artists)",
+      "resource": "Power to manipulate internal substance",
+      "directionality": "LESS",
+      "verbatim": [
+        "For Praxiteles and Phidias and all the other statuaries used merely to decorate their material on the outside, in so far as they were able to touch it; but its inner parts they left unembellished, unwrought, unaffected by art or forethought, since they were unable to penetrate therein and to reach and handle all portions of the material. (§22)"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen contrasts the 'faculty' of human artists with 'Nature'; while Nature shapes matter from within, human artisans are restricted to external modification, lacking the ability to reach or handle the internal portions of their material.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Anatomical expertise requirement for physicians",
+      "group": "physicians",
+      "resource": "Scientific status and authority",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§23] for, if he knows nothing at all about these structures, he has little more anatomical knowledge than a butcher, while, if he is acquainted with them and yet does not state their use, he clearly imagines that they were made for no purpose, like the spleen."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Galen establishes a normative boundary for the medical profession: a physician who lacks knowledge of the 'use of parts' or anatomical structures loses their professional distinction and is equated to a 'butcher', a lower-status occupation.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Education",
+      "rule": "Intellectual pedigree for philosophical schools",
+      "group": "Erasistrateans",
+      "resource": "Intellectual and social respectability",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§23] And, indeed, the disciples of the latter produce his connection with the Peripatetics in order to furnish his Nature-lore with a respectable pedigree. Now, let us reverse our argument and put it in a different way from that which we have just employed. For if the Peripatetics were correct in their teaching about Nature, there could be nothing more absurd than the contentions of Erasistratus."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Galen argues that the Erasistrateans lack a valid claim to the intellectual lineage of the Peripatetics. By demonstrating their logic and physiology contradict Aristotle, he strips the group of the 'respectable pedigree' (a form of immaterial resource/fame) they seek to claim.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Logical rigor in philosophical discourse",
+      "group": "Erasistrateans",
+      "resource": "Right to claim Peripatetic affiliation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§23] Here they show ignorance of the fact that these philosophers never brought forward false or inconclusive arguments, while the Erasistratean books are full of them. So perhaps somebody may already be asking, in some surprise, what possessed Erasistratus that he turned so completely from the doctrines of Hippocrates."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen defines the Peripatetic group by the standard of logical rigor. Because the followers of Erasistratus produce 'false or inconclusive arguments', they are excluded from the resource of being identified with that high-status philosophical school.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Physician recognition of transpiration",
+      "group": "physicians",
+      "resource": "Scientific recognition of transpiration",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§25] But if it be one and continuous, then what is evacuated from it in the so-called insensible transpiration of the physicians will leave no empty space in it; otherwise it would not be one body but many, separated by empty spaces."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen refers to a specific physiological phenomenon ('insensible transpiration') as something recognized and named by the group of 'physicians' in his own time, indicating their professional access to this medical concept.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Increased nutrient attraction for emaciated",
+      "group": "emaciated people",
+      "resource": "Nutritional restoration and attraction",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§25] It seems to me that our enquiry can be most rigorously pursued in subjects who are suffering from illness and have become very emaciated, since in these people all parts of the body are obviously atrophied and thin, and in need of additional substance and feeding-up... It is clear, therefore, that these parts will have to exert a greater amount of attraction, in so far as their requirements are greater."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific biological group (the emaciated) defined by their health status and establishes that their bodies must exert 'a greater amount of attraction' for nutrients to regain their health compared to those in normal condition.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Physician group-specific dogmas",
+      "group": "physicians",
+      "resource": "Adherence to nature's artistry",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§25] For, according to such a hypothesis, Nature does not precede, but is secondary to the parts of the animal. ... And, owing to this necessity, those who belong to these sects are unable to follow out the consequences of their supposed elements, and they are all therefore forced to declare Nature devoid of art. It is not from us, however, that the Erasistrateans should have learnt this, but from those very philosophers who lay most stress on a preliminary investigation into the elements of all existing things."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen identifies various 'sects' of physicians and philosophers whose specific theoretical frameworks (atomism/corpuscularianism) force them to forgo the resource of viewing Nature as a skilled artist.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Age-based honey restriction",
+      "group": "young people",
+      "resource": "Access to honey in diet",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] ...the Empiricist physicians too have made precisely the same observation, namely, that honey is good for an old man and not for a young one, that it is harmful for those who are naturally bilious, and serviceable for those who are phlegmatic."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen notes that physicians across schools (including Empiricists) restrict the consumption of honey for young people because their naturally warm temperament converts it into harmful bile.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Dietary restriction for bilious patients",
+      "group": "bilious people",
+      "resource": "Access to honey in diet",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] Therefore Hippocrates not improperly advised those who were naturally bilious not to take honey, since they were obviously of too warm a temperament. So also, not only Hippocrates, but all physicians say that honey is bad in bilious diseases but good in old age..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Based on humoral theory, individuals with a bilious health status are medically advised to avoid honey to prevent the excessive production of yellow bile.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Dietary benefit for the elderly",
+      "group": "old people",
+      "resource": "Access to honey in diet",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§27] Old people, however, it suits well enough, inasmuch as the alteration which it undergoes is not into bile, but into blood. ...honey is good for an old man and not for a young one..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen identifies that the cold temperament of the elderly allows them to process honey into blood rather than bile, making it a recommended resource for their age group.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Natural risk of female dropsy",
+      "group": "Women",
+      "resource": "Protection from dropsy (illness)",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] ...similarly, in women, the complete disappearance of the monthly discharge,or an undue evacuation such as is caused by violent bleeding from the womb, often provoke dropsy; and in some of them the so-called female flux ends in this disorder."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies specific physiological conditions unique to the female group (menstrual issues) that result in a loss of protection from the disease of dropsy.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly humor accumulation",
+      "group": "old people",
+      "resource": "Protection from phlegm accumulation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§28] Thus, the white-coloured substance which everyone else calls phlegm, and which Prodicus calls blenna [mucus], is the well-known cold, moist humour which collects mostly in old people and in those who have been chilled in some way..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen describes a physiological rule where the 'cold, moist' humor (phlegm/mucus) specifically accumulates in individuals based on their age (the elderly), contrasted with younger people or those in their 'prime'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Post-prime black bile excess",
+      "group": "old people",
+      "resource": "Protection from black bile excess",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§28] This [black bile], according to intelligent physicians and philosophers, tends to be in excess, as regards seasons, mainly in the fall of the year, and, as regards ages, mainly after the prime of life."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of physiological distribution where individuals past their 'prime' (older age groups) are subject to an excess of black bile, a condition linked to specific diseases and temperaments.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Practitioner exclusion from scientific inquiry",
+      "group": "practitioners",
+      "resource": "Access to causal scientific investigation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§28] This is no concern of ours, they say; we do not occupy ourselves with such causes as these; they are outside the sphere of the practitioner, and belong to that of the scientific investigator."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen identifies a professional boundary established by the Erasistrateans, where 'practitioners' are systematically excluded from (or exclude themselves from) the resource of investigating primary causes, which is reserved for the 'scientific investigator'.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Gestational retention of embryos",
+      "group": "Women",
+      "resource": "Capacity for fetal maturation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§29-PART 3] For, as we know, it takes nine months in most women for the foetus to attain maturity in the womb, this organ having its neck quite closed, and entirely surrounding the embryo together with the chorion."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific biological and legal reality of his time regarding the nine-month period of gestation in women and the physical mechanism of the uterus that allows for the maturation of the resource (the embryo).",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Preparation for medical truth-seeking",
+      "group": "young people",
+      "resource": "Access to advanced medical knowledge",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§29-PART 10] And when he reaches early adolescence he must become possessed with an ardent love for truth, like one inspired; neither day nor night may he cease to urge and strain himself in order to learn thoroughly all that has been said by the most illustrious of the Ancients."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Galen sets a normative rule for those entering adolescence, defining the rigorous educational requirements (learning the Ancients) necessary to access the resource of high-order truth and professional expertise.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Exclusion from scientific comprehension",
+      "group": "uneducated people",
+      "resource": "Access to scientific understanding",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§29-PART 10] For I find that a great many things which have been conclusively demonstrated by the Ancients are unintelligible to the bulk of the Moderns owing to their ignorance — nay, that, by reason of their laziness, they will not even make an attempt to comprehend them... while, as for the others, this book will be as redundant to them as a tale told to an ass."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Galen explicitly excludes those who lack specific training and natural disposition ('the bulk of the Moderns') from the resource of understanding his work, contrasting them with the 'few' who possess the correct training.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Symptomatic stomach gurgling",
+      "group": "People with weak stomachs",
+      "resource": "Efficient digestive function",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§29-PART 4] Firstly in the condition of gurgling, which physicians are persuaded, and with reason, to be a symptom of weakness of the stomach... When it is weak, however, being unable to lay hold of its contents accurately, it produces a certain amount of vacant space... and allows the liquid contents to flow about... and so to produce gurglings."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage identifies a specific health status (weak stomach) that results in the loss of the resource 'efficient digestion' and the physical 'grasp' of the organ on its contents.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Fluid retention in asthenics",
+      "group": "People with weak stomachs",
+      "resource": "Rapid gastric emptying",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§29-PART 4] For in people who are extremely asthenic it is just these fluids which remain undigested, which accumulate and produce gurglings, and which oppress and overload the stomach, whereas in strong persons not merely do none of these things happen, but even a large quantity of bread or meat passes rapidly down."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen contrasts 'strong persons' with 'extremely asthenic' people, noting that the latter lack the resource of timely gastric emptying, which specifically impacts their health and physical comfort.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Midwife uterine palpation",
+      "group": "midwives",
+      "resource": "Authority to perform obstetric examinations",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§29-PART 3] The midwife, however, does not make the parturient woman get up at once and sit down on the [obstetric] chair, but she begins by palpating the os as it gradually dilates, and the first thing she says is that it has dilated enough to admit the little finger... And when it is sufficient to allow of the transit of the foetus, she then makes the patient get up."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen describes the midwifes' professional role as being the group permitted to diagnose and manage the progression of labor through physical examination.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "group": "Pregnant women",
+      "resource": "Protection from uterus prolapse",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§32] And, in many women who exercise such a faculty immoderately, violent pains cause forcible prolapse of the whole womb; here almost the same thing happens as frequently occurs in wresting-bouts and struggles, when in our eagerness to overturn and throw others we are ourselves upset along with them; for similarly when the uterus is forcing the embryo forward it sometimes becomes entirely prolapsed, and particularly when the ligaments connecting it with the spine happen to be naturally lax."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen describes a medicinal observation where the biological strain of childbirth (the eliminative faculty) coupled with a health condition (lax ligaments) results in the loss of the physical integrity of the womb (prolapse).",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "group": "Pregnant women",
+      "resource": "Retention of the embryo",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§32] For everything connected with the pregnancy proceeds properly, the eliminative faculty remains quiescent as though it did not exist, but if anything goes wrong in connection either with the chorion or any of the other membranes or with the foetus itself, and its completion is entirely despaired of, then the uterus no longer awaits the nine-months period, but the retentive faculty forthwith ceases and allows the heretofore inoperative faculty to come into action."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of nature regarding health and pregnancy: if the health of the fetus or membranes fails, the biological 'retentive' resource is withdrawn, leading to early expulsion/miscarriage.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "group": "Women",
+      "resource": "Retention of the embryo",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§32] For, as we know, it takes nine months in most women for the foetus to attain maturity in the womb, this organ having its neck quite closed, and entirely surrounding the embryo together with the chorion. Further, it is the utility of the function which determines the closure of the os and the stay of the foetus in the uterus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen identifies a natural rule specific to the female gender where the body provides the resource of a closed 'os' and a retentive faculty to allow for the maturation of an embryo for a fixed duration.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Asthenic stomach retention of fluids",
+      "group": "People with extreme asthenia",
+      "resource": "Digestion of fluids",
+      "directionality": "LESS",
+      "verbatim": "[§33] For in people who are extremely asthenic it is just these fluids which remain undigested, which accumulate and produce gurglings, and which oppress and overload the stomach, whereas in strong persons not merely do none of these things happen, but even a large quantity of bread or meat passes rapidly down.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes between 'extremely asthenic' individuals and 'strong persons,' noting that the former lack the ability to effectively digest and pass fluids, which instead cause physical oppression.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Weak stomach digestion failure",
+      "group": "People with weak stomachs",
+      "resource": "Adequate digestion",
+      "directionality": "LESS",
+      "verbatim": "[§33] Thus those who are troubled with this symptom [gurgling] expect, with good reason, that they will also be unable to digest adequately; proper digestion cannot take place in a weak stomach. In such people also, the mass of food may be plainly seen to remain an abnormally long time in the stomach, as would be natural if their digestion were slow.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific health-based group (those with weak stomachs/gurgling symptoms) and explicitly states their inability to access the resource of 'adequate digestion' compared to the healthy norm.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Disinclined eater food rejection",
+      "group": "People disinclined for food",
+      "resource": "Ability to retain nourishment",
+      "directionality": "LESS",
+      "verbatim": "[§35] This may often be clearly in those who are disinclined for food; when obliged to eat, they have not the strength to swallow, and, even if they force themselves to do so, they cannot retain the food, but at vomit it up.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen describes a specific physiological/health state (disinclination/aversion) that prevents the group from successfully retaining ingested food, which is a necessary resource for nourishment.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Education",
+      "rule": "Scholar access to ancient knowledge",
+      "group": "educated men",
+      "resource": "Access to the works of the Ancients",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§39] The fact is that he whose purpose is to know anything better than the multitude do must far surpass all others both as regards his nature and his early training. And when he reaches early adolescence he must become possessed with an ardent love for truth, like one inspired; neither day nor night may he cease to urge and strain himself in order to learn thoroughly all that has been said by the most illustrious of the Ancients."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Galen describes a specific educational path and intellectual rigor required to access and understand the complex medical and philosophical doctrines of the past, distinguishing this group from the 'multitude'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Ignorant exclusion from scientific understanding",
+      "group": "uneducated people",
+      "resource": "Ability to comprehend demonstrated truths",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§39] For I find that a great many things which have been conclusively demonstrated by the Ancients are unintelligible to the bulk of the Moderns owing to their ignorance — nay, that, by reason of their laziness, they will not even make an attempt to comprehend them; and even if any of them have understood them, they have not given them impartial examination."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Galen posits that a lack of education and 'laziness' (mental discipline) prevents the majority of his contemporaries from accessing the 'conclusively demonstrated' truths of medical science.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Womb retention during gestation",
+      "group": "embryo",
+      "resource": "Right to remain in the uterus",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§40] Now, these are of the greatest help to the action of the faculty which we have named retentive. For during this period the part needs to be tightly contracted and stretched over its contents at every point... the uterus during that of gestation."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen describes the biological rule that during the specific period of gestation (defined by the age/developmental stage of the embryo), the uterus exercises a retentive faculty to keep the embryo inside, contrasted with the later stage of delivery.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Protection from premature expulsion",
+      "group": "embryo",
+      "resource": "Protection from miscarriage",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§41] Now abortifacient drugs or certain other conditions which destroy the embryo or rupture certain of its membranes are followed by abortion, and similarly also when the uterus is in pain from being in a bad state of tension; and, as has been well said by Hippocrates, excessive movement on the part of the embryo itself brings on labour."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text outlines the conditions (external drugs or internal health failures) that result in the embryo losing its place in the uterus prematurely, establishing that the normal status of a healthy embryo is retention.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "group": "Heirs",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "rule": "Direct male inheritance",
+      "verbatim": [
+        "[§42] Similarly the canal of the uterus affords an entrance to the semen and an exit to the foetus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While the text is primarily a medical treatise on physiology, the mention of the 'foetus' as the exit of the uterus in the context of semen entrance acknowledges the biological necessity for lineage. However, this specific text contains no social, legal, or political rules regarding the criteria requested. It is a work of natural science.",
+      "confidence": 1
+    },
+    {
+      "criteria": "Health",
+      "rule": "Dietary fluid absorption speed",
+      "group": "People partaking in wine",
+      "resource": "Speed of fluid absorption and excretion",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§44] For instance, we could in this way ascertain why it is that in the case of many people who are partaking freely of wine, the fluid which they have drunk is rapidly absorbed through the body and almost the whole of it is passed by the kidneys within a very short time."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Galen describes a physiological rule where a specific group (those consuming a specific substance like wine) experiences a higher rate of resource access (speed of metabolic processing) compared to those consuming other substances like water or turbid wine.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Bone marrow nutrient distribution",
+      "group": "Large bones",
+      "resource": "Concentrated marrow storage",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§44] ...in the case of the small bones, which do not possess central cavities, this marrow is distributed in their caverns, whereas in the larger bones which do contain central cavities the marrow is all concentrated in these."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of biological resource distribution based on the physical size/type of the bone (the group). Large bones are granted the resource of a concentrated central cavity for marrow, whereas small bones are not.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Organ nutrient quality access",
+      "group": "Viscera and muscles",
+      "resource": "Direct access to blood",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§44] Thus the flesh of the viscera and of the muscles is nourished from the blood directly, this having undergone merely a slight alteration; the bones, however, in order to be nourished, [undergo] very great change..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Specific types of biological tissue (muscles/viscera) are defined as having more direct access to the primary resource (blood) than other tissues like bones, which require a more complex, less direct conversion process.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 23,
+  "_file_id": "tlg0057.tlg010.perseus-eng2",
+  "_input_tokens": 171471,
+  "_output_tokens": 13911,
+  "_model": "google/gemini-3-flash-preview"
+}

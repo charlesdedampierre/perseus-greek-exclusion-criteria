@@ -1,0 +1,956 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Metics lack citizenship",
+      "rule_category": "Citizenship exclusion",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Citizenship",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Yes, spectators, our madness is quite different from that of Sacas. He is not a citizen, and would fain be one at any cost; we, on the contrary, born of an honorable tribe and family and living in the midst of our fellow-citizens, we have fled from our country as hard as ever we could go."
+      ],
+      "reasoning": "The text contrasts 'Sacas', identified as a non-citizen (likely a metic or foreigner of known identity), with the protagonists who possess lineage and tribal membership. This reflects the legal boundary where foreigners lack the inherent right to citizenship held by those of 'honorable tribe and family'.",
+      "specificity": 4,
+      "specificity_reasoning": "This refers to the broad class of resident aliens (metics) in Athens who lived in the city but lacked citizen status.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizen tax obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Retention of private wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] we recognize it to be great and rich, likewise that everyone has the right to ruin himself paying taxes; but the crickets only chirrup among the fig-trees for a month or two, whereas the Athenians spend their whole lives in chanting forth judgments from their law-courts."
+      ],
+      "reasoning": "The author explicitly mentions the ruinous nature of taxes for Athenians. While framed sardonically as a 'right', it describes a mandatory economic drain on citizens to fund the state.",
+      "specificity": 2,
+      "specificity_reasoning": "Taxation was a general obligation for the citizen body, particularly the wealthy and middle classes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Citizen judicial duty",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Freedom from constant litigation",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] whereas the Athenians spend their whole lives in chanting forth judgments from their law-courts. That is why we started off with a basket, a stew-pot and some myrtle boughs and have come to seek a quiet country in which to settle."
+      ],
+      "reasoning": "The text characterizes Athenian life by the constant necessity of participating in or attending law courts, presenting it as an inescapable social burden that motivates the protagonists' flight.",
+      "specificity": 2,
+      "specificity_reasoning": "Hyper-litigiousness and jury service were hallmarks of the entire Athenian male citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Extradition and process serving",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Freedom from summary arrest abroad",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Not a sea-port, where some fine morning the Salaminian galley can appear, bringing a process-server along."
+      ],
+      "reasoning": "The mention of the 'Salaminian galley' (an Athenian state trireme) bringing a 'process-server' refers to the legal mechanism by which the Athenian state could reach out to fetch citizens for trial, even in coastal or allied territories.",
+      "specificity": 5,
+      "specificity_reasoning": "This specifically concerns citizens who are involved in legal disputes or state summons, often those of higher visibility or wealth.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave labor obligation",
+      "rule_category": "Labor control",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Personal autonomy of movement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Does a bird need a servant, then? Trochilus That's no doubt because he was once a man. At times he wants to eat a dish of sardines from Phalerum; I seize my dish and fly to fetch him some. Again he wants some pea-soup; I seize a ladle and a pot and run to get it."
+      ],
+      "reasoning": "Even in the comedic context of 'slave-birds', the description mirrors real-world Athenian domestic slavery where the servant must immediately perform specific errands at the whim of the master.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire class of domestic slaves in Greek society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Informant legal harassment",
+      "rule_category": "Legal standing",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Protection from sycophancy",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] That's because he is honest; so the informers set upon him and the women too pluck out his feathers. Euelpides Then this bird is Callias! Why, what a lot of his feathers he has lost!"
+      ],
+      "reasoning": "The text uses the figure of Callias (a famously wealthy Athenian) and the metaphor of losing feathers to describe the social and financial depletion caused by 'sycophants' (informers) in the Athenian legal system. It highlights that wealthy or 'honest' citizens were frequently targeted by professional accusers to extract money or property.",
+      "specificity": 4,
+      "specificity_reasoning": "While specifically mentioning Callias, the reference to 'informers' (sycophants) describes a systemic feature of Athenian democracy affecting the wealthy class.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female property exaction",
+      "rule_category": "Denial of property rights",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from private property seizure",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] That's because he is honest; so the informers set upon him and the women too pluck out his feathers."
+      ],
+      "reasoning": "Aristophanes lists women alongside informers as those who 'pluck out' the feathers (resources/wealth) of wealthy men like Callias. In the context of Athenian comedy and social life, this refers to the ability of women (often courtesans or wives in domestic litigation) to deplete a man's estate.",
+      "specificity": 4,
+      "specificity_reasoning": "This describes a general social dynamic regarding the depletion of men's estates by specific female cohorts in Athenian society.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Carian mountain refuge",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Carians",
+      "group_category": "Origin",
+      "resource": "Right to secure settlement in lowlands",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] They are like the Carians, who cling to the crests of their mountains for greater safety."
+      ],
+      "reasoning": "The text refers to the historical/contemporary reality of Carians living on mountain crests for safety, implying a lack of security or right to live safely in more accessible or fertile lowland areas due to external threats or political status.",
+      "specificity": 6,
+      "specificity_reasoning": "This refers to a specific ethnic group's living conditions compared to others.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Public funeral for soldiers",
+      "rule_category": "Access to state-funded burial",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to a public funeral in the Ceramicus",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] Euelpides You are right. But where shall we be buried, if we die? Pisthetaerus In the Ceramicus; for, to get a public funeral, we shall tell the Strategi that we fell at Orneae, fighting the country's foes."
+      ],
+      "reasoning": "The text refers to the Athenian custom of burying those who fell in battle at state expense in the Ceramicus cemetery. The characters plan to lie about their death in battle to secure this civic privilege.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to all citizens who die in war, it is a specific legal entitlement managed by the Strategi (generals) and reserved for a particular category of deceased individuals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection of dependents",
+      "rule_category": "Access to civic protection",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from foreign invasion through fortifications",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] To begin with, it's the foe and not the friend that taught cities to build high walls, to equip long vessels of war; and it's this knowledge that protects our children, our slaves and our wealth."
+      ],
+      "reasoning": "The author explicitly identifies children as a group whose safety and integrity are protected by the city's military infrastructure (walls and ships).",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general condition of safety for a broad demographic category within the city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection of slave property",
+      "rule_category": "Access to civic protection",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from foreign capture/harm through fortifications",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] To begin with, it's the foe and not the friend that taught cities to build high walls, to equip long vessels of war; and it's this knowledge that protects our children, our slaves and our wealth."
+      ],
+      "reasoning": "Slaves are listed alongside children and wealth as entities protected by the city's defensive measures, implying the society views the preservation of the slave population as a concrete goal of civic defense.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to a large segment of the non-free population within the city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public posting of military orders",
+      "rule_category": "Legal standing",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to receive dismissal notices via public decrees",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§17] Epops As Herald. Hearken, ye people! Hoplites, pick up your weapons and return to your firesides; do not fail to read the decrees of dismissal we have posted."
+      ],
+      "reasoning": "The text describes the formal procedural mechanism for dismissing a citizen militia (hoplites) through the posting of public written decrees (proggrammata), ensuring they are legally informed of the end of their duty.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific procedural rule affecting athenian male citizens of the hoplite class during times of mobilization.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Artisanal dawn labor requirement",
+      "rule_category": "Labor control",
+      "group": "Artisans",
+      "group_category": "Occupation",
+      "resource": "Right to rest until daylight",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] Blacksmiths, potters, tanners, shoemakers, bathmen, corn-dealers, lyre-makers and armorers, all put on their shoes and go to work before it is daylight."
+      ],
+      "reasoning": "The text describes a systematic social practice where various specific trades are compelled by custom or economic necessity to begin their labor before dawn, triggered by the cock's crow, indicating a lack of choice in their working hours.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a broad but specific list of manual and commercial occupations within the urban economy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physician fee entitlement",
+      "rule_category": "Economic privilege",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to payment for medical services",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] and then let Apollo cure them, since he is a physician and is paid for the purpose."
+      ],
+      "reasoning": "The author references the fact that physicians (exemplified by the god Apollo in his role as a doctor) are professionals who receive payment for their services, establishing the right to wages for this specific class.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies specifically to those within the medical profession.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Commercial seafaring right",
+      "rule_category": "Economic access",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to engage in maritime trade",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] I shall buy a trading-vessel and go to sea. I will not stay with you. ... I shall sell my boat and buy a spade to unearth the vessels."
+      ],
+      "reasoning": "Euelpides, an Athenian citizen, discusses the ability to buy and sell trading vessels and engage in overseas commerce as a standard economic activity available to him.",
+      "specificity": 3,
+      "specificity_reasoning": "This reflects a general right for citizens with sufficient means to enter the commercial class.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sacrificial priority",
+      "rule_category": "Religious access",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to offer entrails",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] When anyone sacrifices and, according to the rite, offers the entrails to the gods, these birds take their share before Zeus."
+      ],
+      "reasoning": "The text mentions 'anyone' but specifically refers to the performance of 'the rite,' which in Greek society involved specific individuals (often priests or family heads) having the legal and religious standing to mediate between the community and the divine through animal sacrifice.",
+      "specificity": 5,
+      "specificity_reasoning": "While any head of household could sacrifice, the formal 'rites' often involved specific religious statuses.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Artisan labor schedule",
+      "rule_category": "Labor control",
+      "group": "Artisans",
+      "group_category": "Occupation",
+      "resource": "Right to rest during darkness",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] Blacksmiths, potters, tanners, shoemakers, bathmen, corn-dealers, lyre-makers and armorers, all put on their shoes and go to work before it is daylight."
+      ],
+      "reasoning": "The text describes a systematic social expectation or economic necessity where a wide variety of specific professional groups must begin their labor before dawn, triggered by the cock's crow, indicating a lack of entitlement to rest until daylight.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a specific cluster of urban occupations (manual laborers and tradesmen) rather than the whole population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sacrificial priority rights",
+      "rule_category": "Access to religious resources",
+      "group": "Birds",
+      "group_category": "Origin",
+      "resource": "Right to first share of sacrifices",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] When anyone sacrifices and, according to the rite, offers the entrails to the gods, these birds take their share before Zeus. Formerly men always swore by the birds and never by the gods."
+      ],
+      "reasoning": "The text describes a customary 'rite' where birds (acting as a proxy for a specific group in this society's mythological/historical framework) receive meat offerings before the primary deity, Zeus.",
+      "specificity": 2,
+      "specificity_reasoning": "While the beneficiaries are narrow, the rule applies to every person performing a sacrifice, affecting a broad social practice.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave protection from violence",
+      "rule_category": "Protection from bodily harm",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from physical assault",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] but now you are looked upon as slaves, as fools, as Maneses; stones are thrown at you as at raving madmen, even in holy places."
+      ],
+      "reasoning": "The author explicitly links the status of 'slaves' and 'Maneses' (a common slave name) with being targeted by physical violence (stone-throwing) without legal protection, even in spaces usually considered sacrosanct.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire class of enslaved persons in Athenian society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Freedom of movement (Enslaved)",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom from physical capture/restraint",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] A crowd of bird-catchers sets snares, traps, limed twigs and nets of all sorts for you; you are caught, you are sold in heaps and the buyers finger you over to be certain you are fat."
+      ],
+      "reasoning": "The passage describes the systematic capture, commodification, and sale of individuals (metaphorized as birds but equated to 'slaves' in the preceding sentence), highlighting the lack of right to personal liberty.",
+      "specificity": 3,
+      "specificity_reasoning": "Refers to the general condition of the enslaved population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Bodily integrity (Cooking/Torture)",
+      "rule_category": "Protection from bodily harm",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from painful bodily treatment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] the whole is poured scalding hot over your back, for all the world as if you were diseased meat."
+      ],
+      "reasoning": "Within the context of comparing the birds to slaves, the text describes the practice of pouring scalding liquids over them, reflecting the harsh physical treatment and lack of bodily integrity afforded to those in a subservient/enslaved status.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to those in the legal/social category of slaves.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Prohibition of parricidal assault",
+      "rule_category": "Protection from bodily harm",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Protection from physical assault by children",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] All that is disgraceful and forbidden by law on earth is on the contrary honorable among us, the birds. For instance, among you it's a crime to beat your father, but with us it's an estimable deed; it's considered fine to run straight at your father and hit him, saying, Come, lift your spur if you want to fight."
+      ],
+      "reasoning": "The text contrasts the laws of the birds with the laws of human society (Athenian law), explicitly stating that beating one's father is a crime (forbidden by law) on earth. This establishes a legal protection for parents/elders against corporal violence from their offspring.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all fathers/sons within the citizen body, describing a fundamental pillar of Athenian social and legal order.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Runaway slave branding",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal branding",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§41] The runaway slave, whom you brand, is only a spotted francolin with us."
+      ],
+      "reasoning": "The mention of branding runaway slaves as a standard practice in the audience's society indicates that slaves lacked the right to bodily integrity and were subject to permanent physical marking as punishment for attempting to escape.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to the subgroup of slaves who attempt to flee, which was a common occurrence in slave-holding societies.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreigner lineage exclusion",
+      "rule_category": "Denial of citizenship rights",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to claim citizen ancestry",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§41] Are you Phrygian like Spintharus? Among us you would be the Phrygian bird, the goldfinch, of the race of Philemon. Are you a slave and a Carian like Execestides? Among us you can create yourself forefathers; you can always find relations."
+      ],
+      "reasoning": "The text mocks specific individuals (Spintharus and Execestides) for their foreign or slave origins, contrasting the birds' world (where anyone can find ancestors) with the human world (Athens), where those of slave or barbarian (Carian/Phrygian) descent are legally or socially barred from claiming legitimate citizen lineage/forefathers.",
+      "specificity": 5,
+      "specificity_reasoning": "This targets resident aliens (metics) and those with non-citizen origins attempting to pass as citizens.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Senator seating privilege",
+      "rule_category": "Access to political space",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to reserved seating in the theater",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] If one of you, it matters not who, had adulterous relations and saw the husband of his mistress in the seats of the senators, he might stretch his wings, fly to her, and, having laid her, resume his place."
+      ],
+      "reasoning": "The mention of 'seats of the senators' (the Council of 500 or the proedria) indicates a specific physical space in the theater reserved for high-ranking political officials/wealthy elites, granting them distinct visibility and status.",
+      "specificity": 6,
+      "specificity_reasoning": "This is restricted to a specific political body (the Council) and their designated seating area.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military office eligibility",
+      "rule_category": "Access to political succession",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to be elected Phylarch or Hipparch",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] Look at Diitrephes! His wings were only wicker-work ones, and yet he got himself chosen Phylarch and then Hipparch; from being nobody, he has risen to be famous."
+      ],
+      "reasoning": "The text cites the real-life example of Diitrephes to illustrate how a citizen can be chosen for high military commands (Phylarch - cavalry commander of a tribe; Hipparch - general of cavalry), which are concrete political/military resources.",
+      "specificity": 7,
+      "specificity_reasoning": "While any citizen might theoretically be eligible, these are high-level offices held by very few individuals at a time.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave hair length restriction",
+      "rule_category": "Restriction of personal appearance",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to wear long hair",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§44] Pisthetaerus: You a slave! and yet you wear your hair long?"
+      ],
+      "reasoning": "Pisthetaerus expresses shock and incredulity at a self-described slave wearing long hair. This indicates a social or legal rule in 5th-century Athens where long hair was a marker of free status, and slaves were expected to keep their hair short.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule applies broadly to the entire class of slaves and characterizes their visible status in society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreigner expulsion (Xenelasia)",
+      "rule_category": "Restriction of movement",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Freedom of movement and residence",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§44] Pisthetaerus: It's the same here as in Sparta. Strangers are driven away, and blows rain down as thick as hail."
+      ],
+      "reasoning": "Pisthetaerus explicitly references the Spartan practice of xenelasia (periodic expulsion of foreigners) and claims his new city follows the same rule of physically driving out 'strangers'.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all non-citizens or 'strangers' attempting to reside in a specific territory.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Official salary entitlement",
+      "rule_category": "Grant of economic privilege",
+      "group": "Inspectors",
+      "group_category": "Occupation",
+      "resource": "Right to receive a salary for public service",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§44] Pisthetaerus: Will you just pocket your salary, do nothing, and get out? Inspector: Indeed I will; I am urgently needed to be at Athens to attend the Assembly"
+      ],
+      "reasoning": "The text confirms that Athenian inspectors (episkopoi) appointed to overseer colonies or subject cities were entitled to a salary, even if they performed no actual work before leaving.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific subset of the citizen body appointed to a particular administrative office.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Standardized imperial weights and measures",
+      "rule_category": "Economic regulation",
+      "group": "Inhabitants of colonies/allies",
+      "group_category": "Origin",
+      "resource": "Right to use local weights and measures",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§44] Dealer in Decrees: The Nephelococcygians shall adopt the same weights, measures and decrees as the Olophyxians."
+      ],
+      "reasoning": "The decree dealer represents the Athenian practice of forcing colonies and allied states to abandon local systems in favor of standardized Athenian weights and measures, which is a loss of local economic autonomy.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to all inhabitants of a specific geographic territory under imperial administrative control.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial summons for outrage (Hybris)",
+      "rule_category": "Access to judicial protection",
+      "group": "Magistrates",
+      "group_category": "Occupation",
+      "resource": "Right to summon and sue for physical outrage",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§44] Inspector: I summon Pisthetaerus for outrage for the month of Munychion. ... Inspector: You shall testify that they dare to strike me, the inspector."
+      ],
+      "reasoning": "The Inspector, acting as a public official, invokes the legal right to bring a suit for 'outrage' (hybris) against a person who physically assaulted him, citing specific court months and the role of witnesses.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to legal officials and those they interact with in a specific judicial context.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prophetic entitlement to goods",
+      "rule_category": "Grant of economic privilege",
+      "group": "Oracle-mongers",
+      "group_category": "Occupation",
+      "resource": "Right to food and clothing from sacrifices",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§44] Oracle-Monger: give the prophet who first reveals my words a good cloak and new sandals. ... And besides this a goblet of wine and a good share of the entrails of the victim."
+      ],
+      "reasoning": "The oracle-monger cites an established custom/rule where religious practitioners who provide oracles during a sacrifice are entitled to specific material rewards (clothing and food) from the person performing the sacrifice.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies only to a narrow niche of wandering religious specialists.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Inspector appointment by lot",
+      "rule_category": "Access to political office",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to hold office as Inspector",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] Inspector: I have been appointed by lot to come to Nephelococcygia as inspector. ... A decree of Teleas."
+      ],
+      "reasoning": "The text reflects the Athenian practice of appointing administrative and oversight officials (Inspectors) by lot from the citizen body, governed by official decrees.",
+      "specificity": 6,
+      "specificity_reasoning": "While any citizen might be eligible, only a specific number are actually appointed to the role.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial physical protection",
+      "rule_category": "Protection from bodily harm",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Protection from corporal assault",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] Inspector: You shall testify that they dare to strike me, the inspector. ... I summon Pisthetaerus for outrage for the month of Munychion."
+      ],
+      "reasoning": "Assaulting a magistrate or designated official while performing their duties (like an Inspector) is a legal 'outrage' carrying heavy fines, demonstrating legal protection for those in state-sanctioned roles.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any individual currently holding a specific public office.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Bounty for Tyrants",
+      "rule_category": "Denial of life protection",
+      "group": "Tyrants",
+      "group_category": "Political power",
+      "resource": "Protection from extrajudicial execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§48] Leader of First Semi-Chorus: I hear it proclaimed: A talent for him who shall kill Diagoras of Melos, and a talent for him who destroys one of the dead tyrants."
+      ],
+      "reasoning": "The mention of a talent for killing a tyrant reflects the Athenian law that stripped political enemies (specifically those who attempted tyranny) of their right to life, offering a reward for their killing.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies to a very small, specific group of political outcasts.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public salary for officials",
+      "rule_category": "Grant of economic privilege",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Right to state-funded salary",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] Pisthetaerus: Will you just pocket your salary, do nothing, and get out?"
+      ],
+      "reasoning": "The text confirms that appointed inspectors and magistrates were entitled to a salary for their civic service.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all citizens who achieve appointment to a paid office.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Bounty for political enemies",
+      "rule_category": "State-sanctioned violence",
+      "group": "Exiles and Tyrants",
+      "group_category": "Origin",
+      "resource": "Protection from extrajudicial killing",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§50] I hear it proclaimed: A talent for him who shall kill Diagoras of Melos, and a talent for him who destroys one of the dead tyrants."
+      ],
+      "reasoning": "The text references real Athenian public proclamations (the reward for Diagoras of Melos for impiety and rewards for killing tyrants), showing that specific categories of political/religious offenders lost their legal protection and could be killed for a bounty.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to specific named individuals or specific historical political categories (tyrants) rather than a broad social class.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial bribery expectation",
+      "rule_category": "Corruption of justice",
+      "group": "Judges",
+      "group_category": "Occupation",
+      "resource": "Right to receive illicit payments",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§52] I want now to speak to the judges about the prize they are going to award; if they are favourable to us, we will load them with benefits far greater than those Paris received. Firstly, the owls of Laurium, which every judge desires above all things, shall never be wanting to you; you shall see them homing with you, building their nests in your money-bags and laying coins."
+      ],
+      "reasoning": "The passage satirizes the Athenian judicial system where judges (dikasts) were known to be influenced by 'owls of Laurium' (silver coins), framing the receipt of side-payments as a standard benefit for those holding the office.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the specific class of citizens serving as judges in competitions or courts.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Official embezzlement privilege",
+      "rule_category": "Abuse of office",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Capability to misappropriate public funds",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§52] if you hold some public post and want to do a little pilfering, we will give you the sharp claws of a hawk."
+      ],
+      "reasoning": "The text assumes that holding a public post ('public post') naturally provides the opportunity and implicit social 'right' to pilfer (embezzle) resources, describing it as a benefit of the position.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to all citizens holding administrative or political offices.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Statue protection requirement",
+      "rule_category": "Property maintenance",
+      "group": "Statue owners",
+      "group_category": "Wealth",
+      "resource": "Protection of property from birds",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§52] if your award is against us, don't fail to have metal covers fashioned for yourselves, like those they place over statues; else, look out! for the day you wear a white tunic all the birds will soil it with their droppings."
+      ],
+      "reasoning": "The mention of metal covers (meniskoi) placed over statues is a reference to actual Athenian practice used to protect expensive public/private artworks from bird droppings, identifying a concrete material protection resource.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to those responsible for the upkeep of statues, typically wealthy individuals or the state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Entry permit requirement",
+      "rule_category": "Immigration control",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Freedom of movement across borders",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§53] Have you a permit, bearing the seal of the storks? ... No head-bird gave you a safe-conduct? ... Ah! and so you slipped into this city on the sly and into these realms of air-land that don't belong to you."
+      ],
+      "reasoning": "Although the setting is the fictional Cloudcuckooland, the interrogation mimics Athenian procedures regarding safe-conducts (symbola) and seals required for legal entry into a city-state territory.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to any non-citizen traveler wishing to enter a sovereign territory.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Manual labor slave requirement",
+      "rule_category": "Labor control",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from heavy manual labor",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§53] Go as quick as possible and fill every hamper, every basket you can find with wings. Manes will bring them to me outside the walls"
+      ],
+      "reasoning": "The command to the slave (Manes) to perform the heavy physical task of transporting baskets is a literal representation of the Greek societal rule that manual labor and baggage-carrying are the duties of the enslaved class.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to the entire class of domestic and laboring slaves.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Border permit requirement",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Freedom of movement through city gates",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§54] By which gate did you pass through the wall, wretched woman? [...] Did you present yourself to the officers in command of the jays? You don't answer. Have you a permit, bearing the seal of the storks?"
+      ],
+      "reasoning": "The protagonist interrogates Iris on the legality of her entry, citing the necessity of presenting oneself to 'officers' and possessing a 'permit' (symbolized by the seal of the storks). This reflects the Athenian practice of monitoring the movement of non-citizens and requiring official authorization for entry into a regulated polis.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all non-citizens or travelers attempting to enter the city-state's territory.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave corporal punishment",
+      "rule_category": "Exercise of disciplinary violence",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§56] Oh! you lazy servant! won't you hurry yourself? [...] Come, beat him as I do, and put some life into him; he is as lazy as an ass."
+      ],
+      "reasoning": "The text depicts the physical beating of a slave (Manes) by his master as a standard disciplinary response for perceived laziness or slowness. This confirms that slaves lacked legal protection against corporal punishment by their owners.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to the entire class of domestic slaves in Athenian society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Safe-conduct for messengers",
+      "rule_category": "Access to judicial protection",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to safe-conduct",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§54] No head-bird gave you a safe-conduct? [...] Ah! and so you slipped into this city on the sly and into these realms of air-land that don't belong to you."
+      ],
+      "reasoning": "The mention of a 'safe-conduct' (symbolon or similar travel pass) as a requirement for legitimate entry implies that those possessing such documents were granted legal protection and immunity from seizure while traveling through foreign territory.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to travelers, envoys, or traders who have established formal relationships with the city.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Administrative decree access",
+      "rule_category": "Access to political information",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to consult public decrees",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§55] Firstly, as soon as it's dawn, they all spring out of bed together to go and seek their food, the same as you do; then they fly off towards the notices and finally devour the decrees."
+      ],
+      "reasoning": "The Herald describes the behavior of men 'mad' for the new city, mimicking Athenian civic life where citizens would gather at dawn to read public notices and decrees. This indicates that access to written law and administrative decisions was a standard right for the enfranchised population.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad body of citizens who participate in the political life of the city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Support of aged parents",
+      "rule_category": "Obligation of public duty",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Retention of goods",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] But we have also an ancient law written in the code of the storks, which runs thus, When the stork father has reared his young and has taught them to fly, the young must in their turn support the father.",
+        "[§61] But we have also an ancient law written in the code of the storks, which runs thus, When the stork father has reared his young and has taught them to fly, the young must in their turn support the father."
+      ],
+      "reasoning": "This refers to the Athenian law (Gheroboskia) which legally mandated that children who had been raised by their parents must provide for them in their old age, effectively a material lien on the child's resources.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general legal obligation for all citizens with living parents.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Military service requirement",
+      "rule_category": "Military service record",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from hazardous duty",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] Don't strike your father, but take these wings in one hand and these spurs in the other; imagine you have a cock's crest on your head and go and mount guard and fight; live on your pay and respect your father's life. You're a gallant fellow! Very well, then! Fly to Thrace and fight.",
+        "[§61] Don't strike your father, but take these wings in one hand and these spurs in the other; imagine you have a cock's crest on your head and go and mount guard and fight; live on your pay and respect your father's life. You're a gallant fellow! Very well, then! Fly to Thrace and fight."
+      ],
+      "reasoning": "The protagonist directs the aggressive young man toward foreign military service as the proper outlet for his vigor, reflecting the societal expectation and legal recruitment of young men for frontier warfare.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a specific age demographic (young men of military age).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Property confiscation via sycophancy",
+      "rule_category": "Denial of property rights",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to retain goods",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] I? Why, I am an accuser of the islands, an informer... And while he is on his way here by sea, you will be flying to the island to despoil him of his property.",
+        "[§65] I? Why, I am an accuser of the islands, an informer... And while he is on his way here by sea, you will be flying to the islands to despoil him of his property."
+      ],
+      "reasoning": "The text describes the practice of 'sycophancy' or professional informing, where islanders (non-Athenian subjects) are hauled before courts to have their property seized by the state or the accuser.",
+      "specificity": 5,
+      "specificity_reasoning": "This specifically affects wealthy non-citizens or island allies subject to Athenian legal oversight.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Bastard inheritance exclusion",
+      "rule_category": "Exclusion from inheritance",
+      "group": "Bastards",
+      "group_category": "Lineage",
+      "resource": "Right to inherit paternal property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§66] The law will not allow you an obolus of the paternal property, for you are a bastard and not a legitimate child. Heracles I a bastard! What's that you tell me? Pisthetaerus Why, certainly; are you not born of a stranger woman? Besides, is not Athena recognized as Zeus' sole heiress? And no daughter would be that, if she had a legitimate brother. Heracles But what if my father wished to give me his property on his death-bed, even though I be a bastard? Pisthetaerus The law forbids it, and this same Poseidon would be the first to lay claim to his wealth, in virtue of being his legitimate brother. Listen; thus runs Solon's law: A bastard shall not inherit, if there are legitimate children; and if there are no legitimate children, the property shall pass to the nearest kin."
+      ],
+      "reasoning": "The text explicitly cites 'Solon's law' to explain that individuals born of 'stranger women' (not legitimate wives) are barred from inheriting any part of their father's estate, even if the father desires it, provided there are legitimate heirs or kin.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a specific legal sub-class (nothoi/bastards) rather than the general population, but it is a broad structural rule of Athenian inheritance law.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Phratry registration requirement",
+      "rule_category": "Access to civic status",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Registration in the phratry",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§66] But tell me, has your father had you entered on the registers of his phratry? Heracles No, and I have long been surprised at the omission."
+      ],
+      "reasoning": "Registration in a phratry was a concrete civic mechanism in Athens to establish legitimacy and citizenship rights. The passage highlights it as a standard procedure that, when omitted, signals a lack of recognized status.",
+      "specificity": 3,
+      "specificity_reasoning": "Registration is a general requirement for all recognized male citizens to establish their lineage and rights.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sacrificial tongue distribution",
+      "rule_category": "Religious ritual practice",
+      "group": "Athenians",
+      "group_category": "Origin",
+      "resource": "Right to cut out the sacrificial tongue separately",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§66] 'tis these Englottogastorian Philippi who introduced the custom all over Attica of cutting out the tongue separately at sacrifices."
+      ],
+      "reasoning": "The text describes a specific customary ritual practice (cutting the tongue of the victim separately) that has become a standard rule of sacrifice throughout Attica.",
+      "specificity": 2,
+      "specificity_reasoning": "This refers to a general ritual custom followed by the entire population of Attica during sacrifices.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Canephori protection",
+      "rule_category": "Access to ritual protection",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Protection via ritual parasol-bearing",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§66] but I must return in all haste, so give me the umbrella; if Zeus should see me from up there, he would think I was escorting one of the Canephori."
+      ],
+      "reasoning": "Prometheus uses an umbrella to hide, noting that he would look like an escort for a Canephorus (a ritual basket-bearer). This refers to the actual Athenian practice where Canephori were protected or distinguished by attendants carrying parasols during processions.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule applies specifically to a small group of high-status young women selected for religious processions.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Canephori escort ritual",
+      "rule_category": "Religious ritual participation",
+      "group": "Canephori",
+      "group_category": "Gender",
+      "resource": "Right to ritual escort",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§68] give me the umbrella; if Zeus should see me from up there, he would think I was escorting one of the Canephori."
+      ],
+      "reasoning": "Prometheus mentions that a person carrying an umbrella (a sunshade) would be identified as someone escorting a Canephorus (a ritual basket-bearer in Athenian processions). This reflects the customary religious practice where these specific young women were granted ceremonial protection or accompaniment.",
+      "specificity": 8,
+      "specificity_reasoning": "This refers to a very specific subgroup of young women chosen for a particular religious role in Athenian festivals.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Daughter's secondary inheritance status",
+      "rule_category": "Exclusion from inheritance",
+      "group": "Daughters",
+      "group_category": "Gender",
+      "resource": "Right to inherit as sole heir",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§69] Besides, is not Athena recognized as Zeus' sole heiress? And no daughter would be that, if she had a legitimate brother."
+      ],
+      "reasoning": "The text describes the Athenian legal principle where a daughter only becomes an heiress (epikleros) in the absence of legitimate sons; the presence of a legitimate brother excludes her from being the primary heir.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to all female children within families containing male siblings.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Phratry registration requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Registration in phratry registers",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§69] But tell me, has your father had you entered on the registers of his phratry?"
+      ],
+      "reasoning": "Registration in a phratry was a concrete legal requirement for a male to be recognized as a legitimate citizen-son with rights to inheritance and civic standing in Athens.",
+      "specificity": 3,
+      "specificity_reasoning": "This was a standard requirement for all male citizens to establish their legal identity.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sacrificial tongue cutting",
+      "rule_category": "Obligation of religious ritual",
+      "group": "Atticans",
+      "group_category": "Origin",
+      "resource": "Right to perform specific sacrificial rites",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§70] 'tis these Englottogastorian Philippi who introduced the custom all over Attica of cutting out the tongue separately at sacrifices."
+      ],
+      "reasoning": "The text identifies a specific ritual rule followed throughout Attica regarding the handling of animal victims during sacrifice, specifically the separate cutting of the tongue.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general religious custom practiced by the entire population of Attica during sacrifices.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Godhead status through Basileia",
+      "rule_category": "Political succession by marriage",
+      "group": "Gods",
+      "group_category": "Lineage",
+      "resource": "Access to supreme political authority",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§78] 'Tis by the order of our king that ye shall now stagger the earth! Oh, Hymen! 'tis through thee that he commands the universe and that he makes Basileia, whom he has robbed from Zeus, take her seat at his side."
+      ],
+      "reasoning": "The text describes the transfer of universal command from the established deity (Zeus) to a new king (Pisthetaerus) specifically through the possession and marriage of Basileia (Sovereignty). This reflects the Greek cultural-legal concept that cosmic or political legitimacy is a concrete resource tied to the possession of the feminine personification of the throne, which can be 'robbed' or transferred, leaving the previous ruler without power.",
+      "specificity": 10,
+      "specificity_reasoning": "This rule applies to a singular, unique supreme position (the ruler of the universe/gods).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Resident alien civic participation",
+      "rule_category": "Access to civic ritual",
+      "group": "Metics",
+      "group_category": "Citizenship",
+      "resource": "Right to participate in civic processions",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§79] Let all the winged tribes of our fellow-citizens follow the bridal couple to the palace of Zeus and to the nuptial couch!"
+      ],
+      "reasoning": "In the context of the play's establishing of a new polis (Cloudcuckooland), Pisthetaerus calls upon all 'fellow-citizens' to participate in the foundational royal marriage procession. This mirrors Athenian practice where different categories of residents (citizens and often metics in specific roles) were required or permitted to follow religious/state processions, identifying them as part of the body politic.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad category of the population designated as citizens or participants in the new state.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 14,
+  "_file_id": "tlg0019.tlg006.perseus-eng2",
+  "_input_tokens": 102282,
+  "_output_tokens": 15197,
+  "_model": "google/gemini-3-flash-preview"
+}

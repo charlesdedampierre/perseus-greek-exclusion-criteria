@@ -1,0 +1,676 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Prophetic office by lineage",
+      "rule_category": "Access to political succession",
+      "group": "Royal heirs",
+      "group_category": "Lineage",
+      "resource": "Right to hold prophetic office",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] But when she came to youth, the season of marriage, she was called Theonoe; for she knew whatever the gods design, both present and to come, having received this honor from her grandfather Nereus."
+      ],
+      "reasoning": "The text describes the daughter of the King receiving the power of prophecy as an 'honor' inherited from her grandfather, a deity. In the context of the Egyptian court described, this gift translates into a specific socio-political role (the prophetess) accessible through royal lineage.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to the royal family and their immediate descendants.",
+      "confidence": 9
+    },
+    {
+      "rule_category": "Restriction of personal freedom",
+      "rule_name": "Execution of Greek visitors",
+      "group": "Greeks",
+      "group_category": "Origin",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] leave this land and escape, before the son of Proteus, the ruler of this land, catches sight of you; now he is away with his trusty hounds tracking his savage quarry to the death; for he kills every visitor from Hellas that he catches."
+      ],
+      "reasoning": "Helen warns Teucer that the current King of Egypt has a standing policy/rule of killing any Greek person he finds in his territory, indicating a total lack of legal protection or right to life for this specific ethnic group.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a broad ethnic category (all Greeks) but is localized to the territory of Egypt.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Suppliant right of sanctuary",
+      "rule_category": "Access to judicial protection",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to religious sanctuary from forced marriage",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] But I, out of regard to my husband of long ago, am throwing myself down as a suppliant before this tomb of Proteus, for him to keep my bed safe for my husband, so that, if I bear a name infamous throughout Hellas, at least my body may not incur disgrace here."
+      ],
+      "reasoning": "Helen uses the custom of supplication at a sacred site (the tomb) to create a legal/sacred barrier against a forced marriage. This demonstrates a specific mechanism where individuals can claim protection from bodily or marital violation.",
+      "specificity": 5,
+      "specificity_reasoning": "Supplication is a general right but here it is used specifically by a woman to protect her marital status.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Exile for fratricide survival",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Right to reside in fatherland",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Helen: Who banished you from your fatherland? Teucer: My father Telamon. [...] Helen: How so? You didn’t take his life with your sword, did you? [...] Teucer: When someone else got the arms, he [Aias] took his own life. Helen: Then are you ill through his suffering? Teucer: Yes, because I did not die together with him."
+      ],
+      "reasoning": "Teucer is banished by his father for failing to protect his brother or die with him. This reflects a customary rule regarding family honor and the liability of survivors in noble lineages, resulting in the loss of residence and citizenship rights.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to individuals within specific family circumstances, particularly nobility/warriors.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Enslavement of war captives",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Greek women",
+      "group_category": [
+        "Gender",
+        "Origin"
+      ],
+      "resource": "Freedom from enslavement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§2] Oh! Oh! Maidens of Hellas, the prey of barbarian sailors!",
+        "[§7] while through the cities a rumor goes, mistress, which hands you over to the bed of a barbarian"
+      ],
+      "reasoning": "The text refers to Greek women as 'prey' for foreign sailors and describes the threat of being 'handed over' to foreign men, illustrating the lack of protection against abduction and enslavement for women during wartime or maritime raids.",
+      "specificity": 3,
+      "specificity_reasoning": "This risk applied to a large portion of the female population during times of conflict or travel.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Barbarian absolute autocracy",
+      "rule_category": "Political exclusion",
+      "group": "Non-royal subjects",
+      "group_category": "Citizenship",
+      "resource": "Status as free persons",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] Next, the gods have removed me from my native country to barbarian habits, and bereft of friends I have become a slave although I am free by birth; for among barbarians all are slaves except one."
+      ],
+      "reasoning": "Helen describes the political structure of 'barbarian' (non-Greek) societies as one where the lack of civic rights effectively renders every subject a slave to the single ruler.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes the entire population of non-Greek states under a single monarch.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Greek exclusion from Egypt",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Greeks",
+      "group_category": "Origin",
+      "resource": "Freedom of movement and safety",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] Old woman: Get away from the house and don’t annoy my master by standing at the court-yard gate! Or else you will die because you are a Hellene, and they have no business here.",
+        "[§9] Old woman: Go away! Stranger, my orders are to let no Hellene come near this house."
+      ],
+      "reasoning": "The Egyptian king has issued a specific order to exclude and potentially execute any Greeks found near his palace, representing a total denial of safety and movement based on ethnic origin.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to all Greeks, it is localized to the territory/proximity of the Egyptian palace.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Burial rites for shipwrecked",
+      "rule_category": "Religious access",
+      "group": "Men dead at sea",
+      "group_category": "Health",
+      "resource": "Right to maritime funeral rites",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] Helen: But I will say it is not the custom in Hellas to bury those who have died at sea on the dry land."
+      ],
+      "reasoning": "Helen references a specific Greek religious/customary rule that dictates how the resource of a proper burial is handled for those lost at sea, specifically requiring a maritime ceremony rather than a land burial.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to any Greek citizen who dies by drowning.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Suppliant protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Legal status",
+      "resource": "Protection from physical violence",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] Menelaos: I come as a shipwrecked man and a guest; such people are safe from violence.",
+        "[§9] Helen: Do you see my wretched sanctuary at this tomb? ... Here, as a suppliant, I am asking for an escape from his bed."
+      ],
+      "reasoning": "Both Menelaos and Helen invoke the customary rule that individuals identifying as shipwrecked guests or religious suppliants at a tomb are entitled to protection from harm.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to a specific legal/religious state (supplication) that any person might enter during a crisis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave suicide stigma",
+      "rule_category": "Social stratification",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Access to 'noble' forms of death",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] Helen: To hang oneself, high in the air, is unseemly, even slaves consider it undignified; but to stab oneself is noble and good, and the moment of rending life from the body is short."
+      ],
+      "reasoning": "The text identifies different modes of death (suicide) based on social class. Hanging is categorized as a low or 'slavish' act, whereas stabbing is reserved for the 'noble,' indicating a stratification in how physical integrity and its end are handled.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the entire class of enslaved people regarding social customs of death.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Inherited parental virtue",
+      "rule_category": "Grant of status",
+      "group": "Legitimate children",
+      "group_category": "Lineage",
+      "resource": "Right to inherited social reputation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] Helen: ...grant me this favor, and imitate the character of a just father; for this is the fairest glory for children, when the child of a good father resembles its parents in character."
+      ],
+      "reasoning": "Helen argues that a child has a right (and obligation) to inherit and maintain the 'glory' or moral standing of a father, using this as a legal/customary leverage to influence Theonoe.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to children of high-status or 'just' fathers within the context of legacy.",
+      "confidence": 6
+    },
+    {
+      "rule_name": "Property restoration",
+      "rule_category": "Access to judicial protection",
+      "group": "Legal owners",
+      "group_category": "Wealth",
+      "resource": "Protection from robbery and right to recovery",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] Helen: For the god hates violence, and commands everyone to have their possessions without robbery. ... Heaven is common to all mortals, and so is the earth, where people ought to fill up their homes without having another’s property, or taking it away by force."
+      ],
+      "reasoning": "The text explicitly states a social/divine rule that property should not be taken by force and that victims have a right to the restoration of their goods (in this case, Helen as a 'possession' of Menelaos).",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule described as applying to all mortals.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Greek exclusion from Egypt",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Greeks",
+      "group_category": "Origin",
+      "resource": "Freedom of movement and safety within Egypt",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] Old woman: Get away from the house and don’t annoy my master by standing at the court-yard gate! Or else you will die because you are a Hellene, and they have no business here.",
+        "[§11] Old woman: Stranger, my orders are to let no Hellene come near this house.",
+        "[§11] Old woman: He [the king] is not inside; he is most bitterly opposed to the Hellenes."
+      ],
+      "reasoning": "The text explicitly states that the King of Egypt has a policy of hostility toward Greeks (Hellenes), translated into a death threat for any who approach the palace. This is presented as a standing order given to the gatekeeper.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to an entire ethnic/national group (Greeks) but is limited to the specific geographic context of Egypt/the Egyptian palace.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Shipwrecked guest immunity",
+      "rule_category": "Access to judicial protection",
+      "group": "Shipwrecked persons",
+      "group_category": "Health",
+      "resource": "Protection from violence",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] Menelaos: I come as a shipwrecked man and a guest; such people are safe from violence."
+      ],
+      "reasoning": "Menelaos invokes a customary rule (xenia/asylia) where shipwrecked individuals and guests are granted immunity from physical harm regardless of their origin.",
+      "specificity": 3,
+      "specificity_reasoning": "It applies to a broad category of people in a specific state of distress (shipwrecked/guests).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Elite shipwreck aid",
+      "rule_category": "Grant of economic privilege",
+      "group": "Wealthy property owners",
+      "group_category": "Wealth",
+      "resource": "Access to charitable resources",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] Menelaos: sailors can hope to get something from wealthy homes; but from those who have no livelihood—they could not help us, even if they wanted to."
+      ],
+      "reasoning": "The text identifies a social expectation or custom where wealthy households provide material aid to shipwrecked sailors, a resource not available or expected from the poor.",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects a general socio-economic division in the ability to provide/receive hospitality.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Voluntary military service",
+      "rule_category": "Military service autonomy",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Freedom from forced conscription",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] Menelaos: for I believe that I carried a mighty army—and I say this not in boast—in ships to Troy, no tyrant commanding any troops by force, but leading the young men of Hellas by voluntary consent."
+      ],
+      "reasoning": "Menelaos describes the recruitment of the Greek army for Troy as being based on 'voluntary consent' rather than forced conscription by a tyrant, establishing a norm of non-coerced military service for these specific troops.",
+      "specificity": 5,
+      "specificity_reasoning": "While describing a specific historical event (the Trojan War), it frames the method of leadership and troop-gathering as a distinction from tyrannical force.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Asylum at tombs",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Legal standing",
+      "resource": "Right to sanctuary from seizure",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] Helen: Here I am, once again coming back to the sanctuary of this tomb... This man is keeping me from the tomb, and he wants to take me and give me to the king, whose wooing I was seeking to avoid.",
+        "[§13] Menelaos: You there! the one trying with fearful effort to reach the base of the tomb and the pillars of burnt sacrifice, stay where you are."
+      ],
+      "reasoning": "In Athenian drama, which reflects contemporary Greek norms, tombs and altars functioned as legal sanctuaries. Helen's attempt to reach the tomb to avoid being taken by force demonstrates a recognized customary rule where reaching a sacred site provides protection from abduction or arrest.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying specifically to those in immediate danger (suppliants), the right of sanctuary was a broad religious and legal norm in Greek society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Monogamous marriage restriction",
+      "rule_category": "Marriage restriction",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to have multiple legal wives",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] Menelaos: As one man, I am certainly not the husband of two women."
+      ],
+      "reasoning": "Menelaos's statement reflects the Greek social and legal norm of monogamy. Even when confronted with a second version of his wife, his immediate reaction is that a single man cannot legally or customarily possess two wives simultaneously.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies generally to all adult males within the social structure.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Father's right of betrothal",
+      "rule_category": "Access to marriage",
+      "group": "Fathers",
+      "group_category": "Lineage",
+      "resource": "Right to give daughter in marriage",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] Helen: The one whom Tyndareus, my father, gave to you."
+      ],
+      "reasoning": "Helen identifies her status as a legitimate wife based on the fact that her father (the Kyrios) gave her to her husband. This reflects the Greek legal reality of 'en guesis', where the father has the sole authority to transfer a woman into a marriage.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all heads of households with daughters.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Suitability of marriage",
+      "rule_category": "Marriage restriction",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from bigamous or shameful marriage",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] Helen: My mother is no more; through shame of my disgraceful marriage she tied a noose around her neck.",
+        "[§13] Helen: The god cast me out... for a shameful marriage."
+      ],
+      "reasoning": "The text describes 'shameful' or 'disgraceful' marriage (here referring to adultery or bigamy) as a violation of social order so severe it leads to loss of life or status. This implies a rule that a woman's marriage must be legally and socially sanctioned to maintain the family's honor and resource standing.",
+      "specificity": 2,
+      "specificity_reasoning": "This social norm governed the behavior and status of all women in the citizen class.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave status of mind",
+      "rule_category": "Internal autonomy",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to internal moral integrity",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Although I was born a servant, let me still be numbered among honest slaves; my mind is free, if not my name. For this is better than to suffer double misery as one man: to have a worthless heart and, being a slave, to owe obedience to any other."
+      ],
+      "reasoning": "The messenger distinguishes between the legal state of slavery ('name') and the internal moral state ('mind'). He asserts that a slave can possess an 'honest' and 'free' mind despite their legal lack of freedom, suggesting a customary recognition of a slave's moral agency.",
+      "specificity": 2,
+      "specificity_reasoning": "Slavery was a widespread status in Greek society, making this rule applicable to a large segment of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Asylum at tombs",
+      "rule_category": "Sacred protection",
+      "group": "Suppliants",
+      "group_category": "Legal status",
+      "resource": "Protection from physical violence",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Helen: Do you see my wretched sanctuary at this tomb? ... Here, as a suppliant, I am asking for an escape from his bed. ... This was as good a protection to me as the temples of the gods."
+      ],
+      "reasoning": "Helen utilizes a tomb as a place of sanctuary (asylum). The text treats the tomb as having the same legal and religious protective power as a temple, granting the seeker protection from forced marriage or violence.",
+      "specificity": 4,
+      "specificity_reasoning": "While any person could become a suppliant, the actual act of seeking asylum at a tomb is a specific legal/religious procedure used in times of crisis.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female diplomatic agency",
+      "rule_category": "Gendered mediation",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to mediate domestic disputes",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Menelaos: The task is yours; it is suitable for women to deal with women. Helen: Be sure that I will clasp her knees."
+      ],
+      "reasoning": "Menelaos explicitly states it is customary and appropriate for women to handle negotiations with other women (in this case, Theonoe), granting women a specific recognized role in domestic or religious diplomacy.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all women in the society when dealing with other women in a social or religious context.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Right to property",
+      "rule_category": "Property protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from theft and robbery",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Helen: For the god hates violence, and commands everyone to have their possessions without robbery. ... Heaven is common to all mortals, and so is the earth, where people ought to fill up their homes without having another’s property, or taking it away by force."
+      ],
+      "reasoning": "Helen argues for a general societal and divine rule that prohibits the forceful taking of another's property. This reflects a legal norm regarding the security of private possessions.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule is presented as a universal moral and legal obligation affecting everyone in society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sea-death burial custom",
+      "rule_category": "Religious ritual access",
+      "group": "Greeks",
+      "group_category": "Origin",
+      "resource": "Right to symbolic sea burial",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Helen: But I will say it is not the custom in Hellas to bury those who have died at sea on the dry land."
+      ],
+      "reasoning": "Helen refers to a specific cultural and religious custom of the Greeks ('Hellas') where those who die at sea are not buried on land, but receive a specific ritual involving ship and sea, which serves as a legal-religious entitlement for the deceased's family.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all Greeks but only in the specific circumstance of a death at sea.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prophetic disclosure requirement",
+      "rule_category": "Civic duty",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Obligation to report information to rulers",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] Theonoe: ...for his orders are for me to tell him, whenever you happen to come to this land. One of you, go show my brother this man is here, so that I may secure my position."
+      ],
+      "reasoning": "The king has issued a standing order to the prophetess to report any newcomers. This represents a restriction on the prophetess's autonomy and a legal obligation to serve the interests of the sovereign.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to the prophetess/priestess in the service of the king.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Royal power of execution",
+      "rule_category": "Access to judicial protection",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] I have rebuked myself many times; for do we not punish evil men with death? And now I have heard that some Hellene has come openly to the land, without the guards’ notice, either as a spy or thievishly hunting after Helen; he will die if only I can catch him."
+      ],
+      "reasoning": "Theoklymenos, as king, asserts the right to summarily execute any Greek (Hellene) found in his territory under suspicion, bypasses formal trial procedures for foreigners perceived as threats.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a broad category of outsiders (Greeks/Hellenes) within the Egyptian context of the play.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Widow's mourning rites",
+      "rule_category": "Mandatory social custom",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Right to maintain physical appearance",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] Many of the Achaeans have breathed out their last amid the spears and hurling stones and have gone to unhappy Hades; their wives have cut off their hair in sorrow, and their homes are left without a bride;",
+        "[§21] You there, why have you put black robes instead of white on your body, and cut the hair from your noble head with a sword, and why do you drench your cheeks with pale tears, lamenting?"
+      ],
+      "reasoning": "The text describes a consistent social mandate where wives of deceased soldiers must cut their hair and change their dress as a concrete sign of mourning, losing the right to inhabit their normal physical state.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any woman in the society whose husband has died.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female funeral management",
+      "rule_category": "Religious access",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to perform funeral rites",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] Menelaos: This task belongs to mother, or wife, or children. Theoklymenos: According to you, the work of burying her husband belongs to her. Menelaos: Yes indeed; piety demands that the dead be not robbed of their due."
+      ],
+      "reasoning": "The text establishes that performing funeral rites for a deceased male relative is a specific legal/customary entitlement and duty held by the female next-of-kin.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general cultural rule for all families within the Hellenic context described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maritime funeral provision",
+      "rule_category": "Religious access",
+      "group": "Sailors",
+      "group_category": "Occupation",
+      "resource": "Right to symbolic burial",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] Helen: It is customary among the Hellenes, whenever someone dies at sea— To carry out the funeral rites in empty woven robes. ... We take out of harbor to the sea all that is the dead man’s due."
+      ],
+      "reasoning": "The text identifies a specific customary rule granting sailors who die at sea the right to a cenotaph/symbolic burial involving specific rituals (empty robes and sea offerings) to maintain their religious standing.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to a subset of the population (sailors) who die in a specific manner (at sea).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Aristocratic burial standards",
+      "rule_category": "Economic privilege",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Right to high-status burial items",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] Menelaos: Each according to his means. ... Bronze arms; for war was his delight. Theoklymenos: These will be worthy of the race of Pelops, and these we will give."
+      ],
+      "reasoning": "Funerary customs are explicitly scaled by wealth and lineage; the 'race of Pelops' (nobility) is entitled to bury their dead with expensive bronze arms and rich offerings, a right not extended to those without 'means'.",
+      "specificity": 4,
+      "specificity_reasoning": "I chose 4 because it distinguishes between classes of wealth/lineage within the funeral context.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Destitute stranger support",
+      "rule_category": "Grant of economic privilege",
+      "group": "Shipwrecked strangers",
+      "group_category": "Foreigners",
+      "resource": "Right to food and clothing",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] Theoklymenos: As you have brought me good news, you will receive clothing instead of going in rags, and food, so that you may reach your country, since now I see you doing very badly indeed."
+      ],
+      "reasoning": "While contingent on providing 'good news', the text illustrates a customary provision of basic material needs (food/clothing) to foreign strangers in distress by the ruling authority.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to the specific, limited group of foreign survivors or messengers appearing at court.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Royal labor exclusion",
+      "rule_category": "Exclusion from manual labor",
+      "group": "Kings",
+      "group_category": "Lineage",
+      "resource": "Exemption from manual service",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] Helen: Not at all! Do not become a slave to your slaves, lord."
+      ],
+      "reasoning": "Helen's remark to Theoklymenos reflects a social norm where a person of royal/noble status is expected to abstain from manual labor or tasks designated for servants, as doing so is framed as a self-degradation ('becoming a slave to your slaves').",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to the ruling class/monarchs to maintain social distance from the enslaved.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Funeral rite participation",
+      "rule_category": "Access to religious ritual",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Right to perform funeral rites in person",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] Helen: Let me go and pay funeral rites to the dead in person."
+      ],
+      "reasoning": "Helen asserts her right to personally conduct the religious obligations for her (supposedly) deceased husband. Theoklymenos acknowledges this as a valid custom, even if he initially suggests she stay behind.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any woman in the state of widowhood within this culture.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Marital fidelity obligation",
+      "rule_category": "Family duty",
+      "group": "Wives",
+      "group_category": "Gender",
+      "resource": "Right to honor first marriage",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] Helen: O my new husband, I must honor my first marriage-bed and the one whose company I shared as a bride; for I could even die with my husband, I loved him so much."
+      ],
+      "reasoning": "The text establishes a strong customary expectation that a wife owes primary loyalty and 'honor' to her first husband/marriage-bed, even when entering a new marriage. This is treated as a social/moral imperative.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general rule governing the behavior and rights of married women in this society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave obedience",
+      "rule_category": "Labor control",
+      "group": "Sailors",
+      "group_category": "Occupation",
+      "resource": "Right to personal autonomy",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] Theoklymenos: Most certainly; my sailors must obey him."
+      ],
+      "reasoning": "The king explicitly states that his sailors (who are treated as property or subjects under command) must obey the person he designates as commander, showing a lack of autonomy regarding their labor and movement.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad category of service-level sailors/rowers in the kingdom.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Paternal right of betrothal",
+      "rule_category": "Marriage restriction by origin",
+      "group": "Daughters",
+      "group_category": "Gender",
+      "resource": "Right to be married by paternal authority",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§34] Theoklymenos: When she gave my bride to another. Servant: To the one who had a better right. Theoklymenos: Who has rights over my property? Servant: The one who received her from her father."
+      ],
+      "reasoning": "The servant argues that Menelaus has a superior legal or moral claim to Helen because he received her from her father (Tyndareus). This reflects the Athenian practice of 'enkyesis', where the father or male guardian (kyrios) holds the exclusive right to bestow a woman in marriage.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all legitimate daughters within the social structure, a significant portion of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave subordination to master",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to exercise independent judgment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§34] Theoklymenos: Will you rule over your master, although you are a slave? ... Theoklymenos: So I am your subject, not your ruler."
+      ],
+      "reasoning": "Theoklymenos’s indignant questions highlight the societal expectation that slaves are subjects to their masters and have no right to command, judge, or physically restrain them, even if the slave believes they are acting correctly.",
+      "specificity": 2,
+      "specificity_reasoning": "This defines the fundamental power dynamic for the entire enslaved population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Master's power of execution",
+      "rule_category": "Denial of judicial protection",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§34] Theoklymenos: It seems you desire to be killed. Servant: Kill me; you will not kill your sister with my consent, but me instead; to die for their masters is the most glorious act for noble slaves."
+      ],
+      "reasoning": "The dialogue demonstrates that a master can threaten a slave with immediate death for disobedience or interference. The slave’s acceptance of death as a 'glorious act' reinforces the reality that they lack legal protection against their master's lethal violence.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all slaves within a household.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Male guardianship over sisters",
+      "rule_category": "Restricted personal autonomy",
+      "group": "Sisters",
+      "group_category": "Gender",
+      "resource": "Protection from fraternal violence",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§34] Theoklymenos: Let me kill my most wicked sister— Servant: No, she is most pious. ... [§35] Dioskouroi: But hold your black sword away from your sister, and believe that she is acting with discretion in this matter."
+      ],
+      "reasoning": "Theoklymenos attempts to kill his sister (Theonoe) for what he perceives as a betrayal of his interests. While the gods intervene to stop him, the text reflects a context where a male head of household could exercise extreme disciplinary power, including lethal force, over female relatives who 'betray' the family interest.",
+      "specificity": 5,
+      "specificity_reasoning": "This concerns the specific relationship between a male head of household and his female dependents.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Well-born divine favor",
+      "rule_category": "Access to divine protection",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Protection from extreme suffering",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§35] Dioskouroi: For deities do not hate the well-born, but the sufferings of the multitude are greater."
+      ],
+      "reasoning": "The Dioskouroi explicitly state that the gods favor the 'well-born' (aristocrats/nobles) and that their suffering is less compared to the 'multitude' (the common people). This establishes a hierarchy of divine/social protection based on lineage.",
+      "specificity": 3,
+      "specificity_reasoning": "This contrasts the small elite class with the vast majority of the population.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 8,
+  "_file_id": "tlg0006.tlg014.perseus-eng2",
+  "_input_tokens": 67920,
+  "_output_tokens": 9904,
+  "_model": "google/gemini-3-flash-preview"
+}

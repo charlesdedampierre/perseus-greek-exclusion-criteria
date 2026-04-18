@@ -1,0 +1,63 @@
+.dashboard {
+  background: white;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.dashboard-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--slate-800);
+  margin-bottom: 1rem;
+}
+.bar-chart {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.bar-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  cursor: pointer;
+  padding: 0.2rem 0;
+  border-radius: 4px;
+  transition: background 0.1s;
+}
+.bar-row:hover {
+  background: var(--slate-50);
+}
+.bar-label {
+  min-width: 150px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--slate-600);
+  text-align: right;
+  text-transform: capitalize;
+}
+.bar-track {
+  flex: 1;
+  background: var(--slate-100);
+  border-radius: 4px;
+  height: 26px;
+  overflow: hidden;
+}
+.bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  min-width: 32px;
+  transition: width 0.3s ease;
+}
+.bar-count {
+  font-size: 0.72rem;
+  color: white;
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .bar-label { min-width: 100px; font-size: 0.7rem; }
+}

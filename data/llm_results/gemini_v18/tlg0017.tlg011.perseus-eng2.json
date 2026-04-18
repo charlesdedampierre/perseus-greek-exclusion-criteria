@@ -1,0 +1,273 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Agnatic inheritance priority",
+      "rule_category": "Access to political succession",
+      "group": "Male relatives (paternal)",
+      "group_category": "Lineage",
+      "resource": "Right of first-priority inheritance",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] Hagnias, it is true, was not our brother; but in the matter of a brother's property the law has given the right of inheritance first to brothers and nephews provided they are on the father's side; for they are related to the deceased in the nearest degree."
+      ],
+      "reasoning": "Athenian law explicitly prioritizes male relatives on the father's side over all other potential heirs, establishing a clear hierarchy based on lineage and sex.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all citizens involved in inheritance disputes, which was a common occurrence in Athenian civic life.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Male preference in inheritance",
+      "rule_category": "Denial of property rights",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Priority in inheritance claims",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] ...and those who were supporting Hagnias's mother, who stands in the same degree of relationship as I do (being sister of Stratius) but who is excluded by the law which ordains that the males shall have the preference..."
+      ],
+      "reasoning": "The text explicitly mentions a law that subordinates female relatives to male relatives of the same degree of kinship regarding inheritance rights.",
+      "specificity": 3,
+      "specificity_reasoning": "This affects all women in the citizen class who might otherwise be eligible for an inheritance.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Paternal lineage preference",
+      "rule_category": "Denial of property rights",
+      "group": "Maternal relatives",
+      "group_category": "Lineage",
+      "resource": "Direct right of succession",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] If these fail, it gives the right of succession as next-of-kin to the third degree, namely, first cousins on the father's side including their children. If this degree is also lacking, the law goes back and gives the succession to the relatives of the deceased on his mother's side..."
+      ],
+      "reasoning": "Maternal relatives are legally barred from claiming an estate until multiple degrees of paternal relatives have been exhausted, showing a structural disadvantage based on the side of the family.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual attempting to inherit through a maternal connection.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Inheritance limit for descendants",
+      "rule_category": "Exclusion from inheritance",
+      "group": "Children of first cousins",
+      "group_category": "Lineage",
+      "resource": "Right to inherit as next-of-kin",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] Mark you, gentlemen, the legislator did not say that, in default of heirs on the father's side up to the degree of cousin's children, the rights descend to the latter's children; no, in default of us, he gives the inheritance to the relatives of the deceased on his mother's side... But he has placed our children outside the right of succession."
+      ],
+      "reasoning": "The law defines a specific 'cut-off' point for paternal inheritance. Once the degree of 'children of cousins' is reached, the right does not pass to their children but instead resets to the maternal side, excluding a specific generation/degree of paternal kin.",
+      "specificity": 6,
+      "specificity_reasoning": "This is a specific genealogical restriction that applies only to a particular degree of kinship within the inheritance hierarchy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Legal deposit requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Litigants",
+      "group_category": "Legal status",
+      "resource": "Right to have a claim settled in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] ...should think fit, not to bring an action against me and pay the necessary deposit—this being the proper moment to have the question settled, if his claims were well-founded..."
+      ],
+      "reasoning": "The text identifies the payment of a 'deposit' (parakatabole) as a mandatory legal requirement for anyone wishing to validly contest an inheritance claim in court.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a procedural rule affecting almost anyone entering this type of civil litigation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Testamentary adoption right",
+      "rule_category": "Grant of economic privilege",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to designate heirs by adoption",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] When he was at the point of death he adopted a daughter, stipulating in his will that, if anything should happen to her, the estate should pass to Glaucon...",
+        "[§9] ...he did not leave his possessions, in case anything happened to him, to us, his nearest relatives, but adopted a niece; and if anything happened to her, he devised his property to Glaucon..."
+      ],
+      "reasoning": "Citizens with property had the legal right to bypass 'next-of-kin' default rules by explicitly adopting an heir and creating a testamentary disposition.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any head of household (kyrios) wishing to control the devolution of their estate.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Litigation for inheritance shares",
+      "rule_category": "Access to judicial protection",
+      "group": "Legal claimants",
+      "group_category": "Citizenship",
+      "resource": "Right to individual suit for estate shares",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§24] Law Does it appear to you that the law gives any liberty for a concerted arrangement? Or are not its provisions in an exactly contrary sense, since, even if a previous arrangement existed, it expressly ordains that each party shall bring an action for his own share, and prescribes a single voting-urn, when the two parties base their claims on the same ground, and makes this the system of adjudication?"
+      ],
+      "reasoning": "The text cites a law requiring individual rather than collective legal actions for shares of an estate, ensuring each claimant has a distinct right to pursue their portion through the court system.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any citizen involved in inheritance disputes, which is a common occurrence in Athenian civic life but limited to property owners.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Universal right to claim",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to make a claim on an estate",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] But the law gives full liberty to anyone who likes to make a claim, so that they could not possibly make this allegation."
+      ],
+      "reasoning": "The author explicitly states that the law allows any person (implying any eligible citizen) the liberty to lodge a legal claim for an estate.",
+      "specificity": 2,
+      "specificity_reasoning": "The language 'anyone who likes' suggests a very broad application to the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Guardian prosecution rights",
+      "rule_category": "Legal protection of minors",
+      "group": "Orphans",
+      "group_category": "Age",
+      "resource": "Right to bring private suits against guardians",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] For my opponent could not point to any law which forbids him to bring a private action against me on behalf of the child; for no law exists which is opposed to such a proceeding, but, just as the law has granted the right to bring a public indictment against me, so it has created the opportunity either for me or the child to bring a private suit."
+      ],
+      "reasoning": "The author clarifies that contrary to his opponent's claim, orphans (via representatives) have the legal standing to bring both public indictments and private suits against their guardians.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to a subset of the population: fatherless minors and their managing legal guardians.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maternal inheritance rights",
+      "rule_category": "Access to property",
+      "group": "Mothers",
+      "group_category": "Gender",
+      "resource": "Right to inherit from a deceased child",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] Next, if Glaucon had been unwilling to come forward, the mother of Hagnias and Glaucon would have done so, since she possessed a claim of kinship to her son, and so, if she had engaged in a suit against those who possessed no title as next-of-kin, she would clearly have been awarded half the estate by you, since justice and the laws have given her a right to it."
+      ],
+      "reasoning": "The text describes a legal order of succession where a mother has a recognized legal claim to her son's estate in the absence of closer male relatives.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to mothers within the context of specific kinship vacancies in inheritance law.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Orphan estate leasing",
+      "rule_category": "Economic protection of minors",
+      "group": "Orphans",
+      "group_category": "Age",
+      "resource": "Right to have estate included in official lease",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§35] If, again, he contends that there is no need to have the half-share adjudicated or to go to law with me at all, but that this share already belongs to the child, let him make an application to the archon for its inclusion in the lease of the orphan's estate and let the lessee exact from me this portion as belonging to the child."
+      ],
+      "reasoning": "Athenian law allowed the Archon to lease out an orphan's estate to ensure its productivity and protection; this mechanism allowed the child's portion to be legally recovered from other parties.",
+      "specificity": 8,
+      "specificity_reasoning": "This is a very specific administrative procedure involving the Archon and the specific status of orphaned property.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Inheritance trial renewal",
+      "rule_category": "Legal procedure",
+      "group": "Inheritance litigants",
+      "group_category": "Citizenship",
+      "resource": "Right to a retrial upon conviction of perjury",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] and the law ordains that, if there is any conviction for perjury, the action claiming an estate must be heard over again."
+      ],
+      "reasoning": "The law provides a specific recourse for litigants to have an inheritance case reheard if it can be proven that previous testimony was perjured.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies only to those currently involved in estate litigation where perjury has occurred.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public service exemption",
+      "rule_category": "Economic privilege",
+      "group": "Citizens with small fortunes",
+      "group_category": "Wealth",
+      "resource": "Exemption from public service (liturgies)",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] Stratocles and I had a patrimony sufficient to supply our needs but not large enough to defray the cost of public services.",
+        "[§49] But you all are my witnesses that my wife's brothers, Chaereleos and Macartatus, were not among those who supported public burdens but among those who possessed only slender fortunes."
+      ],
+      "reasoning": "In Athens, those below a certain wealth threshold were not required to perform 'liturgies' (public services like funding a trireme or festival), which the author uses to define the economic status of his family.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a significant portion of the citizen class who are neither the poorest nor the liturgy-performing wealthy class.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female collateral inheritance",
+      "rule_category": "Access to inheritance",
+      "group": "Sisters",
+      "group_category": "Lineage",
+      "resource": "Right to inherit ancestral estate",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] The estate at Prospalta was left and passed to their sister, who is my wife, and I was persuaded by her to allow one of our two sons to be adopted into the family of Macartatus."
+      ],
+      "reasoning": "The text demonstrates that in the absence of surviving brothers (Chaereleos and Macartatus), the family estate at Prospalta legally passed to their sister, showing that sisters had a recognized right to inherit property from brothers who died without issue.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific subset of women (sisters) in a specific legal contingency (death of brothers without heirs).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Posthumous family adoption",
+      "rule_category": "Succession management",
+      "group": "Legitimate sons",
+      "group_category": [
+        "Age",
+        "Lineage"
+      ],
+      "resource": "Right to be adopted into a deceased relative's house",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] I was persuaded by her to allow one of our two sons to be adopted into the family of Macartatus."
+      ],
+      "reasoning": "The speaker notes that a son can be legally transferred (adopted) into the house of a deceased relative to continue that family line and manage its estate, a standard Athenian practice to prevent the extinction of a 'oikos'.",
+      "specificity": 5,
+      "specificity_reasoning": "While common in law, it only applies to families with multiple sons where a relative has died without heirs.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealth-based public service obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": [
+        "Wealth",
+        "Citizenship"
+      ],
+      "resource": "Exemption from war contributions and state duties",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§51] for indeed I performed public services no less than before, but was among those who paid war contributions and carried out all the duties imposed by the state."
+      ],
+      "reasoning": "The text confirms that citizens with sufficient property were legally required to perform 'liturgies'—public services such as paying war taxes (eisphora) and fulfilling state-imposed duties, losing part of their private wealth for public benefit.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad class of Athenian citizens meeting a certain property qualification.",
+      "confidence": 10
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0017.tlg011.perseus-eng2",
+  "_input_tokens": 20249,
+  "_output_tokens": 3979,
+  "_model": "google/gemini-3-flash-preview"
+}

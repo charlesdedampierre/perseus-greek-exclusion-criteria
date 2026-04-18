@@ -1,0 +1,117 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Citizenship",
+      "rule": "Banishment for convicted murderers",
+      "group": "Citizens",
+      "resource": "Right to reside and participate in religious/social institutions",
+      "directionality": "LESS",
+      "verbatim": "[§4] Once you condemn him, a defendant must perforce accept your verdict, even if he was not the murderer or concerned in the crime. The law banishes him from his city, its temples, its games, and its sacrifices, the greatest and the most ancient of human institutions; and he must acquiesce.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the legal consequence of a murder conviction for a member of the city, which involves the total loss of access to civic and religious resources through exile.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Religious purification after killing",
+      "group": "Slave owners",
+      "resource": "Protection from ritual pollution",
+      "directionality": "LESS",
+      "verbatim": "[§4] So powerful is the compulsion of the law, that even if a man slays one who is his own chattel and who has none to avenge him, his fear of the ordinances of god and of man causes him to purify himself and withhold himself from those places prescribed by law, in the hope that by so doing he will best avoid disaster.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Even when killing their own property (a slave), the law and religious norms require the individual to undergo purification and restrict their movement, indicating that ownership does not exempt one from the laws regarding pollution.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from physical torture",
+      "directionality": "LESS",
+      "verbatim": "[§23] As to the slaves, if he considered that they were answering his questions truthfully, well and good; if he did not, I was ready to place all my own at his disposal for examination under torture, and should he demand any that did not belong to me, I agreed to obtain the consent of their owner and hand them over to him to examine as he liked.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker explicitly offers his slaves for torture (basanos) to provide evidence in a legal dispute, a standard procedure in Athenian law which contrasts with the 'fit' questioning of free men mentioned in the same paragraph.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Free men legal questioning",
+      "group": "Free men",
+      "resource": "Protection from torture during legal proceedings",
+      "directionality": "MORE",
+      "verbatim": "[§23] Let him take with him as many witnesses as he liked: let him go to the persons who had been present at the accident (I specified them by name): and let him interrogate and cross-examine them. Let him question the free men as befitted free men; for their own sakes and in the interests of justice, they would give a faithful account of what had occurred.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text distinguishes the method of obtaining evidence from free men versus slaves; free men are questioned without physical coercion as befits their status.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Choregus recruitment authority",
+      "group": "Choregi",
+      "resource": "Power to recruit groups for festivals",
+      "directionality": "MORE",
+      "verbatim": "[§11] When I was appointed Choregus for the Thargelia... I recruited the best chorus that I could, without indicting a single fine, without extorting a single pledge, and without making a single enemy.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The office of Choregus (a public liturgy/occupation) grants the individual the legal authority to recruit citizens for a chorus, including the power to issue fines or extort pledges to ensure participation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slaves as legal evidence",
+      "group": "Slaves",
+      "resource": "Right to refuse testimony",
+      "directionality": "LESS",
+      "verbatim": "[§27] Suppose that the offer had come from them. Then had I refused to disclose who the eyewitnesses were: had I refused to hand over my servants at their request... they would be claiming that those facts in themselves afforded to my detriment the strongest presumption of the truth of their charge.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Athenian law, a master was expected to 'hand over' his slaves (servants) for judicial examination; refusing to do so created a legal presumption of guilt, meaning slaves lacked the right to be withheld from the legal process.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Ban for murder suspects",
+      "group": "Citizens",
+      "resource": "Right to participate in public life",
+      "directionality": "LESS",
+      "verbatim": "[§35] could they but induce my accusers here to register a charge and proclaim that I was under the statutory ban, they would, they thought, be safely rid of the whole business. [§36] The law runs that the ban comes into force as soon as anyone has a charge of murder registered against him; and if placed under it, not only should I myself have been unable to proeeed with my case, but once the party responsible for the impeachment and in possession of the facts failed to proceed, the four would gain an acquittal without difficulty.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific legal rule where a citizen accused of murder is placed under a 'statutory ban' that strips them of the right to participate in legal proceedings or public duties (like prosecuting others).",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Accused exclusion from religious sites",
+      "group": "Citizens",
+      "resource": "Access to sacred spaces",
+      "directionality": "LESS",
+      "verbatim": "[§45] why, in that very chamber itself stands a shrine of Zeus the Councillor and Athena the Councillor, where members offer prayers as they enter; and I was one of those members... in their company I entered all our other sanctuaries: I offered sacrifices and prayers on behalf of this city... [§46] And the prosecution were in Athens: they witnessed it: by registering their charge they could have debarred me from it all.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explains that if a murder charge had been registered, he would have been 'debarred' from entering sanctuaries and participating in public sacrifices, a right normally held by citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Basileus jurisdictional time limits",
+      "group": "Kings (Basileus)",
+      "resource": "Right to hand over murder cases",
+      "directionality": "LESS",
+      "verbatim": "[§42] for after registering the action, the Basileus was obliged to hold three preliminary inquiries in the course of the three months following, only bringing the case into court during the fourth—as he has done today. Yet only two months of office remained to him... he is not allowed to hand on an action for murder to his successor; such a thing has never been done by any Basileus in this country.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Basileus (King Archon) is legally restricted from initiating a murder trial if his remaining term of office is shorter than the required four-month procedural window, as he cannot transfer the case to a successor.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg0028.tlg006.perseus-eng2",
+  "_input_tokens": 12441,
+  "_output_tokens": 2146,
+  "_model": "google/gemini-3-flash-preview"
+}

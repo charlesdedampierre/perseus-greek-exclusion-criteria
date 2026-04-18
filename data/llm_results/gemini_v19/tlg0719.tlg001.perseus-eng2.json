@@ -1,0 +1,526 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Age",
+      "rule": "Childhood protection from tetanus death",
+      "group": "children",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§6] With respect to the different ages, children are frequently affected, but do not often die, because the affection is familiar and akin to them;"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes children as a group that, while susceptible to the ailment, is granted a biological or categorical reprieve from its fatal effects compared to other age groups.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth vulnerability to tetanus death",
+      "group": "striplings",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§6] striplings are less liable to suffer, but more readily die;"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly links the age group of striplings (adolescents/young youths) to a higher risk of death once the disease is contracted.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly vulnerability to tetanus",
+      "group": "old men",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§6] old men are most subject to the disease, and most apt to die; the cause of this is the frigidity and dryness of old age, and the nature of the death."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies elderly men as the group with the least access to survival or protection from this specific pathological resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female recovery from tetanus",
+      "group": "Women",
+      "resource": "Right to medical recovery",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§6] Women are more disposed to tetanus than men, because they are of a cold temperament; but they more readily recover, because they are of a humid."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While more frequently attacked, women are described as having a higher capacity for recovery (a positive resource) compared to men based on their gendered 'temperament'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Maternal vulnerability to fatal spasm",
+      "group": "women after abortion",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§6] And women also suffer from this spasm after abortion; and, in this case, they seldom recover."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Women in a specific biological/life-stage state are identified as having almost no access to recovery from the described spasms.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood susceptibility to Syrian ulcers",
+      "group": "children",
+      "resource": "Protection from pestilential ulceration",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§9] wherefore children, until puberty, especially suffer... and these diseases are familiar to girls until they have their menstrual purgation."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text defines children (and pre-menstrual girls) as a specific group lacking the protection or immunity from 'Egyptian/Syrian' tonsil ulcers that adults possess.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly susceptibility to uvula inflammation",
+      "group": "old persons",
+      "resource": "Protection from respiratory obstruction",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§8] The columella is common in old persons, the uva in the young and in adults; for they abound in blood, and are of a more inflammatory nature."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Categorical distribution of disease forms based explicitly on the age of the patient.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood protection from fatal pleurisy",
+      "group": "Children",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§10] Children are least of all liable to pleurisy, and in their case it is less frequently fatal; for their bodies are rare, secretions copious, perspiration and exhalation abundant; hence neither is a great inflammation formed. This is the felicity of their period of life in the present affection."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly labels the lower mortality rate for children in pleurisy as a 'felicity' (advantage) of their age group.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly survival of pleurisy",
+      "group": "old men",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§10] With regard to age, old men are most apt to suffer, and most readily escape from an attack; for neither is there apt to be a great inflammation in an arid frame"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Old age is cited as a factor that, while increasing frequency of the disease, provides a mechanism for 'escaping' death from it due to lack of inflammation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female recovery advantage in tetanus",
+      "group": "Women",
+      "resource": "Probability of medical recovery",
+      "directionality": "MORE",
+      "verbatim": [
+        "Women are more disposed to tetanus than men, because they are of a cold temperament; but they more readily recover, because they are of a humid. [§3]"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a general medical rule of his time that while women are more susceptible to the disease, they possess a higher likelihood of recovery compared to men due to their humoral temperament.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly vulnerability to tetanus death",
+      "group": "old men",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "LESS",
+      "verbatim": [
+        "old men are most subject to the disease, and most apt to die; the cause of this is the frigidity and dryness of old age, and the nature of the death. [§3]"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that being an old man correlates with the highest risk of death from tetanus, driven by the biological/humoral characteristics attributed to that age group.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Old person susceptibility to columella",
+      "group": "old persons",
+      "resource": "Protection from uvular thickening (columella)",
+      "directionality": "LESS",
+      "verbatim": "[§5] The columella is common in old persons, the uva in the young and in adults; for they abound in blood, and are of a more inflammatory nature.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific medical vulnerability to the 'columella' affection based on the developmental stage of the individual, specifically contrasting the elderly with the young.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Child susceptibility to pestilential ulcers",
+      "group": "children",
+      "resource": "Protection from pestilential tonsil ulcers",
+      "directionality": "LESS",
+      "verbatim": "[§6] wherefore children, until puberty, especially suffer, for children in particular have large and cold respiration; for there is most heat in them; moreover, they are intemperate in regard to food, have a longing for varied food and cold drink; and they bawl loud both in anger and in sport",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that children are more prone to fatal or pestilential ulcerations of the tonsils (Aphtha/Egyptian ulcers) due to their physiological nature and behaviors.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Pre-menstrual female vulnerability to ulcers",
+      "group": "girls",
+      "resource": "Protection from tonsil ulceration",
+      "directionality": "LESS",
+      "verbatim": "[§6] and these diseases are familiar to girls until they have their menstrual purgation.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes a specific demographic group (pre-pubescent girls) as being particularly susceptible to these throat diseases until the biological milestone of menstruation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Ethnicity",
+      "rule": "Regional susceptibility to Syrian ulcers",
+      "group": "Egyptians and Syrians",
+      "resource": "Protection from pestilential throat ulcers",
+      "directionality": "LESS",
+      "verbatim": "[§6] The land of Egypt especially engenders it, the air thereof being dry for respiration, and the food diversified... Syria also, and more especially Cœlosyria, engenders these diseases, and hence they have been named Egyptian and Syrian ulcers.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text links specific geographic lineages/ethnicities to a higher prevalence of these fatal ulcers based on climate and diet, characterizing the disease by these group names.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly immunity from lung metastasis",
+      "group": "old men",
+      "resource": "Protection from pulmonary metastasis",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§7] With regard to age, old men are most apt to suffer, and most readily escape from an attack; for neither is there apt to be a great inflammation in an arid frame; nor is there a metastasis to the lungs, for old age is more frigid than any other age, and the respiration small, and the attraction of all things deficient."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a general biological/medical rule for the elderly group, noting they possess a specific protection against the dangerous 'metastasis to the lungs' during pleurisy due to their 'arid' and 'frigid' nature.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth vulnerability to pleurisy mortality",
+      "group": "Young men and adults",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§7] Young men and adults are not, indeed, very apt to suffer attacks; but neither, also, do they readily recover, for from a slight cause they would not experience even a slight attack of inflammation, and from great attacks there is greater danger."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies young men and adults as a group that, once afflicted, lacks the easy recovery or protection from danger seen in other age groups, marking a negative directionality for the resource of recovery/safety.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly exclusion from respiratory recovery",
+      "group": "old persons",
+      "resource": "Probability of recovery from lung abscess",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§8] ...and from the abscess and phthisis old persons do not readily recover; but from the peripneumony, youths and adults."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a clear age-based distinction regarding the prognosis of lung diseases, stating that the elderly are less likely to recover compared to younger groups.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female susceptibility to blood rarefaction",
+      "group": "women",
+      "resource": "Protection from blood rarefaction",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§8] This mode of bringing up blood [by rarefaction] is common with women who have not their monthly purgation, and appears at the periods of the purgation..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific medical vulnerability (blood-spitting via rarefaction) linked to the female biological cycle (menstruation), distinguishing them from the general population.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood protection from fatal cholera",
+      "group": "children",
+      "resource": "Protection from cholera mortality",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§8] ...children more frequently than these, but their complaints are not of a deadly nature."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the context of the disease Cholera, the author explicitly states that while children are susceptible to getting the disease, they are protected from its fatal (deadly) outcomes compared to other groups.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Infant protection from bladder fatalities",
+      "group": "infants",
+      "resource": "Protection from bladder disease mortality",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§8] ...The other seasons and periods of life do not generally produce the diseases, and they very rarely prove fatal. Of all others, infants are most free from danger."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text isolates infants as a specific age group that possesses the highest level of resource (safety/protection) from the dangers of acute bladder affections.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from Hysterical Suffocation",
+      "group": "old women",
+      "resource": "Freedom from hysterical suffocation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§8] For this reason the affection occurs in young women, but not in old. For in those in whom the age, mode of life, and understanding is more mobile, the uterus also is of a wandering nature; but in those more advanced in life... the uterus are of a steady character."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text creates a distinction within the group of women based on age, where older women have more protection from a specific disability (suffocation/wandering womb) than young women.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male exclusion from uterine disorders",
+      "group": "Men",
+      "resource": "Freedom from Hysterical Suffocation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§8] ...wherefore this suffocation from the womb accompanies females alone. ...but neither also are men subject to suffocation from the womb, because men have not an uterus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a gender-based exclusion rule where men, by definition of their anatomy, are free from a specific societal/health burden that affects women.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from Satyriasis",
+      "group": "women",
+      "resource": "Vulnerability to Satyriasis",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§8] I believe, indeed, that lust is engendered in women of a humid temperament... but I do not at all believe that they are affected with Satyriasis, for their nature, being cold, is not adapted to it."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author explicitly denies that women can be classified within the group of those suffering from Satyriasis, citing their natural 'cold' temperament as an exclusion criterion.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly exclusion from respiratory recovery",
+      "group": "old persons",
+      "resource": "Probability of recovery from chronic abscess/phthisis",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§9] But if the matter burst upon the lungs, some have thereby been suffocated, from the copious effusion and inability to bring it up. But such as escape suffocation from the bursting of the abscess, have a large ulceration in the lungs, and pass into phthisis; and from the abscess and phthisis old persons do not readily recover; but from the peripneumony, youths and adults."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a clear age-based distinction in the ability to survive and recover from complications of lung disease (abscess and phthisis), specifically noting that old persons lack the resource of recovery compared to younger demographics.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth recovery from pneumonia",
+      "group": "youths and adults",
+      "resource": "Probability of recovery from pneumonia",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§9] but from the peripneumony, youths and adults [recover]."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly identifies age as a defining factor for the positive outcome of recovery from peripneumony, granting 'youths and adults' a higher access to health recovery compared to the implied or stated difficulty for other age groups.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Menstrual suppression blood discharge",
+      "group": "Women",
+      "resource": "Protection from internal hemorrhage",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§10] This mode of bringing up blood is common with women who have not their monthly purgation, and appears at the periods of the purgation, and stops during the intervals between them; and if the woman is not cured, the discharge upwards of blood will revert for many periods, and also, in certain cases, the vessels burst from fulness."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific physiological rule where women lacking menstrual discharge (amenorrhea) are subject to a vicarious hemorrhage (bringing up blood) at cyclic intervals, leading to potential vessel rupture.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood protection from cholera fatality",
+      "group": "children",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§13] With regard to the ages, then, those of young persons and adults; old age least of all; children more frequently than these, but their complaints are not of a deadly nature."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific age group (children) and notes they have a higher access to survival/protection from death when afflicted by cholera compared to adults, based on their physiological constitution.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood recovery from ileus",
+      "group": "children",
+      "resource": "Capacity for medical recovery",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§14] This affection is customary with children, who are subject to indigestion, and they more readily escape from the mischief, owing to their habits and the humidity of their intestines, for they are loose."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that children possess a higher likelihood of 'escaping' or recovering from the acute disease Ileus compared to other age groups due to their specific physical traits.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly vulnerability to ileus",
+      "group": "old persons",
+      "resource": "Capacity for medical recovery",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§14] Old persons do not readily suffer from the complaint, but rarely recover."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly states that while old people are less likely to catch the disease, they have significantly less access to recovery once afflicted, distinguishing them from the younger population.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Adult susceptibility to liver inflammation",
+      "group": "Adults",
+      "resource": "Protection from acute liver disease",
+      "directionality": "LESS",
+      "verbatim": "[§15] Autumn engenders this affection, along with the indigestion produced by much summer-fruit and multifarious food. Of all ages, the adult is most subject to it.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies adults as the specific age group most vulnerable to the described acute liver affections compared to other ages.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Adult and youth susceptibility to Causus",
+      "group": "Adults and the young",
+      "resource": "Protection from vena cava diseases",
+      "directionality": "LESS",
+      "verbatim": "[§16] Hence, those who have seen this constitution of disease have called it Causus, for the present symptoms are those of a species of Causus; and in autumn there is a tendency to malignity, both in adults and the young, in whom the habit of body is slender, from bad diet and hard labour.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text specifies that adults and young people with slender habits are particularly susceptible to the malignant form of this disease of the vena cava.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly susceptibility to bladder disease",
+      "group": "Old people",
+      "resource": "Protection from acute bladder affections",
+      "directionality": "LESS",
+      "verbatim": "[§18] Winter and autumn bring on these diseases. As to age, manhood, but still more old age.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes that while men in the prime of life are affected, old age is the group most at risk for these fatal bladder conditions.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Infant protection from bladder fatality",
+      "group": "Infants",
+      "resource": "Protection from fatal bladder disease",
+      "directionality": "MORE",
+      "verbatim": "[§18] The other seasons and periods of life do not generally produce the diseases, and they very rarely prove fatal. Of all others, infants are most free from danger.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly excludes infants from the high-risk groups for fatal bladder diseases, granting them a relative protection based on their age.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Womb stability in elderly women",
+      "group": "old people",
+      "resource": "Protection from hysterical suffocation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§19] For this reason the affection occurs in young women, but not in old. For in those in whom the age, mode of life, and understanding is more mobile, the uterus also is of a wandering nature; but in those more advanced in life, the age, mode of living, understanding, and the uterus are of a steady character."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aretaeus identifies a physiological rule where the 'wandering womb' (the cause of hysterical suffocation) becomes stable with age, thereby granting older women immunity from this specific ailment compared to younger women.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male exclusion from hysterical suffocation",
+      "group": "men",
+      "resource": "Protection from womb-related suffocation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§19] Wherefore this suffocation from the womb accompanies females alone.",
+        "[§20] and neither also are men subject to suffocation from the womb, because men have not an uterus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly states that the condition known as 'suffocation from the womb' is restricted to women, effectively exempting men from this specific category of medical suffering due to their biological group.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from satyriasis",
+      "group": "Women",
+      "resource": "Protection from satyriasis",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§20] but I do not at all believe that they are affected with Satyriasis, for their nature, being cold, is not adapted to it. But neither, also, has woman the parts necessary for erection, like those of a Satyr, whence the affection derives its name"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While the author acknowledges female lust, he argues that the specific medical diagnosis of 'Satyriasis' (characterized by erection and heat) is impossible for women due to their perceived 'cold nature' and lack of male genitalia.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth vulnerability to satyriasis",
+      "group": "young people",
+      "resource": "Protection from satyriasis",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§20] Of the periods of life, it occurs principally in boys and striplings, more especially in such as are naturally prone to sexual intercourse."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies boys and young men as the primary group susceptible to this acute disease, suggesting that age (specifically youth) reduces the protection from this condition found in older populations.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 10,
+  "_file_id": "tlg0719.tlg001.perseus-eng2",
+  "_input_tokens": 63822,
+  "_output_tokens": 7327,
+  "_model": "google/gemini-3-flash-preview"
+}

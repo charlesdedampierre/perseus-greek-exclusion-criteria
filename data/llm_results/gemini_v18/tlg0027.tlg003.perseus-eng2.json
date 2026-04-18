@@ -1,0 +1,205 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "State reserve protection",
+      "rule_category": "Protection of public resources",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to protected state financial reserves",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] The peace in question exalted the Athenian democracy; it rendered it so powerful that during the years after we gained peace we first of all deposited a thousand talents on the Acropolis and passed a law which set them apart as a state reserve"
+      ],
+      "reasoning": "The passage describes a specific legal mechanism (a passed law) that protected a specific material resource (1000 talents) for the benefit of the citizen body (the democracy).",
+      "specificity": 3,
+      "specificity_reasoning": "While the reserve benefits the whole state, the law specifically governs a large but discrete amount of capital available to the citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-war amnesty",
+      "rule_category": "Access to judicial protection",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Protection from forced repatriation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] Nor is there today any obligation upon us to restore our exiles, as there was then, with the fall of the democracy as its consequence."
+      ],
+      "reasoning": "The text contrasts a previous 'forced truce' where the state was legally obliged to receive back exiles (often leading to political upheaval) with a new peace where no such legal obligation exists, granting the current citizen body the right to exclude them.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule specifically targets the sub-group of citizens who are currently in exile.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maritime trade and defense",
+      "rule_category": "Grant of economic privilege",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to build and maintain a fleet",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] The truce allows us twelve ships: the peace as many as we like.",
+        "[§14] To be allowed to build new triremes, and refit and keep our old ones? That is assured us as well, since the treaty affirms the independence of each state."
+      ],
+      "reasoning": "The peace treaty specifically restores the legal right of the Athenian state to possess a navy, a material resource essential for both military power and economic maritime security.",
+      "specificity": 2,
+      "specificity_reasoning": "This affects the entire sovereign capacity of the Athenian citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "City fortification right",
+      "rule_category": "Access to physical security",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to construct defensive walls",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] On the stone it is laid down that we shall demolish our walls: whereas under the present terms we can rebuild them.",
+        "[§14] To be able to build ourselves walls? The peace gives us that right also."
+      ],
+      "reasoning": "The peace treaty provides a concrete legal right to build physical fortifications, which provides material safety to the inhabitants of the city.",
+      "specificity": 2,
+      "specificity_reasoning": "The rule applies to the collective security of all residents within the city walls.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Territorial recovery",
+      "rule_category": "Access to public resources",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to possess external territories",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] Under the truce Lemnos, Imbros, and Scyros remained in the possession of their occupants: under the peace they are to be ours.",
+        "[§14] To recover the islands, Lemnos, Scyros, and Imbros? It is expressly laid down that these shall belong to Athens."
+      ],
+      "reasoning": "The treaty legally transfers the ownership of specific islands back to the Athenian state/citizens.",
+      "specificity": 3,
+      "specificity_reasoning": "This concerns specific geographic locations and the citizens who would inhabit or profit from them.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from enslavement",
+      "rule_category": "Protection from corporal punishment",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from being sold into slavery",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] They proposed, did they not, to sell our citizens as slaves and make Attica a waste. And who was it who prevented this? The Spartans; they dissuaded the allies, and for their own part refused even to contemplate such measures."
+      ],
+      "reasoning": "The text describes a situation where the norm against enslaving fellow Greeks/citizens was upheld by Sparta against the proposals of other allies, confirming a customary protection against total loss of freedom following military defeat.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire population of the defeated city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "State independence",
+      "rule_category": "Access to political succession",
+      "group": "Greek states",
+      "group_category": "Origin",
+      "resource": "Right to political independence (autonomia)",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§17] you are negotiating today for the peace and independence of all Greeks alike: you are giving them all the opportunity of sharing in every advantage.",
+        "[§19] they are recognizing the independence of the Greek states, and they are allowing their defeated opponents to share the freedom of the seas."
+      ],
+      "reasoning": "The treaty defines 'independence' as a concrete legal status that allows states to manage their own affairs and access sea routes without being dictated to by a hegemon.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule applying to all Greek city-states mentioned in the treaty.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Assembly voting right",
+      "rule_category": "Access to political power",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to vote in the Assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] The decision rests entirely with you, gentlemen; make your choice. Argives and Corinthians are here to show you that war is preferable: while Spartans have come to gain your consent to a peace. The final word in the matter rests with you instead of with Sparta—thanks to us. Thus we delegates are making delegates of you all; every man of you who is about to raise his hand to vote is a delegate whose business is peace and war, no matter which he prefers."
+      ],
+      "reasoning": "The text confirms that the final decision-making power regarding war and peace rests with the citizen body (the Assembly) through a show of hands (voting).",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire body of enfranchised male citizens in Athens, a large but distinct group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public treaty deliberation",
+      "rule_category": "Access to political speech",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to deliberate on public treaties",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] Now although we hold the very same key to prosperity as our forefathers, it is maintained by some that we must not acquiesce in this peace. Let such critics come forward in person, then, —we have ourselves made it possible for them to do so by securing a further forty days for discussion—and let them tell you on the one hand whether any of the clauses drafted is undesirable: if it is, it can be excised; on the other hand, if anyone wishes to make any additions, let him gain your approval and make them."
+      ],
+      "reasoning": "The author highlights the right of citizens to come forward in the assembly to propose amendments (additions or excisions) to a draft peace treaty during a designated deliberation period.",
+      "specificity": 3,
+      "specificity_reasoning": "This concerns the political rights of the citizen body during specific legislative moments.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Diplomatic transparency",
+      "rule_category": "Access to information",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to transparent peace negotiations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§34] Now I cannot praise this reasoning. I admit, gentlemen, that in time of war a patriotic and experienced general should employ secrecy or deception in leading the majority of men into danger; but when a peace to include the entire nation is being negotiated, an agreement to which sworn assent will be given and which will be recorded on public monuments, I deny that the negotiators should practise secrecy or deception."
+      ],
+      "reasoning": "Andocides argues that while military matters may be secret, peace negotiations involving the entire nation must be transparent and referred back to the citizens rather than decided in secret by plenipotentiaries.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the citizen body and their relationship with their elected or appointed delegates.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public record of treaties",
+      "rule_category": "Access to legal records",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to public recording of laws",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§34] ...but when a peace to include the entire nation is being negotiated, an agreement to which sworn assent will be given and which will be recorded on public monuments, I deny that the negotiators should practise secrecy or deception."
+      ],
+      "reasoning": "The text mentions that peace agreements are recorded on 'public monuments,' ensuring that the terms are visible and accessible to the citizen population.",
+      "specificity": 2,
+      "specificity_reasoning": "Public monuments are accessible to the general population of the city-state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizen right to proposal",
+      "rule_category": "Access to political speech",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to address the Assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] Let such critics come forward in person, then, —we have ourselves made it possible for them to do so by securing a further forty days for discussion—and let them tell you on the one hand whether any of the clauses drafted is undesirable: if it is, it can be excised; on the other hand, if anyone wishes to make any additions, let him gain your approval and make them."
+      ],
+      "reasoning": "Explicit mention of the right for individuals ('critics') among the citizens to come forward and speak directly to the assembly to suggest changes to state policy.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a core right of the Athenian citizen body in the Assembly.",
+      "confidence": 10
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg0027.tlg003.perseus-eng2",
+  "_input_tokens": 13518,
+  "_output_tokens": 2929,
+  "_model": "google/gemini-3-flash-preview"
+}

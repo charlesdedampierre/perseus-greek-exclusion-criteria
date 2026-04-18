@@ -1,0 +1,223 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Prohibition of athletic cheating",
+      "rule_category": "Regulation of athletic competition",
+      "group": "Athletes",
+      "group_category": "Occupation",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§52] [4] We must remember that if he who takes part in the contest for a corruptible prize be detected in unfairness, he is flogged, taken up, and thrown off the course."
+      ],
+      "reasoning": "The author references the standard contemporary Roman/Greek practice in athletic games where athletes caught cheating were subject to immediate physical punishment (flogging) and disqualification.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to a subset of the population (competitors in public games) during a specific activity.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Athletic disqualification for unfairness",
+      "rule_category": "Regulation of athletic competition",
+      "group": "Athletes",
+      "group_category": "Occupation",
+      "resource": "Right to compete for prizes",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§52] [4] We must remember that if he who takes part in the contest for a corruptible prize be detected in unfairness, he is flogged, taken up, and thrown off the course."
+      ],
+      "reasoning": "Being 'thrown off the course' describes the legal/customary removal of a contestant's right to participate in the competition or claim rewards due to a violation of rules.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies only to those competing in formal games.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Restriction on dual service",
+      "rule_category": "Labor control",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to serve multiple masters",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§39] [1] And the Lord says:—No servant can serve two masters."
+      ],
+      "reasoning": "The text cites a social/legal impossibility in the ancient world where a bondservant (oiketes) cannot fulfill legal or functional obligations to two distinct owners simultaneously.",
+      "specificity": 3,
+      "specificity_reasoning": "Slaves were a very large demographic in 1st-century Roman society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Parental intercession limits",
+      "rule_category": "Family rights",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to benefit from parental legal standing",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§46] [8] And the Scripture also says in Ezekiel that, if Noah and Job and Daniel arise, they shall not rescue their children in the captivity.",
+        "[§47] [9] But if even such righteous men as these cannot save their children by their own righteousness, with what confidence shall we enter into the palace of God, if we keep not our baptism pure and undefiled?"
+      ],
+      "reasoning": "The author uses a legal/civic analogy (likely referencing the 'captive' status or trial rooms) to show that children cannot rely on the status or 'righteousness' of their fathers to escape punishment or gain entry to certain spaces.",
+      "specificity": 4,
+      "specificity_reasoning": "This concerns the relationship between fathers and children, which encompasses a significant portion of the population.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Baptized communal membership",
+      "rule_category": "Access to religious privilege",
+      "group": "The baptized",
+      "group_category": "Citizenship",
+      "resource": "Right to eternal life and salvation",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§55] Keep the flesh pure, and the seal of baptism undefiled, that we may obtain eternal life.",
+        "[§61] [6] He means, then, this:— Keep the flesh pure, and the seal of baptism undefiled, that we may obtain eternal life."
+      ],
+      "reasoning": "The text identifies 'the seal of baptism' as a necessary civic/religious condition for attaining 'eternal life,' which in this community is the primary resource/goal. Maintaining this status (keeping it undefiled) is the rule for retaining access to the group's ultimate reward.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the entire Christian sub-community within the broader Roman society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-mortem repentance bar",
+      "rule_category": "Restriction of judicial remedy",
+      "group": "The deceased",
+      "group_category": "Age",
+      "resource": "Right to make confession or repent",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§55] For after we have departed from this world, we can no longer make confession, or repent any more in that place.",
+        "[§58] [3] For after we have departed from this world, we can no longer make confession, or repent any more in that place."
+      ],
+      "reasoning": "The author establishes a strict temporal/biological boundary for legal/religious standing. Once a person has passed from the 'world,' they lose the concrete right to alter their standing through the mechanism of confession.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a universal rule for all human beings according to the text's cosmology.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Teacher double judgment",
+      "rule_category": "Obligation of public duty",
+      "group": "Teachers",
+      "group_category": "Occupation",
+      "resource": "Protection from double judgment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§74] ...as it is, they are continuing in teaching evil to innocent souls, and do not know that they will incur a double judgment, both themselves and their hearers.",
+        "[§79] [5] And if they did these things by themselves it could be endured, but, as it is, they are continuing in teaching evil to innocent souls, and do not know that they will incur a double judgment, both themselves and their hearers."
+      ],
+      "reasoning": "The text describes a specific legal/divine burden placed on those who occupy the role of teacher. They are held liable not just for their own actions, but for the actions of those they instruct, effectively losing the standard protection of individual single liability.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to those within the community who take on the role of instructors or leaders.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gender-neutral social interaction",
+      "rule_category": "Family/Social restriction",
+      "group": "Men and Women",
+      "group_category": [
+        "Gender"
+      ],
+      "resource": "Right to be viewed as a sexual/gendered entity",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§93] [5] And by the male with the female neither male nor female he means this, that when a brother sees a sister he should have no thought of her as female, nor she of him as male."
+      ],
+      "reasoning": "The text mandates a specific internal and social regulation where gender distinctions must be collapsed in communal interaction ('brother' and 'sister'). This removes the standard social/sexual recognition of gender categories within the group's protocol.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all male and female members of the religious community.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Inauthentic member exclusion",
+      "rule_category": "Denial of communal status",
+      "group": "Inconsistent practitioners",
+      "group_category": "Occupation",
+      "resource": "Right to communal belonging (The Church)",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§101] [1] Thus, brethren, if we do the will of our Father, God, we shall belong to the first Church, the spiritual one which was created before the sun and moon; but if we do not the will of the Lord, we shall fall under the scripture, which says, My house became a den of brigands."
+      ],
+      "reasoning": "The text defines a rule of exclusion from the 'Church of life.' Those whose actions do not align with their profession lose their status as members of the 'spiritual Church' and are instead categorized as 'brigands' (outlaws), losing the protections and promises of the community.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a subset of the community who fail to meet behavioral standards.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Clerical duty of instruction",
+      "rule_category": "Obligation of public duty",
+      "group": "Elders",
+      "group_category": "Occupation",
+      "resource": "Right to exercise communal authority through exhortation",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§120] [3] And let us not merely seem to believe and pay attention now, while we are being exhorted by the Elders, but also when we have gone home let us remember the commandments of the Lord."
+      ],
+      "reasoning": "The text identifies 'Elders' as a specific functional group within the community whose role is to exhort and instruct the members, indicating a formally recognized position of social and spiritual leadership.",
+      "specificity": 7,
+      "specificity_reasoning": "This refers to a specific leadership class within the early Christian community, a small subset of the total population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Reader's right to communal support",
+      "rule_category": "Access to judicial protection",
+      "group": "Readers",
+      "group_category": "Occupation",
+      "resource": "Right to spiritual and communal reciprocity",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§129] [1] Therefore, brothers and sisters, following the God of truth, I am reading you an exhortation to pay attention to that which is written, that you may both save yourselves and him who is the reader among you."
+      ],
+      "reasoning": "The text identifies the 'reader' as a specific role that performs a service for the community (reading the exhortation), and explicitly states that the community's obedience is a means of saving the reader too, implying a reciprocal social and religious bond tied to the office.",
+      "specificity": 8,
+      "specificity_reasoning": "The role of 'reader' is a highly specific liturgical or communal office held by few individuals.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Youthful model obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to moral guidance and examples",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§129] [1] For if we do this we shall set a mark for all the younger, who wish to work in the cause of piety and the goodness of God."
+      ],
+      "reasoning": "The text distinguishes 'the younger' as a specific demographic category that is the target of communal modeling (setting a mark), indicating that the society recognizes age-based tiers for social and ethical training.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to an entire age cohort within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealth-based social exclusion",
+      "rule_category": "Denial of economic privilege",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to communal approval and religious validation",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§134] [1] But neither let it grieve your mind that we see the unrighteous enjoying wealth, and the servants of God oppressed."
+      ],
+      "reasoning": "The text explicitly contrasts 'the unrighteous' who enjoy wealth with 'the servants of God' who are oppressed. In the context of the community's rules, wealth is framed as an indicator of unrighteousness or an obstacle to piety, often linked to exclusion from the 'crown' of the coming life.",
+      "specificity": 5,
+      "specificity_reasoning": "While wealth can apply to many, in this specific community it defines a particular marginalized or criticized class.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg1271.tlg002.perseus-eng1",
+  "_input_tokens": 23891,
+  "_output_tokens": 3212,
+  "_model": "google/gemini-3-flash-preview"
+}

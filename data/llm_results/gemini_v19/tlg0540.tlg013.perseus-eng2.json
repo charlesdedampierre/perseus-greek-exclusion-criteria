@@ -1,0 +1,175 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Freedom",
+      "rule": "Protection from torture during proceedings",
+      "group": "Athenians",
+      "resource": "Protection from corporal punishment",
+      "directionality": "MORE",
+      "verbatim": "[§27] Nay, indeed, you were not in nearly so good a case as your friends: in the first place, they were Athenians, and so were not in fear of being tortured; and in the second, they were ready to resign their own native land and go on the voyage with you.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly contrasts the status of Athenian citizens with that of Agoratus (born a slave), noting that the Athenians did not fear torture, implying a legal protection based on their status as free citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave vulnerability to judicial torture",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": "[§25] they argued that if he were brought up before the Council he would be put to the torture, and would perhaps be compelled to give the names of such Athenians as might be suggested by those who were bent on working some mischief in the city. [...] [§27] But you, first of all, were in danger of being tortured if you stayed where you were; and secondly, you would not have been parting from your own native land.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agoratus is identified as having been born a slave. The text indicates that unlike the citizens, he faced the immediate threat of torture by the Council, demonstrating that slaves or those of slave origin lacked the right to protection from corporal punishment in legal inquiries.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Right to public court trial",
+      "group": "Citizens",
+      "resource": "Right to trial before a large jury",
+      "directionality": "MORE",
+      "verbatim": "[§35] And then, as soon as the Thirty were established, they promptly brought these men to trial before the Council; whereas the people had decreed that it should be before the court of two thousand. [§36] Now if they had been tried before the proper court, they would have easily escaped harm.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text mentions a decree of the Athenian people granting citizens the right to be tried before a 'court of two thousand' (a large dikastery) rather than a narrow political body like the Council, framing this as a 'proper court' for their protection.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Prison visitation rights for women",
+      "group": "Women",
+      "resource": "Right to visit imprisoned relatives",
+      "directionality": "MORE",
+      "verbatim": "[§39] Now, when sentence of death, gentlemen, had been passed on them, and they had to die, each of them sent for his sister, or his mother, or his wife, or any female relative that he had, to see them in the prison, in order that they might take the last farewell of their people before they should end their days.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a recognized practice where female relatives were permitted to enter the prison to visit condemned men for a final farewell, indicating a specific social/legal allowance for women to access this space for family reasons.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Ethnicity",
+      "rule": "Alien birth status trial",
+      "group": "Metics / Foreigners",
+      "resource": "Exemption from trial on count of birth",
+      "directionality": "LESS",
+      "verbatim": "[§59] Some, indeed, desired that Aristophanes should be put to the torture, as one who was not of pure Athenian stock. [§60] Well, after that the persons who then had control of affairs came to Aristophanes and appealed to him to save himself by a denunciation, and not to run the risk of the extreme penalty by standing his trial on the count of alien birth.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal vulnerability (standing trial for alien birth) and a severe penalty for those who are found not to be of 'pure Athenian stock' yet participating in civic life.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Exclusion of non-citizens from assemblies",
+      "group": "Metics / Foreigners",
+      "resource": "Right to participate in the Assembly and Law-courts",
+      "directionality": "LESS",
+      "verbatim": "[§73] But yet, this man had so much contempt for you that although he was not an Athenian he took his seat in the law-court, and in the Assembly, and made impeachments of every conceivable kind, giving in his name with the addition—of Anagyra.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author frames Agoratus's participation in the Assembly and Law-courts as an act of 'contempt' specifically because he is 'not an Athenian,' implying a general rule that non-citizens are excluded from these political resources.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Torture of non-citizens",
+      "group": "Metics / Foreigners",
+      "resource": "Protection from torture during legal proceedings",
+      "directionality": "LESS",
+      "verbatim": "[§59] Some, indeed, desired that Aristophanes should be put to the torture, as one who was not of pure Athenian stock, and they prevailed on the people to pass the following decree.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that the lack of 'pure Athenian stock' (non-citizen status) made an individual eligible for torture by decree, a treatment not applied to citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Wives' protection from adultery",
+      "group": "Women",
+      "resource": "Protection of marital fidelity",
+      "directionality": "MORE",
+      "verbatim": "[§68] Then again, he attempted, with a character like that, to debauch and defile free-born wives of our citizens, and was taken in adultery; and for that the penalty is death.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law provides a capital penalty for those who commit adultery with 'free-born wives,' indicating a legal rule protecting the integrity of the marriage/household for this group.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Old age filial support",
+      "group": "old people",
+      "resource": "Right to support from adult children",
+      "directionality": "MORE",
+      "verbatim": "[§45] Some left elderly parents behind them, who were expecting to be supported in their old age by their own children and, when they should end their days, to be laid by them in the grave.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage highlights the social and normative rule in Athens that elderly parents are entitled to material support and burial rites from their children.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen assembly and court access",
+      "group": "Citizens",
+      "resource": "Right to sit in law-courts and Assembly",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§76] If he fails to prove it, punish him for making use of his assumed title of Athenian to sit in both law-court and Assembly, and to bring slanderous charges against so many persons."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text implies that only those with the valid title of 'Athenian' (citizens) are permitted to participate in the Assembly and law-courts; use of these resources by a non-citizen is a punishable offense.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Purity requirement for religious processions",
+      "group": "Mutilators and murderers",
+      "resource": "Right to join religious processions",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§79] to all he was a polluted person with whom they would not talk.",
+        "[§81] Aesimus perceived him and went up to him, seized his shield, and flung it away, with the order—Be off, crows’ meat! A murderer like you must not join in the procession to Athene."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text demonstrates a social and religious rule where individuals deemed 'polluted' due to murder are physically and legally excluded from participating in sacred civic processions.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Adoptive son maintenance obligations",
+      "group": "Adopted sons",
+      "resource": "Right to retain adoptive father's assets",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§91] he who robbed his adoptive father of the means that he possessed is certainly, on this one score, as provided by the law of such maltreatment, deserving of the penalty of death."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author references a specific law regarding the 'maltreatment' of parents (including adoptive ones), indicating that an adopted individual loses the right to their life/freedom if they deplete the resources of the father who took them in.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Amnesty and oath protections",
+      "group": "Opposing political factions",
+      "resource": "Protection from prosecution via amnesty",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§89] I consider that the oaths and agreements in no way affect our position regarding this man. For the oaths have been taken between the parties of the town and of the Peiraeus.",
+        "[§90] For there was no oath taken between the men of the Peiraeus and the men of the Peiraeus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a legal framework (the reconciliation agreements) where members of opposing factions (Town vs. Peiraeus) are protected from prosecution by oaths, though the author argues this specific resource does not apply to members of the same faction.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0540.tlg013.perseus-eng2",
+  "_input_tokens": 18357,
+  "_output_tokens": 2651,
+  "_model": "google/gemini-3-flash-preview"
+}

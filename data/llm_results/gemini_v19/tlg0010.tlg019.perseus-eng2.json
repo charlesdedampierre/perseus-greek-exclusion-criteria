@@ -1,0 +1,622 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": "[§4] Then when my career was near its close, having been challenged to an exchange of property on the question of a trierarchy, and subjected to a trial on that issue... [§5] they imposed the trierarchy upon me. Now, I bore that expense in such a manner as is becoming to those who are neither too much upset by such things nor altogether reckless.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates describes being legally compelled to fund a trierarchy (filling the role of a trierarch) based on his perceived wealth. This reflects the Athenian liturgical system where the wealthiest citizens were required to fund state services.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Defendant right of defense",
+      "group": "Citizens",
+      "resource": "Right to a legal defense",
+      "directionality": "MORE",
+      "verbatim": "[§17] I beg you, then, neither to credit nor to discredit what has been said to you until you have heard to the end what I also have to say, bearing it in mind that there would have been no need of granting to the accused the right of making a defense, had it been possible to reach a just verdict from the arguments of the accuser.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions the established legal right for an accused person to present a defense in court to ensure a just verdict.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Impartial jury hearing",
+      "group": "Citizens",
+      "resource": "Protection from biased adjudication",
+      "directionality": "MORE",
+      "verbatim": "[§21] while we take our solemn oath at the beginning of each year that we will hear impartially both accusers and accused, [§22] we depart so far from this in practice, that when the accuser makes his charges we give ear to whatever he may say; but when the accused endeavors to refute them, we sometimes do not endure even to hear his voice.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates refers to the Dicastic Oath taken by citizens, which creates a formal rule that both parties in a trial must be heard with equal goodwill, even if he complains that the practice often fails the rule.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Protection from summary execution",
+      "group": "Citizens",
+      "resource": "Right to a trial",
+      "directionality": "MORE",
+      "verbatim": "[§22] Those states in which an occasional citizen is put to death without a trial we condemn as unfit to live in, yet are blind to the fact that we are in the same case when we do not hear with equal good will both sides of the contest.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies the right to a trial before execution as a defining rule of the Athenian state, contrasting it with states where citizens are put to death summarily.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Exchange of property (Antidosis)",
+      "group": "Wealthy citizens",
+      "resource": "Right to transfer financial burdens",
+      "directionality": "MORE",
+      "verbatim": "[§4] having been challenged to an exchange of property on the question of a trierarchy, and subjected to a trial on that issue... [§8] I were to suppose that a sycophant had brought an indictment and was threatening me with trouble and that he was using the calumnies which had been urged against me in the suit about the exchange of property.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The 'Antidosis' (exchange of property) was a legal mechanism where a wealthy citizen nominated for a liturgy could challenge another deemed wealthier to either take over the burden or exchange all their possessions.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen protection from unproven charges",
+      "group": "Citizens",
+      "resource": "Protection from charges without proof",
+      "directionality": "MORE",
+      "verbatim": "[§32] Let me ask you, however, not to pay any attention to what you have heard about me in the past from my would-be slanderers and calumniators, not to credit charges which have been made without proof or trial, and not to be influenced by the suspicions which have been maliciously implanted in you by my enemies.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author appeals to the legal norm that citizens should not be convicted based on slander or unproven suspicion, but rather on evidence presented during a formal trial.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to legal reparations",
+      "group": "Citizens",
+      "resource": "Right to obtain legal reparation",
+      "directionality": "MORE",
+      "verbatim": "[§34] ...especially since all they have to do is to testify to the wrongs I have done them in order to obtain the fullest reparation.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text implies that if a citizen can prove they have been wronged, the Athenian legal system provides a mechanism for them to receive full reparation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Forensic speechwriter exclusion from pupils",
+      "group": "Forensic speechwriters",
+      "resource": "Right to have pupils",
+      "directionality": "LESS",
+      "verbatim": "[§41] Nay, everyone is aware of this also, that there is a superabundance of men who produce speeches for litigants in the courts. Nevertheless you will not find that any one of them, numerous as they are, has ever been thought worthy to have pupils.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates distinguishes between his own profession (philosophy/political oratory) and that of forensic speechwriters, noting that the latter are socially or professionally barred from the prestige of having students.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Philosophical orator prestige",
+      "group": "Philosophical orators",
+      "resource": "Social esteem and honor",
+      "directionality": "MORE",
+      "verbatim": "[§48] ...that while those who are thought to be adept in court procedure are tolerated only for the day when they are engaged in the trial, the devotees of philosophy are honored and held in high esteem in every society and at all times.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author contrasts the social standing of those who practice 'philosophy' (higher eloquence) against those who practice forensic oratory, claiming the former access continuous social honor.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly exemption from prolonged speaking",
+      "group": "Old people",
+      "resource": "Exemption from continuous public speaking",
+      "directionality": "MORE",
+      "verbatim": "[§59] Now I thought that I should be able to go through these passages myself, but I find that my age hampers me and causes me to give out easily. So then, in order that I may not break down utterly while there are still many things which I must say, let the clerk begin at the place marked and read the passage.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites his advanced age as a reason to have a clerk read his prepared texts, indicating a social or procedural allowance for the elderly to use assistance due to physical frailty.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Oratorical esteem over lawmaking",
+      "group": "Orators",
+      "resource": "Higher social esteem and praise",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§81] For these reasons, men who make it their duty to invent discourses of that kind should be held in higher esteem than those who propose and write down laws, inasmuch as they are rarer, have the more difficult task, and must have superior qualities of mind."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Isocrates argues that those who compose original oratory (discourses on public welfare) deserve more prestige than those who merely compile or write laws, due to the higher intellectual difficulty of the task.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Democracy subject to people",
+      "group": "Citizens under democracy",
+      "resource": "Right to political courtship from leaders",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§70] And since in addressing a king I have spoken for his subjects, surely I would urge upon men who live under a democracy to pay court to the people."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of political conduct: in an Athenian democracy, the 'people' as a collective group are the ones to whom leaders must pay court, parallel to how a king's subjects are treated by an advisor.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy liturgical honors",
+      "group": "Wealthy citizens",
+      "resource": "Public honors and gold crowns",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§93] Among the first to begin studying with me were Eunomus, Lysitheides, and Callippus; and following them were Onetor, Anticles, Philonides, Philomelus, and Charmantides. [§94] All these men were crowned by Athens with chaplets of gold, not because they were covetous of other people’s possessions, but because they were honorable men and had spent large sums of their private fortunes upon the city."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a convention where wealthy individuals who spend their private fortunes on city services (liturgies) are rewarded with material signs of fame like golden crowns.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Education",
+      "rule": "Royal educational obligation",
+      "group": "Monarchs",
+      "resource": "Access to advanced education",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§71] Now in the introduction and in the opening words of that discourse I reproach monarchs because they who more than others ought to cultivate their understanding are less educated than men in private station."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Isocrates notes a societal discrepancy where kings, despite their status, often possess less education than private citizens, framing it as a failure to access a resource they ought to prioritize.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Citizen freedom of speech",
+      "group": "Athenian citizens",
+      "resource": "Right to frankness with rulers",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§70] for you will see that I have expressed myself to Nicocles as a free man and an Athenian should, not paying court to his wealth nor to his power, but pleading the cause of his subjects."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author defines the status of 'Athenian' and 'free man' as carrying the right/norm of speaking frankly to power without subservience, unlike non-citizens or the unfree.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Public educator defense of followers",
+      "group": "Counsellors and teachers",
+      "resource": "Right to justify followers' actions",
+      "directionality": "MORE",
+      "verbatim": "[§104] [104] while it is proper for the layman to say what he has to say in defense of his own actions and then take his seat or else to be thought to overdo his case, yet when anyone occupies a position in the eyes of the public as a counsellor and teacher, he must then justify his followers as well as himself, especially if he is being tried on this charge.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific procedural expectation for public teachers/counsellors in court that differ from laymen, granting them the scope to defend their associates as part of their own defense.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Generalship eligibility and robust physique",
+      "group": "Men with non-robust physiques",
+      "resource": "Eligibility for the generalship",
+      "directionality": "LESS",
+      "verbatim": "[§115-116] [115] ...some of the generals who have a high reputation among you and are thought to be great fighters have not been able to take even a village, while Timotheus, who lacks a robust physique... [116] For you elect as your generals men who have the most robust bodies and who have served in many campaigns with foreign armies, thinking that under their leadership you will have some success.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that the Athenian assembly (the 'you') selects generals based on physical robustness, which functions as a barrier for those, like Timotheus, who lack it, despite his eventual success.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Ally protection from soldier plunder",
+      "group": "Allies (Hellenes)",
+      "resource": "Protection of property from plundering",
+      "directionality": "MORE",
+      "verbatim": "[§124] [124] and if he happened to harbor his fleet in any place, he would never permit his soldiers to plunder and pillage and sack the people’s houses, but took as great precautions to prevent such an occurrence as the owners would take to guard their own possessions.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a rule of conduct enforced by Timotheus where the property of allied populations was protected from the standard military practice of plundering by soldiers.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Ally protection against political upheaval",
+      "group": "Allies (Hellenes)",
+      "resource": "Right to retain internal government",
+      "directionality": "MORE",
+      "verbatim": "[§126-127] [126] ...and he, in turn, never set up any disturbance in them, but just as he found them governed when he entered their gates, so he left them when he passed out. [§127] [127] ...under his leadership, no one can point to cities devastated, governments overthrown, men murdered or driven into exile.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author contrasts previous periods of calamity with Timotheus’s leadership, where he upheld a rule of non-interference in the internal governance and safety of allied cities.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "General accountability for financial reports",
+      "group": "Generals",
+      "resource": "Freedom from excessive fines",
+      "directionality": "LESS",
+      "verbatim": "[§129] [129] ...he, after having captured so many cities and having never lost a single one, was tried for treason, and again when he submitted his reports... Timotheus was fined a larger sum than anyone in the past had ever been condemned to pay.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the legal outcomes for generals during their audit (euthynai); while some were acquitted, Timotheus was subjected to a record-breaking fine, demonstrating the financial liability associated with the high-level magisterial group.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Property exchange legal challenge",
+      "group": "Wealthy citizens",
+      "resource": "Protection from property exchange claims",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§144] ...you have never brought anyone to trial nor stood trial yourself save in the matter of an exchange of property..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Wealthy citizens in Athens were subject to 'antidosis' (exchange of property), a specific legal mechanism where one could be challenged to either take on a liturgy or swap estates with the challenger.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Sophist exclusion from public bounties",
+      "group": "Sophists",
+      "resource": "Right to state-provided subsistence",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§152] It was for these reasons that I chose this manner of life. And if I have refrained from accepting the bounties which are distributed by the city it was because I thought it outrageous if I, who am able to maintain myself from my private resources, should stand in the way of any of those who have been compelled to get their livelihood from the city..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates describes a norm where professional teachers (sophists) who have private income are expected to forgo 'bounties' (state distributions like the diobelia or theorikon) to leave them for the poor.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Foreigner tax obligations",
+      "group": "Metics / Foreigners",
+      "resource": "Exemption from foreign resident taxes",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§156] ...he [Gorgias] had no fixed domicile in any city and therefore paid out nothing for public weal nor was he subject to any tax; moreover, he did not marry and beget children, but was free from this, the most unremitting and expensive of burdens..."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "By contrasting Gorgias' mobile lifestyle, the text implies that those with a 'fixed domicile' (resident aliens/metics) were subject to specific taxes and public burdens they could not otherwise avoid.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Public speaker influence over reputation",
+      "group": "Public orators",
+      "resource": "Influence over others' legal standing",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§136] And yet I wonder if you realize how many men have either come to grief or failed of honor because of the misrepresentations of these orators...",
+        "[§137] Therefore, if you will only heed me and be sensible, you will not despise these men whom the multitude are wont to believe, not only with reference to each one of their fellow-citizens, but also with reference to the affairs of the whole state..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that orators/speakers hold a specific social resource: the power to influence the democratic assembly and courts, directly affecting the honor and legal safety of other citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy liability to legal ruin",
+      "group": "Wealthy citizens",
+      "resource": "Protection from property confiscation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§160] Now, on the other hand, a man has to be ready to defend himself against being rich as if it were the worst of crimes, and to keep on the alert if he is to avoid disaster; for it has become far more dangerous to be suspected of being well off than to be detected in crime; for criminals are pardoned or let off with slight penalties, while the rich are ruined utterly, and it will be found that the number of men who have been spoiled of their property is greater than those who have been punished for their misdeeds."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Isocrates describes a societal shift where wealth has become a legal liability, leading to the systematic stripping of property (spoiled of their property) compared to the leniency shown to actual criminals.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Sophist vulnerability to prejudice",
+      "group": "Teachers of eloquence (Sophists)",
+      "resource": "Right to impartial legal judgement",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§168] But as I observed not only the intolerant feeling toward the teaching of eloquence on the part of those who are churlish toward everyone, but the truculent attitude towards it on the part of my fellow-citizens in general, I began to be afraid that the truth regarding me personally might be overlooked and that I might suffer some harm from the common prejudice against the sophists."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author identifies a specific professional group (sophists/teachers of eloquence) who face a 'common prejudice' and 'truculent attitude' from the citizenry, which threatens their right to a fair trial based on individual truth.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Intergenerational transfer of government",
+      "group": "Old men",
+      "resource": "Political power",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§174] I suppose that you are not unaware of the fact that the government of the state is handed on by the older men to the youth of the coming generation; and that since the succession goes on without end, it follows of necessity that as is the education of our youth so from generation to generation will be the fortune of the state."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a rule of succession where political authority (government of the state) is held by the older generation and then relinquished or handed over to the younger generation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Junior access to state government",
+      "group": "Young men",
+      "resource": "Political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§174] I suppose that you are not unaware of the fact that the government of the state is handed on by the older men to the youth of the coming generation; and that since the succession goes on without end, it follows of necessity that as is the education of our youth so from generation to generation will be the fortune of the state."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This describes the positive side of the succession rule: the youth are the recognized recipients of the state's governing power as they mature.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Sycophant reward for litigation",
+      "group": "Sycophants (professional accusers)",
+      "resource": "Right to state rewards",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§175] If, however, it has the opposite effect and helps and improves and makes better men of its devotees, then you should call a halt on those who load this study with abuse; you should strip the sycophants of their rewards, and counsel our young men to occupy themselves with this pursuit above all others."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage refers to 'the sycophants of their rewards', acknowledging that individuals who act as professional accusers in the Athenian legal system receive material or status-based rewards for their service to the state.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Military and social status progression",
+      "group": "young people",
+      "resource": "Intelligence and persuasive influence",
+      "directionality": "LESS",
+      "verbatim": "[§207] Again, every one of you could name many of your schoolfellows who when they were boys seemed to be the dullest among their companions, but who, growing older, outstripped them farther in intelligence and in speech than they had lagged behind them when they were boys. From this fact you can best judge what training can do; for it is evident that when they were young they all possessed such mental powers as they were born with, but as they grew to be men, these outstripped the others and changed places with them in intelligence.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a societal reality where young people (boys) are viewed as naturally having less intellectual capacity and influence than older men, a gap that is closed through age and education.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Foreigner access to Athenian education",
+      "group": "Metics / Foreigners",
+      "resource": "Right to study in Athens",
+      "directionality": "MORE",
+      "verbatim": "[§224] I should like to ask those who disapprove of me what they think about the students who cross the sea from Sicily, from the Pontus, and from other parts of the world in order to enjoy my instruction. ... [§226] No, it is evident that these students cross the sea and pay out money and go to all manner of trouble because they think that they themselves will be the better for it and that the teachers here are much more intelligent than those in their own countries.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage confirms that foreigners from across the Mediterranean had the right and ability to enter Athens specifically to access the resource of higher education (philosophy/oratory).",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy access to elite education",
+      "group": "Wealthy citizens",
+      "resource": "Access to the sophists' instruction",
+      "directionality": "MORE",
+      "verbatim": "[§225] Do they think, then, that they come here in order to become intriguers and sycophants, at great expense to themselves? ... [§226] No, it is evident that these students cross the sea and pay out money and go to all manner of trouble because they think that they themselves will be the better for it.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of 'great expense' and 'paying out money' implies that advanced education was a resource primarily accessible to those with significant material wealth.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Teacher reputational liability",
+      "group": "priests",
+      "resource": "Protection from social stigma",
+      "directionality": "LESS",
+      "verbatim": "[§222] Nevertheless, no one even of their number is so incontinent as to desire his pupils also to show the same lack of control; for he would not be able to share in the pleasures which they might enjoy as the result of their incontinence, while he would bring down upon his own head most of the evil repute which would result from their depravity.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Professional teachers (sophists) are legally and socially tied to the behavior of their students; they lack the resource of personal reputational autonomy because the actions of pupils reflect directly on the master.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Magisterial publication of offenders",
+      "group": "Public offenders",
+      "resource": "Protection of personal reputation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§237] They are published by law on the tablets which the magistrates set up: public offenders and sycophants have their names published by the Thesmothetae; malefactors and their instigators, by the Eleven; and private offenders and authors of unjust complaints, by the Forty."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a formal legal process where individuals categorized by specific illegal occupations or behaviors (sycophants, malefactors) are stripped of their reputation through public listing on official tablets by magistrates.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth educational choice",
+      "group": "Young people",
+      "resource": "Access to rhetorical training",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§246] They envy the good fortune of those who are able to use words eloquently; yet they reproach the youth who aspire to win this distinction."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Isocrates describes a social norm where young people seeking education in eloquence are met with social reproach (a barrier to the resource of education) by a segment of the population.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy obligation to state",
+      "group": "Wealthy citizens",
+      "resource": "Right to retain personal fortune",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§251] Suppose the case of men who, having inherited large fortunes from their ancestors, used their wealth, not to render themselves serviceable to the state, but to outrage their fellow-citizens [...] would anyone venture to put the blame upon the authors of their wealth instead of demanding that the offenders themselves be punished?"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The rhetorical question implies a social and potentially legal expectation that those with inherited wealth must use it to serve the state rather than for private outrage, effectively a restriction on the absolute right to retain property.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Education",
+      "rule": "Philosophical study exclusion",
+      "group": "Students of philosophy",
+      "resource": "Social approval of training",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§250] But what is most astonishing of all is that while they would grant that the mind is superior to the body, nevertheless, in spite of this opinion, they look with greater favor upon training in gymnastics than upon the study of philosophy."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author contrasts the social legitimacy granted to physical training with the lack of favor/approval granted to those pursuing intellectual/philosophical education.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Sycophant power in depraved society",
+      "group": "Sycophants",
+      "resource": "Political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§241] And who more than these sycophants would like to see many of our citizens corrupted and depraved, since they know that when they live among such characters they wield great power, whereas when they fall into the hands of honorable and intelligent men, they are doomed to destruction?"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text identifies sycophancy as an occupational group that gains political/social influence specifically under conditions of social corruption, contrasting this with their loss of power among 'honorable' groups.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Preliminary education for schoolboys",
+      "group": "young people",
+      "resource": "Access to advanced intellectual training",
+      "directionality": "LESS",
+      "verbatim": "[§266] It is, to be sure, a study more advanced than that which boys in school pursue, but it is for the most part the same sort of thing; [§267] for they also when they have labored through their lessons in grammar, music, and the other branches, are not a whit advanced in their ability to speak and deliberate on affairs, but they have increased their aptitude for mastering greater and more serious studies.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies school-aged boys as a group receiving a specific, limited level of education (grammar, music) which serves only as a preparation for the more advanced studies available to them as they age.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Philosopher's right to wisdom",
+      "group": "educated men",
+      "resource": "Right to the title of philosopher",
+      "directionality": "MORE",
+      "verbatim": "[§271] I hold that man to be wise who is able by his powers of conjecture to arrive generally at the best course, and I hold that man to be a philosopher who occupies himself with the studies from which he will most quickly gain that kind of insight.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Isocrates defines the group of 'philosophers' specifically by their pursuit of practical insight and legislative wisdom, granting them the immaterial resource of the title 'wise' based on their specific educational focus.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Public repute in legal persuasion",
+      "group": "Wealthy citizens",
+      "resource": "Right to be heard with favor in court",
+      "directionality": "MORE",
+      "verbatim": "[§278] For who does not know that words carry greater conviction when spoken by men of good repute than when spoken by men who live under a cloud, and that the argument which is made by a man’s life is of more weight than that which is furnished by words?",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that men of high social standing (good repute) have greater access to the resource of 'persuasion' and legal weight in Athenian courts compared to those of lower status or poor reputation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youthful self-governance requirements",
+      "group": "young men",
+      "resource": "Right to govern one's own thoughts",
+      "directionality": "LESS",
+      "verbatim": "[§290] namely, that if one is to govern his youth rightly and worthily and make the proper start in life, he must give more heed to himself than to his possessions, he must not hasten and seek to rule over others before he has found a master to direct his own thoughts.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The societal norm described requires young men to submit to a 'master' (teacher) before they are permitted the resource of independent action or the right to lead others.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Ethnicity",
+      "rule": "Hellenic educational superiority",
+      "group": "Athens / Hellenes",
+      "resource": "Access to wisdom and superior speech",
+      "directionality": "MORE",
+      "verbatim": "[§293] ...in those qualities by which the nature of man rises above the other animals, and the race of the Hellenes above the barbarians, [§294] namely, in the fact that you have been educated as have been no other people in wisdom and in speech.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Isocrates identifies the Greeks (and Athenians specifically) as having exclusive or superior access to the immaterial resources of advanced wisdom and rhetorical education, distinguishing them from 'barbarians'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy youth education obligation",
+      "group": "Wealthy citizens",
+      "resource": "Right to leisure",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§304] ...you will urge our young men who have sufficient means and who are able to take the time for it to embrace an education and a training of this sort.",
+        "[§305] And when they are willing to work hard and to prepare themselves to be of service to the city, you will make much of them; but when they give themselves to loose living and care for nothing else than to enjoy riotously what their fathers left to them, you will despise them and look upon them as false to the city..."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Isocrates describes a social norm/expectation where young men with 'sufficient means' are expected to forego a 'life of ease' (leisure) in favor of rigorous education and service to the state, with social stigma (despisement) as the penalty for non-compliance.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Commoner participation in justice",
+      "group": "Citizens",
+      "resource": "Right to legal adjudication",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§309] You ought to lay this lesson to heart and, while seeing to it in behalf of the mass of the people that they shall obtain their just rights in the trials of their personal disputes and that they shall have their due share of the other privileges which are common to all..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text affirms that the 'mass of the people' (general citizens) are entitled to have their personal disputes settled through the legal system and access common privileges, distinguishing these as fundamental rights within the democracy.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Sycophant legal accountability",
+      "group": "Sycophants",
+      "resource": "Protection from multiple prosecutions",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§314] ...against the sycophants they instituted indictments before the Thesmothetae, impeachments before the Senate, and plaints before the General Assembly, believing that those who plied this trade exceeded all other forms of villainy; for other criminals, at any rate, try to keep their evil-doing under cover,"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Isocrates references the historical legal framework where professional accusers (sycophants) were subject to more varied and severe forms of legal prosecution (indictments, impeachments, plaints) compared to 'other criminals,' specifically because of their occupation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Base-born access to leadership",
+      "group": "Peasants",
+      "resource": "Access to political leadership",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§316] ...our fathers... began to look with disfavor on those good men and true who had made Athens great, envying them their power, and to crave instead men who were base-born and full of insolence,",
+        "[§317] thinking that by their bravado and contentiousness they would be able to preserve the rule of the people, while because of the meanness of their origin they would not become overweening nor ambitious to overturn the constitution."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a shifts in Athenian political practice where 'base-born' individuals (those lacking nobility) were specifically sought after for leadership roles to prevent aristocratic coups, thereby increasing their access to political power.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 10,
+  "_file_id": "tlg0010.tlg019.perseus-eng2",
+  "_input_tokens": 63592,
+  "_output_tokens": 10048,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,796 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Phrenitic quietude",
+      "rule_category": "Protection of patients",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Protection from noise and excitement",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Then the patient himself, and all those in the house, are to be ordered to preserve quiet; for persons in phrensy are sharp of hearing, are sensitive to noise, and easily become delirious."
+      ],
+      "reasoning": "The text prescribes a specific behavioral rule for all inhabitants of a household to protect a mentally ill patient from sensory overstimulation.",
+      "specificity": 8,
+      "specificity_reasoning": "The rule is specific to the household and immediate social circle of a person suffering from phrenitis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Phrenitic visitation rights",
+      "rule_category": "Access to social support",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Access to friends and family",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Access of their dearest friends is to be permitted; stories and conversation not of an exciting character; for they ought to be gratified in everything, especially in cases where the delirium tends to anger."
+      ],
+      "reasoning": "The medical protocols of the time mandated that even those in states of delirium be allowed social contact with loved ones as a therapeutic right.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to the category of patients diagnosed with acute phrenitis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Youthful bloodletting preference",
+      "rule_category": "Medical resource allocation",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Access to aggressive medical intervention",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] But if the patient be plethoric and youthful, and if the ailment be connected with fulness in eating and drinking, those indications have nothing to do with the phrenitis; for even without the delirium, it would be proper to abstract much blood in such circumstances."
+      ],
+      "reasoning": "Youth is used as a specific criterion for more aggressive and voluminous bloodletting (venesection), which was viewed as a beneficial resource for resolving plethoric conditions.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to any youth identified by a physician as plethoric.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Elderly medical exclusion",
+      "rule_category": "Denial of medical care",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Access to curative treatment for apoplexy",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] should indeed the apoplexy be severe, for by all means the patients are, as it were, dead men whenever one is old, to whom this affection is congenial, and they cannot survive the greatness of the illness, combined with the misery of advanced life."
+      ],
+      "reasoning": "The text suggests that older patients suffering from severe apoplexy are effectively beyond the scope of medical rescue, leading to a loss of therapeutic effort compared to younger patients.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to all elderly individuals who suffer a specific medical emergency.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-prime epileptic neglect",
+      "rule_category": "Chronic disease abandonment",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Access to acute-phase resolution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] if it pass the prime of life, it clings to him in old age and in death."
+      ],
+      "reasoning": "The text notes a shift in societal and medical expectations where epilepsy in an older person is considered perpetual and beyond acute cure, reducing the expectation of successful medical intervention.",
+      "specificity": 4,
+      "specificity_reasoning": "This concerns a broad demographic (those past 'prime of life') and their status regarding a common chronic condition.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Medical care for Phrenetics",
+      "rule_category": "Access to medical treatment",
+      "group": "Mental health patients",
+      "group_category": "Health",
+      "resource": "Right to specialized medical environmental control",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] The patient ought to be laid in a house of moderate size, and mild temperature—in a warm situation, if winter, and in one that is cool and humid, if summer; in spring and autumn, to be regulated according to the season. Then the patient himself, and all those in the house, are to be ordered to preserve quiet; for persons in phrensy are sharp of hearing, are sensitive to noise, and easily become delirious."
+      ],
+      "reasoning": "The text establishes a mandatory medical protocol for patients suffering from 'phrensy' (delirium/fever), requiring specific housing conditions and communal silence, indicating a societal rule regarding the care and environmental rights of the acutely ill.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies to a specific subset of the population (those suffering from acute phrenitis) but dictates the behavior of the entire household and the use of physical infrastructure.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Social access to patients",
+      "rule_category": "Social interaction rights",
+      "group": "Mental health patients",
+      "group_category": "Health",
+      "resource": "Access to friends and social contact",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] Access of their dearest friends is to be permitted; stories and conversation not of an exciting character; for they ought to be gratified in everything, especially in cases where the delirium tends to anger."
+      ],
+      "reasoning": "The medical rule explicitly grants the patient the right to social contact and emotional gratification as part of their treatment, countering potential isolation.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those in a state of delirium and their immediate social circle.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exemption from food deprivation",
+      "rule_category": "Access to nutrition",
+      "group": "Mental health patients",
+      "group_category": "Health",
+      "resource": "Protection from prolonged fasting",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] Abstinence from food should not be prolonged; food should be rather liquid, scanty, and frequently administered, for food soothes the soul: the proper time for giving it is during the remissions, both of the fever and of the delirium."
+      ],
+      "reasoning": "Medical custom in this period often involved fasting; this rule specifies that for phrenetics, such deprivation is restricted, ensuring a right to regular nourishment.",
+      "specificity": 4,
+      "specificity_reasoning": "This is a clinical rule for a specific medical condition.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based bloodletting intensity",
+      "rule_category": "Medical protocol differentiation",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from excessive bloodletting",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] But if the patient be plethoric and youthful, and if the ailment be connected with fulness in eating and drinking... it would be proper to abstract much blood in such circumstances; but much less is to be abstracted, if such persons labour under phrenitis."
+      ],
+      "reasoning": "The text describes a rule where being young normally allows for aggressive bloodletting (loss of body integrity/blood), but the presence of phrenitis provides a specific protective limit on that loss.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to a specific intersection of age and health status.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Physical restraint/safety protocol",
+      "rule_category": "Restriction of movement",
+      "group": "Mental health patients",
+      "group_category": "Health",
+      "resource": "Freedom of movement within the home",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] Length and breadth of the couch moderate, so that the patient may neither toss about in a broad one, nor fall out of a narrow bed. In plain bed clothes, so that there may be no inducement to pick at their nap."
+      ],
+      "reasoning": "The custom involves physical environment modifications to restrict the patient's movement and tactile engagement for their own safety/treatment, effectively limiting their freedom within their space.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to all patients identified as phrenetic during their paroxysms.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical trial and error",
+      "rule_category": "Access to judicial protection",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Protection from medical experimentation",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] ...for experience is a good teacher, one ought, then, to try experiments, for too much caution is ignorance."
+      ],
+      "reasoning": "The author explicitly advocates for trying experiments on patients, overriding 'caution' in favor of clinical experience. This indicates that patients in the Roman-era medical context lacked a formal right to be protected from untested or experimental treatments.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any individual seeking medical treatment for acute diseases, a large portion of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-phrenitis bloodletting prohibition",
+      "rule_category": "Medical protocol",
+      "group": "Lethargics with prior phrenitis",
+      "group_category": "Health",
+      "resource": "Protection from venesection",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] If the obliviousness be the sequela of another disease, such as phrenitis, we must not open a vein, nor make a great evacuation of blood in any way..."
+      ],
+      "reasoning": "The text establishes a strict medical prohibition against bloodletting (opening a vein) for a specific sub-group of patients (those whose lethargy follows phrenitis), acting as a protective rule for their physical integrity during treatment.",
+      "specificity": 7,
+      "specificity_reasoning": "The rule is limited to patients suffering from a very specific clinical progression (lethargy as a sequela of phrenitis).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Lethargic sensory stimulation",
+      "rule_category": "Patient management",
+      "group": "Lethargics",
+      "group_category": "Health",
+      "resource": "Right to undisturbed rest",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] If deep sleep prevail, shouting aloud, angry reproach, threats regarding those matters which he is accustomed to dread, announcement of those things which he desires and expects. Everything to prevent sleep—the reverse of that which is proper for phrenitics."
+      ],
+      "reasoning": "The medical rule for lethargics mandates the use of aggression (shouting, reproaches, threats) and physical discomfort (whipping with nettles, acrid cataplasms) to force wakefulness, stripping the patient of the right to physical peace or undisturbed sleep.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to anyone diagnosed with lethargy, a widespread clinical category described in the text.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Plethoric venesection",
+      "rule_category": "Medical protocol",
+      "group": "Plethoric lethargics",
+      "group_category": "Health",
+      "resource": "Protection from corporal incision",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] but, if the lethargy is not the consequence of another disease, but is the original affection, and if the patient appear to be plethoric, provided it be with blood, we must open a vein at the elbow"
+      ],
+      "reasoning": "In cases of original lethargy combined with plethora, the society's medical rules mandate the invasive procedure of opening a vein, meaning these patients lose the right to bodily integrity in favor of treatment.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to a specific subset of patients defined by both a primary disease and a specific humoral state (plethora).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Geriatric medical abandonment",
+      "rule_category": "Denial of medical care",
+      "group": "Elderly persons",
+      "group_category": "Age",
+      "resource": "Right to life-saving medical intervention",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] should indeed the apoplexy be severe, for by all means the patients are, as it were, dead men whenever one is old, to whom this affection is congenial, and they cannot survive the greatness of the illness, combined with the misery of advanced life. . . . If the patient be young, and the attack of apoplexy weak, it is still no easy matter to effect a cure; it must, however, be attempted."
+      ],
+      "reasoning": "The author explicitly categorizes elderly apoplexy patients as 'dead men' and suggests that the combination of the disease and old age makes survival impossible, contrasted with the instruction that the cure 'must be attempted' if the patient is young. This indicates a customary withdrawal of medical effort based solely on the patient's age.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to elderly individuals suffering from a particular acute condition (apoplexy), a significant but defined segment of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Youth-based medical priority",
+      "rule_category": "Access to medical treatment",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to active medical curative attempts",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] If the patient be young, and the attack of apoplexy weak, it is still no easy matter to effect a cure; it must, however, be attempted."
+      ],
+      "reasoning": "The text mandates that medical intervention be pursued for younger patients even when the prognosis is difficult, establishing age as a qualifying factor for receiving active treatment.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a broad age demographic (the young) but only within the context of a specific medical crisis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Infant therapeutic modification",
+      "rule_category": "Age-based medical adjustment",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from adult-strength emetics",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] These things are proper for infants, and for young persons the same are applicable. But the more powerful emetics are to be taken: the bulbous root of narcissus; of mustard and of hyssop, equal parts; of copper and pepper, one-half the proportion of the former things. They are to be mixed with honey and given."
+      ],
+      "reasoning": "The text prescribes specific, milder medicinal preparations for infants and children during epileptic paroxysms, reserving 'more powerful' substances for other groups, reflecting a medical rule of dose and substance restriction based on developmental age.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule covers all children and infants within the medical practice described.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-abortion medical priority",
+      "rule_category": "Access to emergency care",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to venesection for tetanus",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] Whether, then, the tetanus has come on from refrigeration, without any manifest cause, or whether from a wound, or from abortion in a woman, we must open the vein at the elbow, taking especial care with respect to the binding of the arm, that it be rather loose"
+      ],
+      "reasoning": "The text explicitly includes women suffering from abortion as a specific category requiring life-saving medical intervention (bloodletting) for tetanus, ensuring they receive the same standard of acute care as those with wounds.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to women in a post-abortion medical state, a subset of the female population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based medical intervention",
+      "rule_category": "Access to healthcare",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to aggressive life-saving venesection",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] If, then, the patients be young, we must open the vein at the elbow, and evacuate copiously by a larger incision than usual; for such an abstraction frees one from suffocation, as it were, from strangulation."
+      ],
+      "reasoning": "Specific medical protocols prioritize aggressive bloodletting for younger patients in cases of uvula inflammation and suffocation, indicating that age dictates the intensity of the 'right' to certain medical resources.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad demographic category (the young) during a specific medical crisis.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from surgical experimentation",
+      "rule_category": "Body integrity",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Protection from unproven tracheotomy",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] But those who, in order to guard against suffocation in quinsey, make an incision in the trachea for the breathing, do not appear to me to have proved the practicability of the thing by actual experiment; for the heat of the inflammation is increased by the wound, and thus contributes to the suffocation and cough."
+      ],
+      "reasoning": "The author argues against the practice of tracheotomy (incision in the trachea) for quinsey because it is unproven and harmful, suggesting a medical/ethical rule against experimental surgery that compromises body integrity.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any patient suffering from severe airway obstruction in this society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Medical care for diseased",
+      "rule_category": "Access to medical treatment",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Access to specific medical therapies",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] In inflammation and suffocation, the remedies are clysters, venesection, liquid applications, cataplasms, fomentation, ligatures, cupping; and all these are applicable here. But anointing with more potent medicines is proper; for the ulcers do not stop, nor do eschars form on the surface."
+      ],
+      "reasoning": "The text outlines a systematic medical protocol for individuals suffering from pestilential throat affections. The detailed list of interventions (venesection, cupping, specific pharmacology) indicates that in the author's society, those identified with this specific pathology were granted access to a structured regimen of clinical care.",
+      "specificity": 3,
+      "specificity_reasoning": "While the rule applies to any person with the disease, it is limited to the subset of the population currently afflicted with acute throat infections.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Standard Phlebotomy for Pleurisy",
+      "rule_category": "Access to medical care",
+      "group": "Patients with Pleurisy",
+      "group_category": "Health",
+      "resource": "Right to immediate venous bloodletting",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] In cases of Pleurisy there is no time for procrastination, nor for putting off the great remedy. ... Wherefore then, on the selfsame day we must by all means open a vein."
+      ],
+      "reasoning": "The text establishes an immediate medical requirement for bloodletting as the primary treatment ('the great remedy') for individuals diagnosed with pleurisy, indicating a social/medical norm of access to this specific intervention.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual regardless of status, provided they suffer from this specific acute disease.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-Bloodletting Nutritional Support",
+      "rule_category": "Access to medical care",
+      "group": "Patients with Pleurisy",
+      "group_category": "Health",
+      "resource": "Right to medicinal food (ptisan) and recruitment",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] It is necessary, therefore, after a moderate flow of blood, to recruit the patient for a time... Of all kinds of food, therefore, ptisan is to be preferred; at the commencement, then, strained to its juice, so that the solid part of it may be separated; and made with honey only."
+      ],
+      "reasoning": "The medical protocol dictates that the patient must be 'recruited' (restored) and provided with specific medicinal nourishment (ptisan) following the invasive procedure of bloodletting.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the subset of the population suffering from pleurisy undergoing treatment.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Cupping Therapy Timing",
+      "rule_category": "Access to medical care",
+      "group": "Patients with Pleurisy",
+      "group_category": "Health",
+      "resource": "Protection from premature cupping",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] And, in addition to these means, now also should be the time of cupping; but it is best after the seventh day: before this you should not be urgent with it, for the diseases are not of a favourable character which require cupping before the seventh day."
+      ],
+      "reasoning": "The author specifies a temporal restriction on a painful medical procedure (cupping), framing the delay as a protective measure for the patient's recovery.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific procedural rule within a specific disease context.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Pain Management during Cupping",
+      "rule_category": "Access to medical care",
+      "group": "Patients with Pleurisy",
+      "group_category": "Health",
+      "resource": "Right to topical analgesics (oil) during scarification",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] We must also pour in much of the oil, that by its soothing properties it may obtund the pain occasioned by the acrimony of the other [salts]."
+      ],
+      "reasoning": "The text dictates that during the painful process of applying salts to scarification wounds, the practitioner must provide oil to mitigate the pain, establishing a standard of care for the patient's physical integrity.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to patients undergoing the secondary stage of cupping for pleurisy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gendered Internal Purging",
+      "rule_category": "Medical procedure differentiation",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to uterine medicinal injection",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] And we must not overlook purging downwards, in men injecting oil of rue into the gut, and, in women, also into the womb."
+      ],
+      "reasoning": "The text describes a specific medicinal intervention (injection of oil of rue) reserved for women based on biological difference, adding a localized 'downward' purge that men do not receive.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to half the population when they fall ill with this condition.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Medical vulnerability of the vulgar",
+      "rule_category": "Protection from social liability",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Protection from social blame for patient death",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] But if you give a medicine at the acme of the suffocation, or when death is at hand, you may be blamed for the patient’s death by the vulgar."
+      ],
+      "reasoning": "The text acknowledges a societal risk where physicians are held personally or socially responsible by the common people ('the vulgar') if a patient dies following treatment in terminal cases. This reflects a lack of professional immunity or protective standing when dealing with non-expert social classes.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the professional class of physicians in their interactions with the general populace.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Professional reputation protection",
+      "rule_category": "Access to professional honor",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to exit a terminal case with credit",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] But if he vomit up everything, if the sweat flow incessant, if the patient become cold and livid, if his pulse be almost stopped and his strength exhausted, it will be well in these circumstances to try to make one’s escape with credit."
+      ],
+      "reasoning": "The text explicitly advises the physician on how to preserve their professional reputation ('escape with credit') by recognizing when a case is beyond medical help, implying a customary right to withdraw from treatment to avoid the stigma of a patient's death under their care.",
+      "specificity": 4,
+      "specificity_reasoning": "This is a specific professional guideline for the medical class regarding end-of-life care.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Prohibition of medically-induced death",
+      "rule_category": "Restriction of judicial power",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to perform euthanasia",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] For in ileus a breathing-time for a short space, even from loss of sensibility, will prove an interval from pain; since, also, to persons enduring these pains, to die is happiness, but to impart it is not permitted to the respectable physician; but at times it is permitted, when he foresees that present symptoms cannot be escaped from, to lull the patient asleep with narcotics and anæsthetics."
+      ],
+      "reasoning": "The text states that 'imparting' death (active euthanasia) is strictly prohibited for a 'respectable physician' by societal or professional norms, though palliative care (lulling to sleep) is a permitted alternative.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general ethical and legal restriction on the entire medical profession.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Maternal milk provision",
+      "rule_category": "Access to biological resources",
+      "group": "Convalescent patients",
+      "group_category": "Health",
+      "resource": "Access to human milk as a medical resource",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] We are to give milk, especially that of a woman who has just borne a child, and that a male child; for such persons require nursing like new-born children."
+      ],
+      "reasoning": "The society or at least the medical system facilitates the access of adult patients in a state of 'marasmous' to the breast milk of women, even specifying a preference for those who bore male children, treating this human biological product as a concrete medical resource.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies only to a subset of severely ill patients requiring specific high-level nutrient intervention.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Menstrual regulation obligation",
+      "rule_category": "Control of female biology",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to physical health through menstrual regulation",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] and we must look to the woman that her menstrual discharges flow freely."
+      ],
+      "reasoning": "In the context of treating 'hysteresical convulsion,' the text frames the free flow of menses as a necessary health requirement that must be ensured by the physician, indicating a societal/medical rule regarding the maintenance of female reproductive health.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all women of childbearing age within the medical/social system.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Medical practitioner's liability protection",
+      "rule_category": "Protection from professional liability",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Protection from social and legal blame for patient death",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] But if you give a medicine at the acme of the suffocation, or when death is at hand, you may be blamed for the patient’s death by the vulgar."
+      ],
+      "reasoning": "The text identifies a customary rule of professional caution: physicians are advised to withhold certain treatments during terminal stages of a disease to avoid being held responsible for the inevitable death by the public (the 'vulgar'). This indicates a social dynamic where a practitioner's reputation or safety is protected by avoiding intervention when death is imminent.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically concerns the professional conduct and social protection of a small group of specialized individuals (physicians/medical practitioners).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical venesection eligibility",
+      "rule_category": "Access to judicial protection",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to bloodletting therapy",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] If, therefore, the patient be full of blood, and have large veins, in every form of rejection we must open a vein; whether it proceed from rupture, or erosion, venesection is very suitable; and even, if from rarefaction, there is danger, lest the fulness of blood burst forth."
+      ],
+      "reasoning": "In humoral medicine, being 'full of blood' (plethoric) was a physiological state strictly associated with high nutritional intake and a sedentary lifestyle, serving as a proxy for the wealthy/propertied class. The text mandates venesection specifically for this group as a primary clinical intervention.",
+      "specificity": 4,
+      "specificity_reasoning": "While medical, this target a specific physiological profile linked to a socio-economic bracket (the well-nourished).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical venesection exclusion",
+      "rule_category": "Denial of medical intervention",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to bloodletting therapy",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] But if the patient be thin, and scantily supplied with blood, we must not open a vein. So much respecting the abstraction of blood."
+      ],
+      "reasoning": "The 'thin' and 'scantily supplied' (anaemic/malnourished) are explicitly barred from venesection. In the Second Sophistic period, these physical traits were the standard markers of the laboring poor and the destitute who lacked consistent access to high-quality food.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule excludes a large portion of the lower-class population from a standard (though invasive) medical procedure of the time.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Patient autonomy in treatment",
+      "rule_category": "Access to comfortable care",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to sensory gratification in medical care",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] These are to be mixed with one another differently, according as the strength of the medicines, mildness, or smell thereof is wanted. For we must also gratify the sick."
+      ],
+      "reasoning": "The text establishes a rule that the physician must consider the sensory experience (smell and mildness) of the patient when compounding medicines, granting the sick a customary right to have their palates and preferences 'gratified' during treatment.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to anyone receiving medical treatment within this society's medical tradition.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Dietary modification by health",
+      "rule_category": "Grant of economic privilege",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Access to specialized and flavored diet",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] And if you wish to gratify the patient’s palate, let coriander be added, for this purpose, whenever it is agreeable, or any of the diuretic and diffusible seeds."
+      ],
+      "reasoning": "In the context of the therapeutics of hemoptysis, the author notes that certain seeds and flavorings (coriander) are explicitly permitted to be added to the medical diet to satisfy the patient's agreement/pleasure, signifying a rule of customized care for the infirm.",
+      "specificity": 3,
+      "specificity_reasoning": "Specifically concerns those undergoing strict medical dieting for acute respiratory/gastric hemorrhage.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Dietary recovery milk access",
+      "rule_category": "Access to medical care",
+      "group": "Patients in marasmus",
+      "group_category": "Health",
+      "resource": "Right to specific human and animal milk for recovery",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] We are to give milk, especially that of a woman who has just borne a child, and that a male child; for such persons require nursing like new-born children. Or if it cannot be obtained, we must give the milk of an ass which has had a foal not long before, for such milk is particularly thin; and by these means the patient is to be brought back to convalescence and his accustomed habits."
+      ],
+      "reasoning": "The text prescribes a specific medical regimen for those transitionary from acute disease to wasting (marasmus), granting them access to high-value nutritional resources (human breast milk and specific animal milk) usually reserved for infants.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies only to a very specific clinical population (those recovering from cardiac syncope who have entered a state of marasmus).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Physician-mandated sensory environment",
+      "rule_category": "Access to environmental resources",
+      "group": "Wealthy patients",
+      "group_category": "Wealth",
+      "resource": "Right to aesthetically pleasing and climate-controlled surroundings",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] The delight of the sight is to be studied as to plants, painting, waters, so that everything may be regarded with pleasure. [...] The prospect should be to-wards meadows, fountains, and babbling streams, for the sweet exhalations from them, and the delightful view, warm the soul and refresh nature."
+      ],
+      "reasoning": "The medical text treats the availability of gardens, art (paintings), and specific water features as a standard component of treatment for this class of patient, implying these are resources the society/estate provides for the ill.",
+      "specificity": 5,
+      "specificity_reasoning": "While intended for patients, these amenities (paintings, fountains) imply an elite or wealthy household context.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Economic-based medical substitution",
+      "rule_category": "Denial of luxury care",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Access to primary therapeutic environmental sites",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§16] But if from want one is not fortunate enough to possess these things, we must make an imitation of the cool breeze, by fanning with the branches of fragrant boughs, and, if the season of spring, by strewing the ground with such leaves and flowers as are at hand."
+      ],
+      "reasoning": "The author explicitly acknowledges a stratification in medical care based on 'want' (poverty). Those lacking the resources for fountains and meadows (the ‘fortunate’) are restricted to 'imitations' (manual fanning and strewing leaves).",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a large segment of the population who lack the private infrastructure of elite Roman/Greek households mentioned previously.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Selective wine distribution",
+      "rule_category": "Access to luxury goods",
+      "group": "Patients with inflammation",
+      "group_category": "Health",
+      "resource": "Right to consume wine during illness",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§16] And if the patient should come to such a state as to require wine, it is not very safe to take wine in inflammations; for, wine to persons labouring under inflammation is an increase of the pains, but to those free from inflammation it is an increase of the natural strength."
+      ],
+      "reasoning": "Wine is restricted as a medical resource based on the specific physiological state (inflammation), creating a rule of exclusion from a standard dietary/medical item.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific subset of the sick population during a specific stage of disease.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physician immunity from euthanasia",
+      "rule_category": "Exclusion from medical assistance in dying",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to perform euthanasia for suffering patients",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] For in ileus a breathing-time for a short space, even from loss of sensibility, will prove an interval from pain; since, also, to persons enduring these pains, to die is happiness, but to impart it is not permitted to the respectable physician; but at times it is permitted, when he foresees that present symptoms cannot be escaped from, to lull the patient asleep with narcotics and anæsthetics."
+      ],
+      "reasoning": "The text explicitly states that even when a patient's suffering is so great that death would be a relief ('happiness'), a 'respectable physician' is forbidden from actively causing death ('to impart it is not permitted'). This establishes a professional and customary boundary on the scope of medical practice regarding end-of-life care.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to the professional class of physicians in their interaction with terminally ill patients.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Medical abandonment of terminal patients",
+      "rule_category": "Withdrawal of medical care",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to continued medical attendance in terminal states",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] But if he vomit up everything, if the sweat flow incessant, if the patient become cold and livid, if his pulse be almost stopped and his strength exhausted, it will be well in these circumstances to try to make one’s escape with credit."
+      ],
+      "reasoning": "Aretaeus advises physicians that once certain terminal physiological signs are present in cholera, they should leave the patient ('make one’s escape'). This indicates a customary practice where patients in a hopeless state lose the resource of active medical care/presence so the physician may preserve their reputation.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any patient reaching a specific, albeit extreme, clinical state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Freedom from medically-induced unconsciousness",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Protection from medically induced sleep or anesthesia",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] but at times it is permitted, when he foresees that present symptoms cannot be escaped from, to lull the patient asleep with narcotics and anæsthetics."
+      ],
+      "reasoning": "The text specifies that while killing is forbidden, a physician is permitted to use drugs to force a state of insensibility (sleep/anesthesia) if the case is deemed hopeless. This represents a loss of bodily autonomy/consciousness granted to the medical professional over the patient.",
+      "specificity": 6,
+      "specificity_reasoning": "The application is limited to patients suffering from ileus or similar acute, hopeless conditions.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Age-based medical exclusion",
+      "rule_category": "Age-based medical restriction",
+      "group": "Children or Elders",
+      "group_category": "Age",
+      "resource": "Access to venesection (bloodletting)",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] Whether it be impaction of stones, or whether it be inflammation, we must open the vein at the elbow, unless a particular period of life prove an obstacle, and blood must be taken in a full stream and in large quantity."
+      ],
+      "reasoning": "The author indicates that certain ages (likely the very young or very old) serve as a 'particular period of life' that prevents the standard medical procedure of large-scale bloodletting, effectively denying these groups access to a primary therapeutic intervention of the time.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to broad biological categories (age groups) across the entire population when they fall ill.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Surgical stone extraction",
+      "rule_category": "Access to emergency surgery",
+      "group": "Patients with bladder stones",
+      "group_category": "Health",
+      "resource": "Right to surgical intervention (lithotomy) to prevent death",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] But if this treatment be inadmissible, and the patient is nearly killed with the sufferings, we must make an incision in the part under the glans penis, and the neck of the bladder, in order to procure an outlet for the stone and the expulsion of the urine."
+      ],
+      "reasoning": "The text establishes a medical/ethical rule that when a stone causes life-threatening obstruction and other methods fail, the surgeon is authorized and required to perform an invasive incision to save the patient's life.",
+      "specificity": 4,
+      "specificity_reasoning": "While limited to those with a specific medical condition, it defines a standard of care for a significant subset of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female reproductive health maintenance",
+      "rule_category": "Obligation of healthcare",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Access to menstrual health monitoring",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] And if relieved, she is to bathe, and at the proper season is to return to her accustomed habits; and we must look to the woman that her menstrual discharges flow freely."
+      ],
+      "reasoning": "The text mandates that physicians or caretakers ensure the restoration and maintenance of regular menstruation as a requirement for female health and recovery, establishing it as a standard of care for women.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all adult women in the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical physical restraint",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Ailment-afflicted women",
+      "group_category": [
+        "Gender",
+        "Health"
+      ],
+      "resource": "Freedom of movement (limbs)",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§23] It is proper, then, in these cases, to call the physician quickly before the patient die. Should you fortunately arrive in time and ascertain that it is inflammation, you must open a vein, especially the one at the ankle, and pursue the other means which prove remedial in suffocation without inflammation: ligatures of the hands and feet so tight as to induce torpor"
+      ],
+      "reasoning": "In cases of 'hysterical convulsion,' the medical rule dictates the physical binding of the patient's limbs to the point of numbness as a therapeutic measure, removing their physical autonomy.",
+      "specificity": 5,
+      "specificity_reasoning": "It is specific to women suffering from a particular acute condition described by the author.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Medical care for acute disease",
+      "rule_category": "Access to healthcare",
+      "group": "Sick",
+      "group_category": "Health",
+      "resource": "Access to medical treatment and pharmacological intervention",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§24] For all these causes, we must open the vein at the elbow, and also the one at the ankle, and abstract blood in large quantity and frequently, for now it is not unseasonable to induce deliquium animi, so as to bring on torpor of the understanding and remission of the inflammation, and also mitigation of the heat about the member; for it is much blood which strongly enkindles the heat and audacity; it is the pabulum of the inflammation, and the fuel of the disorder of the understanding, and of the confusion. The whole body is to be purged with the medicine, the hiera; for the patients not only require purging, but also a gentle medication, both which objects are accomplished by the hiera."
+      ],
+      "reasoning": "The text outlines a systematic medical protocol for individuals suffering from satyriasis, including venesection, specific pharmaceuticals (hiera), and topical treatments. This indicates that the 'sick' (specifically those with acute inflammatory conditions) are a recognized group for whom society/the medical profession provides resource-intensive interventions.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule applies broadly to any individual afflicted with this specific category of acute disease within the Roman-era medical system described by Aretaeus.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Dietary regulation of patients",
+      "rule_category": "Restriction of consumption",
+      "group": "Sick",
+      "group_category": "Health",
+      "resource": "Right to consume standard diet (wine and meat)",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] Food containing little nourishment, in a cold state, in small quantity, and such as is farinaceous; mostly pot-herbs, the mallow, the blite, the lettuce, boiled gourd, boiled cucumber, ripe pompion. Wine and fleshes to be used sparingly until convalescence have made considerable progress; for wine imparts warmth to the nerves, soothes the soul, recalls pleasure, engenders semen, and provokes to venery."
+      ],
+      "reasoning": "The medical rule explicitly restricts the patient's access to standard 'high-status' or nourishing foods like meat and wine, substituting them with low-nourishment 'pot-herbs' as a mandatory part of the therapeutic regimen.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to patients during the duration of an acute illness, which is a significant but temporary sub-section of the population.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 15,
+  "_file_id": "tlg0719.tlg003.perseus-eng2",
+  "_input_tokens": 126382,
+  "_output_tokens": 12400,
+  "_model": "google/gemini-3-flash-preview"
+}

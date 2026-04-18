@@ -1,0 +1,1102 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Protection from arbitrary execution",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] I believe that you will decide my case impartially and, far sooner than allow my enemies to defy justice by taking my life, will uphold justice by protecting me, as your laws and your oaths as jurors require you to do."
+      ],
+      "reasoning": "The text identifies a legal and religious obligation ('laws and your oaths') for the jury to protect a defendant's life until a verdict is reached, preventing enemies from simply 'taking life' without the court's sanction.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to any citizen facing a capital charge in the Athenian legal system.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Voluntary trial appearance right",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to remain at liberty before trial",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] First, I ask you to bear in mind that it is not because I have been forced to face my trial that I am here today—I have not been on bail, nor have I been kept in confinement."
+      ],
+      "reasoning": "Andocides notes that he was not held in custody or required to provide bail before his trial, indicating a legal allowance for certain defendants to remain free until the trial date.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to defendants in certain categories of trials who have not been pre-emptively detained.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Self-exile to avoid trial",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to live in Attica following self-imposed exile",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] When a defendant admits himself guilty by refusing to await trial, you naturally endorse the verdict which he has passed upon himself",
+        "[§5] He can count upon a livelihood sufficient for all his needs, if he does no more than withdraw from Attica."
+      ],
+      "reasoning": "The text describes a customary or legal practice where a defendant can avoid trial by leaving the territory (Attica), though this is treated as a self-imposed 'verdict' of guilt that prevents them from living in their home state.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general procedural Option for individuals facing prosecution.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Defense procedural disadvantage",
+      "rule_category": "Legal procedure",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Equal time for preparation of legal case",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] The prosecution have brought their charge in perfect safety, after elaborating their plans at leisure; whereas I who am answering that charge am filled with fear; my life is at stake, and I have been grossly misrepresented."
+      ],
+      "reasoning": "The author explicitly states the defense is 'inevitably at a disadvantage' because the prosecution can prepare at leisure while the defendant must respond under the immediate threat of execution, showing a systemic imbalance in legal preparation.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes the fundamental structural position of any defendant in this legal system.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Protection from illegal information",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Protection from prosecution via illegal 'information'",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] Shall I start with what ought to be discussed last and prove that the prosecution disobeyed the law in lodging their information against me?"
+      ],
+      "reasoning": "The text mentions laws governing how 'information' (endeixis) must be lodged, implying that defendants have a right to have charges dismissed if the technical legal procedure for bringing the charge was violated.",
+      "specificity": 5,
+      "specificity_reasoning": "This refers to the specific legal mechanism of 'lodging information' (endeixis) rather than all lawsuits.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Perjury liability",
+      "rule_category": "Legal procedure",
+      "group": "Witnesses",
+      "group_category": "Occupation",
+      "resource": "Protection from punishment for false testimony",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] Again, witnesses have caused the death of innocent men by giving false evidence, and have only been convicted of perjury when it was too late to be of help to the victims."
+      ],
+      "reasoning": "The text confirms that witnesses who give false evidence ('perjury') are subject to legal conviction, though the remedy may occur after the original defendant is punished.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any person called as a witness in a court of law.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave admissibility under immunity",
+      "rule_category": "Access to judicial protection",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify with immunity",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] Grant immunity to him whom I indicate, and a non-initiate, a slave belonging to someone here present, shall describe the Mysteries to you. [...] They went off, and returned with a slave belonging to Archebiades, son of Polemarchus. His name was Andromachus. As soon as immunity had been voted him, he stated that Mysteries had been celebrated in Pulytion’s house."
+      ],
+      "reasoning": "The text demonstrates that slaves could provide information (information leading to prosecution) in capital religious cases if the state formally granted them immunity from the usual consequences of their status or their involvement in the act.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to slaves in specific high-stakes religious or state-security trials involving information relevant to the public interest.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Alien legal immunity",
+      "rule_category": "Access to judicial protection",
+      "group": "Resident aliens",
+      "group_category": "Citizenship",
+      "resource": "Right to state-granted immunity",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] An alien named Teucrus, resident in Athens, quietly withdrew to Megara. [...] From Megara he informed the Council that if immunity were granted him, he was prepared not only to lodge an information with regard to the Mysteries—as one of the participants, he would reveal the names of his companions [...] He was brought to Athens, and on being granted immunity, furnished a list of his associates."
+      ],
+      "reasoning": "Resident aliens (metics) were legally capable of negotiating and receiving formal immunity from the Council in exchange for testimony.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the specific legal category of resident aliens (metics) in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "State-funded informant rewards",
+      "rule_category": "Grant of economic privilege",
+      "group": "Informants",
+      "group_category": "Occupation",
+      "resource": "Right to financial rewards for testimony",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] After the various informations had been laid, the question of rewards arose: for Cleonymus’ decree had offered one thousand drachmae, and Peisander’s ten. [...] As a result the principal reward was voted to Andromachus, the second to Teucrus; and at the festival of the Panathenaea Andromachus received ten thousand drachmae and Teucrus one thousand."
+      ],
+      "reasoning": "The Athenian state used specific decrees to offer and pay significant concrete financial sums to individuals (including slaves and aliens) who provided successful testimony in matters of public safety or religious impiety.",
+      "specificity": 5,
+      "specificity_reasoning": "This reward is limited to individuals who successfully act as 'informers' under specific decrees.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Informant liability for falsehood",
+      "rule_category": "Protection from bodily harm",
+      "group": "Informants",
+      "group_category": "Occupation",
+      "resource": "Protection from capital punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Because the law ran that whereas an informer’s claim to immunity should be allowed if his information were true, he should be put to death, if it were not."
+      ],
+      "reasoning": "The text explicitly states a legal rule where the immunity granted to an informer was conditional; if the information was found to be false, the individual lost their protection and faced the death penalty.",
+      "specificity": 4,
+      "specificity_reasoning": "Specific to a subset of the population (those acting as state informers).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave admissibility under torture",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from judicial torture",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] I supported this account by handing over my slave for torture, to prove that I was ill at the time in question and had not even left my bed; and the Prytanes arrested the women-servants in the house which the criminals had used as their base."
+      ],
+      "reasoning": "In Athenian legal proceedings, the testimony of a slave was commonly verified or extracted through judicial torture (basanos), and masters were expected to offer their slaves for this purpose to prove their own innocence.",
+      "specificity": 2,
+      "specificity_reasoning": "This was a general rule affecting the entire class of enslaved persons in legal contexts.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Juror disenfranchisement penalty",
+      "rule_category": "Disenfranchisement",
+      "group": "Prosecutors",
+      "group_category": "Legal standing",
+      "resource": "Citizenship rights",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Should Cephisius here, who was responsible for the information laid against me, fail to gain one-fifth of your votes and so lose his rights as a citizen, he is forbidden to set foot within the sanctuary of the Two Goddesses under pain of death."
+      ],
+      "reasoning": "Athenian law penalized prosecutors who failed to win at least 20% of the jury's votes by stripping them of their citizen rights (atimia) and barring them from sacred spaces.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to citizens who take the role of a formal prosecutor in public cases.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Surety liability",
+      "rule_category": "Legal liability",
+      "group": "Sureties",
+      "group_category": "Legal standing",
+      "resource": "Protection from vicarious imprisonment/execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] No sooner had they provided their sureties than they leapt on horseback and deserted to the enemy, leaving the sureties to their fate, as they were now liable to the same penalties as the prisoners for whom they had gone bail."
+      ],
+      "reasoning": "When a defendant fled while out on bail, the individuals who acted as their 'sureties' (guarantors) legally inherited the criminal penalties—including potential execution—intended for the defendant.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to those who voluntarily enter into the specific legal contract of suretyship.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Witness immunity grant",
+      "rule_category": "Access to judicial protection",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from punishment for self-incrimination",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] Grant immunity to him whom I indicate, and a non-initiate, a slave belonging to someone here present, shall describe the Mysteries to you.",
+        "[§14] As soon as immunity had been voted him, he stated that Mysteries had been celebrated in Pulytion’s house."
+      ],
+      "reasoning": "In cases of high religious or state importance (impiety), even slaves could be granted legal immunity (adeia) by the assembly to testify, protecting them from the usual consequences of admitting to a crime or participating in forbidden rites.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to slaves used as state informants in capital cases, which is a specific but established legal procedure.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Religious space exclusion",
+      "rule_category": "Exclusion from sacred spaces",
+      "group": "Non-initiates",
+      "group_category": "Religious access",
+      "resource": "Right to attend meetings regarding sacred mysteries",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] [12] Alcibiades denied the charge at great length; so the Prytanes decided to clear the meeting of non-initiates and themselves fetch the lad indicated by Pythonicus."
+      ],
+      "reasoning": "When the Athenian Assembly discussed the profanation of the Mysteries, non-initiates were legally barred from the proceedings to maintain the secrecy of the rites being discussed.",
+      "specificity": 5,
+      "specificity_reasoning": "This involves a significant portion of the population (those not initiated into the Eleusinian Mysteries) but only during specific religious-legal proceedings.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Informant reward eligibility",
+      "rule_category": "Grant of economic privilege",
+      "group": "Resident aliens",
+      "group_category": "Citizenship",
+      "resource": "Right to state financial rewards for information",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§17] An alien named Teucrus, resident in Athens, quietly withdrew to Megara. ... He was brought to Athens, and on being granted immunity, furnished a list of his associates.",
+        "[§30] As a result the principal reward was voted to Andromachus, the second to Teucrus; and at the festival of the Panathenaea Andromachus received ten thousand drachmae and Teucrus one thousand."
+      ],
+      "reasoning": "Metic (resident alien) status did not bar an individual from receiving official state rewards (drachmae) for providing information in capital trials.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the specific subgroup of metics acting as legal informers.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial immunity for truth",
+      "rule_category": "Access to judicial protection",
+      "group": "Informants",
+      "group_category": "Legal standing",
+      "resource": "Protection from execution",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] because the law ran that whereas an informer’s claim to immunity should be allowed if his information were true, he should be put to death, if it were not."
+      ],
+      "reasoning": "Athenian law provided a conditional right to life/immunity for those who turned state's evidence, explicitly dependent on the veracity of their claims.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general law applicable to any person who takes on the role of an informer in such cases.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Juror religious restriction",
+      "rule_category": "Exclusion from judicial office",
+      "group": "Non-initiates",
+      "group_category": "Religious access",
+      "resource": "Right to serve as juror in religious trials",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] It was therefore publicly resolved that such members of the court of the Thesmothetae as were initiates should be presented with the informations of the several claimants and decide between them.",
+        "[§31] So much for the profanation of the Mysteries, gentlemen, on which the information lodged against me is based and which you are here as initiates to investigate."
+      ],
+      "reasoning": "In trials concerning the profanation of the Mysteries, only citizens who were themselves initiates were eligible to serve as jurors or adjudicate rewards.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to the subset of citizens who are not initiated, restricting their general democratic right to serve on juries in specific contexts.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Vexatious litigant sanctions",
+      "rule_category": "Restriction of citizenship rights",
+      "group": "Unsuccessful prosecutors",
+      "group_category": "Legal standing",
+      "resource": "Right to enter sacred spaces and maintain citizenship",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§35] Should Cephisius here, who was responsible for the information laid against me, fail to gain one-fifth of your votes and so lose his rights as a citizen, he is forbidden to set foot within the sanctuary of the Two Goddesses under pain of death."
+      ],
+      "reasoning": "Under Athenian law, a prosecutor who failed to receive 20% of the jury's votes ('one-fifth') faced partial atimia (loss of rights), including being barred from specific sanctuaries.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to a specific behavior-derived legal status (the failed prosecutor), but entails a near-immutable loss of civic status.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Council summon arrest signal",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Freedom from arbitrary arrest during assembly",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§38] As a result, Athens reached such a state that the lowering of the flag, by the Herald, when summonig a meeting of the Council, was quite as much a signal for the citizens to hurry from the Agora, each in terror of arrest, as it was for the Council to proceed to the Council-chamber."
+      ],
+      "reasoning": "The text describes a state of emergency where the standard procedure for calling a council meeting became a signal for mass arrests or the fear thereof, stripping citizens of their normal security in public spaces.",
+      "specificity": 2,
+      "specificity_reasoning": "This affected the general body of citizens present in the Agora.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave earnings entitlement",
+      "rule_category": "Access to economic resources",
+      "group": "Slave owners",
+      "group_category": "Wealth",
+      "resource": "Right to collect slave earnings",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] Diocleides’ tale was that he had had to fetch the earnings of a slave of his at Laurium."
+      ],
+      "reasoning": "The mention of fetching a slave's earnings as a mundane reason for travel indicates a legal/customary rule where the master is entitled to the wages earned by their enslaved persons.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to owners of skilled or hired-out slaves.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public reward for information",
+      "rule_category": "Grant of economic privilege",
+      "group": "Informants",
+      "group_category": "Occupation",
+      "resource": "Financial reward for reporting crimes against the state",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] On his return to Athens he found a commission already appointed to investigate, and a reward of one hundred minae offered for information."
+      ],
+      "reasoning": "The state officially incentivized citizens to provide information on the mutilation of the Hermae through substantial financial rewards.",
+      "specificity": 6,
+      "specificity_reasoning": "Rewards are specific to those who possess information regarding a particular high-stakes crime.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Suspension of legal protections",
+      "rule_category": "Denial of judicial protection",
+      "group": "Accused citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from torture (the wheel)",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§45] Peisander hereupon rose and moved that the decree passed in the archonship of Scamandrius be suspended and all whose names were on the list sent to the wheel, to ensure the discovery of everyone concerned before nightfall."
+      ],
+      "reasoning": "The decree of Scamandrius normally protected Athenian citizens from being tortured; Peisander's motion to suspend it to use 'the wheel' shows that this protection could be legally revoked in cases of perceived conspiracy.",
+      "specificity": 5,
+      "specificity_reasoning": "While applying to citizens, it only applied to those specifically named on a denunciation list.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Surety liability",
+      "rule_category": "Legal obligation",
+      "group": "Legal sureties",
+      "group_category": "Legal standing",
+      "resource": "Protection from the penalties of the accused",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§46] They finally managed to gain their request; but no sooner had they provided their sureties than they leapt on horseback and deserted to the enemy, leaving the sureties to their fate, as they were now liable to the same penalties as the prisoners for whom they had gone bail."
+      ],
+      "reasoning": "In Athenian law, a person who provided bail (surety) for an accused individual inherited the legal liability and penalties of that individual if they fled.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies only to the small subset of people acting as financial/legal guarantors for others.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Emergency military muster",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Freedom from emergency mobilization",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§47] Then they summoned the Generals and bade them proclaim that citizens resident in Athens proper were to proceed under arms to the Agora; those between the Long Walls to the Theseum; and those in Peiraeus to the Agora of Hippodamus."
+      ],
+      "reasoning": "The state had the authority to compel all citizens to take up arms and muster at specific locations during civil unrest or perceived threats to the democracy.",
+      "specificity": 2,
+      "specificity_reasoning": "This order encompassed the entire armed citizenry of the city and its port.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Property confiscation for impiety",
+      "rule_category": "Denial of property rights",
+      "group": "Convicted criminals (Impiety)",
+      "group_category": "Legal status",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§53] Am I to look on while my own kindred perish for a crime which they have not committed: while they themselves are put to death and their goods are confiscated [...]"
+      ],
+      "reasoning": "The text confirms that for certain high crimes (like the mutilation of the Hermae), the penalty included the seizure of all personal assets by the state.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to any citizen convicted of specific capital crimes against the state or gods.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave admissibility under torture",
+      "rule_category": "Denial of judicial immunity",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify without torture",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§66] I supported this account by handing over my slave for torture, to prove that I was ill at the time in question and had not even left my bed; and the Prytanes arrested the women-servants in the house which the criminals had used as their base."
+      ],
+      "reasoning": "Andocides offers his slave for torture as a standard method of providing evidence in an Athenian court, and the state (Prytanes) arrests female servants for the same purpose. This shows that the 'testimony' of slaves was only legally weightful or required if extracted through physical duress.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire enslaved population of Athens, which was a significant demographic.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Execution for false informing",
+      "rule_category": "Capital punishment for perjury",
+      "group": "Informants",
+      "group_category": "Legal standing",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§68] Alcibiades and Amiantus fled from the country in terror; and when you heard the facts yourselves, you handed Diocleides over to the court and put him to death."
+      ],
+      "reasoning": "Diocleides, having admitted to being a false informer (μηνυτής) in a matter of state security, is handed over to a court and executed. This indicates that while informants have certain standing, those found to be lying in capital cases lose their right to life.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically targets a small subset of people: those who act as state informers and are subsequently proven to have committed perjury.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Citizen right of inquiry",
+      "rule_category": "Access to judicial participation",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to question the defendant",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§72] However, should any of you wish to hear more or think that any point has not been dealt with satisfactorily, or should I have omitted anything, has only to rise and mention it, and I will reply to his inquiry as well."
+      ],
+      "reasoning": "In the Athenian court context, the jury (citizens) has the right to interrupt or request further clarification from the defendant, showing a high level of active participation in the legal process.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all citizens serving as jurors, which encompassed a large portion of the adult male population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Witness address privilege",
+      "rule_category": "Access to court platforms",
+      "group": "Witnesses",
+      "group_category": "Legal standing",
+      "resource": "Right to address the court from the platform",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§71] The position, then, is this, gentlemen: they will address you from the platform for as long as you care to listen to them; then, when you are satisfied, I will proceed to the remainder of my defence."
+      ],
+      "reasoning": "Witnesses in this trial are granted the right to speak directly to the jury from the speaker’s platform (bema), showing that recognized witnesses had a formal role and physical place within the judicial proceeding.",
+      "specificity": 6,
+      "specificity_reasoning": "Only those called as specific witnesses in a trial possess this right at that moment.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Impious temple exclusion",
+      "rule_category": "Restriction of religious access",
+      "group": "Individuals admitting impiety",
+      "group_category": "Health",
+      "resource": "Right to enter temples",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§73] Isotimides proposed to exclude from temples all who had committed an act of impiety and admitted their guilt."
+      ],
+      "reasoning": "The text cites a specific decree (Isotimides') that bars a defined group from sacred spaces based on their admitted status regarding religious pollution.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a subset of the population who have undergone specific legal or religious naming for impiety.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "State debtor disenfranchisement",
+      "rule_category": "Denial of citizenship rights",
+      "group": "State debtors",
+      "group_category": "Wealth",
+      "resource": "Civic rights (atimia)",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§73] First, state-debtors. All who had been condemned on their accounts when vacating a public office, all who had been condemned as judgement-debtors... had to pay within eight Prytanies; otherwise, the sum due was doubled and the delinquent’s property distrained upon. Such was one form of disenfranchisement."
+      ],
+      "reasoning": "Failure to meet financial obligations to the state resulted in the loss of personal civic rights and potential property seizure.",
+      "specificity": 3,
+      "specificity_reasoning": "Debt to the state was a common legal status in Athens affecting many citizens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ancestral atimia for bibe-taking",
+      "rule_category": "Denial of hereditary rights",
+      "group": "Descendants of convicts",
+      "group_category": "Lineage",
+      "resource": "Personal civic rights",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§74] This class included all persons convicted of theft or of accepting bribes—it was laid down that both they and their descendants should lose their personal rights."
+      ],
+      "reasoning": "The law extended the punishment of disenfranchisement (atimia) to the offspring of the convicted person, impacting their legal standing via lineage.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to the families of those convicted of high-level corruption or theft.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Military cowardice disenfranchisement",
+      "rule_category": "Denial of political rights",
+      "group": "Soldiers guilty of cowardice",
+      "group_category": "Occupation",
+      "resource": "Personal civic rights",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§74] Similarly, all who deserted on the field of battle, who were found guilty of evasion of military service, of cowardice... were deprived of their personal rights, while retaining possession of their property."
+      ],
+      "reasoning": "Specific behaviors in a military capacity led to a legal change in status where the individual lost political efficacy while keeping material goods.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to those identified through military court proceedings.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Oligarchic soldier speech restriction",
+      "rule_category": "Exclusion from political speech",
+      "group": "Soldiers under the Four Hundred",
+      "group_category": "Occupation",
+      "resource": "Right to speak in Assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§75] The soldiers who remained in Athens under the Four Hundred are a case in point. They enjoyed all the rights of ordinary citizens, except that they were forbidden to speak in the Assembly or become members of the Council."
+      ],
+      "reasoning": "Political association with a previous regime resulted in targeted restrictions on active political participation (speaking and council membership).",
+      "specificity": 5,
+      "specificity_reasoning": "Refers to a specific historical cohort involved in a particular political event.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Agora access restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Disfranchised citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to enter the Agora",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§76] others were specifically debarred from entering the Agora."
+      ],
+      "reasoning": "Certain categories of disenfranchised individuals were physically barred from the central public and commercial space of the city.",
+      "specificity": 3,
+      "specificity_reasoning": "The Agora was the center of life; barring citizens from it was a standard legal penalty.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Non-retroactivity of laws",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from pre-Eucleides laws",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§87] But of the laws only those passed since the archonship of Eucleides shall be enforced."
+      ],
+      "reasoning": "Following the restoration of democracy, the society established a rule that only laws passed after a certain date (403 BC) could be used for prosecution, protecting citizens from historical legal vulnerabilities.",
+      "specificity": 1,
+      "specificity_reasoning": "This protected the entire citizen body from past legal liabilities.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Impunity for slaying tyrants",
+      "rule_category": "Withdrawal of bodily protection",
+      "group": "Oligarchic officials",
+      "group_category": "Occupation",
+      "resource": "Protection from extrajudicial killing",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§96] If anyone shall suppress the democracy at Athens or hold public office after its suppression, he shall become a public enemy and be slain with impunity; his goods shall be confiscated."
+      ],
+      "reasoning": "Law of Demophantus explicitly removed the legal protection against homicide for anyone who held office under a non-democratic regime.",
+      "specificity": 5,
+      "specificity_reasoning": "Targeted specifically at those holding office in a non-democratic government.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Next-of-kin marriage right",
+      "rule_category": "Access to family succession",
+      "group": "Male relatives (next-of-kin)",
+      "group_category": "Lineage",
+      "resource": "Right to marry heiresses (epikleroi)",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§119] if Epilycus were alive, or had died a rich man, we should be claiming the girls as their next of kin... Do you obtain an order of the court for the one, and I will do the same for the other."
+      ],
+      "reasoning": "Athenian law dictated that daughters without brothers (epikleroi) were to be claimed and married by their closest male relatives to preserve the estate.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies only to situations involving families without male heirs and their specific relatives.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Bough placement penalty",
+      "rule_category": "Sanction for ritual violation",
+      "group": "Ritual participants",
+      "group_category": "Occupation",
+      "resource": "Protection from capital punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§110] they allege that it was I who placed it in the Eleusinium, and that under ancient law the penalty for doing such a thing during the Mysteries is death."
+      ],
+      "reasoning": "The text describes an 'ancient law' (interpreted and disputed) where a specific ritual act in a specific sanctuary during a specific festival carries the death penalty.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies only during the Mysteries and within the Eleusinium sanctuary.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Temple exclusion for impiety",
+      "rule_category": "Religious access restriction",
+      "group": "Impious persons",
+      "group_category": "Origin",
+      "resource": "Right to enter temples",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§74] Isotimides proposed to exclude from temples all who had committed an act of impiety and admitted their guilt."
+      ],
+      "reasoning": "The text describes a decree (Isotimides' decree) that creates a legal disability (exclusion from sacred spaces) for a specific category of people defined by a religious transgression.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those who have both committed impiety and admitted it, a subset of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "State debtor disenfranchisement",
+      "rule_category": "Denial of civic rights",
+      "group": "State debtors",
+      "group_category": "Wealth",
+      "resource": "Citizenship rights",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§76] First, state-debtors. All who had been condemned on their accounts when vacating a public office, all who had been condemned as judgement-debtors, all those fined in a public action or under the summary jurisdiction of a magistrate, all who farmed taxes and then defaulted or were liable to the state as sureties for a defaulter, had to pay within eight Prytanies; otherwise, the sum due was doubled and the delinquent’s property distrained upon."
+      ],
+      "reasoning": "Financial obligations to the state, if unpaid, resulted in the loss of civic rights (atimia) and potential property seizure.",
+      "specificity": 3,
+      "specificity_reasoning": "Tax farmers and public officials are broad but distinct categories of the citizenry.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Corruption based atimia",
+      "rule_category": "Hereditary loss of rights",
+      "group": "Convicted bribe-takers",
+      "group_category": "Lineage",
+      "resource": "Personal rights for descendants",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§77] This class included all persons convicted of theft or of accepting bribes—it was laid down that both they and their descendants should lose their personal rights."
+      ],
+      "reasoning": "The law explicitly extends the loss of personal rights to the descendants of those convicted of bribery or theft, making it a lineage-based restriction.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to a specific group of criminals and their family lines.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Military cowardice atimia",
+      "rule_category": "Denial of personal rights",
+      "group": "Military deserters",
+      "group_category": "Occupation",
+      "resource": "Personal rights",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§77] Similarly, all who deserted on the field of battle, who were found guilty of evasion of military service, of cowardice, or of withholding a ship from action, all who threw away their shields... were deprived of their personal rights, while retaining possession of their property."
+      ],
+      "reasoning": "Soldiers who failed in their duties lost their standing as full personal right-holders in the eyes of the law.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to those serving in the military who commit specific infractions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Elder abuse atimia",
+      "rule_category": "Denial of personal rights",
+      "group": "Abusers of parents",
+      "group_category": "Age",
+      "resource": "Personal rights",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§77] ...or who were found guilty of maltreating their parents, were deprived of their personal rights, while retaining possession of their property."
+      ],
+      "reasoning": "Maltreatment of parents (gonéōn kákōsis) resulted in the loss of personal civic rights.",
+      "specificity": 6,
+      "specificity_reasoning": "A specific legal category of domestic offenders.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Political speech restriction",
+      "rule_category": "Exclusion from political speech",
+      "group": "Four Hundred supporters",
+      "group_category": "Citizenship",
+      "resource": "Right to speak in Assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§78] The soldiers who remained in Athens under the Four Hundred are a case in point. They enjoyed all the rights of ordinary citizens, except that they were forbidden to speak in the Assembly or become members of the Council."
+      ],
+      "reasoning": "Citizens associated with the oligarchy of the Four Hundred were specifically barred from high-level political participation (speaking and counseling).",
+      "specificity": 7,
+      "specificity_reasoning": "Applies to a specific historical/political cohort of soldiers.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Geographic movement restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Specifically disfranchised persons",
+      "group_category": "Citizenship",
+      "resource": "Freedom of movement (maritime)",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§79] Others were deprived of the right of bringing an indictment, or of lodging an information: others of sailing up the Hellespont, or of crossing to Ionia: while yet others were specifically debarred from entering the Agora."
+      ],
+      "reasoning": "Athenian law allowed for 'partial disfranchisement' (atimia) which could include specific bans on travel to certain regions or entering the marketplace.",
+      "specificity": 5,
+      "specificity_reasoning": "These are tailored punishments for specific sub-groups of the disfranchised.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "General law requirement",
+      "rule_category": "Protection from arbitrary law",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from individualized legislation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§90] No law shall be directed against an individual without applying to all citizens alike, unless an Assembly of six thousand so resolve by secret ballot."
+      ],
+      "reasoning": "To protect citizens from targeted legislation ('privilegium'), the law required that all statutes be general in scope unless a massive quorum authorized an exception.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a constitutional-level protection for the entire citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from un-inscribed laws",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from arbitrary prosecution",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§88] Law.—In no circumstances shall magistrates enforce a law which has not been inscribed."
+      ],
+      "reasoning": "The post-Eucleides legal reform mandated that only publicly inscribed (published) laws were valid, preventing magistrates from using secret or obsolete decrees.",
+      "specificity": 1,
+      "specificity_reasoning": "Applies to every person subject to the Athenian legal system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Tax farmer imprisonment",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Tax farmers",
+      "group_category": "Occupation",
+      "resource": "Freedom from summary imprisonment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§96] —it being laid down by law that any defaulting tax farmer may be so punished by the Council—he retired into exile."
+      ],
+      "reasoning": "Tax farmers who defaulted on their contracts were subject to summary imprisonment by the Council, a loss of the standard protection from detention without trial.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies strictly to those engaged in the specific profession of tax farming.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Outlawry of anti-democrats",
+      "rule_category": "Protection from bodily harm",
+      "group": "Oligarchic officials",
+      "group_category": "Occupation",
+      "resource": "Protection from extrajudicial killing",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§99] If anyone shall suppress the democracy at Athens or hold public office after its suppression, he shall become a public enemy and be slain with impunity."
+      ],
+      "reasoning": "Under the decree of Demophantus, anyone holding office under an illegally established government lost all legal protection of their life.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies to the very small subset of people who might lead or serve in a coup.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Tyrannicide immunity and reward",
+      "rule_category": "Protection of democratic order",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from prosecution for homicide",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§100] No sin shall he commit, no defilement shall he suffer who slays such an one or who conspires to slay him. And all the Athenians shall take oath by tribes and by demes over a sacrifice without blemish to slay such an one. [...] And I will sell all the goods of the slain and will give over one half to the slayer, and will withhold nothing from him."
+      ],
+      "reasoning": "The decree of Demophantus explicitly removes the legal and religious penalty for killing those who attempt to overthrow the democracy, and further incentivizes the act with half of the target's confiscated property.",
+      "specificity": 4,
+      "specificity_reasoning": "While the rule applies to all citizens, it is triggered by a very specific political contingency (tyranny or subversion of democracy).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Tyrannicide survivor benefits",
+      "rule_category": "State-sponsored welfare",
+      "group": "Children of tyrannicides",
+      "group_category": "Lineage",
+      "resource": "State-funded maintenance and honors",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§101] And if anyone shall lose his life in slaying such an one or in attempting to slay him, I will show to him and to his children the kindness which was shown to Harmodius and Aristogeiton and to their children."
+      ],
+      "reasoning": "The law grants the descendants of those killed while resisting tyranny the same civic honors and material support historically given to the famous 'Tyrannicides'.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies only to a very small subset of the population (children of specific fallen soldiers/citizens).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-Eucleides law validity",
+      "rule_category": "Judicial protection",
+      "group": "Defendants",
+      "group_category": "Citizens",
+      "resource": "Protection from prosecution under obsolete laws",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§102] No; and the reason for that is of course that only laws passed after the archonship of Eucleides can be applied. [...] [§106] The truth is, gentlemen, that although the prosecution may have availed themselves of a perfectly valid law in lodging their information against me, they based their charge upon that old decree which is concerned with an entirely different matter."
+      ],
+      "reasoning": "Following the restoration of democracy in 403 BCE (archonship of Eucleides), Athenian law was codified such that only recently ratified laws could be used in court, preventing political revenge for actions taken during the civil war.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a fundamental procedural rule affecting any citizen involved in the legal system.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Dissent-based execution",
+      "rule_category": "Political exclusion",
+      "group": "Democratic loyalists",
+      "group_category": "Citizens",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§105] Then will it not be a travesty of justice if a man whom the Thirty would have put to death, as they did others, for failing to commit any act of disloyalty to Athens, is not to be acquitted when tried before you whom he refused to wrong?"
+      ],
+      "reasoning": "The text highlights that under the oligarchy (the Thirty), citizens loyal to the democratic state were systematically executed for their political adherence or refusal to cooperate.",
+      "specificity": 4,
+      "specificity_reasoning": "This refers to a specific political group during a specific historical period of upheaval.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sanctuary violation penalty",
+      "rule_category": "Religious legal restriction",
+      "group": "Ritual participants",
+      "group_category": "Citizens",
+      "resource": "Right to life",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§113] They allege that it was I who placed it in the Eleusinium, and that under ancient law the penalty for doing such a thing during the Mysteries is death. [...] [§118] Callias rose once more and said that under an ancient law [...] the penalty for placing a bough in the Eleusinium during the Mysteries was instant death."
+      ],
+      "reasoning": "The text cites a religious law (contested by the speaker as obsolete or misquoted) that prescribes death for placing a suppliant's bough in a specific temple during the Mysteries, showing how religious protocol enforced bodily risks.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule targets anyone present at the religious festival who commits a very specific ritual error.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Levirate marriage priority",
+      "rule_category": "Family rights",
+      "group": "Next of kin",
+      "group_category": "Lineage",
+      "resource": "Right to marry heiresses (epikleroi)",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§120] Epilycus, son of Teisander, was my uncle, my mother’s brother. He died in Sicily without male issue, but left two daughters who ought now to have passed to Leagrus and myself. [...] [§122] Do you obtain an order of the court for the one, and I will do the same for the other."
+      ],
+      "reasoning": "In Athenian law, when a man died without male heirs, his daughters (epikleroi) were 'claimed' by the nearest male relatives to preserve the household and property within the lineage.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any family where the male head dies without sons, which is a common but specific legal circumstance.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Exile restoration",
+      "rule_category": "Citizenship recovery",
+      "group": "Exiles",
+      "group_category": "Citizens",
+      "resource": "Right to return and hold rights",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§110] they decreed that exiles should be restored and disfranchised citizens reinstated, that these too should take their part in the perilous struggle for deliverance. [...] [§112] and by deciding to restore your exiles and give back their rights to the citizens who had lost them you showed that you still had the noble spirit of your forefathers."
+      ],
+      "reasoning": "During times of national crisis (the Persian invasion and after the Thirty), the Athenian state issued decrees restoring citizenship and property rights to those who had been legally banished or stripped of rights (atimia).",
+      "specificity": 3,
+      "specificity_reasoning": "This affected thousands of individuals during the various reconciliations in Athenian history.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Paternal recognition of legitimacy",
+      "rule_category": "Access to lineage status",
+      "group": "Sons",
+      "group_category": "Lineage",
+      "resource": "Right to be recognized as legitimate",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§128] Finally Callias grew tired of the mother as well, and drove her out in her turn. She then said she was pregnant by him; but when she gave birth to a son, Callias denied that the child was his."
+      ],
+      "reasoning": "The text demonstrates that a father's denial of paternity effectively strips a child of their status and belonging within the family unit, regardless of the mother's claims.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any child whose paternity is disputed, which represents a significant legal and social category in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Paternal oath for admission",
+      "rule_category": "Access to religious/civic groups",
+      "group": "Sons",
+      "group_category": "Lineage",
+      "resource": "Right to admission to the Ceryces",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§130] Calliades opposed his admission; but the Ceryces voted in favour of the law which they have, whereby a father can introduce his son, if he swears that it is his own son whom he is introducing."
+      ],
+      "reasoning": "The text explicitly mentions a 'law' belonging to the Ceryces (a priestly clan) where a father's sworn oath is the decisive mechanism for a son's admission to the group.",
+      "specificity": 7,
+      "specificity_reasoning": "The rule is specific to the Ceryces (a noble clan/cult group) rather than all citizens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Initiation and ritual participation",
+      "rule_category": "Access to sacred rites",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to initiate others and sacrifice",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§135] I initiated A— from Delphi and other friends of mine besides from outside Attica, and I frequented the Eleusinium and offered sacrifices, as I consider I have a perfect right to do."
+      ],
+      "reasoning": "Andocides asserts his right as a citizen in good standing (post-return) to perform religious initiations and offer sacrifices at major temples like the Eleusinium.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad body of Athenian citizens not under active religious ban.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Eligibility for public treasurership",
+      "rule_category": "Access to high office",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to serve as Treasurer",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§135] Yet so far from prosecuting, they actually proposed me for public services, first as Gymnasiarch at the Hephaestia, then as head of the state deputation to the Isthmus and to Olympia, and finally as Treasurer of the Sacred Monies on the Acropolis."
+      ],
+      "reasoning": "The text lists specific high offices and religious treasurerships that citizens are eligible to hold if their legal standing is not challenged.",
+      "specificity": 4,
+      "specificity_reasoning": "Holding high office is limited to citizens of specific wealth classes or standing, though the text frames it as a general citizen right.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Tax farming bidding rights",
+      "rule_category": "Grant of economic privilege",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to bid for state tax contracts",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§137] There was no competition; so I went before the Council and outbid them, until I purchased the rights for thirty-six talents. I had ousted them. I then furnished you with sureties, collected the tax, and settled with the state."
+      ],
+      "reasoning": "Providing one can provide sureties, a citizen has the right to outbid others for the farming of customs duties, moving a resource (public tax collection) into private management for profit.",
+      "specificity": 5,
+      "specificity_reasoning": "While open to those with capital/sureties, the bidding process is a regulated legal mechanism.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ancestral merit in sentencing",
+      "rule_category": "Access to judicial mercy",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Right to use ancestral service for legal defense",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§144] I beg you one and all, then, to hold towards me the feelings which you hold towards my ancestors, so that I may have the opportunity of imitating them.",
+        "[§146] Now since Athens as a city was spared because of the brave exploits of your forefathers, I likewise claim to be spared because of the brave deeds of mine"
+      ],
+      "reasoning": "In Athenian courts, members of prestigious lineages could claim a legal 'resource'—the accumulated merit of their ancestors—to influence a jury's decision on life and death.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any defendant from a well-known or historically significant family.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Naturalization of allies",
+      "rule_category": "Grant of citizenship status",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to Athenian citizenship",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§149] When you are ready to extend civic rights to Thessalians and Andrians on the ground that men are scarce, you cannot but refuse to put acknowledged citizens to death"
+      ],
+      "reasoning": "The text mentions a specific practice of granting citizenship to foreign allies (Thessalians/Andrians) due to population shortages, showing it as a concrete civic mechanism.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to specific groups of non-citizens targeted by legislative decrees.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Citizen protection from execution",
+      "rule_category": "Protection from bodily harm",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from execution without necessity",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§153] When you are ready to extend civic rights to Thessalians and Andrians on the ground that men are scarce, you cannot but refuse to put acknowledged citizens to death, men who should serve you well, and who will have the opportunity of doing so,if they are willing."
+      ],
+      "reasoning": "Andocides appeals to the jury's obligation to preserve the lives of acknowledged citizens, contrasting this with the city's practice of granting rights to foreigners to replenish the population. This implies a normative rule that the state should prioritize the bodily integrity and survival of its recognized citizens over their execution.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the entire body of recognized Athenian citizens, a large portion of the free population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Naturalization of foreigners",
+      "rule_category": "Access to citizenship",
+      "group": "Foreigners",
+      "group_category": "Foreigners",
+      "resource": "Right to acquire civic rights",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§153] When you are ready to extend civic rights to Thessalians and Andrians on the ground that men are scarce, you cannot but refuse to put acknowledged citizens to death."
+      ],
+      "reasoning": "The text explicitly mentions that Athens extends civic rights (citizenship) to specific groups of foreigners (Thessalians and Andrians) when the citizen population is low. This describes a legal mechanism for inclusion based on demographic need.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule is specific to particular ethnic groups of foreigners (Thessalians and Andrians) rather than all foreigners generally.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial support via tribesmen",
+      "rule_category": "Legal standing",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to tribal advocacy in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§154] And now I will ask men who have given public proof of their outstanding worth to take my place here and give you their opinion of me. Come, Anytus and Cephalus: come, Thrasyllus and you others of my tribe who have been chosen to support me."
+      ],
+      "reasoning": "In Athenian legal proceedings, a defendant had the right to call upon 'synegoroi' (supporters), often chosen from their own tribe, to testify to their character and worth. This provided a material advantage in legal defense.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to citizens involved in high-stakes litigation who have the social standing to call upon prominent supporters.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 10,
+  "_file_id": "tlg0027.tlg001.perseus-eng2",
+  "_input_tokens": 80771,
+  "_output_tokens": 16161,
+  "_model": "google/gemini-3-flash-preview"
+}

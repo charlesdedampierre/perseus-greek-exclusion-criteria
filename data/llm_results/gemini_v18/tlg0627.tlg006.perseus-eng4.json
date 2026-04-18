@@ -1,0 +1,1048 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Gymnastic spatial health risk",
+      "rule_category": "Age-based health exposure",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from epidemic contagion",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] The sufferers were youths, young men, and men in their prime, usually those who frequented the wrestling school and gymnasia."
+      ],
+      "reasoning": "The text identifies a specific demographic (young men) as the primary victims of a parotitis-like outbreak due to their presence in specific civic locations (gymnasia), implying a lack of protection from disease within these age-segregated social spaces.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to males of a certain age range who participate in particular civic institutions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Childhood disease vulnerability",
+      "rule_category": "Age-based mortality risk",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from fatal disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] From all the diseases some died, but the greatest number from these fevers, especially children—those just weaned, older children of eight or ten years, and those approaching puberty."
+      ],
+      "reasoning": "The text explicitly states that during the second constitution, children across various developmental stages suffered the highest mortality rates from the prevailing fevers.",
+      "specificity": 3,
+      "specificity_reasoning": "This affects a broad segment of the population (all children of various ages).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-childbirth medical vulnerability",
+      "rule_category": "Gender-based health risk",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Survival after childbirth",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] But the great majority had difficult childbirth, and after giving birth they would fall ill, and these especially died"
+      ],
+      "reasoning": "The text establishes a rule of high mortality for women specifically linked to the period immediately following labor during these epidemics.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to a specific subset of women (those in the postpartum period).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Pregnancy-based fetal loss",
+      "rule_category": "Gender-based family loss",
+      "group": "Pregnant women",
+      "group_category": "Gender",
+      "resource": "Right to carry pregnancy to term",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] but all to my knowledge had abortions if they chanced to fall ill when with child."
+      ],
+      "reasoning": "The author notes a consistent outcome where illness during this period led to the termination of pregnancy for all affected women, representing a loss of reproductive resource.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to women currently pregnant who contract the epidemic disease.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave labor medical recording",
+      "rule_category": "Status-based legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Inclusion in medical case studies",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Far otherwise was it with the servant of Phanagoras, who had none of these symptoms, and died.",
+        "[§1] for example, the slave of Erato and Myllus, after copious hemorrhage, lapsed into dysentery. They recovered.",
+        "[§1] There were two cases of suppuration, both fatal, Cratistonax... and the serving-maid of Scymnus the fuller."
+      ],
+      "reasoning": "While slaves are property, they are included in the physician's diagnostic records alongside citizens, granting them a form of 'biographical standing' in the medical record of the city.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to any individual with slave status within the medical practice's reach.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Post-weaning mortality risk",
+      "rule_category": "Age-based health exclusion",
+      "group": "Infants",
+      "group_category": "Age",
+      "resource": "Protection from fatal infection",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] especially children—those just weaned"
+      ],
+      "reasoning": "The text identifies the specifically vulnerable period of weaning as a high-risk category for death in the prevailing second constitution.",
+      "specificity": 6,
+      "specificity_reasoning": "Focuses on a very narrow developmental window (just weaned).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Male access to gymnasia",
+      "rule_category": "Access to public resources",
+      "group": "Young men",
+      "group_category": "Age",
+      "resource": "Access to wrestling schools and gymnasia",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] The sufferers were youths, young men, and men in their prime, usually those who frequented the wrestling school and gymnasia. Few women were attacked."
+      ],
+      "reasoning": "The text identifies a specific demographic (young men in their prime) defined by their regular attendance at key civic and social institutions (gymnasia and wrestling schools). This reflects the Greek social norm where these spaces were central to the life and development of male citizens, while being largely inaccessible or not frequented by women.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific age and gender cohort (young males) within the free population of Thasos.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female exclusion from gymnasia",
+      "rule_category": "Social spatial exclusion",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Access to wrestling schools and gymnasia",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] The sufferers were youths, young men, and men in their prime, usually those who frequented the wrestling school and gymnasia. Few women were attacked."
+      ],
+      "reasoning": "The author notes that 'few women were attacked' by the specific ear swellings that affected those at the gymnasia. This epidemiological observation demonstrates that women did not frequent these public spaces, reflecting a customary exclusion from these male-dominated civic institutions.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to half the population based on gender.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Patient cooperation requirement",
+      "rule_category": "Medical procedure obligation",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to receive medical care",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] The art has three factors, the disease, the patient, the physician. The physician is the servant of the art. The patient must co-operate with the physician in combating the disease."
+      ],
+      "reasoning": "The text establishes a normative rule for the medical encounter in 5th-century Greece: medical treatment is not a unilateral service but a conditional interaction where the patient has a structured obligation to assist the physician. This implies that access to the 'art' of healing is contingent upon the patient's compliance.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general rule governing the relationship between any physician and any patient in this society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physician duty of care",
+      "rule_category": "Access to safe treatment",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Protection from medical harm",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] As to diseases, make a habit of two things—to help, or at least to do no harm."
+      ],
+      "reasoning": "This famous ethical injunction functions as a customary rule of the medical profession, granting the group of 'the sick' a concrete right to expect that a practitioner's intervention will not leave them in a worse state than the disease itself.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to all individuals seeking medical assistance.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Infant mortality vulnerability",
+      "rule_category": "Survival outcome",
+      "group": "Infants",
+      "group_category": "Age",
+      "resource": "Protection from lethal disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] From all the diseases some died, but the greatest number from these fevers, especially children—those just weaned, older children of eight or ten years, and those approaching puberty."
+      ],
+      "reasoning": "The author identifies a specific demographic stratification in the mortality rates of the Thasos epidemics. While the cause is biological, the systemic recording of this high mortality rate for a specific age group (the 'just weaned') reflects the social reality that this group was the most deprived of the 'resource' of survival during public health crises.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a narrow age-defined subset of the population (children/infants).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Patient cooperation requirement",
+      "rule_category": "Medical protocol",
+      "group": "Sick persons",
+      "group_category": "Health",
+      "resource": "Right to active participation in treatment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] The art has three factors, the disease, the patient, the physician. The physician is the servant of the art. The patient must co-operate with the physician in combating the disease."
+      ],
+      "reasoning": "The text establishes a formal framework for the medical encounter where the patient is not merely a passive subject but has a defined role/duty to co-operate. This implies a level of agency and inclusion in the 'art' of medicine alongside the practitioner.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any individual regardless of status once they become a 'patient'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physician duty of care",
+      "rule_category": "Professional obligation",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Protection from causing harm to patients",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] As to diseases, make a habit of two things—to help, or at least to do no harm. The physician is the servant of the art."
+      ],
+      "reasoning": "The text prescribes a specific ethical/professional constraint on physicians. While 'doing no harm' sounds abstract, it functions as a concrete professional rule (the precursor to the Hippocratic Oath) that limits the physician's freedom of action in treatment.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to the small professional class of medical practitioners.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Youth immunity to hemorrhage",
+      "rule_category": "Age-based health outcomes",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from fatal fever outcomes",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] But the great majority had hemorrhage, especially youths and those in the prime of life, and of these the great majority who had no hemorrhage died."
+      ],
+      "reasoning": "In the context of the Thasos epidemic, the author observes that biological youth provided a higher likelihood of spontaneous hemorrhage (epistaxis), which was the primary clinical mechanism according to Hippocratic theory for surviving these ardent fevers.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a large demographic segment (the young) during an epidemic constitution.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maternal mortality risk",
+      "rule_category": "Gender-based legal/social vulnerability",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from delivery-related death",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§16] But the great majority had difficult childbirth, and after giving birth they would fall ill, and these especially died, as did the daughter of Telebulus on the sixth day after delivery."
+      ],
+      "reasoning": "The text identifies recent childbirth as a specific condition that stripped women of their general relative resistance to the epidemic, leading to high mortality rates for that subgroup.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to parturient women, a subset of the female population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pregnancy-induced fetal loss",
+      "rule_category": "Gender-based reproductive loss",
+      "group": "Pregnant women",
+      "group_category": "Gender",
+      "resource": "Right to reach full term gestation",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§16] I know of no woman who died if any of these symptoms showed themselves properly, but all to my knowledge had abortions if they chanced to fall ill when with child."
+      ],
+      "reasoning": "The author notes a universal rule of practice during this epidemic: pregnant women infected with the fever lost their fetuses ('all... had abortions').",
+      "specificity": 5,
+      "specificity_reasoning": "This is limited to the overlap of two states: pregnancy and infection during this specific constitution.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Child survival advantage",
+      "rule_category": "Age-based health outcomes",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from fever mortality",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] There were also comatose fevers about this time, usually in children, and of all patients these showed the lowest mortality."
+      ],
+      "reasoning": "Children are identified as the group with the highest survival rate ('lowest mortality') during the period of comatose fevers.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies generally to the age category of children in the affected region.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Reckless living mortality",
+      "rule_category": "Lifestyle-based health outcomes",
+      "group": "The reckless",
+      "group_category": "Wealth",
+      "resource": "Protection from acute fatal illness",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§16] And of the patients there died chiefly... those who had lived recklessly and care-lessly"
+      ],
+      "reasoning": "The text categorizes those who lived 'recklessly' (often associated with wealthy or high-status individuals who could afford excess in antiquity) as being more susceptible to death during the epidemic.",
+      "specificity": 4,
+      "specificity_reasoning": "The category is somewhat behavioral but reflects a specific socio-economic habitus recognized by the author.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Menstrual crisis recovery",
+      "rule_category": "Gender-based clinical privilege",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Access to menstrual crisis recovery",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] Women and maidens experienced all the above symptoms, but besides, whenever any took place properly, and whenever copious menstruation supervened, there was a crisis therefrom which resulted in recovery"
+      ],
+      "reasoning": "Biological women are granted an additional physiological mechanism for survival (menstruation) that men do not have, which the author treats as a reliable indicator of recovery.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to all biological females of reproductive age.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-childbirth medical vulnerability",
+      "rule_category": "Health-based mortality risk",
+      "group": "Postpartum women",
+      "group_category": "Gender",
+      "resource": "Protection from fatal disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] But the great majority had difficult childbirth, and after giving birth they would fall ill, and these especially died, as did the daughter of Telebulus on the sixth day after delivery."
+      ],
+      "reasoning": "The text identifies a specific demographic (women who have recently given birth) as being at a significantly higher risk of death during the epidemic compared to the general population, establishing a biological-social intersection of vulnerability.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to a subset of women (those post-delivery) within the larger affected population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Systematic abortion during illness",
+      "rule_category": "Reproductive loss",
+      "group": "Pregnant women",
+      "group_category": "Gender",
+      "resource": "Right to maintain pregnancy during illness",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] I know of no woman who died if any of these symptoms showed themselves properly, but all to my knowledge had abortions if they chanced to fall ill when with child."
+      ],
+      "reasoning": "The author notes a consistent, near-universal outcome where pregnant women lose their offspring if they contract the epidemic fever, indicating a lack of resource regarding reproductive success during health crises.",
+      "specificity": 4,
+      "specificity_reasoning": "It targets pregnant women specifically during a fixed timeframe of the epidemic.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Youth susceptibility to hemorrhage",
+      "rule_category": "Age-based medical outcome",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from lethal internal hemorrhage",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] But the great majority had hemorrhage, especially youths and those in the prime of life, and of these the great majority who had no hemorrhage died."
+      ],
+      "reasoning": "The text highlights that younger people specifically suffered from a higher rate of hemorrhage and subsequent death if specific physiological crises did not occur, marking age as a primary axis of differential medical impact.",
+      "specificity": 3,
+      "specificity_reasoning": "Youths represent a significant but distinct segment of the total population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Child mortality protection",
+      "rule_category": "Age-based health advantage",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from fatal fever outcomes",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] There were also comatose fevers about this time, usually in children, and of all patients these showed the lowest mortality."
+      ],
+      "reasoning": "In the context of the epidemic, children are explicitly identified as having the 'lowest mortality,' indicating they were more likely to retain their lives than other age groups during this specific constitution.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the entire age category of children within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physiognomic death susceptibility",
+      "rule_category": "Physical trait-based death risk",
+      "group": "Fair-skinned or smooth individuals",
+      "group_category": "Health",
+      "resource": "Protection from fatal disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§23] And of the patients there died chiefly striplings, young people, people in their prime, the smooth, the fair-skinned, the straight-haired, the black-haired, the black-eyed [...]"
+      ],
+      "reasoning": "The medical text categorizes mortality based on immutable physical characteristics (skin tone, hair type, eye color), suggesting that individuals with these traits were systematically less likely to survive the epidemic.",
+      "specificity": 5,
+      "specificity_reasoning": "The traits are specific but cover several common physical phenotypes in the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Maternal healthcare access",
+      "rule_category": "Access to medical care",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Medical intervention for postpartum complications",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] CASE IV In Thasos the wife of Philinus gave birth to a daughter. The lochial discharge was normal, and the mother was doing well when on the fourteenth day after delivery she was seized with fever attended with rigor. [...] By a pessary these troubles were eased, but pains persisted in the head, neck and loins.",
+        "[§31] CASE V The wife of Epicrates [...] On the second day after the delivery she was seized with acute fever, pain at the stomach and in the genitals. A pessary relieved these symptoms"
+      ],
+      "reasoning": "The text documents that women in the postpartum period (after childbirth) were provided with specific medical interventions, such as pessaries and clinical monitoring by physicians, to treat complications. This indicates a customary right to healthcare for women in this specific life stage.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all child-bearing women, a large demographic, but is specific to a biological state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Maternal attendant assistance",
+      "rule_category": "Social support systems",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Assistance from medical attendants",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] CASE IV [...] A copious passing of urine with convulsions—her attendants seldom reminding her—which was white and thick, like urine with a sediment and then shaken"
+      ],
+      "reasoning": "The mention of 'attendants' reminding the patient of bodily functions or monitoring her condition implies that women of a certain social standing (the wives of citizens) were provided with support staff or nurses during illness.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to women of sufficient wealth/status to have 'attendants' during medical crises.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Postpartum mobility restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Freedom of movement during recovery",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] CASE V The wife of Epicrates, who lay sick near the founder, when near her delivery was seized with severe rigor [...] On the third day she gave birth to a daughter, and the delivery was in every respect normal."
+      ],
+      "reasoning": "The consistent framing of cases revolving around 'the wife of [Name]' and their confinement to the home ('lay sick near...') during delivery and subsequent illness reflects a social norm where women's medical and personal lives were centered entirely within the domestic sphere under the identity of their husbands.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes the general social condition of married women in the described society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Athenian medical attendance",
+      "rule_category": "Access to healthcare",
+      "group": "Sick persons",
+      "group_category": "Health",
+      "resource": "Medical monitoring and attendance",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§35] ...A copious passing of urine with convulsions—her attendants seldom reminding her—which was white and thick, like urine with a sediment and then shaken..."
+      ],
+      "reasoning": "The mention of 'attendants' monitoring clinical symptoms (urine and convulsions) and 'reminding' the patient suggests a social norm or established practice where those with acute illness are provided with bedside care and observation within the household or community.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to anyone in the society falling into the category of the seriously ill or bedridden.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Clinical diagnostic visibility",
+      "rule_category": "Access to medical evaluation",
+      "group": "Sick persons",
+      "group_category": "Health",
+      "resource": "Direct physical examination by physicians",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§35] ...Such was the nature of the urine that I myself saw."
+      ],
+      "reasoning": "The author's statement that he personally saw the urine of a female patient (the wife of Philinus) indicates that even for women in a potentially secluded domestic setting, the sick had the right/access to be examined directly by a male physician for diagnostic purposes.",
+      "specificity": 3,
+      "specificity_reasoning": "While it applies to all sick individuals, it is specifically relevant to the interaction between patients and the medical profession.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Puerperal medical intervention",
+      "rule_category": "Access to healthcare",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Gynecological medical treatment",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§35] ...Pains in the genital organs. The discharge ceased. By a pessary these troubles were eased...",
+        "[§36] ...On the second day after the delivery she was seized with acute fever, pain at the stomach and in the genitals. A pessary relieved these symptoms..."
+      ],
+      "reasoning": "The repeated mention of using a 'pessary' to treat postpartum complications in different women (wife of Philinus, wife of Epicrates) shows a standard medical/customary rule where women were granted specific pharmacological or mechanical treatments for reproductive health issues.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule is specific to the subgroup of women who have recently given birth.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "End-of-life care",
+      "rule_category": "Access to healthcare",
+      "group": "The dying",
+      "group_category": "Health",
+      "resource": "Symptomatic relief and observation",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] ...On the application of a suppository the patient passed, with flatulence, scanty excreta.",
+        "[§33] ...From the bowels with slight stimulus there came a copious discharge of solid stools..."
+      ],
+      "reasoning": "The application of suppositories and 'stimulus' to patients who are clearly in the terminal phase of illness show that society/the medical profession continued to provide active physical care and intervention until the moment of death.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the specific subset of the population facing terminal illness.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female medical case recording",
+      "rule_category": "Access to medical documentation",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to clinical recognition and documented medical care",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§44] CASE XIII A woman lying sick by the shore, who was three months gone with child, was seized with fever, and immediately began to feel pains in the loins.",
+        "[§45] CASE XIV Melidia, who lay sick by the temple of Hera, began to suffer violent pain in the head, neck and chest. Immediately she was attacked by acute fever, and there followed a slight menstrual flow."
+      ],
+      "reasoning": "The text demonstrates that in 5th-century BCE Greek medicine (Hippocratic school), women—including those identified by name—were subjects of detailed clinical observation and formal medical recording. Their specific physiological conditions, such as pregnancy and menstruation, were integrated into the diagnostic process, indicating they were granted access to the same system of medical scrutiny and case-archiving as men.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies generally to women within the society who fall ill and come under the observation of the medical profession.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pregnant women medical priority",
+      "rule_category": "Access to specialized medical care",
+      "group": "Pregnant women",
+      "group_category": [
+        "Gender",
+        "Health"
+      ],
+      "resource": "Right to specialized medical attention during illness",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§44] CASE XIII A woman lying sick by the shore, who was three months gone with child, was seized with fever, and immediately began to feel pains in the loins."
+      ],
+      "reasoning": "The explicit notation of the pregnancy status ('three months gone with child') in a formal medical case study shows that the reproductive status of a woman was a recognized factor in medical monitoring and resource allocation for health services.",
+      "specificity": 4,
+      "specificity_reasoning": "This is more specific than just women, as it concerns only those who are pregnant.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-natal medical care",
+      "rule_category": "Access to healthcare",
+      "group": "Post-partum women",
+      "group_category": "Gender",
+      "resource": "Access to medical observation and treatment",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] CASE XII A woman who lay sick by the Liars’ Market, after giving birth in a first and painful delivery to a male child, was seized with fever. ... CASE XIV In Cyzicus a woman gave birth with difficult labour to twin daughters, and the lochial discharge was far from good. First day. Acute fever with shivering; painful heaviness of head and neck. ... CASE II In Thasos the woman who lay sick by the Cold Water, on the third day after giving birth to a daughter without lochial discharge, was seized with acute fever accompanied by shivering."
+      ],
+      "reasoning": "The text provides detailed clinical case histories of women following childbirth, including those with 'difficult labor' or 'first delivery.' This indicates that post-partum women were a specific group receiving professional medical attention and systematic observation in this society.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a significant subset of the female population (those currently in the post-partum period).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adolescent death vulnerability",
+      "rule_category": "Age-based health outcomes",
+      "group": "Children approaching puberty",
+      "group_category": "Age",
+      "resource": "Protection from fatal bowel disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§46] In the first place many were attacked by painful tenesmus, mostly children—all in fact who were approaching puberty—and most of these died."
+      ],
+      "reasoning": "The author explicitly identifies a specific age group (children approaching puberty) as being disproportionately affected by a fatal medical condition during the epidemic, noting that 'most of these died.'",
+      "specificity": 3,
+      "specificity_reasoning": "This rule targets a specific age-defined demographic during a particular epidemic constitution.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical study obligation",
+      "rule_category": "Professional duty",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to professional standing through specialized knowledge",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] The power, too, to study correctly what has been written I consider to be an important part of the art of medicine. The man who has learnt these things and uses them will not, I think, make great mistakes in the art. ... One who has knowledge of these matters can know whom he ought to treat, as well as the time and method of treatment."
+      ],
+      "reasoning": "The text defines the 'art' of medicine through the mastery of specific written knowledge and observational skills. This establishes a boundary for the group 'physicians' based on learning, granting those who possess it the authority to decide 'whom he ought to treat.'",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to the specific, relatively small professional class of medical practitioners.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly disease vulnerability",
+      "rule_category": "Age-based health outcomes",
+      "group": "Seniors",
+      "group_category": "Age",
+      "resource": "Protection from virulent infection",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§46] Many were attacked by the erysipelas all over the body when the exciting cause was a trivial accident or a very small wound; especially when the patients were about sixty years old and the wound was in the head, however little the neglect might have been."
+      ],
+      "reasoning": "The text identifies people 'about sixty years old' as being specifically at higher risk for severe complications and death from minor injuries during this period, indicating a demographic-specific health vulnerability recognized by the society's medical observers.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to all individuals reaching a certain numerical age (60).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Therapeutic venesection access",
+      "rule_category": "Medical intervention",
+      "group": "Patients with acute fever",
+      "group_category": "Health",
+      "resource": "Access to surgical intervention (bloodletting)",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] CASE VIII In Abdera Anaxion... Eighth day. I bled him in the arm. There was an abundant, proper flow of blood; the pains were relieved, although the dry coughing persisted."
+      ],
+      "reasoning": "The physician records the use of venesection (bleeding) as a specific therapeutic resource granted to a patient to relieve pain, identifying it as a standard medical procedure for certain conditions.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to patients with specific severe symptoms requiring invasive treatment.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Male offspring recognition",
+      "rule_category": "Access to lineage status",
+      "group": "Infants",
+      "group_category": "Age",
+      "resource": "Right to sex-based status recognition",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] CASE XII A woman who lay sick by the Liars’ Market, after giving birth in a first and painful delivery to a male child, was seized with fever."
+      ],
+      "reasoning": "The text specifically identifies the sex of the newborn when it is male ('a male child'), which in the context of Greek society relates to the legal and civic importance of male heirs for the preservation of the oikos and citizenship. The specific mention of the child's sex as a relevant detail of the clinical/social record suggests a higher status or value attributed to male offspring.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to newborns and their families within the context of birth and lineage recording.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Family-based medical care",
+      "rule_category": "Access to judicial protection",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to domestic medical supervision",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] CASE VI The maiden daughter of Euryanax was seized with fever. ... They said that the trouble was due to eating grapes."
+      ],
+      "reasoning": "The mention of 'they' (the family or household) providing a history of the patient's diet ('eating grapes') shows that unmarried women (maidens) were under the constant supervision and reporting of their male-headed households. This indicates a rule of patriarchal guardianship where the family is the intermediary for the individual's interaction with professional services like medicine.",
+      "specificity": 3,
+      "specificity_reasoning": "This reflects the standard Greek practice of 'kyrieia' (guardianship) over women, particularly those of marriageable age.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Property-based medical identification",
+      "rule_category": "Grant of economic privilege",
+      "group": "Wealthy residents",
+      "group_category": "Wealth",
+      "resource": "Right to be identified by private property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] CASE III The man lying sick in the garden of Delearces had for a long time heaviness in the head and pain in the right temple.",
+        "[§47] CASE V Chaerion, who lay sick in the house of Demaenetus, was seized with fever after drinking.",
+        "[§47] CASE VII The woman suffering from angina who lay sick in the house of Aristion began her complaint with indistinctness of speech."
+      ],
+      "reasoning": "Patients are consistently identified not just by name, but by the private estate or 'house' (oikos) where they reside. This demonstrates a societal rule where legal and social identity is rooted in the ownership of or affiliation with a specific landed property and its patriarch.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general social naming convention that applies to anyone associated with an established household.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-miscarriage medical vulnerability",
+      "rule_category": "Protection of body integrity",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from lethal postpartum complications",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§57] A woman who was one of the house of Pantimides after a miscarriage was seized with fever on the first day. [...] Seventh day. Death.",
+        "[§58] Another woman, after a miscarriage about the fifth month, the wife of Hicetas, was seized with fever. [...] Seventh day. Death."
+      ],
+      "reasoning": "The text systematically records the fatal outcome of fevers following miscarriages, indicating a high societal/medical recognition of the specific physical danger and lack of effective intervention for women in this near-immutable biological state.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a significant subset of the female population (those pregnant/miscarrying) during the era.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Youth labor physical safety",
+      "rule_category": "Protection of body integrity",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from fatal physical exhaustion",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§55] The youth who lay sick by the Liars’ Market was seized with fever after unaccustomed fatigue, toil and running. [...] Seventh day. Died, being about twenty years old."
+      ],
+      "reasoning": "The author links 'unaccustomed fatigue, toil and running' directly to the onset of a fatal fever in a twenty-year-old, suggesting that the societal demands of heavy labor or physical exertion on young men carried a high risk of mortal illness without protective medical or social safeguards.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets young men around the age of 20 engaging in specific physical activities.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Post-childbirth health security",
+      "rule_category": "Protection of body integrity",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from fatal childbirth complications",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] A woman who lay sick by the Liars’ Market, after giving birth in a first and painful delivery to a male child, was seized with fever. [...] Fourteenth day. Epistaxis; death. [...] Age about seventeen."
+      ],
+      "reasoning": "The case study highlights the extreme vulnerability of young women (seventeen years old) following their first delivery, showing that the society lacked the material or medical resources to prevent death in these common scenarios.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all child-bearing women, particularly primiparous ones.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maiden social silence",
+      "rule_category": "Legal standing",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to verbal communication and interaction",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§53] She was silent, and did not converse at all. Depression, the patient despairing of herself."
+      ],
+      "reasoning": "While described in a medical context, the emphasis on the maiden's total silence and lack of conversation during illness reflects a gendered and age-based behavioral expectation/norm where unmarried young women had restricted social and communicative agency.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to the demographic of unmarried young women (maidens).",
+      "confidence": 6
+    },
+    {
+      "rule_name": "Age-based mortality risk",
+      "rule_category": "Age-based health vulnerability",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Protection from fatal infection",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§60] Many were attacked by the erysipelas all over the body when the exciting cause was a trivial accident or a very small wound; especially when the patients were about sixty years old and the wound was in the head, however little the neglect might have been."
+      ],
+      "reasoning": "The text identifies a specific age threshold (sixty years old) where a trivial injury becomes significantly more likely to lead to a systemic, fatal infection (erysipelas), indicating a societal observation of age-based loss of physical resilience.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a specific demographic (those sixty and older) within the broader population of the sick.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Childhood mortality risk",
+      "rule_category": "Age-based health vulnerability",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from fatal bowel disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§60] In the first place many were attacked by painful tenesmus, mostly children—all in fact who were approaching puberty—and most of these died."
+      ],
+      "reasoning": "The text records a systematic mortality rate for children and those approaching puberty during this specific epidemic, particularly regarding bowel complaints (tenesmus).",
+      "specificity": 4,
+      "specificity_reasoning": "The rule identifies a specific age range (children to puberty) within the epidemic context.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Constitution-based disease susceptibility",
+      "rule_category": "Health-based social stratification",
+      "group": "Phlegmatic persons",
+      "group_category": "Health",
+      "resource": "Protection from tenesmus",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§60] Tenesmus affected young, phlegmatic people; the chronic diarrhoea and acrid, greasy stools affected persons of a bilious temperament."
+      ],
+      "reasoning": "Hippocratic medicine categorized individuals based on 'temperaments' (phlegmatic, bilious, melancholic). The text shows that these innate physical categories determined which specific debilitating or fatal symptoms a person would suffer during the epidemic.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to a specific physiological subgroup defined by the medical culture of the time.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "High-risk patient selection",
+      "rule_category": "Medical resource allocation",
+      "group": "Terminally ill patients",
+      "group_category": "Health",
+      "resource": "Right to receive medical treatment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§60] One who has knowledge of these matters can know whom he ought to treat, as well as the time and method of treatment."
+      ],
+      "reasoning": "The author concludes that medical knowledge allows a practitioner to decide 'whom he ought to treat,' which in the context of ancient medical ethics (and the descriptions of fatal 'unfavourable' signs) often meant withholding treatment from those deemed beyond recovery to protect the physician's reputation and resources.",
+      "specificity": 6,
+      "specificity_reasoning": "This concerns the specific interaction between a professional (physician) and a specific class of patient (the treatable vs. the untreatable).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Age-based medical vulnerability protection",
+      "rule_category": "Protection from bodily harm",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Protection from complications of minor injury",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§63] Many were attacked by the erysipelas all over the body when the exciting cause was a trivial accident or a very small wound; especially when the patients were about sixty years old and the wound was in the head, however little the neglect might have been."
+      ],
+      "reasoning": "The text identifies a specific age group (sixty years old) that suffers disproportionate physical harm (erysipelas, bone loss) from trivial injuries, indicating a lack of the natural resilience or medical safety enjoyed by younger adults in this environment.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a specific age bracket (60+) within the broader population of the sick.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Juvenile bowel disease mortality",
+      "rule_category": "Survival entitlement",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from fatal bowel disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§67] The bowel troubles in many cases turned out many and harmful. In the first place many were attacked by painful tenesmus, mostly children—all in fact who were approaching puberty—and most of these died."
+      ],
+      "reasoning": "The text establishes a rule of high mortality specifically for children and those approaching puberty during this epidemic, contrasting their fatal outcomes with the potential survival of other groups.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a significant demographic segment (all children/adolescents) during the epidemic described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Complexion-based disease susceptibility",
+      "rule_category": "Health-based stratification",
+      "group": "Persons of melancholic complexion",
+      "group_category": "Health",
+      "resource": "Protection from ardent fevers and phrenitis",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§73] As to those with a melancholic or a rather sanguine complexion, they were attacked by ardent fevers, phrenitis and dysenteric troubles."
+      ],
+      "reasoning": "Hippocratic medicine categorized individuals by physical 'complexion'. The text notes that those with specific inherited physical traits were systematically excluded from the 'favorable' health outcomes seen in others, instead being subject to specific severe diseases.",
+      "specificity": 5,
+      "specificity_reasoning": "Categorizes the population into specific constitutional types that dictate their disease path.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Patient dietary autonomy",
+      "rule_category": "Access to resources",
+      "group": "Fever patients",
+      "group_category": "Health",
+      "resource": "Right to specific dietary management",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§68] Thirst afflicted some, but not others; of the fever patients, as well as of the other cases, none were unseasonably affected, but as far as drink was concerned you could diet them as you pleased."
+      ],
+      "reasoning": "The author notes that unlike other epidemics where thirst was uncontrollable, in this instance, the physician (and by extension the society/social unit) maintained the capacity to regulate and provide specific liquid diets according to preference or medical plan.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to those afflicted with the specific epidemic fevers mentioned.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Physician clinical judgment authority",
+      "rule_category": "Professional privilege",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to select and treat patients",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§75] One who has knowledge of these matters can know whom he ought to treat, as well as the time and method of treatment."
+      ],
+      "reasoning": "The text explicitly grants the trained medical practitioner the professional right to determine which patients are suitable for treatment and which are not (prognostic selection), which is a concrete exercise of power over the bodies of others.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies only to a very small, specialized professional group (trained physicians).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Postpartum medical attention",
+      "rule_category": "Access to healthcare",
+      "group": "Mothers",
+      "group_category": "Gender",
+      "resource": "Access to clinical monitoring and medical reporting",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§76] CASE II In Thasos the woman who lay sick by the Cold Water, on the third day after giving birth to a daughter without lochial discharge, was seized with acute fever accompanied by shivering.",
+        "[§76] CASE XIV In Cyzicus a woman gave birth with difficult labour to twin daughters, and the lochial discharge was far from good. First day. Acute fever with shivering; painful heaviness of head and neck."
+      ],
+      "reasoning": "The detailed clinical recording of postpartum complications (lochial discharge, difficult labor) in a professional medical treatise indicates that women in this state were recognized subjects of medical concern and systematic observation within Greek society.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule concerns a specific subset of the population (women post-childbirth) but represents a standard category of medical cases tracked by the author.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Phlebotomy eligibility",
+      "rule_category": "Access to medical treatment",
+      "group": "Adult men",
+      "group_category": "Gender",
+      "resource": "Access to surgical intervention (bloodletting)",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§76] CASE VIII In Abdera Anaxion, who lay sick by the Thracian gate, was seized with acute fever. ... Eighth day. I bled him in the arm. There was an abundant, proper flow of blood; the pains were relieved, although the dry coughing persisted."
+      ],
+      "reasoning": "The text documents the active application of bloodletting as a medical resource for an adult male patient, reflecting a societal/professional rule about who may receive invasive therapeutic intervention.",
+      "specificity": 2,
+      "specificity_reasoning": "While this specific instance is one man, the practice of venesection for adult males was a general medical protocol in this period.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Maidenhood transition recognition",
+      "rule_category": "Social status tracking",
+      "group": "Maidens",
+      "group_category": "Age",
+      "resource": "Recognition of adult female biological status (menarche)",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§76] CASE VII In Abdera the maiden who lay sick by the Sacred Way was seized with a fever of the ardent type. ... Menstruation occurred for the first time.",
+        "[§76] CASE XII In Larisa a maiden was seized with an acute fever of the ardent type. ... In the fever and after the crisis menstruation for the first time, for she was a young maiden."
+      ],
+      "reasoning": "The explicit recording of 'menstruation for the first time' as a diagnostic and social marker for 'maidens' shows that the transition to adult female status was a concrete point of medical and social documentation.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to young females reaching puberty within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Resident medical inclusion",
+      "rule_category": "Access to judicial/social recognition",
+      "group": "Foreign residents",
+      "group_category": "Origin",
+      "resource": "Access to civic medical recording and topography",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§76] CASE I In Thasos the Parian who lay sick beyond the temple of Artemis was seized with acute fever..."
+      ],
+      "reasoning": "The identification of a patient by his origin ('the Parian') but his inclusion in the local medical records of Thasos indicates that foreign residents (metcs or visitors) were granted access to the same medical observation and geographic mapping as local citizens.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to resident aliens or visitors from other Greek city-states.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Postpartum medical care",
+      "rule_category": "Access to medical care",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Medical monitoring after childbirth",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§78] In Thasos the woman who lay sick by the Cold Water, on the third day after giving birth to a daughter without lochial discharge, was seized with acute fever accompanied by shivering."
+      ],
+      "reasoning": "The text documents detailed clinical observations of women in the postpartum period. This indicates that women in this society, specifically following childbirth, were subjects of systematic medical tracking and professional attention for complications like suppressed lochia.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to childbearing women within the broader population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Therapeutic bloodletting access",
+      "rule_category": "Access to medical treatment",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Right to receive surgical intervention",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§84] Eighth day. I bled him in the arm. There was an abundant, proper flow of blood; the pains were relieved, although the dry coughing persisted."
+      ],
+      "reasoning": "The author (a physician) performs a specific surgical intervention (venesection/bleeding) on a patient. This demonstrates that members of this society had access to invasive medical procedures as a form of regulated treatment.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to individuals suffering from specific acute respiratory or febrile conditions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Medical care for maidens",
+      "rule_category": "Access to medical care",
+      "group": "Maidens",
+      "group_category": "Age",
+      "resource": "Medical monitoring during menarche",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§83] In Abdera the maiden who lay sick by the Sacred Way was seized with a fever of the ardent type. She was thirsty and sleepless. Menstruation occurred for the first time.",
+        "[§88] In Larisa a maiden was seized with an acute fever of the ardent type. ... In the fever and after the crisis menstruation for the first time, for she was a young maiden."
+      ],
+      "reasoning": "The detailed recording of 'first-time menstruation' in the context of acute fever shows that young, unmarried women (maidens) were provided with clinical observation and that their physiological transitions were monitored by medical professionals.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule concerns a specific demographic (young females) at a specific life-cycle event (menarche).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Clinical status of foreigners",
+      "rule_category": "Access to medical care",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to professional medical recording",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§77] CASE I In Thasos the Parian who lay sick beyond the temple of Artemis was seized with acute fever, which at the beginning was continuous and ardent."
+      ],
+      "reasoning": "By identifying a patient specifically as 'the Parian' (a man from Paros) in Thasos, the text demonstrates that resident aliens or foreign visitors had access to the same level of professional medical recording and attention as locals.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule applies to the sub-group of non-local residents or travelers.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Medical attendant assistance",
+      "rule_category": "Access to medical care",
+      "group": "Sick persons",
+      "group_category": "Health",
+      "resource": "Access to bedside attendants",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§91] She drank a little when the attendants suggested it."
+      ],
+      "reasoning": "The mention of 'attendants' providing suggestions and active care to the sick woman in Thasos indicates a societal norm where the sick, particularly those of some means like the wife of Delearces, were provided with dedicated caretakers to manage their regimen and hydration.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad category of individuals (the sick) who are undergoing medical treatment or confinement.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Postpartum medical observation",
+      "rule_category": "Access to healthcare",
+      "group": "Postpartum women",
+      "group_category": "Gender",
+      "resource": "Right to medical monitoring",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§90] In Cyzicus a woman gave birth with difficult labour to twin daughters, and the lochial discharge was far from good. First day. Acute fever with shivering; painful heaviness of head and neck."
+      ],
+      "reasoning": "The detailed day-by-day clinical recording of a woman following a difficult labor shows that women in this society had access to professional medical observation and documentation during the postpartum period.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule specifically concerns women following childbirth, a significant but specific subset of the population.",
+      "confidence": 10
+    }
+  ],
+  "_n_chunks": 18,
+  "_file_id": "tlg0627.tlg006.perseus-eng4",
+  "_input_tokens": 138992,
+  "_output_tokens": 15221,
+  "_model": "google/gemini-3-flash-preview"
+}

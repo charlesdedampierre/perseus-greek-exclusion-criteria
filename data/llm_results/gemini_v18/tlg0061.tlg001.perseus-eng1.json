@@ -1,0 +1,351 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Slave labor obligations",
+      "rule_category": "Labor control",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to refuse labor",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§2] Palaistra, show the gentleman to a bed-chamber, and bring him thither what luggage he has. And then direct him to the bath: he has come a long journey."
+      ],
+      "reasoning": "The master Hipparchos issues direct commands to Palaistra to perform domestic service for a guest, demonstrating that slaves were legally or customarily required to perform labor at the owner's discretion without the right to refuse.",
+      "specificity": 2,
+      "specificity_reasoning": "Domestic slavery was a widespread and standard institution across the Roman Empire in this period.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of hospitality desertion",
+      "rule_category": "Social obligation",
+      "group": "Guests",
+      "group_category": "Occupation",
+      "resource": "Freedom of movement between hosts",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] I should be ashamed to desert a friendly man's house when I have no fault to find with him."
+      ],
+      "reasoning": "The text describes a strong social norm (xenia) where a guest cannot abandon a host without a specific grievance. While not a statute, it functions as a rigid customary rule governing social resources and physical location.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those traveling and utilizing guest-friendship networks, a common but distinct group.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Female slave sexual accessibility",
+      "rule_category": "Bodily autonomy restriction",
+      "group": "Female slaves",
+      "group_category": [
+        "Gender",
+        "Freedom status"
+      ],
+      "resource": "Right to sexual autonomy",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] Practise on Palaistra, the meat-servant-for the wife of your host and friend is sacred; wrestling with her, I assure you, you will easily learn what you want."
+      ],
+      "reasoning": "The narrator distinguishes between the 'sacred' (off-limits) status of a free wife and the slave girl, whom he believes he can 'wrestle' with (a euphemism for sexual advances) to achieve his goals. This reflects a societal rule where female slaves lacked legal protection from the sexual advances of their masters' guests.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all female slaves in domestic settings, a large segment of the unfree population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave exclusion from education",
+      "rule_category": "Denial of education",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to literacy",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] I have never learned so much as my letters, and my mistress is very jealous of her art."
+      ],
+      "reasoning": "Palaistra explicitly states she is illiterate ('never learned so much as my letters'), which aligns with the common status of low-level domestic or rural slaves who were systematically denied education.",
+      "specificity": 3,
+      "specificity_reasoning": "While some slaves were educated (pedagogues), a vast majority of domestic servants like Palaistra were kept illiterate.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Slave vulnerability to restraint",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from physical restraint",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Then they tied up Hipparchos and Palaistra and my man in their rooms, and so stripped the house fearlessly."
+      ],
+      "reasoning": "During the robbery, the slave Palaistra and the servant are tied up alongside the master. In the legal and social context, slaves lacked the right to self-defense or the standing to be protected from such kidnapping/restraint except through their master's interest.",
+      "specificity": 2,
+      "specificity_reasoning": "Physical vulnerability and lack of legal protection against force was a defining characteristic of the servile class.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave corporal punishment",
+      "rule_category": "Protection from bodily harm",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] When he saw the enemy, the destroyer of his vegetables, he seized me as a severe master seizes a thieving slave and pounded me with his club, sparing neither ribs nor thighs."
+      ],
+      "reasoning": "The text uses the comparison of a master beating a thieving slave as a standard social reference for justified and severe physical violence, indicating that slaves had no legal protection against corporal punishment by their owners.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad class of slaves within the household structure of the Roman/Greek world.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Captive execution by precipice",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Captives",
+      "group_category": "Freedom status",
+      "resource": "Right to life and trial",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] As for the wretched partner of my captivity and burdens, they laid hold of him, cut the sinews of his legs with a sword, and thrust him still quivering over the precipice, and down he went, dancing the death-dance.",
+        "[§20] Apparently she had been so afraid of her masters when they should discover the girl's flight that she had hanged herself. They spoke admiringly of her courage, cut her down, and threw her over the precipice with the cord round her neck."
+      ],
+      "reasoning": "In the lawless micro-society of the robbers (which mirrors the risks for captives/unfree persons in the period), those who are no longer useful or who fail in their duties (like the injured animal or the failed guard) are summarily executed without recourse.",
+      "specificity": 6,
+      "specificity_reasoning": "This describes the specific treatment of captives and subordinates within a violent fringe group (robber bands).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Female captive surveillance",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Freedom of movement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] They deposited her in the house on the mattresses, bade her cheer up, and told the old woman to stay inside all the time, and keep watch over her.",
+        "[§20] The girl they tied up inside the house, and then they supped and drank heavily."
+      ],
+      "reasoning": "The female captive is systematically denied movement through physical binding and constant domestic surveillance by a female guard, reflecting the vulnerability of female captives to total confinement.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to female captives specifically in a state of abduction or war.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial arrest of bandits",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "State protection against criminals",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] But before day had fairly come a crowd of soldiers suddenly appeared who had come to attack these villians, and they forthwith clapped them all in irons and carried them off to the governor of the country."
+      ],
+      "reasoning": "The intervention of soldiers and the transfer of criminals to a governor shows the state's role in enforcing safety and providing a legal mechanism (the governor's court) for the protection of (implied) citizen victims.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general function of the provincial administration affecting all recognized subjects.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Manumission from labor",
+      "rule_category": "Grant of economic privilege",
+      "group": "Faithful servants",
+      "group_category": "Occupation",
+      "resource": "Freedom from compulsory labor",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§19] If you bring me to my father, my pretty ass, I will free you from all labor, and you shall have a bushel of barley every day for breakfast.",
+        "[§22] ...whereupon he gave orders to turn me out to grass in the pasture with the mares. 'For if he is at liberty,' said he, 'he will enjoy life.'"
+      ],
+      "reasoning": "The text highlights a social custom where extraordinary service by a subordinate (even an animal treated as a proxy for a servant) is rewarded with 'liberty' from toil and guaranteed rations.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies only to those who perform exceptional deeds for their masters.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave labor commodification",
+      "rule_category": "Economic exploitation",
+      "group": "Domestic slaves",
+      "group_category": "Freedom status",
+      "resource": "Exemption from third-party labor hire",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§23] [28] ...the man in charge of the mares left me in the possession of his wife, Megapole, for domestic service, and she harnessed me in the mill, and made me grind wheat and barley at her bidding. It is true that it was no great evil to a grateful ass to turn a mill for his own masters, but the worthy woman hired out my wretched neck to the other peasants of the district, who were numerous, taking her pay in flour."
+      ],
+      "reasoning": "The text illustrates that domestic laborers (represented by the ass-man) were not only required to serve their immediate masters but could be hired out as a commodity to third parties for the master's profit, with no personal gain or protection for the laborer.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a broad class of domestic slaves in rural contexts where labor was frequently shared or rented out.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-master survival right",
+      "rule_category": "Labor control",
+      "group": "Farm slaves",
+      "group_category": "Freedom status",
+      "resource": "Duty of maintenance by master",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§28] [33] When the master heard this he said, 'Well, if he is willing neither to walk nor to carry a load, kill him and give his vitals to the dogs, but save his flesh for the work-people, and if any questions are asked as to the manner of his death lay it to the wolf.'"
+      ],
+      "reasoning": "The master's command to kill a laborer who is perceived as no longer useful (lazy or slow) and feed him to the dogs or workers demonstrates that laborers had no legal or customary right to life or maintenance once their economic utility ceased.",
+      "specificity": 3,
+      "specificity_reasoning": "This reflects a general attitude toward productive assets (beasts and low-status slaves) in antiquity.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave self-emancipation right",
+      "rule_category": "Status transition",
+      "group": "Rural slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from capture after abandonment",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] [34] This news, that the house was bereft of its young master and mistress, determined the farm-people to live in slavery no longer. They laid their hands on everything in the house and fled. The master of the horses took me, too, collected all the goods he could, and packed them on me and the mares."
+      ],
+      "reasoning": "Upon the death or disappearance of the heirs, the slaves' only path to freedom was illegal flight (manumission not being automatic), and they remained subject to being 'taken' or treated as property by higher-status servants (the master of horses).",
+      "specificity": 5,
+      "specificity_reasoning": "This refers to the specific instance of household collapse, which allows for group flight.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Public sale of slaves",
+      "rule_category": "Property rights",
+      "group": "Enslaved persons",
+      "group_category": "Freedom status",
+      "resource": "Protection from being sold as chattel",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] [35] There our drivers determined to settle us and themselves, and we beasts were sold at auction by a loud-voiced crier in the middle of the market-place. ... They bought the others one by one, but I was left last of all... [§36] [42] The next day they decided to sell the prisoners' goods and me, and they disposed of me to a stranger from a neighboring village, a baker by trade."
+      ],
+      "reasoning": "The text explicitly describes the mechanism for transferring human/animal labor via public market auction and private sale, treating the 'slave' as a liquid asset.",
+      "specificity": 2,
+      "specificity_reasoning": "Slave auctions were a universal feature of this society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave immunity from torture",
+      "rule_category": "Protection from harm",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§33] [39] The man was so terrified at the storm of blows and the torture he would get for the loss of the haunch that he determined to hang himself by the neck. ... [§36] [43] ...and when I was not expecting it—for I could not see—they pounded me with one accord, and such was the effect of their blows that I suddenly began to whirl round like a top."
+      ],
+      "reasoning": "The narrative treats the 'storm of blows' and 'torture' as the standard and expected legal/customary response to a slave's professional negligence or laziness.",
+      "specificity": 1,
+      "specificity_reasoning": "The vulnerability to physical punishment was a defining and universal characteristic of slave status.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Master's provision of winter clothing",
+      "rule_category": "Economic privilege",
+      "group": "Unskilled laborers",
+      "group_category": "Occupation",
+      "resource": "Right to clothing and appropriate equipment",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§37] [43] ...when winter came my master could not afford coverings for himself, and still less for me; and I trod barefoot through the slimy mud and over the hard, rough, frozen roads"
+      ],
+      "reasoning": "Lower-status laborers (especially those in marginal trades like market-gardening) had no entitlement to basic survival equipment like shoes or winter coverings, which were withheld at the master's economic discretion.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies primarily to the poorest segment of the laboring class.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military immunity from battery",
+      "rule_category": "Protection from bodily harm",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Protection from corporal punishment by civilians",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§39] When he found the soldiers of his company, he told them of the gardener's madness, and they, accompanying him, learned our hiding-place. They brought the magistrates of the city with them, who sent some of their people into the house and bade all within come out. [...] Him they arrested and packed off to prison, to give an account of his desperate conduct, and me they brought down and handed over to the soldiers."
+      ],
+      "reasoning": "When a civilian (the gardener) physically assaults a soldier, the state apparatus (magistrates) intervenes to arrest the civilian and deliver the 'stolen' property (the ass) to the military, showing that soldiers have a protected status against violence from lower-ranking civilians.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the specific class of Roman soldiers stationed in or traveling through provinces.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave property co-ownership",
+      "rule_category": "Grant of economic privilege",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to hold common property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] The purchaser was a servant to a very rich man of Thessalonika [...] These brothers were messmates always, lodged in the same house, held the tools of their trade as common property, and finally installed me, too, in their lodging."
+      ],
+      "reasoning": "The text describes enslaved brothers holding tools and animals (the ass) as 'common property' (peculium), indicating a customary rule allowing slaves to manage collective assets despite their legal status as property themselves.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes a common social practice regarding 'peculium' or slave-held assets in Roman-era society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Magisterial due process",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to a hearing before punishment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] For some thought I ought to be burned on the spot as a master of unholy potions and a devil of many shapes, but others said it was only fair to wait for my account of myself and to hear the case first, and then decide on it."
+      ],
+      "reasoning": "When the protagonist transforms back into a human, the crowd debates his fate; the rule cited by the 'fair' party is that he should have a hearing and provide an account before judgment, reflecting standard legal norms of the time.",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects a general legal principle applicable to any person of standing facing a criminal accusation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elite guest-friendship immunity",
+      "rule_category": "Access to judicial protection",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Legal protection based on family status/guest-friendship",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] When the magistrate heard this he cried, 'You are the son of a family who are very dear to me, and my guest-friends. They have entertained me in their house and given me presents, and I know you tell the truth, since you are a child of theirs.' And he sprang from his seat, embraced me, kissed me again and again, and conducted me to his home."
+      ],
+      "reasoning": "The governor immediately grants Loukios protection and credibility based solely on his lineage and the 'guest-friendship' (xenia) between their families, showing that high-born individuals gained significant legal advantages through inherited social networks.",
+      "specificity": 7,
+      "specificity_reasoning": "This is specific to the upper class (the literati and officials) who maintain international networks of guest-friendship.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Official manumission",
+      "rule_category": "Access to judicial protection",
+      "group": "Freed persons",
+      "group_category": "Freedom status",
+      "resource": "Official declaration of free status",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] Thereupon the governor declared me free officially in the presence of the people"
+      ],
+      "reasoning": "To resolve the ambiguity of Loukios's status (having been an ass/property), the governor performs an official act to declare him free, showing the state's role in verifying and protecting the status of free individuals.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to individuals whose status is in legal doubt or who are being formally manumitted.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0061.tlg001.perseus-eng1",
+  "_input_tokens": 30510,
+  "_output_tokens": 5317,
+  "_model": "google/gemini-3-flash-preview"
+}

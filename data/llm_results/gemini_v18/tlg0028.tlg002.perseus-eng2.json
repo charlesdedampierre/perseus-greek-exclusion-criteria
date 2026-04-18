@@ -1,0 +1,281 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Religious site exclusion",
+      "rule_category": "Exclusion from sacred spaces",
+      "group": "Criminal defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to enter sacred precincts",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] Not only would it be impossible to convict deliberate criminals if they are not to be convicted by eyewitnesses and by such inferences; but it is against all your interests that this polluted wretch should profane the sanctity of the divine precincts by setting foot within them, or pass on his defilement to the innocent by sitting at the same tables as they."
+      ],
+      "reasoning": "In Athenian law, a person accused of murder (the 'polluted wretch') was religiously barred from entering temples or sacred areas to prevent the spread of spiritual 'miasma' or defilement to the community.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific subset of the population (those under indictment for homicide) rather than the general public.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Social commensality restriction",
+      "rule_category": "Restriction of social interaction",
+      "group": "Criminal defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to communal dining",
+      "resource_category": "Citzenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] Not only would it be impossible to convict deliberate criminals if they are not to be convicted by eyewitnesses and by such inferences; but it is against all your interests that this polluted wretch should profane the sanctity of the divine precincts by setting foot within them, or pass on his defilement to the innocent by sitting at the same tables as they."
+      ],
+      "reasoning": "The text indicates that those accused of murder are considered to carry a defilement that prevents them from sharing tables with the 'innocent,' effectively barring them from the standard civic and social life of the city.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets individuals specifically accused of capital crimes/homicide during the period of their trial.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Proved homicide restitution",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to seek satisfaction for murder",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] And so you must hold the avenging of the dead a personal duty; you must visit the defendant with retribution for the sin which was his alone; you must see that none but he suffers, and that the stain of guilt is removed from the city."
+      ],
+      "reasoning": "The text outlines the civic and legal obligation of the community/jury to provide 'satisfaction' or retribution for a murder, framing the punishment of the guilty as a concrete legal right and duty of the survivors and the state.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a broad principle of Athenian homicide law affecting any citizen household involved in a murder case.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave witness admissibility",
+      "rule_category": "Access to legal testimony",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to provide admissible evidence",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] [9] Such are the motives which drove him to sin as he did. Had there been eyewitnesses in large numbers, we should have produced them in large numbers; but as the dead man’s attendant was alone present, those who heard his statement will give evidence; for he was still alive when picked up, and in reply to our questions stated that the only assailant whom he had recognized was the defendant."
+      ],
+      "reasoning": "The prosecution uses the dying statement of a slave ('attendant') as primary evidence. While slaves usually required torture for testimony, the use of a slave's deathbed identification as a valid legal 'indication' shows a specific pathway for their observation to enter the legal record.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to slaves who are eyewitnesses to violent crimes against their masters.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Slave evidence admissibility requirement",
+      "rule_category": "Legal standing and procedure",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify without torture",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] Why, moreover, should the evidence of the attendant be allowed any weight? In his terror at the peril in which he stood, there was no likelihood of his recognizing the murderers. On the other hand, it was likely enough that he would obediently confirm any suggestions made by his masters. We distrust the evidence of slaves in general, or we should not torture them; so what justification have you for putting me to death on the evidence of this one?"
+      ],
+      "reasoning": "The text explicitly states that the evidence of slaves is generally distrusted and that torture is the standard prerequisite for accepting their testimony in Athenian legal practice.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to the entire enslaved population when involved in legal proceedings.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Right to civic survival",
+      "rule_category": "Protection of citizenship rights",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Retention of life and civic rights",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] If I was convicted on the indictment, I knew that I should be stripped of my property; but I did not lose my life or civic rights. I should still have been alive, still left to enjoy those rights and even though I should have had to obtain a loan of money from my friends, my fate would not have been the worst possible."
+      ],
+      "reasoning": "The text distinguishes between an 'indictment' (graphe) which results in property loss, and a murder trial. It confirms that under the former, the defendant retains their life and the status of a citizen.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any citizen-defendant facing specific types of public indictments.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Inheritance of social status",
+      "rule_category": "Family rights",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to an untainted reputation",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] On the other hand, if I am found guilty today and put to death, my children will inherit from me an insufferable disgrace; if instead I go into exile, I shall become a beggar in a strange land, an old man without a country."
+      ],
+      "reasoning": "The text indicates that a father's criminal conviction for murder has concrete legal/social consequences for his offspring, who 'inherit' the disgrace, suggesting that status and standing are hereditary and vulnerable to the actions of the patriarch.",
+      "specificity": 3,
+      "specificity_reasoning": "This affects the children of any citizen convicted of capital crimes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Liturgical wealth redistribution",
+      "rule_category": "Obligation of public duty",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Retention of personal goods",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§25] On the contrary, I have made several substantial payments to the Treasury, I have more than once served as Trierarch, I have furnished a brilliant chorus, I have often advanced money to friends, and I have frequently paid large sums under guarantees given for others"
+      ],
+      "reasoning": "The mention of serving as a Trierarch and furnishing a chorus refers to the system of 'liturgies' in Athens, where the wealthy were legally required to fund public services and festivals with their own resources.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule applies only to the top wealth bracket of the citizenry who meet the financial threshold for liturgies.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sacred precinct exclusion",
+      "rule_category": "Religious access restriction",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to enter sacred spaces",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] As I am completely cleared of the charge, it is not I who will profane the sanctity of the gods when I set foot within their precincts, any more than it is I who am sinning against them in urging you to acquit me. It is those who are prosecuting an innocent man like myself, while they let the criminal escape, to whom dearth is due"
+      ],
+      "reasoning": "In Athenian law, those accused of murder were considered religiously polluted and were barred from entering temples or sacred precincts until acquitted. The defendant's argument about NOT profaning the gods if he enters implies the existing rule that a guilty (or still accused) person would do so.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to individuals under an active homicide accusation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave testimony immunity",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from torture during testimony",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] The defense are wrong when they say that the evidence of the slave is not to be trusted; where evidence of this sort is concerned, slaves are not tortured; they are given their freedom."
+      ],
+      "reasoning": "The text specifies a legal exception where slaves providing evidence in murder investigations (specifically when naming a killer while dying or as a witness to the act) are not subjected to the standard judicial torture usually required for slave testimony.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to slaves who are witnesses to capital crimes like murder, a subset of the slave population in legal proceedings.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Manumission for testimony",
+      "rule_category": "Freedom status",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to manumission for legal evidence",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] The defense are wrong when they say that the evidence of the slave is not to be trusted; where evidence of this sort is concerned, slaves are not tortured; they are given their freedom."
+      ],
+      "reasoning": "In the context of murder trials in Athens, a slave who provides vital evidence for the prosecution is rewarded with their freedom, transforming their legal status from property to a freed person.",
+      "specificity": 4,
+      "specificity_reasoning": "This is a specific legal reward for a specific action (testifying in a murder case) available to the slave group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealthy public service duties",
+      "rule_category": "Obligation of public duty",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to retain personal wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§35] His contributions to the Treasury and his provision of choruses may be satisfactory evidence of his wealth; but they are anything but evidence of his innocence."
+      ],
+      "reasoning": "The mention of contributions to the Treasury and the provision of choruses refers to 'liturgies' (leitourgiai), mandatory public services funded by the wealthiest citizens, which constitutes a systematic loss of private wealth for public benefit.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the top wealth tier of the citizen population who are eligible for liturgical service.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave torture requirement",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify without torture",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] It is when they deny a theft or conspire with their masters to keep silence that we believe them to tell the truth only under torture."
+      ],
+      "reasoning": "The text confirms the general rule of Athenian law that for most crimes (like theft or conspiracy), a slave's testimony is only considered legally valid if extracted through torture (basanos).",
+      "specificity": 2,
+      "specificity_reasoning": "This is a broad rule affecting any slave involved in common legal disputes such as theft or master-related litigation.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Free man witness liability",
+      "rule_category": "Legal accountability",
+      "group": "Free men",
+      "group_category": "Freedom status",
+      "resource": "Legal immunity from false testimony",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§46] [7] Why, moreover, should the evidence of the slave be thought more trustworthy than that of free men? Free men are disfranchised and fined, should their evidence be considered false; whereas this slave, who gave us no opportunity of either cross-examining or torturing him—when can he be punished?"
+      ],
+      "reasoning": "The text explicitly states that free men face specific legal penalties (disfranchisement and fines) for providing false evidence, whereas slaves are not held to the same civic standard of liability but are instead subjected to torture for verification.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies broadly to all free male citizens capable of providing legal testimony, which is a significant portion of the adult male population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave admissibility under torture",
+      "rule_category": "Legal evidentiary procedure",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from judicial torture",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§47] [8] All the slaves in my possession, male or female, I hand over to you for torture; and if you find that I was not at home in bed that night, or that I left the house, I agree that I am the murderer."
+      ],
+      "reasoning": "The defendant offers his slaves to be tortured to provide evidence for his alibi, confirming the legal norm that slave testimony is only valid or verifiable through physical coercion (basanos).",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all slaves (male or female) in the context of a murder trial, representing a large class of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave legal immunity",
+      "rule_category": "Exclusion from legal liability",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Liability to civic fines or disfranchisement",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§46] [7] Free men are disfranchised and fined, should their evidence be considered false; whereas this slave, who gave us no opportunity of either cross-examining or torturing him—when can he be punished? Nay, when can he be cross-examined?"
+      ],
+      "reasoning": "Because slaves do not possess civic rights (citizenship), they cannot be punished by 'atimia' (disfranchisement) or fines. This is a negative legal standing where their lack of rights paradoxically makes them immune to civic penalties, unlike free men.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire enslaved population as they lack the civic status required for these specific punishments.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Defendant's alibi through slaves",
+      "rule_category": "Defense rights",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to offer slaves for torture",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] [8] All the slaves in my possession, male or female, I hand over to you for torture; and if you find that I was not at home in bed that night, or that I left the house, I agree that I am the murderer."
+      ],
+      "reasoning": "A defendant has the right to use his own human property (slaves) as a means of proof in a capital trial to establish his whereabouts.",
+      "specificity": 6,
+      "specificity_reasoning": "This is specific to individuals currently acting as defendants in murder cases who also possess slaves.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0028.tlg002.perseus-eng2",
+  "_input_tokens": 27439,
+  "_output_tokens": 4302,
+  "_model": "google/gemini-3-flash-preview"
+}

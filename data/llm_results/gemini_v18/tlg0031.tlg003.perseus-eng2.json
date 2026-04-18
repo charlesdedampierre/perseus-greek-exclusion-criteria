@@ -1,0 +1,1534 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Patrilineal priesthood eligibility",
+      "rule_category": "Access to priesthood",
+      "group": "Priests",
+      "group_category": "Lineage",
+      "resource": "Right to hold priestly office",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the priestly division of Abijah. He had a wife of the daughters of Aaron, and her name was Elizabeth."
+      ],
+      "reasoning": "The text identifies Zacharias's status through his belonging to a specific priestly division (Abijah) and notes his wife's lineage as 'daughters of Aaron.' In Judean society of this period, priestly status was strictly hereditary through the male line, and marriage within priestly families was a normative expectation for maintaining the purity of the line.",
+      "specificity": 8,
+      "specificity_reasoning": "The rule applies to a specific, small subset of the population defined by ancestral lineage (the descendants of Aaron/Levi).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Rotation of priestly duties",
+      "rule_category": "Religious service regulation",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to perform temple rituals",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] Now it happened, while he executed the priest's office before God in the order of his division, [§10] according to the custom of the priest's office, his lot was to enter into the temple of the Lord and burn incense."
+      ],
+      "reasoning": "The text describes a formal system ('order of his division' and 'the custom') where priestly duties were allocated by lot and by specific time-restricted rotations. This indicates a legal/customary framework governing which individuals have access to the central religious resource (temple service) at specific times.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to the specific class of men who are already recognized as priests.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Male child naming authority",
+      "rule_category": "Rights of household heads",
+      "group": "Fathers",
+      "group_category": "Age",
+      "resource": "Right to name offspring",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§60] It happened on the eighth day, that they came to circumcise the child; and they would have called him Zacharias, after the name of the father. [§61] His mother answered, 'Not so; but he will be called John.' [§62] They said to her, 'There is no one among your relatives who is called by this name.' [§63] They made signs to his father, what he would have him called."
+      ],
+      "reasoning": "When the mother attempts to name the child, the community (neighbors/relatives) challenges her and defers the final decision to the father. Even though the father is mute, he is treated as the final authority on the child's identity, demonstrating that the right to name a child is a patriarchal entitlement.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all men in the society who have fathered children.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Mandatory infant circumcision",
+      "rule_category": "Ritual inclusion",
+      "group": "Male children",
+      "group_category": "Age",
+      "resource": "Covenantal inclusion through circumcision",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§60] It happened on the eighth day, that they came to circumcise the child; and they would have called him Zacharias, after the name of the father."
+      ],
+      "reasoning": "The text describes the circumcision of the male infant on the eighth day as a standard, expected communal event. In this society, circumcision was the concrete physical/legal mechanism for establishing a male's status within the group (Israel).",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all male children born into the ethnic/religious group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Paternal lineage naming custom",
+      "rule_category": "Family identity",
+      "group": "Male children",
+      "group_category": "Age",
+      "resource": "Right to paternal name",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§60] It happened on the eighth day, that they came to circumcise the child; and they would have called him Zacharias, after the name of the father. [§62] They said to her, 'There is no one among your relatives who is called by this name.'"
+      ],
+      "reasoning": "The relatives' expectation that the child should be named after his father or a relative demonstrates a customary rule regarding the transmission of family identity through the male line.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to male children and their families during the naming process.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Mandatory universal enrollment",
+      "rule_category": "Mandatory civic registration",
+      "group": "All residents",
+      "group_category": "Citizenship",
+      "resource": "Right to remain unenrolled",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§82] Now it happened in those days, that a decree went out from Caesar Augustus that all the world should be enrolled.",
+        "[§85] All went to enroll themselves, everyone to his own city."
+      ],
+      "reasoning": "The text describes a Roman imperial decree requiring every individual within the 'world' (the empire) to travel to their ancestral city for registration. This represents a loss of the freedom to avoid state surveillance and administrative control.",
+      "specificity": 1,
+      "specificity_reasoning": "The decree is described as applying to 'all the world' and 'everyone,' indicating the broadest possible application within the society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Infant male circumcision",
+      "rule_category": "Access to religious community",
+      "group": "Infant males",
+      "group_category": "Age",
+      "resource": "Right to bodily integrity",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§103] When eight days were fulfilled for the circumcision of the child, his name was called Jesus, which was given by the angel before he was conceived in the womb."
+      ],
+      "reasoning": "The text documents the practice of infant circumcision as a standard 'fulfillment' of religious law, which involves a permanent physical alteration to the male body at a specific age.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all newborn males within the Jewish community, a significant but specific demographic.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Postpartum ritual purification",
+      "rule_category": "Restricted religious access",
+      "group": "Mothers",
+      "group_category": "Gender",
+      "resource": "Right to enter sacred spaces",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§104] When the days of their purification according to the law of Moses were fulfilled, they brought him up to Jerusalem, to present him to the Lord"
+      ],
+      "reasoning": "The mention of 'days of purification' being 'fulfilled' before visiting the temple implies that women were restricted from sacred spaces or formal religious presentation for a set period following childbirth.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to women following the biological event of childbirth.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Firstborn male consecration",
+      "rule_category": "Obligation of religious status",
+      "group": "Firstborn sons",
+      "group_category": "Lineage",
+      "resource": "Freedom from religious consecration",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§105] (as it is written in the law of the Lord, \"Every male who opens the womb shall be called holy to the Lord\")"
+      ],
+      "reasoning": "The text cites a specific legal requirement where firstborn males are designated 'holy to the Lord,' a special status entailing specific presentation and sacrificial rituals.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies only to a specific subset of the population: the first male child born to a mother.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Parental authority over minors",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Autonomy of movement and action",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§133] And he went down with them, and came to Nazareth. He was subject to them, and his mother kept all these sayings in her heart."
+      ],
+      "reasoning": "The text explicitly states that as a child, Jesus was 'subject to' his parents, indicating a legal and customary lack of autonomy for minors in this society.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all children within the society until they reach the age of majority/adulthood.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Tax collection limit",
+      "rule_category": "Protection from economic exploitation",
+      "group": "Tax collectors",
+      "group_category": "Occupation",
+      "resource": "Right to collect surplus revenue",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§147] Tax collectors also came to be baptized, and they said to him, \"Teacher, what must we do?\" [§148] He said to them, \"Collect no more than that which is appointed to you.\""
+      ],
+      "reasoning": "The text establishes a normative constraint on tax collectors, forbidding them from collecting more than the legally prescribed amount. This restricts their ability to extract personal profit through over-taxation, a common practice in Roman-era provincial administration.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a specific professional class (publicani/tax collectors) within the Roman/Judean economic system.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military conduct restriction",
+      "rule_category": "Restriction of military power",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to extra-legal seizure and extortion",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§149] Soldiers also asked him, saying, \"What about us? What must we do?\" He said to them, \"Extort from no one by violence, neither accuse anyone wrongfully. Be content with your wages.\""
+      ],
+      "reasoning": "The text mandates that soldiers refrain from using their physical power for extortion or false accusations. By commanding them to be 'content with your wages,' it explicitly removes their customary or de facto access to supplemental resources gained through the abuse of their position.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies specifically to the military class and their interactions with the civilian population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Synagogue teaching custom",
+      "rule_category": "Access to religious speech",
+      "group": "Adult men",
+      "group_category": "Gender",
+      "resource": "Right to read and teach in synagogues",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§174] ...He taught in their synagogues, being glorified by all. He came to Nazareth, where he had been brought up. He entered, as was his custom, into the synagogue on the Sabbath day, and stood up to read."
+      ],
+      "reasoning": "The description of Jesus's 'custom' indicates a social norm where recognized adult males of the community were permitted to participate in the liturgy by reading from the prophets and teaching the assembly.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad category of males within the religious community, though limited by local recognition.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Prophetic rejection",
+      "rule_category": "Denial of social acceptance",
+      "group": "Prophets",
+      "group_category": "Occupation",
+      "resource": "Right to local communal acceptance",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§174] ...He said, \"Most assuredly I tell you, no prophet is acceptable in his hometown.\""
+      ],
+      "reasoning": "Jesus identifies a sociological rule or constant in his society: that individuals claiming prophetic status are systematically denied recognition and authority within their own place of origin, losing the 'resource' of communal credibility.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies only to a very small subset of the population (those claiming prophetic status) and only in their specific geography of origin.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Sabbath synagogue attendance",
+      "rule_category": "Religious participation",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to gather on the Sabbath",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§174] ...He entered, as was his custom, into the synagogue on the Sabbath day, and stood up to read. ... The eyes of all in the synagogue were fastened on him."
+      ],
+      "reasoning": "The text describes the synagogue as a public space where the community ('all') gathers predictably on the Sabbath, indicating a customary right for members of the Jewish society to participate in these assemblies.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the majority of the population within the described cultural context.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ritual cleansing certification",
+      "rule_category": "Access to religious community",
+      "group": "Sick",
+      "group_category": "Health",
+      "resource": "Right to be declared ritually clean",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§233] He charged him to \"Tell no one, but go your way, and show yourself to the priest, and offer for your cleansing according to what Moses commanded, for a testimony to them.\""
+      ],
+      "reasoning": "The text references the Mosaic law requiring a person cured of leprosy to be examined and certified by a priest through specific offerings to be integrated back into the community.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule specifically targets individuals with a certain health condition (leprosy) rather than the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Apostolic total property renunciation",
+      "rule_category": "Restriction of property rights",
+      "group": "Disciples",
+      "group_category": "Occupation",
+      "resource": "Right to retain personal property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§230] When they had brought their boats to land, they left everything, and followed him.",
+        "[§247] He left everything, and rose up and followed him."
+      ],
+      "reasoning": "In the context of following Jesus as a primary vocation (disciple), the text describes a consistent rule of 'leaving everything,' meaning the complete abandonment of livelihoods and assets.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to a very specific subset of people who choose a particular religious following/occupation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prophetic hometown rejection",
+      "rule_category": "Social exclusion",
+      "group": "Prophets",
+      "group_category": "Occupation",
+      "resource": "Right to social acceptance and reception",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§198] He said, \"Most assuredly I tell you, no prophet is acceptable in his hometown.\""
+      ],
+      "reasoning": "The text states a social rule or norm where an individual acting in a prophetic capacity is systematically denied recognition or acceptance within their own community of origin.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to those identified as prophets within their local origins.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sabbath synagogue attendance",
+      "rule_category": "Religious access",
+      "group": "Adult men",
+      "group_category": "Gender",
+      "resource": "Right to participate in communal synagogue readings",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§190] He came to Nazareth, where he had been brought up. He entered, as was his custom, into the synagogue on the Sabbath day, and stood up to read."
+      ],
+      "reasoning": "The text describes a customary rule where adult males participate in the synagogue liturgy on the Sabbath, including the right to stand and read scripture.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to a large demographic (adult men in the Jewish community).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Commensality restriction",
+      "rule_category": "Social exclusion",
+      "group": "Tax collectors",
+      "group_category": "Occupation",
+      "resource": "Right to social association with religious elites",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§249] Their scribes and the Pharisees murmured against his disciples, saying, \"Why do you eat and drink with the tax collectors and sinners?\""
+      ],
+      "reasoning": "The objection raised by the Pharisees indicates a social and customary rule against shared meals (commensality) between 'righteous' observers of the law and tax collectors.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific occupational group within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sabbath labor prohibition",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Freedom to perform labor or gather food",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§261] But some of the Pharisees said to them, \"Why do you do that which is not lawful to do on the Sabbath day?\""
+      ],
+      "reasoning": "The text identifies a specific legal prohibition against certain types of work (in this case, plucking grain/harvesting) on the Sabbath, which was a general rule governing life in Judea during the author's time.",
+      "specificity": 2,
+      "specificity_reasoning": "This religious law applied to the vast majority of the population in Judean society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sacred bread consumption restriction",
+      "rule_category": "Denial of public resources",
+      "group": "Commoners",
+      "group_category": "Lineage",
+      "resource": "Right to eat consecrated food",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§263] how he entered into the house of God, and took and ate the show bread, and gave also to those who were with him, which is not lawful to eat except for the priests alone?\""
+      ],
+      "reasoning": "The text explicitly mentions a rule that restricts the consumption of 'show bread' (sacred offerings) to a specific lineage-based group (priests), making it unlawful for any others to consume it.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule targets a specific ritual object and identifies a small, elite group (priests) as the only authorized users.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sabbath healing prohibition",
+      "rule_category": "Legal standing",
+      "group": "Sick people",
+      "group_category": "Health",
+      "resource": "Right to receive medical treatment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§266] The scribes and the Pharisees watched him, to see whether he would heal on the Sabbath, that they might find an accusation against him."
+      ],
+      "reasoning": "The Pharisees' surveillance of Jesus to find an 'accusation' demonstrates that healing—interpreted as a form of work—was legally restricted on the Sabbath, effectively denying the sick the right to treatment on that day.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those needing medical attention on a specific day of the week.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Teacher-student hierarchy",
+      "rule_category": "Social stratification",
+      "group": "Students",
+      "group_category": "Occupation",
+      "resource": "Right to social or professional parity",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§299] A disciple is not above his teacher, but everyone when he is fully trained will be like his teacher."
+      ],
+      "reasoning": "The text describes a customary rule of social and professional hierarchy where a student (disciple) is inherently subordinate to their master until their training is complete.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a general rule governing the relationship between mentors and apprentices/students in ancient society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave labor obedience",
+      "rule_category": "Labor control",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom of action",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§317] For I also am a man placed under authority, having under myself soldiers. I tell this one, 'Go!' and he goes; and to another, 'Come!' and he comes; and to my servant, 'Do this,' and he does it."
+      ],
+      "reasoning": "The centurion uses the example of his servant to illustrate absolute command and the lack of autonomy inherent in the servant's status; the servant is legally and customarily bound to perform specific tasks at the master's word without question.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all slaves/domestic servants in the society, who constitute a large portion of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Soldier command obedience",
+      "rule_category": "Military discipline",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Freedom of movement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§317] For I also am a man placed under authority, having under myself soldiers. I tell this one, 'Go!' and he goes; and to another, 'Come!' and he comes; and to my servant, 'Do this,' and he does it."
+      ],
+      "reasoning": "The text describes the standard military hierarchy where soldiers are required to move and act solely based on the commands of their superiors, limiting their personal freedom of movement.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule specifically applies to the military class within the Roman/Judean context.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Elitist court access",
+      "rule_category": "Political exclusion",
+      "group": "Commoners",
+      "group_category": "Wealth",
+      "resource": "Access to royal courts",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§334] But what did you go out to see? A man clothed in soft clothing? Behold, those who are gorgeously dressed, and live delicately, are in kings' courts."
+      ],
+      "reasoning": "Jesus identifies 'gorgeous dress' and 'delicate living'—proxies for extreme wealth and high status—as the requirement for being in a king's court, implying the exclusion of the poor or average person from these political centers.",
+      "specificity": 4,
+      "specificity_reasoning": "This distinguishes the common population from the small percentage of the elite who inhabit the court.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Pharisaic ritual purity",
+      "rule_category": "Social segregation",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to physical contact with religious leaders",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§348] Now when the Pharisee who had invited him saw it, he said to himself, 'This man, if he were a prophet, would have perceived who and what kind of woman this is who touches him, that she is a sinner.'"
+      ],
+      "reasoning": "The Pharisee's reaction indicates a social and religious rule where a woman classified as a 'sinner' (likely a moral/social proxy for specific female public statuses) is prohibited from touching a holy man or a man of standing, as it is viewed as a violation of purity standards.",
+      "specificity": 6,
+      "specificity_reasoning": "While applying to women, it is specifically focused on those labeled 'sinners' within the context of interacting with religious authorities.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Hospitality debt protocols",
+      "rule_category": "Social obligation",
+      "group": "Guests",
+      "group_category": "Origin",
+      "resource": "Right to ritual cleaning services",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§353] Turning to the woman, he said to Simon, 'Do you see this woman? I entered into your house, and you gave me no water for my feet, but she has wet my feet with her tears, and wiped them with the hair of her head. [§354] You gave me no kiss... [§355] You didn't anoint my head with oil...'"
+      ],
+      "reasoning": "Jesus rebukes Simon for failing to provide water for feet, oil for the head, and a greeting kiss. This demonstrates a customary rule in Judean society where a guest entering a house is entitled to specific material resources and services from the host.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any individual acting as a guest in a private home, a very common occurrence.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female property management",
+      "rule_category": "Access to economic resources",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to manage and dispense personal wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§362] and certain women who had been healed of evil spirits and infirmities: Mary who was called Magdalene, from whom seven demons had gone out; [§363] and Joanna, the wife of Chuzas, Herod's steward; Susanna; and many others; who ministered to them from their possessions."
+      ],
+      "reasoning": "The text identifies a group of women, including a wife of a high-ranking official, who independently use their own 'possessions' (property or funds) to provide financial or material support for a traveling group. This indicates that women in this social context had the legal or customary capacity to control and distribute their own assets.",
+      "specificity": 4,
+      "specificity_reasoning": "While this refers to a specific group of followers, it reflects a broader social reality regarding the capacity of wealthy women to manage property.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Synagogue leadership eligibility",
+      "rule_category": "Access to religious office",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to hold office as synagogue ruler",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§401] Behold, there came a man named Jairus, and he was a ruler of the synagogue."
+      ],
+      "reasoning": "The text identifies the 'ruler of the synagogue' (archisynagogos) as a 'man.' In the historical context of 1st-century Judea described, this was a specific civic and religious leadership role reserved for men.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific elite administrative and religious role within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physical restraint of mentally ill",
+      "rule_category": "Restriction of personal freedom",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Freedom from physical restraint",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§389] For the unclean spirit had often seized the man. He was kept under guard, and bound with chains and fetters."
+      ],
+      "reasoning": "The text describes the standard social response to a man deemed possessed or mentally unstable: he is forcibly 'kept under guard' and 'bound with chains.' This indicates a lack of protection from corporal restraint for individuals with severe mental health issues.",
+      "specificity": 5,
+      "specificity_reasoning": "This describes a societal practice applied to individuals identified as 'possessed' or dangerously mentally ill.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Disciple-specific esoteric knowledge",
+      "rule_category": "Access to political/religious information",
+      "group": "Disciples",
+      "group_category": "Occupation",
+      "resource": "Right to receive unmasked teachings",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§370] He said, \"To you it is given to know the mysteries of the Kingdom of God, but to the rest in parables; that 'seeing they may not see, and hearing they may not understand.'\""
+      ],
+      "reasoning": "The text distinguishes between a core group of followers (disciples) and the general public ('the rest'). The disciples are granted direct access to 'the mysteries,' while the public is intentionally restricted to parables to prevent understanding.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule applies to the specific inner circle of the religious movement compared to the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Apostolic material poverty requirement",
+      "rule_category": "Restriction of property rights",
+      "group": "Disciples",
+      "group_category": "Occupation",
+      "resource": "Right to carry personal assets and provisions",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§420] He said to them, \"Take nothing for your journey -- neither staffs, nor wallet, nor bread, nor money; neither have two coats apiece."
+      ],
+      "reasoning": "The text establishes a specific rule for the group of sent messengers (the twelve) that they must operate without private property or mobile resources while performing their duties.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to a small inner circle of followers (the twelve) rather than the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of family mourning",
+      "rule_category": "Family obligation restriction",
+      "group": "Disciples",
+      "group_category": "Occupation",
+      "resource": "Right to perform paternal burial rites",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§476] He said to another, \"Follow me!\" But he said, \"Lord, allow me first to go and bury my father.\"",
+        "[§477] But Jesus said to him, \"Leave the dead to bury their own dead, but you go and announce the Kingdom of God.\""
+      ],
+      "reasoning": "The text shows a customary religious/social duty (burying a father) being explicitly suppressed in favor of the group's mission to preach, effectively removing a standard familial right from the candidate.",
+      "specificity": 7,
+      "specificity_reasoning": "It targets those who have been specifically called to follow the leader in a missionary capacity.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of family farewells",
+      "rule_category": "Family obligation restriction",
+      "group": "Disciples",
+      "group_category": "Occupation",
+      "resource": "Right to bid farewell to household",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§477] Another also said, \"I want to follow you, Lord, but first allow me to bid farewell to those who are at my house.\"",
+        "[§477] But Jesus said to him, \"No one, having put his hand to the plow, and looking back, is fit for the Kingdom of God.\""
+      ],
+      "reasoning": "The text explicitly denies a member of the group the right to observe social and familial leave-taking customs as a condition of their new social status.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies to those entering the specific occupation/status of a committed follower/disciple.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Apostolic healing authority",
+      "rule_category": "Grant of healing authority",
+      "group": "Disciples",
+      "group_category": "Occupation",
+      "resource": "Authority to perform medical/spiritual cures",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§418] He called the twelve together, and gave them power and authority over all demons, and to cure diseases."
+      ],
+      "reasoning": "The text describes a formal delegation of authority to a specific group, granting them a concrete capacity (healing) that others in the society did not possess by standard.",
+      "specificity": 9,
+      "specificity_reasoning": "This power is granted specifically to 'the twelve', a very small, well-defined group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Exclusion from secret knowledge",
+      "rule_category": "Exclusion from information",
+      "group": "Disciples",
+      "group_category": "Occupation",
+      "resource": "Access to prophetic or strategic information",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§462] But they didn't understand this saying. It was concealed from them, that they should not perceive it, and they were afraid to ask him about this saying."
+      ],
+      "reasoning": "The text notes that certain essential information about the leader's future was systematically hidden from the group, effectively a restriction on their access to information within their own organization.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies specifically to the inner circle/apostles mentioned in the surrounding context.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Missionary right to maintenance",
+      "rule_category": "Access to economic resources",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to food and housing as wages",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§487] Remain in that same house, eating and drinking the things they give, for the laborer is worthy of his wages. Don't go from house to house."
+      ],
+      "reasoning": "The text establishes a rule of reciprocity for those sent out on a mission (the seventy), granting them the right to be supported by the households they visit. It frames this support as 'wages' for their labor, indicating a customary or legalistic entitlement to subsistence in exchange for their service.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific class of mobile religious or community laborers, which is a defined but significant sub-group in this context.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prophetic witness immunity",
+      "rule_category": "Protection from harm",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Protection from physical injury",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§499] Behold, I give you authority to tread on serpents and scorpions, and over all the power of the enemy. Nothing will in any way hurt you."
+      ],
+      "reasoning": "The text describes a specific grant of authority and physical protection given to the seventy messengers. While phrased metaphorically, it functions as a rule of immunity from 'the enemy' while they are performing their assigned duty.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule is restricted specifically to the 'seventy others' appointed for this mission.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Female intellectual participation",
+      "rule_category": "Access to education",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to prioritize education over domestic labor",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§522] but one thing is needed. Mary has chosen the good part, which will not be taken away from her."
+      ],
+      "reasoning": "In the encounter with Martha and Mary, Jesus upholds Mary's right to sit and listen (a student's role) over the traditional expectation of female domestic service (Martha's role). The statement that this part 'will not be taken away from her' establishes it as a protected entitlement/status.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule addresses the behavior and social role of women generally in relation to domestic vs. intellectual/religious pursuits.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Public rejection ritual",
+      "rule_category": "Restriction of social status",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to hospitality and community inclusion",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§490] But into whatever city you enter, and they don't receive you, go out into the streets of it and say, [§491] 'Even the dust from your city that clings to us, we wipe off against you. Nevertheless know this, that the Kingdom of God has come near to you.'"
+      ],
+      "reasoning": "The text prescribes a specific legalistic/customary action (shaking off dust) that marks a city and its inhabitants as having lost the right to the benefits of the messengers' presence. It codifies a ritual of exclusion for those who do not provide hospitality.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to entire city populations that fail to meet specific hospitality norms.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Ritual hand washing",
+      "rule_category": "Adherence to religious custom",
+      "group": "Pharisees",
+      "group_category": "Occupation",
+      "resource": "Right to dine without criticism",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§561] When the Pharisee saw it, he marveled that he had not first washed himself before dinner."
+      ],
+      "reasoning": "The text indicates that among the Pharisee sect, ritual washing before a meal was a mandatory social and religious expectation. Failure to perform it resulted in immediate social scrutiny or surprise, indicating it functioned as a rule for group members and those they hosted.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule is specific to the Pharisaic sect and those interacting with them, rather than the entire population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Pharisaic seat precedence",
+      "rule_category": "Access to political power",
+      "group": "Pharisees",
+      "group_category": "Occupation",
+      "resource": "Right to prominent seating in synagogues",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§566] Woe to you Pharisees! For you love the best seats in the synagogues, and the greetings in the marketplaces."
+      ],
+      "reasoning": "The text identifies the 'best seats' in the synagogue as a specific resource that the Pharisees occupied, reflecting their high social and political status within the religious community.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific religious/social elite within the broader Judean society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Mandatory herbal tithing",
+      "rule_category": "Economic obligation",
+      "group": "Pharisees",
+      "group_category": "Occupation",
+      "resource": "Right to retain small agricultural produce",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§565] But woe to you Pharisees! For you tithe mint and rue and every herb, but you bypass justice and the love of God. You ought to have done these, and not to have left the other undone."
+      ],
+      "reasoning": "The text confirms that Pharisees were legally or customarily required to give a tenth (tithe) of even minor herbs like mint and rue, a concrete economic extraction based on their religious-legal code.",
+      "specificity": 4,
+      "specificity_reasoning": "This describes a practice peculiar to the Pharisees' strict interpretation of tithing laws.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Lawyer burden imposition",
+      "rule_category": "Legal standing",
+      "group": "Commoners",
+      "group_category": "Lineage",
+      "resource": "Protection from legal burdens",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§569] He said, \"Woe to you lawyers also! For you load men with burdens that are difficult to carry, and you yourselves won't even lift one finger to help carry those burdens.\""
+      ],
+      "reasoning": "The 'lawyers' (legal experts) used their professional power to impose heavy legal and social obligations on others while exempting themselves from the practical difficulty of fulfilling them.",
+      "specificity": 2,
+      "specificity_reasoning": "The rule describes an interaction between the legal class and the general population ('men').",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Educational exclusion",
+      "rule_category": "Denial of education",
+      "group": "Commoners",
+      "group_category": "Lineage",
+      "resource": "Access to religious knowledge",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§575] Woe to you lawyers! For you took away the key of knowledge. You didn't enter in yourselves, and those who were entering in, you hindered.\""
+      ],
+      "reasoning": "The legal experts ('lawyers') are described as actively preventing others from accessing 'knowledge' (likely scriptural interpretation or religious truth), effectively acting as gatekeepers who block the resource from the wider public.",
+      "specificity": 2,
+      "specificity_reasoning": "The 'hindered' group is the general public trying to access knowledge.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Parental provision duty",
+      "rule_category": "Family rights",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to food from parents",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§534] Which of you fathers, if your son asks for bread, will give him a stone? Or if he asks for a fish, he won't give him a snake instead of a fish, will he? [§535] Or if he asks for an egg, he won't give him a scorpion, will he?"
+      ],
+      "reasoning": "The text appeals to a universal social norm where children have a recognized entitlement to basic sustenance (bread, fish, eggs) provided by their fathers.",
+      "specificity": 1,
+      "specificity_reasoning": "This refers to the general structure of the family unit across society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial inheritance arbitration",
+      "rule_category": "Legal standing for inheritance",
+      "group": "Brothers",
+      "group_category": "Lineage",
+      "resource": "Right to petition for inheritance division",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§591] One of the multitude said to him, \"Teacher, tell my brother to divide the inheritance with me.\""
+      ],
+      "reasoning": "The request to a perceived authority figure to intervene in an inheritance dispute between brothers indicates a social and legal norm where siblings had a right to a portion of an estate and could seek arbitration if a brother withheld it.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to male heirs within a family context, which is a significant but defined portion of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Master's right of corporal punishment",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§625] That servant, who knew his lord's will, and didn't prepare, nor do what he wanted, will be beaten with many stripes, [§626] but he who didn't know, and did things worthy of stripes, will be beaten with few stripes."
+      ],
+      "reasoning": "The text describes the standard disciplinary power of a master over a servant/slave, where physical beating (stripes) is the prescribed consequence for disobedience or negligence.",
+      "specificity": 3,
+      "specificity_reasoning": "The enslaved population was a large and broadly defined class in the Roman world.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Steward's delegated authority",
+      "rule_category": "Grant of economic privilege",
+      "group": "Stewards",
+      "group_category": "Occupation",
+      "resource": "Right to manage household resources",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§620] The Lord said, \"Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times?\""
+      ],
+      "reasoning": "The text identifies a specific occupational role (steward) defined by the legal and customary right to control the distribution of a household's material resources.",
+      "specificity": 7,
+      "specificity_reasoning": "Stewards are a specific subset of employees or slaves within wealthy households.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Debt-based imprisonment",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Debtors",
+      "group_category": "Wealth",
+      "resource": "Freedom from imprisonment for debt",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§636] For when you are going with your adversary before the magistrate, try diligently on the way to be released from him, lest perhaps he drag you to the judge, and the judge deliver you to the officer, and the officer throw you into prison. [§637] I tell you, you will by no means get out of there, until you have paid the very last penny."
+      ],
+      "reasoning": "The passage describes the legal process where a person unable to settle a claim with an adversary can be judicially committed to prison until the full financial obligation is met.",
+      "specificity": 4,
+      "specificity_reasoning": "Legal disputes and debt affected a wide range of the non-elite population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Summary execution rights",
+      "rule_category": "Exclusion from judicial protection",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§624] then the lord of that servant will come in a day when he isn't expecting him, and in an hour that he doesn't know, and will cut him in two, and place his portion with the unfaithful."
+      ],
+      "reasoning": "In the context of the parable reflecting social realities, a master (lord) has the power of life and death over a servant, including the right to perform summary execution (cutting in two) for gross negligence or abuse of office.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad category of slaves/servants in a household.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sabbath medical labor prohibition",
+      "rule_category": "Restriction of religious access",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to receive medical treatment",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§652] The ruler of the synagogue, being indignant because Jesus had healed on the Sabbath, said to the multitude, \"There are six days in which men ought to work. Therefore come on those days and be healed, and not on the Sabbath day!\""
+      ],
+      "reasoning": "The synagogue leader expresses a specific societal/religious rule that healing (classified as work) is prohibited on the Sabbath, effectively denying the sick access to treatment on that day.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual seeking medical or miraculous aid within the Jewish community under the jurisdiction of the synagogue rulers.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sabbath animal welfare priority",
+      "rule_category": "Access to economic privilege",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to water livestock on holy days",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§653] Therefore the Lord answered him, \"You hypocrites! Doesn't each one of you free his ox or his donkey from the stall on the Sabbath, and lead him away to water?\""
+      ],
+      "reasoning": "The text confirms as an accepted common practice (and therefore a customary rule) that owners are permitted to perform the labor necessary to water their animals even on the Sabbath.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the category of agriculturalists and animal owners within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Emergency rescue exemption",
+      "rule_category": "Grant of legal standing",
+      "group": "Parents",
+      "group_category": "Age",
+      "resource": "Right to perform emergency labor",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§679] He answered them, \"Which of you, if your son or an ox fell into a well, wouldn't immediately pull him out on a Sabbath day?\""
+      ],
+      "reasoning": "The rhetorical question points to a widely recognized social and legal exception where the prohibition of work on the Sabbath is waived in life-threatening emergencies involving kin or valuable property.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all heads of households and parents in the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Seating by social rank",
+      "rule_category": "Social stratification",
+      "group": "The honorable",
+      "group_category": "Lineage",
+      "resource": "Right to preferential seating",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§682] \"When you are invited by anyone to a marriage feast, don't sit in the best seat, since perhaps someone more honorable than you might be invited by him, [§683] and he who invited both of you would come and tell you, 'Make room for this person.'\""
+      ],
+      "reasoning": "The custom described treats seats at public feasts as a material resource allocated based on perceived 'honor' or social rank, enforced by the host.",
+      "specificity": 5,
+      "specificity_reasoning": "This specifically concerns those attending formal elite social gatherings (marriage feasts).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Social reciprocity requirements",
+      "rule_category": "Restriction of social integration",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to be invited to feasts",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§686] He also said to the one who had invited him, \"When you make a dinner or a supper, don't call your friends, nor your brothers, nor your kinsmen, nor rich neighbors, or perhaps they might also return the favor, and pay you back. [§687] But when you make a feast, ask the poor, the maimed, the lame, or the blind;\""
+      ],
+      "reasoning": "The author's exhortation to invite the poor specifically because they *cannot* repay the host reveals the standing rule of that society: that invitations were generally restricted to those with the wealth to reciprocate.",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects the general condition of the lower economic class in social life.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Filial inheritance request",
+      "rule_category": "Access to inheritance",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to claim share of paternal property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§722] The younger of them said to his father, 'Father, give me my share of your property.' He divided his livelihood between them."
+      ],
+      "reasoning": "The text describes a son's ability to request and receive his portion of the family estate during his father's lifetime, which the father complies with, indicating a recognized customary right to property division.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a significant subset of the population, namely sons within families with inheritable property.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Employer summary dismissal",
+      "rule_category": "Labor control",
+      "group": "Managers",
+      "group_category": "Occupation",
+      "resource": "Protection from arbitrary dismissal",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§745] He called him, and said to him, 'What is this that I hear about you? Give an accounting of your management, for you can no longer be manager.'"
+      ],
+      "reasoning": "Upon a mere accusation of wasting possessions, the master is able to summarily dismiss the manager without a formal trial or secondary investigation, showing a lack of employment security for those in service roles.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those in management/stewardship occupations.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Remarriage after divorce",
+      "rule_category": "Marriage restriction",
+      "group": "Divorced persons",
+      "group_category": "Citizenship",
+      "resource": "Right to marry without legal/moral penalty",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§743] Everyone who divorces his wife, and marries another, commits adultery. He who marries one who is divorced from a husband commits adultery."
+      ],
+      "reasoning": "The text explicitly defines remarriage after divorce or marrying a divorced person as adultery, effectively stripping divorced individuals of the right to enter a new legitimate marriage without legal or social transgression.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to any person within the society who undergoes a divorce.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Discipleship total renunciation",
+      "rule_category": "Restriction of property",
+      "group": "Disciples",
+      "group_category": "Occupation",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§707] So therefore whoever of you who doesn't renounce all that he has, he can't be my disciple."
+      ],
+      "reasoning": "The text establishes a strict rule for the group 'disciples': entering this status requires the total surrender of all material resources and goods.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to a very specific group of individuals choosing a particular religious/philosophical life path.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Hired servant food provision",
+      "rule_category": "Grant of economic privilege",
+      "group": "Hired servants",
+      "group_category": "Occupation",
+      "resource": "Right to food rations",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§727] But when he came to himself he said, 'How many hired servants of my father's have bread enough to spare, and I'm dying with hunger!'"
+      ],
+      "reasoning": "The text indicates that 'hired servants' (misthioi) as a class were entitled to bread as part of their employment, to the extent of having a surplus, contrasting them with the master's son in a state of destitution.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to the broad category of free/hired laborers in the agricultural economy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Adultery by remarriage",
+      "rule_category": "Marriage restriction",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to legally remarry after divorce",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§761] Everyone who divorces his wife, and marries another, commits adultery. He who marries one who is divorced from a husband commits adultery."
+      ],
+      "reasoning": "The text establishes a legal/moral rule where a man who divorces and seeks a new marriage is categorized as an adulterer, effectively stripping the second marriage of its legitimacy and the man of his right to a new legal union.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all adult men within the social/religious community who might seek divorce and remarriage.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adultery by marrying divorcees",
+      "rule_category": "Marriage restriction",
+      "group": "Divorced women",
+      "group_category": "Gender",
+      "resource": "Right to marry after divorce",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§761] He who marries one who is divorced from a husband commits adultery."
+      ],
+      "reasoning": "By labeling any man who marries a divorced woman an adulterer, the law effectively prevents divorced women from entering into a new valid marriage, as the union is considered a crime.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to the subgroup of women who have been divorced from their husbands.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Priority of master's service",
+      "rule_category": "Labor control",
+      "group": "Servants",
+      "group_category": "Freedom status",
+      "resource": "Right to personal rest after labor",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§782] But who is there among you, having a servant plowing or keeping sheep, that will say, when he comes in from the field, 'Come immediately and sit down at the table,' [§783] and will not rather tell him, 'Prepare my supper, clothe yourself properly, and serve me, while I eat and drink. Afterward you shall eat and drink?'"
+      ],
+      "reasoning": "The text describes a standard social norm where a servant must complete domestic duties for the master after outdoor labor before they are permitted to see to their own sustenance or rest.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule characterizes the standard life and labor obligations for the entire class of servants/slaves in this society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Denial of master's gratitude",
+      "rule_category": "Labor control",
+      "group": "Servants",
+      "group_category": "Freedom status",
+      "resource": "Right to recognition for labor",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§784] Does he thank that servant because he did the things that were commanded? I think not."
+      ],
+      "reasoning": "The passage confirms a customary rule where a servant's labor, even when exhausting, does not entitle them to social or verbal recognition (thanks), as it is viewed strictly as an non-negotiable duty.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to the relationship between any master and servant in the socio-economic context described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Priestly health verification",
+      "rule_category": "Social reintegration",
+      "group": "Lepers",
+      "group_category": "Health",
+      "resource": "Right to social and religious reintegration",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§787] As he entered into a certain village, ten men who were lepers met him, who stood at a distance. [§789] When he saw them, he said to them, 'Go and show yourselves to the priests.'"
+      ],
+      "reasoning": "The rule requires those with skin diseases to 'stand at a distance' from the healthy and stipulates that only a priest can officially certify a recovery, which is a prerequisite for returning to society.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific rule targeting individuals with a particular medical condition (leprosy).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Property preservation prohibition",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Landowners",
+      "group_category": "Wealth",
+      "resource": "Right to retain or protect personal property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§806] In that day, he who will be on the housetop, and his goods in the house, let him not go down to take them away. Let him who is in the field likewise not turn back."
+      ],
+      "reasoning": "In the context of the 'Day of the Son of Man', the text establishes a prohibition on individuals attempting to secure or save their material goods, mandating the abandonment of property.",
+      "specificity": 2,
+      "specificity_reasoning": "This command applies to anyone in the society who owns a house, goods, or works in a field.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Judicial defense of widows",
+      "rule_category": "Access to judicial protection",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Right to legal defense against adversaries",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§815] A widow was in that city, and she often came to him, saying, 'Defend me from my adversary!'",
+        "[§817] yet because this widow bothers me, I will defend her, or else she will wear me out by her continual coming.'"
+      ],
+      "reasoning": "The text describes a widow's persistent demand for legal protection from a judge. Although the judge is described as unrighteous, his eventual decision to 'defend her' confirms that the legal system of the time recognized a widow's right to seek and receive judicial intervention against an adversary.",
+      "specificity": 4,
+      "specificity_reasoning": "Widows represent a specific and recognizable subset of the female population with distinct legal needs in ancient society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prohibition of false testimony",
+      "rule_category": "Legal procedure integrity",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from unsworn or false accusations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§832] You know the commandments: 'Don't commit adultery,' 'Don't murder,' 'Don't steal,' 'Don't give false testimony,' 'Honor your father and your mother.'"
+      ],
+      "reasoning": "The mention of the commandment 'Don't give false testimony' reflects a societal and legal rule against perjury, which serves as a protection for individuals within the legal system against false charges.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule is a general prohibition applying to almost everyone in the society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Rich man's kingdom exclusion",
+      "rule_category": "Religious and civic exclusion",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to enter the Kingdom of God",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§837] For it is easier for a camel to enter in through a needle's eye, than for a rich man to enter into the Kingdom of God."
+      ],
+      "reasoning": "While presented in a religious context, the text describes a systemic barrier to entry into the 'Kingdom'—which in this era carried significant political-communal weight—on the basis of inherited or accumulated wealth.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the segment of society defined by high wealth status.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Theft restitution penalty",
+      "rule_category": "Economic penalty",
+      "group": "Tax collectors",
+      "group_category": "Occupation",
+      "resource": "Right to retain goods in case of wrongful exaction",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§856] Zacchaeus stood and said to the Lord, 'Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.'"
+      ],
+      "reasoning": "Zacchaeus, a chief tax collector, references a four-fold restitution rule for wrongful exaction. This reflects a specific customary or legal penalty regarding property restoration for those in his profession who abuse their power.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule applies specifically to those in the occupation of tax collection who commit fraud.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Temple commerce restriction",
+      "rule_category": "Restriction of economic activity",
+      "group": "Artisans",
+      "group_category": "Occupation",
+      "resource": "Right to conduct trade in sacred public spaces",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§856] He entered into the temple, and began to drive out those who bought and sold in it, saying to them, 'It is written, \"My house is a house of prayer,\" but you have made it a \"den of robbers\"!'"
+      ],
+      "reasoning": "The text records the enforcement of a rule prohibiting commercial transactions (buying and selling) within the Temple precincts, a central civic and religious site.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all traders and customers specifically within the physical boundaries of the temple.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Levirate marriage obligation",
+      "rule_category": "Marriage regulation",
+      "group": "Brothers",
+      "group_category": "Lineage",
+      "resource": "Right to refuse marriage to a deceased brother's widow",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§933] They asked him, \"Teacher, Moses wrote to us that if a man's brother dies having a wife, and he is childless, his brother should take the wife, and raise up children for his brother.\""
+      ],
+      "reasoning": "The text references the Mosaic law of levirate marriage, which imposes a legal and customary obligation on a man to marry his childless brother's widow to ensure the continuation of the brother's lineage.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule applies specifically to men who have brothers who die childless, a significant but specific subset of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Imperial tax obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Subjects of Rome",
+      "group_category": "Citizenship",
+      "resource": "Retention of currency",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§930] He said to them, \"Then give to Caesar the things that are Caesar's, and to God the things that are God's.\""
+      ],
+      "reasoning": "In the context of the Roman occupation of Judea, the text affirms the legal requirement for the population to pay taxes to the Roman Emperor (Caesar).",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applied to nearly the entire adult population under Roman jurisdiction in the region.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Restoration of wrongfully exacted goods",
+      "rule_category": "Legal restitution",
+      "group": "Victims of extortion",
+      "group_category": "Wealth",
+      "resource": "Right to quadruple restitution",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§864] Zacchaeus stood and said to the Lord, \"Behold, Lord, half of my goods I give to the poor. If I have wrongfully exacted anything of anyone, I restore four times as much.\""
+      ],
+      "reasoning": "Zacchaeus, a tax collector, cites the legal/customary standard for restitution in cases of wrongful seizure of property, indicating that victims had a right to receive four times the value of what was taken.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to individuals who have been victims of financial misconduct or extortion.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Scribal social precedence",
+      "rule_category": "Grant of social privilege",
+      "group": "Scribes",
+      "group_category": "Occupation",
+      "resource": "Access to preferred seating and public honors",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§951] \"Beware of the scribes, who like to walk in long robes, and love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts;\""
+      ],
+      "reasoning": "The text describes the customary social privileges granted to the scribal class, including priority seating in religious and social gatherings and formal public recognition.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to the professional/religious class of scribes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Widow property vulnerability",
+      "rule_category": "Denial of property rights",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Protection of household property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§952] \"who devour widows' houses, and for a pretense make long prayers: these will receive greater condemnation.\""
+      ],
+      "reasoning": "The text highlights a social reality where the property of widows ('houses') was vulnerable to exploitation or seizure by influential men, specifically scribes, using religious pretense.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the specific demographic of women whose husbands have died and who hold property.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Widow's right of donation",
+      "rule_category": "Access to religious treasury",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Right to contribute to public religious funds",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§953] He looked up, and saw the rich people who were putting their gifts into the treasury. He saw a certain poor widow casting in two lepta."
+      ],
+      "reasoning": "The text demonstrates that a widow, despite her low economic and social status, had the legal and customary right to approach the temple treasury and make a financial contribution, just as the rich did.",
+      "specificity": 3,
+      "specificity_reasoning": "Widows were a distinct and recognized population group within Judean society with specific socioeconomic characteristics.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial persecution of followers",
+      "rule_category": "Restriction of legal protection",
+      "group": "Followers of Jesus",
+      "group_category": "Origin",
+      "resource": "Protection from arbitrary arrest and imprisonment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§965] But before all these things, they will lay their hands on you and will persecute you, delivering you up to synagogues and prisons, bringing you before kings and governors for my name's sake."
+      ],
+      "reasoning": "The text describes an impending societal shift where specific group members are subjected to summary arrest, religious trial (synagogues), and state imprisonment (kings and governors) based on their group identity.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a specific ideological/religious sub-group rather than the general population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Loss of family protection",
+      "rule_category": "Denial of family integrity",
+      "group": "Followers of Jesus",
+      "group_category": "Origin",
+      "resource": "Protection from familial betrayal and execution",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§969] You will be handed over even by parents, brothers, relatives, and friends. Some of you they will cause to be put to death."
+      ],
+      "reasoning": "The text indicates that certain group members will lose the customary legal and social protections typically afforded by kinship, leading to their delivery to state authorities for execution.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population defined by their allegiance to the teacher.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Temple access for instruction",
+      "rule_category": "Access to public religious space",
+      "group": "The people",
+      "group_category": "Citizenship",
+      "resource": "Right to enter the temple for instruction",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§991] All the people came early in the morning to him in the temple to hear him."
+      ],
+      "reasoning": "The text shows that the general public ('all the people') had the right to enter the temple precincts for the purpose of hearing public teaching, indicating high accessibility to central religious/political sites.",
+      "specificity": 1,
+      "specificity_reasoning": "This describes a right held by the general population (the Jewish public) at large in Jerusalem.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Religious council judicial authority",
+      "rule_category": "Access to judicial protection",
+      "group": "Chief priests and elders",
+      "group_category": "Occupation",
+      "resource": "Right to conduct judicial examinations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1058] As soon as it was day, the assembly of the elders of the people was gathered together, both chief priests and scribes, and they led him away into their council, saying, [§1059] 'If you are the Christ, tell us.'"
+      ],
+      "reasoning": "The text describes an established institutional body (the council of elders, priests, and scribes) with the recognized authority to seize individuals, bring them to a designated location, and conduct formal interrogations regarding religious and civil claims.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to a small elite class of religious and political leaders (priests and elders).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Accused self-incrimination admissibility",
+      "rule_category": "Legal procedure",
+      "group": "Defendants",
+      "group_category": "Occupation",
+      "resource": "Protection from self-incrimination",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§1063] They said, 'Why do we need any more witness? For we ourselves have heard from his own mouth!'"
+      ],
+      "reasoning": "The council explicitly concludes that the defendant's own statements are sufficient for judgment, removing the necessity for external witnesses, which indicates a lack of protection against self-incrimination in this legal context.",
+      "specificity": 5,
+      "specificity_reasoning": "While it describes a specific trial, it reflects the general procedural mindset of the contemporary judicial assembly regarding confession and witness requirements.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prisoner corporal abuse",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Prisoners",
+      "group_category": "Health",
+      "resource": "Protection from corporal punishment before conviction",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§1055] The men who held Jesus mocked him and beat him. [§1056] Having blindfolded him, they struck him on the face and asked him, 'Prophesy! Who is the one who struck you?'"
+      ],
+      "reasoning": "The text illustrates that those held in custody by authorities were subject to physical violence and mockery by their guards prior to a final sentencing, indicating a lack of legal protection for the bodily integrity of detainees.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual held in custody by the temple guards or council attendants.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Right to bear arms",
+      "rule_category": "Grant of military privilege",
+      "group": "Adult males",
+      "group_category": "Age",
+      "resource": "Right to own and carry swords",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§1028] Whoever has none, let him sell his cloak, and buy a sword. [...] [§1030] They said, 'Lord, behold, here are two swords.' He said to them, 'That is enough.'"
+      ],
+      "reasoning": "The instruction to sell a basic necessity (a cloak) to purchase a weapon, and the subsequent possession of swords without legal interference from the immediate crowd or masters, reflects a society where the purchase and possession of personal weapons were permitted.",
+      "specificity": 2,
+      "specificity_reasoning": "The rule regarding the ability to buy and carry a sword applies generally to the adult male population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Executive prisoner pardon",
+      "rule_category": "Access to judicial mercy",
+      "group": "Prisoners",
+      "group_category": "Freedom status",
+      "resource": "Right to seasonal release from imprisonment",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§1081] Now he had to release one prisoner to them at the feast."
+      ],
+      "reasoning": "The text identifies a customary legal obligation of the Roman governor to release a prisoner during a specific religious festival, providing a mechanism for gaining freedom from incarceration.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual currently in the subset of prisoners, which is a significant but specific population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Jurisdictional transfer of defendants",
+      "rule_category": "Legal procedure",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to trial within local jurisdiction",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1070] But when Pilate heard Galilee mentioned, he asked if the man was a Galilean. [§1071] When he found out that he was in Herod's jurisdiction, he sent him to Herod, who was also in Jerusalem during those days."
+      ],
+      "reasoning": "The text describes a procedural rule where the place of origin or residency (jurisdiction) determines which magistrate has the authority to preside over a case.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to anyone under legal accusation within a province with internal jurisdictional borders.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Capital crime evidence requirement",
+      "rule_category": "Legal protection",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Protection from execution without capital crime",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§1086] He said to them the third time, 'Why? What evil has this man done? I have found no capital crime in him. I will therefore chastise him and release him.'"
+      ],
+      "reasoning": "Pilate, acting as judge, explicitly states the requirement of a 'capital crime' (a legal basis) for the sentence of death, attempting to follow procedural protection for the accused.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to any person brought before a Roman magistrate for trial.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sabbath labor prohibition",
+      "rule_category": "Religious and economic restriction",
+      "group": "Jews",
+      "group_category": "Origin",
+      "resource": "Right to rest from labor",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§1120] They returned, and prepared spices and ointments. On the Sabbath they rested according to the commandment."
+      ],
+      "reasoning": "The mention of resting 'according to the commandment' describes a societal rule in 1st-century Judea that mandated the cessation of work on the seventh day.",
+      "specificity": 1,
+      "specificity_reasoning": "This applies broadly to the entire Jewish population within the province.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Council membership qualification",
+      "rule_category": "Access to political power",
+      "group": "Council members",
+      "group_category": "Occupation",
+      "resource": "Right to participate in ruling council",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1114] Behold, a man named Joseph, who was a member of the council, a good and righteous man [§1115] (he had not consented to their counsel and deed), from Arimathaea, a city of the Jews"
+      ],
+      "reasoning": "The text identifies the existence of a 'council' (the Sanhedrin) where specific members (drawn from lineage/wealth/merit) have the power to deliberate and decide on legal/religious matters.",
+      "specificity": 8,
+      "specificity_reasoning": "Membership in the council is restricted to a very small, elite group of men.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female witness credibility discount",
+      "rule_category": "Exclusion from legal standing",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to have testimony believed",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§1131] Now they were Mary Magdalene, Joanna, and Mary the mother of James. The other women with them told these things to the apostles. [§1132] These words seemed to them to be nonsense, and they didn't believe them."
+      ],
+      "reasoning": "In the cultural context of the first-century Mediterranean, women's testimony was often legally and socially dismissed as unreliable or 'nonsense'. The text depicts the male apostles immediately dismissing the women's report of the resurrection solely based on the identity of the messengers, requiring a male (Peter) to verify the facts before they are considered.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all women within this social and legal context, which is a large demographic category.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Male verification of evidence",
+      "rule_category": "Access to judicial protection",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Authority to validate testimony",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1132] These words seemed to them to be nonsense, and they didn't believe them. [§1133] But Peter got up and ran to the tomb. Stooping and looking in, he saw the strips of linen lying by themselves, and he departed to his home, wondering what had happened."
+      ],
+      "reasoning": "The narrative structure reinforces the rule that a man's physical observation or corroboration is the necessary standard for establishing the truth of a claim that was previously dismissed when coming from women. Peter's investigation serves as the formal validation step.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to men as a demographic category in terms of their social/legal standing as witnesses.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Racial/Ethnic religious inclusion",
+      "rule_category": "Grant of economic privilege",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Access to religious message and community",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§1168] and that repentance and remission of sins should be preached in his name to all the nations, beginning at Jerusalem."
+      ],
+      "reasoning": "This text explicitly removes a prior ethnic or national restriction (exclusivity to Israel) by mandating that the core ritual and social benefit of the group (remission of sins/preaching) be extended to 'all the nations'.",
+      "specificity": 1,
+      "specificity_reasoning": "The rule is as broad as possible, explicitly encompassing all ethnic and national groups (all nations).",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 20,
+  "_file_id": "tlg0031.tlg003.perseus-eng2",
+  "_input_tokens": 157386,
+  "_output_tokens": 22143,
+  "_model": "google/gemini-3-flash-preview"
+}

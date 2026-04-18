@@ -1,0 +1,235 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Speaker appointment notice",
+      "rule_category": "Regulation of public speech",
+      "group": "Public speakers",
+      "group_category": "Occupation",
+      "resource": "Time for speech preparation",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] I should have reproved those who gave me but a few days’ notice of having to speak over them. But as all mankind would find all time insufficient for preparing a speech to match their deeds, the city itself therefore, as I think, taking forethought for those who speak here, makes the appointment at short notice, in the belief that on such terms they will most readily obtain indulgence from their hearers."
+      ],
+      "reasoning": "The text describes a specific civic practice in Athens where the state deliberately provides very little time for citizens chosen to deliver funeral orations to prepare, functioning as a rule for public engagements.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically targets the individual selected by the city to perform the funeral oration, a very small number of people at any given time.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Deceased right to burial",
+      "rule_category": "Access to religious rites",
+      "group": "The dead",
+      "group_category": "Age",
+      "resource": "Right to customary burial",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] but thinking it right that those who had died in the war should receive the customary treatment, they risked combat with one of the parties in the interest of both, that on the one side they should cease from grossly outraging the gods by their trespass against the dead, and that on the other they should not hasten away to their own land frustrated of an ancestral honor, cut off from Hellenic custom, and disappointed in a common hope."
+      ],
+      "reasoning": "The author asserts that 'Hellenic custom' and 'ancestral honor' require that even fallen enemies or outsiders are entitled to burial, and that denying this is a legal/religious 'trespass' that the state (Athens) is willing to enforce through war.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all individuals who die, asserting a universal cultural and religious right within the Greek world.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Suppliant protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Origin",
+      "resource": "Protection from extradition and bodily peril",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] And when Eurystheus demanded them, the Athenians refused to give them up, but revered the virtue of Heracles more than they feared their own danger, and preferred to do battle for the weaker on the side of right, rather than favor the powerful by giving up to them the men whom they had wronged.",
+        "[§15] its own sole force against the host assembled from the whole Peloponnese, they conquered them in battle, rescued the sons of Heracles from bodily peril, liberating also their souls by ridding them of fear"
+      ],
+      "reasoning": "The text frames the protection of suppliants (even non-citizens) as a matter of 'justice' and 'right' that the city-state is legally and morally bound to uphold against external demands for their surrender.",
+      "specificity": 5,
+      "specificity_reasoning": "Suppliants are a specific legal category of persons seeking asylum, which is a common but specific occurrence in ancient Greek law.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Democratic equal liberty",
+      "rule_category": "Grant of citizenship rights",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to participate in democracy",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] They were the first and the only people in that time to drive out the ruling classes of their state and to establish a democracy, believing the liberty of all to be the strongest bond of agreement; by sharing with each other the hopes born of their perils they had freedom of soul in their civic life"
+      ],
+      "reasoning": "The text explicitly mentions the removal of 'ruling classes' to establish a system where 'all' (members of the citizen body) share in liberty and political life, moving from oligarchy to shared power.",
+      "specificity": 2,
+      "specificity_reasoning": "This concerns the entire collective of the Athenian citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Submission to law",
+      "rule_category": "Obligation of public duty",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Legal resolution of disputes",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§19] but the duty of men to delimit justice by law, to convince by reason, and to serve these two in act by submitting to the sovereignty of law and the instruction of reason."
+      ],
+      "reasoning": "Lysias defines the 'duty of men' (specifically in the context of the Athenian state) as using law and reason to resolve conflicts rather than force, establishing the sovereignty of law over the individual.",
+      "specificity": 1,
+      "specificity_reasoning": "This is described as a universal duty for all men within the civilized society of the city-state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military age exemption",
+      "rule_category": "Age-based military exclusion",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Exemption from active military service",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] But the Athenians, though their men were away and the enemy close at hand, would not deign to summon anyone. Trusting in their own spirit, and despising the invaders, the elderly and those below the age of service thought fit to take the risk upon themselves alone"
+      ],
+      "reasoning": "The text identifies the 'elderly' as a group normally outside the 'age of service' (men of serviceable age being absent elsewhere). This indicates a formal societal rule where men of a certain advanced age are no longer required to serve in the active field army.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all male citizens who reach a specific age threshold, a significant but defined portion of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Youth military exclusion",
+      "rule_category": "Age-based military exclusion",
+      "group": "Minors",
+      "group_category": "Age",
+      "resource": "Exemption from active military service",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] Trusting in their own spirit, and despising the invaders, the elderly and those below the age of service thought fit to take the risk upon themselves alone; [...] [§53] One part of them had ceased, and the other had not begun, to be able-bodied; but together they took strength from their spirit, and thus with fairest renown they returned to their own land, where the young resumed their education"
+      ],
+      "reasoning": "The mention of those 'below the age of service' who 'had not begun' to be able-bodied and who 'resumed their education' after the fight indicates that youths are legally or customarily excluded from military obligations until they reach a specific age/status.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all male youths in the pre-service age bracket.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Foreigner honorary citizenship",
+      "rule_category": "Grant of civic status",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to public funeral and perpetual honors",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§66] But it is right that we should also praise the strangers who lie here: they came to the support of the people, and fought for our salvation [...] In return the city has not only mourned them but given them a public funeral, and has granted them in perpetuity the same honors as it gives to its own people."
+      ],
+      "reasoning": "The text describes a specific legal act where the city grants 'strangers' (foreigners) who died in its service the same concrete death-rights and honors as citizens, showing that these resources are usually reserved for citizens but can be extended to foreigners via decree.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to those foreign mercenaries or allies who died in a particular military context, a small subset of people.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Democratic political participation",
+      "rule_category": "Access to political rights",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to live on an equality",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§56] [...] not suffering the many to be slaves of the few, but compelling all to live on an equality; instead of weakening their allies, they secured their strength along with their own"
+      ],
+      "reasoning": "Lysias describes the Athenian imperial policy as enforcing 'equality' (isonomia) among the many rather than subjection to the few (oligarchy). This represents a concrete rule of political organization granted to the citizen bodies of allied cities.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general principle of political organization for entire city populations.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "State-sponsored orphan support",
+      "rule_category": "Grant of economic privilege",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Public nurture and protection",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§70] They have closed their lives with a death that befits true men, for thus they repaid their native land for their nurture and bequeathed sorrow to those who reared them."
+      ],
+      "reasoning": "In the context of an Athenian funeral oration, the mention of repaying the land for 'nurture' refers to the concrete legal practice of the state providing for the education and upbringing of the orphans of men killed in war.",
+      "specificity": 5,
+      "specificity_reasoning": "This is restricted to a specific sub-group of children: the orphans of fallen soldiers.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Public funeral entitlement",
+      "rule_category": "State funerary honors",
+      "group": "War dead",
+      "group_category": "Occupation",
+      "resource": "Right to public burial and games",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§80] Thus you see them given a public funeral, and contests of strength and knowledge and wealth held at their tomb; because we think that those who have fallen in war are worthy of receiving the same honors as the immortals.",
+        "[§81] Nevertheless, we must needs follow our ancient customs, and observe our ancestral law by bewailing those who are now being buried."
+      ],
+      "reasoning": "Athenian law and custom (patrios nomos) mandated that citizens who died in battle receive a state-funded funeral and burial in a public monument, along with funerary games (contests), distinguishing them from those who died of natural causes.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific sub-set of citizens (those killed in military service) rather than the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "War orphan support",
+      "rule_category": "Access to state protection",
+      "group": "Children of fallen soldiers",
+      "group_category": "Age",
+      "resource": "Right to state-sanctioned paternal care",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§75] We have but one way, as it seems to me, of showing our gratitude to those who lie here: it is to hold their parents in the same high regard as they did, to be as affectionate to their children as though we were ourselves their fathers, and to give such support to their wives as they did while they lived."
+      ],
+      "reasoning": "The text describes the social and legal obligation of the city to act in loco parentis for the children of soldiers who died for the state, ensuring they receive the care and support their fathers would have provided.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a very specific demographic: the children of a specific group of deceased military men.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "War widow support",
+      "rule_category": "Access to economic maintenance",
+      "group": "Widows of fallen soldiers",
+      "group_category": "Gender",
+      "resource": "Right to communal material support",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§75] We have but one way, as it seems to me, of showing our gratitude to those who lie here: ... and to give such support to their wives as they did while they lived."
+      ],
+      "reasoning": "Lysias articulates a societal rule where the widows of those who fell in war are entitled to continued material and social support from the community to replace the support of their late husbands.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to women whose husbands died in the service of the polis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Aged parent maintenance",
+      "rule_category": "Elderly social security",
+      "group": "Parents of fallen soldiers",
+      "group_category": "Age",
+      "resource": "Right to social and material regard",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§75] We have but one way, as it seems to me, of showing our gratitude to those who lie here: it is to hold their parents in the same high regard as they did..."
+      ],
+      "reasoning": "In a society where children were the primary source of elder care, the loss of a son in war created a vacuum of support. The text asserts the city's duty to provide the 'high regard' (status and support) these parents have lost.",
+      "specificity": 6,
+      "specificity_reasoning": "This concerns the elderly parents of a specific group of soldiers.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0540.tlg002.perseus-eng2",
+  "_input_tokens": 20654,
+  "_output_tokens": 3663,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,346 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Panhellenic game eligibility",
+      "rule_category": "Access to athletic competition",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to compete in sacred games",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] Just as the Homeridae, the singers of woven verses, most often begin with Zeus as their prelude, so this man has received a first down-payment of victory in the sacred games by winning in the grove of Nemean Zeus, which is celebrated in many hymns."
+      ],
+      "reasoning": "The text celebrates the victory of Timodemus of Acharnae (a deme of Athens) in the Nemean games, presupposing that citizens of recognized Greek states have the legal and customary right to enter these competitions and receive the resulting material and social rewards.",
+      "specificity": 4,
+      "specificity_reasoning": "While any citizen could technically compete, the resource is limited to those with the wealth and training to reach the Panhellenic level, but it remains a broad category of the free-born population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Stranger hospitality right",
+      "rule_category": "Access to social resources",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to hospitality and meals",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] I have arrived singing of fine deeds at the courtyard gates of a man who loves guests, where a beautifully arranged meal has been prepared for me, and the halls are often familiar with strangers from other lands."
+      ],
+      "reasoning": "Pindar describes the 'xenia' (guest-friendship) practiced by Chromius, where foreigners ('strangers from other lands') are systematically granted access to shelter and meals, a core customary rule of Greek society.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any traveler or foreigner of appropriate social standing moving between city-states.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Age-graded competition",
+      "rule_category": "Age-based athletic access",
+      "group": "Boys",
+      "group_category": "Age",
+      "resource": "Right to compete in age-specific categories",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] By trial the accomplishment is made manifest, of that in which a man proves himself preeminent, as a boy among young boys, a man among men, or, thirdly, among elders, according to each stage which we,the race of men, possess."
+      ],
+      "reasoning": "The text explicitly mentions the division of competitive trials into age-based categories (boys, men, elders), meaning that the society provides specific arenas where younger individuals are protected from competing against adults.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule organizes the entire male population into life stages for the purpose of civic and athletic participation.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Noble praise obligation",
+      "rule_category": "Access to social recognition",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Right to public praise and poetic record",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] I bid you to summon the Muse in honor of Aeacus and his race; consummate justice attends the precept, “praise the noble.”"
+      ],
+      "reasoning": "Pindar identifies a societal 'precept' or rule of 'justice' that dictates the noble (those of high lineage like the Aeacids) are entitled to public praise and poetic preservation of their deeds.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those of elite lineage or high achievement within the aristocratic class.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Military mobilization",
+      "rule_category": "Military service obligation",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to bear arms and defend city",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] And swiftly the chiefs of the Cadmeans rushed in together in their bronze armor, and Amphitryon came brandishing a sword bared from its scabbard, stricken with sharp distress."
+      ],
+      "reasoning": "The description of the Cadmean chiefs rushing in armor to defend the household reflects the societal expectation and right of the male citizen/noble class to possess arms and respond to internal threats.",
+      "specificity": 3,
+      "specificity_reasoning": "This reflects the standard role of the warrior class/citizens in Greek poleis.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Stranger judicial defense",
+      "rule_category": "Access to judicial protection",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Protection by justice",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] And may it be welcomed by the home of the Aeacids, with its fine towers, that light which shines for all, with justice that defends the stranger."
+      ],
+      "reasoning": "Pindar identifies a specific customary or legal norm in Aegina (the home of the Aeacids) where 'justice' is explicitly described as defending the 'stranger' (xenos), implying a protected legal status for non-citizens.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the broad category of all non-citizens or travelers entering the territory.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Boy athletic age-limits",
+      "rule_category": "Age-based competition restriction",
+      "group": "Boys",
+      "group_category": "Age",
+      "resource": "Right to compete in youth-specific games",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] Pytheas won the victory garland for the pancratium at the Nemean games, a boy whose cheeks do not yet show the tender season that is mother to the dark blossom."
+      ],
+      "reasoning": "The text specifies that the victory was won in a category defined by biological age (pre-pubescence/lack of facial hair), indicating a formal stratification of access to athletic resources and rewards based on age classes.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule is specific to a particular life stage (youth) and a specific venue (the Nemean games).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Trainer origin preference",
+      "rule_category": "Professional status",
+      "group": "Athenians",
+      "group_category": "Origin",
+      "resource": "Access to employment as athletic trainers",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] It is fitting that a trainer of athletes should come from Athens."
+      ],
+      "reasoning": "The author states a societal norm or expectation that the role of an athletic trainer (pedotribe) is appropriately filled by individuals from Athens, suggesting a customary professional advantage for this group.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific profession (trainers) and a specific origin (Athenians).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Olympic lot-based exclusion",
+      "rule_category": "Procedural exclusion",
+      "group": "Athletes",
+      "group_category": "Occupation",
+      "resource": "Right to compete for victory",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] Beside the sacred precinct of the son of Cronus, child, you and Polytimidas were deprived of two Olympic garlands by a sudden drawing of lots."
+      ],
+      "reasoning": "The text describes a specific procedural rule at the Olympic games where the 'drawing of lots' can result in the loss of opportunity to compete for a prize, regardless of merit.",
+      "specificity": 6,
+      "specificity_reasoning": "This is a very specific procedural rule occurring only at the Olympic games for competing athletes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ancestral pursuit of games",
+      "rule_category": "Lineage privilege",
+      "group": "Nobility",
+      "group_category": "Lineage",
+      "resource": "Right to participate in panhellenic games",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] Even now Alcimidas gives visible proof that his hereditary qualities are like the fruitful fields... pursuing this ordinance of Zeus, has shown that he is a successful hunter in the wrestling ring, by planting his step in the tracks of his grandfather."
+      ],
+      "reasoning": "The text links the ability to compete and win in high-level athletic contests to 'hereditary qualities' and family lineage, reflecting a society where access to the training and leisure required for these resources is restricted by birth.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to elite families, it defines the participation of an entire class in the games.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Athlete reward in song",
+      "rule_category": "Access to social memory",
+      "group": "Victorious athletes",
+      "group_category": "Occupation",
+      "resource": "Right to public celebration and historical remembrance",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] For those great acts of prowess dwell in deep darkness, if they lack songs, and we know of only one way to hold a mirror up to fine deeds: if, by the grace of Mnemosyne with her splendid headdress, one finds a recompense for toils in glorious song."
+      ],
+      "reasoning": "The text establishes that for the category of successful athletes, the society provides a specific material/civic resource—commemoration through song—without which their 'toils' and 'prowess' would be lost to 'darkness.' This functions as a formal recompense for their labor.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the elite—those who compete in and win panhellenic or local games.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Inherited heroic priesthood",
+      "rule_category": "Access to religious office",
+      "group": "Descendants of Aeacus",
+      "group_category": "Lineage",
+      "resource": "Right to preside over sacred processions and sacrifices",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] It was destined that within that most ancient grove one of the ruling race of Aeacus should, for all time to come, stay beside the fine-walled house of the god, and dwell there to preside over the processions of heroes, which are honored by many sacrifices."
+      ],
+      "reasoning": "The text describes a permanent legal and religious entitlement granted to a specific lineage (the Aeacidae) to hold a position of authority and oversight over public religious rites in Delphi/Aegina.",
+      "specificity": 8,
+      "specificity_reasoning": "The rule is restricted to a very specific noble lineage.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Javelin disqualification",
+      "rule_category": "Athletic regulation",
+      "group": "Athletic contestants",
+      "group_category": "Occupation",
+      "resource": "Right to continue competing in the wrestling match",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] Sogenes, of the Euxenid clan, I swear that I did not overstep the line when I hurled, like a bronze-cheeked javelin, my swift tongue—a throw that disqualifies a man’s strong neck from the sweat of the wrestling-match, before his limbs fall under the burning sun."
+      ],
+      "reasoning": "Pindar refers to a specific technical rule in the pentathlon: a foul throw or 'overstepping the line' in the javelin event leads to immediate loss of the right to compete in the subsequent wrestling event.",
+      "specificity": 7,
+      "specificity_reasoning": "This is a technical rule affecting individuals in a specific competitive context.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Noble vulnerability to envy",
+      "rule_category": "Legal and social protection",
+      "group": "The noble",
+      "group_category": "Lineage",
+      "resource": "Protection from malicious prosecution and slander",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] Words are a dainty morsel for the envious; and envy always clings to the noble, and has no quarrel with worse men."
+      ],
+      "reasoning": "Pindar notes a systematic social asymmetry: individuals of high lineage/status are targeted by 'envy' (often manifesting as legal/social 'misrepresentation') while lower-status men are ignored by these same destructive social mechanisms.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes a general social condition affecting the entire upper class of the society.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Citizen right to praise",
+      "rule_category": "Political speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to public praise and recognition of excellence",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] I pray to find favor with my fellow-citizens until my limbs are buried in the earth, by praising what is praiseworthy and casting blame on wrongdoers."
+      ],
+      "reasoning": "The text identifies a civic mechanism where local citizens have the right to be evaluated for their public conduct, receiving 'praise' or 'blame' as a concrete reflection of their status and actions within the community.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all citizens within the Greek polis structure described.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Succession of power",
+      "rule_category": "Political succession",
+      "group": "The stronger",
+      "group_category": "Wealth",
+      "resource": "Right to rule and displace existing justice",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] For once Adrastus fled from bold-thinking Amphiaraus and terrible civil strife... and the sons of Talaus were no longer rulers, overpowered by sedition. A stronger man puts an end to the previous justice."
+      ],
+      "reasoning": "Pindar describes the historical/political reality in Argos/Sicyon where political authority and the legal order ('justice') are subject to displacement by those with superior force or resources during 'sedition.'",
+      "specificity": 6,
+      "specificity_reasoning": "This refers to those contending for high political office/kingship.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Panhellenic athletic eligibility",
+      "rule_category": "Access to international competition",
+      "group": "Male citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to compete in Panhellenic games",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] And he once was victor over the people of Greece at Pytho ; and, going with good fortune, he won the crown at the Isthmus and at Nemea, and he gave the Muses a field to plough, since he won three times at the gates of the sea, and three times on the sacred ground, according to the ordinance of Adrastus."
+      ],
+      "reasoning": "The text details the 'ordinance' and established circuit of games (Pythian, Isthmian, Nemean) which organized Greek men into a competitive hierarchy, granting winners public 'crowns' and 'forgetfulness of toils'.",
+      "specificity": 4,
+      "specificity_reasoning": "While any free Greek male could theoretically compete, the high level of training and travel required limited this to a subset of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Victors' material rewards",
+      "rule_category": "Grant of economic privilege",
+      "group": "Athletic victors",
+      "group_category": "Occupation",
+      "resource": "Right to receive material prizes (oil, silver, wool)",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] Still, the sweet voices of the Athenians at their festival twice sang victory-songs as a prelude for Theaeus, and in earth baked by fire olive oil came to the fine men of Hera’s city in jars with richly painted sides.",
+        "[§10] And from Sicyon they returned with silver wine-goblets, and from Pellana with soft wool cloaks around their shoulders."
+      ],
+      "reasoning": "The text documents specific material resources (Panathenaic oil, silver goblets, wool cloaks) granted by various city-states to victors in their local games, showing a systematic economic reward for successful athletic performance.",
+      "specificity": 8,
+      "specificity_reasoning": "These rewards are strictly limited to the winners of specific competitive events.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prytaneion religious hospitality",
+      "rule_category": "Access to political ritual",
+      "group": "Council members",
+      "group_category": "Occupation",
+      "resource": "Right to ritual libations and feasting in the town hall",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] Daughter of Rhea, you who have received the town hall under your protection, Hestia... welcome Aristagoras to your dwelling, and welcome to a place near your splendid scepter his companions, who, in honoring you, guard Tenedos and keep her on a straight course; often they worship you, first of the gods, with libations, and often with the savor of burnt sacrifice."
+      ],
+      "reasoning": "The text identifies the President and his companions (the Council) as having the specific right and duty to maintain the hearth of Hestia in the 'town hall' (Prytaneion) involving communal feasting and libations, a privilege tied to their office.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies only to the small number of men holding specific civic offices (Aristagoras and his companions) for a twelve-month term.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Civic praise entitlement",
+      "rule_category": "Acquisition of public recognition",
+      "group": "Successful citizens",
+      "group_category": "Wealth",
+      "resource": "Right to be praised in public songs",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] Yet it is right for him to be praised in the good words of his fellow-citizens, and for us to adorn him with the honeyed sound of songs."
+      ],
+      "reasoning": "Pindar explicitly states that a man who has prosperity and athletic success has a right or claim ('it is right') to be celebrated by the 'good words of his fellow-citizens,' establishing choral praise as a concrete social entitlement for the elite.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any citizen who achieves a high level of wealth/success and beauty.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Parental restraint of minors",
+      "rule_category": "Age-based restriction",
+      "group": "Minors",
+      "group_category": "Age",
+      "resource": "Right to travel and compete independently",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] But the too hesitant hopes of his parents restrained the boy’s strength from attempting the contests at Pytho and Olympia."
+      ],
+      "reasoning": "The text notes that Aristagoras, as a 'boy', was prevented from competing in the highest tier of games by his parents' caution, illustrating the legal or customary power of parents to restrict the movements and careers of their children.",
+      "specificity": 3,
+      "specificity_reasoning": "This reflects the general status of children/minors in Greek families.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0033.tlg003.perseus-eng2",
+  "_input_tokens": 28219,
+  "_output_tokens": 5115,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,279 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen protection from arbitrary punishment",
+      "group": "Citizens",
+      "resource": "Right to a fair trial",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§4] Now the legislator responsible for this deserves censure; for the law which he framed violates the oath of the People and Council. Under the terms of that oath you swear to exile no one, to imprison no one, to put no one to death, without trial."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions a standing oath taken by the People and Council which serves as a rule protecting citizens from being exiled, imprisoned, or executed without a trial.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Ostracism summary exile",
+      "group": "Citizens",
+      "resource": "Right to a legal defense",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§4] whereas on this present occasion, when the person ostracized is to be cut off from his country for so long, no accusation has been made, no defence allowed, and the voting is secret."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes the specific legal mechanism of ostracism where a citizen can be banished for ten years without a formal accusation or the opportunity to provide a defense.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Universal suffrage in ostracism",
+      "group": "Citizens",
+      "resource": "Right to vote on ostracism",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§5] because the judges are not appointed by lot as in courts of law: in the present decision every member of the community has a voice."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies that in cases of ostracism, the resource of political voice/voting is extended to the entire community (the citizen body) rather than a small group of jurors selected by lot.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Double jeopardy prohibition",
+      "group": "Citizens",
+      "resource": "Protection from repeated prosecution",
+      "directionality": "MORE",
+      "verbatim": "[§9] ...especially as the laws forbid the same charge to be brought twice against the same defendant, and you have sworn to observe those laws.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites a specific legal prohibition against 'double jeopardy' as a standing rule of the Athenian justice system applying to defendants.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Wife's right to divorce",
+      "group": "Women",
+      "resource": "Right to initiate divorce",
+      "directionality": "MORE",
+      "verbatim": "[§9] ...he behaved in so profligate a fashion, bringing mistresses, slave and free, into the bridal house, that he drove his wife, who was a decent woman, to present herself before the Archon, as she was legally entitled to do, and divorce him.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that a wife is legally entitled to present herself before a magistrate (the Archon) to seek a divorce based on the husband's misconduct.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Prohibition of arbitrary imprisonment",
+      "group": "Free men",
+      "resource": "Protection from extrajudicial detention",
+      "directionality": "MORE",
+      "verbatim": "[§9] In our treaties with other states we make it a condition that no free man shall be imprisoned or placed in durance, and a heavy fine is prescribed as the penalty for so doing.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a formal legal and diplomatic rule protecting free status individuals from imprisonment, backed by financial penalties.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Choral participation birth requirement",
+      "group": "Metics / Foreigners",
+      "resource": "Right to participate in competing choruses",
+      "directionality": "LESS",
+      "verbatim": "[§9] The law allows the ejection of any member whatsoever of a competing chorus who is not of Athenian birth, and it is forbidden to resist any attempt at such ejection.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law defines choral competition as a resource reserved for those of Athenian birth, explicitly allowing the removal of non-citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Liturgical spending for influence",
+      "group": "Wealthy citizens",
+      "resource": "Influence over judicial outcomes",
+      "directionality": "MORE",
+      "verbatim": "[§9] And it seems to me only natural that the judges should thus seek favour with Alcibiades, when they could see that Taureas, who had spent so vast a sum, was being subjected to insults, while his rival, who showed such contempt for the law, was all-powerful.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text describes a social norm/convention where wealthy individuals who spend large sums on public services (liturgies) expect and often receive professional favor or legal leeway from judges.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Public entertainment for victors",
+      "group": "Nobility",
+      "resource": "Access to the Prytaneum",
+      "directionality": "MORE",
+      "verbatim": "[§9] ...after behaving as I have described, he was rewarded with free entertainment in the Prytaneum; and not content with that, he is for ever taking credit for his victory.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text notes that victors in major games (typically elite/noble citizens) are granted the resource of free public maintenance/entertainment in the city's central hall.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Ostracism for the overly powerful",
+      "group": "Wealthy citizens",
+      "resource": "Protection from state-mandated exile",
+      "directionality": "LESS",
+      "verbatim": "[§9] Observing that whenever members of the community are more powerful than the magistrates and the laws, it is impossible for an individual to obtain redress from them, he arranged that punishment for their misdeeds should be exacted by the state [through ostracism].",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The institution of ostracism is described as a rule specifically targeting citizens who accumulate too much power, resulting in a loss of their right to remain in the city.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Double jeopardy protection for defendants",
+      "group": "Citizens",
+      "resource": "Protection from double jeopardy",
+      "directionality": "MORE",
+      "verbatim": "[§11] [9] ...especially as the laws forbid the same charge to be brought twice against the same defendant, and you have sworn to observe those laws.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites a specific legal prohibition against trying a defendant twice for the same offense, which is a protection afforded to those within the Athenian legal system.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Wife's legal right to divorce",
+      "group": "Women",
+      "resource": "Right to divorce",
+      "directionality": "MORE",
+      "verbatim": "[§16] [14] ...he behaved in so profligate a fashion... that he drove his wife, who was a decent woman, to present herself before the Archon, as she was legally entitled to do, and divorce him.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that a wife is legally entitled to present herself before the Archon to initiate divorce proceedings.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Protection from arbitrary imprisonment",
+      "group": "Free men",
+      "resource": "Protection from imprisonment",
+      "directionality": "MORE",
+      "verbatim": "[§20] [18] In our treaties with other states we make it a condition that no free man shall be imprisoned or placed in durance, and a heavy fine is prescribed as the penalty for so doing.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a legal norm found in treaties and domestic logic where free status grants a specific protection against being put in chains or durance, unlike slaves.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen exclusivity in competing choruses",
+      "group": "Metics / Foreigners",
+      "resource": "Right to participate in competing choruses",
+      "directionality": "LESS",
+      "verbatim": "[§22] [20] The law allows the ejection of any member whatsoever of a competing chorus who is not of Athenian birth, and it is forbidden to resist any attempt at such ejection.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage identifies a law that restricts participation in certain civic-religious competitions (the chorus of boys) to those of Athenian birth, excluding non-citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth exclusion from gymnasia",
+      "group": "young people",
+      "resource": "Access to the gymnasium",
+      "directionality": "LESS",
+      "verbatim": "[§24] [22] That is why the young spend their days in the courts instead of in the gymnasia; that is why our old men fight our battles, while our young men make speeches",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author laments that the current societal climate under Alcibiades' influence has led the youth to abandon their traditional resource (the gymnasium) for the law courts.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Military service exemption for youth",
+      "group": "young people",
+      "resource": "Exemption from active combat",
+      "directionality": "MORE",
+      "verbatim": "[§24] [22] ...that is why our old men fight our battles, while our young men make speeches— they take Alcibiades as their model",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The passage suggests a breakdown in the traditional rule where young men are the primary combatants, noting that currently, old men are fighting while young men stay in the city.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Enslavement of war prisoners",
+      "group": "Metics / Foreigners",
+      "resource": "Protection from enslavement",
+      "directionality": "LESS",
+      "verbatim": "[§24] [22] ...after recommending that the people of Melos be sold into slavery, he purchased a woman from among the prisoners and has since had a son by her",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the historical fact of the Melians being sold into slavery following their defeat, indicating that foreigners conquered in war lose their protection from enslavement.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "State-funded entertainment for victors",
+      "group": "Citizens",
+      "resource": "Access to free entertainment in the Prytaneum",
+      "directionality": "MORE",
+      "verbatim": "[§33] Alcibiades... after behaving as I have described, he was rewarded with free entertainment in the Prytaneum; and not content with that, he is for ever taking credit for his victory, as though he had not so much brought Athens into disgrace as won her a garland of honour.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms that high-achieving citizens (Olympic victors or those credited with public success) are granted the material resource of state-funded meals/entertainment in the Prytaneum.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen protection via ostracism",
+      "group": "Citizens",
+      "resource": "Protection from over-powerful individuals",
+      "directionality": "MORE",
+      "verbatim": "[§37] Observing that whenever members of the community are more powerful than the magistrates and the laws, it is impossible for an individual to obtain redress from them, he arranged that punishment for their misdeeds should be exacted by the state.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The institution of ostracism is described as a rule allowing the state to remove individuals who exceed the power of the laws, providing the general citizenry with a resource of protection and redress.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy citizen liturgy obligations",
+      "group": "Wealthy citizens",
+      "resource": "Right to fund public services from personal wealth",
+      "directionality": "MORE",
+      "verbatim": "[§44] Of my public services I do not intend to speak. I will say only this: the expenditure required of me I meet, not from monies belonging to the state, but from my own pocket. And yet I have in fact gained victories in the contest of physique, in the torch-race, and at the tragic competitions.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the social and legal expectation that wealthy citizens (like the speaker) provide for the state's festivals and competitions (liturgies) using their private funds.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Protection from double jeopardy",
+      "group": "Citizens",
+      "resource": "Protection from re-trial after acquittal",
+      "directionality": "MORE",
+      "verbatim": "[§38] Yet I hardly deserve to be ostracized, gentlemen, if I do not deserve to be put to death; and if I was acquitted when brought to trial, I cannot deserve to be sent into exile when no trial has taken place; nor after vindicating myself so many times in court can I be thought to merit banishment on the same grounds of accusation again.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker invokes a legal norm/rule where a citizen who has been acquitted in court should not face the same accusations via exile (ostracism), representing a right to finality in legal proceedings.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth access to gymnasia",
+      "group": "Young people",
+      "resource": "Access to the gymnasium",
+      "directionality": "LESS",
+      "verbatim": "[§41] That of the young, upon whom he has brought the disfavour of the people by his insolence, by his emptying of the gymnasia, and by behaviour which his years do not warrant?",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage identifies the young as a specific group that has lost access to their traditional resource (the gymnasium) due to the influence/actions of Alcibiades.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0027.tlg004.perseus-eng2",
+  "_input_tokens": 22854,
+  "_output_tokens": 3937,
+  "_model": "google/gemini-3-flash-preview"
+}

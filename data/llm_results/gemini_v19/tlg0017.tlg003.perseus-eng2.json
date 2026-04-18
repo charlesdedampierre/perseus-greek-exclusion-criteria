@@ -1,0 +1,249 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Lineage",
+      "rule": "Illegitimate child inheritance restriction",
+      "group": "Illegitimate children",
+      "resource": "Right to inherit property",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§13] [12] You, too, when you have heard the actual depositions, will understand that the defendant has obviously borne false witness, and that those who judged the case gave a proper and a legal sentence when they decided that the estate could not pass to a woman of irregular birth."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a court ruling that has already taken place, confirming that children of 'irregular birth' (illegitimate) are legally barred from inheriting an estate.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Married women's exclusion from banquets",
+      "group": "Women",
+      "resource": "Right to feast with strangers",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§15] [14] Yet no one, I presume, would dare to serenade a married woman, nor do married women accompany their husbands to banquets or think of feasting in the company of strangers, especially mere chance comers."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites social norms and conventions as proof of marital status, indicating that respectable married women were socially restricted from participating in public banquets or feasting with strangers.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Daughter's right to paternal inheritance",
+      "group": "Legitimate daughters",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§4] [3] When our mother, the sister of Pyrrhus, claimed the estate, the legal representative of the woman who was suing for the estate had the audacity to put in a protestation that the estate was not adjudicable to our mother, because Pyrrhus, to whom it originally belonged, had a legitimate daughter."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The legal protestation (diamartyria) relies on the rule that the existence of a legitimate daughter excludes other relatives (like a sister) from the inheritance.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female legal representation requirement",
+      "group": "Women",
+      "resource": "Right to represent oneself in court",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§3] [2] Phile, ignoring the existence of the last tenant, came forward, claiming to be the legitimate daughter of our uncle, and Xenocles of Coprus, as her legal representative, demanded to be given possession of the estate of Pyrrhus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text shows that women could not claim estates or perform legal acts in their own name, but required a 'kyrios' (legal representative) to act on their behalf.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Legitimate son's right of inheritance",
+      "group": "Adopted sons",
+      "resource": "Right to inherit property",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§2] [1] Judges, my mother's brother, Pyrrhus, having no legitimate issue, adopted my brother Endius as his son. The latter inherited his estate and survived him by more than twenty years."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms that an adopted son (functioning as a legitimate son) has the legal right to inherit and possess an estate.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Dowry recovery upon husband's death",
+      "group": "Women",
+      "resource": "Right to recover dowry",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§9] [8] And from whom did the defendant recover his sister's dowry after the death of him to whom he has deposed that he gave her in marriage? Or, if he did not recover it, what action did he think fit to institute to obtain her maintenance or the restitution of her dowry against the man who was for twenty years the tenant of the estate?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker's rhetorical questions prove that it was a standard legal right for a woman's family to recover her dowry or claim maintenance from the estate after the husband died.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Dowry return upon marriage dissolution",
+      "group": "Women",
+      "resource": "Right to retain dowry",
+      "directionality": "LESS",
+      "verbatim": "[§36] For seeing that, if a man gives with a woman a sum not duly assessed in a contract, and if the wife leaves her husband or the hushand puts away his wife, the man who gave the money cannot, as far as the law is concerned, demand back what he gave but did not assess in a contract",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a legal rule where a woman (or her representative) loses the right to reclaim dowry assets if they were not formally assessed in a written contract prior to the end of the marriage.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Wife dismissal by husband",
+      "group": "Women",
+      "resource": "Protection from arbitrary dismissal",
+      "directionality": "LESS",
+      "verbatim": "[§37] For what was likely to be the good to him of the marriage, if the husband could dismiss the wife whenever he wished? And this he certainly could do, if he had made no stipulation that he should receive a dowry with her.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes that without the structural protection of a dowry contract, a husband has the legal power to dismiss his wife at will.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Legitimate daughter inheritance restrictions",
+      "group": "Women",
+      "resource": "Right to devise property",
+      "directionality": "LESS",
+      "verbatim": "[§43] ...for no one has the right to devise or dispose of any of his property without also disposing of any legitimate daughters whom he may have left at his decease.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law restricts a father's testamentary freedom; he cannot separate his property from his daughters (the epikleros system). The daughter is treated as a conduit for the estate rather than an independent owner.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Public defense of heiresses",
+      "group": "Women",
+      "resource": "Access to legal protection",
+      "directionality": "MORE",
+      "verbatim": "[§47] And did you fail to bring a denunciation in the archon's court for injury to the heiress thus maltreated by the adopted son and despoiled of her paternal inheritance, especially as this is the only class of public actions which involves no risk to the party who brings it, and anyone who wishes is allowed to defend the rights of heiresses?",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Athenian law provides a special 'risk-free' legal mechanism (eisangelia to the Archon) for any citizen to defend the interests of an orphaned heiress (epikleros).",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Grandchildren's right of succession",
+      "group": "Male heirs",
+      "resource": "Right to succeed to grandfather's estate",
+      "directionality": "MORE",
+      "verbatim": "[§51] ...for he knew perfectly well that the children of a legitimate daughter have a right to succeed to the whole of their grandfather's estate.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law ensures that the sons of a legitimate daughter eventually inherit the full estate of their maternal grandfather, bypassing the temporary holder.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Direct patrimony possession",
+      "group": "Male heirs",
+      "resource": "Exemption from inheritance adjudication",
+      "directionality": "MORE",
+      "verbatim": "[§60] ...if he has left legitimate children born of his body, no child need claim to have his patrimony adjudicated to him. It is quite unnecessary to labor this point, for all of you, and all other citizens as well, possess your patrimonies without any adjudication by the courts.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Legitimate biological sons have the right to enter into their father's estate immediately upon death without seeking a court's permission, unlike adopted sons.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Mandatory adjudication for adopted sons",
+      "group": "Male heirs",
+      "resource": "Right to immediate possession of estate",
+      "directionality": "LESS",
+      "verbatim": "[§61] ...when testators adopt children by will, such children must obtain an adjudication of what is bequeathed to them. ... [§62] In order, therefore, that suits for such estates may not be brought by any chance claimant ... adopted sons apply to the court for an adjudication.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Adopted sons are distinguished from biological sons by the legal requirement to have their inheritance validated by a court to prevent challenges from blood relatives.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Next-of-kin power over married daughters",
+      "group": "Women",
+      "resource": "Protection from marital separation by kin",
+      "directionality": "LESS",
+      "verbatim": "[§65] The law ordains that daughters who have been given in marriage by their father and are living with their husbands ... shall, if their father dies without leaving them legitimate brothers, pass into the legal power of their next-of-kin; and indeed it has frequently happened that husbands have been thus deprived of their own wives.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Under the epikleros law, if a man dies without sons, his daughter (even if already married) falls under the authority of his nearest male relative, who has the right to marry her and take the estate, potentially dissolving her existing marriage.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Mandatory daughter inclusion in wills",
+      "group": "Women",
+      "resource": "Right to inherit property directly",
+      "directionality": "LESS",
+      "verbatim": "[§69] [68] The law states explicitly that, in the absence of legitimate male issue, a man can dispose of his property as he pleases, but that, if he has daughters, the legatees must take them as well. Thus a man may bequeath and dispose of his property with his daughters, but he may not either adopt a son or leave any of his possessions to anyone without also disposing of his legitimate daughters.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a legal restriction where daughters (epikleroi) cannot inherit property independently; rather, the property follows them, and any heir must take the daughter as a wife to access the estate.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Illegitimate exclusion from succession",
+      "group": "Women",
+      "resource": "Right to inherit property directly",
+      "directionality": "LESS",
+      "verbatim": "[§76] [75] ...whereas, by adopting my brother without introducing his daughter to the members of his ward, he made her illegitimate, as it was right that he should, and therefore incapable of succession, and left my brother heir to his estate.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Athenian law, legitimacy (verified by introduction to the ward/phratry) was a prerequisite for inheritance. A child deemed illegitimate was legally 'incapable of succession'.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Next-of-kin claim to heiresses",
+      "group": "male heirs",
+      "resource": "Right to adjudicate property",
+      "directionality": "MORE",
+      "verbatim": "[§68] [67] That the woman could be legally claimed by her next-of-kin, if she was really a legitimate daughter of the deceased, appears most evidently from the laws. ... [§75] [74] For it is clear that, if he left her sole heiress, he would have been fully aware that one of two things was likely to happen to her: either one of us, the nearest relatives, would obtain an adjudication and take her as wife.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law permitted and required the nearest male kinsmen to claim a legitimate daughter who was the sole heiress (epikleros) along with the estate.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy citizen liturgical obligations",
+      "group": "Wealthy citizens",
+      "resource": "freedom from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": "[§81] [80] Again in his deme, since he possessed the fortune of three talents, he would have been obliged on behalf of this wedded wife of his to entertain the wives of his fellow-demesmen at the Thesmophoria, and to perform for her the other offices which the possession of such a fortune entails.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Possessing a certain level of wealth (three talents) triggered legal or social obligations to fund religious festivals and public entertainments (liturgies) for the community.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Adoption annuls original kin rights",
+      "group": "male heirs",
+      "resource": "Right to adjudicate property",
+      "directionality": "LESS",
+      "verbatim": "[§67] [66] If, therefore, they pretend that the adoption of Endius annulled their rights over this woman and allege that it is for this reason that they laid no claim to her, the following questions must be put to them...",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text discusses how a legal adoption could potentially nullify the claims of blood relatives to the estate and the daughter of the deceased, as the adopted son becomes the primary heir.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0017.tlg003.perseus-eng2",
+  "_input_tokens": 17452,
+  "_output_tokens": 3748,
+  "_model": "google/gemini-3-flash-preview"
+}

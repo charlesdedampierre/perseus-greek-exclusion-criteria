@@ -1,0 +1,90 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Foreigner exclusion from mysteries",
+      "rule_category": "Religious exclusion",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to initiation into the mysteries",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] In the end, if we are to believe Theoxenus, who tells this story as well about him, Anacharsis alone of barbarians was even initiated into the mysteries after being made an Athenian citizen."
+      ],
+      "reasoning": "The text identifies Anacharsis as the 'alone of barbarians' to be initiated, and specifically links this access to his first being 'made an Athenian citizen,' implying that non-citizens/barbarians were standardly excluded from these sacred rituals.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all non-citizens or 'barbarians' visiting or residing in Athens, which constitutes a large demographic.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Citizen-only mystery access",
+      "rule_category": "Access to religious ritual",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to initiation into the mysteries",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] Anacharsis alone of barbarians was even initiated into the mysteries after being made an Athenian citizen."
+      ],
+      "reasoning": "The text implies that obtaining citizenship was the prerequisite for a foreigner like Anacharsis to access the mysteries, reinforcing that this resource is a standard right of the citizen group.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire body of Athenian citizens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Heroic deification of foreigners",
+      "rule_category": "Grant of religious status",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to be deified or heroized",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Toxaris, a wise man... died in Athens, where not long after his death he came to be considered a hero, and the Athenians sacrifice to him as “The Foreign Physician”",
+        "[§1] then you may see that to confer immortality on someone and send him to Zamolxis is a custom not of the Scythians only—it is also possible for Athenians to deify Scythians in Greece."
+      ],
+      "reasoning": "The text explicitly states that Athenians have a custom of deifying Scythians (foreigners) who have provided extraordinary service, granting them the resource of heroic status and public sacrifice.",
+      "specificity": 9,
+      "specificity_reasoning": "This is a very specific honor granted only to exceptional individuals, not the general population of foreigners.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Legislative authority of elite",
+      "rule_category": "Access to political power",
+      "group": "Wise or Eminent Men",
+      "group_category": "Occupation",
+      "resource": "Right to frame laws",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] Nevertheless he is held in great honour for his wisdom and other qualities. As a result they employ him to frame laws for the government of the city and are resolved to live in accordance with his ordinances."
+      ],
+      "reasoning": "The text describes Solon's specific role in framing laws based on his reputation for wisdom, indicating that legislative power is granted to specific respected individuals rather than the general populace.",
+      "specificity": 9,
+      "specificity_reasoning": "This refers to a unique political role (nomothetes) held by a single person or a very small group at a time.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Patriarchal political succession",
+      "rule_category": "Access to political influence",
+      "group": "Noble Sons",
+      "group_category": "Lineage",
+      "resource": "Right to inherent political influence and public speaking",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] To excite your wonder still more, they belong to one and the same household. They are in fact father and son.",
+        "[§11] whenever he comes forward to speak in public the entire city listen to him open-mouthed... there is not only love for the young man but a ready reverence already"
+      ],
+      "reasoning": "The text describes a father and son in Macedon who share pre-eminent status, suggesting that political influence and the right to lead the assembly are concentrated within specific noble lineages.",
+      "specificity": 8,
+      "specificity_reasoning": "This describes a specific elite household and the social expectations surrounding their members.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0062.tlg062.perseus-eng3",
+  "_input_tokens": 7422,
+  "_output_tokens": 1218,
+  "_model": "google/gemini-3-flash-preview"
+}

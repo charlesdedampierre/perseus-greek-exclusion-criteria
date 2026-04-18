@@ -1,0 +1,902 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Trierarchy tax obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Retention of private property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] Then when my career was near its close, having been challenged to an exchange of property on the question of a trierarchy, and subjected to a trial on that issue, I came to realize that even outside of my profession there were those who were not disposed towards me as I had thought",
+        "[§5] They betrayed their sentiments at the trial; for, although my opponent made no argument whatever on the merits of the case, and did nothing but decry my “cleverness” of speech and indulge in extravagant nonsense about my wealth and the number of my pupils, they imposed the trierarchy upon me."
+      ],
+      "reasoning": "The text describes the process of the 'trierarchy,' a liturgy where wealthy citizens were legally compelled to fund and command a warship. Failure to accept or successful challenge via 'exchange of property' (antidosis) results in the imposition of this heavy financial burden.",
+      "specificity": 4,
+      "specificity_reasoning": "While it only applies to the wealthiest tier of citizens (the liturgical class), it is a standardized legal mechanism in Athenian society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Right of Antidosis",
+      "rule_category": "Access to judicial protection",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to challenge tax assessment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] having been challenged to an exchange of property on the question of a trierarchy, and subjected to a trial on that issue"
+      ],
+      "reasoning": "The 'exchange of property' (antidosis) was a specific legal right allowing a citizen nominated for a liturgy to challenge another citizen they believed to be wealthier to either take over the burden or exchange all their possessions.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a very specific legal procedure available only to those nominated for expensive public services.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Defendant's right to reply",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right of making a defense",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§17] it bearing it in mind that there would have been no need of granting to the accused the right of making a defense, had it been possible to reach a just verdict from the arguments of the accuser."
+      ],
+      "reasoning": "Isocrates explicitly mentions the legal right granted to the accused to present a defense as an essential part of the Athenian judicial process.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any citizen who finds themselves in the position of a defendant in a court of law.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Juror impartiality oath",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to be heard impartially",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] while we take our solemn oath at the beginning of each year that we will hear impartially both accusers and accused"
+      ],
+      "reasoning": "The Heliastic Oath required jurors to listen to both sides equally, which acts as a legal resource/protection for the group of defendants.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a foundational rule of the Athenian legal system affecting all litigants.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Capital trial split voting",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to proportionate voting in capital cases",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] In other states, when they try a man for his life, they cast a portion of the votes for the defendant, but with us the accused has not even an equal chance with the sycophants"
+      ],
+      "reasoning": "Isocrates contrasts Athens with other states where defendants in capital trials are granted a certain percentage/standard of votes, noting that in Athens, defendants face a harsher or less favorable voting structure.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to defendants in trials involving the death penalty.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Litigant right to evidence",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to trial based on proof",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] Let me ask you, however, not to pay any attention to what you have heard about me in the past from my would-be slanderers and calumniators, not to credit charges which have been made without proof or trial, and not to be influenced by the suspicions which have been maliciously implanted in you by my enemies, but to judge me to be the kind of man which the accusation and the defense in this trial will show me to be."
+      ],
+      "reasoning": "The text explicitly states that charges should not be credited without proof or trial, indicating a procedural rule that defendants are entitled to a judgment based on presented evidence rather than external rumors.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general procedural rule applying to all citizens involved in the Athenian legal system.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Victim right to reparation",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to obtain reparation for wrongs",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§34] For surely it is neither probable nor possible both that I, on the one hand, have wronged many people and that those, on the other hand, who have been visited with misfortune through me are silent and refrain from accusing me... especially since all they have to do is to testify to the wrongs I have done them in order to obtain the fullest reparation."
+      ],
+      "reasoning": "The author notes that any person harmed has the legal mechanism available to testify and receive reparation, confirming an established right for victims to seek civil or criminal redress.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any citizen who claims to have suffered an injury or wrong.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Juror duty of lawfulness",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to adjudication according to law",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] for if you decide the case on this basis, you will have the credit of judging honorably and in accordance with the law, while I, for my part, shall obtain my complete deserts."
+      ],
+      "reasoning": "The text refers to the obligation of the jury (drawn from the citizenry) to judge according to the law, which functions as a right for the person on trial to be judged by legal standards rather than whim.",
+      "specificity": 2,
+      "specificity_reasoning": "This involves the large body of citizens serving as jurors and all citizens as potential defendants.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Defense by primary evidence",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to present written works as evidence",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§54] for I shall present in evidence the actual words which I have spoken and written, so that you will vote upon my discourses, not from conjecture, but with clear knowledge of their nature."
+      ],
+      "reasoning": "In cases involving verbal or written offenses, the defendant has the right to present the actual works in question as the primary evidence for their defense.",
+      "specificity": 4,
+      "specificity_reasoning": "This is specific to defendants charged with 'offending by words' (e.g., writers/teachers), a smaller subset of litigants.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Court time limit",
+      "rule_category": "Legal procedure",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to unlimited time for defense",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§54] I cannot, however, present them all in complete form; for the time which has been allowed me is too short."
+      ],
+      "reasoning": "Athenian law imposed strict time limits on speeches in court (monitored by a water-clock), restricting the defendant's ability to present their full body of work or evidence.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a standard procedural constraint affecting all individuals appearing in Athenian courts.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Royal education obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Monarchs",
+      "group_category": "Lineage",
+      "resource": "Right to remain uneducated",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§71] Now in the introduction and in the opening words of that discourse I reproach monarchs because they who more than others ought to cultivate their understanding are less educated than men in private station."
+      ],
+      "reasoning": "Isocrates explicitly argues that monarchs have a specific duty to cultivate their understanding and education beyond that of private citizens, treating leur 'lack of education' as a breach of the requirements of their station.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule applies specifically to the very small group of individuals holding sovereign power (kings/monarchs).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Royal professional diligence",
+      "rule_category": "Access to political succession",
+      "group": "Monarchs",
+      "group_category": "Lineage",
+      "resource": "Right to leisure and selfish pleasure",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§71] I enjoin upon Nicocles not to be easy-going and not to feel that he had taken up the royal office as one takes up the office of a priest, but to put aside his selfish pleasures and give his mind to his affairs."
+      ],
+      "reasoning": "The text establishes that unlike certain religious offices which might be symbolic or 'easy-going', the royal office requires the loss of personal leisure and the subordination of selfish pleasures to state affairs.",
+      "specificity": 9,
+      "specificity_reasoning": "The rule is directed at a king regarding the specific nature of the royal office.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Meritocratic command",
+      "rule_category": "Access to political power",
+      "group": "The base and foolish",
+      "group_category": "Wealth",
+      "resource": "Right to hold high office and give orders",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§72] And I try to persuade him also that it ought to be revolting to his mind to see the base ruling over the good and the foolish giving orders to the wise"
+      ],
+      "reasoning": "Isocrates presents it as a standard of 'good government' that those deemed 'base' or 'foolish' should be excluded from positions of authority over the 'good' or 'wise'.",
+      "specificity": 5,
+      "specificity_reasoning": "While 'base' and 'wise' are qualitative, in the context of Greek political thought, 'base' often correlated with specific lower socio-economic or non-noble groups.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Public benefactor honors",
+      "rule_category": "Grant of economic privilege",
+      "group": "Wealthy public benefactors",
+      "group_category": "Wealth",
+      "resource": "Right to public honors and golden crowns",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§94] All these men were crowned by Athens with chaplets of gold, not because they were covetous of other people’s possessions, but because they were honorable men and had spent large sums of their private fortunes upon the city."
+      ],
+      "reasoning": "The text confirms the Athenian practice of rewarding citizens who spend their private wealth on the city's behalf (liturgies) with concrete material and symbolic rewards like gold crowns.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the class of wealthy citizens capable of performing liturgies.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prytaneum maintenance",
+      "rule_category": "Grant of economic privilege",
+      "group": "Distinguished citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to public maintenance (sitesis)",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§95] I should deserve from you greater gratitude than those who are maintained in the Prytaneum in recognition of excellence; for each of the latter has furnished to the city his own high qualities alone"
+      ],
+      "reasoning": "The text refers to the established Athenian legal practice of granting free meals/maintenance in the Prytaneum to individuals who have provided exceptional service to the state.",
+      "specificity": 8,
+      "specificity_reasoning": "Only a very small number of highly distinguished citizens receive this specific legal privilege.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Defense by character witness",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to use associate character as evidence",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§97] Verily, I should be the most unfortunate of all men if, when others are esteemed better or worse, as the case may be, from the manner of their lives and from the character of their associates, I alone should be denied this basis of judgement"
+      ],
+      "reasoning": "Isocrates argues that it is a standard societal rule for individuals to be judged in court based on the known character of their associates, effectively gaining legal standing through social networking.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general principle of Athenian forensic practice applying to any citizen in court.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Teacher liability for students",
+      "rule_category": "Legal standing",
+      "group": "Teachers/Sophists",
+      "group_category": "Occupation",
+      "resource": "Protection from legal penalty for others' actions",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§99] but if, on the other hand, any of them have turned out to be bad—the kind of men who lay information, hale people into court, and covet the property of others—then to let the penalty be visited on me."
+      ],
+      "reasoning": "The text describes a social and legal context where a teacher can be held legally responsible (liable to penalty) for the subsequent behavior and character of their students.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those in the profession of education/rhetoric.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Litigant's right of defense",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to speak in self-defense",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§100] I yield the floor for this purpose to my accuser or to anyone else who may desire it—not that there are not persons who would gladly perjure themselves to my harm, but that they would be shown up to you at once, and the injury would fall upon them, not upon me."
+      ],
+      "reasoning": "The text demonstrates the procedural right of a defendant in an Athenian trial to address the court and present a defense against accusations.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual regardless of status when they are brought before the court as a defendant, which is a common occurrence in this society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public teacher's defense obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Teachers",
+      "group_category": "Occupation",
+      "resource": "Right to defend personal reputation through followers",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§104] for while it is proper for the layman to say what he has to say in defense of his own actions and then take his seat... yet when anyone occupies a position in the eyes of the public as a counsellor and teacher, he must then justify his followers as well as himself, especially if he is being tried on this charge."
+      ],
+      "reasoning": "Isocrates identifies a specific legal and social expectation for those in the occupation of 'teacher' or 'counselor': they are permitted and expected to justify the actions of their associates/students in court as part of their own defense.",
+      "specificity": 7,
+      "specificity_reasoning": "This rule applies specifically to a small sub-sector of the population (professional teachers and public counselors) during legal proceedings.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military plunder restriction",
+      "rule_category": "Protection of property",
+      "group": "Allies",
+      "group_category": "Citizenship",
+      "resource": "Protection from military pillage",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§124] and if he happened to harbor his fleet in any place, he would never permit his soldiers to plunder and pillage and sack the people’s houses, but took as great precautions to prevent such an occurrence as the owners would take to guard their own possessions."
+      ],
+      "reasoning": "The text describes a rule of military discipline where soldiers are prohibited from seizing the private property of residents in allied or neutral cities during campaigns.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the inhabitants of any city where the Athenian fleet might harbor, covering a large number of people in the Greek world.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "General's financial accountability",
+      "rule_category": "Legal accountability",
+      "group": "Generals",
+      "group_category": "Occupation",
+      "resource": "Right to retain personal wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§129] Timotheus was fined a larger sum than anyone in the past had ever been condemned to pay.",
+        "[§129] when he submitted his reports... they, on the one hand, were acquitted, while Timotheus was fined."
+      ],
+      "reasoning": "Generals in Athens were subject to 'euthunai' (state audits) and could be heavily fined for perceived failures or mismanagement of funds, leading to a loss of property.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically targets the very small group of elected high-ranking military officials.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Political participation through office",
+      "group": "Able-bodied men",
+      "group_category": [
+        "Gender",
+        "Health"
+      ],
+      "resource": "Candidacy for generalship",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§116] For you elect as your generals men who have the most robust bodies and who have served in many campaigns with foreign armies, thinking that under their leadership you will have some success."
+      ],
+      "reasoning": "The text indicates a customary preference or rule in the Athenian assembly to elect individuals with physical strength and foreign military Experience to the office of General.",
+      "specificity": 5,
+      "specificity_reasoning": "This affects the pool of citizen men eligible for high military office based on physical health and resume.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreign army service eligibility",
+      "rule_category": "Military service rights",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to serve in foreign armies",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§115] while Timotheus... has not knocked about with itinerant armies but has shared with you the duties of a citizen.",
+        "[§116] you elect as your generals men who... have served in many campaigns with foreign armies."
+      ],
+      "reasoning": "The passage confirms that Athenian citizens were legally or customarily allowed to serve in 'itinerant' or foreign mercenary armies before returning to seek office in Athens.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a broad range of citizens who choose military careers.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Liturgical tax obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to retain private property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§145] while you have enrolled not only yourself but your son among the twelve hundred who pay the war-taxes and bear the liturgies, and you and he have three times discharged the trierarchy, besides having performed the other services more generously and handsomely than the laws require."
+      ],
+      "reasoning": "The text describes a formal legal system (the 'twelve hundred') where the wealthiest citizens are required by law to fund military expenses (trierarchy) and public festivals (liturgies), thereby losing a portion of their private wealth to the state.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific elite tier of the citizenry (the 1200 wealthiest), which is a defined but significant minority.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public salary eligibility",
+      "rule_category": "Access to public resources",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to receive state maintenance and emoluments",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§152] And if I have refrained from accepting the bounties which are distributed by the city it was because I thought it outrageous if I, who am able to maintain myself from my private resources, should stand in the way of any of those who have been compelled to get their livelihood from the city"
+      ],
+      "reasoning": "While perhaps more of a social norm than a hard negative law, the text indicates that state 'bounties' and 'emoluments' were intended for those in need. Isocrates frames the wealthy taking these resources as 'outrageous' and a deprivation of the poor, showing a clear societal rule regarding who should access public funds.",
+      "specificity": 3,
+      "specificity_reasoning": "This affects the wealthy portion of the citizen body in relation to public distribution systems.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Metical tax exemption",
+      "rule_category": "Grant of economic privilege",
+      "group": "Itinerant foreigners",
+      "group_category": "Origin",
+      "resource": "Protection from local taxation",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§156] he had no fixed domicile in any city and therefore paid out nothing for public weal nor was he subject to any tax; moreover, he did not marry and beget children, but was free from this, the most unremitting and expensive of burdens"
+      ],
+      "reasoning": "Isocrates notes that because Gorgias lacked a fixed domicile (citizenship/residency in a specific city), he was legally exempt from the 'public weal' taxes and liturgies that burdened settled residents and citizens.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to a small subset of mobile, high-income foreigners (sophists/professionals) without fixed residency.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Property exchange right",
+      "rule_category": "Access to judicial protection",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to challenge tax liability via property exchange",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§144] you have never brought anyone to trial nor stood trial yourself save in the matter of an exchange of property"
+      ],
+      "reasoning": "The 'exchange of property' (antidosis) was a specific legal resource available to wealthy citizens to challenge their assignment to an expensive public liturgy by nominating a wealthier individual to take it or trade estates.",
+      "specificity": 4,
+      "specificity_reasoning": "Only the citizens wealthy enough to be nominated for liturgies could use this specific legal mechanism.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial defense right",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to self-defense in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§150] nor in the privilege of prosecuting or defending cases in the courts."
+      ],
+      "reasoning": "The text refers to the participation in the court system—both as a prosecutor and a defendant—as a 'privilege' or right inherent to the citizen body.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad category of all citizens within the legal system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Administrative office access",
+      "rule_category": "Access to political power",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to hold office by lot",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§150] I hold myself at the service of Athens in discharging the liturgies... and yet do not ask to have any part in the allotment of the offices"
+      ],
+      "reasoning": "The mention of 'allotment of the offices' refers to the Athenian system of filling administrative roles by lot, a concrete political resource available to the citizen group.",
+      "specificity": 2,
+      "specificity_reasoning": "Most citizen males were eligible for the lotteries for various offices.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Property confiscation of wealthy",
+      "rule_category": "Denial of property rights",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§160] Now, on the other hand, a man has to be ready to defend himself against being rich as if it were the worst of crimes, and to keep on the alert if he is to avoid disaster; for it has become far more dangerous to be suspected of being well off than to be detected in crime; for criminals are pardoned or let off with slight penalties, while the rich are ruined utterly, and it will be found that the number of men who have been spoiled of their property is greater than those who have been punished for their misdeeds."
+      ],
+      "reasoning": "Isocrates describes a systematic social and legal pressure where possessing wealth leads to the targeted seizure of assets (spoiling of property), often through groundless lawsuits (sycophancy), contrasting this with the leniency shown to actual criminals.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire upper economic stratum of Athenian society, a significant but minority group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Liturgical financial obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Retention of personal goods",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§166] you on whom I have spent my means should desire to penalize me.",
+        "[§161] my father had spent partly in rendering himself serviceable to the state"
+      ],
+      "reasoning": "The text refers to the Athenian system of liturgies, where wealthy citizens were legally expected to spend their private fortunes on public services (rendering themselves serviceable to the state), effectively losing private wealth to public use.",
+      "specificity": 3,
+      "specificity_reasoning": "This specifically targets the 'liturgical class,' the wealthiest citizens obligated to fund public works.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Youth political training exclusion",
+      "rule_category": "Age-based political exclusion",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to hold government office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§174] I suppose that you are not unaware of the fact that the government of the state is handed on by the older men to the youth of the coming generation; and that since the succession goes on without end, it follows of necessity that as is the education of our youth so from generation to generation will be the fortune of the state."
+      ],
+      "reasoning": "The passage confirms that political power (government of the state) is held by the older generation and only 'handed on' to the youth later, indicating that the youth are currently excluded from active governance until they age into the senior category.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific age cohort (young men) within the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "State-funded reward for praise",
+      "rule_category": "Grant of economic privilege",
+      "group": "Foreign artists",
+      "group_category": "Origin",
+      "resource": "Right to receive public rewards",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§166] whereas Pindar, the poet, was so highly honored by our forefathers because of a single line of his in which he praises Athens as “the bulwark of Hellas” that he was made ”proxenos“ and given a present of ten thousand drachmas"
+      ],
+      "reasoning": "The text cites the historical precedent of Pindar receiving an enormous cash gift and political status from the city as a reward for literary praise, indicating a practice of granting material resources to distinguished foreigners who serve the city's reputation.",
+      "specificity": 10,
+      "specificity_reasoning": "This is an extremely specific reward granted only to individuals of extraordinary merit or service.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sycophantic lawsuit targeting",
+      "rule_category": "Denial of judicial protection",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Protection from vexatious litigation",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§163] if I had turned out to be worthless and had excelled in nothing, no one would have made trouble for me; nay, I might have been a flagrant offender and yet lived secure—from the sycophants, at any rate. But now, instead of the acclaim which I expected, I have been rewarded with trials and perils",
+        "[§174] nor punish those who refuse to pay them money, while permitting those from whom they have received it to do whatever they please."
+      ],
+      "reasoning": "Isocrates explicitly argues that those who are successful or wealthy (conspicuous) lose the protection from meritless lawsuits ('sycophancy') that poorer or more 'worthless' individuals enjoy.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to many wealthy or prominent individuals targeted by professional accusers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Oratorical assurance requirement",
+      "rule_category": "Exclusion from political speech",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to effective speech in assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§192] For if one should take lessons in all the principles of oratory and master them with the greatest thoroughness, he might, perhaps, become a more pleasing speaker than most, but let him stand up before the crowd and lack one thing only, namely, assurance, and he would not be able to utter a word."
+      ],
+      "reasoning": "Isocrates notes that even with education, a lack of 'assurance' (personal confidence/presence) effectively strips a citizen of their ability to exercise their right to speak before the public assembly, highlighting a psychological/social barrier to political participation.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any citizen attempting to exercise political rights in a public forum, a large but specific subset of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Seniority-based intellectual status",
+      "rule_category": "Age-based social stratification",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Presumption of wisdom and oratorical skill",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§200] that when they have been with me a few days, they must be abler and wiser in speech than those who have the advantage over them both in years and in experience"
+      ],
+      "reasoning": "The text implies a standard social rule where wisdom and speaking ability are normally reserved for or expected of older, more experienced men, making it an 'unreasonable' expectation for youth to match them quickly.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule affects all young men entering public life or education relative to their elders.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sophist professional reputation",
+      "rule_category": "Grant of economic privilege",
+      "group": "Teachers of oratory",
+      "group_category": "Occupation",
+      "resource": "Right to collect tuition fees",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§220] for, I suppose, all men are aware that a sophist reaps his finest and his largest reward when his pupils prove to be honorable and intelligent and highly esteemed by their fellow-citizens, since pupils of that sort inspire many with the desire to enjoy his teaching",
+        "[§226] No, it is evident that these students cross the sea and pay out money and go to all manner of trouble because they think that they themselves will be the better for it"
+      ],
+      "reasoning": "The text establishes the legal and customary right of 'sophists' (teachers) to collect significant fees from both locals and foreigners in exchange for education, a specific economic activity protected by Athenian custom.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a very small, specific professional class within the city.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Foreigner access to education",
+      "rule_category": "Access to public resources",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to reside for education",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§224] I should like to ask those who disapprove of me what they think about the students who cross the sea from Sicily, from the Pontus, and from other parts of the world in order to enjoy my instruction.",
+        "[§227] They know that neither the strangers who come here nor the men who preside over their education occupy themselves with anything harmful, but that they are, on the contrary, the most unofficious and the most peaceable of all who live in Athens"
+      ],
+      "reasoning": "Athens allowed foreigners from across the Greek world to reside in the city specifically to access its educational resources (philosophy/rhetoric), granting them a degree of freedom of movement and residence for this purpose.",
+      "specificity": 5,
+      "specificity_reasoning": "It applies to a specific subset of foreigners (students) but encompasses people from many different geographic origins.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Adult intellectual autonomy",
+      "rule_category": "Access to education",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Right to choose intellectual pursuits",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§207] but as they grew to be men, these outstripped the others and changed places with them in intelligence, because their companions lived dissolutely and softly, while they gave heed to their own opportunities and to their own welfare."
+      ],
+      "reasoning": "The text distinguishes between the natural state of boys and the transition to adulthood where men gain the legal and social autonomy to direct their own studies ('gave heed to their own opportunities') and improve their status through personal diligence.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general transition affecting all male citizens reaching adulthood.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Public offender name publication",
+      "rule_category": "Access to judicial protection",
+      "group": "Public offenders",
+      "group_category": "Legal status",
+      "resource": "Protection from public shaming",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§237] They are published by law on the tablets which the magistrates set up: public offenders and sycophants have their names published by the Thesmothetae; malefactors and their instigators, by the Eleven; and private offenders and authors of unjust complaints, by the Forty."
+      ],
+      "reasoning": "The text describes a formal legal mechanism where individuals categorized as public offenders, sycophants, or malefactors have their names recorded on public tablets by specific magistrates, representing a loss of privacy and a form of civic shaming.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual regardless of class who falls into specific legal categories of criminality or vexatious litigation.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Youth education choice",
+      "rule_category": "Access to education",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to study philosophy and eloquence",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§241] But instead of that they bring their sons to me and are ready to pay me money, and are rejoiced when they see them spending their days in my society, while the sycophants are the men who speak evil of me and hale me into court."
+      ],
+      "reasoning": "Isocrates argues that the fathers of students actively support and pay for their sons' education in rhetoric, indicating a customary right for young men of the propertied class to access specialized higher education.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the sons of wealthy enough citizens to pay tuition, which is a significant but not universal segment of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Crisis advisory role",
+      "rule_category": "Grant of political influence",
+      "group": "Orators",
+      "group_category": "Occupation",
+      "resource": "Right to advise in state crises",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§248] When any danger threatens the city, they seek counsel from those who can speak best upon the question at issue and act upon their advice"
+      ],
+      "reasoning": "The text notes that in times of danger, the city systematically seeks out and follows the advice of skilled speakers, granting them a functional role in high-level political decision-making.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule applies only to a small subgroup of citizens who have attained high proficiency in public speaking.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Magisterial punishment of malefactors",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Malefactors",
+      "group_category": "Legal status",
+      "resource": "Protection from execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§237] malefactors and their instigators, by the Eleven",
+        "[§252] would anyone withhold praise from their instructors instead of putting to death those who turned their lessons to an evil use?"
+      ],
+      "reasoning": "The mention of the 'Eleven' (the magistrates in charge of prisons and executions) and the rhetorical justification for putting offenders to death indicates that specific classes of criminals are subject to capital punishment.",
+      "specificity": 3,
+      "specificity_reasoning": "While specific, the definition of malletactor (kakourgoi) covers a standard group of criminal offenders in Athenian society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Inherited wealth protection",
+      "rule_category": "Access to economic privilege",
+      "group": "Heirs",
+      "group_category": "Lineage",
+      "resource": "Right to retain inherited fortune",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§251] Suppose the case of men who, having inherited large fortunes from their ancestors, used their wealth, not to render themselves serviceable to the state, but to outrage their fellow-citizens [...] would anyone venture to put the blame upon the authors of their wealth instead of demanding that the offenders themselves be punished?"
+      ],
+      "reasoning": "Isocrates implies that even when wealth is used poorly, the right to the inheritance itself is not the target of legal blame; the focus is on the individual's behavior. This confirms the legal stability of inherited property for the wealthy class.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to those within the socio-economic bracket capable of inheriting 'large fortunes'.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Youth scientific education",
+      "rule_category": "Access to education",
+      "group": "Youth",
+      "group_category": "Age",
+      "resource": "Right to study astronomy and geometry",
+      "resource_category": "Education",
+      "directionality": "MORE",
+      "proof": [
+        "[§268] I would, therefore, advise young men to spend some time on these disciplines, but not to allow their minds to be dried up by these barren subtleties, nor to be stranded on the speculations of the ancient sophists"
+      ],
+      "reasoning": "Isocrates describes astronomy and geometry as a preparatory 'gymnastic of the mind' for young men, indicating that these advanced studies were a recognized, if debated, part of the curriculum for the Athenian elite youth.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the class of young men pursuing higher education, a significant but specific subset of the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Student financial obligation",
+      "rule_category": "Grant of economic privilege",
+      "group": "Students",
+      "group_category": "Occupation",
+      "resource": "Right to retain personal wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§289] when they might have saved expense and lived softly, they have elected to pay out money and submit to toil; and, though hardly emerged from boyhood, they have come to appreciate what most of their elders do not know"
+      ],
+      "reasoning": "The text explicitly states that students of philosophy/rhetoric must 'pay out money' (tuition) to their teachers, representing a transfer of material resources in exchange for education.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule affects only those individuals wealthy enough and inclined to seek private higher education.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Greek intellectual superiority",
+      "rule_category": "Grant of cultural privilege",
+      "group": "Greeks",
+      "group_category": "Origin",
+      "resource": "Access to advanced education in wisdom and speech",
+      "resource_category": "Education",
+      "directionality": "MORE",
+      "proof": [
+        "[§293] [293] ...those qualities by which the nature of man rises above the other animals, and the race of the Hellenes above the barbarians, [§294] namely, in the fact that you have been educated as have been no other people in wisdom and in speech."
+      ],
+      "reasoning": "Isocrates identifies education in wisdom and rhetoric as a defining resource that distinguishes the Greeks (Hellenes) from non-Greeks (Barbarians), framing it as an exclusive cultural asset.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to the entire ethnic category of Greeks compared to outsiders.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Athenian educational pre-eminence",
+      "rule_category": "Access to political leadership",
+      "group": "Athenians",
+      "group_category": "Citizenship",
+      "resource": "Leadership in wisdom and rhetoric",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§294] So, then, nothing more absurd could happen than for you to declare by your votes that students who desire to excel their companions in those very qualities in which you excel mankind, are being corrupted, and to visit any misfortune upon them for availing themselves of an education in which you have become the leaders of the world."
+      ],
+      "reasoning": "The author asserts that Athenians specifically hold a superior status in the world based on their education in 'wisdom and speech', viewing it as a civic resource and a point of excellence for the citizen body.",
+      "specificity": 2,
+      "specificity_reasoning": "This encompasses the entire citizen body of Athens.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Reputational weight in court",
+      "rule_category": "Access to judicial protection",
+      "group": "Men of good repute",
+      "group_category": "Wealth",
+      "resource": "Weight of testimony and persuasion in legal proceedings",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§278] for who does not know that words carry greater conviction when spoken by men of good repute than when spoken by men who live under a cloud, and that the argument which is made by a man’s life is of more weight than that which is furnished by words?"
+      ],
+      "reasoning": "Isocrates argues that the Athenian legal system (and social practice) grants more 'weight' and 'conviction' to the arguments of those with high social standing/reputation, effectively providing them greater legal standing than those 'under a cloud'.",
+      "specificity": 3,
+      "specificity_reasoning": "This distinguishes between citizens based on their social and moral standing, affecting a large portion of those involved in litigation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave social conduct",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from social degradation",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§286] while those of grosser nature are engaged from morning until night in extremes of dissipation which in former days an honest slave would have despised."
+      ],
+      "reasoning": "The text references a social expectation or standard for 'honest slaves' regarding dissipation and dissipation, implying that even the lowest free-born status was expected to maintain a higher standard of conduct than what he perceives in modern youth, but also highlighting the low social floor of the slave.",
+      "specificity": 3,
+      "specificity_reasoning": "Refers to the general class of slaves in Athenian society.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Oratorical prize eligibility",
+      "rule_category": "Access to political rewards",
+      "group": "Orators",
+      "group_category": "Occupation",
+      "resource": "Right to compete for public prizes",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§295] For you must not lose sight of the fact that Athens is looked upon as having become a school for the education of all able orators and teachers of oratory. And naturally so; for people observe that she holds forth the greatest prizes for those who have this ability, that she offers the greatest number and variety of fields of exercise to those who have chosen to enter contests of this character and want to train for them."
+      ],
+      "reasoning": "The text identifies Athens as a society that provides specific material and status rewards ('prizes') and institutional spaces for those trained in oratory, distinguishing them as a group with specialized access to these resources.",
+      "specificity": 4,
+      "specificity_reasoning": "While orators are a specific professional class, the 'contests' and 'prizes' are a well-known, structural part of Athenian public life affecting many aspirants.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealthy youth educational encouragement",
+      "rule_category": "Access to elite education",
+      "group": "Wealthy young men",
+      "group_category": [
+        "Age",
+        "Wealth"
+      ],
+      "resource": "Social authorization to pursue philosophy and higher education",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§304] If, however, you are wise, you will put an end to this confusion, and you will not continue, as now, to take either a hostile or a contemptuous view of philosophy; on the contrary, you will conceive that the cultivation of the mind is the noblest and worthiest of pursuits and you will urge our young men who have sufficient means and who are able to take the time for it to embrace an education and a training of this sort."
+      ],
+      "reasoning": "Isocrates describes a social rule where the pursuit of higher education (philosophy) is specifically directed toward and authorized for those with 'sufficient means' and leisure time, identifying wealth as a prerequisite for this resource.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad demographic (the wealthy youth) within the citizen body.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Commoner judicial parity",
+      "rule_category": "Access to judicial protection",
+      "group": "Commoners",
+      "group_category": "Lineage",
+      "resource": "Right to just adjudication of personal disputes",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§309] You ought to lay this lesson to heart and, while seeing to it in behalf of the mass of the people that they shall obtain their just rights in the trials of their personal disputes and that they shall have their due share of the other privileges which are common to all..."
+      ],
+      "reasoning": "The text affirms a democratic rule ensuring the 'mass of the people' (non-elites) have protected access to legal remedy and shared civic privileges.",
+      "specificity": 1,
+      "specificity_reasoning": "This applies to the 'mass of the people', which is the vast majority of the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sycophant legal targeting",
+      "rule_category": "Restriction of legal standing",
+      "group": "Sycophants",
+      "group_category": "Occupation",
+      "resource": "Protection from specialized multiple indictments",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§313-314] ...while they applied to the sycophants more stringent laws than to other criminals; for, while they placed the trial of the greatest crimes in the hands of a single one of the courts, against the sycophants they instituted indictments before the Thesmothetae, impeachments before the Senate, and plaints before the General Assembly..."
+      ],
+      "reasoning": "The text describes a specific legal regime where individuals identified as sycophants (professional accusers) are subject to more varied and severe legal venues and processes than other criminals.",
+      "specificity": 6,
+      "specificity_reasoning": "The category 'sycophant' is a specific sub-group within the legal/political class, though the rules applied to them are broad.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Defendant's right of supplication",
+      "rule_category": "Legal procedural right",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to bring family/friends to court for mercy",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§321] I observe that when others who are placed in jeopardy here come to the end of their defense, they supplicate, they implore, they bring their children and their friends before the jury."
+      ],
+      "reasoning": "The text identifies a standard Athenian legal practice (which Isocrates personally declines but acknowledges as the norm) where defendants are permitted to use their family and social network to influence the jury's verdict.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to anyone appearing as a defendant in the Athenian court system.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 10,
+  "_file_id": "tlg0010.tlg019.perseus-eng2",
+  "_input_tokens": 77502,
+  "_output_tokens": 13608,
+  "_model": "google/gemini-3-flash-preview"
+}

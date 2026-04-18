@@ -1,0 +1,300 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Testamentary adoption right",
+      "rule_category": "Access to political succession",
+      "group": "Male citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to adopt an heir by will",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] Law This law, gentlemen, holds good for all men alike, permitting anyone to dispose of his property in default of male issue, providing that, at the time of doing so, he is not insane or mentally incapacitated by old age or any other of the causes mentioned in the law."
+      ],
+      "reasoning": "Athenian law explicitly permitted citizens without biological male heirs to adopt a son and bequeath their estate via a written will, provided they were of sound mind.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all enfranchised male citizens who lack direct male issue, a significant but specific portion of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Illegitimate inheritance exclusion",
+      "rule_category": "Exclusion from inheritance",
+      "group": "Illegitimate children",
+      "group_category": "Lineage",
+      "resource": "Right to inherit as next-of-kin",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] [...] the law ordains that an illegitimate son or daughter cannot inherit as next-of-kin."
+      ],
+      "reasoning": "The text cites a specific legal ordinance barring children born out of wedlock (nothoi) from claiming the estate of deceased relatives through the standard lines of kinship.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific sub-class of the population defined by birth status.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Testamentary restriction by issue",
+      "rule_category": "Restriction of property rights",
+      "group": "Fathers with legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to dispose of property by will",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] [...] for no one ever makes a gift by will of anything to the sons of his own body, because the law of itself gives his father's estate to the son and does not even allow anyone who has legitimate children to dispose of his property."
+      ],
+      "reasoning": "Athenian law mandated that estates pass automatically to legitimate biological sons; fathers with such sons were legally prohibited from diverting the estate elsewhere via a will.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule restricts the legal agency of a specific demographic: fathers with surviving legitimate male offspring.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Equal share inheritance",
+      "rule_category": "Access to property rights",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to an equal share of paternal estate",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] [...] why did he introduce them on special terms, when the law ordains that all the legitimate sons have an equal right to share in their father's property?"
+      ],
+      "reasoning": "The law guaranteed that all legitimate sons inherited an equal portion of their father's property, preventing fathers from arbitrarily favoring one legitimate son over another in the total estate.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the specific group of males born within legitimate citizen marriages.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Orphan marriage regulation",
+      "rule_category": "Marriage restriction",
+      "group": "Orphan daughters",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to be given in marriage by court adjudication",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] [...] Callippe, if she were thirty years of age, ought to have been no longer under a guardian, nor unmarried and childless, but long ago married, given in marriage either by her guardian, according to the law, or else by an adjudication of the court."
+      ],
+      "reasoning": "The text indicates that the law provided a mechanism (adjudication) to ensure that fatherless daughters were married off, emphasizing they were not to remain 'unmarried and childless' indefinitely.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to 'epikleroi' or daughters left without fathers/guardians.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Judicial contestation right",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to dispute an inheritance by direct action",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] [...] it is lawful for any Athenian who wishes to do so to dispute an inheritance by bringing a direct action before you, and if he can establish a better claim, to obtain possession of the estate"
+      ],
+      "reasoning": "Any Athenian citizen had the legal standing to challenge an inheritance claim in court if they believed they had a superior legal right to the property.",
+      "specificity": 2,
+      "specificity_reasoning": "This right is available to all Athenian citizens ('any Athenian who wishes').",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Intestate daughter inheritance",
+      "rule_category": "Access to inheritance",
+      "group": "Daughters",
+      "group_category": "Gender",
+      "resource": "Right to inherit paternal estate in absence of male heirs",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] They first urged Euctemon to cancel the will on the ground that it was not to the boys advantage; for no one would have any claim to the real estate on Euctemon's death except the daughters and their issue."
+      ],
+      "reasoning": "The text identifies daughters and their offspring as the sole legal claimants to a father's real estate if a will is cancelled and no other legitimate male heirs exist, establishing their position in the line of succession.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes a general rule of Athenian inheritance law affecting all families without direct male heirs.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Orphan property protections",
+      "rule_category": "Access to judicial protection",
+      "group": "Orphans",
+      "group_category": "Age",
+      "resource": "Right to have property leased and secured by the Archon",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] They inscribed these two boys before the archon as adopted children of the sons of Euctemon who had died, inscribing themselves as guardians, and requested the archon to grant a lease of the house-property as being the property of orphans, in order that part of the property might be leased and part might be used as a security, and mortgage notices adfixed to it in the children's names."
+      ],
+      "reasoning": "The text outlines a legal mechanism where the property of orphans is registered with the Archon to be leased out for their benefit and secured with legal notices, intended to protect the estate during their minority.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific legal sub-class (orphans) within the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Adopted son return restriction",
+      "rule_category": "Restriction of personal status",
+      "group": "Adopted sons",
+      "group_category": "Lineage",
+      "resource": "Right to return to original family",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§45] For the law does not allow the return of an adopted son to his original family, unless he leaves a legitimate son in the family which he quits."
+      ],
+      "reasoning": "The law explicitly forbids an individual who has been adopted into another family from returning to his birth family unless he has already produced a legitimate male heir to continue the adoptive line.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to the subset of the population that has undergone adoption.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Bastard inheritance exclusion",
+      "rule_category": "Denial of property rights",
+      "group": "Bastards",
+      "group_category": "Lineage",
+      "resource": "Right to participate in family cults or property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§48] Thus the contrary has been done of that which the law has prescribed; for according to the law no male or female bastard has any right, based on kinship, to participate in the cults or property of a family since the archonship of Eucleides."
+      ],
+      "reasoning": "Athenian law after 403/2 BC (the archonship of Eucleides) explicitly stripped children born outside of legitimate marriage (bastards) of any right to inherit family property or participate in religious rites.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a broad legal exclusion based on birth status affecting a significant social category.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave temple exclusion",
+      "rule_category": "Religious exclusion",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to enter temples and witness sacred rites",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§51] [The mother] who ought never to have entered the temple and seen any of the rites performed there, had the effrontery to join in the procession when a sacrifice was being made in honor of these goddesses and to enter the temple and see what she had no right to see."
+      ],
+      "reasoning": "The text indicates that slaves were legally or customarily prohibited from entering specific temples or witnessing certain sacred mysteries/rites, treating such an act as a punishable violation ('effrontery').",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire enslaved population regarding sacred spaces.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Epikleros marriage regulation",
+      "rule_category": "Marriage restriction",
+      "group": "Legitimate daughters",
+      "group_category": "Gender",
+      "resource": "Right to choose spouse",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§52] ...whether Philoctemon's sister, formerly the wife of Chaereas and now a widow... ought, as a legitimate daughter, she ought to be subject to your decision as to whom she ought to marry."
+      ],
+      "reasoning": "A legitimate daughter who becomes the sole link to an estate (an epikleros) loses the right to choose her own husband; instead, her marriage becomes a matter for the court to decide to ensure the estate's continuity.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to widowed or unmarried legitimate daughters who lack brothers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealth-based military funding",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Retention of personal wealth",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§61] Both of them have paid all the special war-taxes, being numbered among the three hundred. Formerly only these two members of the family contributed, but now the younger son here is choregus in the tragic competitions and has been enrolled among the three hundred and pays the war-tax."
+      ],
+      "reasoning": "The wealthiest 300 citizens (the Three Hundred) were legally compelled to fund the city's war efforts and festivals (liturgies), representing a systematic drain on their private resources for public benefit.",
+      "specificity": 5,
+      "specificity_reasoning": "This specifically targets the top tier of the wealth hierarchy in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Adopted son inheritance rights",
+      "rule_category": "Access to political succession",
+      "group": "Adopted sons",
+      "group_category": "Lineage",
+      "resource": "Right of inheritance equal to biological children",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§64] How could he be childless, when he adopted and was survived by his own nephew, to whom the law gives the right of inheritance just as much as to children of his own body?"
+      ],
+      "reasoning": "The text explicitly states that Athenian law grants adopted sons the same legal standing as biological children regarding the right to inherit an estate.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to a specific legal class (adopted sons), adoption was a common practice among the Athenian property-owning classes to ensure the continuity of the oikos.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-adoption biological child share",
+      "rule_category": "Access to inheritance",
+      "group": "Biological children",
+      "group_category": "Lineage",
+      "resource": "Right to a share of estate alongside adopted siblings",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§64] Indeed, it is expressly stated in the law that, if children are born subsequently to one who has adopted a son, each child takes his share of the estate and both classes of children alike inherit."
+      ],
+      "reasoning": "The text cites a specific legal provision ensuring that the birth of biological children after an adoption does not nullify the inheritance but rather requires the estate to be shared.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule governs the standard distribution of property within families involving both adopted and biological heirs.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Legitimacy proof requirement",
+      "rule_category": "Access to citizenship",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to recognition as legitimate offspring",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§65] Let Androcles, therefore, prove that the children are legitimate, as any one of you would have to do in similar circumstances. His mere mention of a mother's name does not suffice to make them legitimate, but he must prove that he is speaking the truth by producing the relatives who know that she was married to Euctemon, and the members of the deme and of the ward"
+      ],
+      "reasoning": "Legitimacy was not assumed but required formal proof via witnesses from the father's social and political circles (deme and ward) to ensure the children were born from a legal marriage.",
+      "specificity": 2,
+      "specificity_reasoning": "This requirement applied to all Athenian families seeking to establish the legal and civic status of their children.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Liturgy for wives",
+      "rule_category": "Grant of economic privilege",
+      "group": "Wives",
+      "group_category": "Gender",
+      "resource": "Right to public service performance in their name",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§65] and the members of the deme and of the ward, if they have ever heard or have any knowledge that Euctemon performed any public services on her behalf."
+      ],
+      "reasoning": "In Athens, a husband performing public services (liturgies) on behalf of his wife served as a concrete social and legal proof of a valid marriage and the wife's recognized status.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to the wives of wealthy citizens who were eligible to perform such public services.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Parental burial and sacrifice",
+      "rule_category": "Family rights",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to perform funerary and sacrificial rites",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§66] We must know where she is buried and in what sort of tomb, and who has ever seen Euctemon performing the customary rights over her, and whither her sons still go to offer sacrifices and libations"
+      ],
+      "reasoning": "The performance of customary religious rites at a parent's tomb was a restricted right and duty associated with legitimate linege and inheritance claims.",
+      "specificity": 3,
+      "specificity_reasoning": "This was a standard expectation for all legitimate male offspring in Athenian society.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0017.tlg006.perseus-eng2",
+  "_input_tokens": 20511,
+  "_output_tokens": 4284,
+  "_model": "google/gemini-3-flash-preview"
+}

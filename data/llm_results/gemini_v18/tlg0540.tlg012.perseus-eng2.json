@@ -1,0 +1,334 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Metic property protection",
+      "rule_category": "Protection from asset seizure",
+      "group": "Resident aliens",
+      "group_category": "Citizenship",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] Theognis and Peison stated before the Thirty that among the resident aliens that there might be some who were embittered against their administration, and that therefore they had an excellent pretext for appearing to punish while in reality making money; in any case, the State was impoverished, and the government needed funds."
+      ],
+      "reasoning": "The text describes a formal decision by the governing body (The Thirty) to systematically target resident aliens for the purpose of confiscating their wealth to fund the state, showing that this group lacked secure property rights.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule targeted a specific class of people (metics/resident aliens) within the broader population of Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Metic right to trial",
+      "rule_category": "Denial of judicial process",
+      "group": "Resident aliens",
+      "group_category": "Citizenship",
+      "resource": "Right to trial and self-defense",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] Polemarchus received from the Thirty their accustomed order to drink hemlock, with no statement made as to the reason for his execution: still less was he allowed to be tried and defend himself."
+      ],
+      "reasoning": "The author notes that it was 'accustomed' for the regime to execute these individuals (in this context, wealthy metics) without providing a reason or allowing a legal defense/trial.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the resident alien population, specifically those targeted by the regime.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Metic funerary rights",
+      "rule_category": "Restriction of burial customs",
+      "group": "Resident aliens",
+      "group_category": "Citizenship",
+      "resource": "Right to conduct funerals from family homes",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] And when he was being brought away dead from the prison, although we had three houses amongst us, they did not permit his funeral to be conducted from any of them, but they hired a small hut in which to lay him out."
+      ],
+      "reasoning": "The authorities explicitly forbade the family of the deceased resident alien from using their own property for the funeral rites, forcing them into a marginal space.",
+      "specificity": 4,
+      "specificity_reasoning": "This specifically affected resident aliens who were targeted by the Thirty, rather than all residents.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Admissibility of slave lists",
+      "rule_category": "Asset confiscation",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from state seizure",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] The others went to the factory and proceeded to make a list of the slaves.",
+        "[§19] also a hundred and twenty slaves, of whom they took the ablest, delivering the rest to the Treasury"
+      ],
+      "reasoning": "Slaves are treated as material assets that can be inventoried and seized by the state from the households of resident aliens.",
+      "specificity": 2,
+      "specificity_reasoning": "The vulnerability of slaves to transfer as property was a general condition of their status.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizen exile and execution",
+      "rule_category": "Political purge",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from arbitrary exile and execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] For they sent many of the citizens into exile with the enemy; they unjustly put many of them to death, and then deprived them of burial; many who had full civic rights they excluded from the citizenship"
+      ],
+      "reasoning": "The passage details the systematic removal of legal protections for citizens under the Thirty, including summary execution and loss of citizenship status.",
+      "specificity": 2,
+      "specificity_reasoning": "This affected a large portion of the Athenian citizen body during the political upheaval.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Metic political exclusion",
+      "rule_category": "Exclusion from governance",
+      "group": "Resident aliens",
+      "group_category": "Citizenship",
+      "resource": "Right to attend political councils",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§33] For we were restricted, not merely from attending their councils, but even from staying at home"
+      ],
+      "reasoning": "The author explicitly states that resident aliens were barred from participating in or even attending the deliberative councils of the city.",
+      "specificity": 3,
+      "specificity_reasoning": "This was a standard exclusion for the category of resident aliens (metics).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Marriage rights restriction",
+      "rule_category": "Denial of marriage",
+      "group": "Daughters of citizens",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to marry",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] and the daughters of many they debarred from intended marriage."
+      ],
+      "reasoning": "The text lists the prevention of marriage for the daughters of those targeted by the regime as a specific form of legal/social injury inflicted by the state.",
+      "specificity": 5,
+      "specificity_reasoning": "Targeted specifically at the female offspring of political enemies.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Protection from summary execution",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to a trial before execution",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§36] ...once established in power, admit that of their own free will they put to death many of the citizens without a trial,—if these men, I say, and their children are not to be visited by you with the extreme penalty of the law!"
+      ],
+      "reasoning": "The text characterizes the execution of citizens without a trial as a 'monstrous' violation of established law, implying that citizens possess an inherent legal right to a trial before the death penalty can be applied.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the entire body of enfranchised citizens, which is a large portion of the free population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Defense through public service",
+      "rule_category": "Access to judicial leniency",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to cite military service in legal defense",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§38] And note that he cannot even resort to the expedient, so habitual among our citizens, of saying nothing to answer the counts of the accusation, but making other statements about themselves which at times deceive you; they represent to you that they are good soldiers, or have taken many vessels of the enemy while in command of war-ships, or have won over cities from hostility to friendship."
+      ],
+      "reasoning": "Lysias describes as 'habitual' the practice where Athenian citizens defend themselves in court by highlighting their military achievements and service to the state as a means to gain favor or acquittal.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to citizens who have the means or opportunity to serve in military commands or as soldiers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prohibition of unconstitutional power",
+      "rule_category": "Restriction of political authority",
+      "group": "Magistrates",
+      "group_category": "Occupation",
+      "resource": "Obligation to decline extra-legal powers",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§48] Yet, if he was really a good man, it behoved him in the first place to decline unconstitutional powers, or else to lay information before the Council exposing the falsity of all the impeachments..."
+      ],
+      "reasoning": "The text asserts that a 'good man' (acting as a citizen/official) is expected to refuse powers that bypass the constitution, indicating a norm against the exercise of non-statutory authority.",
+      "specificity": 5,
+      "specificity_reasoning": "This specifically concerns individuals appointed to high office or positions of temporary authority.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Collective execution of prisoners",
+      "rule_category": "Denial of judicial protection",
+      "group": "Political detainees",
+      "group_category": "Citizens",
+      "resource": "Right to individual sentencing and trial",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§52] ...he went with his partners in power to Salamis and Eleusis, and haled to prison three hundred of the citizens, and by a single resolution condemned them all to death."
+      ],
+      "reasoning": "The author cites the condemnation of 300 citizens by a 'single resolution' (mass sentencing without individual trials) as a specific crime of the Tyrants, showing that under the standard rule, such a group is entitled to individual legal process.",
+      "specificity": 7,
+      "specificity_reasoning": "This refers to a specific sub-group of citizens targeted during a period of civil strife.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exile's loss of residence",
+      "rule_category": "Denial of housing security",
+      "group": "Exiles",
+      "group_category": "Citizens",
+      "resource": "Right to reside within the city",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§58] ...but unwilling to restore the city to you who were in unjust exile: he went to Lacedaemon, and urged them to march out, insinuating that the city would be falling into the hands of the Boeotians..."
+      ],
+      "reasoning": "The text identifies 'exiles' as a group whose primary loss is the right to live within their own city and take part in its restoration, a state the author defines as 'unjust'.",
+      "specificity": 4,
+      "specificity_reasoning": "Exiles represent a substantial but distinct temporary category of the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Assembly voting rights",
+      "rule_category": "Access to political power",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to vote in the Assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§72] ...they called the Assembly to a debate on the constitution, when no orator could either oppose them or awe them with threats, while you, instead of choosing the course most advantageous to the city, could only vote in favour of their views."
+      ],
+      "reasoning": "The text describes the subversion of the Assembly's usual function, where citizens normally have the power to choose between different courses of action via a vote.",
+      "specificity": 1,
+      "specificity_reasoning": "The Assembly included all adult male citizens, representing the widest possible political group in Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Right of political speech",
+      "rule_category": "Exclusion from political speech",
+      "group": "Orators",
+      "group_category": "Occupation",
+      "resource": "Freedom to oppose legislation in Assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§72] ...they called the Assembly to a debate on the constitution, when no orator could either oppose them or awe them with threats..."
+      ],
+      "reasoning": "Lysias notes that during the oligarchy, the usual right of orators to speak in opposition to proposals or to use their rhetorical influence was suppressed by force and threats.",
+      "specificity": 6,
+      "specificity_reasoning": "This refers to the subset of citizens who actively practiced public speaking and political leadership.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial defense right",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to trial before execution",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§82] And whereas these men put people to death untried who were guilty of no wrong, you think fit to try according to law the persons who destroyed the city, and whose punishment by you, even if unlawfully devised, would still be inadequate to the wrongs that they have committed against the city."
+      ],
+      "reasoning": "Lysias contrasts the illegal actions of the Thirty Tyrants (killing without trial) with the current restored democracy's adherence to legal yields, where even those accused of subverting the state are granted a formal trial.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to individuals facing capital charges in a court of law, a significant but distinct subgroup of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Funerary rites access",
+      "rule_category": "Protection of religious access",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to conduct customary funerals",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§87] Now it is worth observing how the witnesses, in testifying for these men, accuse themselves: they take you to be singularly forgetful and simple, if they believe that by means of you, the people, they will save the Thirty with impunity, when owing to Eratosthenes and his partners in power it was dangerous even to conduct funerals of the dead.",
+        "[§96] ...and then did not even allow them to be given the customary burial, conceiving their own authority to be proof against the vengeance of Heaven."
+      ],
+      "reasoning": "The text identifies the ability to perform customary burials as a standard right that was dangerously suppressed under the oligarchy but is treated as a core resource of the restored order.",
+      "specificity": 2,
+      "specificity_reasoning": "Funerary rights are a general expectation for almost all members of the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Arms possession right",
+      "rule_category": "Grant of military privilege",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to bear arms",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§95] And all you of the Peiraeus party, remember first the matter of the arms,—how after fighting many battles on foreign soil you were deprived of your arms, not by the enemy, but by these men, in a time of peace."
+      ],
+      "reasoning": "The confiscation of arms is cited as a specific injury and loss of status/resource for the democratic citizens, implying that under the normal/just order, these citizens have the right to possess their military equipment.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the class of men capable of serving as hoplites, which represents a large portion of the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Freedom from extradition",
+      "rule_category": "Access to judicial protection",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Protection from seizure in foreign cities",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§95] ...and next, that you were formally banished from the city which your fathers bequeathed to you, and when you were in exile they demanded your persons from the various cities."
+      ],
+      "reasoning": "The author notes that the government pursued exiles even across borders, demanding their 'persons' (extradition/seizure), which removed their legal safety even outside Athenian territory.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to those formally banished from the state.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sanctuary protection",
+      "rule_category": "Access to religious protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Safety within temples and altars",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§98] ...and owing to the methods of these men you would have found no shelter from your wrongs in either temples or altars, where even wrongdoers are secure."
+      ],
+      "reasoning": "The text explicitly mentions that under normal law, even 'wrongdoers' are secured by reaching temples or altars, a right the Thirty ignored.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a general religious/legal rule that applies to anyone in the territory, regardless of guilt.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Debt-based enslavement",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from enslavement for petty debts",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§98] Of your children, as many as were here would have been foully assaulted by these men, while those in foreign parts would have been enslaved for petty debts, cut off from all possible assistance."
+      ],
+      "reasoning": "Lysias points out a vulnerability where children of exiles or those in 'foreign parts' were susceptible to being enslaved to cover small debts, indicating a lack of legal protection for this group's freedom.",
+      "specificity": 6,
+      "specificity_reasoning": "This refers specifically to the children of the disenfranchised or those living outside the city's protection.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0540.tlg012.perseus-eng2",
+  "_input_tokens": 22806,
+  "_output_tokens": 4642,
+  "_model": "google/gemini-3-flash-preview"
+}

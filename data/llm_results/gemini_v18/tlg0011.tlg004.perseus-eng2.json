@@ -1,0 +1,543 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Elderly political representation",
+      "rule_category": "Access to political speech",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to speak on behalf of a group",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Tell me, then, venerable old man—since it is proper that you speak for these—in what mood you sit here, one of fear or of desire?"
+      ],
+      "reasoning": "Oedipus identifies the elderly man (the Priest) as the 'proper' spokesperson for the assembly of suppliants, indicating a social and legal norm where seniority grants the right to represent a collective and address the sovereign.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to a broad demographic (the elderly), the rule specifically concerns the role of a spokesperson in a formal political/religious assembly.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Vengeance for royal homicide",
+      "rule_category": "Access to judicial protection",
+      "group": "Slain kings",
+      "group_category": "Lineage",
+      "resource": "Right to state-led blood vengeance",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] He was slain, and the god now bids us to take vengeance on his murderers, whoever they are.",
+        "[§1] For whoever killed Laius might wish to take vengeance on me also with a hand as fierce. Avenging Laius, therefore, I serve myself."
+      ],
+      "reasoning": "The text establishes a requirement for the state to pursue and punish those who kill a monarch, framed as 'paying back bloodshed with bloodshed' to resolve a public taint, showing that royal figures are entitled to active legal/religious vengeance.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule specifically protects the persons and legacies of those holding the office of king or of royal lineage.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Homicide-based banishment",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Murderers",
+      "group_category": "Occupation",
+      "resource": "Freedom of movement and residence",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Phoebus our lord clearly commands us to drive out the defilement which he said was harbored in this land, and not to nourish it so that it cannot be healed.",
+        "[§1] By banishing the man, or by paying back bloodshed with bloodshed, since it is this blood which brings the tempest on our city."
+      ],
+      "reasoning": "In cases of homicide, the perpetrator is identified as a 'defilement' that must be physically expelled from the territory, showing that such individuals lose their right to stay within the city-state.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any individual who commits the specific act of homicide, a status that is effectively immutable once the act is recognized by the state/god.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public assembly right",
+      "rule_category": "Access to political speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to hear official proclamations",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Creon: If you want to hear in the presence of these people, I am ready to speak: otherwise we can go inside. Oedipus: Speak to all. The sorrow that I bear for these is more than for my own life."
+      ],
+      "reasoning": "Oedipus insists that the news regarding the state's welfare be delivered 'to all' in public rather than in private council, affirming the right of the gathered folk to access information regarding the city's fate.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule concerns the general body of the people (the 'folk') gathered in the city's public spaces.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Self-denunciation amnesty",
+      "rule_category": "Access to judicial protection",
+      "group": "Homicides",
+      "group_category": "Occupation",
+      "resource": "Protection from capital punishment",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] And if he is afraid, I order him to remove the danger of indictment from his path by denouncing himself: he will suffer no other punishment, but will only leave this land, unhurt."
+      ],
+      "reasoning": "Oedipus establishes a legal decree offering safety from physical execution or further legal indictment if the guilty party confesses, replacing standard capital or corporal punishment with simple exile.",
+      "specificity": 8,
+      "specificity_reasoning": "I chose 8 because this rule applies specifically to individuals who have committed the highest crime (murder of a king) and choose to confess.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Informant rewards",
+      "rule_category": "Grant of economic privilege",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to state reward",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] If anyone knows the assassin to be an alien, from another land, let him not keep silent. I will reward him, and my thanks shall rest with him besides."
+      ],
+      "reasoning": "The text offers a concrete material reward and royal 'thanks' (political favor) to those who provide information leading to the capture of a foreign criminal.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to any individual (citizen or alien) who possesses specific information about a particular category of criminal (an alien assassin).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Impurity-based social exclusion",
+      "rule_category": "Exclusion from public life",
+      "group": "Religious defilers",
+      "group_category": "Legal status",
+      "resource": "Right to participate in communal ritual",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] I charge you that no resident of this land, which I rule, give shelter to or address that murderer, whoever he is, or make him a partner in prayer or sacrifice, or give him a share of the lustral rite. Ban him from your houses, all of you, knowing that this is the defilement"
+      ],
+      "reasoning": "A person identified as a 'defiler' or murderer is legally and religiously barred from all social contact, common housing, and public religious ceremonies (lustral rites/prayers).",
+      "specificity": 7,
+      "specificity_reasoning": "This rule targets a specific individual or group categorized by a legal/religious status (the murderer) but involves the entire resident population in its enforcement.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prophetic right of reply",
+      "rule_category": "Access to political speech",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to equal speech with the King",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] Though you are king, the right of reply must be considered the same for both: over that I have control. For I do not live as your slave, but as Loxias’."
+      ],
+      "reasoning": "Teiresias asserts a customary right whereby a seer (as a servant of a god, not the king) maintains the right to speak back as an equal to the monarch, regardless of the king's absolute secular power.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule is highly specific to the status of high-ranking religious figures (seers) in relation to the sovereign.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Prophetic clientage exemption",
+      "rule_category": "Legal status independence",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Exemption from political clientage",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] I will not stand enrolled as Creon’s client. And I tell you, since you have taunted my blindness, that though you have sight, you do not see what a state of misery you are in"
+      ],
+      "reasoning": "Teiresias claims that his status as a prophet of Apollo (Loxias) exempts him from the standard Greek social requirement of 'prostates' (protection/clientage) required of others who lack direct citizenship power.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies only to specific high-level religious practitioners who claim divine immunity from civil stratification.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Duty of state protection",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection of the king's person",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] For even if the matter had not been urged upon us by a god, it still would not have been fit that you should leave the guilt unpunished as it is, when one so noble—and he your king—had perished. You should have searched it out."
+      ],
+      "reasoning": "The text identifies a civic and legal obligation for the body of citizens to investigate and punish the murder of the monarch, framing it as a duty rather than an option.",
+      "specificity": 2,
+      "specificity_reasoning": "This obligation falls upon the entire citizen body (the Cadmeans).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public reputation protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from unproven accusations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] Never in past days or in these have I heard how the house of Labdacus or the son of Polybus had any quarrel with one another that I could bring as proof in assailing the public reputation of Oedipus, seeking to avenge the line of Labdacus for the undiscovered murder."
+      ],
+      "reasoning": "The Chorus refuses to accept a charge of murder against the king without concrete 'proof' of a motive (a quarrel), indicating a societal norm where high status or citizenship grants protection against baseless damage to one's public reputation.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule regarding the necessity of proof to assail reputation applies broadly across the citizen body, though the context here involves a ruler.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Political power through wealth",
+      "rule_category": "Access to political power",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to seek the throne",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Is your attempt not foolish, to seek the throne without followers or friends—a prize which followers and wealth must win?"
+      ],
+      "reasoning": "Oedipus explicitly identifies wealth and a following as the necessary prerequisites for attaining the throne, establishing a rule where political sovereignty is restricted to those with material resources.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically concerns the highest level of political office (the throne), which involves a very small number of potential candidates.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Kinsman penalty escape",
+      "rule_category": "Legal accountability",
+      "group": "Lineage",
+      "group_category": "Lineage",
+      "resource": "Liability for harming relatives",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] If you think you can wrong a kinsman and escape the penalty, you are not sane."
+      ],
+      "reasoning": "Oedipus asserts that wronging a kinsman carries an inescapable penalty, implying a legal or customary rule where those within a lineage are strictly held accountable for harms against family members.",
+      "specificity": 4,
+      "specificity_reasoning": "While it applies to anyone with kin, it is a specific subset of legal/moral obligations tied to lineage rather than general citizenship.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Royal power sharing",
+      "rule_category": "Access to political power",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Equal sway in governance",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] And you rule the land as she does, with equal sway. ... And do I not rank as a third peer of you two?"
+      ],
+      "reasoning": "The text describes a situation where the wife of the king (Iocasta) and her brother (Creon) share equal or near-equal political authority and influence with the monarch, showing that political power is distributed among high-ranking kinsmen.",
+      "specificity": 9,
+      "specificity_reasoning": "This concerns only the immediate royal family and their inner circle.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Evidentiary weight of oaths",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to be believed upon oath",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§16-17] Respect him who was in the past not foolish, and who now is strong in his oath. ... That you should never use an unproved rumor to cast a dishonoring charge on the friend who has bound himself with a curse."
+      ],
+      "reasoning": "The Chorus and Iocasta argue that an individual who has taken a formal oath (binding themselves with a curse) must be respected and protected from unproved rumors, establishing the oath as a concrete legal/customary mechanism for self-defense.",
+      "specificity": 5,
+      "specificity_reasoning": "Taking an oath as a form of legal proof was a standard procedure available to many, though used in specific high-stakes disputes.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Dissent in bad governance",
+      "rule_category": "Political power",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to challenge a ruler",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Oedipus: Still I must rule. Creon: Not if you rule badly. Oedipus: Hear him, city of Thebes! Creon: The city is mine too, not yours alone."
+      ],
+      "reasoning": "Creon asserts that a ruler's right to command is contingent upon ruling well, and that the city belongs to the citizens/nobles as well as the king, establishing a customary limit on absolute power.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general principle of the relationship between the governing and the governed in the Greek polis context.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Slave occupational transition right",
+      "rule_category": "Grant of economic privilege",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to reassignment upon request",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] Soon after he returned and found you ruling in Laius’ stead, he pled with me, with hand laid on mine, to send him to the fields, to the pastures of the flocks, that he might be far from the sight of this town. And I sent him; he was worthy, for a slave, to win even a larger favor than that."
+      ],
+      "reasoning": "Iocasta describes a specific instance where a slave's plea for a change in occupation and location (from the palace to rural pastures) was granted as a 'favor'. While she suggests he was exceptionally 'worthy', it establishes that a slave could theoretically negotiate their placement and specialized labor conditions within the household structure.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to slaves within a royal or wealthy household, a significant but specific subset of the population.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Polluted person social exclusion",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Mutilators or murderers",
+      "group_category": "Origin",
+      "resource": "Right to hospitality and social interaction",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] No stranger, no citizen, is allowed to receive him at home, it is unlawful for anyone to accost him, and all must push him from their homes."
+      ],
+      "reasoning": "Oedipus describes the customary and religious law regarding those under a curse/pollution (miasmos). Such individuals are systematically denied the basic civic and social resources of being received in a home or even being spoken to by others.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies only to a very small number of individuals who have committed specific 'unclean' acts like parricide or regicide.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Exile from ancestral land",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Mutilators or murderers",
+      "group_category": "Origin",
+      "resource": "Right to reside in own land",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] I must be banished, and in banishment neither see my own people, nor set foot in my own land."
+      ],
+      "reasoning": "The text establishes that guilt in a murder or the presence of a religious curse necessitates physical removal from the community and the loss of the right to live among one's kin or on one's land.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies only to those judged guilty of specific high crimes or religious pollution.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Illegal wealth seizure consequences",
+      "rule_category": "Denial of property rights",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Retention of ill-gotten gains",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] Insolence, once vainly stuffed with wealth that is not proper or good for it, when it has scaled the topmost ramparts, is hurled to a dire doom, where one’s feet cannot serve to good advantage."
+      ],
+      "reasoning": "The Chorus describes a societal/divine rule where wealth obtained through 'insolence' or 'not proper' means results in the total loss of status and safety, framing the retention of such goods as prohibited by 'Justice'.",
+      "specificity": 3,
+      "specificity_reasoning": "The warning against 'insolence' and improper wealth is a broad moral/legal archetype applicable to any ambitious or wealthy person in Greek tragedy context.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave status inheritance",
+      "rule_category": "Hereditary status transmission",
+      "group": "Children of slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom from inherited enslavement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] Be of good courage. Even if I should be found the son of a servile mother—a slave by three descents—you will not be proven baseborn."
+      ],
+      "reasoning": "Oedipus refers to the concept of being a 'slave by three descents,' which reflects the Athenian and broader Greek legal reality that slave status was hereditary and could be traced through the maternal line across multiple generations.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule defines the status of a large class of people (slaves and their descendants) based on birth.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Servile mother status attribution",
+      "rule_category": "Lineage-based social stratification",
+      "group": "Children of servile mothers",
+      "group_category": "Lineage",
+      "resource": "Right to noble or free-born status",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] Even if I should be found the son of a servile mother—a slave by three descents—you will not be proven baseborn."
+      ],
+      "reasoning": "The text explicitly links the status of the mother to the status of the child; if the mother is 'servile,' the child is considered a slave, highlighting the lack of access to free-born status for children of such women.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to many, it specifically targets the intersection of gender and freedom status in lineage.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Household slave occupation",
+      "rule_category": "Labor categorization",
+      "group": "Herdsmen",
+      "group_category": "Occupation",
+      "resource": "Right to domestic household status",
+      "resource_category": "Social status",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] Messenger: I think he was said to be one of the household of Laius. Oedipus: The king who ruled this country long ago? Messenger: The same. The man was a herdsman in his service."
+      ],
+      "reasoning": "The text identifies a specific category of worker—the 'herdsman in service'—who is formally recognized as being 'of the household' (oikeios) of the King, granting them a specific legal/customary placement within the royal estate.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific subset of the labor force tied to royal or noble estates.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female noble pride",
+      "rule_category": "Gender-based social expectations",
+      "group": "Noble women",
+      "group_category": "Gender",
+      "resource": "Social permission for public pride",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] That woman perhaps—for she is proud with more than a woman’s pride—feels ashamed of my lowly origin."
+      ],
+      "reasoning": "Oedipus's comment that Iocasta is proud 'with more than a woman's pride' indicates a societal norm or rule that the level of pride or public assertiveness permitted to women was strictly limited compared to men or noble figures.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the half of the population defined by gender within the upper class.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Judicial torture of house-born servants",
+      "rule_category": "Coercive interrogation",
+      "group": "House-born servants",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment during questioning",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] Oedipus: You will not speak with good grace, but will in pain. Servant: No, in the name of the gods, do not mistreat an old man. Oedipus: Someone, quick—tie his hands him this instant!"
+      ],
+      "reasoning": "In the dialogue, the Servant (a house-reared slave) is threatened with physical pain and ordered to be bound to compel his testimony. This reflects the legal and customary reality in 5th-century BCE Greece where the evidence of slaves was extracted through physical coercion (basanos).",
+      "specificity": 4,
+      "specificity_reasoning": "While applying specifically to the sub-class of house-born servants/slaves, it represents a broad legal norm regarding the admissibility and extraction of testimony from non-free persons.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Infanticide by exposure",
+      "rule_category": "Denial of life",
+      "group": "Infants",
+      "group_category": "Age",
+      "resource": "Right to life and rearing",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] Oedipus: How? Did she give it to you? Servant: Yes, my lord. Oedipus: For what purpose? Servant: That I should do away with it. Oedipus: Her own child, the wretched woman? Servant: Yes, from fear of the evil prophecies."
+      ],
+      "reasoning": "The text describes the mother (Iocasta) giving her infant to a servant specifically to be destroyed/exposed. In Sophocles' time, the paternal (or parental) right to decide whether to rear or expose a child was a recognized social and legal reality.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applied generally to newborn infants whose parents decided, for various reasons, not to rear them.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Self-banishment for religious pollution",
+      "rule_category": "Exclusion from territory",
+      "group": "Polluted persons",
+      "group_category": "Origin",
+      "resource": "Right to reside in the city",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§37] Second Messenger: He cries for some one to unbar the gates and show to all the Cadmeans his father’s slayer, his mother’s—the words must not pass my lips— in order to banish himself from the land and not to put the house under his own curse by waiting here."
+      ],
+      "reasoning": "The text refers to the necessity of an individual who has committed parricide and incest (miasma/pollution) to leave the land to prevent the city or house from being cursed. This reflects the Athenian practice of exile for homicide to cleanse the community.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific subset of the population: those who have incurred religious pollution through capital crimes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave status by birth",
+      "rule_category": "Inherited status",
+      "group": "Children of slaves",
+      "group_category": "Lineage",
+      "resource": "Freedom from enslavement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] Servant: I was—not a bought slave, but reared in his house."
+      ],
+      "reasoning": "The distinction between a 'bought slave' and one 'reared in the house' (oikotrips) confirms the structural rule that children born to slaves within a household automatically inherited slave status.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applied to all children born to enslaved persons within a domestic context.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pollution based exclusion",
+      "rule_category": "Exclusion from public life",
+      "group": "The religiously defiled",
+      "group_category": "Origin",
+      "resource": "Right to inhabit the city",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§43] I, noblest of the sons of Thebes—have doomed myself to know them no more by commanding that all should reject the impious one, the one whom the gods have revealed as unholy, a member of Laius’ own race!",
+        "[§43] Revere at least the all-nurturing flame of our lord the Sun, and don’t show so openly such a pollution as this, one which neither earth, nor holy rain, nor the light itself can welcome. Take him into the house as quickly as you can: it best accords with pity that kinfolk alone should see and hear a kinsman’s woes."
+      ],
+      "reasoning": "The text establishes that a person revealed as a religious 'pollution' (miasma) through acts like parricide or incest is legally and socially rejected by the community, losing the right to be seen in public spaces or remain within the city's boundaries.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual found to be 'unholy' or 'impious' under specific religious/legal criteria, which is a defined but restricted sub-group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Kinship based guardianship",
+      "rule_category": "Access to political protection",
+      "group": "Orphans",
+      "group_category": "Age",
+      "resource": "Right to male guardianship and support",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] Son of Menoeceus, hear me: since you are the only father left to them—we, their parents, are both gone— do not allow them to wander poor and unwed, for they are your own kin, nor abase them to the level of my woes."
+      ],
+      "reasoning": "Oedipus invokes the social and legal obligation of the nearest male relative (Creon) to act as a 'father'/guardian to the children of deceased or disqualified parents, ensuring they are not destitute or without marriage prospects.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all children in the society who lose their primary parents, designating their next of kin as responsible.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Male economic self-sufficiency",
+      "rule_category": "Access to resources",
+      "group": "Adult males",
+      "group_category": "Gender",
+      "resource": "Right to independent livelihood",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] Regarding my children, Creon, I beg you to take no care of my sons: they are men, so that they will never lack the means to live wherever they should be."
+      ],
+      "reasoning": "Oedipus explicitly states that his sons do not require the same protective intervention as his daughters because as 'men' they are expected and permitted to secure their own means of living independently.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire adult male population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Social exclusion of daughters",
+      "rule_category": "Gender-based social exclusion",
+      "group": "Daughters of the defiled",
+      "group_category": [
+        "Gender",
+        "Lineage"
+      ],
+      "resource": "Right to participate in festivals and marriage",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§43] To what company of the citizens will you go, to what festival, from which you will not return home in tears, not sharing in the holiday? But when you reach a ripe age for marriage, who shall he be, who shall be the man, my daughters, to risk taking upon himself the reproaches that will certainly be baneful to my offspring and yours?"
+      ],
+      "reasoning": "The text reveals that the social stigma of a father's crimes (parricide/incest) is transferred to the daughters, resulting in their exclusion from public religious festivals and making them ineligible for marriage.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to female descendants of individuals who have committed high-order religious crimes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Right to last rites",
+      "rule_category": "Access to religious rituals",
+      "group": "Deceased kin",
+      "group_category": "Lineage",
+      "resource": "Right to proper burial rites",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] And on you I lay this charge, to you I make this entreaty: give to the woman within such burial as you wish—you will properly render the last rites to your own."
+      ],
+      "reasoning": "Even in cases of suicide or family disgrace, the text assumes a fundamental right to burial and that the obligation to provide these 'last rites' falls specifically upon the kinsmen.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a universal rule for all deceased members of the society with living kin.",
+      "confidence": 10
+    }
+  ],
+  "_n_chunks": 7,
+  "_file_id": "tlg0011.tlg004.perseus-eng2",
+  "_input_tokens": 51963,
+  "_output_tokens": 8206,
+  "_model": "google/gemini-3-flash-preview"
+}

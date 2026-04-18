@@ -1,0 +1,88 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Suppliant right to hospitality",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Origin",
+      "resource": "Right to safe harbor and maintenance",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Then he came to Creon and long-robed Eniocha, who received him kindly and gave him all fitting things, as is due to suppliants, and honored him in their hearts even more."
+      ],
+      "reasoning": "The text explicitly mentions that receiving a suppliant and providing 'all fitting things' is a 'due' (a social/legal obligation). This demonstrates that individuals seeking asylum or refuge held a recognized right to material support and protection in Theban society.",
+      "specificity": 4,
+      "specificity_reasoning": "While any person could potentially become a suppliant, it is a specific legal/social status distinct from the general population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Marital blood-debt restriction",
+      "rule_category": "Marriage restriction",
+      "group": "Husbands",
+      "group_category": "Gender",
+      "resource": "Right to sexual access in marriage",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] There he dwelt with his modest wife without the joys of love, nor might he go in unto the neat-ankled daughter of Electryon until he had avenged the death of his wife's great-hearted brothers and utterly burned with blazing fire the villages of the heroes, the Taphians and Teleboans; for this thing was laid upon him, and the gods were witnesses to it."
+      ],
+      "reasoning": "The text describes a customary or semi-legal prohibition where a man who has caused family strife (killing the father-in-law) is barred from the 'joys of love' with his wife until he fulfills a specific blood-vengeance for her lineage.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific subset of married men dealing with blood-feuds or lineage-based obligations.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Elder safety from combat",
+      "rule_category": "Age-based military exclusion",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Protection from frontline combat",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] And the men who were elders and on whom age had laid hold were all together outside the gates, and were holding up their hands to the blessed gods, fearing for their own sons."
+      ],
+      "reasoning": "The description on the shield reflects a societal norm where older men are stationed 'outside the gates' in a non-combatant role (prayer/supervision) while the younger men ('their own sons') perform the actual fighting.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all men of a certain age within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Warrior right to spoils",
+      "rule_category": "Military service reward",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to strip enemy armor",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] But the son of Alcmena and glorious Iolaus stripped the fine armour off Cycnus' shoulders and went, and their swift horses carried them straight to the city of Trachis."
+      ],
+      "reasoning": "Stripping the armor of a defeated foe is treated as a standard legal/customary right of the victor in Homeric/Hesiodic warfare, representing a significant transfer of material wealth.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific right reserved for active combatants in an aristocratic/warrior society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Marriage procession rituals",
+      "rule_category": "Access to social recognition",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to lead public marriage festivals",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] some were bringing home a bride to her husband on a well-wheeled car, while the bridal-song swelled high, and the glow of blazing torches held by handmaidens rolled in waves afar. And these maidens went before, delighting in the festival"
+      ],
+      "reasoning": "The text describes a structured social role where handmaidens and young women are legally/customarily tasked with leading the bridal procession, granting them specific visibility and participation in civic-religious life.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to young, unmarried women of specific social standing.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0020.tlg003.perseus-eng2",
+  "_input_tokens": 10319,
+  "_output_tokens": 1237,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,676 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Health",
+      "rule": "Patient self-reduction of joints",
+      "group": "Those subject to frequent dislocations",
+      "resource": "Right to perform medical reduction",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§2] Those who are subject to frequent dislocations at the shoulder-joint, are for the most part competent to effect the reduction themselves; for, having introduced the knuckles of the other hand into the armpit, they force the joint upward, and bring the elbow toward the breast."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes that individuals with chronic joint issues are conventionally expected and able to perform their own medical procedures without a physician's intervention.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Physician technical reduction methods",
+      "group": "Physicians",
+      "resource": "Access to specialized medical techniques",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§1] ...it is an easy thing to teach all the methods by which physicians effect the reductions, and the best manner of applying them. The strongest of those methods should be used when the difficulty of reduction is particularly great."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text defines a set of professional resources and technical methods specifically associated with the occupation of a physician.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Difficulty of reduction for the fleshy",
+      "group": "Fleshy persons",
+      "resource": "Ease of medical recovery",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§8] The habit of the body also occasions a certain difference, for in those who are in a state of embonpoint and fleshy the joint is rarely dislocated, but is more difficult to reduce; but when they are more attenuated and leaner than usual, then they are subject to dislocations which are more easily reduced."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The physical state of the body (embonpoint/fleshy) is treated as a criterion that limits the resource of 'ease of medical reduction' compared to leaner individuals.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Joint stability in lean persons",
+      "group": "Lean persons",
+      "resource": "Protection from frequent luxations",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§8] ...dislocations occur more readily, and are more speedily reduced in those who are lean than in those who are fleshy; and in those who are humid and lank there is less inflammation than in such as are dry and fleshy... and hence the joints are more liable to luxations."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a rule that individuals categorized as lean or 'lank' have less access to joint stability/protection from dislocation due to their physiological makeup.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Athlete exclusion from gymnastics",
+      "group": "Athletes",
+      "resource": "Access to the gymnasium and physical training",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§11] For many persons owing to this accident have been obliged to abandon gymnastic exercises, though otherwise well qualified for them; and from the same misfortune have become inept in warlike practices, and have thus perished."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a general sociological consequence where individuals with chronic shoulder dislocations are forced to cease participation in standard civic and physical institutions like the gymnasium.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Soldier exclusion from warfare",
+      "group": "Soldiers",
+      "resource": "Eligibility for military service",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§11] For many persons... from the same misfortune have become inept in warlike practices, and have thus perished."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Recurring medical conditions are noted as a cause for losing the capacity to engage in military roles (warlike practices), which was a primary resource/duty for citizens in this period.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Stunted limb growth in minors",
+      "group": "Minors",
+      "resource": "Right to symetrical physical development",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§12] When attempts to reduce a dislocated shoulder have failed, if the patient be still growing, the bone of the affected arm will not increase like the sound one, for although it does increase in so far it becomes shorter than the other."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific segment of the population (those still growing/children) who suffer a permanent loss of physical development (resource) compared to adults when medical treatment fails.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Disabled restriction from overhead labor",
+      "group": "Disabled persons",
+      "resource": "Right to perform high-reach manual labor",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§12] but when they cease to have pain, whatever they attempt to perform by raising the elbow from the sides obliquely, they can no longer accomplish as formerly; but whatever acts are performed by carrying the arm around by the sides... all those they can perform."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author outlines the specific labor limitations (loss of resource/capacity) for individuals with unreduced dislocations, distinguishing what they can and cannot do in a workspace.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Medical abandonment of difficult cases",
+      "group": "Patients with permanent bone deformities",
+      "resource": "Access to continuous medical care",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§14] When, then, a fracture has recently taken place, the patients attach much importance to it, as supposing the mischief greater than it really is, and the physicians bestow great pains in order that it may be properly bandaged; but in a little time the patients, having no pain, nor finding any impediment to their walking or eating, become negligent; and the physicians finding they cannot make the parts look well, take themselves off, and are not sorry at the neglect of the patients, and in the meantime the callus is quickly formed."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a standard social behavior among practitioners where physicians 'take themselves off' (withdraw care) when a fracture result will be aesthetically imperfect (deformed), especially if the patient becomes less vigilant.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Growth impairment in congenital dislocation",
+      "group": "Children with congenital dislocations",
+      "resource": "Normal bone growth",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§21] In congenital dislocations the bones below the seat of the injury are shorter than natural, and, mostly, those nearest to the place; namely, the bones of the fore-arm, next those of the hand; and, third, those of the fingers.",
+        "[§28] In congenital dislocations (at the wrist) the hand becomes shortened, and the atrophy of the flesh occurs, for the most part, on the side opposite to the dislocation. In an adult the bones remain of their natural size."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes between those born with the condition (congenital) and those who acquire it as adults, noting that the younger group (children) loses the capacity for normal bone length/growth as a result of the condition.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Juvenile bone growth reduction",
+      "group": "young people",
+      "resource": "Normal bone growth",
+      "directionality": "LESS",
+      "verbatim": "[§29] When the dislocation takes place at birth, during adolescence the bones below the dislocation are shortened, and the flesh is wasted rather on the opposite than on the same side with the dislocation. When it occurs in an adult the bones remain of their proper size.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of physiological development where dislocations occurring during the growth phase (birth/adolescence) result in permanent shortening of bones, a loss of resource compared to those who suffer the same injury as adults.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Gold thread dental fixation",
+      "group": "Wealthy citizens",
+      "resource": "Access to gold dental ligatures",
+      "directionality": "MORE",
+      "verbatim": "[§32] if the teeth at the wound be distorted and loosened, when the bone is adjusted, they should be connected together, not only two, but more of them, with a gold thread, if possible, but otherwise, with a linen thread, until the bone be consolidated",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The medical instruction distinguishes between patients based on the availability of 'gold thread' versus 'linen thread' for stabilizing fractured jaws. This implies a distinction in the quality of medical material resources based on the patient's wealth.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Age-based medical material selection",
+      "group": "young people",
+      "resource": "Protection from heavy medical apparatus",
+      "directionality": "MORE",
+      "verbatim": "[§33] Then one must take a piece of Carthaginian leather; if the patient be a younger person, it will be sufficient to use the outer skin, but if an adult the whole thickness of the hide will be required; it is to be cut to the breadth of about three inches, or as much as will be required",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The thickness of the medical binding material is determined by the age of the patient, with younger individuals receiving a lighter resource (outer skin) compared to the full hide required for adults.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Professional surgical standard of care",
+      "group": "physicians",
+      "resource": "Reputation for professional judgment",
+      "directionality": "LESS",
+      "verbatim": "[§33] Those physicians who have not judgment combined with their dexterity, expose themselves in fractures of the jaws, as in other cases, for they apply a variety of bandages to a fractured jaw-bone... For all such bandaging of a fractured jawbone has a tendency rather to derange the bones connected with the fracture, than to bring them into their natural position.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text defines a professional group (physicians) and notes how those lacking 'judgment' lose the resource of professional efficacy and reputation by applying harmful treatments that derange the bones.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Preferred attendants for bone setting",
+      "group": "Women",
+      "resource": "Access to medical caregiving roles",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§37] Either of the fingers is to be placed firmly along the whole nose, and thus it is to be gently held, and steadily, if possible until it become firm, but if not, he himself is to hold it for as long a time as possible, or if he cannot, a child or woman should do it, for the hands ought to be soft."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author specifies that women (and children) are the preferred group to assist in the manual stabilization of a fractured nose because of the physical trait of having soft hands, which is presented as a clinical requirement for this specific treatment.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Preferred attendants for bone setting",
+      "group": "young people",
+      "resource": "Access to medical caregiving roles",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§37] Either of the fingers is to be placed firmly along the whole nose, and thus it is to be gently held, and steadily, if possible until it become firm, but if not, he himself is to hold it for as long a time as possible, or if he cannot, a child or woman should do it, for the hands ought to be soft."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Children are explicitly categorized as suitable assistants for holding a fractured nose in place due to the perceived softness of their hands, establishing a functional role for this age group in surgical recovery.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Stunted growth due to spinal deformity",
+      "group": "young people",
+      "resource": "Right to full physical development",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§41] And when the gibbosity occurs in youth before the body has attained its full growth, in these cases the body does not usually grow along the spine, but the legs and the arms are fully developed, whilst the parts (about the back) are arrested in their development."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific medical rule/outcome where the young (those who haven't reached full growth) lose the resource of full spinal development if they suffer from certain spinal diseases, contrasting them with those who attain the condition as adults.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Reduced fertility in spinal patients",
+      "group": "young people",
+      "resource": "Ability to generate offspring",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§41] when the gibbosity is seated higher up; but the whole spine is more elongated in them than in those who have the gibbosity seated higher up, the hair of the pubes and chin is of slower growth and less developed, and they are less capable of generation than those who have the gibbosity higher up."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage links a specific physical condition (spinal gibbosity occurring in youth below the diaphragm) to a reduction in reproductive capacity and secondary sexual characteristics, effectively identifying a group with less access to the resource of 'generation'.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Patient-led reduction of deformity",
+      "group": "Wealthy citizens",
+      "resource": "Right to aesthetic restoration",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§37] But although men would give a great price to escape being deformed, yet at the same time they do not know how to take care, nor have resolution, if they do not experience pain, nor fear death, although the formation of callus in the nose speedily place"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author observes that even those with the wealth ('great price') to avoid deformity fail to achieve it because they lack the necessary secondary resource of personal resolution/care, highlighting a gap between material status and medical outcomes.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Professional standard of clinical efficacy",
+      "group": "physicians",
+      "resource": "Protection from public disgrace",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§44] These matters should be thus arranged, if recourse is to be had at all to succussion on a ladder; for it is disgraceful in every art, and more especially in medicine, after much trouble, much display, and much talk, to do no good after all."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author establishes a normative rule for the medical profession where performing high-effort/high-visibility procedures that fail to produce results leads to a loss of professional reputation and social standing ('disgrace').",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Anatomical knowledge requirement",
+      "group": "physicians",
+      "resource": "Right to treat spinal diseases",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§45] In the first place, the structure of the spine should be known, for this knowledge is requisite in many diseases."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that scientific knowledge of anatomy is a prerequisite (resource) for those in the medical group to effectively treat spinal conditions.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Incurability of spinal marrow compression",
+      "group": "paralyzed patients",
+      "resource": "Access to corrective medical treatment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§46] It is evident, then, that such a case could not be reduced either by succussion or by any other method, unless one were to cut open the patient, and then, having introduced the hand into one of the great cavities, were to push outward from within, which one might do on the dead body, but not at all on the living."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "For patients with severe spinal displacement where the marrow is 'strangled', the author explicitly bars them from the resource of corrective surgery/reduction, noting it is impossible on the living.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Technical proficiency in succussion",
+      "group": "medical assistants",
+      "resource": "Right to perform medical extensions",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§43] the place where you make the succussion should be firm, and those who perform the extension should be well instructed, so that they may let go their hold equally to the same extent, and suddenly, and that the ladder may neither tumble to the ground on either side, nor they themselves fall forward."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text mandates that those performing the physical extension (medical assistants/staff) must possess specific training ('well instructed') to be permitted to conduct the procedure correctly and safely.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Palestra practitioners assisting in medical procedures",
+      "group": "men who are practiced in the palestra",
+      "resource": "Right to perform medical adjustments",
+      "directionality": "MORE",
+      "verbatim": [
+        "And there is nothing to prevent a person from placing a foot on the hump, and supporting his weight on it, and making gentle pressure; one of the men who is practiced in the palestra would be a proper person for doing this in a suitable manner. [§47]"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific professional/social group (athletes/trainers from the palestra) as having the recognized capacity or permission to assist physicians in physical medical maneuvers due to their physical expertise.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Instruction requirements for medical assistants",
+      "group": "physicians, or some person who is strong, and not uninstructed",
+      "resource": "Right to apply corrective spinal pressure",
+      "directionality": "MORE",
+      "verbatim": [
+        "But the physicians, or some person who is strong, and not uninstructed, should apply the palm of one hand to the hump, and then, having laid the other hand upon the former, he should make pressure... [§47]"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Access to performing high-risk medical procedures (applying force to a spinal deformity) is restricted to the educated (physicians) or those specifically noted as 'not uninstructed,' defining a boundary based on education/knowledge.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Dietary restrictions for the injured",
+      "group": "those with contusion of the flesh about the ribs",
+      "resource": "Right to eat fat and strong foods",
+      "directionality": "LESS",
+      "verbatim": [
+        "Wherefore some physicians pay much less attention to such injuries, than where the rib is fractured, whereas, if they were wise, they would treat such cases with far greater care than the other; for it is proper that the diet should be restricted, that the patients should remain at rest as much as possible, and abstain from venery, from fat articles of food, from such as excite cough, and from everything strong... [§50]"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The medical rule for patients with specific health conditions (contusions) involves a loss of access to certain material resources (specific foods) and behaviors (venery) as part of the societal-medical norm of the time.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Restricted diet for spinal fracture patients",
+      "group": "those with fracture of the ribs",
+      "resource": "Right to ordinary regimen and fullness",
+      "directionality": "LESS",
+      "verbatim": [
+        "For, unless they be seized with continual fever, a strict diet does more harm than good, by inducing inanition, and increasing the pain, fever, and cough; for moderate fullness of the intestines has a tendency to replace the ribs... [§49]"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule that patients with rib fractures (the group defined by health status) should generally maintain an ordinary regimen and 'fullness' rather than the 'strict diet' (less resource) often imposed by medical norms, unless fever is present.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Maimed infant sedentary labor restriction",
+      "group": "young people",
+      "resource": "Right to choose physical labor",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§53] Some tell a story how the Amazonian women dislocate the joints of their male children while mere infants, some at the knee, and others at the hip-joint, that they may be maimed [...] and that they use them as artisans to perform any sedentary work, such as that of a shoemaker or brazier."
+      ],
+      "contemporary": 0,
+      "factuality": 0,
+      "reasoning": "The text describes a practice where male children with physical impairments (dislocated joints) are restricted to sedentary occupations like shoemaking or brazing, rather than having the freedom to pursue more physically active labor.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male child physical disabling",
+      "group": "young people",
+      "resource": "Protection from physical mutilation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§53] Some tell a story how the Amazonian women dislocate the joints of their male children while mere infants, some at the knee, and others at the hip-joint, that they may be maimed, and that the male sex may not conspire against the female."
+      ],
+      "contemporary": 0,
+      "factuality": 0,
+      "reasoning": "The author reports a social norm/rule in Amazonian society where male children are intentionally maimed to prevent political or military conspiracy against the female ruling group.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Maimed child educational assistance",
+      "group": "young people",
+      "resource": "Access to instructional training",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§52] Those who were children when they met with the accident, and have been properly instructed, stand erect upon the sound leg, but carry about a staff [...] and the smaller the unsound limb, the greater facility have they in walking."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific class of people (children with dislocations) who receive 'instruction' on how to walk and stand erect despite their disability, indicating a social provision of rehabilitative training.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Infant mobility support priority",
+      "group": "young people",
+      "resource": "Access to rehabilitative care",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§55] but those persons require the most care who were very young when they met with the accident, for, if neglected while children, the limb becomes entirely useless and atrophied."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage establishes a medical and social rule that children with injuries must receive 'the most care' compared to adults, as the stakes for their future mobility are higher.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Injured limb exercise for atrophy prevention",
+      "group": "People with unreduced hip dislocations",
+      "resource": "Protection from muscle wasting",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§58] The wasting of the fleshy parts is analogous to what happens in the cases formerly described, for the wasting is greatest in those cases in which the patients keep the limb up, and do not exercise it, whilst those who practice walking, have the least atrophy."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a medical rule that physical exercise (walking) functions as a resource to prevent the natural consequence of atrophy in those with permanent joint injuries.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth dislocation growth arrest",
+      "group": "Minors",
+      "resource": "Normal bone growth",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§58] When then, from birth, or during one’s youth, this dislocation backward occurs, and is not reduced... the bone of the thigh becomes shortened, the whole limb is impaired, is arrested in its growth, and loses its flesh from want of use."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies youth/infancy as a criterion where the impact of the injury leads to a loss of the resource of natural skeletal growth compared to adults with the same injury.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Incurable patient protection from useless treatment",
+      "group": "Incurable patients",
+      "resource": "Protection from harmful medical applications",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§58] And incurable cases should be known, that they may not be aggravated by useless applications, and splendid and creditable prognostics are made by knowing where, how, and when every case will terminate."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The medical norm dictates that those categorized as 'incurable' have an entitlement to be left alone rather than subjected to painful or 'useless' interventions.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Limb use impact on sound side",
+      "group": "People with unreduced hip dislocations",
+      "resource": "Strength of the sound limb",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§58] The sound leg, however, is not benefited, but is rather rendered more deformed, if the injured limb be applied to the ground, for it is forced to cooperate with the other, being protruded at the hip, and bent at the ham."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author defines a rule where the 'resource' of a healthy, strong sound leg is lost if the patient attempts to walk on the injured side.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Joint use for physical health",
+      "group": "Humans",
+      "resource": "Increase in bulk and health",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§58] In a word, all parts of the body which were made for active use, if moderately used and exercised at the labor to which they are habituated, become healthy, increase in bulk, and bear their age well, but when not used, and when left without exercise, they become diseased, their growth is arrested, and they soon become old."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly links the use/exercise (labor) of body parts to the gain of health and physical development, while non-use leads to the loss of these resources.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "group": "Patients with congenital club-foot",
+      "resource": "Access to corrective medical treatment",
+      "directionality": "MORE",
+      "rule": "Club-foot deformity reduction",
+      "verbatim": [
+        "[§62] Most cases of congenital club-foot are remediable, unless the declination be very great, or when the affection occurs at an advanced period of youth. The best plan, then, is to treat such cases at as early a period as possible, before the deficiency of the bones of the foot is very great, and before there is any great wasting of the flesh of the leg."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a standard medical protocol for individuals born with a specific physical deformity, granting them access to a 'mode of cure' involving bandaging and moulding if treated early.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "group": "Patients with compound limb dislocations",
+      "resource": "Protection from fatal medical intervention",
+      "directionality": "LESS",
+      "rule": "Open dislocation reduction prohibition",
+      "verbatim": [
+        "[§63] In cases of complete dislocation at the ankle-joint, complicated with an external wound, whether the displacement be inward or outward, you are not to reduce the parts... For this you should know for certain, that the patient will die if the parts are allowed to remain reduced... But if not reduced, nor any attempts at first made to reduce them, most of such cases recover."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Hippocrates dictates a prohibitive rule for patients with open wounds at major joints: they are denied 'reduction' (resetting the bone) because the intervention is observed to be fatal. This is a general medical rule for a specific health-defined group.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "group": "Patients with open finger dislocations",
+      "resource": "Access to bone reduction",
+      "directionality": "MORE",
+      "rule": "Small joint reduction protocol",
+      "verbatim": [
+        "[§67] When the joints of the toes or hands are dislocated, and the bones protrude through a wound which they have made... in these cases, if the reduction be made and allowed to remain, there is some danger of spasms (tetanus?) if not properly treated, and yet it may be worth while to reduce them, having warned the patient beforehand that much caution and care will be required."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Unlike major joints, patients with injuries to small joints (toes/hands) are granted access to bone reduction, provided they are warned of risks, showing a differentiation based on the location/severity of the health condition.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "group": "Patients with complete bone resections",
+      "resource": "Protection from post-surgical fever",
+      "directionality": "LESS",
+      "rule": "Post-traumatic surgical survival risk",
+      "verbatim": [
+        "[§68] Complete resections of bones at the joints, whether the foot, the hand, the leg, the ankle, the forearm, the wrist, for the most part, are not unattended with danger, unless one be cut off at once by deliquium animi, or if continual fever supervene on the fourth day."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a group (those who have had bones completely cut off/resected at the joint) as having less protection from life-threatening complications (fever/death) compared to those with simple finger fractures.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Professional access to medical facilities",
+      "group": "physicians",
+      "resource": "Access to the gymnasium and physical training",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§72] It has been formerly stated by us that it will be of importance for any person who practices medicine in a populous city to get prepared a quadrangular board, about six cubits or a little more in length, and about two cubits in breadth; a fathom will be sufficient thickness for it; and then along it from the one end to the other, an excavation must be made, so that the working of the levers may not be higher than is proper."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of professional equipment for those practicing medicine in urban environments, specifically regarding the possession and use of a specialized reduction bench (the 'Hippocratic bench').",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Surgical limb removal for necrotic patients",
+      "group": "Patients with mortification",
+      "resource": "Right to surgical intervention",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§69] Those parts of the body which are below the boundaries of the blackening are to be removed at the joint, as soon as they are fairly dead and have lost their sensibility; care being taken not to wound any living part; for if the part which is cut off give pain, and if it prove not to be quite dead, there is great danger lest the patient may swoon away from the pain, and such swoonings often are immediately fatal."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text prescribes a specific medical rule for the treatment of patients suffering from sphacelus (gangrene), mandating the removal of dead limbs at the joint to prevent further injury or death.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Dietary maintenance for dysentery patients",
+      "group": "Patients with post-traumatic dysentery",
+      "resource": "Right to unrestricted diet",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§69] One may also expect that such patients will be attacked with dysentery [...] neither is it of a fatal nature, for such patients do not usually lose their appetite, nor is it proper to put them on a restricted diet."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a normative medical rule that patients suffering from a specific secondary condition (dysentery following mortification) should not have their food intake restricted, unlike other febrile patients.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Suspension contraindication for outward dislocation",
+      "group": "Patients with outward hip dislocation",
+      "resource": "Protection from harmful medical procedures",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§74] Suspension will not answer in this form of dislocation, for, in this instance, the arm of the person suspended from him, would push the head of the thigh-bone from the acetabulum."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific class of patients (those with outward hip dislocations) for whom a general medical procedure (suspension) is prohibited due to the risk of exacerbating the injury.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Physician duty of simple treatment",
+      "group": "physicians",
+      "resource": "Right to exercise professional discretion",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§78] The prime object of the physician in the whole art of medicine should be to cure that which is diseased; and if this can be accomplished in various ways, the least troublesome should be selected; for this is more becoming a good man, and one well skilled in the art, who does not covet popular coin of base alloy."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text establishes a normative professional rule for physicians, requiring them to prioritize simple, non-burdensome treatments over complex or 'popular' ones, thereby restricting their freedom of method in favor of ethical and professional standards.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Patient dietary restriction during recovery",
+      "group": "injured people",
+      "resource": "Right to full dietary choice",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§79] And, in all cases of reduction at joints, the patient must be put on a spare diet, but more especially in the case of the greatest joints, and those most difficult to reduce, and less so in those which are very small and easily reduced.",
+        "[§81] After all reductions of joints the patient should be confined to a restricted diet and abstinence until the seventh day"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Hippocrates defines a clear medical-social rule where individuals with certain health statuses (specifically those undergoing joint reduction) are mandatorily denied access to standard food portions as part of the treatment protocol.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Patient confinement and rest",
+      "group": "injured people",
+      "resource": "Freedom of movement",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§81] and the pained joint is to be kept constantly in a state of rest, and is to be laid in the most convenient position possible.",
+        "[§87] Exacerbations do occur, but less frequently than in dislocations at the wrist, provided the parts get rest. While they remain at rest the diet should be restricted."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text mandates physical confinement and the suspension of movement (rest) for individuals with joint injuries, which is a societal/medical rule limiting their personal liberty of action during the recovery period.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Exemption from hellebore during fever",
+      "group": "feverish patients",
+      "resource": "Access to specific medication (hellebore)",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§86] The treatment, if no fever be present, consists in the administration of hellebore, but otherwise (it is not to be given, but oxyglyky (decoction of honeycombs and vinegar) is to be given for drink, if required."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author outlines a rule based on health status (presence of fever) that excludes a specific group from a standard medicinal resource (hellebore) available to other injured patients.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 12,
+  "_file_id": "tlg0627.tlg010.perseus-eng2",
+  "_input_tokens": 70460,
+  "_output_tokens": 9920,
+  "_model": "google/gemini-3-flash-preview"
+}

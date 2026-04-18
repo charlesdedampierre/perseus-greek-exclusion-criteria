@@ -1,0 +1,697 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Gender",
+      "rule": "Wife's inclusion of dowry slaves",
+      "group": "Women",
+      "resource": "Right to personal attendants",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§1] Come, share with me your story; you will be telling it to a loyal and trusty heart; for Tyndareus sent me that day to form part of your wife’s dowry and to wait upon the bride with loyalty."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that as part of a marriage arrangement (the dowry), a woman is provided with a servant as a resource for her own household use and personal service.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly exemption from sleep",
+      "group": "old people",
+      "resource": "Need for sleep",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§1] It is little enough sleep old age allows me and keenly it watches over my eyes."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The character explicitly identifies a physical/societal differentiation based on age where elderly individuals are characterized by a diminished capacity or requirement for sleep.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Superior access to magistracies",
+      "group": "Wealthy citizens",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§1] I envy you, old man, yes, and every man who leads a life secure, unknown and unrenowned; but little I envy those in office. [...] And yet it is there that we place the be-all and end-all of existence."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue highlights a distinction between common individuals and those in high office (political power/magistracies), identifying such positions as the peak of societal aspiration and resource access.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Royal marriage requirements",
+      "group": "male heirs",
+      "resource": "Right to exclusive marital alliances",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§1] ...saying that he refused to sail with the Achaeans, unless a bride of our lineage should go to Phthia. Yes, this was the inducement I offered my wife, inventing, as I did, a sham marriage for the maiden."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The rule extracted is that high-status warriors (like Achilles) require brides specifically from royal lineages (the house of Agamemnon) as a resource/inducement for military cooperation.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from military service",
+      "group": "Women",
+      "resource": "Participation in military expeditions",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§3] Through the grove of Artemis, rich with sacrifice, I sped my course, my cheek stained with red from maiden modesty, in my eagerness to see the soldiers’ camp, the tents of the mail-clad Danaids, and their crowd of horses."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The chorus of women describes themselves as spectators who have 'come to see' the camp rather than participate in it, noting 'maiden modesty' in the presence of the male military force, reflecting a clear boundary.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Noble access to military command",
+      "group": "Kings / Noble Heirs",
+      "resource": "Eligibility for military command",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§8] mechanical Mecisteus’ son, whom Talaus his grandfather reared, and Sthenelus, son of Capaneus, were in command; next in order, Theseus’ son was stationed at the head of sixty ships from Attica",
+        "[§10] And from Mycenae, the Cyclopes’ town, Atreus’ son sent a hundred well-manned galleys, and Adrastoshis brother was with him in command",
+        "[§11] Moreover there was a squadron of twelve Aenianian sail under King Gouneus; and then near them the lords of Elis... and Eurytus was lord of these"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text systematically identifies the commanders of the various naval contingents by their lineage (nobility) or royal status, demonstrating that high military office was reserved for those of noble birth or royal descent.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from military service",
+      "group": "Women",
+      "resource": "Right to participate in military expeditions",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§7] Next I sought the countless fleet, a wonder to behold, that I might fill my girlish eyes with gazing, a sweet delight.",
+        "[§12] There I saw the naval armament, but some things I heard at home about the gathered army, of which I still have a recollection."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Chorus identifies as 'girlish' and describes their role as spectators/observers of the military force rather than participants. The mention of hearing things 'at home' reinforces the domestic confinement of women versus the public/military sphere of men.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave exclusion from family affairs",
+      "group": "Slaves",
+      "resource": "Right to involve oneself in transition of information",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§13] Menelaus: You shall rue it, if you meddle in matters that do not concern you. Old man: You had no right to open a letter, which I was carrying. ... Menelaus: Let go! you are too wordy for a slave."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Menelaus explicitly rebukes the old man's interference based on his status as a slave, asserting that matters regarding the royal family's correspondence and decisions do not concern those in servitude.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "General eligibility for governance",
+      "group": "Adult male citizens",
+      "resource": "Right to govern the state",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§13] Menelaus: May I never appoint a man to rule my country or lead its warriors because of his kinship! Sense is what the general must have; since any man, with ordinary intelligence, can govern a state."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Menelaus expresses the norm that any man with 'ordinary intelligence' (referring to the citizen body) is capable of governing, contrasting this with leadership based purely on aristocratic kinship.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Noble obligation to public dignity",
+      "group": "Nobility",
+      "resource": "Freedom to express private grief",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§13] Agamemnon: What an advantage humble birth possesses! for it is easy for her sons to weep and tell out all their sorrows; while to the high-born man come these same sorrows, but we have dignity throned over our life and are the people’s slaves."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Agamemnon contrasts the 'high-born' with those of 'humble birth,' noting that nobility imposes a social restriction on the outward expression of emotion and grief due to the requirements of public status/dignity.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from military councils",
+      "group": "Women",
+      "resource": "Access to military/political information",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§13] Agamemnon: Take one precaution for me, Menelaus, as you go through the army, that Clytemnestra does not learn this, till I have taken my child and devoted her to death, that my affliction may be attended with the fewest tears."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agamemnon explicitly orders the withholding of information regarding military/sacrificial decisions from his wife, highlighting the exclusion of women from the spheres of command and sacrificial policy.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Seer ambition and social distrust",
+      "group": "Priests",
+      "resource": "Social reputation and trust",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§13] Agamemnon: The whole tribe of seers is a curse with its ambition. Menelaus: Yes, and good for nothing and useless, when among us."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The dialogue establishes that the group of seers (mantis) is viewed with inherent suspicion and regarded as socially 'useless' or harmful due to their perceived political ambitions.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "High-born restricted emotional expression",
+      "group": "High-born men",
+      "resource": "Freedom of emotional expression",
+      "directionality": "LESS",
+      "verbatim": "[§15] What an advantage humble birth possesses! for it is easy for her sons to weep and tell out all their sorrows; while to the high-born man come these same sorrows, but we have dignity throned over our life and are the people’s slaves.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Agamemnon contrasts the 'humble born' with the 'high-born,' noting that social status and 'dignity' prevent leaders from openly weeping or expressing grief, effectively making them slaves to public expectation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "General must possess intelligence",
+      "group": "Generals",
+      "resource": "Right to hold command",
+      "directionality": "MORE",
+      "verbatim": "[§14] May I never appoint a man to rule my country or lead its warriors because of his kinship! Sense is what the general must have; since any man, with ordinary intelligence, can govern a state.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Menelaus argues that military leadership should be contingent upon intellectual capacity ('sense') rather than mere lineage, establishing intelligence as a required resource for the role.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Education",
+      "rule": "Education-based access to virtue",
+      "group": "Educated people",
+      "resource": "Access to virtue",
+      "directionality": "MORE",
+      "verbatim": "[§16] Likewise the training that come of education conduces greatly to virtue; for not only is modesty wisdom, but it has also the rare grace of seeing by its better judgment what is right; whereby a glory, ever young, is shed over life by reputation.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The Chorus identifies education as a specific mechanism that provides individuals with the capacity for virtue and the 'grace' of correct judgment.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male-only public leadership",
+      "group": "Women",
+      "resource": "Right to public political order",
+      "directionality": "LESS",
+      "verbatim": "[§16] A great thing it is to hunt virtue, for women when they love secretly; while in men, an inborn sense of order, shown in countless ways, adds to a city’s greatness.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text distinguishes between the private/secret virtue of women and the public 'sense of order' attributed to men which contributes to the state, effectively excluding women from the resource of public political governance.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Leader accountability to the mob",
+      "group": "Kings",
+      "resource": "Freedom from public compulsion",
+      "directionality": "LESS",
+      "verbatim": "[§15] The whole Achaean army here assembled. ... Don’t you think, then, he [Odysseus] will arise among the Argives and tell them the oracles ... Then, when he has carried the army away with him, he will bid the Argives slay us and sacrifice the girl.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agamemnon explains that despite his royal status, he is compelled by the 'mob' (the army) and cannot simply release his daughter, showing that the ruler lacks the resource of independent action when faced with collective military will.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from public religious rites",
+      "group": "Women",
+      "resource": "Right to participate in public religious ceremonies",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§20] Go within—it is wrong for maidens to be seen—after you have given me your hand and a kiss, on the eve of your lengthy sojourn far from your father’s side."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agamemnon explicitly instructs Iphigenia to go inside the house because it is considered socially 'wrong' or inappropriate for young women to be visible or present during the public/military religious sacrifices he is about to perform.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Paternal authority over daughter's marriage",
+      "group": "Women",
+      "resource": "Right to choose a spouse",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§20] Agamemnon: As for him, to whom you have betrothed our daughter, I know his name, it is true, but want to learn his lineage and the land of his birth. ... Agamemnon: Such is the future husband of your daughter. ... He who takes her to himself will see to that."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue demonstrates that the father (Agamemnon) has the sole authority to betroth the daughter and negotiate with the groom, while the daughter has no role in the selection or the arrangement.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male management of military/public affairs",
+      "group": "Women",
+      "resource": "Right to manage outdoor public affairs",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§20] Clytemnestra: No, by the goddess-queen of Argos! Go, manage matters out of doors; but in the house it is my place to decide what is proper for maidens at their wedding."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Clytemnestra defines a strict spatial and jurisdictional boundary based on gender: the 'out of doors' (military and public space) belongs to the man, while the 'house' (domestic space) is the woman's domain.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Noble access to social deference",
+      "group": "Nobility",
+      "resource": "Right to receive public reverence",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§20] Oh! great is the bliss the great enjoy. Behold Iphigenia, the king’s child, my lady, and Clytemnestra, the daughter of Tyndareus; how proud their lineage! how high their pinnacle of fortune! These mighty ones, whom wealth attends, are very gods in the eyes of less favored folk."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Chorus notes that those of high lineage and wealth (the 'great') receive a level of reverence approaching that of gods from the common or 'less favored' people.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Maternal right to bridal torch ceremony",
+      "group": "Women",
+      "resource": "Right to perform bridal torch rites",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§20] Clytemnestra: And leave my child? Then who will raise her bridal torch? Agamemnon: I will provide the proper wedding torch. Clytemnestra: That is not the custom; but you think lightly of these things."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Clytemnestra asserts that by Greek custom, the mother has the right and duty to raise the bridal torch, a resource Agamemnon tries to usurp.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Parental exclusion from marriage information",
+      "group": "Women",
+      "resource": "Access to information regarding marriage arrangements",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§22] Iphigenia: What! have you found me a new home, father? Agamemnon: Enough of this! it is not for girls to know such things."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agamemnon explicitly silences his daughter’s inquiry about her future home/marriage, stating that such knowledge is restricted from young women.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from public visibility",
+      "group": "Women",
+      "resource": "Right to be seen in public spaces",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§22] Agamemnon: Go within—it is wrong for maidens to be seen—after you have given me your hand and a kiss, on the eve of your lengthy sojourn far from your father’s side."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agamemnon commands his daughter to hide indoors based on the social norm that it is improper for unmarried women to be visible in public/military settings.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Maternal right to wedding rituals",
+      "group": "Women",
+      "resource": "Right to lead bridal ceremonies",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§22] Clytemnestra: It is good that a mother should give her own child away. ... No, by the goddess-queen of Argos! Go, manage matters out of doors; but in the house it is my place to decide what is proper for maidens at their wedding."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Clytemnestra asserts her customary right as a mother to manage the internal domestic and ritual aspects of the wedding, challenging her husband's attempt to exclude her.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from military camp",
+      "group": "Women",
+      "resource": "Right to reside in military spaces",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§22] Agamemnon: It is not good for you to be alone among a soldier-crowd. ... Go to Argos, and take care of your unwedded daughters."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agamemnon attempts to use the custom of gender segregation in military environments to remove his wife from the camp and send her back to the domestic sphere.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Paternal authority over daughters' marriage",
+      "group": "Women",
+      "resource": "Right to choose a spouse",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§22] Clytemnestra: As for him, to whom you have betrothed our daughter, I know his name, it is true, but want to learn his lineage and the land of his birth."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text shows that the father (Agamemnon) has the sole authority to betroth the daughter, with the mother only being informed of the decision and the daughter having no say.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male-only military space",
+      "group": "Women",
+      "resource": "Access to military camps",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] Who are you, and why have you come to the mustering of the Danaids—you, a woman, to a fenced camp of men?",
+        "[§27] Well and shortly answered on all important points, but it is shameful for me to stand talking to women."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that a military camp is specifically a 'fenced camp of men' and that the presence of a woman is an anomaly requiring explanation, further reinforced by the social shame associated with a soldier conversing with women in that setting.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave identity by ownership",
+      "group": "Slaves",
+      "resource": "Right to personal identity",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] Whose slave are you? not mine; for mine and Agamemnon’s goods are separate.",
+        "[§27] I belong to this lady who stands before the tent, a gift to her from Tyndareus her father."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue defines the slave not as an individual but as property ('goods') belonging to a specific owner, transferable as a 'gift' (dowry), illustrating a lack of right to personal autonomy or identity independent of a master.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Military service exemption for youth",
+      "group": "Minors",
+      "resource": "Exemption from military service",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§27] For this delay at the Euripus is not the same for all of us; there are some, for instance, who, bing still unwed, have left their houses desolate and are idling here upon the beach, while others are married but without children."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The distinction between those 'still unwed' vs those with families in a military context implies that there is a threshold of age/maturity (marriageability) required for service, and conversely, those too young (children) are not part of the 'idling' army at the beach, implying their exemption.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from public gaze",
+      "group": "Women",
+      "resource": "Right to public presence",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] Do not bring your daughter out for me to see, lady, nor let us incur the reproach of the ignorant; for an army, when gathered together without domestic duties to employ it, loves the evil gossip of malicious tongues."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Achilles explicitly warns against the public appearance of the daughter in the camp to avoid 'reproach' and 'gossip', indicating a social rule that limits women's visibility in crowded or public male spaces to protect their reputation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Guardian control over marriage",
+      "group": "Women",
+      "resource": "Right to choose spouse",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] It is not to secure a bride that I have spoken thus... but king Agamemnon has put an insult on me; he should have asked my leave to use my name as a means to catch the child, for it was I chiefly who induced Clytemnestra to betroth her daughter to me."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes marriage as a negotiation between men (Achilles and Agamemnon) where the daughter is 'betrothed' or used as a 'means', showing that the woman has no access to the resource of choosing her own partner.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave inclusion in female dowry",
+      "group": "Slaves",
+      "resource": "Right to remain in original household",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§28] Old man: Likewise you know it was in your dowry king Agamemnon received me. Clytemnestra: Yes, you came to Argos with me, and have been mine this long time past."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a common Greek social rule where slaves were included as material assets within a woman's dowry, resulting in the slave being transferred from the father's house to the husband's house upon marriage.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from military camps",
+      "group": "Women",
+      "resource": "Freedom from social reproach in public spaces",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§29] Achilles: Do not bring your daughter out for me to see, lady, nor let us incur the reproach of the ignorant; for an army, when gathered together without domestic duties to employ it, loves the evil gossip of malicious tongues."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Achilles cites a social norm where women (especially unmarried ones) appearing in a military camp face gossip and reputational damage, restricting their freedom of movement in these spaces.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female modesty in public supplication",
+      "group": "Women",
+      "resource": "Right to public political appeal",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§29] Clytemnestra: Will you have her clasp your knees as a suppliant? it is no maid’s part; yet if it seems good to you, why, come she shall with the modest look of free-born maid; but if I shall obtain the same end from you without her coming then let her abide within, for there is dignity in her reserve."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Clytemnestra acknowledges a norm where it is considered inappropriate ('no maid's part') for a young woman to engage in the physical act of public supplication, indicating a restriction on how women can access help or justice.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Soldier right to rational leadership",
+      "group": "Soldiers",
+      "resource": "Right to refuse obedience to leaders",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§29] Achilles: and provided the Atridae lead well, I will obey them; but when they cease from that, no more will I obey; no, but here and in Troy I will show the freedom of my nature"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Achilles defines a rule of conditional obedience within the Greek army: the duty to follow commanders is predicated on the quality of their leadership, otherwise the free-born soldier retains his autonomy.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Maiden exclusion from certain discourse",
+      "group": "Women",
+      "resource": "Access to private familial consultation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§34] Daughter of Leda, it is lucky I have found you outside the tent, to discuss with you in our daughter’s absence subjects not suited for the ears of maidens on the eve of marriage."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agamemnon explicitly identifies a category of speech/information that is deemed inappropriate for young women, restricting their access to specific types of family planning or political discussions based on their gender and status as 'maidens'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Child obedience to parental summons",
+      "group": "young people",
+      "resource": "Right to personal autonomy",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§34] Come forth, my daughter; well you know what is in your father’s mind; take the child Orestes, your brother, and bring him with you in the folds of your robe. Behold! she comes, in obedience to your summons."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text demonstrates the lack of autonomy for children (Iphigenia and the infant Orestes), as their movements and presence are governed entirely by the 'summons' and commands of their parents.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Paternal authority over child's life",
+      "group": "Kings",
+      "resource": "Total authority over offspring's life",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§34] It is not Menelaus who has enslaved me to him, child, nor have I followed his wish; no, it is Hellas, for whom I must sacrifice you whether I will or not; to this necessity I bow my head",
+        "[§34] Ah! my child, he that begot you has slain you himself, he and no one else, nor was it by another’s hand"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a societal structure where the father (specifically the king/head of lineage) has the ultimate right to decide the life or death of his children for the sake of political or religious necessity.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female vulnerability to forced marriage",
+      "group": "Women",
+      "resource": "Freedom to choose a spouse",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§34] In the first place—to reproach you first with this—it was not of my own free will but by force that you took and wed me, after slaying Tantalus, my former husband, and dashing my baby on the ground when you had torn him from my breast with brutal violence."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Clytemnestra recounts her marriage as a product of martial force rather than consent, indicating that women lack the resource of self-determination in marital unions, particularly in contexts of war or conquest.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male precedence in life value",
+      "group": "Women",
+      "resource": "Right to life",
+      "directionality": "LESS",
+      "verbatim": "[§37] It is not right that this man should enter into battle with all Argos or be slain for a woman’s sake. Better a single man should see the light than ten thousand women.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text explicitly states a hierarchy of life value where a single man's life is presented as more valuable than the lives of ten thousand women, justifying the sacrifice of the female protagonist.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Ethnicity",
+      "rule": "Hellenic dominance over barbarians",
+      "group": "Metics",
+      "resource": "Political self-determination",
+      "directionality": "LESS",
+      "verbatim": "[§37] And it is right, mother, that Hellenes should rule barbarians, but not barbarians Hellenes, those being slaves, while these are free.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text establishes a rule of ethnic hierarchy where non-Greeks (barbarians) are characterized as naturally suited for slavery and rule by Greeks.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from public mourning",
+      "group": "Women",
+      "resource": "Right to public mourning rites",
+      "directionality": "LESS",
+      "verbatim": "[§37] Cut not off the tresses of your hair for me, nor clothe yourself in sable garb. [...] Do not put mourning raiment on them either. [...] for at the holy rites it is not fitting.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Iphigenia instructs her mother and sisters to refrain from traditional mourning symbols (cutting hair, black clothing) because her death is framed as a public/divine sacrifice rather than a private loss.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Female exclusion from military policy",
+      "group": "Women",
+      "resource": "Influence over military decisions",
+      "directionality": "LESS",
+      "verbatim": "[§37] I see that you are angry with your husband to no purpose; it is hard for us to persist in impossibilities. [...] My one life prevent all this? What kind of justice is that?",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The female characters acknowledge they lack the power to stop the collective military will of the 'men of Hellas' or the 'mob', framing female resistance to military sacrifice as an 'impossibility'.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Ethnicity",
+      "rule": "Hellenic dominance over barbarians",
+      "group": "Metics / Foreigners",
+      "resource": "Right to self-governance",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§38] And it is right, mother, that Hellenes should rule barbarians, but not barbarians Hellenes, those being slaves, while these are free."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The passage establishes a rule of ethnic hierarchy, defining non-Hellenes (barbarians) as naturally subject to the rule of Hellenes and equating their status with slavery.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Mortal subjugation to divine will",
+      "group": "Citizens",
+      "resource": "Personal autonomy",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§38] If Artemis has decided to take my body, am I, a mortal, to thwart the goddess? no, that is impossible. I give my body to Hellas; sacrifice it and make an utter end of Troy."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a rule where human individuals, even those of high status, cannot refuse a divine demand for their life/body once a religious determination (sacrifice) has been made.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from military policy",
+      "group": "Women",
+      "resource": "Political power",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§38] It is not right that this man should enter into battle with all Argos or be slain for a woman’s sake."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The passage argues that it is unjust for the male military collective (Argos/Achilles) to be risked or inconvenienced for the sake of an individual woman's interests.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male command of military forces",
+      "group": "Adult male citizens",
+      "resource": "Right to lead military expeditions",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§42] You captains of this leagued Achaean army, do you see this victim, which the goddess has set before her altar... Therefore take heart, sailors, each man of you, and away to your ships, for today we must leave the hollow bays of Aulis and cross the Aegean main."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies the captains and sailors as the active participants in the military campaign and the recipients of the orders to sail. In the context of the Greek army at Aulis described by the messenger, the leadership and operational roles in the military are reserved for men.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Priestly performance of animal sacrifice",
+      "group": "Priests",
+      "resource": "Right to perform ritual sacrifices",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§42] But the priest, seizing his knife, offered up a prayer and was closely scanning the maiden’s throat to see where he should strike... Then, when the sacrifice was wholly burnt to ashes in the blazing flame, he offered such prayers as were fitting, that the army might win return."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The messenger describes the specific occupational role of the priest (Calchas) in performing the physical act of sacrifice and the accompanying prayers, identifying this as a specialized religious function within the society.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Domestic restriction of wives",
+      "group": "Women",
+      "resource": "Freedom of movement outside the home",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§43] But you must take this tender child and start for home, for the army is looking now to sail. Fare you well! it is long before I shall greet you on my return from Troy."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agamemnon explicitly instructs Clytemnestra to return to the domestic sphere (home) while the men depart for the public/military sphere of war, reflecting the societal norm of gendered spatial segregation.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 12,
+  "_file_id": "tlg0006.tlg018.perseus-eng2",
+  "_input_tokens": 71451,
+  "_output_tokens": 9972,
+  "_model": "google/gemini-3-flash-preview"
+}

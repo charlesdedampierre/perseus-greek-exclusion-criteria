@@ -1,0 +1,38 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Node / explorer app
+node_modules/
+dist/
+.vite/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs / runtime
+*.log
+data/llm_results/gemini_v19_run.log
+data/llm_results/classify_work_polity_run.log
+
+# Heavy raw corpus (reproducible from extract_perseus.py on Perseus XML)
+data/full_text/
+
+# Third-party Perseus Digital Library repository (774 MB, clone separately
+# from https://github.com/PerseusDL/canonical-greekLit)
+canonical-greekLit/
+
+# Local sqlite used only for Wikidata lookup
+*.db

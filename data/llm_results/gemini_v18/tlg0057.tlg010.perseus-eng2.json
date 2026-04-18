@@ -1,0 +1,963 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Slave service restriction",
+      "rule_category": "Social stratification",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to intellectual labor",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] Now such of the younger men as have dignified themselves with the names of these two authorities by taking the appellations Erasistrateans or Asclepiadeans are like the Davi and Getae — the slaves introduced by the excellent Menander into his comedies. ... In the old days such people used to be set to menial tasks."
+      ],
+      "reasoning": "Galen uses the historical precedent of slaves (Davi and Getae) to illustrate that individuals lacking dialectical or intellectual capability were legally or customarily relegated to 'menial tasks,' implying an exclusion from higher-order professions or intellectual autonomy.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to the class of slaves generally, it specifically describes the division of labor between menial and intellectual roles in the Graeco-Roman context.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Physician-Philosopher diagnostic authority",
+      "rule_category": "Professional status",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to determine physiological truth through dissection",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] The name sensible elements is given to all the homogeneous parts of the body, and these are to be detected not by any system, but by personal observation of dissections.",
+        "[§13] Now the method of demonstration is as follows. One has to divide the peritoneum in front of the ureters, then secure these with ligatures, and next, having bandaged up the animal, let him go... When this has been made quite clear, then, before the animal urinates, one has to tie a ligature round his penis and then to squeeze the bladder all over."
+      ],
+      "reasoning": "Galen establishes that the elite group of 'physicians and philosophers' (specifically those following Hippocratic-Aristotelian traditions) possesses the exclusive right and methodological authority to define the nature of the body through the concrete practice of dissection and vivisection, contrasting them with 'Sophists' or 'unintelligent' practitioners.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to the high-level medical elite who possess the resources and education to conduct anatomical research.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sectarian intellectual exclusion",
+      "rule_category": "Intellectual exclusion",
+      "group": "Sophists",
+      "group_category": "Occupation",
+      "resource": "Access to scientific credibility",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] As for those who cannot understand even this, but who simply talk any nonsense that comes to their tongues, and who do not remain definitely attached either to one sect or the other — such people are not even worth mentioning."
+      ],
+      "reasoning": "Galen describes a customary rule within the intellectual/scientific elite where those labeled as 'Sophists' or inconsistent thinkers are denied the resource of being 'worth mentioning'—effectively an exclusion from the recognized scholarly community and its privileges.",
+      "specificity": 6,
+      "specificity_reasoning": "Targets a specific group of competitive intellectual rivals within the Roman medical marketplace.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Empirical witness standing",
+      "rule_category": "Legal standing",
+      "group": "Butchers",
+      "group_category": "Occupation",
+      "resource": "Right to provide expert anatomical testimony",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] That these are organs for secreting [separating out] the urine, was the belief not only of Hippocrates, Diocles, Erasistratus, Praxagoras, and all other physicians of eminence, but practically every butcher is aware of this, from the fact that he daily observes both the position of the kidneys and the duct (termed the ureter) which runs from each kidney into the bladder, and from this arrangement he infers their characteristic use and faculty."
+      ],
+      "reasoning": "Galen grants a specific level of empirical authority to butchers, acknowledging their right to serve as baseline witnesses for anatomical facts based on their occupational proximity to material reality, even if they lack high-level philosophical training.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to a specific trade group recognized for their practical knowledge above the theoretical errors of some philosophers.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Physician-Philosopher intellectual authority",
+      "rule_category": "Access to intellectual authority",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to demonstrate natural principles",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] In fact, all those known to us who have been both physicians and philosophers Hippocrates was the first who took in hand to demonstrate that there are, in all, four mutually interacting qualities, and that to the operation of these is due the genesis and destruction of all things that come into and pass out of being."
+      ],
+      "reasoning": "Galen identifies a specific class of experts—those who are both physicians and philosophers—as the legitimate sources of demonstrations regarding the fundamental qualities of nature and biology, elevating their testimony and intellectual standing above others.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific professional elite (physician-philosophers) within the broader educated Greek/Roman society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sophist intellectual exclusion",
+      "rule_category": "Exclusion from scientific discourse",
+      "group": "Sophists",
+      "group_category": "Occupation",
+      "resource": "Right to be heard in scientific debate",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] Others (such as Anaxagoras) will have it that the qualities do exist in it, but that they are unchangeable and immutable from eternity to eternity, and that these apparent alterations are brought about by separation and combination. Now, if I were to go out of my way to confute these people, my subsidiary task would be greater than my main one. [...] We shall then, as I said, renounce our controversy with them, since those who wish may get a good grasp of the views of the ancients from our own personal investigations into these matters."
+      ],
+      "reasoning": "Galen explicitly refuses to engage with or 'confute' the Sophists and those who deny material alteration, effectively excluding them from the valid circle of medical and natural-philosophical discourse.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to a specific school of thinkers/rhetoricians characterized by their professional-intellectual claims.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Student textual access",
+      "rule_category": "Access to educational resources",
+      "group": "Students",
+      "group_category": "Age",
+      "resource": "Access to authoritative scientific texts",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] Thus, if they do not know all that has been written, On Complete Alteration of Substance by Aristotle, and after him by Chrysippus, I must beg of them to make themselves familiar with these men's writings. If, however, they know these, and yet willingly prefer the worse views to the better, they will doubtless consider my arguments foolish also."
+      ],
+      "reasoning": "The text establishes a requirement/right for those engaging in medicine or nature (students/scholars) to access and be familiar with specific authoritative texts (Aristotle, Chrysippus) as a prerequisite for participation in the field.",
+      "specificity": 3,
+      "specificity_reasoning": "While targeted at intellectuals, it represents the standard educational requirement for the literate, professional class.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Childhood play activities",
+      "rule_category": "Access to social customs",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to participate in traditional games",
+      "resource_category": "Cultural participation",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] Children take the bladders of pigs, fill them with air, and then rub them on ashes near the fire, so as to warm, but not to injure them. This is a common game in the district of Ionia, and among not a few other nations. As they rub, they sing songs, to a certain measure, time, and rhythm, and all their words are an exhortation to the bladder to increase in size."
+      ],
+      "reasoning": "Galen describes a specific, widespread customary practice involving pig bladders and specific songs that is identified as a 'common game' specifically for children in Ionia and other nations.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific age demographic (children) within certain geographic regions (Ionia and others).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Maternal biological contribution",
+      "rule_category": "Biological resource allocation",
+      "group": "Mothers",
+      "group_category": "Gender",
+      "resource": "Provision of menstrual blood for fetal development",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] ...each of these two coats has an alterative faculty peculiar to it, which has engendered it from the menstrual blood of the mother."
+      ],
+      "reasoning": "In the medical-legal understanding of the time, the mother's 'resource' (menstrual blood) is systematically diverted to the generation of the offspring's organs, representing a material transfer from the mother to the new entity.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all child-bearing women in the society described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Intellectual sector exclusion",
+      "rule_category": "Exclusion from intellectual discourse",
+      "group": "Unsystematic thinkers",
+      "group_category": "Occupation",
+      "resource": "Right to be recognized in philosophical debate",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] I speak, of course, of such of them as know what they are talking about, and who realize the logical sequence of their hypotheses, and stand by them; as for those who cannot understand even this, but who simply talk any nonsense that comes to their tongues, and who do not remain definitely attached either to one sect or the other — such people are not even worth mentioning."
+      ],
+      "reasoning": "Galen explicitly excludes a specific group of people from the 'sects' of medicine and philosophy based on their lack of logical consistency and adherence to a defined school of thought, effectively stripping them of professional or intellectual standing in his society.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific sub-set of the educated class (physicians and philosophers) who fail to meet the standards of systematic thought.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Divinatory dismissal",
+      "rule_category": "Exclusion from religious participation",
+      "group": "Atomist philosophers",
+      "group_category": "Occupation",
+      "resource": "Right to participate in divinatory practices",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] This school also despises dreams, birds, omens, and the whole of astrology, subjects with which we have dealt at greater length in another work, in which we discuss the views of Asclepiades the physician."
+      ],
+      "reasoning": "Galen identifies a specific school of thought (the atomists/Asclepiadeans) that systematically rejects and is excluded from the traditional Roman/Greek civic religious and divinatory framework (omens, astrology, etc.).",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific intellectual/philosophical group within the broader society of the 2nd century AD.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Admission to medical dispute",
+      "rule_category": "Access to intellectual standing",
+      "group": "Butchers",
+      "group_category": "Occupation",
+      "resource": "Recognition of anatomical knowledge",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] That these are organs for secreting [separating out] the urine, was the belief not only of Hippocrates, Diocles, Erasistratus, Praxagoras, and all other physicians of eminence, but practically every butcher is aware of this, from the fact that he daily observes both the position of the kidneys and the duct (termed the ureter) which runs from each kidney into the bladder, and from this arrangement he infers their characteristic use and faculty."
+      ],
+      "reasoning": "Galen includes butchers as a group whose daily professional observations constitute valid evidence in a scientific/philosophical dispute, granting them a level of empirical authority usually reserved for physicians.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific trade group within the urban economy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Youth bile evacuation",
+      "rule_category": "Medical treatment differentiation",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Access to effective biliary purgation",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] Is not also the fact that in summer yellow bile is evacuated in greater quantity by the same drugs, and in winter phlegm, and that in a young man more bile is evacuated, and in an old man more phlegm?"
+      ],
+      "reasoning": "The text describes a medical/biological rule of the era where treatment (purgation) is specifically adjusted by age group; youths are recognized as possessing more bile to be resourcefully evacuated compared to the elderly.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to a very broad demographic category based on life stage.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Elderly phlegm evacuation",
+      "rule_category": "Medical treatment differentiation",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Access to effective phlegm purgation",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] Is not also the fact that in summer yellow bile is evacuated in greater quantity by the same drugs, and in winter phlegm, and that in a young man more bile is evacuated, and in an old man more phlegm?"
+      ],
+      "reasoning": "The medical practice of the time, as defended by Galen, differentiates the 'resource' of specific drug efficacy based on age, granting elders more access to phlegm-attracting treatments.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to a very broad demographic category based on life stage.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Anatomical demonstration access",
+      "rule_category": "Access to scientific proof",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to observe vivisection for proof",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] We were, therefore, further compelled to show them in a still living animal, the urine plainly running out through the ureters into the bladder... Now the method of demonstration is as follows. One has to divide the peritoneum in front of the ureters, then secure these with ligatures, and next, having bandaged up the animal, let him go (for he will not continue to urinate)."
+      ],
+      "reasoning": "Galen describes a social and professional norm where physicians (even those he disagrees with) are granted access to witness complex surgical demonstrations and vivisections to settle disputes over natural faculties.",
+      "specificity": 5,
+      "specificity_reasoning": "This specifically concerns the professional class of medical practitioners and scholars.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave labor for unintelligent students",
+      "rule_category": "Obligation of menial labor",
+      "group": "Unintelligent students",
+      "group_category": "Health",
+      "resource": "Freedom from menial tasks",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] And there are some of them, who, even if they meet with more than one teacher, are yet so unintelligent and slow-witted that even by the time they have reached old age they are still incapable of understanding the steps of an argument.... In the old days such people used to be set to menial tasks.... What will be the end of it God knows!"
+      ],
+      "reasoning": "Galen notes that historically, individuals lacking the cognitive capacity for philosophy or medicine (the 'slow-witted') were relegated to menial labor rather than being allowed to claim professional status, implying a customary loss of professional freedom based on perceived intellectual disability.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a specific sub-section of the population (those failing intellectual training) but Galen suggests it was a standard social practice in the 'old days'.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Physician professional self-identification",
+      "rule_category": "Access to professional status",
+      "group": "Students",
+      "group_category": "Age",
+      "resource": "Right to claim professional titles",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Now people of the present day do not begin by getting a clear comprehension of these sects, as well as of the better ones, thereafter devoting a long time to judging and testing the true and false in each of them; despite their ignorance, they style themselves, some physicians and others philosophers."
+      ],
+      "reasoning": "Galen complains that in his contemporary society, there is no enforcement of training requirements, allowing anyone—regardless of actual knowledge—the resource of styling themselves as a professional physician or philosopher.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual entering the fields of medicine or philosophy in Galen's time.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Theft via corn-water trick",
+      "rule_category": "Economic deception",
+      "group": "Peasants",
+      "group_category": "Occupation",
+      "resource": "Right to retain extra grain weight",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] When our peasants are bringing corn from the country into the city in wagons, and wish to filch some away without being detected, they fill earthen jars with water and stand them among the corn; the corn then draws the moisture into itself through the jar and acquires additional bulk and weight, but the fact is never detected by the onlookers unless someone who knew about the trick before makes a more careful inspection."
+      ],
+      "reasoning": "The text describes a systematic customary practice (a 'trick') among the peasantry to increase the weight and value of their goods through moisture absorption, effectively gaining a resource (unauthorized profit/bulk) through a specific technique.",
+      "specificity": 5,
+      "specificity_reasoning": "This describes a specific occupational subset (peasants) and a specific context (transporting grain to the city).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave accountability for theft",
+      "rule_category": "Legal and moral accountability",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from accusation of rascality",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] they are like slaves who have had plenty to say in the early part of their career, and have managed by excessive rascality to escape many and frequent accusations, but who, later, when caught in the act of thieving, cannot find any excuse; the more modest one then keeps silence, as though thunderstruck, whilst the more shameless continues to hide the missing article beneath his arm and denies on oath that he has ever seen it."
+      ],
+      "reasoning": "Galen uses the social and legal reality of his time—slaves being caught in theft and subjected to accusations—as a metaphor for the intellectual failures of his opponents. The text indicates that slaves are a group systematically subject to 'many and frequent accusations' and are expected to provide 'excuses' or face the consequences of being 'caught in the act.'",
+      "specificity": 4,
+      "specificity_reasoning": "While slave laws were a major part of Roman-era society, this specifically references the subset of slaves who engage in domestic or economic labor where theft and subsequent judicial/master-led 'accusations' occur.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave social behavioral expectation",
+      "rule_category": "Social control of status",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Reputation for honesty and integrity",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] Now such of the younger men as have dignified themselves with the names of these two authorities by taking the appellations Erasistrateans or Asclepiadeans are like the Davi and Getae — the slaves introduced by the excellent Menander into his comedies. As these slaves held that they had done nothing fine unless they had cheated their master three times, so also the men I am discussing have taken their time over the construction of impudent sophisms."
+      ],
+      "reasoning": "Galen references the standard literary and social trope of the 'dishonest slave' (Davi and Getae) from New Comedy to insult his rivals. This reveals a societal rule where slaves are structurally denied the resource of being considered trustworthy or honorable, as their 'virtue' is defined by successful deception of their masters.",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects a general social stereotype and customary expectation applied to the entire class of slaves in the Greco-Roman world of Galen's time.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Laborer winter activity exemption",
+      "rule_category": "Labor-based lifestyle differentiation",
+      "group": "Laborers",
+      "group_category": "Occupation",
+      "resource": "Right to leisure and carousing",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] This is most easily recognized in winter in those who are doing no work but are carousing, especially if the wine be thin and diffusible; these people rapidly pass almost the same quantity as they drink."
+      ],
+      "reasoning": "Galen contrasts those 'doing no work' with those who are, implying a social division where the physiological observation of heavy drinking and urination is specific to a class that has the resource of winter leisure, whereas the working class (implied by the contrast) lacks this resource.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule distinguishes between those with the means for seasonal leisure and those whose labor demands prevent such carousing.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Slave occupational restriction",
+      "rule_category": "Exclusion from high-status labor",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to hold professional/intellectual positions",
+      "resource_category": "Social status",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] For if he knows nothing at all about these structures, he has little more anatomical knowledge than a butcher, while, if he is acquainted with them and yet does not state their use, he clearly imagines that they were made for no purpose, like the spleen."
+      ],
+      "reasoning": "Galen uses the figure of the 'butcher' (a trade often associated with slaves or low-status manual laborers) as a derogatory benchmark for lack of scientific/anatomical knowledge. This reflects a societal stratification where manual/slavish work is strictly separated from the intellectual 'art' of the physician.",
+      "specificity": 4,
+      "specificity_reasoning": "This reflects a broad societal division between liberal arts practiced by citizens/freemen and manual trades often left to slaves or low-status individuals.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Professional medical standing",
+      "rule_category": "Access to judicial/intellectual authority",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to define and treat bodily disease",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§19] naturally, if the stomach is, in a particular case, unable to exercise its peristaltic and grinding functions, how are we going to bring it back to the normal if we do not know the cause of its disability? What I say is that we must cool the over-heated stomach and warm the chilled one; so also we must moisten the one which has become dried up, and conversely."
+      ],
+      "reasoning": "The text establishes physicians as a distinct group with the exclusive social and intellectual mandate to intervene in the biological state of others based on a specific theoretical framework (the four humours) recognized by the state/society.",
+      "specificity": 6,
+      "specificity_reasoning": "Physicians are a specialized professional group within the wider free population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Seniority-based dietary benefit",
+      "rule_category": "Age-based resource allocation",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Access to health-promoting nutrition (honey)",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§19] Old people, however, it suits well enough, inasmuch as the alteration which it undergoes is not into bile, but into blood. ... the Empiricist physicians too have made precisely the same observation, namely, that honey is good for an old man and not for a young one."
+      ],
+      "reasoning": "The text describes a systematic medical and customary rule where a specific resource (honey) is categorized as beneficial and appropriate for the elderly while being restricted or discouraged for the young/bilious.",
+      "specificity": 3,
+      "specificity_reasoning": "Age is a broad category affecting a large portion of the population as they transition through life stages.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Youth dietary restriction",
+      "rule_category": "Age-based resource restriction",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Access to specific luxury foods (honey)",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] For in those who are in the prime of life, especially if they are warm by nature and are leading a life of toil, the honey changes entirely into yellow bile. ... honey is good for an old man and not for a young one, that it is harmful for those who are naturally bilious."
+      ],
+      "reasoning": "Medical and social norms in Galen's time discouraged the consumption of honey by young men in their 'prime' due to the belief that it produced harmful bile, effectively restricting their access to this resource compared to elders.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all men within a specific, broad age bracket (prime of life).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Laborer health vulnerability",
+      "rule_category": "Socio-economic health disparity",
+      "group": "Manual laborers",
+      "group_category": "Occupation",
+      "resource": "Protection from bile-induced illness",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] For in those who are in the prime of life, especially if they are warm by nature and are leading a life of toil, the honey changes entirely into yellow bile."
+      ],
+      "reasoning": "Galen identifies those 'leading a life of toil' (laborers) as being naturally predisposed to harmful humoral changes when consuming certain foods, suggesting that the physical requirements of their class make them less protected from internal bodily harm/disease.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the broad class of manual workers and those performing 'toil'.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Medical practitioner procedural standard",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to empirical defense",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§21] For, if it be that we are to look on bile as thinner than blood because it runs more, then, since the serous residue passes through fine linen or lint or a or a sieve more easily even than does bile, by these tokens bile must also be thicker than the watery fluid. For here, again, there is no argument which will demonstrate that bile is thinner than the serous superfluities. But when a man shamelessly goes on using circumlocutions, and never acknowledges when he has had a fall, he is like the amateur wrestlers, who, when they have been overthrown by the experts and are lying on their backs on the ground, so far from recognizing their fall, actually seize their victorious adversaries by the necks and prevent them from getting away, thus supposing themselves to be the winners!"
+      ],
+      "reasoning": "In the context of 2nd-century medical-legal disputes and public demonstrations (agones), Galen establishes that a practitioner (the defendant of a theory) has a right and obligation to have their claims tested against sensory evidence (linen, sieves). Failing to acknowledge empirical 'falls' is treated as a violation of the quasi-legal rules of professional standing.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies to the specific class of medical practitioners and intellectuals engaging in public scientific debate and demonstration in Roman society.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Menstrual blood material role",
+      "rule_category": "Denial of active procreative agency",
+      "group": "Impregnated females",
+      "group_category": "Gender",
+      "resource": "Active agency in biological generation",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] And what is the semen? Clearly the active principle of the animal, the material principle being the menstrual blood. [...] This, in fact, is the artificer analogous with Phidias, whilst the blood corresponds to the statuary's wax."
+      ],
+      "reasoning": "Galen defines the female contribution to reproduction (menstrual blood) as purely passive 'material' or 'wax,' while the male contribution (semen) is the 'active principle' or 'artificer.' This codifies a lack of creative/formative agency for women in the foundational act of generation.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all women within the biological/medical framework of the era.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Semen as formative agent",
+      "rule_category": "Grant of procreative authority",
+      "group": "Males",
+      "group_category": "Gender",
+      "resource": "Status as primary formative agent of offspring",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] Obviously, the semen itself. This, in fact, is the artificer analogous with Phidias, whilst the blood corresponds to the statuary's wax. [...] That which was previously semen, when it begins to procreate and to shape the animal, becomes, so to say, a special nature."
+      ],
+      "reasoning": "The text identifies the male seed as the 'artificer' and 'active principle' that possesses the 'faculties' to shape and command the material provided by the female. This grants the male the role of the 'shaping agent' in the creation of life.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule characterizes the perceived biological role of all men in this society's medical discourse.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Philosophical pedigree requirement",
+      "rule_category": "Access to intellectual authority",
+      "group": "Medical theorists",
+      "group_category": "Occupation",
+      "resource": "Right to a respectable academic pedigree",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] And, indeed, the disciples of the latter produce his connection with the Peripatetics in order to furnish his Nature-lore with a respectable pedigree."
+      ],
+      "reasoning": "Galen notes that followers of Erasistratus feel compelled to claim a lineage from established Peripatetic philosophers to validate their medical theories. This implies that in the intellectual society of the 2nd century, a scientific theory required a 'respectable pedigree' from ancient philosophical schools to be considered legitimate.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to the specific but influential class of medical and philosophical writers and their disciples.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Anatomical knowledge threshold",
+      "rule_category": "Professional distinction",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to be distinguished from manual laborers",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] for, if he knows nothing at all about these structures, he has little more anatomical knowledge than a butcher, while, if he is acquainted with them and yet does not state their use, he clearly imagines that they were made for no purpose, like the spleen."
+      ],
+      "reasoning": "Galen establishes a rule for professional status: a physician must possess theoretical knowledge of the 'purpose' of organs. Without this, they lose their professional standing and are categorized with 'butchers' (manual laborers), who possess only raw anatomical knowledge without scientific teleology.",
+      "specificity": 5,
+      "specificity_reasoning": "Determines the boundary between a high-status profession (physician) and a lower-status trade (butcher).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Adherence to Hippocratic doctrine",
+      "rule_category": "Intellectual exclusion",
+      "group": "Medical writers",
+      "group_category": "Occupation",
+      "resource": "Right to be recognized as accurate",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] all these and many other points besides in regard to the aforesaid faculties, the origin of diseases, and the discovery of remedies, were correctly stated first by Hippocrates of all writers whom we know, and were in the second place correctly expounded by Aristotle."
+      ],
+      "reasoning": "Galen treats the teachings of Hippocrates as the fundamental benchmark for truth. Any medical writer departing from this specific lineage is characterized as being in error, effectively creating a rule where intellectual legitimacy is granted only through adherence to this specific historical authority.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the specific group of individuals engaged in the recording and teaching of medical science.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical care for emaciated",
+      "rule_category": "Access to restoration",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to restorative nutrition",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§25] It seems to me that our enquiry can be most rigorously pursued in subjects who are suffering from illness and have become very emaciated, since in these people all parts of the body are obviously atrophied and thin, and in need of additional substance and feeding-up; for the same reason the ordinary perceptible nerve, regarding which we originally began this discussion, has become thin, and requires nourishment.",
+        "[§25] But in the case of those who are very emaciated and who need a great restoration of nutrition, unless what was presented were many times greater than what has been emptied out, they would never be able to regain their original habit. It is clear, therefore, that these parts will have to exert a greater amount of attraction, in so far as their requirements are greater."
+      ],
+      "reasoning": "Galen describes the medical and physiological necessity for the emaciated sick to receive 'additional substance' and 'feeding-up' beyond what a healthy person requires. This implies a societal/medical practice of providing intensified nutritional resources to those in a state of physical atrophy to ensure they 'regain their original habit.'",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies to a specific subset of the population (the emaciated sick) but is a general medical principle for that group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Nutritional priority for healthy",
+      "rule_category": "Standard resource allocation",
+      "group": "The healthy",
+      "group_category": "Health",
+      "resource": "Equality of nutritional replacement",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§25] Because its rule is that only so much of the contiguous matter should succeed as has flowed away. Now this is sufficient for nourishment in the case of those who are in good condition, for, in them, what is presented must be equal to what has flowed away."
+      ],
+      "reasoning": "The text identifies a standard 'rule' of nourishment for those in 'good condition' where the resource provided (nutriment) is naturally or systematically calibrated to equal the amount lost, maintaining steady physical status.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the majority of the population who are not currently suffering from emaciation.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Senior dietary honey access",
+      "rule_category": "Grant of health-based privilege",
+      "group": "Old people",
+      "group_category": "Age",
+      "resource": "Access to honey as a beneficial nutrient",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] Old people, however, it suits well enough, inasmuch as the alteration which it undergoes is not into bile, but into blood.",
+        "[§27] So also, not only Hippocrates, but all physicians say that honey is bad in bilious diseases but good in old age; some of them having discovered this through the indications afforded by its nature, and others simply through experiment, for the Empiricist physicians too have made precisely the same observation, namely, that honey is good for an old man and not for a young one"
+      ],
+      "reasoning": "Galen describes a medicinal and dietary rule where honey is specifically recommended and permitted for the elderly because their colder constitution transforms it into blood rather than bile.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad demographic category (the elderly) within the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Youth honey restriction",
+      "rule_category": "Age-based dietary restriction",
+      "group": "Young people",
+      "group_category": "Age",
+      "resource": "Access to honey as a beneficial nutrient",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] For in those who are in the prime of life, especially if they are warm by nature and are leading a life of toil, the honey changes entirely into yellow bile.",
+        "[§27] namely, that honey is good for an old man and not for a young one, that it is harmful for those who are naturally bilious"
+      ],
+      "reasoning": "Based on humoral theory, honey is restricted for those in the 'prime of life' or young men, as it is believed to cause harmful bile production in their naturally warm temperaments.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the substantial group of adults in their physical prime.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Bilious person honey restriction",
+      "rule_category": "Health-based dietary exclusion",
+      "group": "Naturally bilious persons",
+      "group_category": "Health",
+      "resource": "Access to honey as a beneficial nutrient",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] Therefore Hippocrates not improperly advised those who were naturally bilious not to take honey, since they were obviously of too warm a temperament.",
+        "[§27] that it is harmful for those who are naturally bilious, and serviceable for those who are phlegmatic."
+      ],
+      "reasoning": "Medical practitioners enforced dietary exclusions for individuals categorized by their 'nature' or temperament; those with a bilious nature were legally/customarily advised to avoid honey.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population defined by a constitutional medical category.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Laborer honey restriction",
+      "rule_category": "Occupation-based dietary restriction",
+      "group": "Laborers",
+      "group_category": "Occupation",
+      "resource": "Access to honey as a beneficial nutrient",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] For in those who are in the prime of life, especially if they are warm by nature and are leading a life of toil, the honey changes entirely into yellow bile."
+      ],
+      "reasoning": "Dietary practices in this society were influenced by occupation; those 'leading a life of toil' (laborers) are advised against honey consumption due to the heat generated by their work.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific class of working individuals.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Scientific investigator's causal inquiry",
+      "rule_category": "Access to intellectual labor",
+      "group": "Scientific investigators",
+      "group_category": "Occupation",
+      "resource": "Right to investigate primary causes",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§28] This is no concern of ours, they say; we do not occupy ourselves with such causes as these; they are outside the sphere of the practitioner, and belong to that of the scientific investigator."
+      ],
+      "reasoning": "The text distinguishes between the 'practitioner' (physician) and the 'scientific investigator' regarding the study of primary causes. The investigator is granted the professional right and social expectation to pursue high-level causal knowledge that practitioners claim is outside their own sphere.",
+      "specificity": 8,
+      "specificity_reasoning": "This refers to a specific elite subset of the intellectual class defined by their academic or theoretical focus.",
+      "confidence": 9
+    },
+    {
+      "rule_category": "Professional restriction",
+      "rule_name": "Practitioner causal exclusion",
+      "group": "Medical practitioners",
+      "group_category": "Occupation",
+      "resource": "Right to investigate primary causes",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§28] This is no concern of ours, they say; we do not occupy ourselves with such causes as these; they are outside the sphere of the practitioner, and belong to that of the scientific investigator."
+      ],
+      "reasoning": "The followers of Erasistratus, representing the 'practitioners', explicitly state that the investigation of underlying causes is not their concern/sphere, effectively limiting their professional scope to functional application rather than theoretical inquiry.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific professional group (physicians) and their internal self-definition of labor.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly cold-humour accumulation",
+      "rule_category": "Health-based diagnostic status",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Retention of moist/warm humours",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§28] Thus, the white-coloured substance which everyone else calls phlegm, and which Prodicus calls blenna [mucus], is the well-known cold, moist humour which collects mostly in old people and in those who have been chilled in some way."
+      ],
+      "reasoning": "Galen cites a customary medical rule of the 'Ancients' and 'Anatomists' that associates the elderly with a specific physiological state (excess cold/moist phlegm), categorizing them as naturally lacking the 'warm' vitality of other age groups.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a broad demographic category (the elderly) within the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Post-prime atrabiliary excess",
+      "rule_category": "Age-based medical categorization",
+      "group": "Adults past their prime",
+      "group_category": "Age",
+      "resource": "Protection from black bile excess",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§28] This [black bile], according to intelligent physicians and philosophers, tends to be in excess, as regards seasons, mainly in the fall of the year, and, as regards ages, mainly after the prime of life."
+      ],
+      "reasoning": "The medical consensus of the time, as cited by Galen, establishes a rule of nature/custom where individuals past their physical prime are systematically associated with the accumulation of the 'pernicious' black bile.",
+      "specificity": 5,
+      "specificity_reasoning": "This affects everyone in society once they reach a certain near-immutable age threshold.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Midwife uterine examination",
+      "rule_category": "Access to medical care",
+      "group": "Pregnant women",
+      "group_category": "Gender",
+      "resource": "Right to manual fetal monitoring",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] PART 3 Thus it is the work of the retentive faculty to make the uterus contract upon the foetus at every point, so that, naturally enough, when the midwives palpate it, the os is found to be closed, whilst the pregnant women themselves, during the first days — and particularly on that on which conception takes place — experience a sensation as if the uterus were moving and contracting upon itself."
+      ],
+      "reasoning": "The text describes the standard practice and interaction between midwives and pregnant women, where midwives provide physical examinations to verify pregnancy and fetal status, indicating a socially recognized access to this specific care for this group.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a significant subset of the population (pregnant women) but is limited to a specific life stage and medical context.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Midwife-led labor management",
+      "rule_category": "Access to medical care",
+      "group": "Parturient women",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to professional obstetric assistance",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] PART 3 The midwife, however, does not make the parturient woman get up at once and sit down on the [obstetric] chair, but she begins by palpating the os as it gradually dilates, and the first thing she says is that it has dilated enough to admit the little finger, then that it is bigger now, and as we make enquiries from time to time, she answers that the size of the dilatation is increasing. And when it is sufficient to allow of the transit of the foetus, she then makes the patient get up from her bed and sit on the chair, and bids her make every effort to expel the child."
+      ],
+      "reasoning": "The text outlines the customary protocol for childbirth, where women in labor (parturient) are entitled to and receive the active direction and monitoring of a midwife regarding the use of obstetric equipment and the timing of labor efforts.",
+      "specificity": 4,
+      "specificity_reasoning": "I chose 4 as it concerns all women at the point of childbirth, a broad but specific biological/social category.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Medical student research protocol",
+      "rule_category": "Scientific training",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Access to animal dissection for diagnosis",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] PART 2 What prevents us, then, from taking up these first and considering their activities, conducting the enquiry on our own persons in regard to those activities which are obvious without dissection, and, in the case of those which are more obscure, dissecting animals which are near to man; not that even animals unlike him will not show, in a general way, the faculty in question, but because in this manner we may find out at once what is common to all and what is peculiar to ourselves, and so may become more resourceful in the diagnosis and treatment of disease."
+      ],
+      "reasoning": "Galen identifies dissection as a standard resource and method available to medical professionals (physicians/philosophers) for the purpose of improving clinical diagnosis and treatment.",
+      "specificity": 7,
+      "specificity_reasoning": "This rule applies specifically to those within the medical and philosophical profession.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elite intellectual gatekeeping",
+      "rule_category": "Educational access",
+      "group": "Intellectual elite",
+      "group_category": "Occupation",
+      "resource": "Access to advanced scientific training",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] PART 10 The fact is that he whose purpose is to know anything better than the multitude do must far surpass all others both as regards his nature and his early training. And when he reaches early adolescence he must become possessed with an ardent love for truth, like one inspired; neither day nor night may he cease to urge and strain himself in order to learn thoroughly all that has been said by the most illustrious of the Ancients."
+      ],
+      "reasoning": "Galen outlines a social and educational rule where access to true knowledge (as opposed to 'the multitude') is restricted to those who have specific 'early training' and a specific 'nature,' establishing an elite class of learners.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a very small segment of the population that meets high-end intellectual and training criteria.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Midwife medical practice authority",
+      "rule_category": "Access to medical practice",
+      "group": "Midwives",
+      "group_category": "Occupation",
+      "resource": "Right to perform obstetric physical examinations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] Thus it is the work of the retentive faculty to make the uterus contract upon the foetus at every point, so that, naturally enough, when the midwives palpate it, the os is found to be closed",
+        "[§32] The midwife, however, does not make the parturient woman get up at once and sit down on the [obstetric] chair, but she begins by palpating the os as it gradually dilates, and the first thing she says is that it has dilated enough to admit the little finger, then that it is bigger now, and as we make enquiries from time to time, she answers that the size of the dilatation is increasing."
+      ],
+      "reasoning": "The text describes midwives as the active practitioners responsible for internal physical examinations of pregnant and laboring women. They possess the clinical authority to palpate the cervix (os uteri) and determine the progression of labor, representing a professional monopoly or recognized role in obstetric care.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to a professional subgroup (midwives) during a specific medical event (pregnancy/childbirth).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Physician diagnostic authority",
+      "rule_category": "Access to medical practice",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to diagnose and treat diseases through dissection and observation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] What prevents us, then, from taking up these first and considering their activities, conducting the enquiry on our own persons in regard to those activities which are obvious without dissection, and, in the case of those which are more obscure, dissecting animals which are near to man; not that even animals unlike him will not show, in a general way, the faculty in question, but because in this manner we may find out at once what is common to all and what is peculiar to ourselves, and so may become more resourceful in the diagnosis and treatment of disease."
+      ],
+      "reasoning": "Galen identifies himself and other physicians ('us') as having the professional entitlement to perform dissections and clinical inquiries for the purpose of improving medical diagnosis and treatment.",
+      "specificity": 7,
+      "specificity_reasoning": "This rule concerns the professional rights of the medical class in 2nd-century Roman society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Pregnant women's labor autonomy",
+      "rule_category": "Bodily autonomy",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Agency over physical exertion during childbirth",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] And when it is sufficient to allow of the transit of the foetus, she then makes the patient get up from her bed and sit on the chair, and bids her make every effort to expel the child. Now, this additional work which the patient does of herself is no longer the work of the uterus but of the epigastric muscles"
+      ],
+      "reasoning": "The text acknowledges the woman's own physical participation and effort ('work which the patient does of herself') as a distinct component of the delivery process, indicating a recognized role for the individual's agency in the physical act of birthing.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any woman undergoing the common life event of childbirth.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Vivisection for medical research",
+      "rule_category": "Access to scientific discovery",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to perform animal vivisection",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] Suppose you fill any animal whatsoever with liquid food — an experiment I have often carried out in pigs, to whom I give a sort of mess of wheaten flour and water, there after cutting them open after three or four hours; if you will do this yourself, you will find the food still in the stomach.",
+        "[§33] Now I have personally, on countless occasions, divided the peritoneum of a still living animal and have always found all the intestines contracting peristaltically upon their contents."
+      ],
+      "reasoning": "Galen describes the practice of opening living animals (pigs specifically) as a standard and repeatable method for medical professionals to observe physiological functions. This indicates that 2nd-century Roman medical practitioners had the social and legal license to use animals as material resources for anatomical and physiological demonstration.",
+      "specificity": 8,
+      "specificity_reasoning": "The rule is specific to the medical profession and those engaged in natural philosophy, rather than the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Medical oversight of digestion",
+      "rule_category": "Access to medical diagnosis",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to clinical diagnosis of gastric weakness",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] Firstly in the condition of gurgling, which physicians are persuaded, and with reason, to be a symptom of weakness of the stomach; for sometimes when the very smallest quantity of food has been ingested this does not occur, owing to the fact that the stomach is contracting accurately upon the food and constricting it at every point."
+      ],
+      "reasoning": "Galen notes that physicians use specific bodily sounds (gurgling) as a recognized diagnostic symptom to evaluate a patient's 'weakness.' This demonstrates a societal structure where the sick are subject to, and have access to, formal medical interpretation of their internal physical states.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual experiencing illness or gastric distress, which is a broad segment of society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Intellectual elite training requirement",
+      "rule_category": "Access to advanced knowledge",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Access to authoritative scientific knowledge",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§39] The fact is that he whose purpose is to know anything better than the multitude do must far surpass all others both as regards his nature and his early training. And when he reaches early adolescence he must become possessed with an ardent love for truth, like one inspired; neither day nor night may he cease to urge and strain himself in order to learn thoroughly all that has been said by the most illustrious of the Ancients."
+      ],
+      "reasoning": "Galen outlines a strict set of prerequisites (natural talent, early childhood training, and total devotion in adolescence) that function as a customary barrier to high-level medical and philosophical knowledge. Those who do not meet these specific developmental and effort-based benchmarks are excluded from understanding 'the finest doctrines.'",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a subset of the population (aspiring scholars/physicians) rather than the general public, but is a general rule for that class.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Scientific discourse exclusion",
+      "rule_category": "Exclusion from intellectual community",
+      "group": "The uneducated",
+      "group_category": "Wealth",
+      "resource": "Right to participate in scientific validation",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§39] For I find that a great many things which have been conclusively demonstrated by the Ancients are unintelligible to the bulk of the Moderns owing to their ignorance — nay, that, by reason of their laziness, they will not even make an attempt to comprehend them; and even if any of them have understood them, they have not given them impartial examination. ... Still, such people may be expected to be quite few in number, while, as for the others, this book will be as superfluous to them as a tale told to an ass."
+      ],
+      "reasoning": "Galen explicitly identifies a large group ('the bulk of the Moderns' or 'the multitude') who are barred from the resource of scientific truth due to their lack of 'early training' (a proxy for inherited wealth/status) and 'laziness.' He deems his own work 'superfluous' to them, effectively excluding them from the civic and intellectual benefits of medical science.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the vast majority of the population who lack elite education.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Delivery vs Abortion distinction",
+      "rule_category": "Legal and medical status",
+      "group": "Pregnant women",
+      "group_category": "Gender",
+      "resource": "Recognition of natural birth status",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] Now abortifacient drugs or certain other conditions which destroy the embryo or rupture certain of its membranes are followed by abortion, and similarly also when the uterus is in pain from being in a bad state of tension; and, as has been well said by Hippocrates, excessive movement on the part of the embryo itself brings on labour. Now both of these conditions sometimes occur with actual violence, and then miscarriage takes place. But for the most part they happen in a normal way, this being then called not miscarriage but delivery or parturition."
+      ],
+      "reasoning": "Galen distinguishes between natural parturition and induced or violent 'miscarriage' (abortion). Society and medical practice categorized these differently based on the cause of the fetal exit, assigning a specific status ('delivery') to the normal process, which carries different social and legal implications than abortion.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all pregnant women within the society, a significant but specific demographic.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physical exercise exemption",
+      "rule_category": "Health-based physical relief",
+      "group": "People who have given up active exercise",
+      "group_category": "Health",
+      "resource": "Protection from plethoras and toxic humours",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] And in many people who have suddenly and completely given up active exercise, or who have had a limb cut off, there occurs at certain periods an evacuation of blood by way of the intestines — as Hippocrates has also pointed out somewhere. This causes no further trouble but sharply purges the whole body and evacuates the plethoras; the passage of the superfluities is effected, of course, through the same veins by which absorption took place."
+      ],
+      "reasoning": "Galen describes a physiological 'rule' or customary medical observation where individuals who cease exercise (a specific health/lifestyle category) receive a natural physiological compensation (evacuation of blood) that protects their body integrity from the buildup of harmful plethoras.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population defined by a sudden change in physical activity or physical disability (amputation).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Amputee humoral purging",
+      "rule_category": "Health-based physical relief",
+      "group": "Amputees",
+      "group_category": "Health",
+      "resource": "Protection from plethoras and toxic humours",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] And in many people who have suddenly and completely given up active exercise, or who have had a limb cut off, there occurs at certain periods an evacuation of blood by way of the intestines — as Hippocrates has also pointed out somewhere. This causes no further trouble but sharply purges the whole body and evacuates the plethoras."
+      ],
+      "reasoning": "The text identifies those who have had a limb cut off as a group that experiences a specific medical 'rule' of purging that serves as a protective mechanism for the body's health.",
+      "specificity": 6,
+      "specificity_reasoning": "Amputees are a relatively small and specific demographic within the general population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Resource sharing in hunger",
+      "rule_category": "Economic privilege",
+      "group": "The hungry/needy",
+      "group_category": "Wealth",
+      "resource": "Access to common food stocks",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] What happens is just as if you might imagine a number of animals helping themselves at will to a plentiful common stock of food; some will naturally be eating when others have stopped, some will be on the point of stopping when others are beginning, some eating together, and others in succession. Yes, by Zeus! and one will often be plundering another, if he be in need while the other has an abundant supply ready to hand."
+      ],
+      "reasoning": "Galen uses a social/behavioral analogy to explain organ function, invoking a societal norm where those in need 'plunder' or take from those with an abundance from a common stock, implying a customary right of the needy to resources held by the satisfied.",
+      "specificity": 2,
+      "specificity_reasoning": "Hunger and need are general states that can affect a large portion of the population depending on circumstances.",
+      "confidence": 6
+    },
+    {
+      "rule_name": "Garden irrigation infrastructure requirement",
+      "rule_category": "Access to public resources",
+      "group": "Gardeners",
+      "group_category": "Occupation",
+      "resource": "Access to water-supply through channels",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§44] This you can observe most clearly in connection with garden conduits. For a certain amount of moisture is distributed from these into every part lying close at hand but it cannot reach those lying farther off: therefore one has to arrange the flow of water into all parts of the garden by cutting a number of small channels leading from the large one."
+      ],
+      "reasoning": "Galen describes the technical and customary requirement for those managing gardens to construct specific infrastructure (small channels) to access the water resource from the main conduit, illustrating a rule of resource distribution based on proximity and labor.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific occupational group (gardeners) and those managing land with irrigated water access.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sick wine consumption exception",
+      "rule_category": "Access to medical care",
+      "group": "Sick persons",
+      "group_category": "Health",
+      "resource": "Right to specific fluids for rapid absorption",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§44] For instance, we could in this way ascertain why it is that in the case of many people who are partaking freely of wine, the fluid which they have drunk is rapidly absorbed through the body and almost the whole of it is passed by the kidneys within a very short time. ... Thus it is in no way surprising that wine is taken up more rapidly than water, owing to its appropriateness of quality, and, further, that the white clear kind of wine is absorbed more rapidly owing to its thinness."
+      ],
+      "reasoning": "In a medical context, Galen identifies that certain groups (the sick or those requiring rapid fluid processing) are directed toward specific types of wine (white/clear) for their physiological properties, suggesting a clinical rule for resource allocation during treatment.",
+      "specificity": 3,
+      "specificity_reasoning": "While describing physiological processes, it reflects the medical dietary rules applied to patients in Galen's society.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 23,
+  "_file_id": "tlg0057.tlg010.perseus-eng2",
+  "_input_tokens": 203464,
+  "_output_tokens": 16630,
+  "_model": "google/gemini-3-flash-preview"
+}

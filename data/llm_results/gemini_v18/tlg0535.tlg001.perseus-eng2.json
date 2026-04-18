@@ -1,0 +1,155 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Jury verdict authority",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to determine trial outcomes",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] The laws have given you the right, Athenians, to acquit or punish men on trial."
+      ],
+      "reasoning": "Demades acknowledges the established legal power of the Athenian citizen jury to decide the fate of defendants, framing it as a specific right granted by law.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to the citizen body acting in their capacity as jurors.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prosecutorial priority",
+      "rule_category": "Legal procedure",
+      "group": "Plaintiffs",
+      "group_category": "Citizens",
+      "resource": "Right to speak first in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] For the latter, by virtue of speaking first, have the jury in the mood which suits them, while the former are compelled to plead their cause to judges already prejudiced by anger."
+      ],
+      "reasoning": "The text describes a procedural rule where the accuser speaks before the defendant, which is identified as a significant rhetorical and psychological advantage in the legal system.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual acting in the specific legal role of a plaintiff.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prisoner ransom exemption",
+      "rule_category": "Economic privilege",
+      "group": "Captives",
+      "group_category": "Citizens",
+      "resource": "Freedom from ransom payments",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] By making these proposals I gained for you two thousand captives free of ransom"
+      ],
+      "reasoning": "The mention of 'free of ransom' implies that typically, captives would be expected to pay for their release; this specific political intervention removed that material burden.",
+      "specificity": 5,
+      "specificity_reasoning": "This applied to a specific set of two thousand individuals under specific wartime conditions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Theban freedom of speech",
+      "rule_category": "Exclusion from political speech",
+      "group": "Thebans",
+      "group_category": "Origin",
+      "resource": "Freedom of speech",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] The Thebans were suffering the closest restriction in the Macedonian garrison which bound their hands together and had even deprived them of their freedom of speech."
+      ],
+      "reasoning": "Demades notes that under Macedonian occupation, the Thebans lost their civic right to public speech/assembly, a concrete loss of political agency.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the entire population of a specific city-state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Counselor accountability",
+      "rule_category": "Legal procedure",
+      "group": "Politicians",
+      "group_category": "Occupation",
+      "resource": "Protection from liability for policy outcomes",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§35] It Is unjust therefore that an adviser should be held accountable for circumstances and for events whose outcome rested with fortune.",
+        "[§59] It seems, therefore, the harshest imaginable rule that a man should be held accountable in time of peace for his administration during war."
+      ],
+      "reasoning": "The text highlights a customary or legal practice in Athens where political leaders (advisers/statesmen) are put on trial and held legally responsible for the failure of the policies they proposed.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those citizens who enter the 'public life' or serve as political advisers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based military exemption",
+      "rule_category": "Age-based military exclusion",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Obligation to serve in war",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§38] Old men shrink from death in the sunset of life.",
+        "[§28] But the cowardly politicians, leading out the flower of the city to Boeotia, led them to a graveyard."
+      ],
+      "reasoning": "The contrast between the 'flower of the city' (young men) being led to battle and 'old men' shrinking from death, combined with historical context of the text, reflects the rule that military combat service was primarily the burden of younger age classes.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all citizens based on their age bracket.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Procedural defense by oath",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to jury judgment under oath",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§61] Those who malign me are making unwarranted accusations. They do not charge me with plotting, for their villainy is bound by no oath. But the jury’s judgement is governed by an oath."
+      ],
+      "reasoning": "The text identifies a standard procedural rule in the Athenian legal system where, while accusers might avoid oaths in some contexts of 'maligning', the jury is legally and religiously bound by an oath (the Heliastic Oath) to judge according to the laws. This acts as a concrete resource for the group of defendants to ensure a level of standard procedure.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual standing trial in the Athenian court system, which was a frequent occurrence for a significant portion of the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Court jurisdictional differentiation",
+      "rule_category": "Access to judicial protection",
+      "group": "Litigants",
+      "group_category": "Legal standing",
+      "resource": "Right to specific venue procedures",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§60] Each offence is dealt with in its own particular way some call for the council of the Areopagus, some for lesser courts, others for the Heliaea. All these are distinguished in name, circumstance, time, penalty, procedure, and in the number of the jury."
+      ],
+      "reasoning": "The text outlines the rule of specialized jurisdiction in Athens. Different classes of legal cases are assigned to specific courts (Areopagus for homicide, Heliaea for public suits, etc.), each with fixed procedures and jury sizes. This provides litigants with a predictable legal framework based on the nature of the offense.",
+      "specificity": 2,
+      "specificity_reasoning": "The rule governs the entire legal infrastructure of the city, affecting all individuals regardless of the specific charge.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Evidence-based defense priority",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to have factual defense outweigh hearsay",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§64] It is not right that the saving of a man in danger should provide fuel for the malicious charges of those who have abandoned all principle, nor that an accusation based on stories should be held stronger than a defence grounded on facts."
+      ],
+      "reasoning": "Demades invokes a normative rule of the Athenian courts: that a defense grounded in 'facts' (ergois) must legally and rhetorically outweigh an accusation based on 'stories' (logois). This reflects the legal expectation that defendants have the right to be judged on material evidence.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general principle applied to all defendants in the Athenian adversarial system.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg0535.tlg001.perseus-eng2",
+  "_input_tokens": 12630,
+  "_output_tokens": 2078,
+  "_model": "google/gemini-3-flash-preview"
+}

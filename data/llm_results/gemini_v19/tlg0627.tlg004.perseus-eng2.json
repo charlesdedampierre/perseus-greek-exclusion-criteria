@@ -1,0 +1,468 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Occupation",
+      "rule": "Physician diagnostic autonomy",
+      "group": "physicians",
+      "resource": "Right to exercise professional judgment",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§1] But those symptoms which the physician ought to know beforehand without being informed of them by the patient, are, for the most part, omitted, some in one case and some in others, and certain symptoms of vital importance for a conjectural judgment."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that a qualified physician possesses the right and specialized capacity to interpret symptoms independently of the patient's report, distinguishing them from laypeople.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Physician treatment expertise",
+      "group": "physicians",
+      "resource": "Right to prescribe medical treatment",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§2] The vulgar, indeed, do not recognize the difference between such physicians and their common attendants, and are rather disposed to commend and censure extraordinary remedies. This, then, is a great proof that the common people are most incompetent, of themselves, to form a judgment how such diseases should be treated"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly denies the 'vulgar' (non-physicians) the competence to judge or direct treatment in acute diseases, reserving that role for the physician.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Clyster administration based on age",
+      "group": "young people (vigor of life)",
+      "resource": "Access to invasive medical evacuation (clyster)",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§6] But if the earlier-taken food has not descended, in the case of a person who has recently swallowed food, and if he be strong and in the vigor of life, a clyster should be given, or if he be weaker, a suppository is to be administered"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The clinical rule alternates the treatment/resource based on the age/strength of the patient; those in the vigor of life receive the more intensive clyster, while weaker/older individuals are restricted to a milder suppository.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Sick feeding based on habit",
+      "group": "the sick",
+      "resource": "Right to nutritional maintenance (ptisan)",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§4] At first it will be proper not to give a large quantity nor very thick, but in proportion to the quantity of food which one has been accustomed to take, and so as that the veins may not be much emptied."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "A specific medical rule dictates how much food the sick are allowed to receive, linking it to their pre-existing habits to prevent physiological depletion.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Regimen for acute respiratory patients",
+      "group": "the sick (pleuritic patients)",
+      "resource": "Protection from harmful nourishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§5] if to persons so circumstanced ptisan be administered, their speedy death will be the result. For these reasons, and for others of a similar kind still more, those who use unstrained ptisan die on the seventh day, or still earlier"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text outlines a negative rule where sick patients with specific conditions (viscid sputa, unresovled pain) are barred from receiving certain foods (unstrained ptisan) because it causes death.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Venesection for clavicle-aligned pain",
+      "group": "Patients with acute pain",
+      "resource": "Access to venesection",
+      "directionality": "MORE",
+      "verbatim": "[§7] Venesection, however, does not alleviate the pain unless when it extends to the clavicle. But if the pain be not dissolved by the fomentations, one ought not to foment for a length of time... but if the pain point to the clavicle, or if there be a heaviness in the arm, or about the breast, or above the diaphragm, one should open the inner vein at the elbow, and not hesitate to abstract a large quantity.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a medical protocol where the specific resource (surgical bloodletting) is granted to patients only when specific physiological symptoms (pain reaching the clavicle) are present, while being withheld if pain is localized differently.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Post-purgative dietary restriction",
+      "group": "Patients under medicinal operation",
+      "resource": "Right to consume customary draughts",
+      "directionality": "LESS",
+      "verbatim": "[§7] When the patient has drunk the medicine, one ought to give him to swallow but little less of the ptisan than what he had been accustomed to; but it is according to rule not to give any draughts while the medicine is under operation; but when the purging is stopped then he should take a smaller draught than what he had been accustomed to.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a formal medical rule ('according to rule') that restricts the intake of customary resources (draughts/liquids) based on the patient's immediate health state (being under the influence of purgative medicine).",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Avoidance of acute changes in diet",
+      "group": "Persons in good health",
+      "resource": "Protection from sudden dietary change",
+      "directionality": "MORE",
+      "verbatim": "[§9] One may derive information from the regimen of persons in good health what things are proper... But it is well ascertained that even a faulty diet of food and drink steadily persevered in, is safer in the main as regards health than if one suddenly change it to another.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author posits a societal/medical norm for healthy individuals where maintaining a consistent (even if 'faulty') diet is a protected state, and sudden changes are framed as a loss of health safety.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Fomentation restriction for lung protection",
+      "group": "Patients with persistent side pain",
+      "resource": "Access to prolonged hot fomentations",
+      "directionality": "LESS",
+      "verbatim": "[§7] But if the pain be not dissolved by the fomentations, one ought not to foment for a length of time, for this dries the lungs and promotes suppuration.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly forbids the continued use of a medical resource (hot applications) for patients whose pain does not resolve quickly, to prevent internal damage.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Physician practice of initial starvation",
+      "group": "Patients at commencement of disease",
+      "resource": "Access to early nourishment",
+      "directionality": "LESS",
+      "verbatim": "[§8] And here I know that physicians are in the practice of doing the very reverse of what is proper, for they all wish, at the commencement of diseases, to starve their patients for two, three, or more days, and then to administer the ptisans and drinks.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a widespread professional convention among contemporary physicians to withhold food from patients during the initial days of an illness.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Dietary restriction for acute illness",
+      "group": "Sick people",
+      "resource": "Right to maintain normal diet",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§11] For some at the commencement of acute diseases have taken food on the same day, some on the next day; some have swallowed whatever has come in their way, and some have taken cyceon. Now all these things are worse than if one had observed a different regimen; and yet these mistakes, committed at that time, do much less injury than if one were to abstain entirely from food for the first two or three days, and on the fourth or fifth day were to take such food."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes that during acute disease, the normal practice of eating whatever is available is harmful and that a governed medical regimen (often involving initial abstinence or specific preparations like ptisans) is required.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Watery wine for bladder/head conditions",
+      "group": "Patients with head or bladder symptoms",
+      "resource": "Access to strong wine",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§14] It deserves further to be known, that it will prove less injurious to all the parts above, and to the bladder, if it be of a more watery nature, but that the stronger it is, it will be the more beneficial to the bowels."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a health-based rule where patients with issues in the 'upper parts' or bladder are restricted to watery wine to avoid injury, whereas those with bowel issues are granted stronger wine.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Hydromel restriction for bilious temperaments",
+      "group": "Bilious persons",
+      "resource": "Access to hydromel (honey-water)",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§15] Hydromel, when drunk in any stage of acute disease, is less suitable to persons of a bilious temperament, and to those who have enlarged viscera, than to those of a different character; it increases thirst less than sweet wine; it softens the lungs, is moderately expectorant, and alleviates a cough."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The medical rule excludes or limits those with a specific 'bilious' constitution from using hydromel due to physiological incompatibility compared to other patient groups.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Sweet wine restriction for bilious persons",
+      "group": "Bilious persons",
+      "resource": "Right to consume sweet wine",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§14] [Sweet wine] does not agree with bilious persons, for it causes them to thirst; it creates flatulence in the upper part of the intestinal canal, but does not disagree with the lower part, as far as regards flatulence."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly identifies that the criterion of being 'bilious' results in the medical exclusion of sweet wine from their diet during illness.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Expert oversight of patient diet",
+      "group": "Sick people",
+      "resource": "Autonomy in food and drink selection",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§11] All these things are strong proofs that physicians do not conduct the regimen of patients properly, but that in those diseases in which total abstinence from food should not be enforced on patients that will be put on the use of ptisans, they do enforce total abstinence; that in those cases in which there should be no change made from total abstinence to ptisans, they do make the change."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text demonstrates that the sick are a group whose dietary resources are strictly controlled by the 'Physician' occupation; the debate isn't whether they have autonomy (they clearly do not), but how the expert should exercise that control.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Restriction on vinegar consumption",
+      "group": "Women",
+      "resource": "Protection from uterine pain",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§16] Vinegar is more prejudicial to women than to men, for it creates pains in the uterus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a gender-based medical rule regarding diet, noting that vinegar specifically causes internal harm to women compared to men.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Standard for bathing facilities",
+      "group": "Wealthy citizens",
+      "resource": "Access to proper medical bathing",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§18] The bath is useful in many diseases... Sometimes it must be less used than it would be otherwise, from the want of accommodation; for in few families are all the conveniences prepared, and persons who can manage them as they ought to be."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Access to therapeutic baths was dependent on household resources ('conveniences'); most families lacked the private infrastructure and staff required, effectively limiting this medical resource to those with property/wealth.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Bloodletting age limits",
+      "group": "Minors",
+      "resource": "Eligibility for venesection",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§20] Bleed in the acute affections, if the disease appear strong, and the patients be in the vigor of life, and if they have strength.",
+        "[§22] ...one ought to open the internal vein of the right arm, and abstract blood more or less according to the habit and age of the patient."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Medical treatment (bleeding) is restricted by the criterion of age; it is specifically recommended for those in 'the vigor of life' (adults) and must be adjusted or withheld based on the patient's age.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Bathing exclusion for weak patients",
+      "group": "Debilitated or physically ill",
+      "resource": "Right to therapeutic bathing",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§18] It is by no means a suitable thing in these diseases to persons whose bowels are too loose, or when they are unusually confined... neither must we bathe those who are debilitated, nor such as have nausea or vomiting, or bilious eructations."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly bars specific categories of sick people from receiving the 'resource' of a bath due to their physical condition/health status.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Medical care for quinsy patients",
+      "group": "the patient",
+      "resource": "Access to emergency medical interventions",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§24] Bleeding, then, in the arm, and opening the sublingual veins, and purging with the electuaries, and giving warm gargles, and shaving the head, we must apply to it and the neck a cerate, and wrap them round with wool, and foment with soft sponges squeezed out of hot water; give to drink water and hydromel, not cold; and administer the juice of ptisan when, having passed the crisis, the patient is out of danger."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text outlines a standardized medical protocol involving surgery (venesection), pharmacology (purging), and dietary care provided to individuals suffering from the specific health condition of quinsy.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Nutritional withholding during cold extremities",
+      "group": "the patient",
+      "resource": "Right to receive nourishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§25] When the feet are cold, give neither drink nor ptisan, nor anything else of the kind, but reckon it an important rule to refrain until they become warm, and then you may administer them with advantage. . . at this season, then, the ptisan ought to be given; it would be death to give it before."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a strict clinical rule (an 'important rule') where patients are deprived of food and drink based on the physiological state of their extremities to avoid exacerbating the disease.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Prohibition of purging in thin urine",
+      "group": "the patient",
+      "resource": "Protection from aggressive purgative medicine",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§26] but when the urine at first is thin, do not purge such patients, but, if thought necessary, give a clyster; such patients should be thus treated; they should be kept in a quiet state, have unguents applied to them, and be covered up properly with clothes."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The rule provides protection for a specific class of patients (those with thin urine) from the harm of internal purgative medicines, mandating gentler treatments instead.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Sensory deprivation for acute fever",
+      "group": "the patient",
+      "resource": "Access to light and mobility",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§26] the greatest care and precaution are necessary; nothing should be given to them, except oxymel diluted with water; no draught should be administered, until the fever abate and the urine be concocted; the patient should be laid in a dark apartment, and recline upon the softest couch, and he should be kept as long as possible in the same position, so as not to toss about."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Patients with specific symptoms (nausea, cold extremities) are restricted to dark rooms and immobilized as part of the medical treatment, reducing their freedom of movement and access to environments with light.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Medical prognostic communication",
+      "group": "the patient",
+      "resource": "Right to advance death notice",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§27] and should a convulsion occur to such a person, death may be anticipated, and it is well to announce it beforehand."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a professional norm for physicians to provide an advanced prognostic announcement of death for patients exhibiting fatal symptoms.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Age-based bloodletting adjustment",
+      "group": "the patient",
+      "resource": "Protection from excessive bloodletting",
+      "directionality": "MORE",
+      "verbatim": "[§29] if the pain pass upward to the clavicle, or the breast, or the arm, the inner vein in the arm should be opened on the side affected, and blood abstracted according to the habit, age, and color of the patient, and the season of the year, and that largely and boldly, if the pain be acute",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text dictates that the medical resource of bloodletting must be calibrated according to the age of the patient, implying that certain age groups are protected from the 'large and bold' extraction used for others to ensure the treatment is appropriate to their physical capacity.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Physical fitness prognosis",
+      "group": "patients strong from exercise",
+      "resource": "Accuracy of medical prognosis",
+      "directionality": "MORE",
+      "verbatim": "[§28] and if the patient be in the prime of life, and if his body be strong from exercise, and brawny, or of a melancholic temperament, or if from drinking has trembling hands, it may be well to announce beforehand either delirium or convulsion",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies specific physical phenotypes—those who are 'strong from exercise'—as being subject to specific predictable medical outcomes (delirium or convulsion) during acute disease, allowing for a more precise prognosis for this group.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Medical exclusion from hellebore",
+      "group": "patients with empyema or haemoptysis",
+      "resource": "Access to hellebore treatment",
+      "directionality": "LESS",
+      "verbatim": "[§34] But do not administer hellebore to such persons as are laboring under empyema connected with abscesses, haemoptysis, and intemperament, or any other strong cause, for it will do no good",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly bars individuals with specific health conditions (empyema, spitting of blood) from receiving hellebore, a common medical resource/intervention of the time.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Medical eligibility for hellebore",
+      "group": "patients with head defluxion",
+      "resource": "Access to hellebore treatment",
+      "directionality": "MORE",
+      "verbatim": "[§34] You should put persons on a course of hellebore who are troubled with a defluxion from the head.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author establishes a rule that the resource of hellebore treatment is specifically indicated for those defined by the health criterion of having head defluxions.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Venery restriction for the young",
+      "group": "young people",
+      "resource": "Protection from health-debilitating labor",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§41] One should be able to recognize those who have headache from gymnastic exercises, or running, or walking or hunting, or any other unseasonable labor, or from immoderate venery."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies 'immoderate venery' (sexual activity) as an 'unseasonable labor' that causes physical harm like headaches in individuals, implying a normative medical restriction on such behavior for those not at the appropriate stage of life or physical condition.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Age",
+      "rule": "Bloodletting eligibility by age",
+      "group": "people in the prime of life",
+      "resource": "Access to bloodletting therapy",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§38] If he labors under difficulty of breathing, if it is the summer season, and if he is in the prime of life, and is strong, blood should be abstracted from the arm."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes specific physical and age-based criteria ('prime of life' and 'strong') as prerequisites for the administration of bloodletting as a medical resource.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Exercise exemptions for the respiratory-impaired",
+      "group": "people with breathing difficulties",
+      "resource": "Exemption from violent exertion",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§36] when filled up with such a drink, he should not attempt any violent exertion, requiring either strength or swiftness, but should rest as much as possible until the drink has been digested along with the food."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While the passage discusses drink-induced respiratory heaviness (regurgitation in hypochondria), it establishes a general rule of medical exemption from physical labor/exertion for those in that physiological state.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Purging restriction for the symptomatic",
+      "group": "people with anaemic or chronic symptoms",
+      "resource": "Protection from purgative medicine",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§41] In these cases [anaemia, enlarged spleen, etc.] you may do mischief, but cannot possibly do any good by purging, but may interrupt the spontaneous remissions and crises of the complaints."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly bars the use of purging (a standard medical resource/intervention) for a specific set of groups defined by health symptoms to prevent medical harm.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Emetic regimen for hemorrhoid recovery",
+      "group": "people recovering from hemorrhoids",
+      "resource": "Right to regular emetic treatment",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§47] and when the patient recovers, let him be put upon a course of hellebore... let him take an emetic every seven days, or three times in a month; for thus will he enjoy the best bodily health."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text mandates a specific frequency of access to medical treatments (emetics/hellebore) and gymnasium facilities specifically for those who have undergone a certain surgical procedure.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Medical dietary protocols for dropsy",
+      "group": "Patients with dropsy",
+      "resource": "Access to specific medicinal cakes",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§57] [app_39] Pounding meconium, pouring on it water, and straining, and mixing flour, and baking into a cake, with the addition of boiled honey, give in affections of the anus and in dropsy; and after eating of it, let the patient drink of a sweet watery wine, and diluted hydromel prepared from wax."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "model_reasoning": "The text establishes a rule of medical practice where individuals suffering from specific health conditions (dropsy or anal affections) are prescribed a specific resource (medicinal cakes and hydromel) as part of their treatment regimen.",
+      "model_confidence": 9
+    }
+  ],
+  "_n_chunks": 8,
+  "_file_id": "tlg0627.tlg004.perseus-eng2",
+  "_input_tokens": 44546,
+  "_output_tokens": 6813,
+  "_model": "google/gemini-3-flash-preview"
+}

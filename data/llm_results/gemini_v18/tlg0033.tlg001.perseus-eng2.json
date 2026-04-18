@@ -1,0 +1,393 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Royal political supremacy",
+      "rule_category": "Access to political power",
+      "group": "Kings",
+      "group_category": "Lineage",
+      "resource": "Sovereign power over the community",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Some men are great in one thing, others in another; but the peak of the farthest limit is for kings."
+      ],
+      "reasoning": "Pindar identifies kingship as the absolute 'peak' of human achievement and power, establishing a social hierarchy where the highest level of authority is reserved exclusively for monarchs.",
+      "specificity": 8,
+      "specificity_reasoning": "The rule describes a very small elite group at the top of the social hierarchy.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial authority of the scepter",
+      "rule_category": "Access to judicial protection",
+      "group": "Kings",
+      "group_category": "Lineage",
+      "resource": "Right to administer law",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Hieron, who wields the scepter of law in Sicily of many flocks, reaping every excellence at its peak"
+      ],
+      "reasoning": "The 'scepter of law' is a concrete symbol of the king's right and duty to administer justice and legal order within his territory.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies specifically to a single ruler or the class of sovereign monarchs.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Olympic victory reward",
+      "rule_category": "Grant of economic privilege",
+      "group": "Victors",
+      "group_category": "Occupation",
+      "resource": "Lifelong peace and material well-being",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] A victor throughout the rest of his life enjoys honeyed calm, so far as contests can bestow it."
+      ],
+      "reasoning": "Winning the Olympic games conferred a lifelong status that Pindar describes as 'honeyed calm,' which in a Greek context implied material rewards, tax exemptions, and public maintenance.",
+      "specificity": 9,
+      "specificity_reasoning": "The rule applies only to the extremely small number of individuals who win at the Olympic games.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Aetolian judicial oversight",
+      "rule_category": "Access to legal standing",
+      "group": "Aetolians",
+      "group_category": "Origin",
+      "resource": "Right to judge Greek contests",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] ...for anyone over whose brow the strict Aetolian judge of the Greeks tosses up around his hair the gray-green adornment of olive leaves, fulfilling the ancient behests of Heracles"
+      ],
+      "reasoning": "The text identifies the judges of the Olympic games specifically as 'Aetolian,' reflecting the historical reality that the Eleans (identified here by their Aetolian roots) held the exclusive right to preside over the games and adjudicate results.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific ethnic/regional group holding a particular office.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Olympic physical eligibility",
+      "rule_category": "Age-based political exclusion",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to compete in the Olympic contest of excellence",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] For Heracles, when he ascended to Olympus, assigned to them the ordering of the marvellous contest of men, the contest in excellence and in the driving of swift chariots."
+      ],
+      "reasoning": "The Olympic contests are explicitly defined as a 'contest of men' (andros), excluding women from direct participation in the agonistic excellence described.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all free adult males within the Greek world.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Inheritance of ancestral land",
+      "rule_category": "Access to property rights",
+      "group": "Legitimate descendants",
+      "group_category": "Lineage",
+      "resource": "Right to retain and inherit ancestral land",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] ...be warmed by our songs and graciously preserve their ancestral land for their future generations."
+      ],
+      "reasoning": "The prayer for the preservation of land for 'future generations' reflects the societal rule that property and territory are held and passed down through a patrilineal lineage.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all families holding property or territory in the city-state.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Athlete property consumption",
+      "rule_category": "Obligation of public duty",
+      "group": "Athletic competitors",
+      "group_category": "Occupation",
+      "resource": "Retention of private wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] Always, when it is a question of excellence, toil and expense strive to accomplish a deed that is shrouded in danger; those who are successful seem wise, even to their fellow-citizens."
+      ],
+      "reasoning": "The text identifies 'expense' (dapana) as a necessary requirement for achieving 'excellence' (arete) in the panhellenic games. This implies that those pursuing high-level athletic success must systematically deplete their private resources to participate and win honor for their city.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to the class of wealthy citizens who compete in elite athletic festivals like the Olympics.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prophetic lineage succession",
+      "rule_category": "Access to religious office",
+      "group": "Descendants of Iamus",
+      "group_category": "Lineage",
+      "resource": "Right to hold prophetic office",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] For he said that he was begotten by Phoebus, and that he would be, for men on earth, a prophet above all mortals, and that his race would never fail. ... Since then the race of the sons of Iamus has been very famous throughout Greece."
+      ],
+      "reasoning": "The text establishes that the right and capacity to serve as a prophet (specifically at the altar of Zeus at Olympia) is a hereditary resource restricted to a specific lineage (the Iamids) founded by a divine mandate.",
+      "specificity": 8,
+      "specificity_reasoning": "The rule applies only to a very specific, named clan within Greek society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Illegitimate child abandonment",
+      "rule_category": "Restriction of parental rights",
+      "group": "Unwed mothers",
+      "group_category": "Gender",
+      "resource": "Right to raise child in household",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] Pitana, who, it is said, lay with Poseidon son of Cronus, and bore a child, violet-haired Evadne. But she hid her unwedded pregnancy in the folds of her robe. And in the appointed month she sent servants, and told them to give the baby to be tended by the hero, Aepytus... Evadne... in her distress, she left him on the ground."
+      ],
+      "reasoning": "The text describes the social necessity for an unwed woman of noble status to hide her pregnancy and physically separate herself from her child (sending him to be raised elsewhere or leaving him in a thicket), indicating that unwed mothers lacked the right to integrate 'unwedded' offspring into their primary social unit.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific sub-group of women (unwed) in a specific social crisis.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Victor's right to proclamation",
+      "rule_category": "Access to public recognition",
+      "group": "Olympic victors",
+      "group_category": "Occupation",
+      "resource": "Right to public heraldic proclamation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] To you he has dedicated rich renown by his victory, and he had his father Acron and his new-founded home proclaimed by the herald."
+      ],
+      "reasoning": "Victory in the games confers a concrete legal/customary right to have one's name, lineage (father), and city formally proclaimed by a herald, which is a key mechanism for establishing civic status and renown.",
+      "specificity": 3,
+      "specificity_reasoning": "While any citizen could theoretically win, only the victors of specific games are granted this formal right.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maternal lineage ritual influence",
+      "rule_category": "Access to divine favor",
+      "group": "Descendants of Cylleneans",
+      "group_category": "Lineage",
+      "resource": "Preference in divine favor through ancestral piety",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] But if, Hagesias, it is true that the men on your mother’s side, living below the boundaries of Cyllene, piously gave many gifts... it is that god, son of Sostratus, who with his loud-thundering father fulfills your good fortune."
+      ],
+      "reasoning": "Pindar explicitly links the current success and 'good fortune' of the individual to the historical religious actions (sacrifices and gifts to Hermes) of his maternal ancestors, showing that lineage dictates access to divine support in civic/athletic contests.",
+      "specificity": 7,
+      "specificity_reasoning": "This refers to the specific maternal family of the subject of the ode.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Sacred game eligibility",
+      "rule_category": "Access to athletic competition",
+      "group": "Free Greeks",
+      "group_category": "Origin",
+      "resource": "Right to participate in pan-Hellenic contests",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] I try to win the gods’ favor for those men who were victors at Olympia and at Pytho... singing the sea-child of Aphrodite and bride of Helios, Rhodes, so that I may praise this straight-fighting, tremendous man who had himself crowned beside the Alpheus and near Castalia, as a recompense for his boxing."
+      ],
+      "reasoning": "The text describes Diagoras of Rhodes competing in the pan-Hellenic games (Olympia, Pytho, Isthmus, Nemea). This reflects the historical rule that access to these specific material rewards and honors was reserved for those belonging to the Greek world (Hellenes).",
+      "specificity": 3,
+      "specificity_reasoning": "While limited to elite athletes, the category of those eligible for these games encompassed the free male population of the Greek poleis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Proxenian judicial protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to impartial judgment and hospitality",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] There the savior Themis, seated beside Zeus the god of hospitality, is honored more than among all other men. For when there is a heavy weight in the balance that sways many ways, to judge with a straight mind and not inopportunely is a difficult struggle. But some ordinance of the immortals set up as a divine pillar for visitors of all kinds this sea-girt land."
+      ],
+      "reasoning": "Pindar explicitly mentions that in Aegina, 'visitors of all kinds' (foreigners/strangers) are protected by a specific legal and customary ordinance (Themis) and the god of hospitality, ensuring they receive 'straight' (impartial) judgment despite the difficulty of such cases.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to ‘visitors’ or non-citizens present in a specific Greek state (Aegina).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Paternal lineage inheritance",
+      "rule_category": "Access to political succession",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to inherit ancestral land and status",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] And there he once lay with Rhodes, and begat seven sons who inherited from him the wisest minds in the time of earlier men; and of these one begat Cameirus, and Ialysus the eldest, and Lindus, Each had his own separate share of cities in their threefold division of their father’s land, and their dwelling-places were named after them."
+      ],
+      "reasoning": "The text outlines the division of Rhodes among the three grandsons (sons of the sons of Helios), establishing that land and political control of cities are divided among male biological descendants of a specific lineage.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general principle of lineage-based property division common across the society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Bastard status exclusion",
+      "rule_category": "Denial of property rights",
+      "group": "Bastards",
+      "group_category": "Lineage",
+      "resource": "Right to peaceful integration and inheritance",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] For indeed, striking Licymnius, the bastard brother of Alcmena, with a staff of hard olive-wood as he came out of the chamber of Midea, the founder of this land once killed that man, in anger. [...] Tlepolemus went and sought the god’s oracle... [to flee]."
+      ],
+      "reasoning": "Pindar notes Licymnius' status as a 'bastard brother' (nothos) in the context of his killing and the subsequent exile/voyage of the killer. In Greek law, bastards were systematically excluded from the 'anchisteia' (legal family inheritance and protection), a status Pindar identifies explicitly here.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the specific legal sub-class of illegitimate children within the free population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Age-based competition categories",
+      "rule_category": "Access to athletic competition",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to compete in age-matched contests",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] If I have, in my song, exalted the glory of Melesias for his training of beardless youths... [...] Now it is his honor that his thirtieth victory has been won for him by Alcimedon, who... thrust off from himself and onto the four limbs of other boys a hateful homecoming."
+      ],
+      "reasoning": "The description of 'beardless youths' (paides) and victories won against 'other boys' demonstrates a formal societal rule where athletic competition and its material rewards are stratified by age (boy/paides vs. men/andres).",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to all young males within the age-grade of 'youths' or 'boys'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based competition restriction",
+      "rule_category": "Athletic exclusion",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to compete in age-appropriate categories",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] And at Marathon, when he was barred from competing with the beardless youths, how he endured the contest for silver cups among the older men!"
+      ],
+      "reasoning": "The text explicitly mentions an athlete being 'barred' from his own age category (beardless youths), forcing him to compete against older men. This indicates a formal rule or official decision regulating access to specific athletic divisions based on biological age/physical development.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to male athletes of a transition age between youth and adulthood within the context of panhellenic or local games.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Inheritance to strangers",
+      "rule_category": "Denial of property rights",
+      "group": "Dying men without heirs",
+      "group_category": "Wealth",
+      "resource": "Right to keep property within the family line",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§10] since his wealth falling into the hands of a stranger who is master of another home is the most hateful thing to a dying man."
+      ],
+      "reasoning": "The text describes the transfer of wealth to a 'stranger' as a hateful but real outcome for a man reaching the end of his life without a 'long-desired child' (an heir). This reflects an inheritance system where lack of direct legitimate offspring results in the loss of family estate to outsiders.",
+      "specificity": 3,
+      "specificity_reasoning": "This concerns any male property owner who fails to produce a legitimate heir, a significant legal contingency in Greek city-states.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exile-based loss of fame",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Right to civic recognition in one's fatherland",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] even the fame of your swift feet would have shed its leaves ingloriously beside your native hearth, if hostile civil strife had not deprived you of your Cnossian fatherland."
+      ],
+      "reasoning": "The author notes that civil strife and subsequent deprivation of the 'fatherland' (exile) strips a man of the ability to gain or maintain glory in his original home. This shows that citizenship/residency is a prerequisite for local civic honors and resources.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to the specific subgroup of citizens who are driven out by 'stasis' (civil strife).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Non-citizen residency",
+      "rule_category": "Access to land",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to hold land in a foreign city",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] But as things are, Ergoteles, having been crowned with garlands at Olympia, and twice from Pytho, and at the Isthmus, you exalt the hot baths of the Nymphs, while keeping company with them beside your own fields."
+      ],
+      "reasoning": "The poet mentions Ergoteles (an exile from Crete) living 'beside your own fields' in Himera. This implies that the city of Himera allowed distinguished foreigners/exiles to acquire land (enktesis), a concrete material resource usually reserved for citizens.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to high-status foreigners or exiles who are granted residency rights in a new polis.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Citizen protection from injustice",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from civil disorder and injustice",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] While I praise a house that has been three times victorious at Olympia, gentle to her own citizens, and hospitable to strangers, I shall recognize prosperous Corinth... There dwell Eunomia and her sisters, the secure foundation of cities: Dike, and Eirene, who was raised together with her, the guardians of wealth for men, the golden daughters of wise Themis."
+      ],
+      "reasoning": "Pindar explicitly identifies the presence of Eunomia (Good Order), Dike (Justice), and Eirene (Peace) as the 'secure foundation' of the city of Corinth, specifically linking the city's gentleness toward its own citizens with these personified legal and social protections.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire body of citizens within the city-state of Corinth.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Hospitality for foreigners",
+      "rule_category": "Access to social protection",
+      "group": "Strangers",
+      "group_category": "Foreigners",
+      "resource": "Right to hospitality and safety",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] While I praise a house that has been three times victorious at Olympia, gentle to her own citizens, and hospitable to strangers, I shall recognize prosperous Corinth, the portal of Isthmian Poseidon, glorious in her young men."
+      ],
+      "reasoning": "The text identifies hospitality to strangers (xenia) as a defining characteristic of the leading houses and the city itself, treating it as a standard social and legal expectation for foreigners in Corinth.",
+      "specificity": 3,
+      "specificity_reasoning": "While applying to all foreigners, it specifically concerns their interactions with the leading houses and the city's entry points.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female marital self-determination",
+      "rule_category": "Marriage restriction by gender",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to choose spouse",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] I shall tell of Sisyphus, who, like a god, was very shrewd in his devising, and of Medea, who resolved on her own marriage against her father’s will, and thus saved the ship Argo and its seamen."
+      ],
+      "reasoning": "Pindar highlights Medea’s decision to marry against her father’s will as a notable and exceptional act of 'shrewd' or resolute behavior, implying that under normal Corinthian customs, a woman did not have the right to choose her spouse independently of her father.",
+      "specificity": 4,
+      "specificity_reasoning": "This describes a general social norm regarding paternal authority over daughters, though illustrated through a heroic figure.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Youth athletic recognition",
+      "rule_category": "Age-based military reward",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to public honors and victory crowns",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] Now go, Echo, to the dark-walled home of Persephone and bring the glorious message to his father; when you see Cleodamus, tell him that his son, by the famous valley of Pisa, has wreathed his youthful hair with the wings of the renowned games."
+      ],
+      "reasoning": "The text confirms that youths (boys in the foot race) are eligible for the highest civic honors (crowns at Olympia) and that these honors carry significant weight for the family lineage and the city's reputation.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to a subset of the population (youths) who are capable of competing in high-level athletic contests.",
+      "confidence": 10
+    }
+  ],
+  "_n_chunks": 5,
+  "_file_id": "tlg0033.tlg001.perseus-eng2",
+  "_input_tokens": 34745,
+  "_output_tokens": 6018,
+  "_model": "google/gemini-3-flash-preview"
+}

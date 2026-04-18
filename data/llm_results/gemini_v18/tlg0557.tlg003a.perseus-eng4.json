@@ -1,0 +1,380 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Slave admissibility of instruction",
+      "rule_category": "Access to education",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to moral instruction",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] If you would live tranquil and contented, endeavor that all who live with you may be good. And you can have them good by instructing the willing and dismissing the unwilling. For sin and bondage will fly with those who leave you, and with those who remain with you will virtue and liberty be left."
+      ],
+      "reasoning": "Epictetus frames the moral improvement of the household as a choice for the master: to instruct those who are willing (including slaves/bondmen) or to dismiss them. This indicates that slaves had the capacity to be 'instructed' in virtue within the domestic sphere, rather than being excluded from moral education.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the general class of domestic dependents and slaves within a household.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Servant dietary portioning",
+      "rule_category": "Resource distribution",
+      "group": "Servants",
+      "group_category": "Occupation",
+      "resource": "Right to share in household food",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] It would be best if, both while you are personally making your preparations and while you are feasting at table, you could give among the servants part of what is before you."
+      ],
+      "reasoning": "The text describes a customary recommendation for masters to share food with servants during a feast, implying a moral or social expectation of resource sharing within the hierarchy.",
+      "specificity": 3,
+      "specificity_reasoning": "This concerns the relationship between any master and their domestic staff.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Aristocratic political duty",
+      "rule_category": "Obligation of public duty",
+      "group": "Wise men",
+      "group_category": "Lineage",
+      "resource": "Obligation to hold office",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Let no wise man estrange himself from the government of the state; for it is both wicked to withdraw from being useful to the needy, and cowardly to give way to the worthless."
+      ],
+      "reasoning": "Epictetus argues that it is a moral and civic obligation for capable men to participate in government, framing the avoidance of office as a vice (cowardice/wickedness).",
+      "specificity": 2,
+      "specificity_reasoning": "This rule targets the elite 'wise' class but has implications for the whole state's governance.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Legal protection of injured",
+      "rule_category": "Access to judicial protection",
+      "group": "Injured persons",
+      "group_category": "Legal status",
+      "resource": "Protection from harm through law",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] As physicians are the preservers of the sick, so are the laws, of the injured."
+      ],
+      "reasoning": "The text explicitly defines the purpose of law as the protection ('preservation') of those who have been harmed or injured.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a general principle of the legal system applicable to any person who suffered an injury.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Right to impartial presiding",
+      "rule_category": "Grant of administrative fairness",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to impartial governance",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Nothing is more becoming a ruler than to despise no one, nor be insolent, but to preside over all impartially."
+      ],
+      "reasoning": "The text establishes a rule for rulers to treat all subjects/citizens with impartiality, forbidding insolence or contempt toward specific groups.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule applies to the conduct of any ruler toward the entire population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Duty of state maintenance",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Obligation to pay public dues",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Pay in advance your dues to the public, and you will never be asked for what is not due."
+      ],
+      "reasoning": "This reflects a civic rule regarding the payment of taxes or public liturgies, where the proactive fulfillment of financial obligations is expected.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all citizens who are subject to public dues/taxes.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Stranger assistance rule",
+      "rule_category": "Access to aid",
+      "group": "Strangers",
+      "group_category": "Origin",
+      "resource": "Right to receive alms/necessaries",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Impart to strangers and persons in need according to your ability. For he who gives nothing to the needy shall receive nothing in his own need."
+      ],
+      "reasoning": "Social custom in this period (as reflected by Stoic ethics) prescribed the sharing of resources with 'strangers' and the needy, backed by a reciprocity norm.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any non-local or impoverished person encountering a person of means.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave education dismissal",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to remain in a household",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] If you would live tranquil and contented, endeavor that all who live with you may be good. And you can have them good by instructing the willing and dismissing the unwilling. For sin and bondage will fly with those who leave you, and with those who remain with you will virtue and liberty be left."
+      ],
+      "reasoning": "Epictetus describes a customary power of the head of household (the master) to dismiss those in 'bondage' (slaves) who are unwilling to receive moral instruction, confirming that slaves had no legal or customary security of tenure or right to remain in their place of residence if they did not conform to the master's ethical standards.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual in a state of bondage within a private household, which was a significant portion of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Servant labor restraint",
+      "rule_category": "Labor control",
+      "group": "Servants",
+      "group_category": "Occupation",
+      "resource": "Freedom of movement and rest",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] remember that you, who are not weary, are attended by those who are; you who are eating and drinking, by those who are not; you who are talking, by those who are silent; you who are at ease, by those who are under constraint"
+      ],
+      "reasoning": "The text explicitly categorizes the state of servants during a meal as being 'under constraint' and 'weary' while others are at ease, reflecting a social rule where the servant group is denied the right to rest or participate in the consumption of food while on duty.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes the general condition of the domestic servant class in Roman society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Servant exclusion from table",
+      "rule_category": "Economic and social exclusion",
+      "group": "Servants",
+      "group_category": "Occupation",
+      "resource": "Right to share in prepared meals",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] It would be best if, both while you are personally making your preparations and while you are feasting at table, you could give among the servants part of what is before you. But if such a thing be difficult at that time, remember that you... are eating and drinking, by those who are not"
+      ],
+      "reasoning": "The author notes it is 'difficult' and rare to share food with servants during a feast, establishing a norm where servants are excluded from the material resource of the prepared meal they are serving.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the widespread domestic servant and slave population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Conversation submission rule",
+      "rule_category": "Social hierarchy",
+      "group": "Social inferiors",
+      "group_category": "Wealth",
+      "resource": "Right to dissent in conversation",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§34] Consider him with whom you converse in one of these three ways: either as your superior, or inferior, or equal. If superior, you ought to hear him and be convinced; if inferior, to convince him; if equal, to agree with him"
+      ],
+      "reasoning": "The text outlines a rigid social protocol for discourse based on hierarchy. If someone is considered an 'inferior' (often determined by wealth or office), they lose the resource of having their own arguments accepted, as it is the duty of the superior to 'convince' them and the duty of the inferior to be 'convinced'.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule governs almost all social interactions across the entire stratification of society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave-holding for elites",
+      "rule_category": "Property rights",
+      "group": "Political leaders",
+      "group_category": "Occupation",
+      "resource": "Right to own slaves",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] For neither was Aristides called just, nor Epaminondas divine, nor Lycurgus a preserver, because they were rich and slave-holders; but because, being poor, they delivered Greece from slavery."
+      ],
+      "reasoning": "The mention of 'rich and slave-holders' as a standard category for major historical figures/leaders confirms that slave ownership was a standard material resource and property right accessible to the elite class of this society.",
+      "specificity": 5,
+      "specificity_reasoning": "Slave ownership was common among the wealthy, a specific but substantial subgroup of the citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial impartiality",
+      "rule_category": "Access to judicial protection",
+      "group": "Litigants",
+      "group_category": "Legal standing",
+      "resource": "Right to a decision based on evidence",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§57] If you would give a just decision, heed neither parties nor pleaders, but the cause itself."
+      ],
+      "reasoning": "The text establishes a rule for judges to ignore the social status or rhetorical skill of the parties (pleaders) in favor of the 'cause itself,' ensuring that litigants receive a decision based on the facts of the case.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual involved in a legal dispute, which is a significant but specific portion of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Tutor guardianship of minors",
+      "rule_category": "Age-based protection",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from physical or moral harm",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§93] When we are children, our parents deliver us to the care of a tutor, who is continually to watch over us that we get no hurt."
+      ],
+      "reasoning": "Epictetus describes the standard social and legal practice of assigning a 'tutor' (paidagogos) to children to ensure their physical and moral safety, representing a societal rule of mandatory guardianship for minors.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all children within the relevant social classes of the time.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Stranger assistance",
+      "rule_category": "Grant of economic privilege",
+      "group": "Strangers",
+      "group_category": "Origin",
+      "resource": "Access to private material aid",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§104] Impart to strangers and persons in need according to your ability.",
+        "[§105] A person once brought clothes to a pirate, who had been cast ashore, and almost killed by the severity of the weather; then carried him to his house, and furnished him with all necessaries. Being reproached by some one for doing good to the evil, I have paid this regard, answered he, not to the man, but to humanity."
+      ],
+      "reasoning": "The text outlines a customary duty to provide material aid (food, clothing, shelter) to strangers and those in distress, framing it as an obligation toward 'humanity' rather than the individual's character.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any non-local or person in need, representing a broad social norm.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Compulsory public dues",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to retain personal wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§82] As you do not comply with a multitude, when it unreasonably asks of you any part of your own property...",
+        "[§83] Pay in advance your dues to the public, and you will never be asked for what is not due."
+      ],
+      "reasoning": "The text refers to 'dues to the public' (likely liturgies or taxes), indicating a legal requirement for citizens to contribute personal property to the state.",
+      "specificity": 4,
+      "specificity_reasoning": "This specifically targets property-owning citizens who are liable for public expenses.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Duty of political leadership",
+      "rule_category": "Obligation of public duty",
+      "group": "Wise men",
+      "group_category": "Occupation",
+      "resource": "Freedom from public service",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§127] Let no wise man estrange himself from the government of the state; for it is both wicked to withdraw from being useful to the needy, and cowardly to give way to the worthless."
+      ],
+      "reasoning": "The text posits a moral and social rule that capable/wise individuals must participate in governance, effectively denying them the 'resource' of a private life free from political responsibility.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a narrow elite defined by education and perceived character.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Submission to authority",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to autonomous action",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§121] It is decent to yield to a law, to a ruler, and to a wiser man."
+      ],
+      "reasoning": "The customary rule of 'decency' requires individuals to subordinate their will to legal and political superiors, restricting their freedom to act against established authority.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule of conduct for almost all members of the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Legal protection of the injured",
+      "rule_category": "Access to judicial protection",
+      "group": "Injured persons",
+      "group_category": "Legal status",
+      "resource": "Right to legal redress",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§119] As physicians are the preservers of the sick, so are the laws, of the injured."
+      ],
+      "reasoning": "The text explicitly defines the purpose of law as the protection and preservation of those who have suffered injury, granting them a resource of institutional protection.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any person who has been a victim of a crime or tort.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Father's right of reproof",
+      "rule_category": "Access to familial authority",
+      "group": "Fathers",
+      "group_category": "Age",
+      "resource": "Right to administer corporal or verbal discipline",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§133, §145] The reproof of a father is an agreeable medicine; for the profit is greater than the pain."
+      ],
+      "reasoning": "The text characterizes the 'reproof' (which in a Roman/Greek context often included physical discipline) as a beneficial 'medicine.' This confirms the social and legal norm that fathers possessed the authority to discipline their children, framed here as a constructive resource of the patriarchal role.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all fathers within the domestic sphere, a large but distinct segment of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Daughter as paternal property",
+      "rule_category": "Denial of property rights",
+      "group": "Daughters",
+      "group_category": "Gender",
+      "resource": "Right to self-ownership and legal autonomy",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§133, §143] A daughter is to a father a possession which is not his own."
+      ],
+      "reasoning": "While the quote has a philosophical subtext about the lack of ultimate control over external things, it explicitly labels a daughter as a 'possession' (ktēma) of the father. This reflects the legal reality of potestas, where daughters were held as assets and lacked independent legal standing.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire female demographic being raised within a patriarchal household.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Paternal loss via son-in-law",
+      "rule_category": "Marriage restriction",
+      "group": "Fathers",
+      "group_category": "Age",
+      "resource": "Transfer of custody and family association",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§133, §146] He who is fortunate in a son-in-law finds a son; he who is unfortunate in one loses likewise a daughter."
+      ],
+      "reasoning": "The text highlights that a daughter's marriage results in the father 'losing' her if the match is poor. This refers to the customary and legal practice where a daughter leaves her father's immediate household/authority (manus) upon marriage, effectively ending the father's primary access to her as a resource/resident.",
+      "specificity": 4,
+      "specificity_reasoning": "This specifically concerns fathers of marriageable women.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Child's right to instruction",
+      "rule_category": "Access to education",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to receive education over inheritance",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§133, §142] Choose rather to leave your children well instructed than rich.",
+        "[§133, §144] The same person advised to bequeath modesty to children, rather than gold."
+      ],
+      "reasoning": "The author presents education (instruction/modesty) as a superior 'bequest' compared to material wealth. This identifies education as a concrete resource that a head of household is expected to provide to his descendants as their primary 'inheritance.'",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all children of the free/propertied classes capable of receiving an inheritance.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0557.tlg003a.perseus-eng4",
+  "_input_tokens": 33622,
+  "_output_tokens": 5304,
+  "_model": "google/gemini-3-flash-preview"
+}

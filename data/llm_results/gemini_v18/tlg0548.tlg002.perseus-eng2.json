@@ -1,0 +1,907 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Male royal succession",
+      "rule_category": "Access to political succession",
+      "group": "Royal heirs",
+      "group_category": "Lineage",
+      "resource": "Right to succeed to sovereignty",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] Aegeus, seeing from the acropolis the ship with a black sail, supposed that Theseus had perished; so he cast himself down and died. [§12] But Theseus succeeded to the sovereignty of Athens"
+      ],
+      "reasoning": "The text describes the transition of power from Aegeus to his son Theseus as a direct consequence of the father's death, reflecting the customary rule of hereditary male succession in Athenian kingship.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically governs the behavior and rights of a very small elite group (royal family members) within the broader society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Paternal lineage of slaves",
+      "rule_category": "Status by lineage",
+      "group": "Children of female slaves",
+      "group_category": "Freedom status",
+      "resource": "Legal recognition of paternal lineage",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] Minos shut up the guilty Daedalus in the labyrinth, along with his son Icarus, who had been borne to Daedalus by Naucrate, a female slave of Minos."
+      ],
+      "reasoning": "The text identifies Icarus as the son of Daedalus despite his mother Naucrate's status as a slave. This indicates that even the children of slaves could have their paternal lineage recognized, linking them to a free father.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population (slaves and their children) which was a significant demographic in ancient contexts.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Diplomatic immunity of guests",
+      "rule_category": "Protection from bodily harm",
+      "group": "Assembled guests",
+      "group_category": "Citizenship",
+      "resource": "Protection from physical assault",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] when her marriage was being celebrated, the Amazon that had before been married to him appeared in arms with her Amazons, and threatened to kill the assembled guests. But they hastily closed the doors and killed her."
+      ],
+      "reasoning": "The immediate and violent defense of the wedding guests against the Amazon's threat demonstrates a societal rule protecting the physical safety of guests during formal civic or religious assemblies.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to anyone participating in guest-host relationships or public festivals, encompassing many free individuals.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Hereditary elite exile",
+      "rule_category": "Restoration of political power",
+      "group": "Exiled nobles",
+      "group_category": "Citizenship",
+      "resource": "Right to return and hold sovereignty",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] And the Dioscuri also brought back Menestheus from exile, and gave him the sovereignty of Athens."
+      ],
+      "reasoning": "The restoration of Menestheus from exile directly to the kingship suggests a rule where being an exiled member of the ruling lineage does not permanently extinguish one's potential right to govern.",
+      "specificity": 9,
+      "specificity_reasoning": "This is highly specific to the highest tier of the political elite and claimants to the throne.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Royal selection by lineage",
+      "rule_category": "Access to political succession",
+      "group": "Descendants of Pelops",
+      "group_category": "Lineage",
+      "resource": "Eligibility for kingship",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] For the Mycenaeans had received an oracle which bade them choose a Pelopid for their king, and they had sent for Atreus and Thyestes."
+      ],
+      "reasoning": "The text indicates that the Mycenaean society, following an oracular mandate, restricted the initial pool for selecting a king to a specific lineage (the Pelopids), excluding other commoners or nobles of different lines from this specific instance of sovereignty.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to the descendants of one man (Pelops) in a specific kingdom (Mycenae).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Political exile by decree",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Defeated political rivals",
+      "group_category": "Lineage",
+      "resource": "Right to reside in the city-state",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§38] hence the deity having plainly attested the usurpation of Thyestes, Atreus got the kingdom and banished Thyestes.",
+        "[§41] Not long afterwards Tyndareus brought them back again, and they drove away Thyestes to dwell in Cytheria, after that they had taken an oath of him at the altar of Hera, to which he had fled."
+      ],
+      "reasoning": "Banishment is presented as a standard political mechanism for securing a new reign. When Atreus and later Agamemnon/Menelaus take power, the previous ruler or rival (Thyestes) loses his right to remain within the territory.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies to elite individuals who have lost a claim or been accused of usurpation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Suppliant protection from execution",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Legal status",
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§39] he slaughtered the sons, Aglaus, Callileon, and Orchomenus, whom Thyestes had by a Naiad nymph, though they had sat down as suppliants on the altar of Zeus.",
+        "[§41] Not long afterwards Tyndareus brought them back again, and they drove away Thyestes to dwell in Cytheria, after that they had taken an oath of him at the altar of Hera, to which he had fled."
+      ],
+      "reasoning": "The mention that Atreus killed the sons 'though they had sat down as suppliants' indicates a breach of a known rule: suppliants at an altar typically enjoyed protection from violence. Conversely, Thyestes' life is spared in §41 because he fled to an altar.",
+      "specificity": 5,
+      "specificity_reasoning": "Any individual who reaches a sacred altar with the intent of supplication may claim this right.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Kinship marriage preference",
+      "rule_category": "Marriage restriction by lineage",
+      "group": "Kinsmen",
+      "group_category": "Lineage",
+      "resource": "Right to feast and celebrate at a relative's wedding",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] For when Pirithous wooed Hippodamia, he feasted the centaurs because they were her kinsmen."
+      ],
+      "reasoning": "The text identifies kinship as the social criterion for inclusion in specific wedding rituals and celebratory feasting, granting these specific relatives access to the event.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to anyone defined as a 'kinsman' of a bridal party.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Male-only military leadership",
+      "rule_category": "Exclusion from political speech",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to command and wage war",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] And the Dioscuri also brought back Menestheus from exile, and gave him the sovereignty of Athens."
+      ],
+      "reasoning": "Throughout the text, sovereignty and the ability to lead armies (The Dioscuri, Theseus, Pirithous, Menestheus) are consistently and exclusively exercised by men, while high-status women (Helen, Aethra) are treated as captives or prizes in these political transfers.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all female members of the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ceded sovereignty rights",
+      "rule_category": "Grant of economic privilege",
+      "group": "Royal sons-in-law",
+      "group_category": "Lineage",
+      "resource": "Right to inherit or receive a kingdom",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] And Menelaus married Helen and reigned over Sparta, Tyndareus having ceded the kingdom to him."
+      ],
+      "reasoning": "The text shows that kingly power can be transferred legally to a son-in-law (Menelaus) by the current king (Tyndareus) upon marriage to the king's daughter.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies only to males marrying into specific royal families.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sacrificial duty of daughters",
+      "rule_category": "Denial of body integrity",
+      "group": "Maidens",
+      "group_category": "Age",
+      "resource": "Protection from ritual execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§43] Calchas said that they could not sail unless the fairest of Agamemnon's daughters were presented as a sacrifice to Artemis; for the goddess was angry with Agamemnon... So Clytaemnestra sent her, and Agamemnon set her beside the altar, and was about to slaughter her."
+      ],
+      "reasoning": "The text describes a situation where a daughter's life is treated as a disposable resource to satisfy religious/military requirements of the state (represented by the king and army). This reflects a social reality where high-status unmarried females could be subjected to sacrificial demands for the perceived public good.",
+      "specificity": 8,
+      "specificity_reasoning": "While specifically mentioning the king's daughter, the ritual logic applies to a narrow subset of high-born maidens in exceptional civic crises.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military service reward",
+      "rule_category": "Access to marriage",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Marriage as reward for service",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] On receipt of this oracle, Agamemnon sent Ulysses and Talthybius to Clytaemnestra and asked for Iphigenia, alleging a promise of his to give her to Achilles to wife in reward for his military service."
+      ],
+      "reasoning": "The text explicitly links the 'reward' of a prestigious marriage (to a princess) to the performance of 'military service'. This indicates that marriage alliances were used as concrete incentives for military leaders.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to elite soldiers/leaders who performed distinguished service, a significant but not universal group within the military.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Summary execution for adultery",
+      "rule_category": "Punishment for sexual misconduct",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§43] Cycnus afterwards learning the truth, stoned the flute-player to death and buried his wife alive in the earth."
+      ],
+      "reasoning": "The text describes a husband's power to summarily execute his wife for alleged adultery (specifically by burying her alive) once 'the truth' of her infidelity/false accusation was established in his view, showing a lack of legal protection for wives against marital violence in cases of sexual misconduct.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all married women in the context of domestic/sexual law.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Envoy immunity",
+      "rule_category": "Protection of diplomatic agents",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Protection from execution during diplomacy",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] But the Trojans, having summoned an assembly, not only refused to restore Helen, but threatened to kill the envoys. These were, however, saved by Antenor; but the Greeks, exasperated at the insolence of the barbarians, stood to arms."
+      ],
+      "reasoning": "The 'insolence' of the Trojans and the intervention of Antenor suggest that killing envoys (envoys from a hostile power) was viewed as a violation of a normative rule of protection/immunity for diplomatic representatives, even if the rule was nearly broken.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies specifically to individuals acting in the capacity of diplomatic envoys.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Paternal power of exile",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to remain in the family home",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§43] He dwelt there because he had been banished by his father. ... Cycnus believed her, and putting him and his sister in a chest he set them adrift on the sea."
+      ],
+      "reasoning": "The text illustrates the absolute power of the father (patriarchal authority) to banish or even attempt to kill his children based on an accusation, without a public trial. This shows adult children remained subject to paternal commands regarding their residence and life.",
+      "specificity": 2,
+      "specificity_reasoning": "This was a general rule governing the relationship between heads of households and their offspring.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Mutual defense oath obligation",
+      "rule_category": "Access to military protection",
+      "group": "Kings",
+      "group_category": "Lineage",
+      "resource": "Right to collective military defense",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§49] And he, sending a herald to each of the kings, reminded them of the oaths which they had sworn, and warned them to look to the safety each of his own wife, saying that the affront had been offered equally to the whole of Greece."
+      ],
+      "reasoning": "The text describes a formal diplomatic mechanism (the oath of Tyndareus) where Hellenic leaders are legally and religiously bound to defend the marital integrity of any member of their peer group, treating an affront to one as an affront to all.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies specifically to the class of 'kings' or local dynastic leaders within a specific cultural coalition.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Draft evasion penalty",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Kings",
+      "group_category": "Lineage",
+      "resource": "Freedom from compulsory military service",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§50] But he, not wishing to go to the war, feigned madness. However, Palamedes, son of Nauplius, proved his madness to be fictitious; and when Ulysses pretended to rave, Palamedes followed him, and snatching Telemachus from Penelope's bosom, drew his sword as if he would kill him. And in his fear for the child Ulysses confessed that his madness was pretended, and he went to the war."
+      ],
+      "reasoning": "The narrative shows that even a high-ranking individual like Ulysses cannot legally or socially avoid a military levy once the oath is invoked; coercion (even via threats to family) is used to enforce the service obligation.",
+      "specificity": 7,
+      "specificity_reasoning": "While the story is about Ulysses specifically, it illustrates the binding nature of the muster on the entire group of allied leaders.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Treason adjudication by allies",
+      "rule_category": "Denial of judicial protection",
+      "group": "Noble commanders",
+      "group_category": "Lineage",
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§51] Agamemnon read the letter, found the gold, and delivered up Palamedes to the allies to be stoned as a traitor."
+      ],
+      "reasoning": "The text demonstrates that a commander suspected of treason can be handed over to a collective of 'allies' (the army/other leaders) for immediate execution (stoning) based on physical evidence without a formal trial.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to high-level military leaders within the coalition.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Female sacrificial liability",
+      "rule_category": "Denial of bodily integrity",
+      "group": "Daughters of leaders",
+      "group_category": "Gender",
+      "resource": "Protection from ritual execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§64] Calchas said that they could not sail unless the fairest of Agamemnon's daughters were presented as a sacrifice to Artemis; for the goddess was angry with Agamemnon... [§65] and Agamemnon set her beside the altar, and was about to slaughter her."
+      ],
+      "reasoning": "In the context of state/military emergency (being windbound), a leader's daughter can be legally and religiously designated as a sacrificial victim to appease a deity for the father's or family's transgressions.",
+      "specificity": 9,
+      "specificity_reasoning": "This is a very specific intersection of high lineage and gender, occurring only in dire religious/military circumstances.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adultery false accusation penalty",
+      "rule_category": "Punishment for false testimony",
+      "group": "Free women",
+      "group_category": "Gender",
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§68] But Cycnus afterwards learning the truth, stoned the flute-player to death and buried his wife alive in the earth."
+      ],
+      "reasoning": "The text shows that women who falsely accuse family members of sexual misconduct (debauchery) are subject to extreme, lethal punishment (live burial) once the perjury is discovered.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to wives or women within noble households regarding specific legal/moral crimes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Invalidity of foreign envoys",
+      "rule_category": "Denial of diplomatic immunity",
+      "group": "Envoys",
+      "group_category": "Occupation",
+      "resource": "Protection from physical harm",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§71] But the Trojans, having summoned an assembly, not only refused to restore Helen, but threatened to kill the envoys."
+      ],
+      "reasoning": "The text indicates that the status of 'envoy' (messenger/diplomat) did not guarantee safety; their lives were subject to the vote or whim of the opposing city's assembly.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies specifically to those acting in a diplomatic capacity between warring states.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Youth military command eligibility",
+      "rule_category": "Access to high office",
+      "group": "Noble youths",
+      "group_category": "Age",
+      "resource": "Right to hold high military command",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§59] So Agamemnon in person was in command of the whole army, and Achilles was admiral, being fifteen years old."
+      ],
+      "reasoning": "The text explicitly notes that a fifteen-year-old can hold the rank of 'admiral' and lead a fleet, suggesting that lineage and divine favor override standard age requirements for high office in this society.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies to the subset of extremely high-status youths (princes/demigods).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sick person abandonment",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Sick or injured soldiers",
+      "group_category": "Health",
+      "resource": "Right to remain with the community",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§70] and as the sore did not heal and grew noisome, the army could not endure the stench, and Ulysses, by the orders of Agamemnon, put him ashore on the island of Lemnos... and there, by shooting birds with the bow, he subsisted in the wilderness."
+      ],
+      "reasoning": "A member of the military can be forcibly abandoned/exiled on the basis of a non-healing medical condition that creates a nuisance for the collective.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any soldier or leader whose health becomes a liability to the group's morale or logistics.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sacrosanctity of the priest",
+      "rule_category": "Protection of religious figures",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to daughter's presence and protection from seizure",
+      "resource_category": "Family integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§80] Achilles did not go forth to the war, because he was angry on account of Briseis,the daughter of Chryses the priest."
+      ],
+      "reasoning": "The conflict of the Iliad, summarized here, stems from the violation of a priest's rights regarding his daughter. The eventual return of Briseis and the recognition of the 'wrong' done to the priest's family indicates a societal rule protecting the families of religious officials from arbitrary seizure by military leaders.",
+      "specificity": 8,
+      "specificity_reasoning": "Priests are a small, specific elite group within the broader society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Body ransom right",
+      "rule_category": "Access to funerary rites",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Right to ransom and bury fallen kin",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§86] And after the games Priam came to Achilles and ransomed the body of Hector, and buried it."
+      ],
+      "reasoning": "The text describes the formal process of an enemy leader (Priam) ransoming his son's body for burial. This reflects a customary rule allowing families to retrieve their dead for proper religious rites, even across enemy lines.",
+      "specificity": 5,
+      "specificity_reasoning": "While specifically mentioning kings, the custom of ransoming dead warriors applied to the aristocratic class of the time.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Burial method restriction",
+      "rule_category": "Regulation of funerary rites",
+      "group": "Suicides",
+      "group_category": "Health",
+      "resource": "Right to cremation",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§94] And Agamemnon forbade his body to be burnt; and he alone of all who fell at Ilium is buried, in a coffin."
+      ],
+      "reasoning": "Ajax, having committed suicide in a state of madness, is denied the standard Greek rite of cremation. Agamemnon's command illustrates a rule where individuals who die by their own hand are excluded from standard funerary honors and relegated to inhumation.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies only to a very specific subset of the deceased: those who die by suicide or in disgrace.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Military prize distribution",
+      "rule_category": "Reward for military merit",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to compete for valorous rewards",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§93] Also his arms were offered as a prize to the bravest, and Ajax and Ulysses came forward as competitors."
+      ],
+      "reasoning": "The text describes a formal competition for the arms of a fallen hero. This establishes a rule where concrete material resources (valuable armor) are distributed based on judged military merit among the warrior class.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to the entire category of 'the bravest' within the army.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sanctuary protection",
+      "rule_category": "Access to religious asylum",
+      "group": "Defeated combatants",
+      "group_category": "Occupation",
+      "resource": "Protection from execution at altars",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§87] And they would have killed Ajax, but he fled to the altar and they let him alone."
+      ],
+      "reasoning": "The Greeks intend to kill the Locrian Ajax for his crimes, but his flight to an altar prevents them from acting. This demonstrates a socially enforced rule of religious asylum (asylia) that protects individuals from physical harm while on sacred ground.",
+      "specificity": 3,
+      "specificity_reasoning": "The right of asylum was a general religious protection available to anyone who could reach a sanctuary.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female captive allocation",
+      "rule_category": "Denial of personal freedom",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Freedom from forced concubinage",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§87] And as special awards Agamemnon got Cassandra, Neoptolemus got Andromache, and Ulysses got Hecuba."
+      ],
+      "reasoning": "Upon the fall of the city, women of high status are treated as material 'special awards' and distributed among the victors. This confirms a rule where captive women lose all rights to bodily autonomy and family structure, becoming property of the conquerors.",
+      "specificity": 2,
+      "specificity_reasoning": "This applied to all female survivors of a conquered city.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Recognition of diplomatic immunity",
+      "rule_category": "Access to judicial protection",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Protection from execution during conquest",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§108] But when Glaucus, son of Antenor, fled to his house, Ulysses and Menelaus recognized and rescued him by their armed intervention."
+      ],
+      "reasoning": "In the context of the Sack of Troy, the rescue of Glaucus (son of Antenor, who had historically advocated for peace and the return of Helen) by the Greek leaders indicates a rule where specific foreign individuals who provided diplomatic aid were granted protection from the general slaughter of the enemy population.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a very narrow subset of foreigners: those who had actively assisted the opposing side's diplomatic interests.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Religious sanctuary from execution",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from immediate execution",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§110] And they would have killed Ajax, but he fled to the altar and they let him alone."
+      ],
+      "reasoning": "Even in the case of a high-ranking Greek leader (Ajax) accused of a capital religious crime (the violation of Cassandra), the act of taking refuge at an altar prevented his immediate execution by his peers, demonstrating the legal/customary power of sanctuary.",
+      "specificity": 4,
+      "specificity_reasoning": "The right of sanctuary was a general religious-legal rule applicable to anyone able to reach the altar, regardless of their specific crime.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Division of captive spoils",
+      "rule_category": "Grant of economic privilege",
+      "group": "Military leaders",
+      "group_category": "Occupation",
+      "resource": "Right to receive human spoils",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§110] And having slain the Trojans, they set fire to the city and divided the spoil among them. [...] And as special awards Agamemnon got Cassandra, Neoptolemus got Andromache, and Ulysses got Hecuba."
+      ],
+      "reasoning": "The text describes a systematic process where the city is treated as 'spoil' to be divided, with specific high-status individuals receiving 'special awards' in the form of captive women, reflecting the distribution of property among victors.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the class of military commanders and victors following a successful siege.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female captive enslavement",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Freedom from enslavement during war",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§110] And as special awards Agamemnon got Cassandra, Neoptolemus got Andromache, and Ulysses got Hecuba."
+      ],
+      "reasoning": "The systematic allocation of surviving noblewomen to Greek leaders as 'awards' demonstrates that women of a conquered city were treated as transferable property/slaves rather than free persons or prisoners of war with rights.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all surviving females of a conquered population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Enemy child execution",
+      "rule_category": "Denial of life protection",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from execution following conquest",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§110] they threw Astyanax from the battlements"
+      ],
+      "reasoning": "The execution of Astyanax, the infant son of Hector, indicates that in the context of total war/conquest, children—particularly those of the ruling lineage—were systematically denied the right to life to prevent future political threats.",
+      "specificity": 5,
+      "specificity_reasoning": "While specifically mentioning Astyanax, it reflects a broader practice regarding the elimination of the enemy's next generation of leaders.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Asylum in sacred spaces",
+      "rule_category": "Access to judicial protection",
+      "group": "Legal fugitives",
+      "group_category": "Legal standing",
+      "resource": "Protection from immediate execution",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§111] But Leucus killed her, together with her daughter Clisithyra, who had taken refuge in the temple; and having detached ten cities from Crete he made himself tyrant. [...] And when they came to Troy they were chased by the natives and took refuge in the sanctuary. And they did not approach the goddess, but swept and sprinkled the sanctuary; and they did not go out of the temple."
+      ],
+      "reasoning": "The text describes various individuals (Clisithyra, the Locrian maidens) seeking safety in temples to avoid being killed. While the tyrant Leucus violates it, the recurring mention of taking refuge in sanctuaries and the specific ritualized life of the Locrian maidens within the temple shows a recognized custom of religious asylum that prevents immediate bodily harm.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any individual fleeing violence or legal pursuit who can reach a sanctuary, making it a moderately common legal mechanism.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Locrian maiden tribute",
+      "rule_category": "Obligation of public duty",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Freedom of movement and bodily autonomy",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§111] The Locrians regained their own country with difficulty, and three years afterwards, when Locris was visited by a plague, they received an oracle bidding them to propitiate Athena at Ilium and to send two maidens as suppliants for a thousand years. [...] And they did not approach the goddess, but swept and sprinkled the sanctuary; and they did not go out of the temple, and their hair was cropped, and they wore single garments and no shoes."
+      ],
+      "reasoning": "The text describes a specific historical/customary penalty where the Locrian society was required to send young women to Troy to live as temple servants. These women lost their freedom of movement, had their hair shorn, and were forced into a specific, restricted lifestyle as a collective penance.",
+      "specificity": 9,
+      "specificity_reasoning": "This is a very specific rule applying only to a small number of selected girls from a specific Greek region (Locris).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Equal vote acquittal",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to acquittal in tied verdicts",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§111] and not long afterwards, being afflicted with madness and pursued by the Furies, he repaired to Athens and was tried in the Areopagus. [...] and the votes at his trial being equal he was acquitted."
+      ],
+      "reasoning": "This reflects the real-world Athenian legal practice at the Areopagus (the 'Athena's vote' tradition), where an equal division of votes among jurors resulted in the acquittal of the defendant.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any defendant appearing before the high court in Athens, a significant but defined segment of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreigner execution practice",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Protection from arbitrary execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§111] Now the Taurians are a part of the Scythians, who murder strangers and throw them into the sacred fire, which was in the precinct, being wafted up from Hades through a certain rock."
+      ],
+      "reasoning": "The author describes the Taurians' practice of murdering any stranger (foreigner) who enters their territory. This is presented as a fixed societal norm/custom of that group toward outsiders.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all 'strangers' (foreigners), which is a broad and general category.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Dotal kingdom succession",
+      "rule_category": "Access to political succession",
+      "group": "Royal sons-in-law",
+      "group_category": "Lineage",
+      "resource": "Right to inherit kingdom through marriage",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§111] Demophon with a few ships put in to the land of the Thracian Bisaltians, and there Phyllis, the king's daughter, falling in love with him, was given him in marriage by her father with the kingdom for her dower."
+      ],
+      "reasoning": "The text provides an instance of the 'dowry-kingdom,' a Hellenistic-era literary reflection of archaic customs where a kingdom could be transferred to a husband via the king's daughter.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies only to individuals of royal lineage entering specific marital alliances.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Marital fidelity obligation",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Wives",
+      "group_category": "Gender",
+      "resource": "Right to sexual autonomy",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§120] [9] but when he returned unsuccessful [...] he coasted along the Grecian lands and contrived that the wives of the Greeks should play their husbands false, Clytaemnestra with Aegisthus, Aegialia with Cometes, son of Sthenelus, and Meda, wife of Idomeneus, with Leucus."
+      ],
+      "reasoning": "The text describes the 'playing false' of husbands by wives as a 'contrivance' or plot by an enemy, implying that marital fidelity is a strictly enforced social and legal norm for women, the breach of which is used to destabilize households.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all married women within the Grecian society described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maiden suppliant service",
+      "rule_category": "Obligation of public duty",
+      "group": "Maidens",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Freedom of movement and personal appearance",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§134] [20] The Locrians [...] received an oracle bidding them to propitiate Athena at Ilium and to send two maidens as suppliants for a thousand years. [...] [§135] [21] And when they came to Troy [...] they did not approach the goddess, but swept and sprinkled the sanctuary; and they did not go out of the temple, and their hair was cropped, and they wore single garments and no shoes."
+      ],
+      "reasoning": "The Locrian society imposed a specific, long-term ritual obligation on young women selected by lot. This involved severe restrictions on their physical freedom (remaining in the temple), appearance (cropped hair), and material comfort (no shoes).",
+      "specificity": 6,
+      "specificity_reasoning": "The rule is specific to the Locrian subgroup of Greeks and further narrowed to specific maidens chosen by lot.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Vulnerability to sword",
+      "rule_category": "Denial of personal safety",
+      "group": "Maidens",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§136] [22] And when the first maidens died, they sent others; and they entered into the city by night, lest, being seen outside the precinct, they should be put to the sword"
+      ],
+      "reasoning": "The text indicates that the Locrian suppliant maidens were subject to being killed by the local population (the Trojans/natives) if found outside the sacred precinct, showing a lack of legal protection for their lives in that specific territory.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to the specific group of Locrian suppliants in the context of their exile/service in Troy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Trial by jury",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to trial by the Areopagus",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§139] [25] [...] he repaired to Athens and was tried in the Areopagus. He is variously said to have been brought to trial by the Furies, or by Tyndareus, or by Erigone, daughter of Aegisthus and Clytaemnestra; and the votes at his trial being equal he was acquitted."
+      ],
+      "reasoning": "The mention of Orestes being tried at the Areopagus reflects the Athenian institutional practice of providing a formal trial with a voting jury to determine guilt or innocence in homicide cases.",
+      "specificity": 3,
+      "specificity_reasoning": "While describing a specific mythic figure, the text references the historical Athenian legal institution of the Areopagus which applied to the citizen body.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Stranger sacrifice custom",
+      "rule_category": "Denial of personal safety",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Protection from ritual execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§140] [26] Now the Taurians are a part of the Scythians, who murder strangers and throw them into the sacred fire, which was in the precinct"
+      ],
+      "reasoning": "The text describes a systematic societal rule among the Taurians where non-members (strangers) are denied the right to life and instead are ritually murdered, marking 'Origin' as a fatal axis of stratification.",
+      "specificity": 4,
+      "specificity_reasoning": "This is a general rule applied by the Taurian society to any 'stranger'.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female dowry right",
+      "rule_category": "Grant of economic privilege",
+      "group": "Daughters",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to receive dowry upon marriage",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§130] [16] Demophon with a few ships put in to the land of the Thracian Bisaltians, and there Phyllis, the king's daughter, falling in love with him, was given him in marriage by her father with the kingdom for her dower."
+      ],
+      "reasoning": "The text highlights the custom of fathers providing a 'dower' (dowry) to their daughters upon marriage, which functions as a transfer of material resources (in this case, territory/power) accompanying the woman.",
+      "specificity": 5,
+      "specificity_reasoning": "While this refers to a king's daughter, the practice of providing dower was a widespread social custom for women of various classes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Priestly immunity from pillage",
+      "rule_category": "Protection from bodily harm",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Protection from execution and pillage",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§144 / §146] And putting to sea from Ilium, he touched at Ismarus, a city of the Cicones, and captured it in war, and pillaged it, sparing Maro alone, who was priest of Apollo."
+      ],
+      "reasoning": "The text explicitly notes that while a city was captured and pillaged according to the laws of war, the priest was specifically spared. This indicates a customary rule where religious officials were protected from the standard treatment of defeated enemies.",
+      "specificity": 8,
+      "specificity_reasoning": "I chose 8 because this rule applies to a very specific and small professional group (priests) during warfare.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial arbitration of exile",
+      "rule_category": "Access to judicial protection",
+      "group": "Kinsfolk of the slain",
+      "group_category": "Lineage",
+      "resource": "Right to submit grievances to royal judgment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§144] And there are some who say that Ulysses, being accused by the kinsfolk of the slain, submitted the case to the judgment of Neoptolemus, king of the islands off Epirus; that Neoptolemus, thinking to get possession of Cephallenia if once Ulysses were put out of the way, condemned him to exile."
+      ],
+      "reasoning": "The passage describes a legal process where the families of deceased persons (the suitors) have the right to bring an accusation against a high-status individual (Ulysses) and have a third-party king act as an arbitrator to deliver a sentence.",
+      "specificity": 5,
+      "specificity_reasoning": "I chose 5 because while the situation is a specific legal suit, it reflects a broader customary practice of dispute resolution among elite kin groups.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Handmaid execution for bed-service",
+      "rule_category": "Exclusion from life protection",
+      "group": "Female servants",
+      "group_category": [
+        "Gender",
+        "Freedom status"
+      ],
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§144] He killed also Melanthius, and the handmaids that bedded with the suitors, and he made himself known to his wife and his father."
+      ],
+      "reasoning": "The summary execution of the handmaids by the returning master for their sexual behavior with the suitors demonstrates that enslaved or servant women had no legal protection against the death penalty imposed by their master for perceived disloyalty.",
+      "specificity": 4,
+      "specificity_reasoning": "I chose 4 because it concerns a specific subset of domestic staff but within a very common societal structure (the household).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Royal marriage succession",
+      "rule_category": "Access to political succession",
+      "group": "Queens",
+      "group_category": "Lineage",
+      "resource": "Right to grant kingdom through marriage",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§144] But Callidice, who was then queen of the Thesprotians, urged him to stay and offered him the kingdom; and she had by him a son Polypoetes. And having married Callidice, he reigned over the Thesprotians."
+      ],
+      "reasoning": "This indicates that a reigning queen had the power to confer the kingdom unto a husband, showing a mechanism of political power through matrimonial alliance.",
+      "specificity": 9,
+      "specificity_reasoning": "I chose 9 because this applies only to a very small number of individuals (reigning female monarchs).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Widow remarriage compulsion",
+      "rule_category": "Marriage restriction",
+      "group": "Widows",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to remain unmarried",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§144] These, journeying to the palace, consumed the herds of Ulysses at their feasts. And Penelope was compelled to promise that she would wed when the shroud of Laertes was finished."
+      ],
+      "reasoning": "The text shows that Penelope, believed to be a widow, was socially and economically coerced into remarrying to stop the consumption of her household's resources, indicating women of her status lacked the right to remain single indefinitely.",
+      "specificity": 3,
+      "specificity_reasoning": "I chose 3 because it describes a general expectation for women of property-holding rank.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Royal hospitality obligations",
+      "rule_category": "Access to public resources",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to entertainment and gifts",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§154] Having entertained Ulysses, he gave him an oxhide bag in which he had bound fast the winds, after showing what winds to use on the voyage and binding fast the bag in the vessel.",
+        "[§169] Now Nausicaa, the daughter of king Alcinous, was washing the clothes, and when Ulysses implored her protection, she brought him to Alcinous, who entertained him, and after bestowing gifts on him sent him away with a convoy to his native land."
+      ],
+      "reasoning": "In the heroic society described, high-status foreigners (like Ulysses) are systematically granted 'entertainment' (food/lodging) and material gifts by local rulers, establishing a customary right to hospitality for travelers of rank.",
+      "specificity": 4,
+      "specificity_reasoning": "While hospitality is a broad custom, it specifically targets travelers and foreigners interacting with the ruling class.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "God-opposed hospitality exclusion",
+      "rule_category": "Denial of protection",
+      "group": "Divine enemies",
+      "group_category": "Origin",
+      "resource": "Right to sanctuary and aid",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§155] And having come to Aeolus, Ulysses begged that he might be granted a fair wind; but Aeolus drove him from the island, saying that he could not save him when the gods opposed."
+      ],
+      "reasoning": "The text establishes a limit to the rule of hospitality: if a person is identified as being opposed by the gods (a near-immutable status in this context once declared), they lose the right to protection or aid from human rulers.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any individual currently under divine wrath, a significant status in this literature.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Servile execution for infidelity",
+      "rule_category": "Denial of body integrity",
+      "group": "Female slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§177] He killed also Melanthius, and the handmaids that bedded with the suitors, and he made himself known to his wife and his father."
+      ],
+      "reasoning": "The summary execution of the handmaids for their sexual conduct with the suitors demonstrates that female slaves had no legal protection against execution by their master for perceived disloyalty or sexual transgressions.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the category of domestic female slaves within a household.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Blood guilt arbitration",
+      "rule_category": "Access to judicial protection",
+      "group": "Killers",
+      "group_category": "Legal status",
+      "resource": "Right to third-party judgment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§184] And there are some who say that Ulysses, being accused by the kinsfolk of the slain, submitted the case to the judgment of Neoptolemus, king of the islands off Epirus"
+      ],
+      "reasoning": "The text describes a procedure where a person accused of mass killing (Ulysses) can avoid immediate vendetta by submitting to the formal judgment of a neighboring king, showing a rule of legal arbitration for high-status individuals.",
+      "specificity": 6,
+      "specificity_reasoning": "This is a specific legal mechanism for resolving blood feuds between elite families.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Female succession/regency",
+      "rule_category": "Access to political power",
+      "group": "Queens",
+      "group_category": "Gender",
+      "resource": "Right to exercise sovereign power",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§178] But Callidice, who was then queen of the Thesprotians, urged him to stay and offered him the kingdom;"
+      ],
+      "reasoning": "The fact that Callidice is 'queen' and has the authority to 'offer the kingdom' to a consort indicates that certain high-born women in these societies could hold and transfer sovereign political power.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to women of the highest royal lineage.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 10,
+  "_file_id": "tlg0548.tlg002.perseus-eng2",
+  "_input_tokens": 77209,
+  "_output_tokens": 13725,
+  "_model": "google/gemini-3-flash-preview"
+}

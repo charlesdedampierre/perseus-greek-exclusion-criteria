@@ -1,0 +1,88 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Agreement breach liability",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from breach of contract",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] The law of the city, which binds us all, lays it down that if anyone breaks an agreement made in the presence of one of the citizens he shall be liable as an offender."
+      ],
+      "reasoning": "The text cites a specific Athenian law that provides legal recourse for any citizen who is a party to or witness of a broken agreement, establishing a material legal right to hold others accountable for contracts.",
+      "specificity": 2,
+      "specificity_reasoning": "The rule is stated as binding 'all' and applies to any citizen, representing a broad societal legal standard.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Bribery-based property confiscation",
+      "rule_category": "Denial of property rights",
+      "group": "Corrupt officials",
+      "group_category": "Occupation",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] you have simply to consider now the punishment mentioned in the decree and to decide whether you ought to fine a man who has done the city so much harm or sentence him to death... confiscating the property which he has amassed from perquisites like this."
+      ],
+      "reasoning": "In cases of public corruption (bribery), the Athenian state exercised the right to seize the personal assets of the official, removing their right to private ownership of those goods.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific subset of the population (high-ranking officials/generals) who have been convicted of specific financial crimes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Child protection from corruption",
+      "rule_category": "Restriction of professional access",
+      "group": "Persons of bad character",
+      "group_category": "Citizens",
+      "resource": "Right to hold educational office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] The whole people considered that it was not safe or right to trust him with their children and so rejected him as Supervisor of the Ephebi."
+      ],
+      "reasoning": "The text indicates that the Athenian Assembly (the 'whole people') used character and reputation as a formal filter to deny individuals the right to hold specific offices, such as the Supervisor of the Ephebi, which involved the care of youth.",
+      "specificity": 7,
+      "specificity_reasoning": "This rule applies to candidates for a specific, high-level educational/military administrative post.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Treason-based summary justice",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Citizens",
+      "resource": "Right to critical deliberation before punishment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] Do you realize that, although in the case of other offences you must first consider critically and with deliberation, discovering the truth... nevertheless, in cases of obvious and unquestioned treason, you should give first place to anger and the vengeance that goes with it?"
+      ],
+      "reasoning": "The author distinguishes between standard crimes (where procedural deliberation is a right) and treason, where the customary rule allows for immediate emotional retribution, effectively reducing the defendant's procedural protections.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any individual accused of a specific category of crime (treason) that threatens the state.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Judicial oath requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Citizens",
+      "resource": "Right to a sworn jury",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§17] You did not take this record into consideration at all, or allow such services to outweigh the case before you or the oaths which you swear before giving your verdict"
+      ],
+      "reasoning": "The mention of the 'oaths which you swear before giving your verdict' refers to the Heliastic Oath, a concrete legal mechanism that grants defendants the right to be judged by jurors bound by a religious and civic vow of impartiality.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a universal protection for anyone appearing before the Athenian courts.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0029.tlg006.perseus-eng2",
+  "_input_tokens": 6752,
+  "_output_tokens": 1171,
+  "_model": "google/gemini-3-flash-preview"
+}

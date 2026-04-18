@@ -1,0 +1,361 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Penalty for fraudulent receiving",
+      "rule_category": "Economic regulation",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Protection from imprisonment and trial",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] [5] ...but he who receives it without need shall be tried as to why he took and for what, and being in prison he shall be examined as to his deeds, and he shall not come out thence until he pay the last farthing."
+      ],
+      "reasoning": "The text establishes a legal/civic penalty (imprisonment and trial) for those who take alms without genuine material need, effectively stripping them of their freedom and legal protection until restitution is made.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual who is not in 'pressure of need' but accepts charity, a specific but significant subset of the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Right to life",
+      "rule_category": "Protection from bodily harm",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from infanticide and abortion",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] ...thou shalt not procure abortion, nor commit infanticide;",
+        "[§42] ...murderers of children, corrupters of God’s creatures, turning away the needy..."
+      ],
+      "reasoning": "The text explicitly forbids abortion and infanticide, granting the unborn and infants a right to life and protection from lethal violence within the community's moral and legal code.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule protecting all infants and unborn children within the society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Inheritance of the earth",
+      "rule_category": "Grant of economic privilege",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to land ownership",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] [7] but be thou meek, for the meek shall inherit the earth;"
+      ],
+      "reasoning": "While 'meek' is a behavioral trait, in the context of the Didache and its Beatitude-based source material, it functions as a proxy for the 'anawim' (the humble/poor). It promises concrete land inheritance to this group.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to a broad class of person (the humble/socially low-ranking).",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Teacher's right to honor",
+      "rule_category": "Social status recognition",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to be honored as the Lord",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] My child, thou shalt remember, day and night, him who speaks the word of God to thee, and thou shalt honour him as the Lord, for where the Lord’s nature is spoken of, there is he present."
+      ],
+      "reasoning": "Teachers of the word (religious leaders/priests) are granted a specific high-status recognition by the community, equating their honor to that of a divine authority.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies only to those performing the specific role of religious instruction.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Obligation of parental education",
+      "rule_category": "Family duty",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to religious instruction",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§36] [9] Thou shalt not withhold thine hand from thy son or from thy daughter, but thou shalt teach them the fear of God from their youth up."
+      ],
+      "reasoning": "Parents are forbidden from withholding guidance/discipline and are mandated to provide education (the fear of God), establishing a child's right to receive this training.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to all sons and daughters within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from harsh command",
+      "rule_category": "Labor protection",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from bitter or harsh treatment",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] [10] Thou shalt not command in thy bitterness thy slave or thine handmaid, who hope in the same God, lest they cease to fear the God who is over you both;"
+      ],
+      "reasoning": "The rule limits the master's authority, specifically forbidding 'bitter' commands, thereby granting slaves a degree of protection from psychological or excessive verbal abuse based on their shared religious status.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to the specific interaction between masters and slaves.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Obligation of slave obedience",
+      "rule_category": "Access to personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom of self-governance",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§38] [11] But do you who are slaves be subject to your master, as to God’s representative, in reverence and fear."
+      ],
+      "reasoning": "The text reinforces the social hierarchy of the time, mandating that slaves remain subject to their masters, treating the master's authority as divinely sanctioned.",
+      "specificity": 5,
+      "specificity_reasoning": "Concerns the specific class of enslaved persons within the household.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Communal resource sharing",
+      "rule_category": "Grant of economic privilege",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to shared property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§35] [8] Thou shalt not turn away the needy, but shalt share everything with thy brother, and shalt not say that it is thine own"
+      ],
+      "reasoning": "The text mandates that members of the community must not claim exclusive ownership of goods but must share everything with the needy, creating a customary right to communal resources for the poor.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the interaction between the 'needy' and property owners within the sect.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Eucharist participation restriction",
+      "rule_category": "Exclusion from religious access",
+      "group": "Non-baptized persons",
+      "group_category": "Citizenship",
+      "resource": "Right to participate in the Eucharist",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§58] But let none eat or drink of your Eucharist except those who have been baptised in the Lord’s Name. For concerning this also did the Lord say, Give not that which is holy to the dogs.",
+        "[§63] [5] But let none eat or drink of your Eucharist except those who have been baptised in the Lord’s Name."
+      ],
+      "reasoning": "The text explicitly forbids those who have not undergone the ritual of baptism from consuming the ritual meal (Eucharist), effectively creating a boundary between the initiated community and outsiders.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual who has not undergone the specific initiation rite of the community, which constitutes a large group of outsiders.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prophetic liturgical autonomy",
+      "rule_category": "Grant of religious privilege",
+      "group": "Prophets",
+      "group_category": "Occupation",
+      "resource": "Right to conduct Eucharist according to own discretion",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§64] But suffer the prophets to hold Eucharist as they will.",
+        "[§71] [7] But suffer the prophets to hold Eucharist as they will."
+      ],
+      "reasoning": "While the text provides specific prayers and structures for the Eucharist for ordinary members, it explicitly exempts 'prophets' from these liturgical constraints, allowing them unique ritual freedom.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies only to a very small, specific charismatic group within the early Christian community.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Apostolic stay limitation",
+      "rule_category": "Restriction of economic privilege",
+      "group": "Apostles",
+      "group_category": "Occupation",
+      "resource": "Right to communal hospitality and support",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§72] Let every Apostle who comes to you be received as the Lord, but let him not stay more than one day, or if need be a second as well; but if he stay three days, he is a false prophet.",
+        "[§77] [5] but let him not stay more than one day, or if need be a second as well; but if he stay three days, he is a false prophet."
+      ],
+      "reasoning": "Traveling apostles are granted short-term support, but their right to consume communal resources is strictly limited to prevent long-term dependency or exploitation.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies to a very narrow category of itinerant high-status leaders.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Apostolic financial prohibition",
+      "rule_category": "Restriction of economic privilege",
+      "group": "Apostles",
+      "group_category": "Occupation",
+      "resource": "Right to receive monetary gifts",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§72] And when an Apostle goes forth let him accept nothing but bread till he reach his night’s lodging; but if he ask for money, he is a false prophet.",
+        "[§78] [6] And when an Apostle goes forth let him accept nothing but bread till he reach his night’s lodging; but if he ask for money, he is a false prophet."
+      ],
+      "reasoning": "The text bars traveling apostles from requesting or receiving cash, limiting their compensation to basic food supplies for travel.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies only to the specific traveling rank of 'Apostle'.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prophetic judicial immunity",
+      "rule_category": "Access to judicial protection",
+      "group": "Prophets",
+      "group_category": "Occupation",
+      "resource": "Protection from communal judgment/examination",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§72] Do not test or examine any prophet who is speaking in a spirit, for every sin shall be forgiven, but this sin shall not be forgiven.",
+        "[§79] [7] Do not test or examine any prophet who is speaking in a spirit, for every sin shall be forgiven, but this sin shall not be forgiven.",
+        "[§83] [11] But no prophet who has been tried and is genuine, though he enact a worldly mystery of the Church... shall be judged by you: for he has his judgment with God"
+      ],
+      "reasoning": "Genuine prophets are granted a form of immunity from local communal scrutiny or judicial evaluation for their spiritual actions, with their accountability reserved for divine judgment.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a small elite group of recognized charismatic leaders.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Christian traveler support",
+      "rule_category": "Grant of economic privilege",
+      "group": "Foreigners [Travelers]",
+      "group_category": "Citizenship",
+      "resource": "Right to communal assistance and lodging",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§85] If he who comes is a traveller, help him as much as you can, but he shall not remain with you more than two days, or, if need be, three.",
+        "[§87] [2] If he who comes is a traveller, help him as much as you can, but he shall not remain with you more than two days, or, if need be, three."
+      ],
+      "reasoning": "Members of the wider religious group traveling through a community are granted a legal/customary right to aid and short-term housing.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any traveling member of the faith, which is a significant subset of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Resident alien labor requirement",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Foreigners [Settlers]",
+      "group_category": "Citizenship",
+      "resource": "Right to receive public support without labor",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§85] And if he wishes to settle among you and has a craft, let him work for his bread. But if he has no craft provide for him according to your understanding, so that no man shall live among you in idleness because he is a Christian.",
+        "[§88] [3] And if he wishes to settle among you and has a craft, let him work for his bread."
+      ],
+      "reasoning": "While travelers receive temporary aid, those wishing to remain permanently must labor to support themselves if able; they lose the right to long-term communal maintenance if they are capable of a trade.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to any non-local religious member seeking to relocate.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prophetic right to firstfruits",
+      "rule_category": "Grant of economic privilege",
+      "group": "Prophets",
+      "group_category": "Occupation",
+      "resource": "Right to claim agricultural and material firstfruits",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§91] Therefore thou shalt take the firstfruit of the produce of the winepress and of the threshing-floor and of oxen and sheep, and shalt give them as the firstfruits to the prophets, for they are your high priests.",
+        "[§94] [3] Therefore thou shalt take the firstfruit of the produce of the winepress and of the threshing-floor and of oxen and sheep, and shalt give them as the firstfruits to the prophets, for they are your high priests."
+      ],
+      "reasoning": "Prophets are granted a formal legal/religious right to a portion of the community's primary resources (food, wine, oil, money), effectively serving as a tax or stipend for their sustenance.",
+      "specificity": 8,
+      "specificity_reasoning": "Only a small number of recognized 'prophets' hold this high-priestly status and the accompanying right to firstfruits.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Poor relief priority",
+      "rule_category": "Grant of economic privilege",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to receive surplus tithes/firstfruits",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§91] But if you have not a prophet, give to the poor.",
+        "[§95] [4] But if you have not a prophet, give to the poor."
+      ],
+      "reasoning": "In the absence of a resident prophet, the community's poor gain a secondary right to receive the resources otherwise designated for the prophets.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any member classified as poor when the primary recipient (a prophet) is missing.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Liturgical exclusion for conflict",
+      "rule_category": "Exclusion from religious access",
+      "group": "Persons in dispute",
+      "group_category": "Citizenship",
+      "resource": "Right to join the communal assembly/meeting",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§99] but let none who has a quarrel with his fellow join in your meeting until they be reconciled, that your sacrifice be not defiled.",
+        "[§101] [2] but let none who has a quarrel with his fellow join in your meeting until they be reconciled, that your sacrifice be not defiled."
+      ],
+      "reasoning": "Individuals engaged in interpersonal legal or social disputes are temporarily barred from the community's central assembly until reconciliation is achieved.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any member of the community at any time they enter a state of dispute.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Social ostracism for wrongdoers",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Wrongdoers [Neighbors in conflict]",
+      "group_category": "Citizenship",
+      "resource": "Right to be spoken to by community members",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§103] and let none speak with any who has done a wrong to his neighbour, nor let him hear a word from you until he repents.",
+        "[§106] [3] And reprove one another not in wrath but in peace as you find in the Gospel, and let none speak with any who has done a wrong to his neighbour, nor let him hear a word from you until he repents."
+      ],
+      "reasoning": "The community enforces a rule of social isolation (shunning) against those who have committed offenses against neighbors, stripping them of the right to social communication until they repent.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies broadly to any member defined as having done a 'wrong' to a neighbor.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Assembly for soul profit",
+      "rule_category": "Mandatory religious assembly",
+      "group": "Believers",
+      "group_category": "Origin",
+      "resource": "Right to communal assembly",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§108] But be frequently gathered together seeking the things which are profitable for your souls, for the whole time of your faith shall not profit you except ye be found perfect at the last time;",
+        "[§110] [2] But be frequently gathered together seeking the things which are profitable for your souls, for the whole time of your faith shall not profit you except ye be found perfect at the last time;"
+      ],
+      "reasoning": "The text mandates frequent gathering for the community of believers as a requirement for spiritual perfection. This establishes a community rule where members are expected and permitted to congregate to maintain their standing within the group.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire community of Christians/believers addressed by the Didache, which is a significant but distinct subgroup of the broader population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Resurrection of the saints",
+      "rule_category": "Post-mortem status differentiation",
+      "group": "Saints",
+      "group_category": "Lineage",
+      "resource": "Right to resurrection",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§108] thirdly the resurrection of the dead: but not of all the dead, but as it was said, The Lord shall come and all his saints with him.",
+        "[§114] [6] And then shall appear the signs of the truth. First the sign spread out in Heaven, then the sign of the sound of the trumpet, and thirdly the resurrection of the dead:",
+        "[§115] [7] but not of all the dead, but as it was said, The Lord shall come and all his saints with him."
+      ],
+      "reasoning": "The text specifies a concrete exclusion rule regarding the resurrection: it is not a universal event but is restricted to a specific category of people defined as 'saints'. This represents a legalistic/theological boundary defining who receives the ultimate status of resurrection and who does not.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to a religious category, it divides the entire population of the 'dead' into two distinct legal classes (saints vs. others).",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg1311.tlg001.perseus-eng1",
+  "_input_tokens": 21189,
+  "_output_tokens": 5251,
+  "_model": "google/gemini-3-flash-preview"
+}

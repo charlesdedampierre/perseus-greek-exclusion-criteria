@@ -1,0 +1,764 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Patient physical examination right",
+      "rule_category": "Access to judicial protection",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to objective medical diagnosis",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] And I in one case of this kind having said that there was no dislocation, exposed myself to censure from certain physicians and common people on that account, for they fancied that I alone was ignorant of what everybody else was acquainted with, and I could not convince them but with difficulty, that the matter was so. But if one will strip the point of the shoulder of the fleshy parts... the head of the humerus will appear to protrude strongly forward, although not dislocated."
+      ],
+      "reasoning": "The author describes a scenario where a patient's physical state (emaciation) leads to false diagnoses by peers. By insisting on anatomical demonstration over 'fancy,' Hippocrates establishes a normative rule that a patient is entitled to a diagnosis based on physical evidence rather than popular or professional 'censure' or optical illusion.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual seeking medical care for injury, a significant but specific subset of the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Self-reduction of dislocations",
+      "rule_category": "Access to medical self-help",
+      "group": "Chronic patients",
+      "group_category": "Health",
+      "resource": "Right to perform medical procedures on oneself",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] Those who are subject to frequent dislocations at the shoulder-joint, are for the most part competent to effect the reduction themselves; for, having introduced the knuckles of the other hand into the armpit, they force the joint upward, and bring the elbow toward the breast."
+      ],
+      "reasoning": "The text acknowledges that individuals with a specific physical condition (frequent dislocation) are recognized as 'competent' to treat themselves, bypassing the need for a professional physician for this specific medical resource.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies only to a very specific group: those with chronic joint laxity or recurring dislocations.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Palestra medical access",
+      "rule_category": "Access to public resources",
+      "group": "Athletes",
+      "group_category": "Occupation",
+      "resource": "Access to immediate medical reduction methods",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] These methods of reduction are all of easy application in the palestra, as they can all be performed without instruments, but they may also be used elsewhere."
+      ],
+      "reasoning": "The mention of the palestra (wrestling school) as the primary site where these manual reduction methods (without instruments) are 'of easy application' indicates that athletes/trainees have systematic access to medical intervention as part of the institution's customs.",
+      "specificity": 5,
+      "specificity_reasoning": "The palestra was a common institution for male citizens/youths, making this applicable to a large demographic group (Greek males of a certain class).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Child labor in medicine",
+      "rule_category": "Obligation of public duty",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from use as medical counterweights",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] But if the patient be very light, a light child should be suspended behind along with him."
+      ],
+      "reasoning": "The text describes a medical practice where children are used as physical ballast/counterweights during the reduction of a shoulder. This indicates that children lack the resource of protection from being used as mechanical tools in a medical procedure.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to 'light' children in medical settings where a light patient is being treated.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physician duty of disclosure",
+      "rule_category": "Access to medical information",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to be warned of medical risks",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] it is therefore the business of the physician to warn them beforehand that dislocation is more likely to return in such cases than when the tendons have been inflamed."
+      ],
+      "reasoning": "Hippocrates defines it as a professional obligation ('the business of the physician') to provide specific prognostic warnings to patients who might otherwise underestimate their injury, establishing a customary right to medical transparency.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any patient seeking care for a specific common injury (dislocation).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gymnastic exercise exclusion",
+      "rule_category": "Physical activity restriction",
+      "group": "Disabled",
+      "group_category": "Health",
+      "resource": "Right to participate in gymnastic exercises",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] For many persons owing to this accident have been obliged to abandon gymnastic exercises, though otherwise well qualified for them"
+      ],
+      "reasoning": "Chronic shoulder dislocation acts as a barrier to the customary participation in gymnastic exercises, which were central to Greek civic and social life.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to a subset of the population (athletes/citizens) who suffer from specific recurring injuries.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Military service exclusion",
+      "rule_category": "Military service restriction",
+      "group": "Disabled",
+      "group_category": "Health",
+      "resource": "Capability for military service",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] and from the same misfortune have become inept in warlike practices, and have thus perished."
+      ],
+      "reasoning": "The text notes that those with recurring dislocations lose the ability to perform 'warlike practices,' effectively excluding them from the military roles expected of Greek men and resulting in higher mortality.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to those of military age with permanent joint instability.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Surgical safety requirement",
+      "rule_category": "Protection from medical harm",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Protection from nerve damage during cautery",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] The glands, then, are not to be taken hold of, nor the parts internal to the glands; for this would be attended with great danger, as they are adjacent to the most important nerves. But the greater part of the substances external to the glands are to be grasped, for there is no danger from them."
+      ],
+      "reasoning": "The author establishes a strict procedural rule for physicians to avoid specific anatomical structures (glands and internal nerves) during cauterization to prevent permanent harm, constituting a rule of safe medical practice for the patient's protection.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to patients undergoing a particular surgical procedure (cautery for dislocation).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Labor capacity retention",
+      "rule_category": "Access to labor",
+      "group": "Disabled",
+      "group_category": "Health",
+      "resource": "Right to perform manual labor",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] for they can work with an auger or a saw, or with a hatchet, and can dig, by not raising the elbow too much, and do all other kinds of work which are done in similar attitudes."
+      ],
+      "reasoning": "Even in cases of unreduced dislocation, the text explicitly recognizes that these individuals remain capable of and presumably allowed to perform heavy manual labor (digging, carpentry), reflecting their continued economic utility.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to adults with permanent shoulder injuries who must still work for a living.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Medical transparency and care",
+      "rule_category": "Access to medical care",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to continuous medical supervision",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] When, then, a fracture has recently taken place, the patients attach much importance to it, as supposing the mischief greater than it really is, and the physicians bestow great pains in order that it may be properly bandaged; but in a little time the patients, having no pain, nor finding any impediment to their walking or eating, become negligent; and the physicians finding they cannot make the parts look well, take themselves off, and are not sorry at the neglect of the patients, and in the meantime the callus is quickly formed."
+      ],
+      "reasoning": "The text describes a customary behavior where physicians abandon the treatment of clavicle fractures once the aesthetic outcome (the 'look' of the bone) seems unachievable or when the patient becomes less vigilant. This indicates that patients lacked a guaranteed right to persistent professional care for non-life-threatening deformities.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual seeking medical treatment for common orthopedic injuries in this society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Physical impairment from dislocation",
+      "rule_category": "Restriction of bodily function",
+      "group": "Disabled",
+      "group_category": "Health",
+      "resource": "Freedom of movement of limbs",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] the symptom of this variety-loss of the power of extension; of dislocation forward-loss of the power of flexion",
+        "[§26] the symptoms are easily recognized: if inward, the patient cannot at all bend his fingers; and if outward, he cannot extend them."
+      ],
+      "reasoning": "While these are medical symptoms, the text establishes them as the definitive legal/functional status of persons with specific joint dislocations until a physician intervenes. It codifies the loss of bodily resource (flexion/extension) associated with the physical state.",
+      "specificity": 5,
+      "specificity_reasoning": "This refers specifically to victims of joint dislocations, a significant but subset population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Congenital disability resource loss",
+      "rule_category": "Denial of physical development",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to natural bone growth",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] In congenital dislocations the bones below the seat of the injury are shorter than natural, and, mostly, those nearest to the place; namely, the bones of the fore-arm, next those of the hand; and, third, those of the fingers.",
+        "[§28] In congenital dislocations (at the wrist) the hand becomes shortened, and the atrophy of the flesh occurs, for the most part, on the side opposite to the dislocation. In an adult the bones remain of their natural size."
+      ],
+      "reasoning": "The text distinguishes between the resources (bone length and muscle mass) available to those injured as adults versus those born with dislocations. It identifies 'congenital' status as a determinant for the permanent loss of physical stature and development that does not occur if the same injury happens to an adult.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to a narrow group defined by birth defects (congenital dislocations).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical care for infants",
+      "rule_category": "Access to medical care",
+      "group": "Infants",
+      "group_category": "Age",
+      "resource": "Corrective medical treatment for dislocations",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] When the dislocation takes place at birth, during adolescence the bones below the dislocation are shortened, and the flesh is wasted rather on the opposite than on the same side with the dislocation."
+      ],
+      "reasoning": "The text describes the physiological consequences of infant dislocations and the subsequent chapters detail the methods of reduction (medical correction). This implies that infants (at birth) are subjects of medical intervention and orthopedic care within this society.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad demographic (infants with injuries) and describes a standard medical practice for that age group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Gold dental wiring",
+      "rule_category": "Grant of economic privilege",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to use gold for medical stabilization",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] if the teeth at the wound be distorted and loosened, when the bone is adjusted, they should be connected together, not only two, but more of them, with a gold thread, if possible, but otherwise, with a linen thread, until the bone be consolidated"
+      ],
+      "reasoning": "The text explicitly allows for the use of gold thread in medical procedures for those who can attain it ('if possible'), while prescribing linen for others. This indicates a differentiation in the quality of material resources available for medical treatment based on the patient's wealth/access to precious metals.",
+      "specificity": 5,
+      "specificity_reasoning": "This describes a specific medical procedure but limits the premium version to those with the means to provide the material.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Dietary restriction for recovery",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Sick and injured",
+      "group_category": "Health",
+      "resource": "Right to full dietary rations",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§33] He is to be kept on a spare diet for ten days, and then nourished without delay."
+      ],
+      "reasoning": "The text establishes a medical rule that patients with fractured jaws must be denied full nourishment ('spare diet') for a specific duration as part of the healing protocol.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies specifically to those with a particular injury (fractured jaw) during a specific recovery window.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adult orthopedic treatment",
+      "rule_category": "Access to medical care",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Corrective medical treatment for dislocations",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] When it occurs in an adult the bones remain of their proper size.",
+        "[§33] if an adult the whole thickness of the hide will be required"
+      ],
+      "reasoning": "The text outlines specific adjustments in medical equipment (thickness of leather) and recognizes the different biological outcomes for adults, confirming they are a primary group receiving these orthopedic services.",
+      "specificity": 2,
+      "specificity_reasoning": "Adults are a very large segment of the population and the rule covers a general standard of care for them.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Procedural medical self-care",
+      "rule_category": "Access to judicial protection",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to perform own medical reduction",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] But for these purposes no physician is equal to the index-fingers of the patient himself, if he will pay attention and has resolution, for they are the most natural means. Either of the fingers is to be placed firmly along the whole nose, and thus it is to be gently held, and steadily, if possible until it become firm, but if not, he himself is to hold it for as long a time as possible..."
+      ],
+      "reasoning": "The text explicitly recognizes the patient as the most effective agent in their own surgical reduction of a fractured nose, granting them a form of technical autonomy over the physician for specific clinical outcomes.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual regardless of class, provided they have a specific injury (broken nose) and the necessary 'resolution'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Domestic medical assistance",
+      "rule_category": "Grant of economic privilege",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to participate in medical treatment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] ...or if he cannot, a child or woman should do it, for the hands ought to be soft."
+      ],
+      "reasoning": "Hippocrates explicitly designates women and children as the preferred secondary actors in a specific medical procedure due to the physical trait of 'soft hands', granting them a quasi-medical role in the domestic or clinical sphere.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to half the population (women) and a significant age-based segment (children) in the context of household injury management.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Domestic medical assistance (age)",
+      "rule_category": "Grant of economic privilege",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to participate in medical treatment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] ...or if he cannot, a child or woman should do it, for the hands ought to be soft."
+      ],
+      "reasoning": "Similar to women, children are identified as suitable participants in the manual care of a fractured nose because of their physical characteristics, granting them a specific function relative to adults with 'harder' hands.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to a broad demographic category (children).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Deformity-based procreative restriction",
+      "rule_category": "Marriage restriction by origin",
+      "group": "Men with lower spinal gibbosity",
+      "group_category": "Health",
+      "resource": "Capacity for generation",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§41] ...and they are less capable of generation than those who have the gibbosity higher up."
+      ],
+      "reasoning": "The text describes a systematic loss of reproductive capacity associated with a specific physical condition (lower spinal deformity), which in a Greek social context has direct implications for citizenship and lineage maintenance.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies only to a very specific subset of the population with a certain medical condition reaching adulthood.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Charity-based medical exclusion",
+      "rule_category": "Exclusion from political speech",
+      "group": "The mob",
+      "group_category": "Wealth",
+      "resource": "Protection from medical charlatanism",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§42] Wherefore succussion on a ladder has never straightened anybody, as far as I know, but it is principally practiced by those physicians who seek to astonish the mob-for to such persons these things appear wonderful..."
+      ],
+      "reasoning": "The author notes that certain high-risk, ineffective medical procedures are specifically targeted at 'the mob' (the uneducated or lower-class public) for the purpose of spectacle rather than cure, implying this group is systematically more vulnerable to harmful medical theater.",
+      "specificity": 2,
+      "specificity_reasoning": "The 'mob' represents a large portion of the non-elite urban population.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Standard of medical care",
+      "rule_category": "Access to professional competence",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Protection from incompetent medical display",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§44] These matters should be thus arranged, if recourse is to be had at all to succussion on a ladder; for it is disgraceful in every art, and more especially in medicine, after much trouble, much display, and much talk, to do no good after all."
+      ],
+      "reasoning": "Hippocrates establishes a professional and ethical rule that patients are entitled to effective treatment rather than performative 'display' (charlatanism). He frames the failure to provide benefit after 'much talk' as a disgrace to the art, implying a social expectation of competence and results for the sick.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any person seeking medical treatment in Greek society, which is a broad category of the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Invasive surgical limitation",
+      "rule_category": "Restriction of medical intervention",
+      "group": "The living",
+      "group_category": "Health",
+      "resource": "Protection from lethal internal surgery",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] It is evident, then, that such a case could not be reduced either by succussion or by any other method, unless one were to cut open the patient, and then, having introduced the hand into one of the great cavities, were to push outward from within, which one might do on the dead body, but not at all on the living."
+      ],
+      "reasoning": "The text identifies a hard boundary in medical practice: certain invasive procedures (opening the great cavities of the body) are strictly forbidden or considered impossible on living patients due to their fatal nature, effectively serving as a rule protecting the living from lethal experimentation.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule applies to all living human beings regardless of status.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical transparency",
+      "rule_category": "Protection from fraud",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Protection from fraudulent diagnosis",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] Many are ignorant, and profit by their ignorance, for they obtain credit from those about them. These are deceived in this way, for they suppose the spinous processes to be the vertebrae themselves... All the circumstances now mentioned contribute to deceive the physician. Such patients speedily get well without any bad effects, for callus readily forms in all such bones as are porous."
+      ],
+      "reasoning": "By exposing the 'ignorance' of practitioners who mistake fractured processes for dislocated vertebrae, Hippocrates is advocating for a standard of anatomical truth. The text suggests that patients are frequently 'deceived' by practitioners who take credit for 'cures' that are actually natural healing processes, implying a rule that patients should be protected from such financial and intellectual exploitation.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to those with spinal injuries, a subset of the ill population.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Medical practitioner qualification",
+      "rule_category": "Access to medical practice",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to perform spinal reduction",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] But the physicians, or some person who is strong, and not uninstructed, should apply the palm of one hand to the hump, and then, having laid the other hand upon the former, he should make pressure, attending whether this force should be applied directly downward, or toward the head, or toward the hips."
+      ],
+      "reasoning": "The text identifies physicians as the primary group authorized and expected to perform complex and potentially dangerous medical maneuvers, such as spinal pressure during extension.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the professional class of physicians and those with specialized training in a specific society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Palestra expert medical role",
+      "rule_category": "Access to medical practice",
+      "group": "Palestra practitioners",
+      "group_category": "Occupation",
+      "resource": "Right to assist in medical procedures",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] And there is nothing to prevent a person from placing a foot on the hump, and supporting his weight on it, and making gentle pressure; one of the men who is practiced in the palestra would be a proper person for doing this in a suitable manner."
+      ],
+      "reasoning": "The author specifically validates men trained in the palestra (wrestling school) as having the necessary physical skill and social standing to participate in the reduction of spinal deformities.",
+      "specificity": 5,
+      "specificity_reasoning": "This targets a specific sub-group of athletes/trainers recognized for their physical expertise.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Patient dietary restriction",
+      "rule_category": "Restriction of consumption",
+      "group": "Surgical patients",
+      "group_category": "Health",
+      "resource": "Right to specific foods and venery",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§50] Wherefore some physicians pay much less attention to such injuries, than where the rib is fractured, whereas, if they were wise, they would treat such cases with far greater care than the other; for it is proper that the diet should be restricted, that the patients should remain at rest as much as possible, and abstain from venery, from fat articles of food, from such as excite cough, and from everything strong"
+      ],
+      "reasoning": "In cases of contusion of the ribs, the medical rule mandates a systematic withdrawal of resources (diverse diet and sexual activity) as part of the formal treatment protocol.",
+      "specificity": 3,
+      "specificity_reasoning": "While specific to the sick, injury was common, and this rule applied to a broad section of the population when afflicted.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical treatment for contusions",
+      "rule_category": "Access to medical care",
+      "group": "Surgical patients",
+      "group_category": "Health",
+      "resource": "Right to bloodletting and pharmaceutical care",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] they should be bled in the arm, speak as little as possible, should have the contused part bound round with folded compresses, plenty of bandages, broader than the contusion, and which should be smeared with cerate; ... It is better also to open the bowels with some gentle medicine, so as just to produce an evacuation of the food"
+      ],
+      "reasoning": "The text prescribes a specific set of medical interventions (bloodletting, pharmaceuticals, bandaging) that the society’s practitioners were expected to provide to those with specific physical injuries.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to any individual suffering from a specific class of physical trauma.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Artisan occupation for disabled",
+      "rule_category": "Labor assignment",
+      "group": "Disabled men",
+      "group_category": "Health",
+      "resource": "Access to specific manual occupations",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§53] Some tell a story how the Amazonian women dislocate the joints of their male children while mere infants, some at the knee, and others at the hip-joint, that they may be maimed, and that the male sex may not conspire against the female, and that they use them as artisans to perform any sedentary work, such as that of a shoemaker or brazier."
+      ],
+      "reasoning": "The text describes a practice (attributed to the Amazons but discussed as a functional social arrangement) where mobility-impaired males are systematically assigned to sedentary crafts like shoemaking or metalworking. While the context is legendary, Hippocrates analyzes it as a plausible socioeconomic mechanism for a society to manage those with physical handicaps.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific subset of the population (maimed males) and restricts/directs them into specific professional roles.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Political exclusion of maimed",
+      "rule_category": "Denial of political power",
+      "group": "Disabled men",
+      "group_category": "Health",
+      "resource": "Right to participate in political conspiracy or assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§53] Some tell a story how the Amazonian women dislocate the joints of their male children while mere infants, some at the knee, and others at the hip-joint, that they may be maimed, and that the male sex may not conspire against the female"
+      ],
+      "reasoning": "The mention of maiming children so they 'may not conspire' implies a link between physical integrity and the capacity for political action or resistance. In the described social order, physical disability is used as a tool to strip a group of the power to challenge the ruling structure.",
+      "specificity": 7,
+      "specificity_reasoning": "The rule targets a specific gender within a specific physical state to prevent a specific political outcome.",
+      "confidence": 6
+    },
+    {
+      "rule_name": "Childhood injury training",
+      "rule_category": "Access to training",
+      "group": "Disabled children",
+      "group_category": "Age",
+      "resource": "Right to specialized physical training",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§55] Such is the result, even though they be carefully and properly trained in the attitudes before they have strength for walking, and in like manner also, after they have acquired the necessary strength; but those persons require the most care who were very young when they met with the accident, for, if neglected while children, the limb becomes entirely useless and atrophied."
+      ],
+      "reasoning": "The text identifies a customary or medical necessity for specific training 'in the attitudes' for children who suffer dislocations. Failure to provide this care leads to total loss of utility of the limb, suggesting a societal rule or standard regarding the rehabilitative training of young disabled persons to ensure they remain functional members of society.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any child who suffers a specific type of injury, which is a significant but broad category of the youth population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Exercise-based limb maintenance",
+      "rule_category": "Access to physical health",
+      "group": "Disabled",
+      "group_category": "Health",
+      "resource": "Protection from muscle atrophy",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§58] The wasting of the fleshy parts is analogous to what happens in the cases formerly described, for the wasting is greatest in those cases in which the patients keep the limb up, and do not exercise it, whilst those who practice walking, have the least atrophy."
+      ],
+      "reasoning": "The text establishes a rule of bodily preservation for those with permanent dislocations: those who are 'practiced' or 'trained' in using the limb retain their physical resource (muscle mass), while those who are 'neglected' lose it. This implies a standard of care and physical therapy available to the disabled.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to individuals with unreduced dislocations, a subset of the population, but common enough to warrant general medical advice.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical prognostic disclosure",
+      "rule_category": "Access to information",
+      "group": "Sick",
+      "group_category": "Health",
+      "resource": "Right to accurate medical prognosis",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§58] And incurable cases should be known, that they may not be aggravated by useless applications, and splendid and creditable prognostics are made by knowing where, how, and when every case will terminate, and whether it will be converted into a curable or an incurable disease."
+      ],
+      "reasoning": "Hippocrates defines the physician's duty to distinguish between curable and incurable cases. This grants the patient the resource of 'truth' and protection from 'useless applications' (harmful/expensive medical interventions) based on the physician's professional standards.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to anyone entering the medical system as a patient, providing a protection against malpractice or unnecessary procedures.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based deformity severity",
+      "rule_category": "Physical development",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from bone growth arrest",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§58] When then, from birth, or during one’s youth, this dislocation backward occurs, and is not reduced... the bone of the thigh becomes shortened, the whole limb is impaired, is arrested in its growth, and loses its flesh from want of use."
+      ],
+      "reasoning": "The text identifies a specific legal/customary concern regarding injuries in minors: unlike adults, children who suffer these injuries lose the resource of proper skeletal growth and development, leading to permanent structural 'shortening' of the bone.",
+      "specificity": 6,
+      "specificity_reasoning": "Targeted specifically at children and youths who suffer specific trauma, a specific intersection of age and health status.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Habitual labor health benefit",
+      "rule_category": "Labor control",
+      "group": "Laborers",
+      "group_category": "Occupation",
+      "resource": "Physical health through habituated labor",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§58] In a word, all parts of the body which were made for active use, if moderately used and exercised at the labor to which they are habituated, become healthy, increase in bulk, and bear their age well."
+      ],
+      "reasoning": "Hippocrates articulates a societal norm where moderate, habitual labor is the mechanism through which the body's 'health' and 'bulk' are maintained. This frames access to regular work as a generative resource for bodily integrity.",
+      "specificity": 2,
+      "specificity_reasoning": "This general principle applies to almost all working-age members of the society who engage in 'active use' of their bodies.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Consent to medical risk",
+      "rule_category": "Legal standing",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to informed consent regarding medical risks",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§67] When the joints of the toes or hands are dislocated, and the bones protrude through a wound which they have made, and when there is no fracture of the bone, but merely displacement of the joint, in these cases, if the reduction be made and allowed to remain, there is some danger of spasms (tetanus?) if not properly treated, and yet it may be worth while to reduce them, having warned the patient beforehand that much caution and care will be required."
+      ],
+      "reasoning": "The text explicitly states that a physician should warn a patient of the dangers (specifically tetanus/spasms) before performing a risky procedure on hand or toe joints. This indicates a customary or professional rule involving the patient's awareness of risk in medical outcomes.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual seeking medical treatment for a specific but relatively common set of injuries (protruding joint dislocations).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physician liability protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Protection from public censure",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§67] Moreover, it is to be expected, that the articular extremities of the bones of the fingers will for this generally happens, if even the least degree of inflammation take place, so that if it were not that the physician would be exposed to censure, owing to the ignorance of the common people, no reduction should be made at all."
+      ],
+      "reasoning": "The author notes that physicians are forced to perform medically suboptimal or risky reductions of fingers because 'the common people' (non-experts) would blame or censure them for not acting. This implies a lack of legal or social protection for practitioners against the 'ignorance' of the public regarding medical failure.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire professional class of physicians in their interactions with the general public.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Medical self-determination",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to determine bodily positioning during treatment",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§63] The leg and foot are to be arranged as the patient wishes, only they must not be put in a dependent position, nor moved about; and they are to be treated with pitched cerate, a few compresses dipped in wine, and not very cold, for cold in such cases induces convulsions"
+      ],
+      "reasoning": "In cases of severe ankle dislocation with wounds where reduction is avoided to prevent death, the medical rule is to allow the patient to choose the orientation for their limb. This grants a specific albeit limited material autonomy over their body during recovery.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific protocol for a specific type of severe injury (open dislocation), affecting only those patients.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Standardized surgical equipment requirement",
+      "rule_category": "Access to medical resources",
+      "group": "Urban physicians",
+      "group_category": "Occupation",
+      "resource": "Access to specific surgical diagnostic and treatment machinery",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§72] It has been formerly stated by us that it will be of importance for any person who practices medicine in a populous city to get prepared a quadrangular board, about six cubits or a little more in length, and about two cubits in breadth; a fathom will be sufficient thickness for it; and then along it from the one end to the other, an excavation must be made, so that the working of the levers may not be higher than is proper"
+      ],
+      "reasoning": "The text specifies that physicians practicing in populous cities are expected to have specific, large-scale medical machinery (the 'quadrangular board' or Scamnum Hippocratis) for treating dislocations. This indicates a professional standard where urban practitioners are granted or required to have higher-tier material resources for their practice compared to those in rural or less populous areas.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule specifically targets medical professionals working in high-density urban environments, which is a subset of the general population and the medical profession.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Dietary maintenance during mortification",
+      "rule_category": "Access to nutrition",
+      "group": "Patients with mortified limbs",
+      "group_category": "Health",
+      "resource": "Right to unrestricted diet",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§69] neither is it of a fatal nature, for such patients do not usually lose their appetite, nor is it proper to put them on a restricted diet."
+      ],
+      "reasoning": "Hippocrates explicitly mandates that patients suffering from mortification and subsequent dysentery should not have their food intake limited, which was a common medical intervention for other ailments. This establishes a right to full rations for this specific group of the sick.",
+      "specificity": 4,
+      "specificity_reasoning": "While it concerns a specific medical condition, it defines a general rule of care for any individual who finds themselves in that physical state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Patient protection from pain-induced shock",
+      "rule_category": "Protection from bodily harm",
+      "group": "Surgical patients",
+      "group_category": "Health",
+      "resource": "Protection from surgical pain during amputation",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§69] Those parts of the body which are below the boundaries of the blackening are to be removed at the joint, as soon as they are fairly dead and have lost their sensibility; care being taken not to wound any living part; for if the part which is cut off give pain, and if it prove not to be quite dead, there is great danger lest the patient may swoon away from the pain, and such swoonings often are immediately fatal."
+      ],
+      "reasoning": "The medical rule establishes a duty for the practitioner to avoid cutting living/sensing tissue. This functions as a right for the patient to be protected from fatal surgical shock/pain, specifically by timing the resource (medical intervention) only when tissue death is complete.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual undergoing these specific procedures, which were common enough to warrant detailed instructional texts.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Selection of medical subordinates",
+      "rule_category": "Labor qualification",
+      "group": "Medical assistants",
+      "group_category": "Occupation",
+      "resource": "Right to perform high-level reduction procedures",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§70] But when the patient is suspended, a person properly instructed and not weak, having introduced his arm between his thighs, is to place his fore-arm between the perineum and the dislocated head of the os femoris;... and suddenly suspend and swing himself in the air as perpendicularly as possible."
+      ],
+      "reasoning": "The text defines a specific group—the 'properly instructed and not weak'—as those authorized to perform the physically demanding and technically precise role of the 'lever' in hip reduction. This excludes the unlearned or physically frail from this professional role.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a very specific role within a medical team requiring both physical and educational prerequisites.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Medical practitioner training requirement",
+      "rule_category": "Access to professional practice",
+      "group": "Medical practitioners",
+      "group_category": "Occupation",
+      "resource": "Right to perform high-risk reductions",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§76] In dislocation forward, the same mode of extension should be made; but a person who has very strong hands, and is well trained, should place the palm of the one hand on the groin, and taking hold of this hand with the other, is at the same time to push the dislocated part downward, and at the same time to the fore part of the knee. [...] And the mode of suspension is also not far removed from being natural, but the person suspended should be well trained, so that his arm may not act as a lever upon the joint."
+      ],
+      "reasoning": "The text specifies that only individuals with specific physical strength and 'well-trained' status should perform or assist in complex certain orthopedic reductions, implying a professional standard or customary restriction against the untrained performing these specific medical acts.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific professional subset of the population (physicians and their trained assistants) performing specialized tasks.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physician ethical restraint",
+      "rule_category": "Professional conduct",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to use elaborate or 'popular' methods for gain",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§78] The prime object of the physician in the whole art of medicine should be to cure that which is diseased; and if this can be accomplished in various ways, the least troublesome should be selected; for this is more becoming a good man, and one well skilled in the art, who does not covet popular coin of base alloy."
+      ],
+      "reasoning": "The text establishes a professional and ethical rule that physicians must avoid unnecessarily complex or showy treatments intended merely to impress the public ('popular coin'). They are restricted to the 'least troublesome' effective methods.",
+      "specificity": 7,
+      "specificity_reasoning": "The rule is directed specifically at the behavior and methods of those identified as 'physicians' or 'skilled in the art'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Patient dietary restriction",
+      "rule_category": "Restriction of consumption",
+      "group": "Medical patients",
+      "group_category": "Health",
+      "resource": "Right to full caloric intake",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§79] And, in all cases of reduction at joints, the patient must be put on a spare diet, but more especially in the case of the greatest joints, and those most difficult to reduce, and less so in those which are very small and easily reduced. [...] [§81] After all reductions of joints the patient should be confined to a restricted diet and abstinence until the seventh day."
+      ],
+      "reasoning": "It is a standard medical-social rule in this society that individuals undergoing joint reduction lose their right to a normal diet and are legally/customarily forced into 'abstinence' or 'spare diet' for a set period (seven days) to aid recovery.",
+      "specificity": 4,
+      "specificity_reasoning": "While it applies to any patient, being a 'patient' with a dislocated joint is a specific temporary health status that triggers the rule.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sick person hellebore access",
+      "rule_category": "Access to medical treatment",
+      "group": "Patients with fever",
+      "group_category": "Health",
+      "resource": "Access to hellebore treatment",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§86] The treatment, if no fever be present, consists in the administration of hellebore, but otherwise (it is not to be given, but oxyglyky (decoction of honeycombs and vinegar) is to be given for drink, if required."
+      ],
+      "reasoning": "The text describes a strict clinical rule where the presence of a specific health trait (fever) bars the individual from receiving a specific resource (the drug hellebore).",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to a very specific subset of the sick (those with specific foot contusions AND fever).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Patient mobility restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Medical patients",
+      "group_category": "Health",
+      "resource": "Freedom of movement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§81] the pained joint is to be kept constantly in a state of rest, and is to be laid in the most convenient position possible. [...] [§87] While they remain at rest the diet should be restricted."
+      ],
+      "reasoning": "Medical rules in this period mandated total physical immobilization ('state of rest') for patients following orthopedic procedures, effectively removing their freedom of movement.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any individual who undergoes a joint reduction procedure.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 12,
+  "_file_id": "tlg0627.tlg010.perseus-eng2",
+  "_input_tokens": 87152,
+  "_output_tokens": 12148,
+  "_model": "google/gemini-3-flash-preview"
+}

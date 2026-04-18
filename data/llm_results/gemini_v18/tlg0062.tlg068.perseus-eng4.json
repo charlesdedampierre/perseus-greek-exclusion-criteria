@@ -1,0 +1,429 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Restriction of social mobility",
+      "rule_category": "Denial of social equality",
+      "group": "Mortals",
+      "group_category": "Origin",
+      "resource": "Right to equal social standing with gods",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Well, we have no one but ourselves to blame for it: we make too much of these mortals, admitting them -to our table like this. When they drink of our nectar, and behold the beauties of Heaven (so different from those of Earth!), ’tis no wonder if they fall in love, and form ambitious schemes!"
+      ],
+      "reasoning": "Zeus reflects on the consequences of allowing mortals to dine with gods, characterizing their presence as a mistake that leads them to forget their lower status and form 'ambitious schemes.' This reflects a societal view that social classes/ranks should remain distinct to prevent overstepping.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all mortals (humans) in relation to the divine or elite social sphere described in the text.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Capital punishment for boasting",
+      "rule_category": "Protection from execution",
+      "group": "Mortals",
+      "group_category": "Origin",
+      "resource": "Protection from execution for speech",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] If he says anything of the kind he shall soon find himself in Hades, spinning round on a wheel for all eternity. That will keep him busy! And serve him right; not for falling in love—I see no great harm in that—but for letting his tongue wag."
+      ],
+      "reasoning": "Zeus establishes that while the act of desire is forgivable, the act of publicly boasting about a sexual conquest involving a superior (Hera) is a capital offense punishable by eternal torment.",
+      "specificity": 3,
+      "specificity_reasoning": "While specifically addressing Ixion, the rule is framed as a general consequence for a mortal 'letting his tongue wag' about high-status women.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gendered marital fidelity expectations",
+      "rule_category": "Denial of property rights",
+      "group": "Wives",
+      "group_category": "Gender",
+      "resource": "Right to exclusive marital fidelity",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] I know how it will be: you are going to let Ixion off, because you have had relations with his wife; she is the mother of Pirithous.",
+        "[§13] Why, what a memory you have for these little outings of mine!—Now, my idea about Ixion is this. It would never do to punish him, or to exclude him from our table; that would not look well."
+      ],
+      "reasoning": "The text illustrates a double standard where the husband's extra-marital 'outings' are treated as minor matters that should not result in social exclusion (even for the husband of the woman involved), whereas the wife (Hera) is expected to tolerate these breaches of fidelity.",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects a broad cultural norm regarding the asymmetry of fidelity expectations in marriage.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sacrificial meat allocation",
+      "rule_category": "Access to public resources",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to high-quality meat portions",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] I need not remind you how you overreached me about the meat-offerings; my portion, bones disguised in fat: yours, all the good."
+      ],
+      "reasoning": "The text references the standard Greek sacrificial practice (mythologically attributed to Prometheus's trick) where humans retain the 'good' meat while the gods receive bones and fat. This defines the material distribution of food resources in religious ritual.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule governs the distribution of meat in sacrifices, affecting all Greek practitioners.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Punishment for boastful speech",
+      "rule_category": "Protection from bodily harm",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Protection from eternal corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] Zeus: If he says anything of the kind he shall soon find himself in Hades, spinning round on a wheel for all eternity. That will keep him busy! And serve him right; not for falling in love—I see no great harm in that—but for letting his tongue wag."
+      ],
+      "reasoning": "Zeus establishes a specific legalistic consequence (eternal torture in Hades) for a mortal man (Ixion) who boasts of sexual intimacy with a goddess. While the setting is mythological, it reflects a societal norm regarding the severe penalty for violating the reputation of high-status figures through speech.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to men who interact with or speak about high-status figures, not the entire population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maidenly refusal of marriage",
+      "rule_category": "Marriage restriction",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to remain unmarried",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] Zeus: Impossible! She is determined to remain a maid for ever. Not that I have any objection, personally. Hephaestus: That is all I want. You can leave the rest tome. I'll carry her off this moment. Zeus: Well, if you think it so easy. But I am sure it is a hopeless case."
+      ],
+      "reasoning": "The text describes Athena's (the maiden's) determination to remain unmarried as a recognized status that even the highest authority (Zeus) respects, despite other males (Hephaestus) attempting to claim her as a fee. It reflects the social category of the perpetual virgin.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific subset of women who take a vow or status of lifelong maidenhood.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Parental corporal punishment",
+      "rule_category": "Disciplinary authority",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] Aphrodite: I have told him many a time that if he would not behave himself I would break his artillery for him, and clip his wings; and before now I have smacked his little behind with my slipper."
+      ],
+      "reasoning": "Aphrodite describes smacking her son (Eros) as a standard disciplinary measure for behavior she deems 'naughty.' This reflects the customary right of parents to use corporal punishment on children.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the general category of children within a household structure.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Mortal-God love restriction",
+      "rule_category": "Social stratification",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Protection from madness and social chaos",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§25] Aphrodite: But Rhea! how could you dare to set her on thinking of that young fellow in Phrygia, an old lady like her, the mother of so many Gods? Why, you have made her quite mad: she harnesses those lions of ers, and drives about all over Ida... shrieking high and low for Attis; and there they are, slashing their arms with swords, rushing about over the hills, like wild things."
+      ],
+      "reasoning": "The text highlights the social and psychological disruption caused when an 'old' high-status woman (Rhea) pursues a 'young fellow' (Attis), resulting in madness and self-harm for her followers. This reflects societal taboos against certain age-disparate or status-disparate unions.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule concerns specific types of cross-status relationships and the resulting social disorder.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Precedence by death date",
+      "rule_category": "Access to social precedence",
+      "group": "Deceased persons",
+      "group_category": "Age",
+      "resource": "Right to higher seating at table",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§28] Zeus: Cease, I say, and let us hear ourselves speak, or I will send you both away from table. Heracles, Asclepius died before you, and has the right to a better place."
+      ],
+      "reasoning": "Zeus adjudicates a dispute over status and seating at the divine table by appealing to the chronology of their deaths while they were mortal. The rule establishes that earlier death (seniority in the afterlife/deification) confers a superior 'right' to a better place.",
+      "specificity": 4,
+      "specificity_reasoning": "I chose 4 because while it describes a table of gods, it reflects a broader social norm of seniority and precedence applied to a specific class of 'heroic' figures or ancestors.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Polygamous marriage by location",
+      "rule_category": "Access to multiple marriages",
+      "group": "Husbands",
+      "group_category": "Gender",
+      "resource": "Right to maintain multiple wives in different locations",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] Hermes: Because one is his wife in Lemnus and the other in Heaven. Besides, Aphrodite cares most about Ares; he is her real love; so she does not trouble her head about the blacksmith."
+      ],
+      "reasoning": "Literary Lucian explains Hephaestus's lack of domestic conflict despite having two wives by citing their separate locations. This reflects a social reality where maintaining separate households could facilitate or validate multiple marital-like arrangements.",
+      "specificity": 5,
+      "specificity_reasoning": "I chose 5 because this relates to the specific marital customs and the ability of certain men to maintain separate households across different territories.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Slave occupational degradation",
+      "rule_category": "Restriction of bodily autonomy",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from menial labor and corporal shame",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] Asclepius: Anyhow, it would be enough to mention that I was never a slave like you, never combed wool in Lydia, masquerading in a purple shawl and being slippered by an Omphale, never killed my wife and children in a fit of the spleen."
+      ],
+      "reasoning": "The text uses the historical/mythic enslavement of Heracles to define the status of a slave. A slave is subject to 'slipperings' (corporal punishment) and is forced into labor (combing wool) that may be gender-inappropriate or degrading, highlighting the total lack of bodily integrity and vocational choice.",
+      "specificity": 2,
+      "specificity_reasoning": "I chose 2 because these conditions of lack of autonomy and vulnerability to corporal punishment were general to all slaves in this society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Mortal target protection",
+      "rule_category": "Denial of protection from harm",
+      "group": "Mortals",
+      "group_category": "Lineage",
+      "resource": "Protection from accidental divine violence",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§33] Hermes: It is, Apollo. You knew that you had set your heart upon a mortal: grieve not then for his mortality."
+      ],
+      "reasoning": "Hermes dismisses the tragedy of Hyacinth’s death by noting his status as a 'mortal.' This implies a societal/cosmic rule where the life of a mortal is inherently unprotected and their destruction by a superior power is an expected outcome of their lower status.",
+      "specificity": 1,
+      "specificity_reasoning": "I chose 1 because mortality is a category encompassing the vast majority of the population in relation to the legal/divine elite.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Adultery detection rights",
+      "rule_category": "Access to judicial self-help",
+      "group": "Cuckolded husbands",
+      "group_category": "Gender",
+      "resource": "Right to entrap and expose adulterers",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] Hermes: He talks of inventing a net, though, to take them in the act with."
+      ],
+      "reasoning": "The mention of Hephaestus's plan to 'take them in the act' refers to the legal right of a husband to catch adulterers in flagrante delicto to secure social or legal redress, a practice recognized in Greek and Roman law.",
+      "specificity": 6,
+      "specificity_reasoning": "I chose 6 because it applies to a specific legal situation (adultery) involving married citizens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sanction for ritual mockery",
+      "rule_category": "Protection of religious ritual",
+      "group": "Mockers of Dionysian rites",
+      "group_category": "Origin",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§41] If any scoffer presumes to make light of his ceremonial, he does not go unpunished; he is bound with vine-twigs; or his own mother mistakes him for a fawn, and tears him limb from limb."
+      ],
+      "reasoning": "The text describes a customary or semi-legal consequence for those who disrespect the specific religious ceremonies of Dionysus, involving physical restraint or severe bodily harm.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to those who actively and publicly mock a particular set of religious rites.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female intellectual exemption",
+      "rule_category": "Exemption from social interference",
+      "group": "Intellectual women",
+      "group_category": "Gender",
+      "resource": "Freedom from romantic or sexual pursuit",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] But why do you let the Muses go scot free? do they toss their plumes and hold out Gorgons’ heads? Eros Ah, mother, they make me bashful; they are so grand, always studying and composing; I love to stand there listening to their music, Aphrodite Let them pass too, because they are grand."
+      ],
+      "reasoning": "Through the personification of Eros, the text reflects a social rule where women dedicated to 'studying and composing' (the Muses as a proxy for the intellectual class) are granted a form of social distance or respect that exempts them from the usual pursuits of desire.",
+      "specificity": 4,
+      "specificity_reasoning": "While about the Muses, it characterizes a specific class of women defined by their occupation and status.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Occupational exemption from marriage",
+      "rule_category": "Exemption from domestic expectations",
+      "group": "Hunters",
+      "group_category": "Occupation",
+      "resource": "Freedom from marital obligations",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] And why do you never take a shot at Artemis? Eros Why, the great thing is that I cannot catch her; she is always over the hills and far away. But besides that, her heart is engaged already. Aphrodite Where, child? Eros In hunting stags and fawns; she is so fleet, she catches them up, or else shoots them; she can think of nothing else."
+      ],
+      "reasoning": "The text establishes that a total devotion to a specific lifestyle or occupation (hunting) serves as a valid societal barrier against entering the sphere of love and marriage, represented by Eros's inability to target Artemis.",
+      "specificity": 5,
+      "specificity_reasoning": "This describes a specific lifestyle choice that results in a change of legal/customary status regarding marriage.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Maidenly modesty in adjudication",
+      "rule_category": "Social behavior restriction",
+      "group": "Maidens",
+      "group_category": "Age",
+      "resource": "Freedom from social embarrassment in matters of physical beauty",
+      "resource_category": "Social standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§49] Zeus: And my little Athene; have we her approval? Nay, never blush, nor hide your face. Well, well, maidens will be coy; ’tis a delicate subject."
+      ],
+      "reasoning": "Zeus identifies a specific behavioral expectation (coyness, blushing, hiding the face) for 'maidens' when dealing with the 'delicate subject' of physical beauty and judgment, indicating a social rule regarding the restraint of young, unmarried women.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to a life-stage group (maidens) within the broader category of women.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Protection of court umpires",
+      "rule_category": "Access to judicial protection",
+      "group": "Judges",
+      "group_category": "Occupation",
+      "resource": "Protection from retaliatory harm by litigants",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§49] Zeus: Now, off with you; and mind, the beaten ones must not be cross with the judge; I will not have the poor lad harmed."
+      ],
+      "reasoning": "Zeus establishes a rule of immunity for the judge (Paris), explicitly forbidding the losing parties from harming him. This reflects a legal/customary principle that an appointed arbiter must be protected from the vengeance of those who lose the case.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to individuals specifically appointed to act as 'umpires' or judges in a dispute.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Rural marriage status devaluation",
+      "rule_category": "Denial of marital prestige",
+      "group": "Rural women",
+      "group_category": [
+        "Wealth",
+        "Origin"
+      ],
+      "resource": "Recognition of marital status and dignity",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§50] Hermes: I believe there is a wife, as it were; a good enough sort of girl—a native of those parts—but sadly countrified! I fancy he does not care very much about her."
+      ],
+      "reasoning": "Hermes' description 'a wife, as it were' and 'sadly countrified' indicates that the marriage of a rural woman to a man of higher lineage (Paris, though a herdsman, is of royal blood) is not fully respected or seen as a bind of high social consequence compared to urban or more 'civilized' unions.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to women of a certain geographic and economic class ('countrified' natives).",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Class-based judicial exclusion",
+      "rule_category": "Exclusion from judicial roles",
+      "group": "Rural laborers",
+      "group_category": "Occupation",
+      "resource": "Right to act as judge in high-status disputes",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§54] Paris: But, my lord Hermes, how shall a mortal and a rustic like myself be judge of such unparalleled beauty? This is no sight for a herdsman’s eyes; let the fine city folk decide on such matters. As for me, I can tell you which of two goats is the fairer beast; or I can judge betwixt heifer and heifer;—’tis my trade."
+      ],
+      "reasoning": "Paris expresses a social norm where 'rustics' or 'herdsmen' are considered unfit to judge matters of high importance or aesthetic complexity, suggesting these roles are reserved for 'city folk' (the urban elite).",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a specific socio-economic class (rural laborers) but excludes them from a broad range of high-level social or legal decision-making roles.",
+      "confidence": 8
+    },
+    {
+      "rule_category": "Procedural fairness in adjudication",
+      "rule_name": "Agnosticism of the judge",
+      "group": "Litigants",
+      "group_category": "Legal standing",
+      "resource": "Protection from judicial bias",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§56] Paris: Well, please point out to them, Hermes, that the losers must not be angry with me; the fault will be in my eyes only. Hermes: That is quite understood."
+      ],
+      "reasoning": "The text establishes a social expectation that a judge or umpire should not be held personally liable or face retribution from the losing party for a good-faith decision, reflecting a protection for the integrity of the process.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies generally to any contest or legal-style arbitration involving multiple parties.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Evidence inspection standards",
+      "rule_category": "Access to judicial thoroughness",
+      "group": "Umpire",
+      "group_category": "Occupation",
+      "resource": "Right to conduct thorough physical inspection",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§56] Paris: Well, please point out to them, Hermes, that the losers must not be angry with me; the fault will be in my eyes only. [...] But first let me ask,—am I just to look at them as they are, or must I go into the matter thoroughly? Hermes: That is for you to decide, in virtue of your office. You have only to give your orders; it is as you think best."
+      ],
+      "reasoning": "The text outlines the procedural rights of an 'umpire' (or judge) to determine the level of scrutiny and evidence required for a decision, including the right to demand the removal of garments or 'tricks'.",
+      "specificity": 5,
+      "specificity_reasoning": "This is specific to the role of an appointed judge or arbiter in a dispute.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave mobility rights",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to choose or change master",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§67] Hermes: Mortal slaves are better off than I am: they have the chance of being sold to a new master; I wish I had the same!"
+      ],
+      "reasoning": "Hermes' lament confirms that even though mortal slaves can be sold (changing masters), they do not have the right to initiate that sale or leave a master of their own accord; they are subject to the master's will, unlike a free person.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire class of enslaved individuals in the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave right to transfer",
+      "rule_category": "Access to market mobility",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to change masters through sale",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§69] Mortal slaves are better off than I am: they have the chance of being sold to a new master; I wish I had the same!"
+      ],
+      "reasoning": "Hermes, performing the role of a divine servant, explicitly contrasts his eternal bond to Zeus with the condition of human slaves, who possess a 'chance' or legal possibility of being sold to a different owner, implying a form of situational mobility or escape from a specific master that a permanent divine subordinate lacks.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies generally to the class of slaves within the Greco-Roman legal framework described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Subordinate labor obligation",
+      "rule_category": "Obligation of service",
+      "group": "Domestic subordinates",
+      "group_category": "Occupation",
+      "resource": "Right to leisure and rest",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§68] I have to get up early, sweep the dining-room, lay the cushions and put all to rights: then I have to wait on Zeus and take his messages, up and down, all day long:- and I am no sooner back again (no time for a wash) than I have to lay the table."
+      ],
+      "reasoning": "The text details the exhaustive list of manual and menial tasks required of a subordinate (expressed via the god Hermes in a servant role). This reflects the reality of domestic laborers who were expected to manage both high-level tasks (messages/assembly) and low-level chores (sweeping/cleaning) without significant rest.",
+      "specificity": 3,
+      "specificity_reasoning": "This refers to the widespread category of domestic assistants and messengers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Vicarious liability punishment",
+      "rule_category": "Legal accountability",
+      "group": "Substitutes or Deputies",
+      "group_category": "Occupation",
+      "resource": "Protection from execution/corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§70] But if ever you transgress again, or send another substitute like him, I will show you how much hotter the thunderbolt is than your fire."
+      ],
+      "reasoning": "Zeus threatens Helius with the thunderbolt if he sends an incompetent substitute again. This reflects a legal context where a principal can be held violently accountable for the failure of a deputy or representative they appointed.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to individuals acting as deputies or substitutes in high-stakes roles.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 7,
+  "_file_id": "tlg0062.tlg068.perseus-eng4",
+  "_input_tokens": 54262,
+  "_output_tokens": 7173,
+  "_model": "google/gemini-3-flash-preview"
+}

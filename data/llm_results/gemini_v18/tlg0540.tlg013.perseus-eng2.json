@@ -1,0 +1,284 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Athenian immunity from torture",
+      "rule_category": "Protection from bodily harm",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from judicial torture",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] Nay, indeed, you were not in nearly so good a case as your friends: in the first place, they were Athenians, and so were not in fear of being tortured; and in the second, they were ready to resign their own native land and go on the voyage with you, because they felt that there was more to be gained by this than by your unjust destruction of a large number of good citizens. But you, first of all, were in danger of being tortured if you stayed where you were; and secondly, you would not have been parting from your own native land."
+      ],
+      "reasoning": "The orator explicitly contrasts the status of Athenian citizens with that of Agoratus (a man of slave origin), noting that citizens did not fear torture in this legal context, whereas the non-citizen Agoratus faced a high risk of it to extract information.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies broadly to all male Athenian citizens in legal proceedings, distinguishing them from non-citizens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave susceptibility to torture",
+      "rule_category": "Judicial torture of non-citizens",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from judicial torture",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§25] they argued that if he were brought up before the Council he would be put to the torture, and would perhaps be compelled to give the names of such Athenians as might be suggested by those who were bent on working some mischief in the city.",
+        "[§27] But you, first of all, were in danger of being tortured if you stayed where you were; and secondly, you would not have been parting from your own native land."
+      ],
+      "reasoning": "The text establishes that because Agoratus was 'born and bred a slave' (§18), he was at immediate risk of being tortured for information by the Council, a fate his citizen friends did not share.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to slaves or those of slave origin involved in legal inquiries or trials.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Capital trial venue requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to trial before the Court of Two Thousand",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§35] And then, as soon as the Thirty were established, they promptly brought these men to trial before the Council; whereas the people had decreed that it should be before the court of two thousand."
+      ],
+      "reasoning": "Under the democracy, citizens accused of major crimes had the right to be tried by a large popular jury (the Court of Two Thousand) rather than a smaller administrative body like the Council, providing a layer of legal protection.",
+      "specificity": 4,
+      "specificity_reasoning": "This applied to citizens facing specific high-stakes or capital charges.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female prison visitation rights",
+      "rule_category": "Access to family rituals",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to visit condemned relatives in prison",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§39] Now, when sentence of death, gentlemen, had been passed on them, and they had to die, each of them sent for his sister, or his mother, or his wife, or any female relative that he had, to see them in the prison, in order that they might take the last farewell of their people before they should end their days."
+      ],
+      "reasoning": "The text describes a customary or legal allowance for female family members to visit male relatives in prison specifically to take a final farewell before execution.",
+      "specificity": 5,
+      "specificity_reasoning": "This is specific to women who have relatives sentenced to death.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Secret ballot protection",
+      "rule_category": "Legal procedural rights",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to a secret ballot in court",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§37] the Thirty were seated on the benches which are now the seats of the presiding magistrates; two tables were set before the Thirty, and the vote had to be deposited, not in urns, but openly on these tables,—the condemning vote on the further one—so what possible chance of escape had any of them?"
+      ],
+      "reasoning": "The text highlights the loss of the secret ballot (voting in urns) during the oligarchy of the Thirty as a deprivation of a standard legal resource for defendants, making acquittal nearly impossible through intimidation.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to any individual undergoing trial in this specific court setting.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Duty of blood vengeance",
+      "rule_category": "Obligation of family duty",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to receive paternal mandates for vengeance",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] and he charged his wife, believing her to be with child by him, that if she should bear a son she should tell the child that Agoratus had taken his father’s life, and should bid him execute his father’s vengeance on the man for his murder."
+      ],
+      "reasoning": "The text describes a formal deathbed charge where a father delegates the legal and moral obligation of seeking vengeance to an unborn son, indicating that male progeny were the primary agents for redressing lethal wrongs against the lineage.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to sons born to victims of homicide within the citizen class.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly parental support rule",
+      "rule_category": "Access to family support",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to be supported by children",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] Some left elderly parents behind them, who were expecting to be supported in their old age by their own children and, when they should end their days, to be laid by them in the grave"
+      ],
+      "reasoning": "The author cites the loss of support for elderly parents as a 'misery' caused by the execution of their children, implying a social and legal expectation (gerotrophia) that children provide material care and burial for parents.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general social rule affecting all elderly citizens with children.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Torture of non-Athenians",
+      "rule_category": "Protection from bodily harm",
+      "group": "Resident aliens",
+      "group_category": "Citizenship",
+      "resource": "Protection from judicial torture",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] Some, indeed, desired that Aristophanes should be put to the torture, as one who was not of pure Athenian stock, and they prevailed on the people to pass the following decree.",
+        "[§60] But he said—Never! Such was his loyalty... that he chose to suffer death rather than denounce and destroy anyone unjustly."
+      ],
+      "reasoning": "The text explicitly links the proposal to torture Aristophanes to the claim that he was 'not of pure Athenian stock' (an alien/metic). In Athenian law, citizens were generally exempt from torture, while non-citizens could be subjected to it.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the category of non-citizens involved in legal proceedings.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave execution for abduction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from execution for theft/abduction",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§65] The second abducted a slave from our city to Corinth, and was taken in the act of abducting a girl from a household there: he was cast into prison and put to death."
+      ],
+      "reasoning": "The execution of Agoratus's brother for abducting/stealing another slave and a girl demonstrates that slaves lacked protection from capital punishment for specific property-related crimes.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule applies to slaves who commit specific criminal acts.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Execution on the plank",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from shameful execution (apotympanismos)",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§65] One of them... by Lamachus’s order he was executed on the plank.",
+        "[§66] The third was arrested here by Phaenippides as a clothes stealer... you condemned him to death, and consigned him to execution on the plank."
+      ],
+      "reasoning": "The text identifies 'execution on the plank' (apotympanismos) as a specific, likely degrading form of capital punishment applied to slaves (or those of slave origin) for crimes like treason or theft.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to slaves or low-status individuals convicted of specific public crimes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Adultery capital punishment",
+      "rule_category": "Body integrity",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Protection from execution for adultery",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§68] Then again, he attempted... to debauch and defile free-born wives of our citizens, and was taken in adultery; and for that the penalty is death."
+      ],
+      "reasoning": "Lysias states that the legal penalty for a man caught in adultery with a free-born citizen wife is death, indicating a severe restriction on bodily integrity for those violating marital boundaries.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to any man caught in the specific act of adultery.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Alien political exclusion",
+      "rule_category": "Exclusion from political speech",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to participate in Assembly and Courts",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§73] But yet, this man had so much contempt for you that although he was not an Athenian he took his seat in the law-court, and in the Assembly, and made impeachments of every conceivable kind"
+      ],
+      "reasoning": "The author treats Agoratus's participation in the Assembly and courts as a legal violation ('contempt') because he was 'not an Athenian,' confirming that such political rights were reserved strictly for citizens.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a fundamental rule excluding all non-citizens from political life.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizen political participation",
+      "rule_category": "Political empowerment",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to sit in law-courts and Assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§76] If he fails to prove it, punish him for making use of his assumed title of Athenian to sit in both law-court and Assembly, and to bring slanderous charges against so many persons."
+      ],
+      "reasoning": "The text implies that only those with the verified 'title of Athenian' (citizens) have the legal right to participate in the democratic institutions of the court and the Assembly. Participation by a non-citizen is a punishable offense.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule defines the core political rights for the entire adult male citizen body of Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Religious space exclusion",
+      "rule_category": "Religious restriction",
+      "group": "Murderers",
+      "group_category": "Occupation",
+      "resource": "Right to participate in sacred processions",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§81] But when they were close to the gates, and grounded arms before entering the city, Aesimus perceived him and went up to him, seized his shield, and flung it away, with the order—Be off, crows’ meat! A murderer like you must not join in the procession to Athene."
+      ],
+      "reasoning": "The text describes the physical expulsion of a man from a religious procession on the grounds of pollution from murder. This reflects a customary and legal rule barring 'polluted' individuals from sacred civic acts.",
+      "specificity": 5,
+      "specificity_reasoning": "While 'murderer' is a behavioral trait, in Athenian law it created a near-immutable status of pollution (miasma) that triggered specific legal exclusions regardless of current behavior.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "No homicide limitation",
+      "rule_category": "Judicial accountability",
+      "group": "Defendants in murder trials",
+      "group_category": "Occupation",
+      "resource": "Statute of limitations for capital crimes",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§83] For I do not think there is any statute of limitations for such crimes as his: my opinion rather is that, whether brought to his account immediately or after some time, this man must prove that he has not done the things that form the subject of the charge."
+      ],
+      "reasoning": "The author asserts that for grave crimes like murder, there is no time limit on prosecution, meaning defendants cannot escape trial simply because time has passed.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those accused of the most serious capital crimes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Homicide liability by deposition",
+      "rule_category": "Judicial accountability",
+      "group": "Informants",
+      "group_category": "Occupation",
+      "resource": "Protection from being charged as a killer 'in the act'",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§87] For no one either struck them or assassinated them, but your deposition had the effect of compelling them to die. Then is not the author of their death a person caught in the act? Now, who can be that author but you, who made the depositions? So clearly you, who killed them, have been caught in the act."
+      ],
+      "reasoning": "The text establishes a legal interpretation where an informant whose testimony leads to a death sentence is legally equivalent to one who kills with their own hands ('caught in the act'), removing the procedural protection of a different charge type.",
+      "specificity": 6,
+      "specificity_reasoning": "This is a specific legal interpretation regarding the categories of 'ep' autophoro' (in the act) applied to informants.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Maltreatment of adoptive father",
+      "rule_category": "Family protection",
+      "group": "Adoptive sons",
+      "group_category": "Lineage",
+      "resource": "Protection from execution for harming a parent",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§91] Therefore, just as much as the man who struck his own natural father and denied him all necessaries of life, he who robbed his adoptive father of the means that he possessed is certainly, on this one score, as provided by the law of such maltreatment, deserving of the penalty of death."
+      ],
+      "reasoning": "The law of 'maltreatment' (kakosis goneon) extended the same death penalty to those who harmed their 'adoptive father' (the city/the people) as it did to those who harmed biological fathers, treating the obligation of support as a strict legal requirement.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population (those in adoptive or dependent relationships to authority) and involves a high-stakes penalty.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0540.tlg013.perseus-eng2",
+  "_input_tokens": 22530,
+  "_output_tokens": 4289,
+  "_model": "google/gemini-3-flash-preview"
+}

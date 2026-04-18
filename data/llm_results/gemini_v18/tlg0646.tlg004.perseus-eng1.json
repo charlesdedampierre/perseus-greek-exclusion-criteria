@@ -1,0 +1,220 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Prohibition of infant exposure",
+      "rule_category": "Protection of offspring",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Right of offspring to life and care",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] They marry as all men, they bear children, but they do not expose their offspring."
+      ],
+      "reasoning": "The text contrasts Christian practice with the 'all men' (the general Greco-Roman society), stating that while others may expose infants, Christians specifically grant their offspring the right to be raised and protected from exposure.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to the entire Christian community within the Roman Empire, which was a distinct and growing minority.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Dietary restriction by law",
+      "rule_category": "Restriction of food consumption",
+      "group": "Jews",
+      "group_category": "Origin",
+      "resource": "Right to consume all created foods",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] Moreover I do not suppose that youmeed to learn from me that, after all, their scruples about food... are ridiculous and unworthy of any argument. [§22] For how can it be anything but unlawful to receive some of the things created by God for the use of man as if well created, and to reject others as if useless and superfluous?"
+      ],
+      "reasoning": "The author describes the Jewish practice of food 'scruples' and rejecting certain foods as a matter of law/custom ('unlawful to receive some things'), indicating a societal rule within that group that limits access to the full range of available food resources.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the Jewish population, a large and well-defined ethnic/religious group in the author's time.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sabbath labor prohibition",
+      "rule_category": "Restriction of activity",
+      "group": "Jews",
+      "group_category": "Origin",
+      "resource": "Right to perform actions or good deeds on the Sabbath",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] ...superstition about the Sabbath... [§23] And what can it be but impious falsely to accuse God of forbidding that a good deed should be done on the Sabbath day?"
+      ],
+      "reasoning": "The text identifies a specific rule among the Jews where 'good deeds' or labor are forbidden on the Sabbath, restricting their freedom of action on that day.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general rule for all members of the Jewish community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Civilian status of Christians",
+      "rule_category": "Access to judicial protection",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Protection from execution and condemnation",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] They are unknown and they are condemned. They are put to death and they gain life. ... When they do good they are buffeted as evil-doers, when they are buffeted they rejoice as men who receive life. They are warred upon by the Jews as foreigners and are persecuted by the Greeks."
+      ],
+      "reasoning": "The text describes a systematic social and legal reality in the author's time where Christians are specifically targeted for execution, condemnation, and corporal punishment ('buffeted'), losing their right to bodily integrity and legal safety.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those identified as Christians under Roman and Jewish jurisdictions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Observance of local laws",
+      "rule_category": "Obligation of legal obedience",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Freedom from local legal jurisdiction",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] They obey the appointed laws, and they surpass the laws in their own lives."
+      ],
+      "reasoning": "The text confirms that Christians are bound by and adhere to the 'appointed laws' of the cities they live in (Greek and barbarian), showing they are subject to standard civic legal constraints.",
+      "specificity": 2,
+      "specificity_reasoning": "This covers the basic legal standing of all Christians living within various city-states.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Infant exposure prohibition",
+      "rule_category": "Protection of offspring",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Right of offspring to be raised",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] [6] They marry as all men, they bear children, but they do not expose their offspring."
+      ],
+      "reasoning": "The author contrasts Christian practice with the 'local customs' of the time, specifically noting that while Christians marry and bear children like others, they do not practice infant exposure, thereby granting their offspring an entitlement to life/rearing not guaranteed in the broader society.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific religious sub-group within the Roman Empire but addresses a very common social practice (exposure).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Christian judicial condemnation",
+      "rule_category": "Denial of judicial protection",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Protection from execution without cause",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§39] [12] They are unknown and they are condemned. They are put to death and they gain life.",
+        "[§43] [16] When they do good they are buffeted as evil-doers, when they are buffeted they rejoice as men who receive life."
+      ],
+      "reasoning": "The text describes a systematic legal state where Christians are 'condemned' and 'put to death' despite 'doing good,' indicating they lack the legal standing to be protected from capital punishment based on their actions.",
+      "specificity": 4,
+      "specificity_reasoning": "It concerns a growing but specific religious minority facing state and social sanctions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exposure to wild beasts",
+      "rule_category": "Corporal punishment",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Protection from animal execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§63] [7] they are thrown to wild beasts that they may deny the lord, and are not overcome?"
+      ],
+      "reasoning": "The text explicitly mentions the practice of throwing Christians to wild beasts as a specific form of punishment or coercion to force a renunciation of faith.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific form of execution directed at this group during persecutions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Societal persecution of Christians",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Freedom from social and state hostility",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§38] [11] They love all men and are persecuted by all men.",
+        "[§44] [17] They are warred upon by the Jews as foreigners and are persecuted by the Greeks, and those who hate them cannot state the cause of their enmity.",
+        "[§52] [7] ...and Christians are confined in the world as in a prison, but themselves sustain the world."
+      ],
+      "reasoning": "The author characterizes the Christian existence as one of constant persecution and literal or metaphorical confinement ('confined... as in a prison') by both the major constituent groups of their society (Jews and Greeks).",
+      "specificity": 3,
+      "specificity_reasoning": "It describes a general social condition for all members of the Christian group across various cities.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prohibition of coercive wealth",
+      "rule_category": "Restriction of economic power",
+      "group": "Wealthy humans",
+      "group_category": "Wealth",
+      "resource": "Power to compel those who are poorer",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§85] For happiness consists not in domination over neighbours, nor in wishing to have more than the weak, nor in wealth, and power to compel those who are poorer, nor can anyone be an imitator of God in doing these things, but these things are outside his majesty."
+      ],
+      "reasoning": "The text identifies the use of wealth and power to compel the poor as a behavior that is 'outside' the divine and proper order of happiness, effectively presenting a moral and social rule against the coercive use of economic superiority in the Christian community.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a significant subset of society (the wealthy) in their interactions with another large subset (the poor).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Religious capital punishment",
+      "rule_category": "Denial of bodily integrity",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Protection from execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§85] Then, though your lot be placed on earth you will see that God lives in heaven, then you will begin to speak of the mysteries of God, then you will both love and admire those who are being punished because they will not deny God"
+      ],
+      "reasoning": "The text explicitly mentions people being 'punished' (referring to Roman persecution and execution) specifically because of their refusal to deny their faith, indicating a legal/societal reality where this group lacks protection from corporal or capital punishment.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule targets a specific religious minority within the broader Roman society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Access to apostolic tradition",
+      "rule_category": "Access to religious education",
+      "group": "Disciples",
+      "group_category": "Occupation",
+      "resource": "Right to learn the mysteries of the Father",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§96] For who that has been properly taught, and has become a lover of the word does not seek to learn plainly the things which have been clearly shown by the word to disciples, to whom the Word appeared and revealed them, speaking boldly, not being perceived by the unbelieving, but relating them to disciples, who were held by him to be faithful and gained knowledge of the mysteries of the Father?"
+      ],
+      "reasoning": "The text describes a systematic restriction where specific knowledge ('mysteries') is disclosed to 'disciples' and 'faithful' while being withheld ('not being perceived') from the unbelieving.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule applies to a specific subset of the population defined by their initiation into a particular group (disciples).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Obligation of neighborly aid",
+      "rule_category": "Obligation of public duty",
+      "group": "The stronger",
+      "group_category": "Health",
+      "resource": "Retention of surplus resources",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§85] But whoever takes up the burden of his neighbour, and wishes to help another, who is worse off in that in which he is the stronger, and by ministering to those in need the things which he has received and holds from God becomes a god to those who receive them,—this man is an imitator of God."
+      ],
+      "reasoning": "The passage establishes a communal rule where those who possess strength or resources are expected to 'minister' to those in need, implying they do not have an absolute right to retain surplus when others are burdened.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general ethical rule intended for any member of the community who finds themselves in a position of relative strength.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0646.tlg004.perseus-eng1",
+  "_input_tokens": 22995,
+  "_output_tokens": 3176,
+  "_model": "google/gemini-3-flash-preview"
+}

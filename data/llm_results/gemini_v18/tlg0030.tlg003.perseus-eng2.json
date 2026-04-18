@@ -1,0 +1,153 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Slave sale health disclosure",
+      "rule_category": "Consumer protection in slave trade",
+      "group": "Slave sellers",
+      "group_category": "Occupation",
+      "resource": "Right to finality of sale without disclosure",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] After this there is a second law, covering agreements between individuals, which states that whenever anyone sells a slave, he must declare in advance any physical disability from which the man suffers. Otherwise the slave in question can be returned to the vendor."
+      ],
+      "reasoning": "Athenian law required sellers to disclose physical defects (like epilepsy) in slaves; failure to do so granted the buyer the right to rescind the contract, effectively limiting the seller's ability to keep the sale price.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to all individuals engaging in the commercial transaction of selling enslaved persons.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Marital legitimacy criteria",
+      "rule_category": "Access to legitimate status",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Legitimacy of offspring",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] On the contrary, he wrote expressly in the law : whomsoever any man has lawfully betrothed as wife, her children shall be legitimate; not: if any man has betrothed some other woman on the pretence that she is his daughter."
+      ],
+      "reasoning": "The law explicitly grants the status of legitimacy to children born of a woman lawfully betrothed by a father or brother, distinguishing them from children of informal or fraudulent unions.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a foundational rule affecting the entire citizen population and their potential heirs.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Testamentary freedom limitations",
+      "rule_category": "Restriction of property disposal",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to bequeath property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] It allows a man to bequeath his property as he wishes unless he is affected by old age, illness or insanity, and provided he is not influenced by a woman or imprisoned or otherwise coerced."
+      ],
+      "reasoning": "Solonian law restricted the right to make a valid will if the testator was deemed to be under certain forms of duress or mental incapacity, including the specific social/legal category of being 'influenced by a woman'.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any property-owning male citizen attempting to draft a will.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Master's liability for slave crimes",
+      "rule_category": "Legal liability for dependents",
+      "group": "Slave owners",
+      "group_category": "Wealth",
+      "resource": "Protection from liability for others' actions",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] He knew that sales are constantly taking place in the city and passed a law, which everyone admits to be just, stating that any offences or crimes committed by a slave shall be the responsibility of the master who owns him at the time."
+      ],
+      "reasoning": "By law, the owner of a slave is financially and legally responsible for any crimes or damages caused by that slave, a reduction in the owner's legal immunity.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to the broad category of slaveholders in Athenian society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Wartime movement prohibition",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Freedom of movement during war",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] Instead, he moved to Troezen, disregarding the law which says that a man who moves in wartime shall be indicted and summarily arrested if he returns."
+      ],
+      "reasoning": "Athenian law forbade citizens from deserting the city/state during times of war; those who fled faced criminal indictment and arrest upon return.",
+      "specificity": 2,
+      "specificity_reasoning": "This was a general civic obligation applying to the entire male citizen body during military crises.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Market truthfulness requirement",
+      "rule_category": "Economic regulation",
+      "group": "Traders",
+      "group_category": "Occupation",
+      "resource": "Right to engage in deceptive contracts",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] The first law, then, stipulates that people shall not tell lies in the market, which seems to me a most admirable provision."
+      ],
+      "reasoning": "A specific Athenian law governed commercial conduct in the Agora (market), explicitly prohibiting verbal deception during transactions.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to individuals acting as buyers or sellers within the specific geographic and functional context of the market.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Metic travel restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Metics",
+      "group_category": "Citizenship",
+      "resource": "Freedom of movement during wartime",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§32] To prove that what I say is true the clerk will read you first the law, which forbids metics to move in war time, then the evidence of the Troezenians and also the Troezenians’ decree passed by them in honor of your city, in return for which you welcomed them and made them citizens."
+      ],
+      "reasoning": "The text explicitly references an Athenian law that prohibits resident aliens (metics) from changing their location or leaving the city during periods of war, indicating a specific legal restriction on their liberty of movement compared to citizens.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to the entire class of resident aliens (metics) in Athens, which was a significant but distinct portion of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Exile naturalization grant",
+      "rule_category": "Access to judicial protection",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Right to citizenship and legal privileges",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] And you, gentlemen of the jury, took them in when they were banished; you made them citizens and granted them a share of all your privileges. Remembering, after more than a hundred and fifty years, the help they gave you against the barbarian, you felt that when men had been of service to you in times of danger you should protect them in their misfortune."
+      ],
+      "reasoning": "The text describes a specific historical and legal precedent where the Athenian state granted full citizenship and its accompanying rights to the banished people of Troezen as a reward for past military service.",
+      "specificity": 7,
+      "specificity_reasoning": "This rule applies specifically to the displaced population of Troezen rather than all exiles generally.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Magisterial expulsion power",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from arbitrary exile",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] ...he became the tool of Mnesias the Argive and, after being made a magistrate by him, expelled the citizens from the city. The men themselves will bear witness to this; for they are here in exile."
+      ],
+      "reasoning": "The passage indicates that magistrates (in this case in Troezen) held the power to expel citizens from their own city, thereby stripping them of their right to reside in their homeland.",
+      "specificity": 3,
+      "specificity_reasoning": "While the act was performed by a magistrate, it affected the general body of citizens in that locality.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg0030.tlg003.perseus-eng2",
+  "_input_tokens": 12593,
+  "_output_tokens": 2119,
+  "_model": "google/gemini-3-flash-preview"
+}

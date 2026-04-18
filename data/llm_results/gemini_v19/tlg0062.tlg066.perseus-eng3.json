@@ -1,0 +1,676 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Wealth / Properties",
+      "group": "Wealthy citizens",
+      "resource": "Protection from afterlife poverty",
+      "directionality": "LESS",
+      "rule": "Wealthy loss of assets at death",
+      "verbatim": [
+        "[§4] And take this message to the rich men from us, my dearest Pollux. “Why do you guard your gold, you senseless fools? Why do you punish yourselves, counting interest, and piling talents on talents, when you must come here shortly with no more than a penny?”"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule of universal asset forfeiture upon death for the wealthy, limiting their resource access to a single penny regardless of their earthly holdings.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "group": "The poor",
+      "resource": "Status equality with the wealthy",
+      "directionality": "MORE",
+      "rule": "Post-mortem social equality",
+      "verbatim": [
+        "[§5] And tell the poor, my Spartan friend, who are many, displeased with life and pitying themselves for their poverty, not to cry and moan; describe to them our equality here, telling them how they’ll see the rich on earth no better here than they are themselves."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Diogenes describes a societal norm in the underworld where the poor gain the resource of equal status and standing relative to the rich.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "group": "The dead",
+      "resource": "Right to free passage of the Styx",
+      "directionality": "LESS",
+      "rule": "Charon's obol payment requirement",
+      "verbatim": [
+        "[§8] CHARON That’s nothing to do with a ferryman; your penny must be paid. No alternative’s allowed."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a mandatory fee (the penny/obol) for all dead crossing the ferry; access to the resource of passage is strictly conditional on payment.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "group": "Elite men",
+      "resource": "Protection from social contempt",
+      "directionality": "MORE",
+      "rule": "Freedom from elite contempt",
+      "verbatim": [
+        "[§12] MENIPPUS No, the outrageous thing was your behaviour, when you expected people to worship you, treated free men with contempt, and forgot all about death."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Menippus critiques the historical behavior of tyrants (Croesus, etc.) who violated the social norm/right of free men to be treated without contempt.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from military mobilization",
+      "group": "Women",
+      "resource": "Exemption from military service",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§17] This skull is Helen. MENIPPUS Was it then for this that the thousand ships were manned from all Greece, for this that so many Greeks and barbarians fell, and so many cities were devastated?"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text discusses the Trojan War as a historical event where men (Greeks and barbarians) were the ones manned on ships and killed in battle, while the woman (Helen) was the object of the conflict rather than a participant in the fighting.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Philosopher dietary restrictions",
+      "group": "Philosophers",
+      "resource": "Right to consume beans",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§22] PYTHAGORAS... let me see if there’s anything to eat in your wallet. MENIPPUS Beans, my good fellow—something you mustn’t eat."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the dialogue, the Pythagorean philosopher is identified by the dietary prohibition against eating beans, a known rule for that specific group of intellectual practitioners in the author's cultural context.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Philosopher clothing and gait",
+      "group": "Philosophers",
+      "resource": "Right to distinctive dress",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§24] Many of the young men call themselves Philosophers, and, to judge at least from their garb and gait, are tiptop Philosophers."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text indicates that the group of 'Philosophers' in Athens is identifiable by specific external markers (garb/clothing and gait), implying a social convention where members of this occupation adopt a distinct appearance.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male exemption from childbirth suffering",
+      "group": "Men",
+      "resource": "Exemption from childbirth suffering",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§34] MENIPPUS Then you haven’t heard, Tiresias, what Euripides’ Medea said about women’s pitiable plight in having an unhappy lot, and having to endure intolerable suffering in childbirth?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text contrasts the male life with the female life, highlighting that men do not have to endure the physical suffering of childbirth, which is characterized as a 'pitiable plight' for women.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from military service",
+      "group": "Women",
+      "resource": "Exemption from military service",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§33] TIRESIAS The woman’s life, Menippus, by a long way. It has fewer worries, and women have the mastery over men, and don’t have to fight in wars, or stand on the battlements, or argue in parliament, or be crossexamined in court."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Tiresias, speaking from experience of both genders, identifies the lack of obligation to fight in wars or defend battlements as a specific characteristic and advantage of the woman's life in Greek society.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from political assembly",
+      "group": "Women",
+      "resource": "Right to argue in parliament",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§33] TIRESIAS The woman’s life, Menippus, by a long way. It has fewer worries, and women have the mastery over men, and don’t have to fight in wars, or stand on the battlements, or argue in parliament, or be crossexamined in court."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions that women do not 'argue in parliament', which in the context of Greek civic life refers to the exclusion from the political assembly (Ekklesia) and decision-making processes.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from court proceedings",
+      "group": "Women",
+      "resource": "Right to participate in court",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§33] TIRESIAS The woman’s life, Menippus, by a long way. It has fewer worries, and women have the mastery over men, and don’t have to fight in wars, or stand on the battlements, or argue in parliament, or be crossexamined in court."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Tiresias notes that women do not have to be 'crossexamined in court', reflecting the legal norm where women generally did not represent themselves or appear directly in legal proceedings in the same capacity as men.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Macedonian freedom from prostration",
+      "group": "Macedonians",
+      "resource": "Exemption from compulsory prostration (proskynesis)",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§49] PHILIP Furthermore, you discarded the Macedonian cloak, they tell me, for a Median doublet, and took to a tiara worn upright on your head, and expected Macedonians, free men, to bow down before you."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Philip criticizes Alexander for forcing Macedonians—who as 'free men' in their own political tradition were exempt from such acts—to perform the Persian custom of prostration (bowing down), indicating a loss of their traditional status-based immunity.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Educated men's protection from beasts",
+      "group": "Educated men",
+      "resource": "Protection from execution by wild animals",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§49] I won’t mention your other activities—how you locked up educated men along with lions, all your weddings, and your inordinate affection for Hephaestion."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text mentions the punishment of locking educated men in with lions as a violation of expected norms or an exceptional cruelty, implying that such a group normally held a status that should protect them from such degrading and violent treatment.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Royal protection for noble captives",
+      "group": "Foreign noble women",
+      "resource": "Right to respectful treatment and protection",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§49] I’ve only heard of one thing I can praise; you kept your attentions away from Darius’ beautiful queen, and looked after his mother and his daughters. That was conduct befitting a king."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Philip identifies the respectful treatment of the defeated Persian royal women (Darius' family) as 'conduct befitting a king,' indicating a rule of restraint and protection for high-status female captives.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy status command of deference",
+      "group": "Wealthy citizens",
+      "resource": "Public displays of deference",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§62] But what’s most disgusting of all is the way they shower attentions on him in public in spite of such prayers, and make their plans obvious to everyone when he’s sick, but, in spite of it all, they promise sacrifices if he recovers; in fact there’s no little versatility in their flattery."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a social reality where wealthy individuals without heirs (like Eucrates) receive systematic public attention and flattery from others hoping to inherit their fortune.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Non-relative exclusion from inheritance",
+      "group": "Foundlings / Non-relatives",
+      "resource": "Right to inherit property directly",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§62] What possesses them that they pray for his death, or aspire to his fortune, although not related? [...] But they’ve already divided up his property amongst themselves and batten on it, thinking a life of bliss is already theirs."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage implies that legally/normatively, those who are 'not related' do not have a natural claim to a person's fortune, making their predatory 'estate hunting' a notable social behavior.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Childless wealthy estate vulnerability",
+      "group": "Wealthy citizens without heirs",
+      "resource": "Protection from predatory litigation",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§62] PLUTO Do you know the old man—I mean that veritable greybeard, EuCrates the rich—the man with no sons, but with fifty thousand men hunting his estate?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The absence of sons (legitimate heirs) creates a legal and social vacuum where the individual's estate becomes a target for 'hunters', showing a lack of protection for the property of the heirless.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Philosopher's access to royal patronage",
+      "group": "Educated women / Philosophers",
+      "resource": "Access to royal gifts and wealth",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§52] Let me be the sole authority on him, with all his requests for gifts and his instructions, and the way he took advantage of my zeal for education by flattering and praising me [...] for my achievements and my wealth. For that was yet another thing he counted as good, so that he need have no shame in accepting some for himself too."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "While the dialogue is fictional, it reflects the historical social rule where philosophers (like Aristotle) leveraged their education and role as tutors to gain material wealth and gifts from monarchs/elites.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Natural heir inheritance priority",
+      "group": "Heirs (sons)",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§68] But later, when the wills are read, the bodyguard, for all their years of service, are excluded, and the sons and Nature herself, as is only right, prevail over all of them, and they gnash their teeth in secret at having been made to look such fools."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the standard legal or social outcome where biological sons 'prevail' over legacy hunters ('the bodyguard') in inheritance matters when a will is read, regardless of the attentions paid to the deceased.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave manumission through service",
+      "group": "Slaves",
+      "resource": "Right to personal freedom",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§72] I bought poison, and persuaded his butler, next time he asked for wine—he’s a pretty heavy drinker, you know—to have the poison ready in the cup, and give it to him. I promised him his freedom, if he did it."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage indicates that a master (or one acting with power over a slave's future) could grant or promise freedom (manumission) as a reward for specific services, reflecting the legal possibility of changing status from slave to free.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Will-making and testamentary freedom",
+      "group": "Wealthy citizens",
+      "resource": "Right to bequeath property",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§75] I’d been showering my attentions on Hermolaus, the childless millionaire... and decided to make my will public. I’ve left him all my property in it, hoping he in turn would emulate me, and do the same by me."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that property owners had the legal right to draft wills, publicize them, and choose their heirs (even non-relatives like Hermolaus) to facilitate the transfer of wealth after death.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Seniority-neutral mortality",
+      "group": "Old people",
+      "resource": "Exemption from dying before youth",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§65] TERPSION Well, oughtn’t an old man like him, who can no longer make use of his wealth, to depart from life and make way for young men? PLUTO I never heard the like of this edict of yours, Terpsion, requiring the death of anyone who can no longer use his wealth on pleasure. But Fate and Nature have arranged things otherwise."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue confirms that there is no rule or 'edict' forcing the elderly to die to make way for the young; rather, the old retain the 'resource' of life regardless of their utility or age relative to younger men.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy inherit from wealthy",
+      "group": "Wealthy citizens",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§79] Yet this great love for rich, childless old men is there for all to see. ... I would keep saying in public that I had left each of them as my heir, and each would believe me, and show himself more assiduous than ever in his flattery."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a common social practice where wealthy individuals (the 'noblest in the city') compete to be named heirs of other rich individuals, showing that material resources and inheritance rights were concentrated within the wealthy class via 'legacy hunting'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childless elders as inheritance targets",
+      "group": "old people",
+      "resource": "Access to social influence and gifts",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§79] Yet this great love for rich, childless old men is there for all to see. ... at crack of dawn crowds of folk would start flocking to my doors, and later in the day all kinds of choice gifts from every corner of the earth would arrive."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the context of the author's contemporary Roman/Greek society, being old, rich, and childless is a specific status that attracts gifts and political/social attention from those hoping to be named in a will.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave inheritance rights via manumission",
+      "group": "Slaves",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§80] And who was the heir under your final will? ... it was a pretty boy from Phrygia I’d just bought. ... So he became my heir, and is now numbered among the aristocrats."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage documents that a slave (a 'boy just bought') can be legally designated as an heir, which elevates him into the aristocratic class upon the master's death, though this is presented as a subversion of the flatterers' expectations.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Philosopher’s claim to higher status",
+      "group": "Education",
+      "resource": "Exemption from social equality",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§81] Away with your falsehood too, and your pride, and notions of your superiority over the rest of men. ... Ye gods, what hypocrisy he carries, what ignorance, contentiousness, vanity... and splitting of hairs."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The satirical interaction shows that the educated elite (philosophers) claimed a rule of 'superiority over the rest of men' based on their knowledge, which the text highlights by forcing them to strip it away.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Aristocratic status by reputation",
+      "group": "Nobility",
+      "resource": "Protection of ancestral reputation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§81] don’t bring your funeral trappings or your ancestors’ reputations, but leave behind family, fame, all public proclamations in your honour, and the inscriptions on your statues."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text lists specific material and immaterial resources (statue inscriptions, ancestral reputation) that nobles/aristocrats formally possessed and used to distinguish themselves in the city.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy obligation to pay ferry-fees",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from ferry-fees",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§99] In consequence we shall retain our wealth even down here, but they will bring with them no more than an obol, and even that won’t go beyond the ferryman."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that wealthy individuals, unlike the impoverished philosophers who bring nothing, are expected to carry exactly one obol to pay the ferryman (Charon) for passage into the underworld, a standard societal convention in Greek funerary culture.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy right to bequeath property",
+      "group": "Wealthy citizens",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§95] They made no secret of their wills; Moerichus was leaving Aristeas master of all he had, if he died first, and Aristeas was doing the same for Moerichus. This was all down in black and white, and they tried to outdo each other with obsequious attentions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue describes the legal practice of making wills ('down in black and white') to transmit property, specifically between wealthy peers or relatives, confirming the right to choose heirs.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Noble right to funeral honors",
+      "group": "Eupatridae",
+      "resource": "Right to public funeral proclamations",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§87] You too, Craton, off with your wealth and your effeminacy too, and your luxury, and don’t bring your funeral trappings or your ancestors’ reputations, but leave behind family, fame, all public proclamations in your honour, and the inscriptions on your statues, and say nothing of the mighty tomb they raised over your body."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The enumeration of Craton's baggage (which he loses in death but possessed in life) details the specific resources associated with high birth and lineage, such as ancestral reputation, statues, and public funeral proclamations.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Athlete access to public honors",
+      "group": "Athletes",
+      "resource": "Right to public proclamations of prowess",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§86] Off too with those wreaths and proclamations of your prowess. DAMASIAS There you are; I’m really stripped now, as you see, and no heavier than the other dead."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage identifies 'proclamations of prowess' and ceremonial 'wreaths' as material and immaterial resources granted specifically to successful athletes in society.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Parental limit on child allowance",
+      "group": "male heirs",
+      "resource": "Right to spendable income",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§107] But your treatment at his hands was quite just, if you, who had a thousand talents in all, and lived a life of pleasure at ninety, wouldn’t allow your eighteen-year-old son any more than fourpence."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific social dynamic where a wealthy father (Damis) exercised extreme restrictive control over the financial resources available to his adult son, despite possessing immense wealth.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy obligation for armed escort",
+      "group": "Wealthy citizens",
+      "resource": "Protection from banditry",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§102] Ismenodorus... reproaching himself for his rashness in only bringing two servants when crossing Cithaeron and passing the district round Eleutherae... although he was taking five golden bowls and four cups with him."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage implies a norm where wealthy individuals carrying valuables were expected to provide their own private security (servants) for protection, and failing to do so resulted in the loss of safety.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Ethnicity",
+      "rule": "Barbarian exclusion from equestrian status",
+      "group": "Metics / Foreigners",
+      "resource": "Right to ride in transit",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§104] However, Arsaces was annoyed at having no more honour than the rest, and wanted to come down on horseback.",
+        "[§105] Oroetes had very tender feet, and couldn’t even stand on the ground, much less walk. All Medes are just like that, once they’re off their horses; like men walking on thistles, they go on tiptoe and can hardly move."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text highlights a distinction where 'barbarian' elites (Medes/Persians) are stripped of their usual mode of transport (horses) upon entering the Greek-conceived underworld, reducing them to the same status as common pedestrians.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Kinsman priority in inheritance",
+      "group": "male heirs",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§111] The armour belonged to me by natural right, as it was my cousin’s, and the rest of you, though far superior to him, wouldn’t compete, but left the prize for me... She [Thetis] ought to have left you the arms as a legacy to a kinsman."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Although set in a mythological context, the dialogue reflects the Greek societal rule of kinsman ('natural right' via lineage) having the primary claim to a deceased person's property and honors.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Generals judge better man",
+      "group": "Eupatridae",
+      "resource": "Right to hold high command",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§117] I was thought worthy of the highest command, because I was judged to be the best man, and conquered the Celtiberians, mastered the Gauls of the West, crossed the mighty mountains, overran the whole Po Valley..."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes the process by which individuals in the ancient world (specifically Hannibal) were granted the resource of military command based on perceived merit and standing among peers.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Mercenary and executioner immunity",
+      "group": "Mercenaries",
+      "resource": "Protection from legal responsibility for killing",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§113] If, then, a man is forced by another man to kill, and is unable to gainsay the compulsion he brings to bear, if, for instance, he is a public executioner, or a mercenary, obeying, in one case, a judge, and, in the other, a tyrant, whom will you hold responsible for the killing? MINOS Clearly the judge or the tyrant, since the actual sword can’t be blamed."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Minos establishes a legal and moral rule where those acting as agents (executioners or mercenaries) are not held responsible for the act of killing, as they are viewed as tools of their superiors.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Hereditary succession of kings",
+      "group": "Male heirs",
+      "resource": "Right to inherit kingdom",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§117] But Alexander inherited his kingdom from his father, and was helped in enlarging it and extending it so far by the impetus of fortune. In any case, when he was victorious, and had defeated that contemptible Darius at Issus and Arbela, he renounced the traditions of his fathers."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Hannibal describes the rule of hereditary succession in Macedonia, where Alexander received the resource of the kingdom specifically because he was the son of the previous king.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Greek language advantage in proceedings",
+      "group": "Education",
+      "resource": "Advantage in legal and rhetorical competition",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§117] I’ve one thing to be thankful for, Minos, for, while I’ve been here, I’ve added Greek to my other accomplishments; he won’t, as a result, have the advantage of me even in that."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Hannibal identifies that having a Greek education (learning the language) is a resource that prevents one's opponent from having an 'advantage' in the context of a rhetorical or judicial dispute before Minos.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen submission to trial",
+      "group": "Wealthy citizens",
+      "resource": "Right to be tried as private citizen",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§117] But I led my country as her equal, and, when she sent for me, after the enemy had invaded Africa with a great force, I promptly obeyed, gave myself up as a private citizen, and, when tried and condemned, accepted it without rancour."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Hannibal contrasts the Median/tyrannical style with a civic rule where even a general must submit to the judgment of the state as a private citizen.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Education",
+      "rule": "Education-based merit in leadership",
+      "group": "Educated men",
+      "resource": "Claim to superior leadership",
+      "directionality": "MORE",
+      "verbatim": [
+        "All this did I do, although I was a barbarian without the advantage of a Greek education, and unable to declaim Homer like him. I had no education under Professor Aristotle, but relied solely on my natural gifts. These are the things in which I claim to excel Alexander."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text contrasts a 'barbarian' without Greek education against a leader educated by Aristotle, establishing education as a criterion for evaluating the quality and legitimacy of a leader's character and achievements.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Legal accountability of private citizens",
+      "group": "Citizens",
+      "resource": "Right to a legal trial",
+      "directionality": "MORE",
+      "verbatim": [
+        "But I led my country as her equal, and, when she sent for me, after the enemy had invaded Africa with a great force, I promptly obeyed, gave myself up as a private citizen, and, when tried and condemned, accepted it without rancour."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Hannibal describes his status as a 'private citizen' in relation to the state, noting that as such he was subject to being 'tried and condemned' by the legal institutions of his country, unlike a monarch.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Monarchical authority through lineage",
+      "group": "Kings",
+      "resource": "Inheritance of sovereign power",
+      "directionality": "MORE",
+      "verbatim": [
+        "But Alexander inherited his kingdom from his father, and was helped in enlarging it and extending it so far by the impetus of fortune. [...] I was still young when I came to power, put an end to the disorders of my kingdom, and punished my father’s murderers."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text establishes that kings derived their political power and the right to rule the domain through lineage and paternal inheritance.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Command through hereditary rights",
+      "group": "Male heirs",
+      "resource": "Right to govern ancestral domains",
+      "directionality": "MORE",
+      "verbatim": [
+        "I was not content to govern Macedonia, and rule only the domain left to me by my father, but, thinking in terms of the whole world, and considering it a disgrace not to conquer it all, I invaded Asia with a few men."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Alexander identifies his initial right to rule specifically as an inheritance 'left to me by my father,' grounding political authority in lineage.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Marital fidelity and male property",
+      "group": "Women",
+      "resource": "Liberty of movement",
+      "directionality": "LESS",
+      "verbatim": [
+        "Though I was his host, he carried off my wife with him, contrary to all justice. Paris ought to be strangled, and not by you only, but by all the soldiers on both sides, for bringing death to so many."
+      ],
+      "contemporary": 0,
+      "factuality": 0,
+      "reasoning": "The text frames Helen's departure with Paris as a violation of 'justice' and a crime against the husband (Menelaus), implying a rule where a wife's presence and fidelity are resources owned or controlled by the husband.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Universal death sentence parity",
+      "group": "The dead",
+      "resource": "Protection from eternal detention",
+      "directionality": "LESS",
+      "verbatim": "[§133] PLUTO What do you ask of us? Who are you? PROTESILAUS I am Protesilaus, son of Iphiclus... I beg to be released and restored to life for a little. PLUTO That’s a love that’s common to all the dead, but will come to pass for none of them.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Pluto states as a general rule governing his realm that the dead are never released back to life, regardless of their identity or the strength of their desire.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Nobility",
+      "rule": "Post-mortem status loss",
+      "group": "Kings",
+      "resource": "Right to social precedence",
+      "directionality": "LESS",
+      "verbatim": "[§139] DIOGENES But, my handsome Mausolus, the strength and the beauty you mention aren’t still with you here. If we chose a judge of beauty, I can’t see why your skull should be thought better than mine. [§141] MENIPPUS Neither you nor anyone else is handsome here. In Hades all are equal, and all alike.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the dissolution of earthly social hierarchies (kingship and nobility) upon entry to the underworld, where former rulers lose their right to be honored above others.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Post-mortem physical equality",
+      "group": "Handsome individuals",
+      "resource": "Physical distinction and beauty",
+      "directionality": "LESS",
+      "verbatim": "[§143] MENIPPUS But not, methinks, the handsomest that has come to the lower world; your bones are no different here, and your skull can only be told from that of Thersites, by its brittleness. ... In Hades all are equal, and all alike.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue establishes that physical beauty, a trait valued in life, is completely removed in the underworld, making the handsome and the ugly indistinguishable.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 12,
+  "_file_id": "tlg0062.tlg066.perseus-eng3",
+  "_input_tokens": 79407,
+  "_output_tokens": 9606,
+  "_model": "google/gemini-3-flash-preview"
+}

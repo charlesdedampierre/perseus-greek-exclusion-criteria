@@ -1,0 +1,602 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Age",
+      "rule": "School operational hour restrictions",
+      "group": "freeborn boy",
+      "resource": "Access to education during daylight",
+      "directionality": "LESS",
+      "verbatim": "[§10] He forbids the teacher to open the school-room, or the gymnastic trainer the wrestling school, before sunrise, and he commands them to close the doors before sunset; for he is exceeding suspicious of their being alone with a boy, or in the dark with him. [§12] Law [The teachers of the boys shall open the school-rooms not earlier than sunrise, and they shall close them before sunset.]",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal regulation (attributed to Solon/Draco) that restricts the hours during which boys can access schools, framing it as a protective measure.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Adult exclusion from boy competitions",
+      "group": "adult men",
+      "resource": "Right to enter youth athletic contests",
+      "directionality": "LESS",
+      "verbatim": "[§12] Law [...] The superintendents of the gymnasia shall under no conditions allow any one who has reached the age of manhood to enter the contests of Hermes together with the boys.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law explicitly forbids adult men from participating in athletic contests designated for boys to prevent inappropriate contact.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Choregus minimum age requirement",
+      "group": "men under forty",
+      "resource": "Eligibility for the choregia",
+      "directionality": "LESS",
+      "verbatim": "[§11] He prescribes, namely, that the choregus, a man who is going to spend his own money for your entertainment, shall be a man of more than forty years of age when he performs this service, in order that he may have reached the most temperate time of life before he comes into contact with your children.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law restricts the office of choregus to men over forty to ensure the moral safety of children in the chorus.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Prostitution penalty for male children",
+      "group": "male heirs",
+      "resource": "Exemption from paternal support obligations",
+      "directionality": "MORE",
+      "verbatim": "[§13] Moreover the law frees a son, when he has become a man, from all obligation to support or to furnish a home to a father by whom he has been hired out for prostitution; but when the father is dead, the son is to bury him and perform the other customary rites.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "If a father hires his son out for prostitution, the son is legally granted an exemption from the standard duty to support the father in old age.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Protection against outrage for slaves",
+      "group": "Slaves",
+      "resource": "Protection from physical outrage",
+      "directionality": "MORE",
+      "verbatim": "[§15] ...if he commit any unlawful act against any one of these. Here the law provides prosecution for outrage, and it prescribes what bodily penalty he shall suffer, or what fine he shall pay. [§16] Law [...] The same action shall hold against those who abuse the persons of slaves.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law allows for the prosecution of those who commit hubris (outrage) against slaves, extending a protection usually reserved for free persons.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Political exclusion for male prostitutes",
+      "group": "adult male citizens",
+      "resource": "Eligibility for public office",
+      "directionality": "LESS",
+      "verbatim": "[§19] If any Athenian, he says, shall have prostituted his person, he shall not be permitted to become one of the nine archons... nor shall ever hold any office whatsoever, at home or abroad, whether filled by lot or by election; nor shall he be a herald or an ambassador",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law explicitly bans citizens who have engaged in prostitution from holding any magistracy or religious office.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Deliberative exclusion for male prostitutes",
+      "group": "adult male citizens",
+      "resource": "Right to address the assembly",
+      "directionality": "LESS",
+      "verbatim": "[§20] —nor shall ever address senate or assembly, not even though he be the most eloquent orator in Athens. [§21] Law [...] he shall not take part in debate, nor be present at public sacrifices; [...] and he shall not enter within the limits of the place that has been purified for the assembling of the people.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Citizens who have prostituted themselves are barred from participation in the primary deliberative and religious spaces of the city.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Priority of speech for elders",
+      "group": "men above fifty",
+      "resource": "Priority in assembly debate",
+      "directionality": "MORE",
+      "verbatim": "[§23] The herald then asks, Who of those above fifty years of age wishes to address the assembly? When all these have spoken, he then invites any other Athenian to speak who wishes.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The procedural rules of the Athenian assembly give priority of speech to citizens over the age of fifty before opening the floor to younger men.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to address assembly",
+      "group": "Citizens",
+      "resource": "Right to address the assembly",
+      "directionality": "MORE",
+      "verbatim": "[§27] He does not exclude from the platform the man whose ancestors have not held a general’ s office, nor even the man who earns his daily bread by working at a trade; nay, these men he most heartily welcomes, and for this reason he repeats again and again the invitation, Who wishes to address the assembly?",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms that the primary invitation to speak is open to the general body of citizens, regardless of their lineage or humble occupation (trade).",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Prohibition of parental abuse",
+      "group": "Citizens",
+      "resource": "Right to address the assembly",
+      "directionality": "LESS",
+      "verbatim": "[§28] If any one attempts to speak before the people who beats his father or mother, or fails to support them or to provide a home for them. Such a man, then, he forbids to speak.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The lawgiver explicitly strips the right to speak from those who have failed in their filial duties (physical abuse or lack of support).",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Military service speaker requirement",
+      "group": "Citizens",
+      "resource": "Right to address the assembly",
+      "directionality": "LESS",
+      "verbatim": "[§29] Whom did he, in the second place, forbid to speak? Or the man who has failed to perform all the military service demanded of him, or who has thrown away his shield.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Citizens who failed their military obligations or showed cowardice (throwing away shields) were legally barred from advising the state/speaking.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Patrimony squandering restriction",
+      "group": "Wealthy citizens",
+      "resource": "Right to address the assembly",
+      "directionality": "LESS",
+      "verbatim": "[§30] Or the man, he says, who has squandered his patrimony or other inheritance. For he believed that the man who has mismanaged his own household will handle the affairs of the city in like manner.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The lawgiver excludes citizens who have wasted their inherited wealth from the public speaker's platform.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to challenge speakers",
+      "group": "Citizens",
+      "resource": "Right to challenge public speakers",
+      "directionality": "MORE",
+      "verbatim": "[§32] Let any citizen who chooses, he says, and is competent thereto, challenge him to a suit of scrutiny; and then he commands you to render decision on the case in a court of justice.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law grants individual citizens the power to initiate a legal 'scrutiny' (dokimasia) against those who speak in violation of prohibitions.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Legislative presiding by tribe",
+      "group": "Citizens",
+      "resource": "Right to preside over assembly",
+      "directionality": "MORE",
+      "verbatim": "[§33] By the new law, for every meeting of the assembly one tribe is to be chosen by lot to have charge of the speaker’ s platform, and to preside. And what did the proposer of the law prescribe? That the members of the tribe should sit as defenders of the laws and of the democracy.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "A contemporary law assigned the power to manage and defend the platform to a specific tribe chosen by lot for each meeting.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Protection of free youth",
+      "group": "Young people",
+      "resource": "Protection from corruption",
+      "directionality": "MORE",
+      "verbatim": "[§43] Misgolas and Phaedrus threatened the foreigners and ordered them to follow straight to the lock-up for having corrupted a free youth.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes an incident where individuals use the law/arrest to protect a 'free youth' from corruption, indicating a societal rule protecting free-born minors/young men.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Protection from arbitrary enslavement",
+      "group": "Non-citizens",
+      "resource": "Right to personal liberty",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§62] This man he attempted to enslave to himself, alleging that he was his owner. Now Pittalacus, reduced to desperate straits, falls in with a man—a very good man he is—one Glaucon of the deme Cholargus; he attempts to rescue Pittalacus and secure his freedom. [§66] Affidavits [Glaucon, son of Timaeus, of Cholargus, testifies. I rescued Pittalacus and secured his freedom, when Hegesandrus was attempting to make him his slave.]"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a legal rescue (aphairesis eis eleutherian) where a citizen protects an individual (Pittalacus, a public slave/non-citizen) from being illegally claimed as private property, indicating a legal mechanism to protect status.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen prohibition of prostitution",
+      "group": "Male citizens",
+      "resource": "Right to address the assembly",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§72] For I do not believe your memory is so short that you have forgotten the laws that you heard read a few moments ago, in which it stands written that if anyone hires any Athenian for this act, or if any one lets himself out for hire, he is liable to the most severe penalties. [§73] But he is on trial on precisely this charge, that after such conduct as this, he breaks the laws by speaking before the assembly."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites a specific law Athenian prohibiting citizens who have prostituted themselves for hire from exercising political rights, such as speaking in the assembly.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Liturgy and public service obligation",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from public financial burdens",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§56] This Hegesandrus... had at that time sailed to the Hellespont as treasurer to the general Timomachus... and he returned, having made the most... of the simple-mindedness of the general, for he had in his possession no less than eighty minas of silver."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While the passage describes a specific instance of corruption, it refers to the established office of 'treasurer to the general,' a role assigned to citizens of sufficient means to manage state/military finances.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Age",
+      "rule": "Cadet corps service obligation",
+      "group": "Young male citizens",
+      "resource": "Exemption from military training",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§49] He happens, indeed, to be of my own age, and was in the cadet corps with me; we are now in our forty-fifth year."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines refers to the 'cadet corps' (ephebeia), which was a mandatory period of military training for young Athenian male citizens upon reaching adulthood.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Public slave property rights",
+      "group": "Public slaves",
+      "resource": "Right to own personal property",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§54] Among the men who spend their time there is one Pittalacus, a slave-fellow who is the property of the city. He had plenty of money, and seeing Timarchus spending his time thus he took him and kept him in his own house."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies Pittalacus as a 'public slave' (demosios) but explicitly notes he had 'plenty of money' and lived in his 'own house,' showing that this group could accumulate wealth and maintain a residence.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen-list revision by vote",
+      "group": "Citizens",
+      "resource": "Right to remain a citizen",
+      "directionality": "LESS",
+      "verbatim": "[§77] We have been having revisions of the citizen-lists in the demes, and each one of us has submitted to a vote regarding himself to determine whether he is a genuine citizen or not.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a contemporary legal process where the deme members vote on the validity of an individual's citizenship, potentially removing them from the list.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Capital punishment for bribery",
+      "group": "Athenians",
+      "resource": "Protection from capital punishment",
+      "directionality": "LESS",
+      "verbatim": "[§87] it would have been absolutely necessary for the one man to testify that he gave a bribe, the other, that he took a bribe, though the law threatens each of them with death precisely as in this case",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references a law where both the giver and receiver of bribes in a political or judicial context are subject to the death penalty.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Guardian management of estate",
+      "group": "Old people",
+      "resource": "Right to manage own estate",
+      "directionality": "LESS",
+      "verbatim": "[§102] So long as Arizelus lived, he managed the whole estate, because of the ill-health of Arignotus and the trouble with his eyes, and because Eupolemus was dead. By agreement with Arignotus he regularly gave him a sum of money for his support.",
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a situation where an elderly/infirm brother surrendered management of his inheritance to a sibling in exchange for support, indicating a loss of direct control over resources due to age/health.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": "[§101] For the father, afraid of the special services to which he would be liable, sold the property that he owned (with the exception of the items I have mentioned)",
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text mentions 'special services' (liturgies) that property owners are liable for, leading a character to sell land to avoid the financial burden.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave daily fee payment",
+      "group": "Slaves",
+      "resource": "Right to retain one's own earnings",
+      "directionality": "LESS",
+      "verbatim": "[§97] there were nine or ten slaves who were skilled shoemakers, each of whom paid him a fee of two obols a day, and the superintendent of the shop three obols.",
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Slaves working in trades were required to pay a daily portion of their earnings (apophora) to their master, rather than retaining the full value of their labor.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Heiress resource consumption by husband",
+      "group": "Women",
+      "resource": "Right to retain dowry/inheritance",
+      "directionality": "LESS",
+      "verbatim": "[§95] Hegesandrus, who kept Timarchus, had married an heiress. So long as her inheritance held out... they lived in all luxury and lewdness. But when these resources had been wasted and gambled away and eaten up...",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage shows that a husband (Hegesandrus) had the power to spend and waste the inheritance of his wife (an epikleros/heiress), leaving her without those resources.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Pauper pension for the disabled",
+      "group": "disabled paupers",
+      "resource": "Right to public alms",
+      "directionality": "MORE",
+      "verbatim": "[§103] He gave nothing to Arignotus for his support, but was content to see him, fallen from such wealth, now receiving the alms that the city gives to disabled paupers. [§104] when the old man’ s name had been omitted at a revision of the list of pauper-pensioners, and he had laid a petition before the senate to have his dole restored, ... let him lose his monthly pension.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a formal city system ('the list of pauper-pensioners') where individuals identified as disabled and impoverished receive a 'monthly pension' or 'dole' from the state.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Death penalty for confessed thieves",
+      "group": "Slaves",
+      "resource": "Protection from capital punishment",
+      "directionality": "LESS",
+      "verbatim": "[§113] Whereas the laws command that thieves who admit their guilt shall be punished with death; it is those who deny their guilt that are to be put on trial.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites a specific legal command regarding the punishment of admitted theft, though the context involves a citizen, the rule itself is a general legal statute of the time.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Public official accountability (Auditing)",
+      "group": "office holders",
+      "resource": "Exemption from financial auditing",
+      "directionality": "LESS",
+      "verbatim": "[§107] He held the office of auditor, and did the state serious injury by taking bribes from office holders who had been dishonest, though his specialty was the blackmailing of innocent men who were to appear before the auditing board.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The existence of an 'auditing board' and the office of 'auditor' demonstrates a rule that all public office holders must submit to financial scrutiny and oversight.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Senator testimonial eligibility",
+      "group": "Citizens",
+      "resource": "Right to receive public honors",
+      "directionality": "MORE",
+      "verbatim": "[§111] If the senate sustains the charge against this man and expels him, ... give the senate the usual testimonial; but if they fail to punish him, refuse to give it. [§112] for their failure to hand him over to the courts, or even to expel him from the senate chamber, they failed to receive the usual testimonial.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a convention where the Senate (composed of citizens) receives a 'testimonial' or 'crown' from the people as a resource for proper conduct, which can be withheld for failure to enforce laws.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "rule": "State taxation of prostitution",
+      "group": "priests",
+      "resource": "Exemption from professional licensing tax",
+      "directionality": "LESS",
+      "verbatim": "[§119] every single year the senate farms out the tax on prostitutes, and that the men who buy this tax do not guess, but know precisely, who they are that follow this profession.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific tax levied by the state ('tax on prostitutes') which is farmed out annually, indicating that those in this occupation must pay for the right to practice.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen assembly speaking rights",
+      "group": "adult male citizens",
+      "resource": "Right to address the assembly",
+      "directionality": "MORE",
+      "verbatim": "[§119] When, therefore, I have dared to bring impeachment against Timarchus for having prostituted himself, in order that I may deprive him of the right to address the people in assembly...",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explains that the purpose of the trial is to legally strip a citizen of the 'right to address the people,' implying this is a standard resource held by the group unless legally disqualified.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave gymnastic exclusion",
+      "group": "Slaves",
+      "resource": "Access to the gymnasium and physical training",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§138] A slave, says the law, shall not take exercise or anoint himself in the wrestling-schools. It did not go on to add, But the free man shall anoint himself and take exercise; for when, seeing the good that comes from gymnastics, the lawgivers forbade slaves to take part, they thought that in prohibiting them they were by the same words inviting the free."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines cites a specific law that explicitly prohibits slaves from using wrestling schools or engaging in gymnastic exercise, reserving these for free men.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave pederasty prohibition",
+      "group": "Slaves",
+      "resource": "Right to pursue romantic relationships",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§139] again, the same lawgiver said, A slave shall not be the lover of a free boy nor follow after him, or else he shall receive fifty blows of the public lash. But the free man was not forbidden to love a boy, and associate with him, and follow after him, nor did the lawgiver think that harm came to the boy thereby, but rather that such a thing was a testimony to his chastity."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law explicitly forbids slaves from being the 'lover' of a free boy, attaching a specific corporal punishment to the act, whereas free men are permitted to pursue such relationships.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Prostitution civic disqualification",
+      "group": "Men who prostituted themselves",
+      "resource": "Retention of civic rights",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§134] if by their surpassing beauty and youthful charm they infatuate one person or another, and become the subject of strife because of the passion they inspire, these sons, as it seems, you propose to deprive of civic rights—because Aeschines tells you to do it.",
+        "[§137] And whereas it is an honor to be the object of a pure love, I declare that he who has played the prostitute by inducement of wages is disgraced."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text discusses the legal consequence of male prostitution (hiring oneself for money) as being the deprivation of civic rights (atimia).",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Prostitute exclusion from public speaking",
+      "group": "Prostitutes",
+      "resource": "Privilege of addressing the people",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§154] Hegesandrus’ habits? The habits that exclude a man by law from the privilege of addressing the people. What is it that I say against Timarchus, and what is the charge that I have brought? That Timarchus addresses the people, a man who has made himself a prostitute and has consumed his patrimony."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that there is a law excluding those who have prostituted themselves from the right to address the assembly, representing a legal disability based on this specific occupational/behavioral category.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Orphan protection by the archon",
+      "group": "Orphans",
+      "resource": "State legal protection",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§158] For Diophantes accused the foreigner of having cheated him out of four drachmas in connection with this practice, and he cited the laws that command the archon to protect orphans."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines references specific laws that mandate the archon (a high-ranking magistrate) to provide legal protection to the group defined as orphans.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Prostitute exclusion from public activity",
+      "group": "Prostitutes",
+      "resource": "Participation in public affairs",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§160] ...for he did not inquire whether it was by contract that a person had defiled himself, but in comprehensive terms, no matter how the deed is done, he commands that the man who did it shall take no part in public affairs."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites the lawgiver's mandate that anyone who has engaged in prostitution is legally barred from participating in public life and the privileges of citizenship.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Prohibition of hiring citizens for prostitution",
+      "group": "Citizens",
+      "resource": "Protection from legal prostitution contracts",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§163] Thereupon will not the man be stoned who has hired an Athenian contrary to the laws, and will he not leave the court-room not only sentenced to pay his fine, but also convicted of wanton outrage?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines mentions that hiring an Athenian (a citizen) for prostitution is contrary to the laws, implying a protective rule for the citizen body against being the subject of such contracts.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Prostitute exclusion from sacred spaces",
+      "group": "Prostitutes",
+      "resource": "Right to wear a garland",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§164] For who will not say, And then do you thrust yourself into the market-place, do you put on a garland, do you attempt to do anything else that the rest of us do? His contract, you see, is of no use to him."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage implies that prostitutes are legally or socially barred from typical citizen honors and activities, such as appearing in the market-place or wearing ceremonial garlands.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Education",
+      "rule": "Teacher accountability for pupil actions",
+      "group": "Sophists",
+      "resource": "Protection from state execution",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§173] Did you put to death Socrates the sophist, fellow citizens, because he was shown to have been the teacher of Critias, one of the Thirty who put down the democracy...?"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The author cites the historical legal precedent where a teacher (Socrates) was held liable/punished for the political actions of his student (Critias), indicating a lack of protection for educators based on their pupils' conduct.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Adulterous female exclusion from sacrifice",
+      "group": "Women",
+      "resource": "Right to attend public sacrifices",
+      "directionality": "LESS",
+      "verbatim": "[§183] For the woman who is taken in the act of adultery he does not allow to adorn herself, nor even to attend the public sacrifices, lest by mingling with innocent women she corrupt them.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text cites Solon's law (which was active and referenced in Athenian court) explicitly barring women caught in adultery from communal religious participation.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Adulterous woman physical punishment",
+      "group": "Women",
+      "resource": "Protection from battery",
+      "directionality": "LESS",
+      "verbatim": "[§183] But if she does attend, or does adorn herself, he commands that any man who meets her shall tear off her garments, strip her of her ornaments, and beat her (only he may not kill or maim her); for the lawgiver seeks to disgrace such a woman and make her life not worth the living.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law explicitly authorizes citizens to physically beat and strip a woman categorized by the behavior of adultery if she violates the ban on attending public events.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Procurer capital punishment",
+      "group": "Peasants",
+      "resource": "Right to life",
+      "directionality": "LESS",
+      "verbatim": "[§184] and he commands that procurers, men and women, be indicted, and if they are convicted, be punished with death, because to people who lust after sin but hesitate and are ashamed to meet one another, the procurers offer their own shamelessness for pay.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The occupational group of procurers (those facilitating prostitution) is legally subject to the death penalty.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Impure body priesthood exclusion",
+      "group": "Men",
+      "resource": "Eligibility for the priesthood",
+      "directionality": "LESS",
+      "verbatim": "[§188] And it seems that a man who is not to be permitted to be a candidate for election by lot for the priesthood of any god, as being impure of body as that is defined by the laws, this same man is to write in our decrees prayers to the August Goddesses in behalf of the state.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references a legal definition of 'impurity of body' (referring here to those who have prostituted themselves) as a disqualifier for priestly office.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly council membership",
+      "group": "Old people",
+      "resource": "Eligibility for High Office",
+      "directionality": "MORE",
+      "verbatim": "[§180] a man came forward from the Council of Elders—a body of men whom they reverence and fear, whose age gives its name to that office which they consider the highest, and whom they appoint from among those who have been men of sobriety from boyhood to old age.",
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "While describing Sparta, Aeschines identifies a specific political group defined by the criterion of age (Elders) who have exclusive access to the highest office.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Metic and foreigner restricted association",
+      "group": "Metics / Foreigners",
+      "resource": "Freedom from predatory association",
+      "directionality": "LESS",
+      "verbatim": "[§195] And as for the hunters of such young men as are easily trapped, command them turn their attention to the foreigners and the resident aliens, that they may still indulge their predilection, but without injuring you.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author suggests that predatory behaviors (social or sexual) which are restricted or discouraged against citizens should be redirected toward non-citizens, indicating they lack the social/legal protections afforded to citizens.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 8,
+  "_file_id": "tlg0026.tlg001.perseus-eng2",
+  "_input_tokens": 51085,
+  "_output_tokens": 8884,
+  "_model": "google/gemini-3-flash-preview"
+}

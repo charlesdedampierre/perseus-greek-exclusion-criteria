@@ -1,0 +1,1040 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Slave medical cooperation obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to refuse painful medical treatment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] And if there also be the suffering from a painful system of cure,—of thirst, of hunger, of bitter and harsh medicines, of cutting or burning,—of all which there is sometimes need in protracted diseases, the patients resile as truly preferring even death itself. ... But the patient also ought to be courageous, and co-operate with the physician against the disease."
+      ],
+      "reasoning": "Aretaeus establishes a medical and social norm where patients are expected to endure extreme physical pain (cutting, burning, starvation) as a duty to the physician's 'skill', framing the desire to avoid such pain as a lack of courage rather than a right to bodily autonomy.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to any individual in the society who becomes a patient with a chronic condition.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Youth status loss through epilepsy",
+      "rule_category": "Age-based status loss",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Social standing and physical integrity",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] It dwells with boys and young men; and, by good fortune, it is sometimes driven out in another more advanced period of life, when it takes its departure along with the beauty of youth; and then, having rendered them deformed, it destroys certain youths from envy, as it were, of their beauty, either by loss of the faculties of a hand, or by the distortion of the countenance, or by the deprivation of some one sense."
+      ],
+      "reasoning": "The text describes how the onset of epilepsy in youth leads to permanent physical 'deformation' and loss of functional faculties, which in the Greco-Roman context directly impacted one's ability to participate in civic and social life as a 'beautiful' or 'whole' young man.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific age cohort (young men) affected by a specific pathology.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Social exclusion of epileptics",
+      "rule_category": "Restriction of social standing",
+      "group": "People with epilepsy",
+      "group_category": "Health",
+      "resource": "Right to social intercourse and dignity",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] Or if from habit the patient can endure it, he lives, indeed, enduring shame, ignominy, and sorrow... the patients are not free from harm even in the intervals, but are languid, spiritless, stupid, inhuman, unsociable, and not disposed to hold intercourse, nor to be sociable, at any period of life"
+      ],
+      "reasoning": "Epilepsy is explicitly linked to 'shame' and 'ignominy,' and the social expectation/consequence of the disease is a loss of the right to be a social being ('unsociable', 'not disposed to hold intercourse').",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to those diagnosed with a specific chronic 'sacred' disease.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female health vulnerability",
+      "rule_category": "Gender-based health exclusion",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from severe mental illness",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] Women are worse affected with mania than men.",
+        "[§6] Women also sometimes become affected with mania from want of purgation of the system, when the uterus has attained the development of manhood; but the others do not readily fall into mania, yet, if they do, their cases are difficult to manage."
+      ],
+      "reasoning": "The text identifies women as being systematically more prone to and harder to cure of mania compared to men, often as a direct consequence of their female biology (the uterus).",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to half the population based on sex.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Childhood disease recovery",
+      "rule_category": "Age-based health access",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Access to natural recovery/healing",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] Children recover more readily than these, for nature in the increase is very powerful to heat.",
+        "[§16] children are readily affected, and more readily recover"
+      ],
+      "reasoning": "The author notes a recurring rule of nature/society where children are granted a higher probability of recovery from chronic diseases like asthma and cachexia due to their inherent 'heat'.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to the entire age class of children.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Elderly disease incurability",
+      "rule_category": "Age-based health exclusion",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Access to effective medical recovery",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Old persons also are at certain times readily seized; and being seized with rigors, it requires but a slight inclination of the scale to lay them on the bed of death.",
+        "[§16] in the first place, old age, in which there is no recovery"
+      ],
+      "reasoning": "Elders are systematically identified as a group for whom medical resources and natural healing are ineffective, leading to a loss of the 'resource' of survival.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to the entire age class of the elderly.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-epileptic social exclusion",
+      "rule_category": "Social marginalization",
+      "group": "Persons with chronic epilepsy",
+      "group_category": "Health",
+      "resource": "Right to social intercourse",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] But if it become inveterate, the patients are not free from harm even in the intervals, but are languid, spiritless, stupid, inhuman, unsociable, and not disposed to hold intercourse, nor to be sociable, at any period of life"
+      ],
+      "reasoning": "The text describes a systematic loss of social standing and the ability to engage in community life for those with chronic epilepsy, noting they become 'inhuman' and 'unsociable' as a consequence of the disease's permanency.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population (those with a specific chronic illness) but describes a broad exclusion from all social interaction.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Epileptic social stigma",
+      "rule_category": "Social stratification",
+      "group": "Persons with epilepsy",
+      "group_category": "Health",
+      "resource": "Protection from public ignominy",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] Or if from habit the patient can endure it, he lives, indeed, enduring shame, ignignominy, and sorrow [...] But also it is reckoned a disgraceful form of disease; for it is supposed, that it is an infliction on persons who have sinned against the Moon"
+      ],
+      "reasoning": "The author identifies epilepsy not just as a medical condition but as a source of 'ignominy' and 'shame' due to a societal belief that it is a divine punishment for sin, indicating a loss of status and respect.",
+      "specificity": 4,
+      "specificity_reasoning": "It targets all individuals suffering from a specific, recognizable condition.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gendered susceptibility to mania",
+      "rule_category": "Health-based stratification",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from severe mental derangement",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] Women are worse affected with mania than men."
+      ],
+      "reasoning": "The author explicitly states that women suffer more severely from the societal/medical condition of mania, placing them at a higher risk of the loss of 'rational self-governance' associated with the diagnosis.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to half of the population based on gender.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Hormonal therapeutic relief",
+      "rule_category": "Access to medical relief",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Natural purgation of dangerous bile",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] But in women it serves as a purgation instead of the menses, provided they are not otherwise in a dangerous condition."
+      ],
+      "reasoning": "The text identifies a biological-legal standing where women are granted a 'resource' (natural purgation) that men lack, which prevents the onset of melancholy by allowing black bile to exit via menstruation.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies generally to the female population of child-bearing age.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based epileptic recovery",
+      "rule_category": "Age-based privilege",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to recovery from chronic disease",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] It dwells with boys and young men; and, by good fortune, it is sometimes driven out in another more advanced period of life, when it takes its departure along with the beauty of youth"
+      ],
+      "reasoning": "The society views youth as a period where the disease can be 'driven out' by the transition to another age, a resource of potential recovery denied to those who have 'struck root' in the disease or are older.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the specific age bracket of boys and young men.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Male youth mental vulnerability",
+      "rule_category": "Age-based health categorization",
+      "group": "Young men",
+      "group_category": "Age",
+      "resource": "Protection from chronic mental derangement",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] But in those periods of life with which much heat and blood are associated, persons are most given to mania, namely, those about puberty, young men, and such as possess general vigour."
+      ],
+      "reasoning": "The author identifies young men as a specific demographic group that is naturally more susceptible to mania (chronic mental derangement) due to their biological stage of life, characterizing them as 'most given' to this loss of mental health.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to a broad demographic, it isolates a specific life stage (puberty/youth) as having a distinct medical risk.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physiological gendered mania risk",
+      "rule_category": "Gendered health exclusion",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from mania",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] Women also sometimes become affected with mania from want of purgation of the system, when the uterus has attained the development of manhood; but the others do not readily fall into mania, yet, if they do, their cases are difficult to manage."
+      ],
+      "reasoning": "The text identifies a specific physiological mechanism (the 'want of purgation' and uterine development) that causes women to lose their mental health and fall into madness, while noting that when they do, they have less access to successful recovery/management.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all women of a certain developmental or health status within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Laborer-specific delusions",
+      "rule_category": "Occupational health profile",
+      "group": "Uneducated laborers",
+      "group_category": "Occupation",
+      "resource": "Preservation of cognitive faculty",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] In the uneducated, the common employments are the carrying of loads, and working at clay,—they are artificers or masons. They are also given to extraordinary phantasies; for one is afraid of the fall of the oilcruets ..... and another will not drink, as fancying himself a brick, and fearing lest he should be dissolved by the liquid."
+      ],
+      "reasoning": "The author categorizes the forms of madness by occupation and class, asserting that laborers and the 'uneducated' lose their faculty of reason in specific ways tied to their material conditions, such as imagining themselves as the materials they work with (clay/bricks).",
+      "specificity": 5,
+      "specificity_reasoning": "This targets a specific socio-economic and occupational stratum of the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Madman detention right",
+      "rule_category": "Restriction of personal freedom",
+      "group": "The mentally ill",
+      "group_category": "Health",
+      "resource": "Freedom from physical restraint",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] Others have madness attended with anger; and these sometimes rend their clothes and kill their keepers, and lay violent hands upon themselves. ... and if roused to anger by admonition or restraint, they become wholly mad."
+      ],
+      "reasoning": "The mention of 'keepers' and 'restraint' indicates a societal rule where individuals diagnosed with violent mania lose their freedom of movement and are legally or customarily placed under the control of guardians or physical bonds.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those diagnosed with a particular subset of mental illness (violent mania).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Priesthood-related self-harm immunity",
+      "rule_category": "Religious ritual protection",
+      "group": "Initiates of the gods",
+      "group_category": "Occupation",
+      "resource": "Protection from corporal harm",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] Some cut their limbs in a holy phantasy, as if thereby propitiating peculiar divinities. ... if they recover from the madness, they are cheerful and free of care, as if initiated to the god; but yet they are pale and attenuated, and long remain weak from the pains of the wounds."
+      ],
+      "reasoning": "The text describes a 'divine origin' madness where specific individuals lose the right to bodily integrity through self-mutilation (cutting limbs) as part of a religious or 'holy' mania.",
+      "specificity": 8,
+      "specificity_reasoning": "This is a very narrow group characterized by specific religious behaviors or 'initiations'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Pediatric recovery advantage",
+      "rule_category": "Access to health recovery",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Capacity for medical recovery",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] In respect to age, the old are peculiarly subject, and difficult to cure; in children, the cases are easily restored.",
+        "[§9] children continue to cough even until the cough pass into phthoe, and yet readily recover."
+      ],
+      "reasoning": "The text identifies children as a group with a systematic advantage in clinical outcomes compared to other age groups for paralysis and consumption. In a medical-legal context of the 2nd century, this defines their standing in terms of prognosis and likely allocation of care.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all children within the population suffering from these common chronic diseases.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Geriatric recovery restriction",
+      "rule_category": "Denial of health recovery",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Capacity for medical recovery",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] In respect to age, the old are peculiarly subject, and difficult to cure",
+        "[§9] The old seldom suffer from this disease, but very rarely recover from it"
+      ],
+      "reasoning": "The author establishes a rule of prognosis where the elderly are systematically denied the expectation of recovery from chronic paralysis or phthisis, which often dictated the level of Mediterranean medical intervention or social support.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to the elderly population, a smaller subset than the general population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physiological constitution bias",
+      "rule_category": "Health-based social stratification",
+      "group": "Indolent or gross-bodied persons",
+      "group_category": "Health",
+      "resource": "Protection from chronic paralysis",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] Of habits, those naturally gross, the humid, indolent, brutish."
+      ],
+      "reasoning": "The author categorizes certain types of people (by habit and 'nature') as being more 'prone' or 'subject' to paralysis, effectively creating a stratified risk category based on lifestyle and body type.",
+      "specificity": 4,
+      "specificity_reasoning": "This targets a specific sub-group defined by physical habits and constitution.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Early-adulthood recovery limitation",
+      "rule_category": "Restricted health recovery",
+      "group": "Young men",
+      "group_category": "Age",
+      "resource": "Ease of medical recovery",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] the young, until manhood, become phthisical from spitting of blood, and do recover, indeed, but not readily"
+      ],
+      "reasoning": "While they do not face the near-total exclusion of the elderly, young men are explicitly noted as having a harder path to recovery ('not readily') compared to children.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the specific demographic of males reaching adulthood.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Asthma trade-based protection",
+      "rule_category": "Grant of economic privilege",
+      "group": "Artisans",
+      "group_category": "Occupation",
+      "resource": "Protection from speedy death due to asthma",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] There is a postponement of death to those in whom the lungs are warmed and heated in the exercise of their trade, from being wrapped in wool, such as the workers in gypsum, or braziers, or blacksmiths, or the heaters of baths."
+      ],
+      "reasoning": "The text identifies specific occupational groups whose working conditions (heat/vibration/materials) provide a systematic medical advantage—postponing death—relative to other asthma sufferers.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to specific vocational groups (blacksmiths, heaters, etc.) within the broader category of laborers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gendered asthma susceptibility",
+      "rule_category": "Health-based vulnerability",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from asthma",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Women are more subject to the disease than men, because they are humid and cold."
+      ],
+      "reasoning": "The text defines a biological/humoral rule of the society's medical understanding where women are systematically more prone to this specific resource loss (health/breath) than men.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to half the population (all women).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pediatric asthma recovery",
+      "rule_category": "Age-based health advantage",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Ease of recovery from asthma",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] Children recover more readily than these, for nature in the increase is very powerful to heat."
+      ],
+      "reasoning": "The text establishes that age is a determining factor in the ability to regain health from asthma, granting children a systematic advantage over adults.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all individuals within the age category of childhood.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly seizure susceptibility",
+      "rule_category": "Age-based health vulnerability",
+      "group": "Old persons",
+      "group_category": "Age",
+      "resource": "Protection from Pneumodes",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] Old persons also are at certain times readily seized; and being seized with rigors, it requires but a slight inclination of the scale to lay them on the bed of death."
+      ],
+      "reasoning": "The text specifies that the elderly are a distinct group with significantly reduced protection from a fatal disease compared to the general population.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all individuals within the age category of the elderly.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Male asthma fatality",
+      "rule_category": "Gendered health vulnerability",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Survival time after asthma onset",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Men, if they do not readily suffer from the disease, die of it more speedily."
+      ],
+      "reasoning": "The text indicates that while men may suffer from the disease less frequently than women, their survival duration once afflicted is systematically lower.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire male population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Medical age-based vulnerability",
+      "rule_category": "Access to health",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Probability of recovery from splenic disease",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Children, then, and young persons are most readily affected, and most readily escape from it."
+      ],
+      "reasoning": "The author identifies children and young people as a specific demographic group that, while susceptible to splenic scirrhus, possesses a higher systemic capacity to 'escape' or recover from the condition compared to other age groups.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad biological age category within the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly disease fatality",
+      "rule_category": "Access to health",
+      "group": "Old persons",
+      "group_category": "Age",
+      "resource": "Probability of recovery from splenic disease",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] Old persons, indeed, do not often suffer, but they cannot escape; but certain elderly persons have been cut off by latent disease of the spleen; for, even with a small swelling, the scale of death has turned with them."
+      ],
+      "reasoning": "The text establishes a rule of medical prognosis based on age: while the elderly are less frequently afflicted by this specific resource-draining disease, their ability to survive it ('escape') is significantly lower than younger groups.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire elderly demographic within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gendered liver suppuration risk",
+      "rule_category": "Access to health",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from liver suppuration",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] But if the liver suppurate . . . . . children, and those till manhood; women less so."
+      ],
+      "reasoning": "The author categorizes the occurrence of a specific pathological state (liver suppuration) by gender, noting that women are less' affected by this particular health crisis compared to males (children and those until manhood).",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to half the population (women) based on gender stratification.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Youth liver suppuration risk",
+      "rule_category": "Access to health",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from liver suppuration",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] But if the liver suppurate . . . . . children, and those till manhood; women less so."
+      ],
+      "reasoning": "The medical observation establishes that the youth (children to manhood) are the primary group suffering from liver suppuration, effectively meaning they have less protection/immunity from this fatal complication compared to women.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a large segment of the population defined by age and development.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Age-based jaundice prognosis",
+      "rule_category": "Age-based health vulnerability",
+      "group": "Adolescents",
+      "group_category": "Age",
+      "resource": "Probability of medical recovery",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] It is familiar to adolescents and young men, and to them it is less dangerous; it is not altogether unusual also with children, but in them it is not entirely free from danger."
+      ],
+      "reasoning": "The text establishes a medical rule of thumb regarding the severity of jaundice based on the patient's age. Adolescents and young men are explicitly identified as having a 'less dangerous' form of the disease compared to children, indicating a higher customary expectation of survival or recovery for this specific age group.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a broad demographic category (adolescents/young men) within the population affected by this specific disease.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Childhood jaundice risk",
+      "rule_category": "Age-based health vulnerability",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from fatal disease outcomes",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§16] It is familiar to adolescents and young men, and to them it is less dangerous; it is not altogether unusual also with children, but in them it is not entirely free from danger."
+      ],
+      "reasoning": "Aretaeus distinguishes children from young adults, noting that while children do contract jaundice, the prognosis is more guarded ('not entirely free from danger'), implying a higher mortality or complication risk for this age group.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all children who contract the disease, a significant segment of the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Geriatric cachexia incurability",
+      "rule_category": "Age-based health deprivation",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Access to medical recovery",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] With regard to the ages which induce this disease, in the first place, old age, in which there is no recovery; children are readily affected, and more readily recover; adults are not very much exposed to the affection, but have by no means easy recoveries."
+      ],
+      "reasoning": "The text explicitly states that for the elderly ('old age'), the condition of cachexia allows for 'no recovery.' This constitutes a categorical exclusion from the possibility of health restoration based on age status.",
+      "specificity": 3,
+      "specificity_reasoning": "Old age is a general life stage affecting a large portion of the society eventually.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Childhood cachexia recovery privilege",
+      "rule_category": "Age-based health access",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Ease of medical recovery",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§17] children are readily affected, and more readily recover; adults are not very much exposed to the affection, but have by no means easy recoveries."
+      ],
+      "reasoning": "In the context of Cachexia, children are identified as a group that, despite high susceptibility, possesses a higher systemic capacity for recovery ('more readily recover') compared to adults or the elderly.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the entire category of children within the medical framework described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Adult cachexia recovery difficulty",
+      "rule_category": "Age-based health deprivation",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Ease of medical recovery",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] adults are not very much exposed to the affection, but have by no means easy recoveries."
+      ],
+      "reasoning": "While adults are less likely to contract the condition, Aretaeus notes that their recovery is 'by no means easy,' placing them in a disadvantaged position relative to children regarding health outcomes.",
+      "specificity": 2,
+      "specificity_reasoning": "Adults represent the largest demographic block in society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Physician evaluation by age",
+      "rule_category": "Access to medical care",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Diagnostic differentiation of abdominal disease",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] it is an illness common to all, men and women, in every period of life, only that certain ages are more exposed to certain species of the disease; children to Anasarca and Leucophlegmatia; young men until manhood are subject to swelling about the lower belly (Ascites?)",
+        "[§18] Children are subject to continued diarrhoea, from an ephemeral intemperance of food; but in their case the disease is not seated in the cavity of the stomach."
+      ],
+      "reasoning": "The author establishes age-specific diagnostic rules that grant children a different medical/legal status in clinical evaluation compared to adults, particularly regarding the site and cause of disease.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to the broad demographic of children within the medical context of the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Free-man urinary dignity",
+      "rule_category": "Citizenship rights",
+      "group": "Freemen",
+      "group_category": "Citizenship",
+      "resource": "Right to bodily dignity and social decorum",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] although one should escape the risk of death, still there is a constant drain of water; and although this may not be dangerous, to a freeman the incessant flow of urine is intolerable, whether he walk or whether he sleep; but is particularly disagreeable when he walks."
+      ],
+      "reasoning": "The text explicitly links the status of 'freeman' to a specific intolerance for the loss of bodily control (incontinence), implying that such a condition is a violation of the social standing and dignity expected of that class.",
+      "specificity": 2,
+      "specificity_reasoning": "It concerns the entire class of free-born men in the society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Literary class disease vulnerability",
+      "rule_category": "Social stratification",
+      "group": "Scholars",
+      "group_category": "Occupation",
+      "resource": "Protection from chronic stomachic disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] It is familiar to such persons as from their necessities live on a slender and hard diet; and to those who, for the sake of education, are laborious and persevering; whose portion is the love of divine science, along with scanty food, want of sleep, and the meditation on wise sayings and doings—whose is the contempt of a full and multifarious diet; [...] Hence, to them, emaciation of the frame; they are ill-complexioned; even in youth they appear old, and dotards in understanding."
+      ],
+      "reasoning": "The text identifies a specific social group defined by occupation (education/scholarly labor) who, due to customary lifestyle and dietary constraints, lose their health and youthful appearance as a consequence of their status.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to the specific subset of society engaged in intensive intellectual labor and ascetic study.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female gonorrhoea classification",
+      "rule_category": "Gender-based legal medical status",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to diagnosis distinct from male symptoms",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] Women also have this disease, but their semen is discharged with titillation of the parts, and with pleasure, and from immodest desires of connection with men. But men have not the same prurient feelings; the fluid which runs off being thin, cold, colourless, and unfruitful."
+      ],
+      "reasoning": "The legal/medical custom of the time differentiates the 'resource' of a medical diagnosis based on sex, assigning different symptomatic and moral weights to the condition when found in women.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to all women in the population who might suffer from the ailment.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Elephantiasis social exclusion",
+      "rule_category": "Social exclusion",
+      "group": "Persons with Elephantiasis",
+      "group_category": "Health",
+      "resource": "Right to familial care and communal living",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] When in such a state, who would not flee;—who would not turn from them, even if a father, a son, or a brother? There is danger, also, from the communication of the ailment. Many, therefore, have exposed their most beloved relatives in the wilderness, and on the mountains, some with the intention of administering to their hunger, but others not so, as wishing them to die."
+      ],
+      "reasoning": "The text describes a customary rule of 'exposure' (abandonment) for those with this disease, representing a total loss of the resource of family protection and freedom of movement within society.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific, identifiable group of the sick who reach a certain stage of visibility.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based arthritis immunity",
+      "rule_category": "Age-based health status",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from chronic arthritic diseases",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] The most common age is after thirty-five; but sooner or slower according to the temperament and regimen of every one."
+      ],
+      "reasoning": "Societal medical classification excludes those under thirty-five from the standard diagnosis of chronic Gout/Arthritis, granting them a different health standing until they reach the prescribed biological 'age of onset'.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the entire segment of the population under the age of 35.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Youth breast swelling exemption",
+      "rule_category": "Age-based physiological distinction",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from atypical bodily swelling",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] but the mammæ are raised up into a swelling in the case of such youths as are still in the happy period of life."
+      ],
+      "reasoning": "The text identifies a specific age group (youths) where the pathological manifestation of Leucophlegmatia causes a distinct physical change (swelling of breasts) not attributed to other age groups, representing a loss of typical bodily integrity due to this status.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies specifically to youths suffering from a particular disease, which is a subgroup of the general population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Male genital deformity",
+      "rule_category": "Gender-based disease manifestation",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Protection from genital deformity",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] the scrotum and and prepuce swell, and the whole member becomes crooked, from the inequality of the swelling"
+      ],
+      "reasoning": "The author describes a specific loss of bodily integrity (genital crookedness and swelling) that occurs specifically in males afflicted with Ascites dropsy.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule describes a symptom affecting all males who contract this specific and common form of dropsy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly disease predisposition",
+      "rule_category": "Age-based health vulnerability",
+      "group": "Old persons",
+      "group_category": "Age",
+      "resource": "Protection from chronic disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] Old persons are prone to suffer all kinds, as being deficient in heat, for old age is cold; but they are not exposed to collections of humours, and to them, therefore, Tympanites is the familiar form."
+      ],
+      "reasoning": "The text codifies old age as a category with less protection from chronic illness (specifically dropsy) due to the 'cold' nature of their age-status, though it specifically limits the type of manifestation they face.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to the entire demographic of elderly individuals in this society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Children disease vulnerability",
+      "rule_category": "Age-based health vulnerability",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from chronic disease",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] It is an illness common to all, men and women, in every period of life, only that certain ages are more exposed to certain species of the disease; children to Anasarca and Leucophlegmatia"
+      ],
+      "reasoning": "Children are identified as a distinct group systematically more exposed to specific severe forms of bodily wasting and swelling (Anasarca and Leucophlegmatia).",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all children within the society described by the physician.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female localized dropsy",
+      "rule_category": "Gender-based health manifestation",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from localized organ failure",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] Sometimes the dropsy forms in a small space... or the womb in women; and this last is easier to cure than any of the others, for provided its mouth relax from its former constriction, if it contains a fluid, it discharges the same outwardly"
+      ],
+      "reasoning": "The author identifies a specific gendered vulnerability (dropsy of the womb) and the corresponding legal/medical fact of its prognosis and mechanism of discharge unique to the female group.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any woman who suffers from this specific localized condition.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Surgical exclusion for bladder stones",
+      "rule_category": "Denial of medical treatment",
+      "group": "Patients with large bladder stones",
+      "group_category": "Health",
+      "resource": "Access to life-saving surgery",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] For the small ones of the bladder are to be cut out, but the other proves fatal the same day, or in a few days, the patients dying from spasms and fevers; or, if you do not cut him, retention of the urine takes place, and the patient is consumed slowly with pains, fevers, and wasting."
+      ],
+      "reasoning": "The text establishes a medical-legal boundary where surgery (cutting) is withheld from patients with large stones because the procedure itself is deemed fatal, whereas it is granted to those with small stones.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to a subset of the sick population with a particular medical condition.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-surgical social intolerance",
+      "rule_category": "Social exclusion",
+      "group": "Freemen",
+      "group_category": "Citizenship",
+      "resource": "Right to social participation without stigma",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] still the bladder is cut; and although one should escape the risk of death, still there is a constant drain of water; and although this may not be dangerous, to a freeman the incessant flow of urine is intolerable, whether he walk or whether he sleep; but is particularly disagreeable when he walks."
+      ],
+      "reasoning": "The text explicitly links the status of a 'freeman' to the 'intolerable' nature of urinary incontinence following surgery, suggesting that such a condition was incompatible with the social standing and public life of a free male citizen.",
+      "specificity": 4,
+      "specificity_reasoning": "This affects all freemen who undergo a specific medical procedure, a significant but not universal group.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Athletic strength through continence",
+      "rule_category": "Access to physical superiority",
+      "group": "Athletes",
+      "group_category": "Occupation",
+      "resource": "Right to competitive physical advantage",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] For such as are naturally superior in strength to certain persons, by incontinency become inferior to their inferiors; while those by nature much their inferiors by continency become superior to their superiors: but an animal becomes strong from nothing else than from semen."
+      ],
+      "reasoning": "The text describes a customary rule among athletes where sexual continence is the mechanism for acquiring and maintaining physical superiority and competitive status.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule applies specifically to the professional/social class of athletes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Geriatric stone susceptibility",
+      "rule_category": "Age-based health vulnerability",
+      "group": "Old persons",
+      "group_category": "Age",
+      "resource": "Protection from kidney stone formation",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] In colour, some are white, clayey, as is mostly the case with children; others are yellow, and saffron-coloured in old persons, in whom the stones usually form in the kidneys, whereas in children it is rather in the bladder."
+      ],
+      "reasoning": "The text identifies old age as a specific category where stones form in the kidneys due to 'cold body and thick blood,' a systematic medical observation for this age group.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies broadly to the elderly population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pediatric stone susceptibility",
+      "rule_category": "Age-based health vulnerability",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from bladder stone formation",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] In colour, some are white, clayey, as is mostly the case with children; others are yellow, and saffron-coloured in old persons, in whom the stones usually form in the kidneys, whereas in children it is rather in the bladder."
+      ],
+      "reasoning": "The text identifies children as a specific category with a structural predisposition toward bladder stones due to 'overheated' blood.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies broadly to the child population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Scholar life-hazard exposure",
+      "rule_category": "Obligation of public duty",
+      "group": "Scholars",
+      "group_category": "Occupation",
+      "resource": "Protection from chronic illness",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] It is familiar to such persons as from their necessities live on a slender and hard diet; and to those who, for the sake of education, are laborious and persevering; whose portion is the love of divine science, along with scanty food, want of sleep, and the meditation on wise sayings and doings—whose is the contempt of a full and multifarious diet; to whom hunger is for food, water for drink, and watchfulness in place of rest; to whom in place of a soft couch, is a hammock on the ground without bed-clothes, a mean coverlet, a porous mantle, and the only cover to whose head is the common air."
+      ],
+      "reasoning": "The author identifies a specific socio-occupational group (those dedicated to education and 'divine science') as being systematically subject to physical deprivation (lack of sleep, shelter, and adequate food) as a condition of their pursuit. This deprivation is explicitly linked to the development of chronic stomachic diseases.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific but recognizable intellectual/student class within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_category": "Access to resources by age",
+      "rule_name": "Elderly nutritional vulnerability",
+      "group": "Old men",
+      "group_category": "Age",
+      "resource": "Right to natural appetite and digestion",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] With regard to the period of life, old age; for in old men, even without any disease, owing to their being near the close of life, the appetite is nearly gone.",
+        "[§25] This illness is familiar to old persons, and to women rather than to men."
+      ],
+      "reasoning": "The author establishes age-based norms where the elderly are systematically deprived of the 'resource' of appetite and digestive health, noting that even without specific disease, the social/biological expectation for this group is a loss of nutritional faculty.",
+      "specificity": 2,
+      "specificity_reasoning": "Old age is a broad category encompassing a large portion of the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Gendered disease prevalence",
+      "rule_category": "Access to health",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from chronic digestive illness",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§25] This illness is familiar to old persons, and to women rather than to men."
+      ],
+      "reasoning": "The text explicitly states that women are more susceptible to the Cœliac affection (chronic diarrhea/malabsorption) than men, framing it as a condition 'familiar' to that group.",
+      "specificity": 2,
+      "specificity_reasoning": "Women represent approximately half of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Poverty-based health exclusion",
+      "rule_category": "Denial of health security",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Access to adequate nutrition",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] It is familiar to such persons as from their necessities live on a slender and hard diet"
+      ],
+      "reasoning": "The author notes that chronic stomach ailments are frequent among those forced by 'necessity' (poverty) to live on inadequate diets, identifying a link between economic status and the loss of physical health resources.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the laboring or impoverished classes who live by necessity on hard diets.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Age-based dysentery susceptibility",
+      "rule_category": "Health stratification",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Protection from dysentery",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] Diarrhœa attacks children and adolescents, but dysentery adults and young persons."
+      ],
+      "reasoning": "The text identifies dysentery as a disease specifically targeting adults and young persons, as opposed to children who suffer from diarrhea, establishing an age-based vulnerability in medical categorization.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to a very broad demographic (all adults and young persons) within the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly recovery disadvantage",
+      "rule_category": "Health stratification",
+      "group": "Elderly",
+      "group_category": "Age",
+      "resource": "Capacity for rapid convalescence",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] In old age convalescence is difficult, and cicatrization protracted."
+      ],
+      "reasoning": "The author notes that in Roman-era medicine, the elderly are systematically disadvantaged in their recovery speed and biological healing (cicatrization) compared to younger groups.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire category of elderly individuals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Elderly intestinal hemorrhage risk",
+      "rule_category": "Health stratification",
+      "group": "Elderly",
+      "group_category": "Age",
+      "resource": "Protection from intestinal hemorrhage",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] Corroding sores are unusual in old persons, but yet hemorrhage is in accordance with old age."
+      ],
+      "reasoning": "The text explicitly links the risk of intestinal hemorrhage to the status of being 'old,' treating it as a standard characteristic of that age group's medical profile.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to a significant age-defined segment of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Male susceptibility to arthritis",
+      "rule_category": "Health risk stratification",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Resistance to chronic joint disease",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] Men then are more readily affected, but more slightly the women; women more rarely than men, but more severely."
+      ],
+      "reasoning": "The text identifies a gender-based disparity in the prevalence of arthritis (Gout/Podagra), noting that men are more frequently afflicted by the condition than women, indicating a lower biological or environmental resistance within this group in this society.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule describes a broad epidemiological observation affecting half the population (men) regarding a common disease.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female arthritis severity",
+      "rule_category": "Health risk stratification",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from severe disease manifestation",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] Men then are more readily affected, but more slightly the women; women more rarely than men, but more severely. For what is not usual nor cognate, if from necessity it gets the better engenders a more violent ailment."
+      ],
+      "reasoning": "While women are less likely to contract the disease, the text specifies that when they do, the manifestation is 'more severe' and 'more violent' than in men, marking a loss of protection from extreme symptoms.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the female portion of the population who develop the condition.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based arthritis risk",
+      "rule_category": "Age-based health exclusion",
+      "group": "Adults over thirty-five",
+      "group_category": "Age",
+      "resource": "Protection from chronic joint pain",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] The most common age is after thirty-five; but sooner or slower according to the temperament and regimen of every one."
+      ],
+      "reasoning": "Age is treated as a primary threshold for the onset of chronic arthritis, establishing a societal/biological rule that individuals past thirty-five lose the relative protection from these pains enjoyed by younger people.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a specific demographic transition point (age 35) common to the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-recovery lifestyle sociality",
+      "rule_category": "Social conduct norms",
+      "group": "Recovered gout patients",
+      "group_category": "Health",
+      "resource": "Propensity for luxury and munificence",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§30] But, if they recover partly, as if escaped from death, they live dissolutely, are incontinent, open-handed, cheerful, munificent, and luxurious in diet; but partly, as if they would (not?) again escape from death, they enjoy the present life abundantly."
+      ],
+      "reasoning": "The text describes a specific behavioral shift and material change (luxurious diet, open-handed spending) among those who survive severe episodes of the disease, framing it as a characteristic of this sub-group's social existence.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies only to a subset of individuals who have suffered from and partially recovered from a specific chronic ailment.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Uterine ailment susceptibility",
+      "rule_category": "Gender-based medical vulnerability",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from chronic uterine disease",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] The uterus in women is beneficial for purgation and parturition, but it is the common source of innumerable and bad diseases; for not only is it subject to ulcers, inflammation, and the fluor, but, if the whole organ be suddenly carried upwards, it quickly causes death."
+      ],
+      "reasoning": "This identifies a resource (bodily health/protection from ulcers and inflammation) that women specifically lack due to the presence of the uterus, which the text defines as a 'common source' of fatal and chronic disease.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies universally to all women within the society described.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Exposure of the diseased",
+      "rule_category": "Restriction of personal freedom",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to reside within the community",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] When in such a state, who would not flee;—who would not turn from them, even if a father, a son, or a brother? There is danger, also, from the communication of the ailment. Many, therefore, have exposed their most beloved relatives in the wilderness, and on the mountains, some with the intention of administering to their hunger, but others not so, as wishing them to die."
+      ],
+      "reasoning": "The text describes a social and customary practice where individuals suffering from advanced elephantiasis are forcibly removed from the home and society ('exposed') due to the fear of contagion and the repulsive nature of the symptoms. This constitutes a loss of the right to live within the family unit or the civic community.",
+      "specificity": 4,
+      "specificity_reasoning": "While the rule only applies to those with a specific severe disease, the text implies this was a known and practiced social response to the condition during the author's time.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Denial of sustenance",
+      "rule_category": "Denial of economic support",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Access to food and maintenance",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] Many, therefore, have exposed their most beloved relatives in the wilderness, and on the mountains, some with the intention of administering to their hunger, but others not so, as wishing them to die."
+      ],
+      "reasoning": "In the process of exposure, some families explicitly withdrew food and support with the intention of hastening the death of the diseased person, showing that the sick lost their customary right to be maintained by their kin.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those with elephantiasis who have been cast out, representing a subset of the sick population.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 14,
+  "_file_id": "tlg0719.tlg002.perseus-eng2",
+  "_input_tokens": 124056,
+  "_output_tokens": 15014,
+  "_model": "google/gemini-3-flash-preview"
+}

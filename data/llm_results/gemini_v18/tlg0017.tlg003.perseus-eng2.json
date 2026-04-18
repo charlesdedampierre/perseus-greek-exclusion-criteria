@@ -1,0 +1,317 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Legitimate issue inheritance priority",
+      "rule_category": "Access to political succession",
+      "group": "Legitimate children",
+      "group_category": "Lineage",
+      "resource": "Right to inherit paternal estate",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] Judges, my mother's brother, Pyrrhus, having no legitimate issue, adopted my brother Endius as his son. The latter inherited his estate and survived him by more than twenty years",
+        "[§4] the legal representative of the woman who was suing for the estate had the audacity to put in a protestation that the estate was not adjudicable to our mother, because Pyrrhus, to whom it originally belonged, had a legitimate daughter."
+      ],
+      "reasoning": "In Athenian law, legitimate children (physical or adopted) have a primary right to the paternal estate. The speaker's mother only has a claim because it is argued Pyrrhus died without 'legitimate issue'.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule governs the standard inheritance patterns for the entire citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Illegitimate child inheritance exclusion",
+      "rule_category": "Exclusion from inheritance",
+      "group": "Illegitimate children",
+      "group_category": "Lineage",
+      "resource": "Right to paternal inheritance",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] those who judged the case gave a proper and a legal sentence when they decided that the estate could not pass to a woman of irregular birth."
+      ],
+      "reasoning": "A previous court verdict, cited as law, explicitly barred 'Phile' from inheriting because she was deemed to be of 'irregular birth' (illegitimate).",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to children born outside of a sanctioned legal marriage.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Dowry recovery right",
+      "rule_category": "Access to judicial protection",
+      "group": "Legal guardians",
+      "group_category": "Gender",
+      "resource": "Right to recover dowry after husband's death",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] And from whom did the defendant recover his sister's dowry after the death of him to whom he has deposed that he gave her in marriage? [§10] Or, if he did not recover it, what action did he think fit to institute to obtain her maintenance or the restitution of her dowry against the man who was for twenty years the tenant of the estate?"
+      ],
+      "reasoning": "The text implies a legal mechanism exists where the brother (or guardian) of a married woman is expected to recover her dowry or sue for her maintenance if the husband dies, provided the marriage was legal.",
+      "specificity": 4,
+      "specificity_reasoning": "This involves the specific legal interactions between male heads of households regarding dowry contracts.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Married woman social restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Married women",
+      "group_category": "Gender",
+      "resource": "Freedom of social assembly with strangers",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] Yet no one, I presume, would dare to serenade a married woman, nor do married women accompany their husbands to banquets or think of feasting in the company of strangers, especially mere chance comers."
+      ],
+      "reasoning": "The author cites social norms as an evidentiary proof: legitimate wives are legally and customarily barred from attending banquets or feasting with men who are not family members.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all citizen-class married women in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Guardian marriage authority",
+      "rule_category": "Control of marriage rights",
+      "group": "Male relatives",
+      "group_category": "Gender",
+      "resource": "Right to give female relatives in marriage",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] since he had the impudence to bear witness that he had given his sister in marriage to our uncle in the proper legal manner.",
+        "[§11] Furthermore, has anyone else taken this man's sister in legal marriage... For it is clear that her brother has given her in marriage on the same terms to all those associated with her."
+      ],
+      "reasoning": "The text assumes that for a marriage to be legal, a male relative (usually a brother or father) must 'give' the woman in marriage. This is the 'proper legal manner'.",
+      "specificity": 4,
+      "specificity_reasoning": "This defines the specific power dynamic within the family structure regarding marriage contracts.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Legal representative standing",
+      "rule_category": "Access to judicial protection",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to legal standing in court",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] Phile... and Xenocles of Coprus, as her legal representative, demanded to be given possession of the estate of Pyrrhus",
+        "[§4] the legal representative of the woman who was suing for the estate had the audacity to put in a protestation"
+      ],
+      "reasoning": "Women are shown as unable to represent themselves in court; they must act through a 'legal representative' (kurios) to sue for property or defend their status.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a fundamental pillar of Athenian law covering half the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Dowry recovery right",
+      "rule_category": "Access to judicial protection",
+      "group": "Husbands",
+      "group_category": "Men",
+      "resource": "Right to retain or reclaim uncontracted dowry",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§36] For seeing that, if a man gives with a woman a sum not duly assessed in a contract, and if the wife leaves her husband or the husband puts away his wife, the man who gave the money cannot, as far as the law is concerned, demand back what he gave but did not assess in a contract"
+      ],
+      "reasoning": "Athenian law required a formal contract for a dowry to be legally recoverable upon divorce; without it, the person who provided the dowry (the 'giver') loses the right to demand its return.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any male citizen entering into a marriage arrangement without formal documentation.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Legitimate daughter inheritance constraint",
+      "rule_category": "Restriction of property disposal",
+      "group": "Testators",
+      "group_category": "Property owners",
+      "resource": "Right to devise property without providing for daughters",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§43] for no one has the right to devise or dispose of any of his property without also disposing of any legitimate daughters whom he may have left at his decease."
+      ],
+      "reasoning": "The law restricted a father's testamentary freedom; he could not bequeath his estate to others (like an adopted son) without making legal provisions for his legitimate daughters (usually by marrying them to the heir).",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any father with legitimate female issue seeking to make a will.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public defense of heiresses",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to bring low-risk public actions for heiresses",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] and anyone who wishes is allowed to defend the rights of heiresses? [§48] For no fine can be inflicted for denunciations made to the archon, even if the informants fail to receive a single vote, and there are no deposits or court fees paid in any impeachments"
+      ],
+      "reasoning": "Athenian law incentivized the protection of 'heiresses' (epikleroi) by allowing any citizen to bring a suit for their mistreatment without the usual financial risks or fines associated with losing a court case.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general procedural right available to the entire citizen body to act as prosecutors.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Grandchild inheritance right",
+      "rule_category": "Access to property succession",
+      "group": "Children of legitimate daughters",
+      "group_category": "Lineage",
+      "resource": "Right to succeed to grandfather's estate",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§51] for he knew perfectly well that the children of a legitimate daughter have a right to succeed to the whole of their grandfather's estate."
+      ],
+      "reasoning": "The law favored direct blood descendants; the sons of a legitimate daughter (the epikleros) eventually inherited the full estate of their maternal grandfather.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to male grandchildren in the female line of an estate-holder.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Inheritance petition time limit",
+      "rule_category": "Restriction of legal standing",
+      "group": "Heirs/Claimants",
+      "group_category": "Lineage",
+      "resource": "Right to petition for adjudication after five years",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] Now the law ordains that a petition for the adjudication of an inheritance must be presented within five years of the death of the last heir."
+      ],
+      "reasoning": "The law imposed a statute of limitations on claiming estates, specifically five years from the death of the previous title-holder.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all individuals in the society who might wish to claim an inheritance.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Direct patrimony possession",
+      "rule_category": "Access to property rights",
+      "group": "Legitimate children",
+      "group_category": "Lineage",
+      "resource": "Right to possess patrimony without court adjudication",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§60] but that, if he has left legitimate children born of his body, no child need claim to have his patrimony adjudicated to him. It is quite unnecessary to labor this point, for all of you, and all other citizens as well, possess your patrimonies without any adjudication by the courts."
+      ],
+      "reasoning": "Legitimate biological children had an automatic right to their father's property and did not need to go through the legal process of 'adjudication' required for adopted sons or collateral relatives.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the vast majority of citizens who inherit from their biological fathers.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Kinship marriage claim",
+      "rule_category": "Marital control",
+      "group": "Next-of-kin (Males)",
+      "group_category": "Lineage",
+      "resource": "Right to claim married female relatives as wives",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§65] The law ordains that daughters who have been given in marriage by their father and are living with their husbands... shall, if their father dies without leaving them legitimate brothers, pass into the legal power of their next-of-kin; and indeed it has frequently happened that husbands have been thus deprived of their own wives."
+      ],
+      "reasoning": "In the case of an 'epikleros' (a daughter left as the sole heir), the closest male relative could legally claim her in marriage to keep the estate in the family, even if she was already married to someone else at the time of her father's death.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific legal scenario (dying without sons) affecting a subset of families and their closest male relatives.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Daughter's right to estate",
+      "rule_category": "Succession and marriage",
+      "group": "Legitimate daughters",
+      "group_category": "Gender",
+      "resource": "Right to inherit with legatee",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§69] [68] The law states explicitly that, in the absence of legitimate male issue, a man can dispose of his property as he pleases, but that, if he has daughters, the legatees must take them as well. Thus a man may bequeath and dispose of his property with his daughters, but he may not either adopt a son or leave any of his possessions to anyone without also disposing of his legitimate daughters."
+      ],
+      "reasoning": "Athenian law ensured that if a man died without male heirs, his daughters (epikleroi) were attached to the estate. A legatee or adopted son could not take the property without also marrying the daughter, ensuring the lineage and property remained connected.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of women (orphaned daughters without brothers) within the citizen class.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Next-of-kin marriage right",
+      "rule_category": "Marriage access",
+      "group": "Next-of-kin",
+      "group_category": "Lineage",
+      "resource": "Right to claim heiress in marriage",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§68] [67] That the woman could be legally claimed by her next-of-kin, if she was really a legitimate daughter of the deceased, appears most evidently from the laws.",
+        "[§75] [74] For it is clear that, if he left her sole heiress, he would have been fully aware that one of two things was likely to happen to her: either one of us, the nearest relatives, would obtain an adjudication and take her as wife; or, if none of us wished to take her, one of these uncles who just now gave evidence, or, failing them, one of the other relatives, would, on the same principle, obtain an adjudication of her together with the whole estate and take her as his wife."
+      ],
+      "reasoning": "The law permitted the closest male relatives (anchisteis) to claim an heiress and her estate through a legal process (epidikasia) to keep the property within the family line.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to male relatives in specific inheritance scenarios.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Dowry recovery right",
+      "rule_category": "Economic protection",
+      "group": "Divorced or widowed women",
+      "group_category": "Gender",
+      "resource": "Right to recover dowry",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§79] [78] Next, from whom did Nicodemus recover her dowry, when the man had died to whom he says that he gave her in marriage? Or if, though he demanded it back, he was unable to recover in the course of twenty years, what action did he bring for alimony or for her dowry on behalf of this married woman against the tenant of Pyrrhus's estate?"
+      ],
+      "reasoning": "Upon the death of a husband or dissolution of marriage, the dowry was legally expected to be returned to the woman's family or used for her maintenance (alimony). The absence of such a claim is used here to argue no legal marriage existed.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all citizen women who entered marriage with a dowry.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Illegitimate daughter exclusion",
+      "rule_category": "Denial of inheritance",
+      "group": "Illegitimate children",
+      "group_category": "Lineage",
+      "resource": "Right to inherit estate",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§76] [75] By presenting, then, his daughter to the members of his ward without adopting my brother as his son, he might have obtained this result; whereas, by adopting my brother without introducing his daughter to the members of his ward, he made her illegitimate, as it was right that he should, and therefore incapable of succession, and left my brother heir to his estate."
+      ],
+      "reasoning": "Children not formally introduced to the father's phratry (ward) or born outside of a legal marriage were considered illegitimate (nothoi) and were legally barred from inheriting the paternal estate.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any child whose legitimacy is not legally established.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Wealthy citizen civic duties",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to fund religious festivals",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§81] [80] Again in his deme, since he possessed the fortune of three talents, he would have been obliged on behalf of this wedded wife of his to entertain the wives of his fellow-demesmen at the Thesmophoria, and to perform for her the other offices which the possession of such a fortune entails."
+      ],
+      "reasoning": "Wealthy citizens (those with a certain level of property, here 'three talents') were legally or customarily required to perform 'liturgies' or public services, such as hosting feasts for the wives of fellow demesmen during religious festivals.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule targets a specific wealth bracket (three talents) within the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Legal divorce notification",
+      "rule_category": "Legal procedure",
+      "group": "Married women",
+      "group_category": "Gender",
+      "resource": "Right to legally leave domicile",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§79] [78] Secondly, before what archon did this married woman give notice of having quitted her husband or his domicile?"
+      ],
+      "reasoning": "A wife wishing to divorce her husband and leave his house was required by law to file a formal notice (apoleipsis) before the Archon. This was a concrete legal mechanism for documenting the end of a marriage.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to married citizen women seeking legal separation.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0017.tlg003.perseus-eng2",
+  "_input_tokens": 21625,
+  "_output_tokens": 4854,
+  "_model": "google/gemini-3-flash-preview"
+}

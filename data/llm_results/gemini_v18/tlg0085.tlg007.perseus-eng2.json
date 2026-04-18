@@ -1,0 +1,483 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Lot-based temple entry",
+      "rule_category": "Access to religious space",
+      "group": "Greeks",
+      "group_category": "Origin",
+      "resource": "Right to enter the Delphic temple in order",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] And if there are any from among the Hellenes here, let them enter, in turn, by lot, as is the custom."
+      ],
+      "reasoning": "The Priestess describes a formal procedure for Greek pilgrims (Hellenes) to enter the inner shrine, indicating that entry is a regulated right determined by lot and customary order.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a large specific category of people (Greek visitors) but is restricted to a specific geographic and religious site.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Suppliant sanctuary protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Protection from seizure at sacred sites",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] You, Hermes, my blood brother, born of the same father, watch over him; true to your name, be his guide, shepherding this suppliant of mine—truly Zeus respects this right of outlaws—as he is sped on towards mortals with the fortune of a good escort."
+      ],
+      "reasoning": "The text refers to the 'right of outlaws' (suppliants) to receive divine/legal protection when seeking sanctuary, specifically mentioning that even those who have committed crimes can seek a trial rather than immediate extrajudicial vengeance.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to any individual who becomes an outlaw/suppliant, a condition that any citizen might find themselves in under specific legal circumstances.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Right to trial",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to legal adjudication of crimes",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] And there, with judges of your case and speeches of persuasive charm, we shall find means to release you completely from your labors."
+      ],
+      "reasoning": "Apollo promises Orestes that he will face judges and present a defense (speeches) in Pallas' city, indicating a transition from blood-feud to a formal legal system where the accused has a right to a trial.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a fundamental legal right for defendants in the Athenian system being described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Family blood-feud obligation",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Freedom from ancestral vengeance cycles",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§2] A suppliant, he will acquire another avenger from his family.",
+        "[§8] A suppliant, he will acquire another avenger from his family."
+      ],
+      "reasoning": "The Chorus articulates the principle of the 'avenger from his family,' showing that members of a kin group are bound by custom to continue cycles of vengeance, thereby losing the freedom to remain uninvolved in family crimes.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to male kin within families where a homicide has occurred.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Protection from divine wrath",
+      "rule_category": "Access to judicial protection",
+      "group": "Able-bodied",
+      "group_category": "Health",
+      "resource": "Protection from supernatural harm",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] No wrath from us will come stealthily to the one who holds out clean hands, and he will go through life unharmed; but whoever sins, as this man has, and hides his blood-stained hands, as avengers of bloodshed we appear against him to the end, presenting ourselves as upright witnesses for the dead."
+      ],
+      "reasoning": "The text establishes a clear rule of immunity for those who are 'clean' (not polluted by homicide). It guarantees that they will live 'unharmed' by the Furies, who act as the enforcers of blood-guilt laws in Athenian society.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule of safety applying to the vast majority of the population who have not committed murder.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Purification of fugitives",
+      "rule_category": "Legal standing restoration",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to civil association",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] It would be a long story to tell from the beginning, how many people I have visited, with no harm from association with me. Time purges all things, aging with them. So now with a pure mouth I piously invoke Athena, lady of this land, to come to my aid."
+      ],
+      "reasoning": "Orestes describes the customary process where a polluted individual (an exile/stranger) can be purified through rituals and time, thereby regaining the right to interact with others without bringing 'harm from association.'",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those seeking asylum or purification, a distinct but significant subgroup in the Greek legal-religious context.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Asylum and trial",
+      "rule_category": "Access to judicial protection",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Right to a formal trial",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] I now approach your house and image, goddess. Here I will keep watch and await the result of my trial."
+      ],
+      "reasoning": "The text illustrates the right of an accused person to seek sanctuary at a temple and demand a formal trial ('await the result of my trial') rather than being subject to immediate extrajudicial vengeance.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to individuals accused of capital crimes who have reached a sanctuary.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Vengeance for kin murder",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Freedom from pursuit",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] For this is the office that relentless Fate spun for us to hold securely: when rash murders of kin come upon mortals, we pursue them until they go under the earth; and after death, they have no great freedom."
+      ],
+      "reasoning": "The Chorus (Furies) describes the social and religious rule that targets individuals who kill their kin (like Orestes, a son). They are systematically stripped of their freedom of movement and safety, being pursued even into the afterlife.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule targets a specific, extreme behavioral subset (matricides/kin-killers) within a lineage structure.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Corporal punishment variety",
+      "rule_category": "Denial of body integrity",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] no, your place is where the punishments are beheading, gouging out of eyes, cutting of throats, and where young men’s virility is ruined by destruction of seed; where there is mutilation and stoning, and where those who are impaled beneath their spine moan long and piteously."
+      ],
+      "reasoning": "Apollo describes the specific types of legal/punitive bodily harm practiced in human societies (as opposed to his divine sanctuary). He explicitly mentions punishments targeting male reproductive capacity ('destruction of seed').",
+      "specificity": 5,
+      "specificity_reasoning": "These are criminal punishments that apply to anyone convicted of specific high crimes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Polluted killer speech ban",
+      "rule_category": "Restriction of legal standing",
+      "group": "Homicides",
+      "group_category": "Health",
+      "resource": "Right to speak in public or legal contexts",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§26] It is the law for one who is defiled by shedding blood to be barred from speech until he is sprinkled with the blood of a new-born victim by a man who can purify from murder."
+      ],
+      "reasoning": "Orestes explicitly cites a law that prohibits a person who has committed murder and has not yet been ritually purified from speaking. This represents a concrete legal and social disability based on 'pollution' status.",
+      "specificity": 4,
+      "specificity_reasoning": "While it applies to any murderer (a behavioral act), the resulting state of 'pollution' acts as a temporary near-immutable status that triggers specific legal exclusions until a ritual change occurs.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Purified homicide legal defense",
+      "rule_category": "Access to judicial protection",
+      "group": "Purified homicides",
+      "group_category": "Health",
+      "resource": "Right to offer a legal defense",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] I am not a suppliant in need of purification, nor did I sit at your image with pollution on my hands. ... After you name your country and family and fortunes, then defend yourself against this charge; if indeed, relying on the justice of your case, you sit clinging to my image near my hearth, as a sacred suppliant."
+      ],
+      "reasoning": "Once the state of pollution is removed via ritual, the individual regains the right to speak and offer a formal defense in a trial setting, as Athena invites Orestes to do only after his status as 'pure' is established.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of legal actors who have undergone rite-based transitions to regain standing.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Citizen jury selection",
+      "rule_category": "Access to political power",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to serve as judges in homicide trials",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] But since this matter has fallen here, I will select judges of homicide bound by oath, and I will establish this tribunal for all time. ... I will return when I have chosen the best of my citizens, for them to decide this matter truly, after they take an oath that they will pronounce no judgment contrary to justice."
+      ],
+      "reasoning": "Athena establishes the Areopagus (the world's first homicide court in the play's context) and explicitly limits the role of judges/jurors to 'citizens'. This identifies the exercise of judicial power as a resource reserved for those with citizen status.",
+      "specificity": 2,
+      "specificity_reasoning": "This defines a core right for a large segment of the population (citizens) in Athenian society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Parental honor requirement",
+      "rule_category": "Obligation of family duty",
+      "group": "Children",
+      "group_category": "Lineage",
+      "resource": "Right to social and legal standing via parental reverence",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] Therefore, let a man rightly put first in honor the reverence owed to his parents, and have regard for attentions paid to guests welcomed in his house."
+      ],
+      "reasoning": "The Chorus outlines the fundamental customary rules of the society, placing the 'reverence owed to parents' as a primary requirement for a 'just' life. This implies a systemic social obligation imposed on offspring.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule applies to all individuals within the society as everyone is a child of some parent.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Xenia guest protections",
+      "rule_category": "Grant of economic privilege",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Protection and hospitality as a guest",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] Therefore, let a man rightly put first in honor the reverence owed to his parents, and have regard for attentions paid to guests welcomed in his house."
+      ],
+      "reasoning": "The text identifies the 'attentions paid to guests' (Xenia) as a foundational pillar of justice alongside parental care. This creates a customary right for travelers/foreigners to receive resources (food, shelter, protection) when welcomed into a house.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to those in the role of 'guest', which usually refers to non-locals/foreigners.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial prosecution right",
+      "rule_category": "Access to judicial protection",
+      "group": "Accusers",
+      "group_category": "Citizenship",
+      "resource": "Right to open a legal case",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual acting as a prosecutor in the established Athenian legal system.",
+      "proof": [
+        "[§36] It is for you to speak—I am only bringing in the case; for the prosecutor at the beginning, speaking first, shall rightly inform us of the matter."
+      ],
+      "reasoning": "Athena outlines the procedural right of the prosecutor to initiate the trial and speak first to inform the jury, establishing the formal entry point into the legal system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Homicide court establishment",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to trial for bloodshed",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "specificity": 2,
+      "specificity_reasoning": "The rule establishes a permanent institution for the entire body of citizens (the people of Aegeus).",
+      "proof": [
+        "[§36] Hear now my ordinance, people of Attica, as you judge the first trial for bloodshed. In the future, even as now, this court of judges will always exist for the people of Aegeus."
+      ],
+      "reasoning": "Athena formally institutes the Areopagus as a permanent court for homicide, granting the citizenry a structured legal mechanism for resolving blood feuds.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Paternal lineage priority",
+      "rule_category": "Inheritance and status",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Legal priority in kinship and inheritance",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general principle of Greek patriarchal sociology regarding the definition of a 'parent'.",
+      "proof": [
+        "[§36] The mother of what is called her child is not the parent, but the nurse of the newly-sown embryo. The one who mounts is the parent, whereas she, as a stranger for a stranger, preserves the young plant, if the god does not harm it."
+      ],
+      "reasoning": "Apollo's argument, which the court accepts by acquitting Orestes, defines the father as the sole true parent (the 'sower'), relegating the mother to a 'nurse,' thereby legally prioritizing paternal rights and lineage over maternal ones.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Tie-vote acquittal",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Citizenship",
+      "resource": "Right to acquittal on equal votes",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "specificity": 4,
+      "specificity_reasoning": "This is a specific procedural rule applied to defendants during the final stage of a criminal trial.",
+      "proof": [
+        "[§36] Orestes wins, even if the vote comes out equal.",
+        "[§36] This man is acquitted on the charge of murder, for the numbers of the casts are equal."
+      ],
+      "reasoning": "The text establishes the 'Athena's vote' principle where an equal division of the jury's ballots results in the acquittal of the accused.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Patrilineal property restoration",
+      "rule_category": "Grant of economic privilege",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to inherit father's heritage",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "specificity": 5,
+      "specificity_reasoning": "While specifically applied to Orestes, it reflects the broader societal rule of restoring ancestral property to the male heir after legal clearance.",
+      "proof": [
+        "[§36] The man is an Argive once again, and lives in his father’s heritage, by the grace of Pallas and of Loxias and of that third god, the one who accomplishes everything, the savior"
+      ],
+      "reasoning": "Upon his acquittal, Orestes is legally restored to his status and his father’s estate, confirming the rule that a cleared heir retains the right to the ancestral property.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Male life valuation",
+      "rule_category": "Protection from bodily harm",
+      "group": "Husbands",
+      "group_category": "Gender",
+      "resource": "Higher legal protection of life",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the category of married men/heads of households within the legal assessment of murder.",
+      "proof": [
+        "[§36] Therefore, I will not award greater honor to the death of a woman who killed her husband, the master of the house."
+      ],
+      "reasoning": "Athena explicitly states that the life of the husband (the master of the house) carries a superior legal weight or 'honor' compared to the wife's, which justifies Orestes' actions and results in his acquittal.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Ritual offering entitlement",
+      "rule_category": "Access to religious resources",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Offerings for marriage and children",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§39] And when you have the first-fruits of this great land forever, offerings on behalf of children and of marriage rites, you will praise my counsel."
+      ],
+      "reasoning": "Aeschylus describes the institution of cultic honors for the Eumenides in Athens, specifically noting that offerings on behalf of marriage and children (social institutions central to women's lives) are legally and customarily mandated as part of the city's religious life.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all women entering marriage or having children within the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Metis residence rights",
+      "rule_category": "Grant of residential status",
+      "group": "Resident aliens",
+      "group_category": "Citizenship",
+      "resource": "Right to share in the land",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] For it is possible for you to have a share of the land justly, with full honors.",
+        "[§42] Then stay in the land and you will gain other friends."
+      ],
+      "reasoning": "Athena offers the Furies a permanent place within the city's structure. In the context of 5th-century Athens, this mirrors the status of metics (resident aliens) who, while not full citizens, are granted a 'share' of the land's protections and honors in exchange for residency and cooperation.",
+      "specificity": 4,
+      "specificity_reasoning": "Metics were a specific, large legal class in Athens distinct from full citizens and slaves.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Right to marriage",
+      "rule_category": "Access to family formation",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to marry/Husband",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] I forbid deadly and untimely fate for men; grant to lovely maidens life with a husband, you that have the rightful power"
+      ],
+      "reasoning": "The text identifies marriage (life with a husband) as a standard entitlement or 'rightful power' for young women within the social order, which the deities are invoked to ensure.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to unmarried young women (maidens).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Internal violence prohibition",
+      "rule_category": "Restriction of internal conflict",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from civil bloodshed",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] So do not cast on my realm keen incentives to bloodshed, harmful to young hearts... and do not, as if taking the heart out of fighting cocks, plant in my people the spirit of tribal war and boldness against each other.",
+        "[§43] I pray that discord, greedy for evil, may never clamor in this city, and may the dust not drink the black blood of its people"
+      ],
+      "reasoning": "Athena establishes a rule of civic peace, explicitly banning internal 'tribal war' and civil bloodshed, directing violence only toward foreign enemies.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the entire internal citizen body of the polis.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Hereditary liability",
+      "rule_category": "Denial of legal immunity",
+      "group": "Descendants",
+      "group_category": "Lineage",
+      "resource": "Protection from ancestral guilt",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§43] For the sins of his fathers drag him before them; destruction, in silence and hateful wrath, levels him to the dust, for all his loud boasting."
+      ],
+      "reasoning": "The text describes a customary belief/rule where individuals are held accountable (dragged before the Furies) for the crimes committed by their ancestors, indicating a lack of individual legal insulation from lineage-based guilt.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those whose ancestors committed 'sins' or crimes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Maiden marriage entitlement",
+      "rule_category": "Access to marriage",
+      "group": "Maidens",
+      "group_category": "Age",
+      "resource": "Right to marriage and a husband",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§48] I forbid deadly and untimely fate for men; grant to lovely maidens life with a husband, you that have the rightful power; you, divine Fates, our sisters by one mother, divinities who distribute justly, who have a share in every home, and whose righteous visitations press heavily at every season, most honored everywhere among the gods!"
+      ],
+      "reasoning": "The text explicitly links the 'rightful power' of the Fates and the Erinyes to granting young unmarried women (maidens) the resource of a husband and a shared home, framing marriage as a protected and expected life stage for this group.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific demographic subset (young unmarried women) within the broader female population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Citizen protection from execution",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from extrajudicial murder and blood-feud",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] I pray that discord, greedy for evil, may never clamor in this city, and may the dust not drink the black blood of its people and through passion cause ruinous murder for vengeance to the destruction of the state."
+      ],
+      "reasoning": "In the context of the play establishing the Areopagus (the court), Athena and the Chorus formalize the end of blood-vengeance. The rule establishes that the 'blood of its people' (citizens) should not be shed through private 'murder for vengeance,' shifting the resource of bodily protection to the state's legal framework.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the entire body of citizens within the city-state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious ceremonial participation",
+      "rule_category": "Grant of religious access",
+      "group": "Matrons and elderly women",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to participate in public religious processions",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§55] For the eye of the whole land of Theseus will come forth, a glorious troop of children, matrons and a band of old women. Dress them honorably in robes dyed scarlet, and let the torches’ light move on, so that this kindly company of visitors to our land may show itself afterwards in blessings that bring prosperity to men."
+      ],
+      "reasoning": "The text describes a formal escort for the newly settled deities, specifically naming matrons and old women as the authorized participants in the ritual procession, granting them a visible role in the city's cultic life.",
+      "specificity": 5,
+      "specificity_reasoning": "It specifies distinct age and gender cohorts (children, matrons, old women) for a particular civic-religious event.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Cultic escort duty",
+      "rule_category": "Access to religious office",
+      "group": "Female temple attendants",
+      "group_category": [
+        "Occupation",
+        "Gender"
+      ],
+      "resource": "Right to guard the cult image and lead processions",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§55] I approve the words of your invocation, and will escort you by the light of gleaming torches to the places below and beneath the earth, with the attendant women who guard my image in duty bound."
+      ],
+      "reasoning": "Athena identifies a specific group of women whose 'duty' and privilege is to guard the sacred image and serve as the primary ritual escorts, a concrete religious role.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies only to a small, specific group of women serving as temple functionaries.",
+      "confidence": 10
+    }
+  ],
+  "_n_chunks": 6,
+  "_file_id": "tlg0085.tlg007.perseus-eng2",
+  "_input_tokens": 41645,
+  "_output_tokens": 7043,
+  "_model": "google/gemini-3-flash-preview"
+}

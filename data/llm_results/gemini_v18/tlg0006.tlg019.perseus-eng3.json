@@ -1,0 +1,443 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Slave agricultural labor obligation",
+      "rule_category": "Obligation of labor",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom from forced agricultural labor",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] ...others shall be fast bound with cords and learn to till our Phrygian fields."
+      ],
+      "reasoning": "Hector describes the fate of captured enemies who are not killed as being bound and forced into agricultural slavery. This identifies manual field labor as a specific burden and resource loss associated with slave status in Trojan/Greek society.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the general class of enslaved prisoners of war, a common social category in this era.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Noble marriage restriction",
+      "rule_category": "Marriage restriction by status",
+      "group": "Commoners",
+      "group_category": "Lineage",
+      "resource": "Right to marry into the royal family",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] Dolon: No, I do not wish to marry among those beyond my station."
+      ],
+      "reasoning": "Dolon, despite his wealth and service, explicitly declines a marriage to a princess (Priam's daughter) because it is 'beyond his station.' This reflects a customary rule or social norm that discourages or prevents marriage across strictly defined lineage/class lines.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule governs the interactions between the narrow elite (royals) and the broader class of wealthy commoners.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elite military spoils priority",
+      "rule_category": "Grant of economic privilege",
+      "group": "Commanders",
+      "group_category": "Occupation",
+      "resource": "Right to specific high-value war spoils",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] Hector: I will give it to you; ask anything except the captains of the fleet. ... Hector: Ah! but your desires clash with mine about those horses; for they are immortal and born from immortals"
+      ],
+      "reasoning": "Hector initially attempts to reserve the highest-value spoils (captured captains and the immortal horses of Achilles) for the top-tier leadership/sovereignty. While he eventually yields the horses to Dolon as a specific contractual reward, the text establishes a norm where certain 'grand' resources are typically reserved for the highest-ranking nobles.",
+      "specificity": 6,
+      "specificity_reasoning": "This concerns the distribution of unique, high-value military assets among the leadership class.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Wealthy exemption from labor",
+      "rule_category": "Class-based labor exemption",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Exemption from manual/agricultural labor",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] Dolon: Hands that are well brought up are worthless at farming. ... Hector: I told you before, my house is stored with gold."
+      ],
+      "reasoning": "The dialogue indicates that those from wealthy households ('well brought up') are socially and practically exempt from farming or manual labor. Dolon rejects the gift of a captive captain as a farmhand because his own social standing and wealth preclude the need or fitness for agricultural management.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the leisure class/wealthy elite within the society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Royal command authority",
+      "rule_category": "Access to political power",
+      "group": "Kings",
+      "group_category": "Lineage",
+      "resource": "Right to command and mobilize the army",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] Hector: I will not stay, but will this very night engage the Argive army there where their ships are hauled up. ... Aeneas: Send out the spy at once; there’s safety in your counsels now."
+      ],
+      "reasoning": "As the supreme military leader/prince, Hector possesses the concrete right to order the movement of all allied troops and determine the timing of engagement, a power acknowledged by other high-ranking nobles like Aeneas.",
+      "specificity": 9,
+      "specificity_reasoning": "This power is concentrated in a very small number of individuals at the top of the political hierarchy.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Class-based marital restriction",
+      "rule_category": "Marriage restriction by status",
+      "group": "Commoners",
+      "group_category": "Wealth",
+      "resource": "Right to marry into the royal family",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] Hector: Well then, marry a daughter of Priam and become my brother-in-law. Dolon: No, I do not wish to marry among those beyond my station."
+      ],
+      "reasoning": "Dolon explicitly rejects a royal marriage proposal based on 'station,' indicating a customary social norm where marriage is restricted to one's own socio-economic or lineage class.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to the interface between the royal lineage and the rest of the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "War spoil selection right",
+      "rule_category": "Military service reward",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to choose specific war booty",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] Hector: Why then, you shall come and with your own hands choose out some spoil."
+      ],
+      "reasoning": "The commander grants a specific individual the right to personally select items from the captured spoils, implying this is a recognized form of material compensation for military risk.",
+      "specificity": 4,
+      "specificity_reasoning": "While offered to Dolon, it reflects the general military custom of distributing spoils to those who fight.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Restricted palace access",
+      "rule_category": "Social stratification",
+      "group": "Rural laborers",
+      "group_category": "Occupation",
+      "resource": "Freedom of movement to central political sites",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] Hector: Often the rustic mind is afflicted with dullness; so you have probably come to this ill-suited place to tell your master, in armor, about the sheep! Do you not know my palace or my father’s throne, where you should carry your tale when you have prospered with your flocks?"
+      ],
+      "reasoning": "Hector rebukes the herdsman for appearing at a military council, explicitly stating that a person of his status belongs at the palace or throne for mundane reports, implying that the herdsman's presence in a high-level military/political space is a breach of order.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule distinguishes between the 'rustic' population and the military/political elite.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Diplomatic hospitality obligation",
+      "rule_category": "Grant of economic privilege",
+      "group": "Allies",
+      "group_category": "Citizenship",
+      "resource": "Right to maintenance and guest-friendship",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] Hector: But let him, since he has arrived, come to our table not as an ally but as a guest; for the gratitude of Priam’s sons is forfeit in his case."
+      ],
+      "reasoning": "Even when Hector is personally displeased with the timing of an ally's arrival, he acknowledges the obligation to provide 'the table' (maintenance/food), showing a rule of hospitality for foreign dignitaries/allies.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to high-ranking foreign allies and guests of the state.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Hostage taking from conquered",
+      "rule_category": "War and conquest",
+      "group": "Conquered peoples",
+      "group_category": "Origin",
+      "resource": "Freedom from detention for family members",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] But as soon as I had conquered these and taken their children as hostages and appointed the yearly tribute they should pay my house, I have come, sailing across the sea’s mouth, and on foot traversing the other borders of your land"
+      ],
+      "reasoning": "Rhesus describes his conquest of the Scythians, noting that taking children as hostages was a standard part of securing the submission of a conquered territory. This shows that the vulnerable (children) of a defeated group lose their freedom of movement and security as a political guarantee.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to children of groups defeated in war, which was a common occurrence in ancient geopolitical conflicts.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Imposition of yearly tribute",
+      "rule_category": "Economic extraction",
+      "group": "Conquered peoples",
+      "group_category": "Origin",
+      "resource": "Retention of wealth and property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] But as soon as I had conquered these and taken their children as hostages and appointed the yearly tribute they should pay my house, I have come, sailing across the sea’s mouth, and on foot traversing the other borders of your land"
+      ],
+      "reasoning": "The text establishes that conquered subjects are legally/customarily bound to pay a 'yearly tribute' to their conqueror's house, representing a systematic loss of material resources based on origin/defeat status.",
+      "specificity": 5,
+      "specificity_reasoning": "Tribute was a standard mechanism of empire affecting entire ethnic or regional groups.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Subjugation of foreign populations",
+      "rule_category": "Enslavement of foreigners",
+      "group": "Thracian and Paeonian populations",
+      "group_category": "Origin",
+      "resource": "Freedom from enslavement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] Yet it was I with this arm that raised you from your paltry princedom to high lordship over Thrace, when I fell upon the Thracian chieftains face to face around Pangaeum in Paeonia’s land and broke their serried ranks, and gave their people up to you enslaved"
+      ],
+      "reasoning": "Hector explicitly mentions that after defeating the Thracian and Paeonian chieftains, he handed over the entire population to Rhesus as slaves. This demonstrates the rule that defeated foreign populations could be transformed into property for the victor.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule concerns large ethnic/origin groups defeated in battle.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Execution for temple desecration",
+      "rule_category": "Legal punishment",
+      "group": "Temple robbers",
+      "group_category": "Occupation",
+      "resource": "Protection from execution by impalement",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] If I can catch this fellow alive, who, as you say, sits in stealthy ambush and plots his mischief, I will impale him at the outlet of the gates and set him up for winged vultures to make their meal upon. This is the death he ought to die, pirate and temple-robber that he is."
+      ],
+      "reasoning": "Rhesus identifies 'temple-robbers' (hierosyloi) as a specific category of criminals whose actions warrant extreme corporal punishment (impaslement) and denial of burial. While 'temple-robber' is a behavior, it functioned as a distinct legal/moral category in Greek society.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies to those identified by the specific criminal status/occupation of temple-robbing.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Rotational military watch duty",
+      "rule_category": "Military obligation",
+      "group": "Soldiers/Allies",
+      "group_category": "Occupation",
+      "resource": "Right to uninterrupted sleep",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] Who was told off to the first watch? The son of Mygdon, whom they call Coroebus. Who after him? The Paeonian contingent roused the Cilicians, and the Mysians us. Is it not then high time we went and roused the Lycians for the fifth watch, as the lot decided?"
+      ],
+      "reasoning": "The military code requires soldiers by 'contingent' to perform night watch duties determined by lot. This is a concrete physical demand (loss of sleep/rest) mandated by military law/custom.",
+      "specificity": 6,
+      "specificity_reasoning": "While applying broadly to the army, it is specifically organized by ethnic contingents and rotating time slots.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military password protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Protection from immediate execution by friendly forces",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§25] Chorus: Will you not declare the password, before my sword finds its way to your heart? Odysseus: Halt! Be of good heart. [...] Chorus: What is the password, then? Odysseus: Phoebus. Chorus: Right! every man hold back his spear!"
+      ],
+      "reasoning": "In the Athenian military context portrayed here, the possession of a password (synthēma) is the concrete mechanism that distinguishes a 'friend' from a 'spy' or 'thief'. Holding the password grants the individual protection from being killed on sight by the sentinels.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule applies specifically to all members of an army while on active guard duty or moving through camp at night.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sentinel accountability for breaches",
+      "rule_category": "Punishment for negligence",
+      "group": "Sentinels",
+      "group_category": "Occupation",
+      "resource": "Protection from commander's reprimand or punishment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§26] Chorus: Whether it was really Odysseus or not, I am afraid; for Hector will blame us sentinels. What can he allege? He will suspect. What have we done? Why are you afraid? They got past us—"
+      ],
+      "reasoning": "The chorus of sentinels expresses a clear customary/legal fear of 'blame' (aitia) and suspicion from their general (Hector) because an enemy infiltrated their lines. This indicates that sentinels are held personally and collectively responsible for the security of the camp.",
+      "specificity": 6,
+      "specificity_reasoning": "It applies to a specific subset of soldiers assigned to guard duty.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Commander's right of assignment",
+      "rule_category": "Access to political power",
+      "group": "Military commanders",
+      "group_category": "Occupation",
+      "resource": "Right to assign quarters to allies",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§25] Athena: [...] outside the ranks Hector has given him quarters, till night gives place to day. [...] Paris: You persuade me, and I believe your words, and will go to guard my post, free of fear. Athena: Go, for it is my pleasure ever to watch your interests, that so I may see my allies prosperous."
+      ],
+      "reasoning": "The text shows Hector, as 'general,' has the authority to distribute resources (quarters/location) and assign duties (posts) to those under his command, including allied kings like Rhesus.",
+      "specificity": 9,
+      "specificity_reasoning": "This power is restricted to the highest level of military leadership.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military death honor",
+      "rule_category": "Access to social honor",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to dignity and honor for their house",
+      "resource_category": "Social status",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] to die with glory, if die one must, is bitterness enough I think to him who dies—how not?— though to the living it may add dignity and honor for their house."
+      ],
+      "reasoning": "The text establishes a customary rule where a soldier dying 'with glory' (in battle) translates into a concrete resource—dignity and honor—bestowed upon their surviving family/house.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies generally to the class of men serving as soldiers/warriors in this society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sentry negligence penalty",
+      "rule_category": "Capital punishment",
+      "group": "Sentries",
+      "group_category": "Occupation",
+      "resource": "Protection from execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] Now mark you this—by father Zeus I swear—either the scourge or the headsman’s axe awaits you for such conduct; or else consider Hector to be nothing, a mere coward."
+      ],
+      "reasoning": "Hector, as military commander, invokes a clear legal/military rule: guards who allow enemy spies to infiltrate the camp are subject to corporal punishment (the scourge) or capital punishment (the axe).",
+      "specificity": 5,
+      "specificity_reasoning": "This rule specifically targets those assigned to guard duty within the military structure.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Self-sacrifice for misconduct",
+      "rule_category": "Judicial self-punishment",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to life",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] Yet if hereafter you find that I in word or deed have done amiss, bury me alive beneath the earth; I ask no mercy."
+      ],
+      "reasoning": "The Chorus leader refers to a severe customary standard where a citizen/leader found to have committed a grave error in duty can be subjected to the extreme punishment of being buried alive.",
+      "specificity": 4,
+      "specificity_reasoning": "It reflects a standard for those in positions of public trust or watchfulness.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "State-provided medical care",
+      "rule_category": "Access to medical care",
+      "group": "Wounded allies",
+      "group_category": "Origin",
+      "resource": "Access to medical treatment and shelter",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] My house shall shelter you and cure you of your hurt.",
+        "[§29] Take him away; carry him to my palace and tend him carefully, that he may have no fault to find."
+      ],
+      "reasoning": "The commander Hector demonstrates a rule of diplomatic/military hospitality where wounded allies are entitled to medical care and shelter within the ruler's own palace.",
+      "specificity": 6,
+      "specificity_reasoning": "This is specific to wounded foreign allies of a high enough status (like the charioteer of a king).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public burial rights",
+      "rule_category": "Burial provision",
+      "group": "Fallen soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to burial along public roads",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] and tell them to give orders for the burial of the dead at the resting-place along the public road."
+      ],
+      "reasoning": "Hector issues a formal order for the burial of the fallen Thracians, indicating a societal rule that soldiers killed in service are granted a specific place of burial along the public way.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all soldiers who die in the conflict.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Heroic funerary honors",
+      "rule_category": "Economic privilege",
+      "group": "Allied kings",
+      "group_category": "Lineage",
+      "resource": "Right to grave goods and pyre offerings",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] And now I am ready to raise a tomb for him and burn at his pyre great store of fine raiment; for he came as a friend and in sorrow he is going away."
+      ],
+      "reasoning": "The text describes the customary requirement for a host to provide expensive grave goods (fine raiment) and a formal tomb for a fallen high-status ally.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to high-ranking allies or leaders who fall while supporting a city.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "State-funded medical care",
+      "rule_category": "Access to medical care",
+      "group": "Allies",
+      "group_category": "Origin",
+      "resource": "Right to medical treatment and shelter",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§30] My house shall shelter you and cure you of your hurt. [...] Take him away; carry him to my palace and tend him carefully, that he may have no fault to find."
+      ],
+      "reasoning": "Hector, as the political and military leader of Troy, asserts a customary obligation to provide medical care and housing within the royal palace for a wounded allied soldier (the charioteer), ensuring the state takes responsibility for his recovery.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to foreign allies wounded in service of the state, a distinct but significant subgroup during wartime.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public burial for allies",
+      "rule_category": "Grant of funerary honors",
+      "group": "Allies",
+      "group_category": "Origin",
+      "resource": "Right to public burial and grave goods",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§30] And you must go to those upon the walls, to Priam and his aged councillors, and tell them to give orders for the burial of the dead at the resting-place along the public road.",
+        "[§33] And now I am ready to raise a tomb for him and burn at his pyre great store of fine raiment; for he came as a friend and in sorrow he is going away."
+      ],
+      "reasoning": "The text establishes that the Trojan state, via the council of elders and the prince, is responsible for the burial of fallen allies along public roads and providing expensive grave goods (fine raiment).",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all allied soldiers who die in the conflict, which is a specific legal and social category in this context.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Elderly political consultancy",
+      "rule_category": "Access to political power",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to hold advisory office",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§30] And you must go to those upon the walls, to Priam and his aged councillors, and tell them to give orders for the burial of the dead at the resting-place along the public road."
+      ],
+      "reasoning": "The mention of 'aged councillors' (the Gerousia) who issue orders alongside the King (Priam) indicates a formal political structure where advanced age is a criterion for holding advisory and administrative power.",
+      "specificity": 3,
+      "specificity_reasoning": "While only a few individuals sit on the council, the rule defines the eligibility of a whole age-based class for high-level political participation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Self-incrimination trial waiver",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to trial before execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] Yet if hereafter you find that I in word or deed have done amiss, bury me alive beneath the earth; I ask no mercy."
+      ],
+      "reasoning": "The Chorus (representing Trojan citizens/guards) acknowledges a standard of absolute loyalty where a breach of duty 'in word or deed' can lead to immediate capital punishment (being buried alive) if the individual waives their right to mercy/defense.",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects a general standard of martial law or civic loyalty applicable to the body of citizens in a state of war.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 6,
+  "_file_id": "tlg0006.tlg019.perseus-eng3",
+  "_input_tokens": 43547,
+  "_output_tokens": 6504,
+  "_model": "google/gemini-3-flash-preview"
+}

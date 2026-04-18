@@ -1,0 +1,696 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Sacred ground residence prohibition",
+      "rule_category": "Exclusion from sacred spaces",
+      "group": "All humans",
+      "group_category": "Origin",
+      "resource": "Right to dwell on specific land",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Stranger: Ground inviolable, on which no one may dwell. The dread goddesses hold it, the daughters of Earth and Darkness."
+      ],
+      "reasoning": "The text identifies specific religious sites (the grove of the Eumenides) as 'inviolable' and explicitly states that no human is permitted to live there, regardless of status.",
+      "specificity": 2,
+      "specificity_reasoning": "The rule applies to every person in society regarding specific sacred geography.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Foreigner information access",
+      "rule_category": "Access to local knowledge",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to receive local information",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Oedipus: We have come to learn as foreigners from the townsmen, and to bring to completion whatever we hear.",
+        "[§1] Stranger: Tell me, and you will not be without honor from me. [...] All that I myself know, you will hear and learn."
+      ],
+      "reasoning": "The text describes a customary norm where local residents provide information and logistical guidance to foreign wanderers who inquire respectfully.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any traveler or non-local entering the territory.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sacred grove exclusion",
+      "rule_category": "Restriction of personal freedom",
+      "group": "All humans",
+      "group_category": "Origin",
+      "resource": "Freedom of movement in sacred groves",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Stranger: Now, before you question me at length, leave this seat. You occupy ground which is unholy to tread upon.",
+        "[§2] Chorus: A wanderer that old man must have been, a wanderer, not a dweller in the land; otherwise he never would have advanced into this untrodden grove of the maidens with whom none may strive."
+      ],
+      "reasoning": "Treading upon the specific grove of the Eumenides/Furies is described as a 'rash step' and 'unholy,' indicating a strict societal and religious rule against human entry or presence.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule is a general prohibition for the entire population regarding specific zones.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Removal of intruders",
+      "rule_category": "Access to judicial protection",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Protection from arbitrary removal",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Stranger: I dare not remove you without warrant from the city, until I report what I am doing.",
+        "[§1] Stranger: Stay here, where I found you, until I go and tell these things to the people of this district—not in the city. They will decide for you whether you should stay or go back."
+      ],
+      "reasoning": "The representative of the local community (the Stranger) indicates he lacks the individual authority to forcibly remove a suppliant without a collective decision or 'warrant from the city,' granting the foreigner a temporary right to remain until a formal decision is made.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to foreigners found in a state of religious or legal ambiguity.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public speech location",
+      "rule_category": "Restriction of political speech",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to speak in public space",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] Chorus: If you have anything to say in converse with us, leave forbidden ground, and speak where it is lawful for all; but, till then, refrain."
+      ],
+      "reasoning": "The Chorus enforces a rule that public communication and 'converse' can only take place in designated secular/lawful areas, barring speech while the individual is on 'forbidden' (sacred) ground.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule governs the interaction between locals and outsiders in the context of sacred/secular boundaries.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Criminal exile",
+      "rule_category": "Expulsion from territory",
+      "group": "Polluted persons",
+      "group_category": "Origin",
+      "resource": "Right to reside in the land",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§2] Chorus: Out with you! Go forth from the land! [...] Away from my land with all speed, that you may not fasten some heavier burden on my city!"
+      ],
+      "reasoning": "Upon discovering Oedipus's identity (a man who committed parricide and incest), the Chorus immediately revokes his right to stay, citing the 'burden' or religious pollution he brings to the city. This reflects the standard practice of exiling individuals considered religiously 'unclean.'",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a subset of people who have committed specific 'unintended deeds' or crimes leading to pollution.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Exile of polluted lineage",
+      "rule_category": "Exclusion from territory",
+      "group": "Descendants of cursed lineages",
+      "group_category": "Lineage",
+      "resource": "Right to reside in the city-state",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] Chorus: Do you know of a son of Laius? Chorus: And the race of the Labdacidae? Chorus: And the pitiful Oedipus? Chorus: You are he? Chorus: Out with you! Go forth from the land! ... Away from my land with all speed, that you may not fasten some heavier burden on my city!"
+      ],
+      "reasoning": "The Chorus, representing the Athenian citizens, immediately revokes their welcome and orders Oedipus's expulsion upon learning he belongs to the lineage of Laius/Labdacidae. This reflects the real Athenian practice regarding 'pollution' (miasma), where individuals from cursed families or those associated with ancestral crimes were denied the right of residence to protect the city from divine 'burdens' or infectious misfortune.",
+      "specificity": 8,
+      "specificity_reasoning": "While the rule regarding pollution is a general religious/civic principle, it specifically targets individuals identified as belonging to particular 'cursed' noble lineages, a small subset of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sanctuary revocation for deceit",
+      "rule_category": "Denial of legal protection",
+      "group": "Supplicants",
+      "group_category": "Origin",
+      "resource": "Protection from arbitrary expulsion",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] Chorus: No man is visited by the punishment of fate if he requites deeds which were first done to himself. Deceit on the one part matches deceits on the other, and gives pain instead of pleasure for reward."
+      ],
+      "reasoning": "The Chorus justifies breaking their promise of sanctuary by claiming that the stranger's concealment of his identity (deceit) nullifies their obligation to protect him. In Greek custom, the right of a supplicant to protection was a concrete legal and religious entitlement, which is here being actively withdrawn.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any stranger or non-citizen seeking the status of a protected supplicant within the community.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Asylum for the outraged",
+      "rule_category": "Access to judicial protection",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Protection from persecution through sanctuary",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] Oedipus: Athens, as men say, is god-fearing beyond all, and alone has the power to shelter the outraged stranger, and alone the power to help him?"
+      ],
+      "reasoning": "Oedipus invokes a known societal norm of Athens where the city-state provides formal 'shelter' and 'help' to foreign individuals who have been unjustly treated, establishing a right to asylum.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any 'stranger' (non-citizen) seeking religious/political asylum, which was a specific but recognized category of person in Greek law.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gendered labor division",
+      "rule_category": "Obligation of public duty",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to remain in the domestic sphere",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] Oedipus: For there the men sit weaving in the house, but the wives go forth to win the daily bread. And in your case, my daughters, those to whom these toils belonged keep the house at home like maidens, while you two, in their place, bear your poor father’s woes."
+      ],
+      "reasoning": "Oedipus contrasts Egyptian customs with Greek ones (by criticizing his sons). In the Greek context he describes, the expectation is that men 'go forth' for labor and provision, while the 'daily bread' and external toils are not the proper domain of women or those remaining at home.",
+      "specificity": 2,
+      "specificity_reasoning": "These are general gender roles affecting the entire population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Inheritance of the throne",
+      "rule_category": "Access to political succession",
+      "group": "Royal heirs",
+      "group_category": "Lineage",
+      "resource": "Right to inherit the throne",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] Ismene: And the younger son has stripped the elder, Polyneices, of the throne, and has driven him from his fatherland."
+      ],
+      "reasoning": "The text describes the struggle between sons for the throne as a right based on lineage and birth order (noting the younger stripping the elder), confirming that the resource of the 'throne' is tied to specific bloodlines.",
+      "specificity": 9,
+      "specificity_reasoning": "Only pertains to a very small number of individuals within the royal lineage.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Male custodial duty",
+      "rule_category": "Obligation of family duty",
+      "group": "Adult sons",
+      "group_category": "Age",
+      "resource": "Right to receive support from children",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] Oedipus: And my sons, when they had the strength to bring help—sons to their own father—they would not do it. For lack of one little word from them, I was left to wander, an outcast and a beggar forever."
+      ],
+      "reasoning": "Oedipus identifies a rule of 'help' or maintenance (gerotrophia) that sons owe to their fathers. Their failure to provide it is treated as a violation of a fundamental social and legal expectation.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to all sons with living parents.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious ritual substitution",
+      "rule_category": "Access to religious ritual",
+      "group": "The disabled",
+      "group_category": "Health",
+      "resource": "Right to perform religious atonement via proxy",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] Oedipus: I cannot make the trip; for I am disabled by lack of strength and lack of sight, twin evils. But let one of you two go and do these things. For I think that one soul suffices to pay this debt for ten thousand, if it comes with good will."
+      ],
+      "reasoning": "The text establishes that when a person is physically unable to perform necessary religious rites (atonement), they have the right to send a proxy to perform the actions on their behalf, and the spiritual 'debt' is still considered paid.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to those with physical impairments preventing ritual participation.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Kin-blood burial restriction",
+      "rule_category": "Denial of property rights",
+      "group": "Homicides (related blood)",
+      "group_category": "Lineage",
+      "resource": "Right to be buried in ancestral land",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] Ismene: No, the guilt of related blood forbids you, father. Oedipus: Then never will they become my masters."
+      ],
+      "reasoning": "Ismene explains that Oedipus cannot be buried within the borders of Thebes because he has the 'guilt of related blood' (having killed his father). This is a legal/religious rule excluding specific kin-slayers from burial in their native soil.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies only to a very specific set of people who have committed parricide or similar crimes.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Involuntary crime legal immunity",
+      "rule_category": "Access to judicial protection",
+      "group": "Unintentional offenders",
+      "group_category": "Legal status",
+      "resource": "Protection from legal guilt for unintended acts",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] I have suffered the greatest misery, strangers—suffered it through unintended deeds—may the god know it! No part was of my own choice.",
+        "[§13] Pure before the law, without knowledge of my act, I have come to this!"
+      ],
+      "reasoning": "Oedipus argues that because his crimes (patricide and incest) were committed in ignorance and were unintended, he remains 'pure before the law.' This reflects a legal distinction in Athenian thought regarding the 'mens rea' or intent behind an action as a basis for legal standing.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual facing legal or religious pollution for crimes committed without intent, a specific but significant legal category.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exile's right to asylum",
+      "rule_category": "Grant of protection",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Right to sanctuary and deliverance",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] Never, then, would I turn aside from a stranger, such as you are now, or refuse to help in his deliverance. For I know well that I am a man, and that my portion of tomorrow is no greater than yours."
+      ],
+      "reasoning": "Theseus establishes a rule of reciprocal humanitarian aid for exiles, based on his own experience as an exile. He explicitly states he will not refuse to help a stranger in need of deliverance.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad category of political or social exiles seeking refuge in a foreign city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Suppliant's claim to citizenship",
+      "rule_category": "Access to citizenship",
+      "group": "Suppliants",
+      "group_category": "Citizenship",
+      "resource": "Right to reside as a citizen",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] In reverence for these claims, I will never spurn his favor, and I will establish a dwelling for him as a citizen in the land."
+      ],
+      "reasoning": "Theseus grants Oedipus the status of a resident citizen because Oedipus has come as a religious suppliant and offered a benefit to the city. This shows that religious and diplomatic supplication could lead to the formal granting of civic rights.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the specific category of foreigners who undergo the formal process of supplication to a state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Spear-friend hospitality rights",
+      "rule_category": "Access to social resources",
+      "group": "Foreign allies",
+      "group_category": "Origin",
+      "resource": "Right to available hearth and hospitality",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] To whom, first, the hearth of a spear-friend is always available on our side, by reciprocal right"
+      ],
+      "reasoning": "The text mentions the 'reciprocal right' of the 'spear-friend' (xenia/hospitality based on military or ancestral alliance), which guarantees a foreigner a place at the host's hearth.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to individuals or groups who have established specific hereditary or military bonds of hospitality with a host city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Aged olive tree protection",
+      "rule_category": "Environmental protection",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Prohibition of harming sacred olive plants",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] Youth cannot harm it by the ravages of his hand, nor can any who lives with old age."
+      ],
+      "reasoning": "The text describes the olive tree of Athens as 'unconquered' and states that neither the young nor the old are permitted to destroy it. While expressed poetically, this reflects actual Athenian laws regarding the protection of sacred olive trees (moriai).",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general prohibition applying to all citizens regardless of their age group.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Kinship-based mourning priority",
+      "rule_category": "Grant of social privilege",
+      "group": "Next of kin",
+      "group_category": "Lineage",
+      "resource": "Right to lead public mourning for relatives",
+      "resource_category": "Social status",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] I am not one man’s envoy, but have a mandate from all our people; since it belonged to me, by family, beyond all other Thebans to mourn his woes."
+      ],
+      "reasoning": "Creon asserts that his biological relationship to Oedipus gives him a legal and customary priority over all other citizens to manage the affairs and mourning of his kinsman.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the specific subset of society who are the closest living relatives of a deceased or distressed person.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Seizure of female dependents",
+      "rule_category": "Denial of property rights",
+      "group": "Unmarried women",
+      "group_category": "Gender",
+      "resource": "Protection from abduction by kin",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] Justly. ... I take my own. He lays his hand on Antigone.",
+        "[§20] One of your two daughters I have myself just seized and sent away. The other I will drag off immediately."
+      ],
+      "reasoning": "Creon justifies the forced removal of Antigone and Ismene by claiming them as 'his own' (property/dependents), suggesting that male heads of family (kyrios) had the right to seize female relatives regardless of their current residence.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to women who are deemed 'unclaimed' or whose guardianship is contested by elder male kin.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Polluted person exclusion",
+      "rule_category": "Exclusion from citizenship",
+      "group": "Individuals with blood-guilt",
+      "group_category": "Health",
+      "resource": "Right to reside within city limits",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] And I knew that this people would not receive a parricide and a polluted man, a man whose unholy marriage—a marriage with children—had been found out. Such wisdom, I knew, was immemorial on the Areopagus, which does not allow such wanderers to dwell within this city."
+      ],
+      "reasoning": "Creon cites the council of the Areopagus as a legal mechanism that bans 'polluted' individuals (specifically those guilty of parricide or incest) from dwelling within the city of Athens.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies only to a very specific set of legal/religious criminals (parricides and those with religious pollution).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Diplomatic immunity for foreigners",
+      "rule_category": "Grant of legal protection",
+      "group": "Foreign visitors",
+      "group_category": "Origin",
+      "resource": "Protection from abduction without local consent",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] If my foot were upon your land, never would I drag off or lead away someone without permission from the ruler of the land, whoever he might be—no, even if my claim were the most just of all. I would know how a stranger ought to live among citizens."
+      ],
+      "reasoning": "Theseus outlines a rule of international conduct where a foreigner (stranger) is legally prohibited from seizing people or property in a host city without the express permission of that city's sovereign, even if the foreigner has a 'just claim'.",
+      "specificity": 2,
+      "specificity_reasoning": "This represents a general rule of conduct for any non-citizen visiting a foreign territory.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Suppliant protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Legal status",
+      "resource": "Protection from forced removal",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] ...nor would she praise you, if she learned that you are despoiling me, and despoiling the gods, when by force you drive off their unfortunate suppliants."
+      ],
+      "reasoning": "The text establishes that individuals who have claimed the status of 'suppliant' (seeking religious and civic asylum) are legally protected from being removed by force, as doing so is seen as despoiling both the state and the gods.",
+      "specificity": 5,
+      "specificity_reasoning": "Suppliant status is a specific legal/religious category one must actively enter.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Self-defense against unprovoked violence",
+      "rule_category": "Access to judicial protection",
+      "group": "Victims of violence",
+      "group_category": "Legal status",
+      "resource": "Right to immediate violent retaliation",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] If, here and now, someone should come up and try to murder you—you, the just one—would you ask if the murderer was your father, or would you revenge yourself on him straightaway? I think that if your life is dear to you, you would requite the criminal, and not look around for a justification."
+      ],
+      "reasoning": "Oedipus articulates a social and legal norm that an individual has the right to immediately defend their life and retaliate against an attacker without being held liable for the identity of the attacker (e.g., if it were a parent).",
+      "specificity": 1,
+      "specificity_reasoning": "This is a universal rule applied to any person facing a threat to their life.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Eleusinian ritual secrecy",
+      "rule_category": "Religious exclusion",
+      "group": "Mortals",
+      "group_category": "Origin",
+      "resource": "Right to speak of sacred rites",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] [...] by that torch-lit beach where the Great Goddesses maintain awful rites for mortals on whose lips the ministering Eumolpidae have laid the golden seal of silence."
+      ],
+      "reasoning": "The text refers to the Eleusinian Mysteries (the rites of the Great Goddesses) where the Eumolpidae (the hereditary priestly family) enforce a 'seal of silence' on initiates, legally and religiously barring them from disclosing the rituals.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to many initiates, it is a specific religious sub-group within the broader mortal population subject to a specific cultic law.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Suppliant right of audience",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Origin",
+      "resource": "Right to confer with target of plea",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] They say a man—not from your city, yet of your race—has somehow thrown himself down, as a suppliant, at our altar of Poseidon [...] he asks to speak briefly with you, a thing of no great burden.",
+        "[§26] But consider whether his suppliant state constrains you; what if you have a duty of respect for the god?"
+      ],
+      "reasoning": "The text describes the customary/religious rule where a person who takes the status of a suppliant at an altar gains a recognized claim to a hearing and audience, even with an enemy, which the political leader (Theseus) views as a 'duty of respect'.",
+      "specificity": 5,
+      "specificity_reasoning": "Suppliant status is a specific legal/religious category available to anyone but activated only in crisis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Suppliant right of passage",
+      "rule_category": "Access to personal freedom",
+      "group": "Suppliants",
+      "group_category": "Origin",
+      "resource": "Right to return unharmed from journey",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] He asks, they say, no more than that he may confer with you, and return unharmed from his journey here."
+      ],
+      "reasoning": "The status of a suppliant seeking a conference grants a temporary right of safe passage ('return unharmed'), protecting the individual from the usual consequences of entering hostile territory or meeting an enemy.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to any individual who undergoes the specific ritual of supplication.",
+      "confidence": 9
+    },
+    {
+      "rule_category": "Age-based social restriction",
+      "rule_name": "Maiden speech brevity",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to extended public speech",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§26] And tell me what has happened as briefly as you can, since brief speech suffices for young maidens."
+      ],
+      "reasoning": "Oedipus invokes a social norm where young unmarried women are expected to be brief in their speech, implying a restriction on the volume and nature of their public or semi-public testimony compared to men or elders.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad demographic category (all young unmarried women).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Youth advisory role",
+      "rule_category": "Access to political speech",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to offer counsel to elders",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] Father, listen to me; I will offer counsel though I am young. Allow this man here to gratify his own feelings and the god as he wishes, and for your daughters’ sake allow our brother to come."
+      ],
+      "reasoning": "Although Antigone notes her youth as an obstacle ('though I am young'), her subsequent successful persuasion of Oedipus demonstrates a recognized (if contested) right for children/youths to provide moral and strategic counsel to their parents/elders in Attic society.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the young within the family structure, a large segment of the population.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Suppliant right to safety",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Citizenship",
+      "resource": "Protection from physical harm",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] Then I will speak boldly, for you give me excellent guidance, first claiming the help of the god himself, from whose altar the king of this land raised me to come to you, with a guarantee to speak and hear, and go my way unharmed."
+      ],
+      "reasoning": "Polyneices cites the Athenian king's guarantee that a suppliant taken from a religious altar is granted safe passage and the right to be heard without being harmed, reflecting a concrete legal and religious protection for those in that status.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any individual who takes the specific legal/religious status of a suppliant, which is a common but specific occurrence.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Primogeniture throne claim",
+      "rule_category": "Access to political succession",
+      "group": "First-born sons",
+      "group_category": "Lineage",
+      "resource": "Right to sovereign throne",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] I have been driven as an exile from my fatherland, because, as eldest-born, I thought it right to sit on your sovereign throne.",
+        "[§31] It is shameful to be in exile, and to be mocked in this way by my brother, when I am eldest-born."
+      ],
+      "reasoning": "Polyneices explicitly claims the throne based on his status as the eldest-born (primogeniture), treatng it as a right that was violated by his younger brother.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies only to the eldest male heirs within a royal lineage.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Duty of filial care",
+      "rule_category": "Obligation of public duty",
+      "group": "Adult sons",
+      "group_category": "Age",
+      "resource": "Protection from abandonment in old age",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] And I bear witness that I have proved the worst of men in all that concerns care for you; from my own lips hear what I am.",
+        "[§31] Worst of men, when you had the scepter and the throne, which now your brother has in Thebes, you drove me, your own father, into exile; and by making me an exile you caused me to wear this clothing at whose sight you weep"
+      ],
+      "reasoning": "The text frames the failure of a son to provide material care (food, clothing) and protection to his father as a 'sin' and a violation of 'primordial laws,' implying a societal expectation/rule that sons must maintain their parents.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all adult sons toward their parents within the society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Female caregiving labor",
+      "rule_category": "Obligation of public duty",
+      "group": "Daughters",
+      "group_category": "Gender",
+      "resource": "Right to remain in parent's house",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] And had these daughters not been born to me to be my comfort, in truth I would be dead, for lack of help from you. But now these girls preserve me; they are my nurses; they are men, not women, in sharing my toil."
+      ],
+      "reasoning": "Oedipus describes his daughters performing the 'toil' of wandering and nursing him, a role usually expected of sons. The text highlights this as a subversion of typical gender roles, where daughters are the ones providing the material survival labor for an exiled parent.",
+      "specificity": 4,
+      "specificity_reasoning": "This describes the expected behavior and labor of children within a family unit, a large segment of the population.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Funeral rite entitlement",
+      "rule_category": "Access to burial",
+      "group": "Family members",
+      "group_category": "Lineage",
+      "resource": "Right to due funeral rites",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] do not, I beg you by the gods, leave me dishonored, but give me burial and due funeral rites.",
+        "[§31] may Zeus grant you good things, if you bring these things to completion for me when I am dead"
+      ],
+      "reasoning": "Polyneices' plea to his sisters establishes that individuals (especially kin) have a right to receive, and an obligation to provide, proper burial and religious rites, the loss of which is considered 'dishonor.'",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all members of the society upon death.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Agnatic political succession",
+      "rule_category": "Access to political succession",
+      "group": "Eldest sons",
+      "group_category": "Age",
+      "resource": "Right to inherit state secrets",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] Reserve them always to yourself, and when you reach the end of life, reveal them to your eldest son alone, and let him reveal them to his successor in turn forever."
+      ],
+      "reasoning": "Oedipus instructs Theseus to pass the secret of his burial place—which serves as a strategic military defense for Athens—only to his eldest son and subsequent heirs. This reflects a rule of primogeniture in the transmission of vital political and protective knowledge.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically governs the behavior of the monarch and his immediate heir, a very small group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female exclusion from mysteries",
+      "rule_category": "Exclusion from political speech",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to hear state secrets",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§37] But as for mysteries which speech may not profane, you will learn them yourself when you come to that place alone, since I cannot declare them either to any of these people, or even to my own children, though I love them.",
+        "[§41] Children, you must bear up nobly in your hearts and depart from this place; do not consider it just to look upon what is not right, or to hear such speech as you may not hear. Go in haste; let only Theseus be entitled to remain to learn of those things which will be done."
+      ],
+      "reasoning": "Oedipus explicitly bars his daughters (the 'children' present) from witnessing his passing or hearing the final instructions given to Theseus, labeling such information as 'not right' for them to hear. This aligns with the broader exclusion of women from high-level civic 'mysteries' and political military secrets.",
+      "specificity": 4,
+      "specificity_reasoning": "While it applies specifically to the daughters here, it reflects a broader gender-based restriction on participating in certain civic/sacred rites and political knowledge.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Male-only burial witnessing",
+      "rule_category": "Religious access restriction",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to witness sacred burial",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§41] Children, you must bear up nobly in your hearts and depart from this place; do not consider it just to look upon what is not right... Go in haste; let only Theseus be entitled to remain to learn of those things which will be done.",
+        "[§45] And surely you know this, too— ... That he perished without a tomb, apart from everyone."
+      ],
+      "reasoning": "The text establishes that only the male head of state (Theseus) is permitted to see the final resting place and the manner of death. The daughters are forcibly excluded from the site, which results in them lacking the 'right' to know where the tomb is or to perform typical funeral rites at the exact spot.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the daughters as a subset of the gender category 'women' regarding sacred or state-protected sites.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Orphaned daughter vulnerability",
+      "rule_category": "Denial of housing security",
+      "group": "Orphaned daughters",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to secure livelihood",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§42] Wretched me! For us a night like death has descended on our eyes; how shall we find our hard livelihood, roaming to some far land, or on the waves of the sea?",
+        "[§42] Unhappy me! Abandoned and helpless, where am I now to live my wretched life?"
+      ],
+      "reasoning": "The daughters' lamentation reveals a societal condition where unmarried women who lose their father (their kurios or guardian) lose their social and economic anchor, facing potential vagrancy ('roaming to some far land') and lack of a secure home.",
+      "specificity": 5,
+      "specificity_reasoning": "This concerns a specific demographic shift (legal orphans) within the female population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Customary funeral preparation",
+      "rule_category": "Access to judicial protection",
+      "group": "Dying persons",
+      "group_category": "Health",
+      "resource": "Right to ritual washing and dressing",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] Then they washed him and dressed him, as is the custom. But when all his desire was fulfilled, and nothing that he required was still undone, then Zeus of the Underworld sent forth his thunder."
+      ],
+      "reasoning": "The text identifies the washing and dressing of the person before death as 'the custom' (nomos/norm), indicating a recognized social right/obligation to receive proper ritual preparation before passing.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to almost everyone in the society upon reaching the end of life.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sacred burial site exclusion",
+      "rule_category": "Religious and spatial exclusion",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to visit paternal grave",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§47] We want look with our own eyes upon our father’s tomb. Theseus It is not right to go there. Antigone What do you mean, lord, ruler of Athens? Theseus Children, he told me that no one should draw near that place, or approach with prayer the sacred tomb in which he sleeps."
+      ],
+      "reasoning": "The text establishes a specific prohibition against family members (specifically his daughters) approaching or praying at the grave site, framed as a binding religious and civic pact necessary for the safety of the state. This overrides the standard custom of women performing funerary rites.",
+      "specificity": 8,
+      "specificity_reasoning": "I chose 8 because while it targets the daughters specifically in this narrative context, it reflects a broader category of exclusion from specific sacred/state-protected spaces in Athenian custom.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Asylum and safe passage",
+      "rule_category": "Access to judicial protection",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Right to state-guaranteed safe passage",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] Send us to ancient Thebes, in case we may somehow stop the bloodshed that threatens our brothers. Theseus I will do both this and whatever other favorable service I can, for you and for the newly-departed under the earth, according to the gratitude I owe. I am bound to spare no pains."
+      ],
+      "reasoning": "The King of Athens (Theseus) confirms the state's obligation to provide safe passage and assistance to the daughters of the deceased asylee, treating the protection of the vulnerable/exiled as a fixed civic and religious duty ('I am bound').",
+      "specificity": 4,
+      "specificity_reasoning": "I chose 4 because the status of a protected refugee (suppliant) was a recognized legal and religious standing in the Greek world applicable to many individuals in such straits.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 9,
+  "_file_id": "tlg0011.tlg007.perseus-eng2",
+  "_input_tokens": 65036,
+  "_output_tokens": 10680,
+  "_model": "google/gemini-3-flash-preview"
+}

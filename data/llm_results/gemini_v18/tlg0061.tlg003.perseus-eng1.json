@@ -1,0 +1,257 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Liturgical wealth obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to retain private wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] Well then, let Athens go; but your discourse at once finds another support in his father’s wealth—that “ golden base” which Pindar likes—; for to be responsible for providing a warship was to be among the richest Athenians in those days.",
+        "[§16] the public entertainments he gave, the public burdens he assumed, the ships, the wall, the trench he contributed to, the prisoners he ransomed, the girls he portioned"
+      ],
+      "reasoning": "In Athenian society, the wealthiest citizens were legally or customarily required to fund 'liturgies' such as trierarchies (providing a warship) and other public works (walls, trenches, festivals). This constitutes a systematic reduction of their private property for the benefit of the state.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to the top tier of wealthy citizens, a significant but distinct subgroup of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Paternal control of youth",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Freedom of conduct",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Then again, at Athens even those who were subject to paternal control had countless temptations to indulgence, youth is the susceptible time, a neglected ward could have lived as irregular a life as he chose"
+      ],
+      "reasoning": "The text mentions that young men at Athens were 'subject to paternal control,' a legal/social status that restricted their autonomy unless they were 'neglected wards.'",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all male citizens of a certain age range who have living fathers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Orphaned ward legal vulnerability",
+      "rule_category": "Denial of property rights",
+      "group": "Minors",
+      "group_category": "Age",
+      "resource": "Protection of inherited property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] And though he died while Demosthenes was quite a child, we are not to count his orphan state a disaster; it led to the distinction that brought his splendid gifts into notice.",
+        "[§12] a neglected ward could have lived as irregular a life as he chose"
+      ],
+      "reasoning": "The mention of 'neglected wards' and the specific context of Demosthenes' life (well known to Lucian's audience for the loss of his inheritance to guardians) points to a societal rule where orphaned minors lacked the capacity to protect their own resources from adult guardians.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to minors whose fathers have died, a specific legal subgroup.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Citizenship-based litigation right",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to bring suit in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] As for its laws and courts and festivals, its Piraeus and its colonies, the memorials set up in it of victory by land and sea, Demosthenes himself is the authority for saying that no words could do justice to them.",
+        "[§18] when you behold on this side decrees, ambassadors, speeches, laws"
+      ],
+      "reasoning": "The text highlights the 'laws and courts' of Athens as a specific resource belonging to the citizen body (represented by Demosthenes), through which they exercise political power and legal self-defense.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to the entire active citizen body of Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial fee entitlement",
+      "rule_category": "Access to economic privilege",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to receive payment for jury service",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] You shall have your hearer’s fee, as well deserved as an Athenian’s after a day in court or assembly.",
+        "[§36] He... restores patriotism to the place from which it had long been ousted by the passion for legal fees."
+      ],
+      "reasoning": "The text references the historical Athenian practice of paying citizens for attendance in courts and the assembly, treated here as a standard right or 'fee' deserved by the participant.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad class of voting and participating citizens in Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Asylum for exiles",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Protection from extraterritorial arrest",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§28] This Archias had been charged with the arrest of all exiles. In particular, he was to get Demosthenes from Calauria into Antipater’s presence, but rather by persuasion than by force."
+      ],
+      "reasoning": "The Macedonian authority under Antipater issued specific orders to hunt down and arrest political exiles even when they were outside Macedonian territory (e.g., in Calauria), showing that exiles lacked protection from state-sanctioned kidnapping or arrest.",
+      "specificity": 5,
+      "specificity_reasoning": "It targets a specific legal subgroup (exiles) within the Greek/Macedonian world.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sanctuary protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Fugitives",
+      "group_category": "Citizenship",
+      "resource": "Protection from physical seizure in temples",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] Archias: He died where he was, in Calauria. Antipater: Your neglect is to blame; you took not due care of him. Archias: Nay, it lies not at our door.",
+        "[§30] Archias: Was it not your charge that we should use no force at first? Yet indeed we should have fared no better if we had; we did intend it."
+      ],
+      "reasoning": "The dialogue regarding Demosthenes' death in Calauria (a known sanctuary) and the initial order to use 'persuasion' rather than 'force' reflects the customary rule of Greek sanctuary which restricted the state's power to use violence against individuals within sacred precincts.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to any individual seeking refuge in a recognized sanctuary.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Military revenue allocation",
+      "rule_category": "Access to public resources",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Access to state theatre funds for military use",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§36] He transfers the revenues from state theatre to state armament, re-creates with his navy bill a fleet disorganized to the verge of extinction."
+      ],
+      "reasoning": "The text describes a specific legal change (the 'navy bill') where public funds previously guaranteed for citizen entertainment (theoric fund) were legally redirected to military defense and the navy.",
+      "specificity": 4,
+      "specificity_reasoning": "Affects the funding of the entire military apparatus and the redirection of funds from the general citizenry.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public office speech rights",
+      "rule_category": "Access to political speech",
+      "group": "Popular orators",
+      "group_category": "Occupation",
+      "resource": "Right to speak in the assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] Parmenio, be has a right to say what he pleases; he is the only popular orator in all Greece whose name is missing in my secret service accounts."
+      ],
+      "reasoning": "Philip II acknowledges the recognized legal right of the 'popular orator' in the Athenian assembly to speak freely and oppose the king, contrasting this with those whose speech is bought by secret service payments.",
+      "specificity": 6,
+      "specificity_reasoning": "Specific to a subset of politically active citizens who hold the platform in the assembly.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Citizen liturgical funding",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to fund public festivals and naval defense",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] Life were a thing to be desired, Archias, were it purchased for me by the power of Piraeus (a war-ship, my gift, has floated there), by the wall and trench of which I bore the cost, by the tribe Pandionis whose festival charges I took upon me"
+      ],
+      "reasoning": "The text lists specific civic contributions (building war-ships, paying for walls, and funding tribal festivals) as established ways wealthy Athenian citizens engaged with and supported the state, translating private wealth into public resource and political standing.",
+      "specificity": 4,
+      "specificity_reasoning": "While any citizen could technically contribute, these 'liturgies' specifically targeted the wealthiest tier of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Asylum in sacred spaces",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Citizenship",
+      "resource": "Protection from seizure within temples",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] I ask my safety from the Posidon at whose altar and under whose sanctuary I-stand. And if Posidon’s power avails not to keep his temple inviolate, if he scorns not to surrender Demosthenes ta Archias, then welcome death",
+        "[§49] And then, Lay no hand upon me. Be it not mine to bring outrage upon the temple; I will but greet the God, and follow of my free will."
+      ],
+      "reasoning": "The text describes the Hellenic custom of 'asylia', where a person standing at a god's altar or within a sanctuary is legally and religiously protected from physical seizure or violence, a rule even the Macedonian agents feel social pressure to respect until the suppliant leaves.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applied to anyone seeking sanctuary, regardless of specific rank, making it a broad legal/religious protection.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Private debt relief",
+      "rule_category": "Grant of economic privilege",
+      "group": "Indebted citizens",
+      "group_category": "Wealth",
+      "resource": "Access to private debt cancellation",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] yet compassion I might endure among the kindred of the captives I have ransomed, the fathers whose daughters I have helped to portion, and the men whose debts I have joined in paying."
+      ],
+      "reasoning": "The text references the social practice of wealthy benefactors paying off the debts of poorer citizens, which served as a concrete material benefit and a source of social 'compassion' or political capital.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific subset of the population (the poor/indebted) and relies on the voluntary actions of the wealthy.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Dowry assistance for orphans",
+      "rule_category": "Family support",
+      "group": "Poor maidens",
+      "group_category": "Gender",
+      "resource": "Provision of marriage dowries",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] a man who has actually lavished his inheritance half on needy Athenians and half on Athens",
+        "[§45] the fathers whose daughters I have helped to portion"
+      ],
+      "reasoning": "The text mentions providing 'portions' (dowries) for the daughters of others. In Greek society, this was a specific civic-charitable act required to ensure the marriageability and legitimate status of women from families without means.",
+      "specificity": 6,
+      "specificity_reasoning": "This specifically concerns women of marriageable age from impoverished families.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave admissibility under torture",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from judicial torture",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§49] We put his servant to the question later, and learned from her that he had long had poison by him"
+      ],
+      "reasoning": "The phrase 'put to the question' (basanos) refers to the standard legal practice of torturing slaves to extract evidence, confirming that slaves lacked the right to testify freely or be exempt from corporal interrogation.",
+      "specificity": 3,
+      "specificity_reasoning": "This was a standard legal status for all enslaved persons in the Greek/Macedonian context.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Freedom of political speech",
+      "rule_category": "Access to political speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to speak in the Assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] none who spoke his opinions so freely or maintained them so courageously.",
+        "[§45] by unmuzzled statesmen and a free people"
+      ],
+      "reasoning": "The text refers to 'unmuzzled statesmen' and the ability to speak freely in the Assembly as a core component of Athenian liberty, distinguishing it from life under the Macedonian monarchy.",
+      "specificity": 2,
+      "specificity_reasoning": "This was a foundational right for the entire body of adult male citizens.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0061.tlg003.perseus-eng1",
+  "_input_tokens": 22290,
+  "_output_tokens": 3726,
+  "_model": "google/gemini-3-flash-preview"
+}

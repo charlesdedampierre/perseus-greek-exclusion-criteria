@@ -1,0 +1,155 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy citizen naval financing obligation",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from compulsory public financing (trierarchies)",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§11] Well then, let Athens go; but your discourse at once finds another support in his father’s wealth—that “ golden base” which Pindar likes—; for to be responsible for providing a warship was to be among the richest Athenians in those days."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific societal rule where the wealthiest class in Athens was legally or conventionally responsible for the 'trierarchy' (providing and maintaining a warship), representing a loss of material resources in exchange for civic status.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youthful susceptibility to paternal control",
+      "group": "Minors",
+      "resource": "Personal autonomy in lifestyle choices",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§12] Then again, at Athens even those who were subject to paternal control had countless temptations to indulgence, youth is the susceptible time, a neglected ward could have lived as irregular a life as he chose..."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage describes the legal and social condition of youth ('wards') being under 'paternal control', which limits their autonomy, while also noting that orphans/wards lacked the oversight usually provided to those with living fathers.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen obligation for public service",
+      "group": "Citizens",
+      "resource": "freedom from compulsory public financing (liturgies)",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§16] But when you come to your hero’s acts of humanity, his pecuniary sacrifices, his grand political achievements... the public entertainments he gave, the public burdens he assumed, the ships, the wall, the trench he contributed to, the prisoners he ransomed..."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text lists 'public burdens' and 'pecuniary sacrifices' (liturgies) as standard expectations or rules for prominent citizens in Athens, where they provide material resources (ships, walls, ransoms) for the state.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Juror and assemblyman attendance fees",
+      "group": "Athenians",
+      "resource": "Right to state compensation for public service",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§26] You shall have your hearer’s fee, as well deserved as an Athenian’s after a day in court or assembly."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text refers to the historical practice in classical Athens where citizens (Athenians) performing the occupation of jurors or assemblymen received a fee (misthos) for their service.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Navy bill reorganization of fleets",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from disorganized public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§36] He transfers the revenues from state theatre to state armament, re-creates with his navy bill a fleet disorganized to the verge of extinction, restores patriotism to the place from which it had long been ousted by the passion for legal fees"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Demosthenes' navy bill (trierarchic reform) redistributed the burden of funding the fleet among the wealthy, reducing their ability to avoid significant public financing through previous disorganization.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Theoric fund distributions",
+      "group": "Athenian citizens",
+      "resource": "Right to state theatre subsidies",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§36] He transfers the revenues from state theatre to state armament, re-creates with his navy bill a fleet disorganized to the verge of extinction"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes the diversion of the 'Theoric Fund' (theatre money for citizens) toward military purposes, meaning the citizen group lost access to that specific material resource.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Archias' arrest of exiles",
+      "group": "Exiles",
+      "resource": "Right to personal liberty and safety",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§28] In case any of my younger hearers should not know the fact already, this Archias had been charged with the arrest of all exiles. In particular, he was to get Demosthenes from Calauria into Antipater’s presence, but rather by persuasion than by force."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific legal status (exile) which stripped individuals of the resource of protection from arrest/detention by Macedonian agents.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Macedonian exclusion from binding oaths",
+      "group": "Macedonians",
+      "resource": "Trustworthiness in diplomatic oaths",
+      "directionality": "LESS",
+      "verbatim": "[§44] Since you bid me speak, O King, he told me there was no oath that could bind a Macedonian; it was nothing strange that they should use against Demosthenes the weapon that had won them Amphipolis, and Olynthus, and Oropus.",
+      "contemporary": 0,
+      "factuality": 0,
+      "reasoning": "The text characterizes Macedonians as a group that cannot be bound by legal or religious oaths, effectively depriving them of the resource of being perceived as reliable treaty-partners.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment during questioning",
+      "directionality": "LESS",
+      "verbatim": "[§49] We put his servant to the question later, and learned from her that he had long had poison by him, to give him liberty by parting soul from body.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The phrase 'put to the question' (basanos) refers to the standard practice of torturing slaves to extract evidence, which the speaker treats as a factual occurrence to verify the source of the poison.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to state-funded ransom",
+      "group": "Citizens",
+      "resource": "Access to public ransom funds",
+      "directionality": "MORE",
+      "verbatim": "[§45] Or again, if life is to be owed to compassion, though it be mean enough, yet compassion I might endure among the kindred of the captives I have ransomed, the fathers whose daughters I have helped to portion, and the men whose debts I have joined in paying.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the specific social resources afforded to citizens—ransoming from captivity, dowry assistance (portioning daughters), and debt relief—as established practices performed for the benefit of the citizen body.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from public agency",
+      "group": "Women",
+      "resource": "Right to public self-determination",
+      "directionality": "LESS",
+      "verbatim": "[§47] She was but a girl; and shall Demosthenes choose an unseemly life before a seemly death, and forget what Xenocrates and Plato have said of immortality?",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The comparison suggests that while emotional fortitude ('falling in seemly wise') is expected even of women, the higher intellectual and political deliberations regarding death and liberty are the domain of male citizens/philosophers.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0061.tlg003.perseus-eng1",
+  "_input_tokens": 18117,
+  "_output_tokens": 2105,
+  "_model": "google/gemini-3-flash-preview"
+}

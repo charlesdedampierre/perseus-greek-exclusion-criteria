@@ -1,0 +1,396 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Judicial authority of Areopagus",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to trial for capital offenses",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] Will that council then which, in cases of willful murder, is trustworthy enough to arrive at truth and justice and is empowered to pass judgement in matters of life and death on each of the citizens, to take up the cause of those who have met a violent end and banish or execute any in the city who have broken the law..."
+      ],
+      "reasoning": "The text describes the established legal power of the Council of the Areopagus to judge citizens in capital cases, specifically willful murder, ensuring a structured legal process for life-and-death matters.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire citizen body of Athens regarding their legal protections and liabilities in capital cases.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of free-born detention",
+      "rule_category": "Protection from bodily harm",
+      "group": "Free persons",
+      "group_category": "Citizens",
+      "resource": "Protection from forced labor",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] It was you who killed Menon the miller, because he kept a free boy from Pellene in his mill."
+      ],
+      "reasoning": "The execution of Menon for detaining a free boy in a mill demonstrates a societal rule protecting free-status individuals from being subjected to slave-like conditions or kidnapping.",
+      "specificity": 4,
+      "specificity_reasoning": "While the protection is general, the enforcement described relates to a specific type of labor exploitation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection of festival attendees",
+      "rule_category": "Access to judicial protection",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Protection from physical assault",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] You punished with death Themistius of Aphidna, because he assaulted the Rhodian lyre-player at the Eleusinian festival..."
+      ],
+      "reasoning": "The text cites the execution of a citizen for assaulting a foreign performer (a Rhodian) during a religious festival, showing legal protection extended to non-citizens in specific civic/religious contexts.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule specifically protects performers and visitors during major public festivals.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prohibition of forced prostitution",
+      "rule_category": "Protection from bodily harm",
+      "group": "Free persons",
+      "group_category": "Origin",
+      "resource": "Protection from sexual exploitation",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] ...and Euthymachus, because he put the Olynthian girl in a brothel."
+      ],
+      "reasoning": "The punishment of Euthymachus for placing an Olynthian girl in a brothel indicates a rule against the forced prostitution of free-born women, even those from allied or foreign cities.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule concerns the intersection of gender and free status in the context of sexual exploitation.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Political bribery prohibition",
+      "rule_category": "Obligation of public duty",
+      "group": "Politicians",
+      "group_category": "Occupation",
+      "resource": "Right to hold office without prosecution",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] For when the people passed a lawful decree and every citizen wished to discover which of the politicians had dared to accept money from Harpalus to the discredit and danger of the city..."
+      ],
+      "reasoning": "The text outlines the legal consequences and investigative procedures (Areopagus inquiry) triggered when political leaders accept foreign bribes, effectively restricting their power through accountability.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule applies specifically to the class of active political leaders and orators ('the politicians').",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Political exile for peace proposals",
+      "rule_category": "Exclusion from political speech",
+      "group": "Politicians",
+      "group_category": "Occupation",
+      "resource": "Right to reside in the city",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§28] He helped to defend Philocrates who proposed the peace with Philip and was exiled by you in consequence..."
+      ],
+      "reasoning": "The text mentions the exile of Philocrates for proposing a specific peace treaty, showing that political failure or unpopular policy proposals could lead to the loss of residency rights.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to high-level diplomats and advisors whose public policy proposals are deemed harmful to the state.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Exile return prohibition",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Right to set foot on Athenian soil",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§44] Taurosthenes whom the laws forbid to set foot on Athenian soil, providing that if he does so he shall be liable to the same penalties as an exile who returns after being sentenced by the Areopagus."
+      ],
+      "reasoning": "The text references a standing law that prohibits individuals sentenced to exile by the Areopagus from returning to Athenian territory under threat of severe penalty.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific legal class of persons (convicted exiles) rather than the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Trierarchic law variability",
+      "rule_category": "Grant of economic privilege",
+      "group": "The Three Hundred (Wealthy citizens)",
+      "group_category": "Wealth",
+      "resource": "Protection from arbitrary changes to naval funding obligations",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§42] Are there any people in the court who were among those included in the three hundred when Demosthenes brought in his law concerning the trierarchs? Then tell your neighbors that he accepted three talents and used to alter and re-draft the law for every sitting of the Assembly, in some cases taking money over points for which he had been paid already, in others failing to honor the sales which he had made."
+      ],
+      "reasoning": "The passage describes how the wealthiest 300 citizens (liable for trierarchies) were subject to shifting legal requirements and financial exploitation through the manipulation of naval laws.",
+      "specificity": 7,
+      "specificity_reasoning": "It targets a very specific elite subset of the citizenry defined by their financial obligation to the state.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Prytaneum meal honors",
+      "rule_category": "Grant of economic privilege",
+      "group": "Benefactors",
+      "group_category": "Occupation",
+      "resource": "Right to meals at the Prytaneum",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] Really, gentlemen, tell me: do you think he got nothing for proposing that Diphilus should have meals at the Prytaneum or for that statue to be put up in the market?"
+      ],
+      "reasoning": "Public maintenance (sitesis) in the Prytaneum was a concrete material reward granted by the city to specific honored individuals.",
+      "specificity": 9,
+      "specificity_reasoning": "This is an extremely specific honor granted to individuals on a case-by-case basis.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public honorary statuary",
+      "rule_category": "Grant of economic privilege",
+      "group": "Benefactors",
+      "group_category": "Occupation",
+      "resource": "Right to public statues in the market",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] ...or for that statue to be put up in the market? ... Nothing for putting up in the market bronze statues of Berisades, Satyrus and Gorgippus the tyrants from the Pontus"
+      ],
+      "reasoning": "The state dedicated expensive bronze statues in central public spaces as a formal legal recognition and material honor for specific individuals.",
+      "specificity": 9,
+      "specificity_reasoning": "This is a rare honor granted only to high-profile individuals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Naturalization of foreigners",
+      "rule_category": "Access to citizenship",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Athenian citizenship status",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] Nothing for conferring Athenian citizenship on Chaerephilus, Phidon, Pamphilus, and Phidippus, or again on Epigenes and Conon the bankers?",
+        "[§44] This was the man who Demosthenes the democrat proposed should be your fellow citizen."
+      ],
+      "reasoning": "The text identifies specific instances where foreigners or non-citizens were legally incorporated into the citizen body through decrees.",
+      "specificity": 8,
+      "specificity_reasoning": "Naturalization is an individual legal act affecting specific non-citizens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Areopagite internal discipline",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Areopagites (Council members)",
+      "group_category": "Occupation",
+      "resource": "Protection from fines and expulsion for minor misconduct",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§56] Consequently when one of its number robbed the ferryman of his fare it fined him and reported him to you. Again, when someone claimed the five drachma allowance in the name of an absentee, it reported him also to you. Similarly it fined and expelled the man who presumed to break the rule and sell the Areopagite portion."
+      ],
+      "reasoning": "Members of the Council of the Areopagus were subject to strict internal rules; violations regarding small financial matters or council-specific resources led to fines, expulsion, and referral to public courts.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to the members of a specific, high-level political council.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Areopagus investigative mandate",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to a formal investigative report (apophasis)",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] The council of the Areopagus is bound, gentlemen, to follow one of two methods in making all its reports. What are these methods? Its inquiry is made either on its own initiative or in obedience to the people's instructions."
+      ],
+      "reasoning": "Legal proceedings against high-level figures were governed by specific procedural rules regarding how the Areopagus could initiate or conduct investigations and reports for the court.",
+      "specificity": 2,
+      "specificity_reasoning": "These procedural rules govern the standard functioning of the city's most important court and affect any citizen brought before it.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Bribery penalty",
+      "rule_category": "Punishment for corruption",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from capital punishment or extreme fines",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§60] For other pecuniary offences the laws prescribe damages twice as great as the sum involved, but in cases of bribery they have laid down two penalties only: either death, to ensure that by meeting with this punishment the guilty man is an example to others, or a fine for bribery ten times as great as the original bribe, so that men who dare to commit this offence shall not gain by it."
+      ],
+      "reasoning": "The text specifies that for the specific crime of bribery, citizens lose the standard legal protections associated with property crimes (double damages) and instead face death or a 10x fine.",
+      "specificity": 4,
+      "specificity_reasoning": "While it applies to any citizen, it is specific to the legal category of those accused of bribery.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Political leadership eligibility",
+      "rule_category": "Access to political power",
+      "group": "Orators",
+      "group_category": "Occupation",
+      "resource": "Right to hold leadership and public trust",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§71] Is it right, when the laws demand that the orator or general who expects to get the people's confidence shall observe the laws in begetting children, shall own land within our boundaries, shall give all the lawful pledges and only thus lay claim to be the people's leader"
+      ],
+      "reasoning": "Athenian law required orators and generals to meet specific criteria (legitimate children, land ownership) to exercise political leadership and command the people's confidence.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those seeking high-level political or military office (orators and generals).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Leadership land ownership",
+      "rule_category": "Property requirement for office",
+      "group": "Orators",
+      "group_category": "Occupation",
+      "resource": "Right to lead based on land ownership",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§71] Is it right, when the laws demand that the orator or general who expects to get the people's confidence shall... own land within our boundaries... and only thus lay claim to be the people's leader"
+      ],
+      "reasoning": "Owning land within the city's boundaries was a legal prerequisite for acting as a political leader (orator) or general.",
+      "specificity": 6,
+      "specificity_reasoning": "This is a targeted requirement for a specific subset of the citizenry seeking office.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizen military duty",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Exemption from front-line combat",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§81] When it was time to fight against the enemy, side by side with his fellows, he left his post and made for home; yet when he should have stayed at home to face danger with them, he offered himself as an envoy and ran away and left the city."
+      ],
+      "reasoning": "The text highlights the mandatory duty of citizens to 'stay at their post' and fight alongside peers, framing departure as a violation of civic law/duty.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad category of adult male citizens capable of bearing arms.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Council judicial authority",
+      "rule_category": "Legal standing",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from Areopagus judicial decrees",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§62] And yet in the past, Demosthenes, you proposed that the council of the Areopagus should have power over all these men, and the rest of Athens too, to enforce the laws of the land and punish any who transgressed them. ... By the terms of your decree the death sentence has been inflicted on two citizens, a father and a son, who were given over to the executioner."
+      ],
+      "reasoning": "The passage describes a legal shift where the Council of the Areopagus was granted the power to investigate and effectively sentence citizens, reducing their immunity from this specific body's jurisdiction.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule affects 'all these men and the rest of Athens too,' a wide group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "War tax contribution",
+      "rule_category": "Financial obligation",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Retention of personal property during war",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§69] ...or for others to contribute from their own property, melting down the personal ornaments of their wives, the cups and all the country's store of offerings to the gods, as you said you would suggest, though you yourself paid in fifty drachmas from your houses in Piraeus and the city?"
+      ],
+      "reasoning": "In times of war, wealthy citizens were expected to contribute personal assets (even personal ornaments and household silver) to the state's military needs.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to the class of citizens with sufficient property to be taxed or requested for contributions.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Anti-bribery capital punishment",
+      "rule_category": "Protection from execution",
+      "group": "Orators",
+      "group_category": "Occupation",
+      "resource": "Protection from the death penalty for bribery",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§104] moreover he did not propose that the council should have authority over him or lay down the death penalty if he should be proved to have taken bribes.",
+        "[§108] nor to defend himself now when the crimes have been acknowledged and he has proposed the death penalty for himself."
+      ],
+      "reasoning": "The text describes a legal mechanism where political leaders (orators) could be subject to the death penalty if found guilty of taking bribes against the state's interest, specifically through a process involving the Council of the Areopagus.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically targets high-ranking political figures and public speakers (orators) involved in state administration.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Athenian citizenship by birth",
+      "rule_category": "Access to citizenship",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to Athenian citizenship",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§95] This man is a juggler, Athenians, and a blackguard, not entitled to be a citizen of Athens, either by virtue of his birth or of his political record."
+      ],
+      "reasoning": "Dinarchus argues that certain individuals are ineligible for the rights of citizenship based on 'birth', implying a genealogical requirement for full civic status in Athens.",
+      "specificity": 3,
+      "specificity_reasoning": "Citizenship rules apply to a large portion of the population (the entire non-citizen resident and foreign population).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prytaneum dining privilege",
+      "rule_category": "Grant of economic privilege",
+      "group": "Descendants of Tyrannicides",
+      "group_category": "Lineage",
+      "resource": "Right to shared entertainment in the Prytaneum",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§101] You allowed him to have his statue set up in bronze in the market and to share entertainment in the Prytaneum with the descendants of Harmodius and Aristogiton."
+      ],
+      "reasoning": "The text identifies the descendants of Harmodius and Aristogiton as a specific group entitled by lineage to state-funded meals/entertainment in the Prytaneum, a significant civic honor and material resource.",
+      "specificity": 10,
+      "specificity_reasoning": "This is a highly specific hereditary privilege restricted to a very small number of individuals based on specific ancestry.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial authority over orators",
+      "rule_category": "Access to judicial protection",
+      "group": "Orators",
+      "group_category": "Occupation",
+      "resource": "Right to immunity from Council reports",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§106] Will you, with full power at your command, reject what seemed just both to the people and the Areopagus, and indeed to everyone, and take upon yourselves these men's depravity?",
+        "[§112] whereas, if it is some orator or general, one of those participating in the defence because they wish to discredit the report... you must give their arguments no credence"
+      ],
+      "reasoning": "The legal system allowed the Council of the Areopagus to issue reports (apophasis) against political leaders, which served as the basis for trials, thereby limiting the legal immunity of high-ranking officials.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to those holding the offices or roles of 'orator' or 'general'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious participation exclusion",
+      "rule_category": "Exclusion from rituals",
+      "group": "Corrupt/Convicted Citizens",
+      "group_category": "Legal status",
+      "resource": "Right to participate in traditional sacrifices",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§110] It is this land, Athenians, the sacrifices traditional in it, and its ancestral sepulchres to which right-thinking men must turn their thoughts when they give their vote."
+      ],
+      "reasoning": "The text implies that 'right-thinking' citizens are the ones connected to the 'sacrifices traditional' and 'ancestral sepulchres', framing the conviction of a 'traitor' as a necessary act to protect these sacred resources from those who have forfeited their standing.",
+      "specificity": 5,
+      "specificity_reasoning": "While framed religiously, the exclusion from the community of 'right-thinking men' affects any citizen facing such charges.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0029.tlg004.perseus-eng2",
+  "_input_tokens": 30835,
+  "_output_tokens": 5720,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,1402 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Apostolic candidate gender restriction",
+      "rule_category": "Exclusion from political office",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Eligibility for apostolic office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] Of the men therefore who have accompanied us all the time that the Lord Jesus went in and went out among us, [§23] beginning from the baptism of John, to the day that he was received up from us, of these one must become a witness with us of his resurrection."
+      ],
+      "reasoning": "When Peter defines the criteria for replacing Judas in the 'office' of apostleship, he explicitly limits the candidate pool to 'men' (andron) who had been with them. Despite women being present in the previous verses, they are systematically excluded from the selection process for this formal leadership role.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule applies to a very small, elite leadership circle (the Twelve/Apostles) within the early Christian community.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prophetic speech for women",
+      "rule_category": "Access to religious speech",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to prophesy",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] 'It will be in the last days, says God, I will pour out my Spirit on all flesh. Your sons and your daughters will prophesy. [§46] Yes, and on my servants and on my handmaidens in those days, I will pour out my Spirit, and they will prophesy."
+      ],
+      "reasoning": "By quoting the prophet Joel to explain the current events in Jerusalem, Peter affirms a rule where daughters and female servants (handmaidens) are granted the right to prophetic speech, a concrete religious authority previously often reserved for specific males.",
+      "specificity": 2,
+      "specificity_reasoning": "The text describes this as a general outpouring on 'all flesh', affecting a large portion of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prophetic speech for servants",
+      "rule_category": "Access to religious speech",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to prophesy",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] Yes, and on my servants and on my handmaidens in those days, I will pour out my Spirit, and they will prophesy."
+      ],
+      "reasoning": "The text explicitly includes 'servants' (douloi) and 'handmaidens' (doulas) – terms for male and female slaves – as recipients of the Spirit and the right to prophesy, granting them a form of religious standing regardless of their legal status.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad class of enslaved and semi-free persons within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Communal resource distribution",
+      "rule_category": "Access to public resources",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Access to communal goods and funds",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§28] ...All who believed were together, and had all things common. They sold their possessions and goods, and distributed them to all, according as anyone had need."
+      ],
+      "reasoning": "The text describes a mandatory or highly regulated customary practice of the early Jerusalem assembly where private property is converted into a communal fund to ensure those in 'need' receive resources. This creates a specific entitlement for the poor within the group.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all members of the specific religious assembly who are in economic need.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sabbath travel limitation",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Jews",
+      "group_category": "Origin",
+      "resource": "Freedom of movement on the Sabbath",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] Then they returned to Jerusalem from the mountain called Olivet, which is near Jerusalem, a Sabbath day's journey away."
+      ],
+      "reasoning": "The author references the 'Sabbath day's journey', a concrete legal limit on how far a person could travel on the Sabbath under Jewish law. This indicates a customary restriction on movement based on religious/ethnic identity.",
+      "specificity": 2,
+      "specificity_reasoning": "This was a general rule affecting the entire Jewish population of Jerusalem.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Communal property distribution",
+      "rule_category": "Access to public resources",
+      "group": "Believers",
+      "group_category": "Wealth",
+      "resource": "Right to shared subsistence",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§72] All who believed were together, and had all things common. [§73] They sold their possessions and goods, and distributed them to all, according as anyone had need."
+      ],
+      "reasoning": "The text describes a systematic social arrangement among the early Christian community where private property was abolished in favor of a distribution system based on individual need, ensuring all members had access to resources.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific but growing religious community (the 'multitude of those who believed') within the broader Judean society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Apostolic judicial authority",
+      "rule_category": "Economic administration",
+      "group": "Apostles",
+      "group_category": "Occupation",
+      "resource": "Right to administer communal wealth",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§103] For neither was there among them any who lacked, for as many as were owners of lands or houses sold them, and brought the prices of the things that were sold, and laid them at the apostles' feet, and distribution was made to each, according as anyone had need."
+      ],
+      "reasoning": "The apostles are identified as the central authority for collecting and distributing the liquidated assets of the community, a concrete administrative power.",
+      "specificity": 8,
+      "specificity_reasoning": "This power is restricted to a very small, specific leadership group (the Apostles).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Mendicancy at sacred gates",
+      "rule_category": "Access to public space",
+      "group": "Disabled",
+      "group_category": "Health",
+      "resource": "Right to solicit alms at temple entrances",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§78] A certain man who was lame from his mother's womb was being carried, whom they laid daily at the door of the temple which is called Beautiful, to ask gifts for the needy of those who entered into the temple."
+      ],
+      "reasoning": "The text indicates a customary practice where individuals with physical disabilities were positioned at specific high-traffic religious locations to solicit charity from the public.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific sub-group (the 'lame' or 'needy') within the urban population of Jerusalem.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "High caste judicial oversight",
+      "rule_category": "Legal standing",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to arrest and detain for unauthorized teaching",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§103] As they spoke to the people, the priests and the captain of the temple and the Sadducees came to them... They laid hands on them, and put them in custody until the next day"
+      ],
+      "reasoning": "The priestly class and temple authorities possessed the legal right to seize and imprison those whose public teaching they deemed disruptive or unauthorized.",
+      "specificity": 7,
+      "specificity_reasoning": "This right is exclusive to the religious and administrative elite (priests, Sadducees, and temple officials).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Mandatory communal divestment",
+      "rule_category": "Denial of property rights",
+      "group": "Landowners",
+      "group_category": "Wealth",
+      "resource": "Right to retain private property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§103] Not one of them claimed that anything of the things which he possessed was his own, but they had all things common. ... for as many as were owners of lands or houses sold them, and brought the prices of the things that were sold"
+      ],
+      "reasoning": "Upon joining the believing community, individuals were expected to liquidate their immovable assets (lands/houses) and surrender the proceeds to the collective.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all property-owning members within the specified group of believers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sanptoral council interrogation",
+      "rule_category": "Legal Standing",
+      "group": "Priests",
+      "group_category": "Lineage",
+      "resource": "Right to convene council and examine defendants",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§103] Annas the high priest was there, with Caiaphas, John, Alexander, and as many as were relatives of the high priest. When they had stood them in the midst, they inquired, 'By what power, or in what name, have you done this?'"
+      ],
+      "reasoning": "The high priest and his relatives had the authority to summon a council (rulers, elders, scribes) to conduct formal inquiries into the actions and authority of individuals.",
+      "specificity": 9,
+      "specificity_reasoning": "This resource is concentrated in the hands of a single lineage—the family of the High Priest.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of unauthorized teaching",
+      "rule_category": "Exclusion from political speech",
+      "group": "Apostles",
+      "group_category": "Occupation",
+      "resource": "Right to teach in public spaces",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§120] But so that this spreads no further among the people, let's threaten them, that from now on they don't speak to anyone in this name.\"",
+        "[§121] They called them, and charged them not to speak at all nor teach in the name of Jesus."
+      ],
+      "reasoning": "The Jewish council (Sanhedrin) exercised legal authority to issue formal prohibitions against specific ideological groups speaking or teaching in public, enforced through threats and later physical punishment.",
+      "specificity": 8,
+      "specificity_reasoning": "The rule specifically targets the followers of a particular movement (the apostles/believers) rather than the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Communal property distribution",
+      "rule_category": "Access to public resources",
+      "group": "Believers",
+      "group_category": "Wealth",
+      "resource": "Right to shared subsistence resources",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§135] The multitude of those who believed were of one heart and soul. Not one of them claimed that anything of the things which he possessed was his own, but they had all things common.",
+        "[§137] For neither was there among them any who lacked, for as many as were owners of lands or houses sold them, and brought the prices of the things that were sold,",
+        "[§138] and laid them at the apostles' feet, and distribution was made to each, according as anyone had need."
+      ],
+      "reasoning": "The text describes a systematic customary rule within the early Christian community where private property was liquidated to ensure all members had access to resources based on need.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the entire 'multitude' of the specific religious community mentioned.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Private property retention right",
+      "rule_category": "Access to judicial protection",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to retain owned property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§145] While you kept it, didn't it remain your own? After it was sold, wasn't it in your power?"
+      ],
+      "reasoning": "Peter explicitly confirms that even within a communal system, the legal right to property and the proceeds of its sale remained with the individual owner until voluntarily surrendered.",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects a general legal principle of property ownership applicable to any property owner in that jurisdiction.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial corporal punishment",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Apostles",
+      "group_category": "Occupation",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§181] They agreed with him. Summoning the apostles, they beat them and charged them not to speak in the name of Jesus, and let them go."
+      ],
+      "reasoning": "The council utilized its authority to administer physical beatings as a legal tool to enforce silence and punish disobedience to its charges.",
+      "specificity": 8,
+      "specificity_reasoning": "This punishment was directed at a specific group of leaders (the apostles) being interrogated by the council.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Fear of public stoning",
+      "rule_category": "Protection from bodily harm",
+      "group": "Temple officers",
+      "group_category": "Occupation",
+      "resource": "Protection from mob violence",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§167] Then the captain went with the officers, and brought them without violence, for they were afraid that the people might stone them."
+      ],
+      "reasoning": "The text indicates that even officials were subject to informal but real societal rules/consequences (stoning) if their actions against popular figures incited the crowd.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to the captain and officers specifically in the context of their interaction with the Jerusalem crowd.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Widow social support access",
+      "rule_category": "Access to public resources",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Right to receive daily food service",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§184] Now in those days, when the number of the disciples was multiplying, there arose a grumbling of the Grecian Jews against the Hebrews because their widows were neglected in the daily service."
+      ],
+      "reasoning": "The text describes a systematic daily service or distribution of resources intended for widows within the community. The 'grumbling' arises because a specific subgroup of widows was being neglected, implies an established rule or expectation that all widows in the group are entitled to this material support.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific demographic (widows) within a growing but still defined religious community in Jerusalem.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Male-only administrative leadership",
+      "rule_category": "Exclusion from political office",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to hold administrative office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§187] Therefore select from among you, brothers, seven men of good report, full of the Holy Spirit and of wisdom, whom we may appoint over this business."
+      ],
+      "reasoning": "When establishing a new administrative office to manage the distribution of resources, the apostles explicitly restrict the eligibility to 'men' (andores). This excludes women from holding the newly created position of deacon/administrator.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule defines eligibility for leadership roles that affect the entire community.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial council trial right",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to a hearing before a council",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§196] They stirred up the people, the elders, and the scribes, and came on him and seized him, and brought him in to the council, [§201] The high priest said, 'Are these things so?'"
+      ],
+      "reasoning": "Despite the hostility of the crowd, the accused (Stephen) is brought before 'the council' (Sanhedrin) and given an opportunity by the High Priest to respond to the charges. This reflects the legal procedure of the time granting a defendant a formal hearing.",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects the general legal procedure for capital or religious crimes in Judean society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Infant life protection",
+      "rule_category": "Denial of body integrity",
+      "group": "Infants",
+      "group_category": "Age",
+      "resource": "Protection from exposure and death",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§219] The same dealt slyly with our race, and mistreated our fathers, that they should throw out their babies, so that they wouldn't stay alive."
+      ],
+      "reasoning": "The text describes a historical/legal decree by the Egyptian King requiring the exposure (throwing out) of Hebrew infants. This is a clear withdrawal of the right to life/protection for a specific age and ethnic group.",
+      "specificity": 4,
+      "specificity_reasoning": "It applies to a very specific age group (babies) of a specific ethnic minority.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Witness-led execution procedure",
+      "rule_category": "Legal procedure",
+      "group": "Accusers",
+      "group_category": "Legal standing",
+      "resource": "Right and duty to initiate execution",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§200] The witnesses placed their garments at the feet of a young man named Saul. They stoned Stephen as he called out..."
+      ],
+      "reasoning": "In the context of the execution by stoning, the 'witnesses' take the lead. This reflects the legal custom where those who testified against a person in a capital case were required to be the first to cast stones, signaling their responsibility for the testimony.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies only to individuals who have acted as formal legal witnesses in a capital case.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Religious assembly imprisonment",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Christians",
+      "group_category": "Occupation",
+      "resource": "Freedom from arbitrary imprisonment",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§264] But Saul ravaged the assembly, entering into every house, and dragged both men and women off to prison."
+      ],
+      "reasoning": "The text describes a systematic state or communal crackdown where belonging to the 'assembly' (the early Christian group) was grounds for being forcibly removed from one's home and imprisoned, regardless of gender.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific religious minority within the broader Judean society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of priesthood sale",
+      "rule_category": "Exclusion from religious office",
+      "group": "Wealthy individuals",
+      "group_category": "Wealth",
+      "resource": "Right to purchase spiritual authority",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§281] But Peter said to him, \"May your silver perish with you, because you thought you could obtain the gift of God with money!\", [§282] You have neither part nor lot in this matter, for your heart isn't right before God."
+      ],
+      "reasoning": "Peter's rebuke of Simon Magus establishes a rule that religious power or 'the gift of God' cannot be acquired through financial transactions (simony), effectively barring the wealthy from using their material resources to gain this specific status.",
+      "specificity": 3,
+      "specificity_reasoning": "While specifically addressed to Simon, Peter frames it as a categorical rule ('this matter') regarding the nature of the religious office/gift.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Samaritan religious inclusion",
+      "rule_category": "Access to religious rituals",
+      "group": "Samaritans",
+      "group_category": "Origin",
+      "resource": "Right to receive baptism and Holy Spirit",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§273] But when they believed Philip preaching good news concerning the Kingdom of God and the name of Jesus Christ, they were baptized, both men and women.",
+        "[§278] Then they laid their hands on them, and they received the Holy Spirit."
+      ],
+      "reasoning": "The text explicitly records Samaritans (traditionally a group separated from Jews) being formally admitted into the new religious community through baptism and the laying on of hands, representing an expansion of religious rights.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule concerns a specific ethno-religious group (Samaritans) being integrated into a new movement.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Eunuch religious initiation",
+      "rule_category": "Access to religious rituals",
+      "group": "Eunuchs",
+      "group_category": "Health",
+      "resource": "Right to religious initiation",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§297] As they went on the way, they came to some water, and the eunuch said, \"Behold, here is water. What is keeping me from being baptized?\"",
+        "[§298] He commanded the chariot to stand still, and they both went down into the water, both Philip and the eunuch, and he baptized him."
+      ],
+      "reasoning": "The text documents the baptism of an Ethiopian eunuch. In the context of ancient near-eastern religions (where eunuchs were often excluded from certain sacred spaces or assemblies), this act serves as a rule-setting event for the group's eligibility for full ritual inclusion.",
+      "specificity": 6,
+      "specificity_reasoning": "Eunuchs were a specific biological/social category with distinct status in antiquity.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Non-citizen religious worship",
+      "rule_category": "Access to sacred spaces",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to worship at central sanctuaries",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§288] Behold, there was a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship."
+      ],
+      "reasoning": "The text mentions that a high-ranking Ethiopian official traveled to Jerusalem specifically to worship, indicating that foreigners (or 'God-fearers') were allowed access to the Jerusalem temple complex for worship purposes.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any non-Jewish foreigner wishing to participate in the monotheistic worship at Jerusalem.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious extra-territorial arrest",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Protection from extra-territorial arrest by religious authorities",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§303] and asked for letters from him to the synagogues of Damascus, that if he found any who were of the Way, whether men or women, he might bring them bound to Jerusalem.",
+        "[§315] Here he has authority from the chief priests to bind all who call on your name."
+      ],
+      "reasoning": "The text describes a legal/customary arrangement where the high priest in Jerusalem could issue warrants ('letters') to synagogues in foreign cities (Damascus) to authorize the arrest and extradition of members of a specific religious group ('the Way').",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a specific emerging religious minority but applies to all its members regardless of their location within the reach of the synagogue network.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Gender-neutral religious persecution",
+      "rule_category": "Denial of judicial protection",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from arrest based on religious affiliation",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§303] and asked for letters from him to the synagogues of Damascus, that if he found any who were of the Way, whether men or women, he might bring them bound to Jerusalem."
+      ],
+      "reasoning": "The text explicitly mentions 'men or women,' indicating that gender did not provide a protection or exemption from being arrested and transported 'bound' to face trial or punishment for their religious beliefs.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all women identified with the targeted group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ecclesiastical delegation of power",
+      "rule_category": "Grant of political power",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to authorize arrests and extradition",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§315] Here he has authority from the chief priests to bind all who call on your name.",
+        "[§322] ...And he had come here intending to bring them bound before the chief priests!"
+      ],
+      "reasoning": "The high priest and chief priests are shown to possess the legal standing to delegate police powers to private agents (Saul) to enforce religious orthodoxy through physical binding and relocation of suspects.",
+      "specificity": 8,
+      "specificity_reasoning": "This power is concentrated in the hands of the high-level religious elite.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Inter-ethnic association prohibition",
+      "rule_category": "Social segregation",
+      "group": "Jews",
+      "group_category": "Origin",
+      "resource": "Freedom to associate with foreigners",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§373] He said to them, \"You yourselves know how it is an unlawful thing for a man who is a Jew to join himself or come to one of another nation, but God has shown me that I shouldn't call any man unholy or unclean.\""
+      ],
+      "reasoning": "Peter explicitly cites a contemporary legal/customary restriction ('unlawful thing') that forbade Jews from associating with or visiting people of other nations (Gentiles).",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applied to the entire Jewish population within the multi-ethnic Roman Levant.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Gentile religious inclusion",
+      "rule_category": "Access to religious community",
+      "group": "Gentiles",
+      "group_category": "Origin",
+      "resource": "Right to religious initiation (baptism)",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§392] \"Can any man forbid the water, that these who have received the Holy Spirit as well as we should not be baptized?\"",
+        "[§393] He commanded them to be baptized in the name of Jesus Christ."
+      ],
+      "reasoning": "The text documents a shift where Gentiles, previously excluded from Jewish-derived sectarian rituals, are granted the concrete right to baptism and formal inclusion in the community.",
+      "specificity": 4,
+      "specificity_reasoning": "It affects all non-Jewish individuals seeking to join the nascent Christian movement.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave mobility for masters",
+      "rule_category": "Control of movement",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom of movement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§352] When the angel who spoke to him had departed, Cornelius called two of his household servants and a devout soldier of those who waited on him continually.",
+        "[§353] Having explained everything to them, he sent them to Joppa."
+      ],
+      "reasoning": "The text illustrates the master's legal and customary authority to dispatch household servants on long-distance journeys at will, confirming that their movement was entirely at the discretion of the owner.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general characteristic of the status of household slaves in the Roman world.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Jewish-Gentile commensality restriction",
+      "rule_category": "Restriction of social association",
+      "group": "Jews",
+      "group_category": "Origin",
+      "resource": "Right to eat with uncircumcised persons",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§396] When Peter had come up to Jerusalem, those who were of the circumcision contended with him, [§397] saying, 'You went in to uncircumcised men, and ate with them!'"
+      ],
+      "reasoning": "The text describes a pre-existing social and religious rule among the 'circumcision' (Jews) that prohibited entering the homes of or eating with uncircumcised Gentiles. Peter's action is treated as a violation of a known norm that maintained a social barrier between these groups.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applied to the entire Jewish population in their interactions with the non-Jewish world, representing a significant portion of the society described.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Guard liability for escapes",
+      "rule_category": "Imposition of capital liability",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Protection from execution for prisoner escape",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§444] When Herod had sought for him, and didn't find him, he examined the guards, and commanded that they should be put to death."
+      ],
+      "reasoning": "The execution of the guards following Peter's escape reflects a Roman-era military and legal principle where guards were held personally and capitally responsible for the presence of the prisoners under their watch.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to soldiers/guards in the exercise of their duties, which is a specific but substantial occupational group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreign dependency for food",
+      "rule_category": "Denial of resource autonomy",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Autonomy over food supply",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§445] Now Herod was highly displeased with those of Tyre and Sidon. They came with one accord to him, and, having made Blastus, the king's chamberlain, their friend, they asked for peace, because their country depended on the king's country for food."
+      ],
+      "reasoning": "The text identifies a structural economic dependency where the people of Tyre and Sidon (foreigners relative to Herod's Judea/Galilee) were physically dependent on the king's territory for their basic food supply, forcing them into political submission.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to the inhabitants of specific neighboring city-states rather than a general class of people.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Mutual aid obligation",
+      "rule_category": "Access to community relief",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Retention of surplus wealth during famine",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§423] The disciples, as anyone had plenty, each determined to send relief to the brothers who lived in Judea;"
+      ],
+      "reasoning": "The text describes a systematic community rule among the early Christians (the disciples) where those with 'plenty' (the wealthy or those with surplus) were obligated to redistribute their resources to provide relief to other members of the group during a famine.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to members of a specific religious community with surplus resources.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Prophetic speaking right",
+      "rule_category": "Access to religious assembly",
+      "group": "Brothers",
+      "group_category": "Origin",
+      "resource": "Right to address the synagogue",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§465] But they, passing through from Perga, came to Antioch of Pisidia. They went into the synagogue on the Sabbath day, and sat down. [§466] After the reading of the law and the prophets, the rulers of the synagogue sent to them, saying, 'Brothers, if you have any word of exhortation for the people, speak.'"
+      ],
+      "reasoning": "The rulers of the synagogue explicitly invite those they recognize as 'brothers' (fellow Jews) to provide exhortation after the formal reading of scripture, indicating a customary right for qualified males within the community to speak in the assembly.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population (Jewish men/visiting teachers) in a specific religious-legal setting.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Proselyte assembly participation",
+      "rule_category": "Access to religious assembly",
+      "group": "Proselytes",
+      "group_category": "Origin",
+      "resource": "Right to attend synagogue services",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§494] Now when the synagogue broke up, many of the Jews and of the devout proselytes followed Paul and Barnabas; who, speaking to them, urged them to continue in the grace of God."
+      ],
+      "reasoning": "The text identifies 'devout proselytes' (converts to Judaism) as legitimate participants in the synagogue service and the subsequent theological discussions, showing they shared the resource of religious assembly with natural-born Jews.",
+      "specificity": 5,
+      "specificity_reasoning": "Proselytes are a distinct minority group within the broader society defined by their conversion status.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Gentile preaching exclusion",
+      "rule_category": "Denial of religious priority",
+      "group": "Gentiles",
+      "group_category": "Origin",
+      "resource": "Priority in receiving religious proclamation",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§497] Paul and Barnabas spoke out boldly, and said, 'It was necessary that God's word should be spoken to you first. Since indeed you thrust it from you, and judge yourselves unworthy of eternal life, behold, we turn to the Gentiles.'"
+      ],
+      "reasoning": "The text outlines a hierarchy of access where the Jewish community is legally/customarily entitled to the first hearing of the 'word,' and Gentiles only receive it after the primary group has rejected it.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule concerns the vast majority of the population in the Mediterranean world (non-Jews).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Expulsion of agitators",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Foreign teachers",
+      "group_category": "Occupation",
+      "resource": "Right to remain within city borders",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§501] But the Jews urged on the devout women of honorable estate, and the chief men of the city, and stirred up a persecution against Paul and Barnabas, and threw them out of their borders."
+      ],
+      "reasoning": "The 'chief men of the city' (local authorities) exercised a legal power of expulsion (relegatio) against individuals perceived as disturbing the peace, effectively removing their freedom of movement within that jurisdiction.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to traveling teachers or individuals designated as disturbers of the public order.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Civic influence of elites",
+      "rule_category": "Access to political power",
+      "group": "Wealthy women",
+      "group_category": [
+        "Gender",
+        "Wealth"
+      ],
+      "resource": "Right to influence local magistrates",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§501] But the Jews urged on the devout women of honorable estate, and the chief men of the city, and stirred up a persecution against Paul and Barnabas, and threw them out of their borders."
+      ],
+      "reasoning": "The mention of 'women of honorable estate' (high-status, likely wealthy women) as being targeted for persuasion alongside the 'chief men' shows that women of high socioeconomic lineage possessed the material resource of political influence over city policy, despite lacking formal office.",
+      "specificity": 6,
+      "specificity_reasoning": "This describes a narrow elite class defined by both gender and high social/wealth status.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Eldership appointment",
+      "rule_category": "Access to political power",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to hold office in the assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§527] When they had appointed elders for them in every assembly, and had prayed with fasting, they commended them to the Lord, on whom they had believed."
+      ],
+      "reasoning": "The text describes the formal appointment of 'elders' (presbyteroi) as a recognized leadership class within the early Christian assemblies, granting them specific administrative or spiritual authority.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the community (the aged or established) who are selected for leadership across multiple cities.",
+      "confidence": 10
+    },
+    {
+      "rule_code": "Gentile circumcision exemption",
+      "rule_name": "Circumcision exemption",
+      "rule_category": "Exemption from ritual law",
+      "group": "Gentiles",
+      "group_category": "Origin",
+      "resource": "Exemption from the Law of Moses",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§552] Therefore my judgment is that we don't trouble those from among the Gentiles who turn to God, [§553] but that we write to them that they abstain from the pollution of idols, from sexual immorality, from what is strangled, and from blood."
+      ],
+      "reasoning": "The Jerusalem Council formally decided that Gentile converts were not required to undergo circumcision or adhere to the full Mosaic Law, a significant legal/customary distinction between them and Jewish believers.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all non-Jewish members of the expanding religious society, which was a very large group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Gentile dietary restrictions",
+      "rule_category": "Restriction of religious access",
+      "group": "Gentiles",
+      "group_category": "Origin",
+      "resource": "Right to consume certain foods (strangled or blood)",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§553] but that we write to them that they abstain from the pollution of idols, from sexual immorality, from what is strangled, and from blood."
+      ],
+      "reasoning": "While exempted from circumcision, Gentile members were specifically prohibited from certain dietary practices (eating blood or strangled animals) as a condition of their inclusion in the community.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad category of all Gentile converts.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pharisaic law enforcement",
+      "rule_category": "Access to ritual purity",
+      "group": "Pharisees",
+      "group_category": "Occupation",
+      "resource": "Right to enforce Mosaic Law on others",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§538] But some of the sect of the Pharisees who believed rose up, saying, 'It is necessary to circumcise them, and to charge them to keep the law of Moses.' ... [§542] He made no distinction between us and them, cleansing their hearts by faith."
+      ],
+      "reasoning": "The text records a conflict where a specific occupational/religious group (Pharisees) tried to maintain their traditional right to enforce ritual law, but the assembly's decision ultimately stripped them of this authority over Gentiles.",
+      "specificity": 6,
+      "specificity_reasoning": "This refers to the specific sect of Pharisees within the larger believer community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gentile dietary law exemptions",
+      "rule_category": "Relaxation of religious law",
+      "group": "Gentiles",
+      "group_category": "Origin",
+      "resource": "Exemption from traditional Jewish law",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§561] For it seemed good to the Holy Spirit, and to us, to lay no greater burden on you than these necessary things: [§562] that you abstain from things sacrificed to idols, from blood, from things strangled, and from sexual immorality, from which if you keep yourselves, it will be well with you."
+      ],
+      "reasoning": "The council at Jerusalem explicitly rules that Gentile converts do not need to follow the full Mosaic Law (specifically circumcision), but only a limited set of prohibitions, effectively granting them a different legal/religious status than Jewish converts.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all non-Jewish members of the expanding Christian community across multiple regions (Antioch, Syria, Cilicia).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave labor exploitation",
+      "rule_category": "Denial of economic autonomy",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to personal earnings",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§590] It happened, as we were going to prayer, that a certain girl having a spirit of divination met us, who brought her masters much gain by fortune telling."
+      ],
+      "reasoning": "The text describes a slave girl whose labor and unique 'ability' (divination) are entirely commodified for the profit of her 'masters', showing that slaves had no right to the wealth produced by their own activities.",
+      "specificity": 3,
+      "specificity_reasoning": "While describing a specific girl, the plural 'masters' and the casual description of 'bringing much gain' reflects the standard legal condition of slaves in Roman society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Roman protection from summary punishment",
+      "rule_category": "Access to judicial protection",
+      "group": "Roman citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from corporal punishment without trial",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§611] But Paul said to them, 'They have beaten us publicly, without a trial, men who are Romans, and have cast us into prison! Do they now release us secretly? No, most assuredly, but let them come themselves and bring us out!' [§612] The sergeants reported these words to the magistrates, and they were afraid when they heard that they were Romans."
+      ],
+      "reasoning": "The reaction of the magistrates—fear upon learning the victims were Romans—proves that Roman citizens possessed a specific legal right to a trial before being subjected to public beating or imprisonment, a right non-citizens did not share.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all individuals holding Roman citizenship throughout the Empire.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Roman trial requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Roman citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to a public trial",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§611] But Paul said to them, 'They have beaten us publicly, without a trial, men who are Romans, and have cast us into prison!'"
+      ],
+      "reasoning": "Paul explicitly invokes his status as a 'Roman' to challenge the legality of his treatment, citing the lack of a trial as a violation of his specific rights as a citizen.",
+      "specificity": 2,
+      "specificity_reasoning": "Citizenship was a broad but distinct category within the Roman world with codified legal protections.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial security requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to release from custody",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§621] When they didn't find them, they dragged Jason and certain brothers before the rulers of the city... [§624] When they had taken security from Jason and the rest, they let them go."
+      ],
+      "reasoning": "In Thessalonica, the municipal rulers (politarchs) used the practice of taking 'security' (likely a financial bond or promise of good behavior) as a legal mechanism to release individuals who had been brought before them under accusation.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual brought before the city rulers under a criminal or civil complaint, which is a significant but defined subset of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public interrogation in Athens",
+      "rule_category": "Exclusion from intellectual privacy",
+      "group": "Foreign teachers",
+      "group_category": "Citizenship",
+      "resource": "Right to explain public teachings",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§634] They took hold of him, and brought him to the Areopagus, saying, 'May we know what this new teaching is, which is spoken by you? [§635] For you bring certain strange things to our ears. We want to know therefore what these things mean.'"
+      ],
+      "reasoning": "The text describes a custom or rule in Athens where those introducing 'strange' or 'foreign' ideas are brought before a council or public gathering (the Areopagus) to give a formal account of their teachings, granting them a platform but also subjecting them to official scrutiny.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule specifically targets foreign individuals attempting to introduce new religious or philosophical systems into the Athenian public sphere.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Jewish expulsion from Rome",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Jews",
+      "group_category": "Origin",
+      "resource": "Right to reside in Rome",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§652] He found a certain Jew named Aquila, a man of Pontus by race, who had recently come from Italy, with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome."
+      ],
+      "reasoning": "The text cites a historical decree by the Emperor Claudius that systematically stripped the Jewish population of their right to reside in the capital city of the Empire.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applied to an entire ethnic/religious group within a major Roman territory, affecting thousands of people.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Jurisdictional religious immunity",
+      "rule_category": "Access to judicial protection",
+      "group": "Religious practitioners",
+      "group_category": "Occupation",
+      "resource": "Exemption from secular trial",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§664] But when Paul was about to open his mouth, Gallio said to the Jews, 'If indeed it were a matter of wrong or of wicked crime, Jews, it would be reasonable that I should bear with you; [§665] but if they are questions about words and names and your own law, look to it yourselves. For I don't want to be a judge of these matters.'"
+      ],
+      "reasoning": "The Roman proconsul Gallio articulates a legal principle of the Roman administration: the state will not adjudicate internal religious disputes or matters of 'words and names' that do not involve a 'wrong or wicked crime.' This grants groups a form of self-governance in religious law.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a high-level jurisdictional policy affecting how the Roman state interacted with all diverse religious and cultural groups in its provinces.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public hearing for grievances",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to press charges in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§717] If therefore Demetrius and the craftsmen who are with him have a matter against anyone, the courts are open, and there are proconsuls. Let them press charges against one another."
+      ],
+      "reasoning": "The town clerk of Ephesus explicitly cites the availability of the court system and proconsuls as the legitimate mechanism for resolving private disputes or professional grievances, rather than mob action.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule describes the general legal standing available to residents/citizens of a Roman province to resolve disputes through official channels.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Assembly for civil matters",
+      "rule_category": "Access to political process",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to settle non-judicial matters in assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§718] But if you seek anything about other matters, it will be settled in the regular assembly."
+      ],
+      "reasoning": "The text identifies the 'regular assembly' (ekklēsia) as the proper civic venue for settling public matters that do not fall under the direct jurisdiction of the courts or proconsuls.",
+      "specificity": 3,
+      "specificity_reasoning": "The assembly was a broad institution for the body of citizens in a Greek city-state under Roman rule.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of illegal assembly",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from being accused of rioting",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§719] For indeed we are in danger of being accused concerning this day's riot, there being no cause. Concerning it, we wouldn't be able to give an account of this commotion."
+      ],
+      "reasoning": "The town clerk warns the crowd that an unorganized, 'irregular' assembly (a riot) makes the participants liable to legal charges from the Roman authorities, as they cannot justify the gathering.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule against illegal assembly applied to the entire population of the city to maintain Roman order.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Jewish silencing in public",
+      "rule_category": "Exclusion from political speech",
+      "group": "Jews",
+      "group_category": "Origin",
+      "resource": "Right to make a public defense",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§712] They brought Alexander out of the multitude, the Jews putting him forward. Alexander beckoned with his hand, and would have made a defense to the people. [§713] But when they perceived that he was a Jew, all with one voice for a time of about two hours cried out, 'Great is Artemis of the Ephesians!'"
+      ],
+      "reasoning": "In the context of the Ephesian riot, the crowd systematically refuses to allow a member of the Jewish group to speak or offer a defense solely based on his ethnic/religious identity, using communal shouting to drown him out.",
+      "specificity": 5,
+      "specificity_reasoning": "This describes a customary exclusion applied to a specific ethnic minority within the Greek city environment during a time of tension.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Elder authority in assembly",
+      "rule_category": "Access to political leadership",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to lead and oversee the assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§738] From Miletus he sent to Ephesus, and called to himself the elders of the assembly.",
+        "[§749] Take heed, therefore, to yourselves, and to all the flock, in which the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and God which he purchased with his own blood."
+      ],
+      "reasoning": "The text identifies a specific class of members ('elders') who are summoned as the representative leadership and explicitly tasked with the role of 'overseers' and 'shepherds' of the community, granting them governing authority over the general assembly.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific leadership class based on age/status within a widespread religious community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Communal inheritance for sanctified",
+      "rule_category": "Grant of economic privilege",
+      "group": "Sanctified members",
+      "group_category": "Occupation",
+      "resource": "Right to communal inheritance",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§753] Now, brothers, I entrust you to God, and to the word of his grace, which is able to build up, and to give you the inheritance among all those who are sanctified."
+      ],
+      "reasoning": "The text describes a concrete 'inheritance' that is shared among those who achieve a specific status ('sanctified') within the group, representing a collective resource or entitlement managed by the community.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all individuals who meet the criteria of being 'sanctified' within the burgeoning Christian society.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Obligation to support weak",
+      "rule_category": "Obligation of public duty",
+      "group": "Laborers",
+      "group_category": "Occupation",
+      "resource": "Retention of full wages",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§756] In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, 'It is more blessed to give than to receive.'"
+      ],
+      "reasoning": "The text establishes a social rule where those who perform manual labor ('so laboring') are expected to divert a portion of their earnings or energy to a different group ('the weak'). This decreases their personal retention of the fruits of their labor.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to any common laborer within the social group being addressed.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Ethnic temple exclusion",
+      "rule_category": "Exclusion from sacred spaces",
+      "group": "Greeks",
+      "group_category": "Origin",
+      "resource": "Right to enter the Temple",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§788] crying out, \"Men of Israel, help! This is the man who teaches all men everywhere against the people, and the law, and this place. Moreover, he also brought Greeks into the temple, and has defiled this holy place!\""
+      ],
+      "reasoning": "The text identifies the presence of Greeks in the temple as an act of defilement and a breach of law, indicating a strict prohibition against non-Jews (Gentiles/Greeks) entering the inner sacred precincts of the Jerusalem Temple.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all non-Jewish foreigners (Greeks/Gentiles) visiting Jerusalem, a significant but specific subset of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Gentile dietary restrictions",
+      "rule_category": "Religious and social regulation",
+      "group": "Gentiles",
+      "group_category": "Origin",
+      "resource": "Freedom of diet",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§785] But concerning the Gentiles who believe, we have written our decision that they should observe no such thing, except that they should keep themselves from food offered to idols, from blood, from strangled things, and from sexual immorality."
+      ],
+      "reasoning": "While exempted from the full Mosaic law (circumcision), Gentile converts to the Jesus movement were formally restricted from consuming specific types of food (blood, strangled meat, idols' food) as a matter of communal policy.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all Gentile converts within the specific religious community described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Jewish ritual circumcision",
+      "rule_category": "Obligation of ancestral custom",
+      "group": "Jews",
+      "group_category": "Origin",
+      "resource": "Right to maintain ancestral customs",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§780] They said to him, \"You see, brother, how many thousands there are among the Jews of those who have believed, and they are all zealous for the law. [§781] They have been informed about you, that you teach all the Jews who are among the Gentiles to forsake Moses, telling them not to circumcise their children neither to walk after the customs.\""
+      ],
+      "reasoning": "The text presents circumcision and the 'customs' of Moses as a mandatory identity marker for Jews, even those who have converted to the new movement, framing the abandonment of these practices as a serious accusation.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all members of the Jewish ethnic group within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public address permission",
+      "rule_category": "Regulation of public speech",
+      "group": "Prisoners",
+      "group_category": "Freedom status",
+      "resource": "Right to address a public assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§799] I beg you, allow me to speak to the people. [§800] When he had given him permission, Paul, standing on the stairs, beckoned with his hand to the people."
+      ],
+      "reasoning": "Once Paul is arrested and in the custody of the Roman military, he has no inherent right to speak to the gathered crowd; he must explicitly request and receive permission from the commanding officer.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to individuals under active military arrest or in custody.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Roman immunity from scourging",
+      "rule_category": "Protection from bodily harm",
+      "group": "Romans",
+      "group_category": "Citizenship",
+      "resource": "Protection from corporal punishment without conviction",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§826] When they had tied him up with thongs, Paul asked the centurion who stood by, \"Is it lawful for you to scourge a man who is a Roman, and not found guilty?\" [§827] When the centurion heard it, he went to the commanding officer and told him, \"Watch what you are about to do, for this man is a Roman!\""
+      ],
+      "reasoning": "The text explicitly identifies a legal restriction against scourging a Roman citizen who has not been found guilty. The reaction of the officers indicates this was an enforced legal protection within the Roman administration.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applied to all individuals holding Roman citizenship throughout the empire, a significant but specific subset of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Roman immunity from binding",
+      "rule_category": "Protection from bodily harm",
+      "group": "Romans",
+      "group_category": "Citizenship",
+      "resource": "Protection from being bound for examination",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§830] Immediately those who were about to examine him departed from him, and the commanding officer also was afraid when he realized that he was a Roman, because he had bound him."
+      ],
+      "reasoning": "The commanding officer's fear upon learning Paul's status reveals that even binding a Roman citizen for the purpose of a forced examination (without a trial) was a violation of their rights.",
+      "specificity": 2,
+      "specificity_reasoning": "This applied to the broad class of Roman citizens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prohibition of ruler-maligning",
+      "rule_category": "Legal standing",
+      "group": "Subjects",
+      "group_category": "Citizenship",
+      "resource": "Right to speak evil of leaders",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§837] Paul said, \"I didn't know, brothers, that he was high priest. For it is written, 'You shall not speak evil of a ruler of your people.'\""
+      ],
+      "reasoning": "Paul cites a specific religious and customary law that prohibits speaking ill of a person in a position of authority (a 'ruler'), which acted as a constraint on the speech of subjects toward their leaders.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a general command applicable to all members of the Jewish community ('your people') regarding any of their rulers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Defendant protection from assault",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Protection from physical assault during trial",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§835] Then Paul said to him, \"God will strike you, you whitewashed wall! Do you sit to judge me according to the law, and command me to be struck contrary to the law?\""
+      ],
+      "reasoning": "Paul objects to being struck while his case is being heard, explicitly claiming that such an act is 'contrary to the law' governing judicial proceedings.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to individuals currently undergoing a formal judicial inquiry or trial.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Citizen right to hearing",
+      "rule_category": "Access to judicial protection",
+      "group": "Romans",
+      "group_category": "Citizenship",
+      "resource": "Right to a formal hearing before a governor",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§832] He asked them to provide animals, that they might set Paul on one, and bring him safely to Felix the governor. ... [§832] \"I will hear you fully when your accusers also arrive.\""
+      ],
+      "reasoning": "Because Paul is a Roman citizen accused of crimes that local groups want to punish extrajudicially or via local council, the Roman military ensures he is safely transported to the regional governor for a formal legal hearing.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a standard right afforded to Roman citizens involved in serious legal disputes in the provinces.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Roman citizen judicial protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Romans",
+      "group_category": "Citizenship",
+      "resource": "Protection from local extrajudicial execution",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§858] Claudius Lysias to the most excellent governor Felix: Greetings. [§859] This man was seized by the Jews, and was about to be killed by them, when I came with the soldiers and rescued him, having learned that he was a Roman."
+      ],
+      "reasoning": "The commander Claudius Lysias explicitly justifies his military intervention to rescue Paul from a local mob based on Paul's status as a Roman citizen, indicating that such status triggered specific imperial protection from local summary justice.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all individuals holding Roman citizenship within the empire's provinces.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Accused face-to-face defense",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to confront accusers face to face",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§895] To whom I answered that it is not the custom of the Romans to give up any man to destruction, before the accused have met the accusers face to face, and have had opportunity to make his defense concerning the matter laid against him."
+      ],
+      "reasoning": "Festus explicitly states the 'custom of the Romans' (legal procedure) which mandates that a defendant must be allowed to confront their accusers in person before a sentence or 'destruction' can be carried out.",
+      "specificity": 2,
+      "specificity_reasoning": "This is described as a general Roman legal custom for any man facing trial.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizen right of appeal",
+      "rule_category": "Access to judicial protection",
+      "group": "Roman citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to appeal to the Emperor's judgment seat",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§905] But Paul said, 'I am standing before Caesar's judgment seat, where I ought to be tried. I have done no wrong to the Jews, as you also know very well. [§906] For if I have done wrong, and have committed anything worthy of death, I don't refuse to die; but if none of those things is true that these accuse me of, no one can give me up to them. I appeal to Caesar!'"
+      ],
+      "reasoning": "Paul, as a Roman citizen, exercises the legal right of 'provocatio'—appealing to the Emperor (Caesar) to move a case from a provincial governor's jurisdiction to Rome.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a specific legal right reserved for Roman citizens in legal jeopardy.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prisoner maintenance of ties",
+      "rule_category": "Grant of economic privilege",
+      "group": "Prisoners",
+      "group_category": "Legal standing",
+      "resource": "Right to receive care and visits from friends",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§890] He ordered the centurion that Paul should be kept in custody, and should have some privileges, and not to forbid any of his friends to serve him or to visit him."
+      ],
+      "reasoning": "While in custody, the governor grants a specific privilege allowing the prisoner to receive service and visits from friends, showing that prisoners could be legally granted access to external support networks.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those in custody under the discretion of a Roman official.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Requirement of specific charges",
+      "rule_category": "Access to judicial protection",
+      "group": "Prisoners",
+      "group_category": "Legal standing",
+      "resource": "Right to have specific charges filed",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§895] For it seems to me unreasonable, in sending a prisoner, not to also specify the charges against him."
+      ],
+      "reasoning": "The governor Festus states that sending a prisoner for higher judgment without specifying charges is 'unreasonable,' implying a procedural requirement for formal accusations to accompany the transfer of a prisoner.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a procedural rule affecting any prisoner being transferred for trial.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Accuser-defendant confrontation right",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to confront accusers face to face",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§911] To whom I answered that it is not the custom of the Romans to give up any man to destruction, before the accused have met the accusers face to face, and have had opportunity to make his defense concerning the matter laid against him."
+      ],
+      "reasoning": "The Roman governor Festus explicitly articulates a Roman legal custom (lex) that forbids the execution or condemnation of a person without a formal confrontation between the accused and the accusers, granting the defendant the right to a verbal defense.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general procedural rule of Roman law that applies to any person (including non-citizens in this context) brought before a Roman tribunal.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Right of imperial appeal",
+      "rule_category": "Access to high-level jurisdiction",
+      "group": "Roman Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to be judged by the Emperor",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§916] But when Paul had appealed to be kept for the decision of the emperor, I commanded him to be kept until I could send him to Caesar.",
+        "[§955] Agrippa said to Festus, 'This man might have been set free if he had not appealed to Caesar.'"
+      ],
+      "reasoning": "The text demonstrates the 'provocatio ad Caesarem', where a prisoner can remove their case from a local governor's jurisdiction to be heard by the Emperor. The fact that the local authorities 'could have' freed him but were legally bound to send him because of the appeal shows the binding nature of this resource.",
+      "specificity": 4,
+      "specificity_reasoning": "While a powerful right, it is restricted to those with the status to invoke it (in history, Roman citizens) and involves specific higher-level legal procedures.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Requirement of specific charges",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to have specific charges specified",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§922] For it seems to me unreasonable, in sending a prisoner, not to also specify the charges against him."
+      ],
+      "reasoning": "Festus identifies a procedural requirement that a prisoner being sent for higher trial must have specific, concrete legal charges attached to their case, protecting the accused from arbitrary or vague detention without cause.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general administrative and legal requirement for the processing of prisoners within the Roman judicial system.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious authority carceral power",
+      "rule_category": "Grant of judicial privilege",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Authority to imprison and punish",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§933] I both shut up many of the saints in prisons, having received authority from the chief priests, and when they were put to death I gave my vote against them.",
+        "[§935] Whereupon as I journeyed to Damascus with the authority and commission from the chief priests"
+      ],
+      "reasoning": "The text describes a system where the Jewish chief priests had the legal/customary authority to commission agents to imprison and prosecute individuals across jurisdictions, indicating a delegate-based carceral power held by the religious elite.",
+      "specificity": 6,
+      "specificity_reasoning": "This power is specific to the high-ranking religious officials in Judea regarding their own subjects.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Custodial movement privilege",
+      "rule_category": "Access to social networks",
+      "group": "Prisoners",
+      "group_category": "Freedom status",
+      "resource": "Permission to visit friends while in transit",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§959] The next day, we touched at Sidon. Julius treated Paul kindly, and gave him permission to go to his friends and refresh himself."
+      ],
+      "reasoning": "The text demonstrates that a Roman centurion had the discretionary power to grant a prisoner the right to leave custody temporarily to visit friends, suggesting that prisoners were not always strictly confined during transport.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific subset of the population (prisoners in transit) and is subject to the discretion of a specific officer.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maritime decision-making hierarchy",
+      "rule_category": "Exclusion from operational command",
+      "group": "Prisoners",
+      "group_category": "Freedom status",
+      "resource": "Influence on navigational decisions",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§967] But the centurion gave more heed to the master and to the owner of the ship than to those things which were spoken by Paul."
+      ],
+      "reasoning": "The centurion prioritizes the technical experts (master and owner) over the prisoner's advice. While Paul is heard, his status as a prisoner places his input at the bottom of the hierarchy regarding the ship's movement.",
+      "specificity": 4,
+      "specificity_reasoning": "This reflects a general social hierarchy on a vessel where prisoners have lower standing than owners or officers.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Summary execution of prisoners",
+      "rule_category": "Denial of life protection",
+      "group": "Prisoners",
+      "group_category": "Freedom status",
+      "resource": "Protection from extrajudicial execution by guards",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§998] The soldiers' counsel was to kill the prisoners, so that none of them would swim out and escape."
+      ],
+      "reasoning": "In a crisis (shipwreck), the soldiers immediately propose killing the prisoners to prevent escape for which the guards would be liable. This indicates that the lives of prisoners could be summarily terminated by guards to ensure security protocols.",
+      "specificity": 3,
+      "specificity_reasoning": "This pertains to the general legal/customary vulnerability of prisoners under Roman guard in escape scenarios.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Commanding officer's protection power",
+      "rule_category": "Access to judicial protection",
+      "group": "Prisoners",
+      "group_category": "Freedom status",
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§999] But the centurion, desiring to save Paul, stopped them from their purpose, and commanded that those who could swim should throw themselves overboard first to go to the land"
+      ],
+      "reasoning": "A high-ranking officer (centurion) has the legal authority to overrule the soldiers' desire to execute prisoners, providing a layer of protection based on the commander's discretion.",
+      "specificity": 5,
+      "specificity_reasoning": "The protection depends on the presence and specific decision of a high-ranking officer over his subordinates.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Roman Citizen Custodial Privilege",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to private house arrest",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§1017] When we entered into Rome, the centurion delivered the prisoners to the captain of the guard, but Paul was allowed to stay by himself with the soldier who guarded him.",
+        "[§1031] Paul stayed two whole years in his own rented house, and received all who went in to him,"
+      ],
+      "reasoning": "In the Roman legal context of Acts, Paul (established earlier in the text as a Roman citizen) is granted a specific custodial privilege. While other prisoners are delivered to the captain of the guard, he is permitted to live in a private rented residence rather than a public prison while awaiting trial.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to a subset of individuals (citizens or those with high-status legal standing) under Roman criminal jurisdiction.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Imperial Appeal Right",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to appeal to Caesar",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1020] But when the Jews spoke against it, I was constrained to appeal to Caesar, not that I had anything about which to accuse my nation."
+      ],
+      "reasoning": "The text describes the legal mechanism of 'provocatio', where a Roman citizen could remove their case from local or provincial jurisdiction to the Emperor's court in Rome if they felt the local process was compromised.",
+      "specificity": 3,
+      "specificity_reasoning": "This was a standard legal right available to all Roman citizens facing capital charges in the provinces.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from groundless execution",
+      "rule_category": "Protection from bodily harm",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to release without cause of death",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§1019] who, when they had examined me, desired to set me free, because there was no cause of death in me."
+      ],
+      "reasoning": "The passage confirms a Roman legal standard where a defendant must be set free if an examination (trial or hearing) finds no legally defined capital offense (cause of death).",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects the general procedural law of the Roman state regarding the treatment of prisoners under examination.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prisoner teaching freedom",
+      "rule_category": "Access to political speech",
+      "group": "Prisoners",
+      "group_category": "Freedom status",
+      "resource": "Right to receive visitors and teach",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1031] Paul stayed two whole years in his own rented house, and received all who went in to him, [§1032] preaching the Kingdom of God, and teaching the things concerning the Lord Jesus Christ with all boldness, without hinderance."
+      ],
+      "reasoning": "The text explicitly notes that even while 'bound with this chain' (under guard), the prisoner was legally permitted to receive anyone and speak/teach 'without hindrance,' indicating a lack of censorship for certain classes of detainees.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to prisoners held under specific conditions of 'custodia libera' or 'custodia militaris'.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 20,
+  "_file_id": "tlg0031.tlg005.perseus-eng2",
+  "_input_tokens": 151766,
+  "_output_tokens": 20872,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,106 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "State debtor litigation ban",
+      "rule_category": "Restriction of legal standing",
+      "group": "State debtors",
+      "group_category": "Wealth",
+      "resource": "Right to prosecute cases in court",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§2] While he has been in debt to the state he has prosecuted men with citizen rights, though not entitled to do so, and has committed numerous other offences of which you have a more exact knowledge than I."
+      ],
+      "reasoning": "The text explicitly states that a person in debt to the state is 'not entitled' to prosecute citizens, identifying a legal disability based on financial obligation to the city.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population (those with outstanding public debts), which was a recognized legal category in Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "State debtor speech ban",
+      "rule_category": "Exclusion from political speech",
+      "group": "State debtors",
+      "group_category": "Wealth",
+      "resource": "Right to speak and propose measures in the Assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Has he not persisted in maligning every one of you he meets, though he has not yet paid up, and in speaking and proposing measures in the Assembly, regardless of all the penalties against wrongdoers which the laws prescribe?",
+        "[§13] And finally, when an information was lodged against him by Lycurgus, and he was convicted, a debtor to the state without the right to speak in public..."
+      ],
+      "reasoning": "Athenian law stripped citizens of their right to address the Assembly (atimia) if they had unpaid debts to the treasury.",
+      "specificity": 4,
+      "specificity_reasoning": "This targets the category of citizens who have defaulted on state payments or fines.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public office qualification check",
+      "rule_category": "Access to political office",
+      "group": "Candidates for office",
+      "group_category": "Occupation",
+      "resource": "Right to hold public office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] Moreover, when choosing a man for public office they used to ask what his personal character was, whether he treated his parents well, whether he had served the city in the field, whether he had an ancestral cult or paid taxes.",
+        "[§18] Aristogiton could not claim one of these qualifications for himself. So far from treating his parents well this man has ill-treated his own father."
+      ],
+      "reasoning": "The text describes the 'dokimasia' process where candidates for office are vetted. Failure to meet criteria like filial piety (treating parents well) or military service results in exclusion.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to citizens seeking to enter the magistracy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Bribery disenfranchisement",
+      "rule_category": "Exclusion from political speech",
+      "group": "Bribe-takers",
+      "group_category": "Wealth",
+      "resource": "Right to make speeches or proposals in the Assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§16] In the first place, at every sitting of the Assembly they publicly proclaimed curses against wrongdoers, calling down destruction on any who, after accepting bribes, made speeches or proposals upon state affairs, and to that class Aristogiton now belongs."
+      ],
+      "reasoning": "Customary and legal religious curses were used to bar those who took bribes from participating in the political deliberation of the state.",
+      "specificity": 3,
+      "specificity_reasoning": "While behavior-based, it defines a broad category of 'corrupt' persons who are systematically excluded from the Assembly.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Foreigner marriage/descent exclusion",
+      "rule_category": "Marriage restriction by origin",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right of descendants to retain citizenship",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§25] ...explicitly writing on the pillar that Arthmius, son of Pithonax, the Zelite, was an enemy of the people and its allies, he and his descendants, and was exiled from Athens because he had brought the Persian gold to the Peloponnese."
+      ],
+      "reasoning": "The text demonstrates that for certain crimes committed by non-citizens or enemies, the exclusion (exile and loss of status) extends to their descendants, barring the lineage from future integration.",
+      "specificity": 7,
+      "specificity_reasoning": "This is a specific penalty applied to individuals of foreign origin (Zelites) and their specific lineage.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prisoner social isolation",
+      "rule_category": "Restriction of social rights",
+      "group": "Prisoners",
+      "group_category": "Freedom status",
+      "resource": "Right to communal meals and religious participation",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] ...the inmates voted that no one should either light a fire for him or sit at meals or share the usual sacrifices with him."
+      ],
+      "reasoning": "Even within the incarcerated population, customary rules allowed for the further removal of resources like shared fire and religious sacrifices for those deemed exceptionally debased.",
+      "specificity": 8,
+      "specificity_reasoning": "This describes a very specific sub-group: prisoners within the prison who have further violated internal norms.",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0029.tlg005.perseus-eng2",
+  "_input_tokens": 7498,
+  "_output_tokens": 1460,
+  "_model": "google/gemini-3-flash-preview"
+}

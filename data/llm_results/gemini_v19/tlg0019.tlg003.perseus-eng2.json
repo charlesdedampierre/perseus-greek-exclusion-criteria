@@ -1,0 +1,755 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Freedom",
+      "rule": "Master's right to corporal punishment",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": "[§1] My domestics are snoring; but they would not have done so heretofore! May you perish then, O war! For many reasons; because I may not even punish my domestics.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Strepsiades complains that because of the war, he is unable to punish his slaves (domestics). This implies that under normal social rules, a master possesses the right to physically punish his slaves, and the current inability to do so is an aberration caused by the war.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen liability for debts",
+      "group": "Citizens",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": "[§1] I am driven to distraction, as I see the moon bringing on the twentieths; for the interest is running on. [...] I have been cast in suits, and others say that they will have surety given them for the interest. [...] by reason of usury, and most ill-natured creditors, I am pillaged and plundered, and have my goods seized for debt.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the legal reality where citizen landholders/householders are subject to lawsuits and the seizure of their material goods/property if they fail to pay debts and interest.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Paternal right of eviction",
+      "group": "Male heirs",
+      "resource": "Right to reside in paternal home",
+      "directionality": "LESS",
+      "verbatim": "[§1] Then, by Ceres, you shall not eat any of my good! Neither you, nor your blood-horse; but I will drive you out of my house to the crows.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Strepsiades threatens to exercise his authority as a father to legally and physically evict his son from the family home and withdraw financial support, indicating that heirs do not have an unconditional right to the father's resources during the father's lifetime.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Education",
+      "rule": "Restriction of esoteric knowledge",
+      "group": "Non-disciples",
+      "resource": "Access to philosophical teachings",
+      "directionality": "LESS",
+      "verbatim": "[§1] Disciple. It is not lawful to mention it, except to disciples. Strepsiades. Tell it, then, to me without fear; for I here am come as a disciple to the thinking-shop.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The 'thinking-shop' (Phrontisterion) operates under a rule of secrecy where specific intellectual 'mysteries' or discoveries are legally/normatively prohibited from being shared with anyone outside the specific group of enrolled disciples.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Liturgy and public service obligation",
+      "group": "Wealthy citizens",
+      "resource": "freedom from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": "[§1] For a time therefore we disputed; and then at length we agreed, and called him Phidippides. She used to take this son and fondle him, saying, When you, being grown up, shall drive your chariot to the city, like Megacles, with a xystis.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of 'Megacles' and driving a chariot with a 'xystis' (a fine robe) refers to the expectation that wealthy elite citizens perform visible and expensive public services (liturgies) and participate in civic processions, which is a drain on private wealth.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Professional support for intellectual idlers",
+      "group": "Sophists",
+      "resource": "Access to material sustenance and rewards",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§9] For you do not know, by Jupiter! that these feed very many sophists, Thurian soothsayers, practisers of medicine, lazy-long-haired-onyx-ring-wearers, song-twisters for the cyclic dances, and meteorological quacks. They feed idle people who do nothing, because such men celebrate them in verse."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes a social reality where specific classes of intellectual and artistic 'idlers' (sophists, soothsayers, etc.) receive food and rewards (subsistence) as a result of their poetic and rhetorical activities.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elders' obligation of auspicious speech",
+      "group": "Old men",
+      "resource": "Right to speak freely",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§2] Socrates. It becomes the old man to speak words of good omen, and to hearken to my prayer."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates identifies a social norm or convention expectation that older men must restrict their speech to auspicious words (good omens) during religious or intellectual rituals.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Access to sacred mystic rites",
+      "group": "Citizens",
+      "resource": "Right to participate in initiation rites",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§8] Chorus. Ye rain-bringing virgins, let us come to the fruitful land of Pallas... where the house that receives the initiated is thrown open in holy mystic rites; and gifts to the celestial gods; and high-roofed temples, and statues; and most sacred processions in honour of the blessed gods."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Chorus describes the specific religious privileges and infrastructure available in the 'country of Cecrops' (Athens), identifying the right to initiation and participation in processions as a resource for the group within that land.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen assembly speech and influence",
+      "group": "Citizens",
+      "resource": "Right to pass opinions in assemblies",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§10/§11] Well, you shall have this from us, so that hence-forward from this time no one shall get more opinions passed in the public assemblies than you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the ability to influence public policy through speeches in the Greek assembly (Ekklesia) as a tangible resource available to those with rhetorical training, specifically within the context of Athenian citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Sophist physical asceticism and endurance",
+      "group": "Sophists",
+      "resource": "Access to intellectual training",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§10/§11] How happy will you become among the Athenians and among the Greeks, if you be possessed of a good memory, and be a deep thinker, and endurance of labour be implanted in your soul, and you be not wearied either by standing or walking, nor be exceedingly vexed at shivering with cold, nor long to break your fast, and you refrain from wine, and gymnastics, and the other follies"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Access to the 'wisdom' of the sophists is conditioned upon a specific lifestyle and physical discipline (endurance of cold, hunger, and labor), distinguishing this group from those who indulge in traditional 'follies' like gymnastics or wine.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Debtor legal evasion",
+      "group": "Wealthy citizens",
+      "resource": "Right to retain wealth from creditors",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§10/§11] Yea, so that many be always seated at your gates, wishing to communicate with you and come to a conference with you, to consult with you as to actions and affidavits of many talents, as is worthy of your abilities... only to pervert the right for my own advantage, and to evade my creditors."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific societal practice where individuals use legal sophistry to prevent the seizure of their property (talents) by creditors, establishing a rule of legal evasion for those with the appropriate education.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly exemption from military service",
+      "group": "old people",
+      "resource": "Exemption from military service",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§15] For if there should be any expedition without prudence, then we either thunder or drizzle small rain... May prosperity attend the man, because, being advanced into the vale of years, he imbues his intellect with modern subjects, and cultivates wisdom!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text contrasts military expeditions with the elderly man (Strepsiades) who is 'advanced into the vale of years' and instead spends his time cultivating wisdom, implying he is no longer subject to the physical 'expeditions' of the state.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to legal witness",
+      "group": "Citizens",
+      "resource": "Right to call witnesses",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§14] Strepsiades. I take the beating; and then, when I have waited a little while, I call witnesses to prove it; then again, after a short interval, I go to law."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Strepsiades describes the standard citizen procedure for seeking redress after an assault—waiting, calling witnesses, and then initiating a lawsuit—identifying this as his standing legal recourse.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from public playwrighting",
+      "group": "Women",
+      "resource": "Right to produce plays publicly",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§15] For since what time my Modest Man and my Rake were very highly praised here by an audience... and I (for I was still a virgin, and it was not lawful for me as yet to have children) exposed my offspring, and another girl took it up, and owned it."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author uses a metaphor of a young woman unable to legally/socially acknowledge her 'offspring' (his early plays) to explain why he had to produce his works under another's name, reflecting the legal and social constraints on women's public agency and production.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen search for stolen goods",
+      "group": "Citizens",
+      "resource": "Right to search for stolen goods",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§14] Socrates. Come, then, lay down your cloak. Strepsiades. Have I done any wrong? Socrates. No; but it is the rule to enter naked. Strepsiades. But I do not enter to search for stolen goods."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Strepsiades' objection references 'the rule' involving entering a house naked specifically for the purpose of searching for stolen property, a known legal procedure for Athenian citizens (the 'eurethe' searching procedure).",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Hieromnemon protection from deposition",
+      "group": "priests",
+      "resource": "Right to retain sacred office",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§15] For which reason Hyperbolus, having obtained the lot this year to be Hieromnemon, was afterward deprived by us gods of his crown; for thus he will know better that he ought to spend the days of his life according to the Moon."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text notes that even those selected for sacred office (Hieromnemon) can be deprived of their crown/position if they fail to manage the calendar or religious duties correctly, showing they lack absolute protection from removal.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Hieromnemon religious office eligibility",
+      "group": "Hieromnemon",
+      "resource": "Right to hold religious office",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§21] For which reason Hyperbolus, having obtained the lot this year to be Hieromnemon, was afterward deprived by us gods of his crown; for thus he will know better that he ought to spend the days of his life according to the Moon."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific contemporary political-religious official (Hyperbolus as Hieromnemon) being deprived of his status/crown. While framed through divine intervention in the play, it reflects the societal rule that holders of this specific religious office can be stripped of their position and symbolic markers (the crown) for failing to uphold the ritual calendar accurately.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood exemption from learning",
+      "group": "Minors",
+      "resource": "Exemption from intellectual labor",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§22] Socrates: For he is still childish, and not used to the baskets here. Phidippides: You would yourself be used to them if you were hanged. Strepsiades: A mischief take you! Do you abuse your teacher? Socrates: Were hanged quoth’a! How sillily he pronounced it, and with lips wide apart! How can this youth ever learn an acquittal from a trial or a legal summons, or persuasive refutation?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates suggests that the youth's age (being 'childish') makes him unsuited for the rigors of the school ('the baskets') and intellectual legal training, contrasted with the adult's responsibility to learn.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to military service",
+      "group": "Citizens",
+      "resource": "Right to serve in the army",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§22] Socrates: Do you see? You call Amynias a woman. Strepsiades: Is it not then with justice, who does not serve in the army? But why should I learn these things, that we all know?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text implies a norm where 'men' (citizens) are defined by their service in the army; failing to serve is equated with losing masculine status ('call Amynias a woman').",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy obligation for public education",
+      "group": "Wealthy citizens",
+      "resource": "Right to retain personal wealth",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§22] Socrates: How can this youth ever learn an acquittal from a trial or a legal summons, or persuasive refutation? And yet Hyperbolus learned this at the cost of a talent."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Access to advanced legal education and the 'unjust cause' is conditioned on the payment of significant sums (a talent), implying that such resources are drained from the wealthy.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Scholarly exclusion from hygiene norms",
+      "group": "Educated men (Philosophers)",
+      "resource": "Access to public baths",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§22] Strepsiades: Speak words of good omen, and say nothing bad of clever men and wise; of whom, through frugality, none ever shaved or anointed himself, or went to a bath to wash himself; while you squander my property in bathing, as if I were already dead."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The 'wise men' or philosophers are defined by a social norm/rule of frugality that excludes them from the common resource of public baths and grooming.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly right to legal guardianship",
+      "group": "Old people",
+      "resource": "Protection from lunacy convictions",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§22] Phidippides: Ah me! What shall I do, my father being crazed? Shall I bring him into court and convict him of lunacy, or shall I give information of his madness to the coffin-makers?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references the legal possibility of a son bringing an elderly father to court to have him declared incompetent ('convict him of lunacy'), which removes the father's autonomy.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Juror pay for childcare",
+      "group": "Jurors",
+      "resource": "Right to state-funded stipends",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§22] Strepsiades: I also know that I formerly obeyed you, a lisping child of six years old, and bought you a go-cart at the Diasia, with the first obolus I received from the Heliaea."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Strepsiades notes receiving payment for his service in the Heliaea (the people's court), which provided the material resource to purchase goods for his family.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Lender interest collection",
+      "group": "Wealthy citizens",
+      "resource": "Right to collect interest",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§24] Strepsiades. You have heard a thousand times what I wish. About the interest; so that I may pay no one. [...] Socrates. Why so, pray? Strepsiades. Because the money is lent out by the month."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that money is lent out by the month and interest is a standard legal obligation that creditors have the right to collect from debtors.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Lawsuit for debt recovery",
+      "group": "Wealthy citizens",
+      "resource": "Right to enter suits for recovery",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§24] Socrates. Capital! But I will again propose to you another clever question. If a suit of five talents should be entered against you, tell me how you would obliterate it."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of a 'suit of five talents' being entered against a debtor confirms that creditors had the legal resource to sue for the recovery of large sums of money.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Paternal right of eviction",
+      "group": "Old people",
+      "resource": "Right to evict adult children",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§24] Strepsiades. Well, I have a fine, handsome son, but he is not willing to learn. What must I do? Chorus. But do you permit him? Strepsiades. Yes, for he is robust in body, and in good health... I will go for him, and if he be not willing, I will certainly drive him from my house."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Strepsiades, as the patriarch/father, asserts the legal or social right to physically expel an adult son from the family home if the son refuses to obey his commands.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Filial prosecution for lunacy",
+      "group": "young people",
+      "resource": "Right to convict parents of lunacy",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§26] Phidippides. Ah me! What shall I do, my father being crazed? Shall I bring him into court and convict him of lunacy, or shall I give information of his madness to the coffin-makers?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Phidippides references a known legal procedure in Athens where a son could bring a suit (graphe paranoias) to have a father declared incompetent/lunatic to protect the estate.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Juror compensation",
+      "group": "peasants",
+      "resource": "Right to receive juror fees",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§26] Strepsiades. I also know that I formerly obeyed you, a lisping child of six years old, and bought you a go-cart at the Diasia, with the first obolus I received from the Heliaea."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Heliaea was the people's court; the 'obolus' refers to the daily fee paid to citizens serving as jurors, presented here as a standard form of income for a citizen-father.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Sophist legal training",
+      "group": "Wealthy citizens",
+      "resource": "Access to persuasive legal rhetoric",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§26] Socrates. How can this youth ever learn an acquittal from a trial or a legal summons, or persuasive refutation? And yet Hyperbolus learned this at the cost of a talent."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly links the payment of a high fee ('a talent') to the acquisition of specific legal resources like the ability to win an acquittal or refute a summons.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth silence before elders",
+      "group": "Minors",
+      "resource": "Right to speak",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] In the first place it was incumbent that no one should hear the voice of a boy uttering a syllable; and next, that those from the same quarter of the town should march in good order through the streets to the school of the harp-master."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The 'Just Cause' describes the traditional Athenian educational norms of the previous generation, where boys were strictly forbidden from speaking in public or in the presence of adults.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth deference to seniors",
+      "group": "Minors",
+      "resource": "Right to sit in presence of elders",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] ...to rise up from seats before your seniors when they approach, and not to behave ill toward your parents, and to do nothing else that is base, because you are to form in your mind an image of Modesty: and not to contradict your father in anything."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text outlines the social obligation for younger people to yield their seats to older citizens and the prohibition against contradicting their fathers.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Dietary restrictions for youth",
+      "group": "Minors",
+      "resource": "Access to specific luxury foods",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] Nor used it to be allowed when one was dining to take the head of the radish, or to snatch from their seniors dill or parsley, or to eat fish, or to giggle, or to keep the legs crossed."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage details specific dietary and behavioral prohibitions for boys during shared meals with adults, reserving certain foods for seniors.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male exclusion from effeminacy",
+      "group": "young people",
+      "resource": "Right to exercise effeminate behavior",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] Nor used he to go to his lover, having made up his voice in an effeminate tone... Nor used it to be allowed when one was dining... to giggle, or to keep the legs crossed."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Under the traditional system, males were prohibited from adopting 'effeminate' tones or behaviors in social and romantic interactions.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Social stigma of oratory",
+      "group": "peasants",
+      "resource": "Political influence via market-place chattering",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] Yet certainly shall you spend your time in the gymnastic schools, sleek and blooming; not chattering in the market-place rude jests, like the youths of the present day; nor dragged into court for a petty suit, greedy, pettifogging, knavish."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The Just Cause promotes an ideal where virtuous young men avoid the Agora (market-place) and legal chicanery, which are associated with the 'bad' influence of contemporary orators.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Musician discipline",
+      "group": "Education",
+      "resource": "Freedom of artistic expression",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§27] But if any of them were to play the buffoon, or to turn any quavers, like these difficult turns the present artists make after the manner of Phrynis, he used to be thrashed, being beaten with many blows, as banishing the Muses."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "In traditional training, students were physically punished if they deviated from established musical harmonies or attempted modern 'innovations'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth silence before elders",
+      "group": "young people",
+      "resource": "Right to speak in public",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§31] In the first place it was incumbent that no one should hear the voice of a boy uttering a syllable; and next, that those from the same quarter of the town should march in good order through the streets to the school of the harp-master."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The Just Cause describes the traditional education system where boys were strictly prohibited from speaking, highlighting a lack of speech rights for this age group.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Seniority seat preference",
+      "group": "old people",
+      "resource": "Right to prioritized seating",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§31] ...and to rise up from seats before your seniors when they approach, and not to behave ill toward your parents, and to do nothing else that is base."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a societal norm where younger people must yield their seats to older people, indicating a resource (priority seating) granted to the elderly.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly dietary priority",
+      "group": "old people",
+      "resource": "Access to specific foods at meals",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§31] Nor used it to be allowed when one was dining to take the head of the radish, or to snatch from their seniors dill or parsley, or to eat fish, or to giggle, or to keep the legs crossed."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Under the traditional system, boys were restricted from consuming certain table delicacies that were reserved for or prioritized for their seniors.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth corporal punishment in education",
+      "group": "young people",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§31] But if any of them were to play the buffoon, or to turn any quavers, like these difficult turns the present artists make after the manner of Phrynis, he used to be thrashed, being beaten with many blows, as banishing the Muses."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text establishes that during education, boys were subject to physical beating for perceived failures or innovations in their learning.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Judicial participation in litigation",
+      "group": "Citizens",
+      "resource": "Right to engage in litigation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§31] ...not chattering in the market-place rude jests, like the youths of the present day; nor dragged into court for a petty suit, greedy, pettifogging, knavish."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the common practice of Athenian citizens engaging in lawsuits in court, which is treated as a right/capability of the citizen class.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Sophist training for litigation",
+      "group": "Educated men",
+      "resource": "Right to represent in court",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§37] Socrates. Make yourself easy; you shall receive him back a clever sophist. Strepsiades. Nay, rather, pale and wretched. Exeunt Socrates, Strepsiades, and Phidippides."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage illustrates that specialized education (Sophistry) provides the resource of being able to handle important legal causes and petty suits.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Creditor right to judicial summons",
+      "group": "Creditors",
+      "resource": "Right to initiate legal proceedings",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§41] For every one to whom I happen to be indebted, swears, and says he will ruin and destroy me, having made his deposits against me; [...] they say that thus they will never get back their money, but abuse me, as I am unjust, and say they will go to law with me."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the standard legal process in Athens where creditors (those to whom money is owed) initiate lawsuits by making 'deposits' (prytaneia) to the court on specific days.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Two-day summons period for defendants",
+      "group": "Defendants",
+      "resource": "Time for extra-judicial compromise",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§41] He therefore made the summons for two days, for the Old and New, that the deposits might be made on the first of the month. [...] In order, my good sir, that the defendants, being present a day before, might compromise the matter of their own accord; but if not, that they might be worried on the morning of the new moon."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage explains a specific procedural rule attributed to Solon that grants defendants a grace period of one day ('the Old') to reach a settlement before the formal court deposit ('the New') is finalized.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Teacher fee for instruction",
+      "group": "Teachers",
+      "resource": "Right to receive payment",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§41] But first accept this present; for one ought to compliment the teacher with a fee. And tell me about my son, if he has learned that cause, which you just now brought forward."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a social and professional norm where Sophists or teachers (like the character Socrates) are entitled to a fee in exchange for providing education in rhetoric.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Education",
+      "rule": "Rhetorical protection from debt recovery",
+      "group": "Educated citizens",
+      "resource": "Immunity from debt repayment",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§41] Even if witnesses were present when I borrowed the money? Socrates. Yea, much more! Even if a thousand be present. Strepsiades. Then I will shout with a very loud shout: Ho! Weep, you petty-usurers, both you and your principals, and your compound interests! For you can no longer do me any harm, because such a son is being reared for me in this house, shining with a double-edged tongue."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text demonstrates that individuals trained in specific rhetorical techniques ('the double-edged tongue') can effectively nullify valid debts and witness testimonies in court, providing them a form of legal immunity.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Interest accumulation on loans",
+      "group": "Creditors",
+      "resource": "Right to compound interest",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§41] Amynias. Well, if you are in want, pay me the interest of my money. [...] Most assuredly the money is always becoming more and more every month and every day as the time slips away."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue confirms that lenders are legally entitled to receive interest that grows over time (arithmetic or compound) until the principal is repaid.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood vulnerability to corporal punishment",
+      "group": "Minors",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§50] Phidippides. I will pass over to that part of my discourse where you interrupted me; and first I will ask you this: Did you beat me when I was a boy? Strepsiades. I did, through good-will and concern for you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue establishes that children (boys) are subject to physical beating by their fathers as a matter of standard upbringing and 'concern,' indicating they lack protection from corporal punishment.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to legal summons",
+      "group": "Citizens",
+      "resource": "Right to summon debtors to court",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§45] Pasias. [...] but will summon Strepsiades. [...] I will depart; and be assured of this, that I will make deposit against you, or may I live no longer!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Pasias, acting as a creditor, utilizes the legal mechanism of summoning a fellow-tribesman (Strepsiades) and making a financial deposit to initiate a lawsuit, a right reserved for citizens in the Athenian legal system.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly liability to corporal punishment",
+      "group": "Old people",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§50] Phidippides. Why then is it less lawful for me also in turn to propose henceforth a new law for the sons, that they should beat their fathers in turn? [...] I think I shall demonstrate that it is just to chastise one’s father."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "While the son is arguing for a 'new law,' the text highlights that the current social framework is being challenged to remove the protection fathers (old people) normally have from being beaten by their children.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male exclusion from domestic labor",
+      "group": "Men",
+      "resource": "Exemption from domestic grinding labor",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§50] Phidippides. But he immediately said it was old-fashioned to play on the lyre and sing while drinking, like a woman grinding parched barley."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies grinding barley as a specifically female task, implying that men are exempt from this form of domestic labor as it is considered socially inappropriate or 'old-fashioned' for their gender.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Free status protection from blows",
+      "group": "Citizens",
+      "resource": "Protection from corporal punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§50] Phidippides. For why ought your body to be exempt from blows and mine not? And yet I too was born free."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The character argues that being 'born free' (a citizen) should inherently grant a body exemption from blows, contrasting the physical treatment of free men with those who are not free.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Parental right to corporal punishment",
+      "group": "Minors",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§57] Phidippides. ...Did you beat me when I was a boy? Strepsiades. I did, through good-will and concern for you. ...Phidippides. ...You will say that it is ordained by law that this should be the lot of boys."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that physical punishment was a recognized and lawful parental practice toward male children in Athenian society for the purpose of discipline and 'good-will'.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elder immunity from physical abuse",
+      "group": "old people",
+      "resource": "Protection from corporal punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§57] Strepsiades. It is nowhere ordained by law that a father should suffer this. ...Phidippides. Why then is it less lawful for me also in turn to propose henceforth a new law for the sons, that they should beat their fathers in turn?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The character Phidippides attempts to dismantle an existing societal and legal norm where elderly fathers are protected from being beaten by their sons, arguing for a 'new law' to replace the established one.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female household labor norms",
+      "group": "Women",
+      "resource": "Freedom from menial domestic labor",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§53] Strepsiades. ...But he immediately said it was old-fashioned to play on the lyre and sing while drinking, like a woman grinding parched barley."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The comparison identifies grinding barley as a characteristic and expected menial labor task for women in this society, used here as a standard of low-status activity.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 12,
+  "_file_id": "tlg0019.tlg003.perseus-eng2",
+  "_input_tokens": 72282,
+  "_output_tokens": 10694,
+  "_model": "google/gemini-3-flash-preview"
+}

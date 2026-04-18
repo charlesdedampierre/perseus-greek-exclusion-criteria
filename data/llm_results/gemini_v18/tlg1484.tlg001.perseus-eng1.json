@@ -1,0 +1,219 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Slave admissibility under torture",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify without torture",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] [1] And when the searching for him persisted he went to another farm; and those who were searching for him came up at once, and when they did not find him, they arrested young slaves, and one of them confessed under torture."
+      ],
+      "reasoning": "The text describes the arrest of slaves specifically for the purpose of extracting information via torture to locate their master, reflecting a societal norm where the legal or investigative process for slaves involves physical coercion to obtain evidence.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies generally to any slave caught in a legal or investigative pursuit in Roman-influenced Smyrna.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Christians as atheists",
+      "rule_category": "Citizenship",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Legal status of protected person",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] [2] So after this all the crowd, wondering at the nobility of the God-loving and God-fearing people of the Christians, cried out: Away with the Atheists; let Polycarp be searched for."
+      ],
+      "reasoning": "The labeling of Christians as 'Atheists' by the crowd and the authorities indicates a loss of legal protection and citizenship standing, identifying them as a group that can be searched for, arrested, and executed.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule targets a specific religious minority within the broader population of Smyrna.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Compulsory Imperial sacrifice",
+      "rule_category": "Religious access",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Right to refuse Caesar-worship",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] [2] And the police captain Herod and his father Niketas met him and removed him into their carriage, and sat by his side trying to persuade him and saying: But what harm is it to say, Lord Caesar and to offer sacrifice, and so forth, and to be saved?",
+        "[§31] [2] Therefore when he was brought forward the Pro-Consul asked him if he were Polycarp, and when he admitted it he tried to persuade him to deny, saying: Respect your age, and so forth, as they are accustomed to say Swear by the genius of Caesar, repent, say: Away with the Atheists"
+      ],
+      "reasoning": "The text demonstrates a societal and legal rule requiring subjects to acknowledge the 'genius of Caesar' and offer sacrifice to avoid execution. Christians, who refused this, were systematically targeted for this refusal.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule applies to all subjects of the Roman Empire, but the enforcement is targeted specifically at those who refuse (primarily Christians).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Age-based judicial leniency",
+      "rule_category": "Legal standing",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Protection from standard punishment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] [2] Therefore when he was brought forward the Pro-Consul asked him if he were Polycarp, and when he admitted it he tried to persuade him to deny, saying: Respect your age, and so forth, as they are accustomed to say"
+      ],
+      "reasoning": "The Pro-Consul's appeal for Polycarp to 'Respect your age' reflects a customary legal practice where the elderly were offered opportunities for leniency or recantation not necessarily afforded to younger defendants.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a subset of the population (the elderly) who find themselves in court.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Execution by beasts",
+      "rule_category": "Body integrity",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Protection from execution by beasts",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] [4] And in the same way also those who were condemned to the beasts endured terrible torment, being stretched on sharp shells and buffeted with other kinds of various torments, that if it were possible the tyrant might bring them to a denial by continuous torture."
+      ],
+      "reasoning": "The text identifies 'those who were condemned' (specifically Christians in this context) as being stripped of protection from extreme forms of execution, specifically damnatio ad bestias.",
+      "specificity": 4,
+      "specificity_reasoning": "This refers to a specific class of criminals/dissenters in Roman law.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Admission of Christian status",
+      "rule_category": "State-sponsored execution",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§39] ...the Pro-Consul, on the other hand, was astounded and sent his herald into the midst of the arena to announce three times: Polycarp has confessed that he is a Christian. When this had been said by the herald, all the multitude of heathen and Jews living in Smyrna cried out with uncontrollable wrath and a loud shout... [they asked] to burn Polycarp alive."
+      ],
+      "reasoning": "The text demonstrates that the formal public confession or announcement of the status 'Christian' serves as the legal and social trigger for execution (burning alive or beasts). The group is defined by their religious/cultural identity which functions as a near-immutable origin in the Roman context of this period.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies to a specific minority group within the broader Roman society, though a group that is clearly identified and targeted by the state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Restriction of arena combat",
+      "rule_category": "Legal procedure",
+      "group": "Asiarchs",
+      "group_category": "Occupation",
+      "resource": "Right to authorize arena combat outside scheduled games",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§39] And when they said this, they cried out and asked Philip the Asiarch to let loose a lion on Polycarp. But he said he could not legally do this, since he had closed the Sports."
+      ],
+      "reasoning": "The Asiarch (a provincial official) explains a legal constraint on his authority: once the official 'Sports' (venationes/games) are concluded, he no longer has the legal right to order the use of beasts for execution. This is a specific institutional rule governing the exercise of power.",
+      "specificity": 9,
+      "specificity_reasoning": "The rule concerns a very small number of high-ranking provincial officials (Asiarchs) and their specific legal boundaries.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Denial of burial rights",
+      "rule_category": "Denial of funerary rites",
+      "group": "Executed Christians",
+      "group_category": "Origin",
+      "resource": "Right to be buried by kin or community",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§57] ...took care that not even his poor body should be taken away by us, though many desired to do this, and to have fellowship with his holy flesh. Therefore he put forward Niketas... to ask the Governor not to give his body",
+        "[§62] When therefore the centurion saw the contentiousness caused by the Jews, he put the body in the midst, as was their custom, and burnt it."
+      ],
+      "reasoning": "The text describes a situation where the governor has the power to withhold the remains of an executed person from their community. In this case, the state (or its agents) chooses to burn the body specifically to prevent the community from possessing it, denying them standard funerary access.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those executed for the crime of Christianity, but involves several layers of Roman provincial administration.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Imperial oath requirement",
+      "rule_category": "Legal standing",
+      "group": "Defendants",
+      "group_category": "Citizenship",
+      "resource": "Right to avoid self-incrimination via religious oath",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§33] But when he persisted again, and said: Swear by the genius of Caesar, he answered him: If you vainly suppose that I will swear by the genius of Caesar, as you say, and pretend that you are ignorant who I am, listen plainly: I am a Christian."
+      ],
+      "reasoning": "Under Roman law as depicted here, the Pro-Consul uses the 'oath by the genius of Caesar' as a mandatory legal test. Failure to comply (or the refusal to comply) is used to confirm the defendant's status and leads to the loss of legal protections and the imposition of the death penalty.",
+      "specificity": 3,
+      "specificity_reasoning": "This applied to any individual brought before the governor on suspicion of Christianity.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Martyr memorial assembly",
+      "rule_category": "Access to religious assembly",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Right to gather for commemorative rituals",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§64] [3] There the Lord will permit us to come together according to our power in gladness and joy, and celebrate the birthday of his martyrdom, both in memory of those who have already contested, and for the practice and training of those whose fate it shall be."
+      ],
+      "reasoning": "The text describes a communal right and practice for the Christian group to gather at the site of a martyr's remains to perform specific anniversary rituals ('celebrate the birthday of his martyrdom'). This is presented as a collective privilege used for both memorialization and communal preparation.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the specific religious community of Christians within the broader Roman society, which was a distinct but significant group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Preservation of martyr remains",
+      "rule_category": "Religious burial rights",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Right to possess and inter remains of deceased",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§63] [2] Thus we, at last, took up his bones, more precious than precious stones, and finer than gold, and put them where it was meet."
+      ],
+      "reasoning": "Despite initial opposition from officials (implied by the 'at last'), the community exercised the right to recover, transport, and properly inter the remains of their leader, treating these remains as a high-value communal resource.",
+      "specificity": 4,
+      "specificity_reasoning": "This concerns the Christian community's handling of their own dead within the context of Roman Smyrna.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Ecclesiastical leadership transmission",
+      "rule_category": "Religious authority",
+      "group": "Bishops",
+      "group_category": "Occupation",
+      "resource": "Right to hand on ecclesiastical rules",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§79] [3] For this Irenaeus, at the time of the martydom of the bishop Polycarp was in Rome, and taught many, and many most excellent and correct writings are extant, in which he mentions Polycarp, saying that he had been his pupil, and he ably refuted every heresy, and he also handed on the ecclesiastical and catholic rule, as he had received it from the saint."
+      ],
+      "reasoning": "The text identifies a formal socio-religious mechanism where specific individuals (bishops/teachers) are authorized to transmit 'the ecclesiastical and catholic rule.' This represents a form of internal community governance and power over doctrine.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to senior figures/leaders within the Christian hierarchy, a very small subset of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Heretic social exclusion",
+      "rule_category": "Religious exclusion",
+      "group": "Heretics",
+      "group_category": "Origin",
+      "resource": "Right to social recognition and fellowship",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§80] [4] And he also says this that once Marcion, from whom come the so-called Marcionites, met the holy Polycarp and said: Recognise us, Polycarp, and he said to Marcion, I do recognise you, I recognise the first-born of Satan."
+      ],
+      "reasoning": "The anecdote about Marcion demonstrates a rule of formal 'non-recognition' or social excommunication for those deemed heretical. By calling Marcion the 'first-born of Satan' instead of recognizing him as a brother/Christian, Polycarp enforces a loss of social and religious standing within the community.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific sub-group defined by their theological divergence (Marcionites) within the broader religious context.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg1484.tlg001.perseus-eng1",
+  "_input_tokens": 22272,
+  "_output_tokens": 3472,
+  "_model": "google/gemini-3-flash-preview"
+}

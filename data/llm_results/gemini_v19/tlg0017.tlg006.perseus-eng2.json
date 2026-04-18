@@ -1,0 +1,221 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Trierarchy obligation for wealthy citizens",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§6] [5] ...Seeing that Philoctemon had no issue by the woman to whom he was married, and since, as it was war-time, he was running considerable risks, serving in the cavalry and often sailing as trierarch, he resolved to dispose of his property by will..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes Philoctemon performing the duties of a trierarch, a standard liturgy imposed on wealthy Athenian citizens, showing they were required to fund and command warships.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male preference in testamentary adoption",
+      "group": "Women",
+      "resource": "Eligibility for adoption as heirs",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§7] [6] ...of his two sisters one, who was the wife of Chaereas, had no son and had never had one... the other, who was wife of Phanostratus here, had two sons. It was the elder of these, Chaerestratus here, whom Philoctemon adopted as his son."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Philoctemon chooses to adopt a male nephew rather than his sisters or a daughter, reflecting the legal requirement for a male heir to continue the household and inherit the estate.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Legitimate male issue inheritance priority",
+      "group": "male heirs",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§10] [9] Law This law, gentlemen, holds good for all men alike, permitting anyone to dispose of his property in default of male issue... [§29] [28] ...the law of itself gives his father's estate to the son and does not even allow anyone who has legitimate children to dispose of his property."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law cited states that inheritance goes automatically to legitimate sons, and a father only gains the right to make a will if he lacks male issue.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Illegitimate exclusion from inheritance",
+      "group": "Illegitimate children",
+      "resource": "Right to inherit as next-of-kin",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§1] [0] ...declaring that both Antidorus and his sister were illegitimate and that the law ordains that an illegitimate son or daughter cannot inherit as next-of-kin."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions a law that bars children born out of wedlock / illegitimate children from the right to inherit property from their relatives.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Adjudication requirement for minor orphans",
+      "group": "Minors",
+      "resource": "Freedom from court-ordered marriage",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§15] [14] ...so that Callippe, if she were thirty years of age, ought to have been no longer under a guardian, nor unmarried and childless, but long ago married, given in marriage either by her guardian, according to the law, or else by an adjudication of the court."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage implies that female orphans or minors (epikleroi) are subject to court adjudication (epidikasia) to determine their marriage and inheritance path if not already disposed of by a guardian.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Equal inheritance among legitimate sons",
+      "group": "male heirs",
+      "resource": "Right to equal share of inheritance",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§26] [25] ...And why did he introduce them on special terms, when the law ordains that all the legitimate sons have an equal right to share in their father's property?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author quotes a legal principle ensuring that all sons born of a legitimate marriage have an equal entitlement to their father's estate.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Mental capacity for legal acts",
+      "group": "The mentally incapacitated",
+      "resource": "Right to dispose of property by will",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§10] [9] Law This law... permitting anyone to dispose of his property... providing that, at the time of doing so, he is not insane or mentally incapacitated by old age or any other of the causes mentioned in the law."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Athenian law on wills explicitly restricts the right of disposal for those deemed insane or incapacitated by age.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Bastard exclusion from family property",
+      "group": "Bastards (male or female)",
+      "resource": "Right to inherit family property",
+      "directionality": "LESS",
+      "verbatim": "[§48] Thus the contrary has been done of that which the law has prescribed; for according to the law no male or female bastard has any right, based on kinship, to participate in the cults or property of a family since the archonship of Eucleides.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly cites a law from the archonship of Eucleides that bars children born out of wedlock from inheriting family property or participating in religious cults.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Adopted son return restriction",
+      "group": "Adopted sons",
+      "resource": "Right to return to original family",
+      "directionality": "LESS",
+      "verbatim": "[§45] For, whereas they had inscribed the children before the archon... yet if they were Euctemon's legitimate sons and had afterwards been adopted, as our opponent states, even so they cannot be described as the sons of Euctemon: for the law does not allow the return of an adopted son to his original family, unless he leaves a legitimate son in the family which he quits.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author references a specific legal restriction preventing an individual who has been adopted into another house from reclaiming their original lineage unless they have left an heir in the adoptive house.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave exclusion from temples",
+      "group": "Slaves",
+      "resource": "Access to sacred temples and rites",
+      "directionality": "LESS",
+      "verbatim": "[§50-51] Yet the mother of these young men, being admittedly a slave, and having always lived a scandalous life, who ought never to have entered the temple and seen any of the rites performed there, had the effrontery to join in the procession when a sacrifice was being made in honor of these goddesses and to enter the temple and see what she had no right to see.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the entry of a slave into a temple during a sacrifice as a violation of religious law and social norms, indicating that slaves were barred from such sacred spaces.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Daughter's right to estate adjudication",
+      "group": "Legitimate daughters",
+      "resource": "Right to be adjudicated as heiress",
+      "directionality": "MORE",
+      "verbatim": "[§47-48] For obviously, if Euctemon had a legitimate son, his daughter could not be heiress or the estate adjudicable... yet Androcles and Antidorus consider themselves entitled to rob the legitimate daughters of Euctemon and their issue, and to possess the property.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the absence of a legitimate son, the law permits legitimate daughters to be designated as heiresses (epikleroi), ensuring the property stays within the kin group through their issue.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": "[§61] Phanostratus has already been trierarch seven times, and he has performed all the public services and has generally been victorious. Chaerestratus here, young as he is, has been trierarch; he has been choregus... Both of them have paid all the special war-taxes, being numbered among the three hundred.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Wealthy individuals (the 'three hundred') are legally required to fund public services like the trierarchy and festivals, representing a loss of the resource of financial exemption.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Orphan property protection",
+      "group": "Orphans (minors)",
+      "resource": "Protection of estate through leasing",
+      "directionality": "MORE",
+      "verbatim": "[§37] They inscribed these two boys before the archon as adopted children... and requested the archon to grant a lease of the house-property as being the property of orphans, in order that part of the property might be leased and part might be used as a security.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a legal mechanism where the property of orphans is leased out by the Archon to ensure its value is preserved or generated until they reach maturity.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Adopted son's right of inheritance",
+      "group": "male heirs",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "How could he be childless, when he adopted and was survived by his own nephew, to whom the law gives the right of inheritance just as much as to children of his own body?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a legal rule where an adopted nephew is granted the same inheritance rights as biological children, equating their access to the estate resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Equal inheritance for subsequent children",
+      "group": "biological children",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "Indeed, it is expressly stated in the law that, if children are born subsequently to one who has adopted a son, each child takes his share of the estate and both classes of children alike inherit."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites a specific law ensuring that biological children born after an adoption still retain their right to a share of the inheritance resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Proof of legitimacy through deme records",
+      "group": "citizens",
+      "resource": "Right to recognized legitimacy",
+      "directionality": "MORE",
+      "verbatim": [
+        "but he must prove that he is speaking the truth by producing the relatives who know that she was married to Euctemon, and the members of the deme and of the ward, if they have ever heard or have any knowledge that Euctemon performed any public services on her behalf."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes the legal and social requirements for a child to be considered legitimate, which is a prerequisite for citizen rights and inheritance.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0017.tlg006.perseus-eng2",
+  "_input_tokens": 16338,
+  "_output_tokens": 3106,
+  "_model": "google/gemini-3-flash-preview"
+}

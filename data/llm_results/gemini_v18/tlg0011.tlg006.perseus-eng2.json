@@ -1,0 +1,523 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Royal sovereign succession",
+      "rule_category": "Access to political succession",
+      "group": "Royal heirs",
+      "group_category": "Lineage",
+      "resource": "Right to govern with the godlike scepter",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] His skill excels all other skill, his wisdom has no equal, whose hands govern the godlike scepter given by Zeus. To you, my son, that sovereign power has descended from the dawn of time."
+      ],
+      "reasoning": "The Chorus acknowledges that Neoptolemus, as the son of Achilles (a noble/king), has inherited the 'sovereign power' and the right to rule represented by the scepter of Zeus through his lineage.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule applies only to the direct descendants of specific noble or royal lineages.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Military oath exemption",
+      "rule_category": "Grant of military exemption",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Freedom from prior military oaths and constraints",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] You have sailed to Troy under no oath to any man, nor under any constraint. Neither did you have any part in the earlier expedition."
+      ],
+      "reasoning": "Odysseus contrasts his own status with that of the younger Neoptolemus. Because Neoptolemus was too young for the first expedition, he is not legally or religiously bound by the original oaths that constrain the older Greek leaders.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific age cohort (those who reached adulthood after a specific historical event).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Noble right to armor",
+      "rule_category": "Access to military honors",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to inherit ancestral arms",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] ...they judged you not worthy of the arms of Achilles, not worthy to receive them—even though you had come and were claiming them by right—but instead handed them over to Odysseus."
+      ],
+      "reasoning": "The text establishes that Neoptolemus had a legal or customary 'right' to claim his father's armor, an inheritance that was contested by the Greek leaders.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule specifically concerns the inheritance rights of children regarding their parents' distinct military property.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Deceptive delivery of justice",
+      "rule_category": "Access to judicial protection",
+      "group": "Enemies of the state",
+      "group_category": "Citizenship",
+      "resource": "Protection from state-sanctioned lying",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Odysseus: Then you think it brings no shame to speak what is false? Odysseus: No, not if the falsehood yields deliverance. ... When what you do promises gain, it is wrong to shrink back."
+      ],
+      "reasoning": "Odysseus argues that for the sake of the Greek cause (deliverance/gain), it is permissible to use deceit against an outsider (Philoctetes), implying that the protection of truth-telling does not extend to those viewed as obstacles to the state.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to individuals categorized as enemies or targets of strategic state interest.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Exclusion by physical deformity",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Sick",
+      "group_category": "Health",
+      "resource": "Right to participate in communal ritual",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] ...I exposed long ago the native of Malis, Poeas’ son... because his foot was all running with a gnawing disease. Neither libation nor burnt sacrifice could be attempted by us in peace, but with his wild, ill-omened cries he filled the whole camp"
+      ],
+      "reasoning": "Philoctetes was removed from the society because his physical illness and the associated cries disrupted the religious rituals (libations and sacrifices), showing that those with extreme physical ailments can be excluded from the community to preserve ritual purity/peace.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to anyone whose health condition is deemed to interfere with essential civic-religious functions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Filial asset inheritance",
+      "rule_category": "Access to political succession",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to inherit father's property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] When I landed, straightaway the entire army thronged around me with greetings, vowing that they saw their lost Achilles once more alive. He, though, lay ready for burial, and I, unhappy, when I had wept for him, went before long to the Atreids, to friends, as it was reasonable to suppose,—and claimed my father’s arms and all else that had been his."
+      ],
+      "reasoning": "The text establishes that it was considered 'reasonable' and a standard expectation for a son to claim his deceased father's arms and estate. Neoptolemus's outrage is predicated on a violation of this established social and legal norm.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to a specific subgroup (sons of deceased fathers), inheritance is a foundational structural rule for the transmission of wealth in Greek society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Commander property adjudication",
+      "rule_category": "Grant of economic privilege",
+      "group": "Military leaders",
+      "group_category": "Occupation",
+      "resource": "Right to award contested property",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] O, their reply was bold and shameless! Seed of Achilles, you may take all else that was your father’s. But of those arms another man now is lord, the son of Laertes. ... Yes, boy, they awarded them as was just, since it was I who saved the arms and their master by my presence at the crucial moment."
+      ],
+      "reasoning": "The Atreids (the military commanders) exercise the authority to bypass traditional inheritance rules by awarding property based on perceived merit or service in war. This demonstrates a specific power held by the high command over the distribution of resources.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to high-ranking military commanders in an expeditionary context.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Service-based asset acquisition",
+      "rule_category": "Military service reward",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to claim arms for merit",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] But Odysseus—for he chanced to be at hand—said, Yes, boy, they awarded them as was just, since it was I who saved the arms and their master by my presence at the crucial moment."
+      ],
+      "reasoning": "The text describes a rule where merit in battle (specifically saving the arms and the owner) can create a legal or customary claim to those items, overriding the claims of the blood heir.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any soldier who can demonstrate exceptional service or 'salvage' of equipment in a military context.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Hereditary command participation",
+      "rule_category": "Access to political succession",
+      "group": "Noble heirs",
+      "group_category": "Lineage",
+      "resource": "Right to assume father's military role",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] Odysseus, and he who fostered my father, and said—whether truly or falsely, I do not know—that since my father had perished, fate now forbade that anyone but I should take the towers of Troy."
+      ],
+      "reasoning": "The delegation sent to Scyros operates on the rule that the son of a fallen hero is functionally and legally required to take up the father's specific mission and station, suggesting a direct link between lineage and military entitlement.",
+      "specificity": 7,
+      "specificity_reasoning": "This is specific to the sons of high-ranking heroes or 'kings' in the context of the Trojan expedition.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Suppliant right to transport",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Health",
+      "resource": "Right to safe passage and transport",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] I solemnly supplicate you, do not leave me alone like this, helpless amid these miseries in which I live, so harsh as you see, and so numerous as I have said! Consider me a small side-task. Great is your disgust, well I know, at such a cargo. Yet bear with it all the same—to noble minds baseness is hateful, and a good deed is glorious. If you forsake this task, you will have a stain on your honor; but if you perform it, boy, you will win the prize of highest honor",
+        "[§16-17] And if, my king, you hate the hateful Atreids, then, turning their wrongdoing to this man’s gain, I would take him in your swift, well-rigged ship to the home for which he longs, and so escape the god’s just wrath."
+      ],
+      "reasoning": "Philoctetes invokes the formal status of a 'suppliant' (hiketes) to demand transport. The text indicates that refusing a human in this state brings 'stain on honor' and 'god's just wrath,' establishing a customary rule where the physically helpless (infirm/lame) who supplicate have a concrete claim to maritime resources/transport from those who can provide it.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule applies specifically to a subset of people (suppliants/the infirm) who find themselves in extreme distress requiring aid from travelers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Noble maritime cargo obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Right to refuse burdensome passengers",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] Yet bear with it all the same—to noble minds baseness is hateful, and a good deed is glorious. If you forsake this task, you will have a stain on your honor; but if you perform it, boy, you will win the prize of highest honor—if I return alive to Oeta’s soil."
+      ],
+      "reasoning": "The text explicitly links 'noble minds' (the aristocracy) to a lack of freedom to refuse 'disgusting' or 'burdensome' cargo (specifically a sick human) if it is framed as a moral necessity. For a noble, a refusal is categorized as 'baseness,' suggesting a social rule restricting their right to manage their property (ships) purely for personal convenience when a 'good deed' is required.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the class of 'nobles' or ship-commanders, which is a significant but distinct portion of the elite society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Informant reward for poor",
+      "rule_category": "Economic privilege",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Wages for information services",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] Seed of Achilles, do not stir the army’s resentment against me for saying what I should not. I receive many benefits for what services I do them, as a poor man may."
+      ],
+      "reasoning": "The Merchant explains that as a poor man, he relies on providing information and services to the Greek army in exchange for 'benefits' (rewards/wages), establishing a customary economic relationship for low-status individuals within the military context.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific class (the poor) performing a specific role (scouting/trading/informant) within the broader society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prisoner public display",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Prisones of war",
+      "group_category": "Freedom status",
+      "resource": "Protection from public humiliation",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] Leading him back in bonds, he displayed him publicly to the Achaeans as his glorious prey."
+      ],
+      "reasoning": "The text describes the treatment of Helenus, a captured seer. Being held 'in bonds' and 'displayed publicly' as 'prey' indicates that captives of war lacked the right to dignity or protection from public exposure and restraint.",
+      "specificity": 6,
+      "specificity_reasoning": "Specifically concerns captives and prisoners during wartime.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prophetic legal compulsion",
+      "rule_category": "Extraction of information",
+      "group": "Seers",
+      "group_category": "Occupation",
+      "resource": "Right to withhold information",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] Helenus then prophesied for them whatever matter they asked, and, pertaining to Troy, he foretold that they would never sack its towers, unless by winning words they should bring Philoctetes here from the island where he now dwells."
+      ],
+      "reasoning": "Once captured, the seer Helenus was compelled to answer 'whatever matter they asked.' This shows that a person with specialized knowledge (a seer) in a state of dependency had no right to remain silent or withhold expertise from their captors.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies to a very small subset of specialists (seers/prophets) when captured.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Voluntary exile sustenance",
+      "rule_category": "Denial of public resources",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Access to agricultural produce",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] For food he did not gather the fruit of holy Earth, nor anything else that we mortals feed on by our labor, except when on occasion he obtained food to ease his hunger by means of feathered shafts from his swift-striking bow."
+      ],
+      "reasoning": "The Chorus notes that the abandoned/expatriated Philoctetes is cut off from the 'fruit of holy Earth' (agriculture), which is the standard resource for 'mortals.' This highlights that social exclusion results in the loss of access to organized food production and distribution.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to those cast out or isolated from organized civic society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Commanders' right of seizure",
+      "rule_category": "Enforcement of military retrieval",
+      "group": "Outcasts",
+      "group_category": "Citizenship",
+      "resource": "Freedom from forced retrieval",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] He thought it most likely that he would get him willingly, but, if unwilling, then by force, and he added that, were he to fail in this, whoever wished it might sever his head."
+      ],
+      "reasoning": "The Greek leaders authorize the retrieval of Philoctetes 'by force' if persuasion fails. This indicates that the community or its leaders claim the legal right to seize an individual who has been cast out if his presence becomes a necessary resource for the collective.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to individuals whose status is disputed or whose presence is required by the state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Suppliant protection from abandonment",
+      "rule_category": "Access to judicial protection",
+      "group": "Suppliants",
+      "group_category": "Citizenship",
+      "resource": "Protection from abandonment in distress",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§24] Philoctetes: And if those men come in the meantime, then by the gods I forbid you willingly or unwillingly, or by any skilled trickery, to give up this bow to them, lest you bring destruction at once on yourself and on me, who am your suppliant. [...] Neoptolemus: Rest assured; it is not lawful for me to leave without you."
+      ],
+      "reasoning": "The text establishes that the status of a 'suppliant' (hiketes) carries a legal and religious weight that makes it 'not lawful' (unlawful/themis) for the protector to abandon them or surrender their means of survival (the bow). Neoptolemus acknowledges this as a binding obligation rather than a mere choice.",
+      "specificity": 4,
+      "specificity_reasoning": "While any free person could become a suppliant, it is a specific legal/religious status triggered by specific conditions of distress and formal appeal.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Reciprocal service for arms",
+      "rule_category": "Military service reward",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to receive arms for service",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§24] Philoctetes: I, too, once deemed it lawful to do that very service for the son of Zeus, in return for which I received these same arms, which are now in your keeping."
+      ],
+      "reasoning": "Philoctetes refers to a known social and legal custom where performing a specific high-level service (in this case, lighting Heracles' pyre) entitles the performer to receive the deceased's weapons as a legitimate transfer of property.",
+      "specificity": 6,
+      "specificity_reasoning": "This refers to a specific class of heroic or high-ranking military service and the subsequent transfer of elite equipment.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sick person's quietude",
+      "rule_category": "Protection from bodily harm",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to undisturbed recovery",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§24] Neoptolemus: Come, friends, let us leave him in quietness, so that he may fall asleep. [...] [§27] Chorus: But when you answer me again, softly, please, softly whisper your words. For sick men’s restless sleep is quick to vision."
+      ],
+      "reasoning": "The text demonstrates a customary rule of conduct regarding those suffering from chronic illness or acute attacks: they are granted a social right to silence and non-interference (quietness) during their recovery phase, which the healthy are expected to respect.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies broadly to any individual identified as 'sick' within a household or camp context.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Noble obligation of care",
+      "rule_category": "Obligation of public duty",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Protection from social reproach",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] But your nature is noble and drawn of a noble line, and so you have made little of all this, though loud cries and stenches afflicted you.",
+        "[§29] All is offense when a man has abandoned his true nature and does what does not suit him. [...] But you, at least, are not departing from your begetter’s example either in word or deed, when you help a man who is noble."
+      ],
+      "reasoning": "The text establishes a customary rule where individuals of noble lineage are bound by their nature to assist others of similar standing, even under physically revolting conditions. Failure to do so is framed as an 'offense' against their own nature/status.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the aristocratic class within the military hierarchy, a significant but distinct segment of society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Command authority over subordinates",
+      "rule_category": "Access to political power",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to exercise independent judgment",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] My duty and my interest alike constrain me to obey those in power. [...] Quick, seize him, both of you! Do not give him the chance! [...] The boy commands our ship. Whatever he says to you, that is our answer also."
+      ],
+      "reasoning": "The text explicitly shows that soldiers and sailors are bound by the commands of their superiors (Neoptolemus/Odysseus). They act as instruments of the commanders' will, even in capturing or releasing individuals, without independent legal or moral agency in the moment of action.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad class of individuals serving in the military forces.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Enforced military service",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Militarily eligible men",
+      "group_category": "Citizenship",
+      "resource": "Freedom from compulsory service",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] And yet you sailed with them only when brought under their yoke by trickery and compulsion."
+      ],
+      "reasoning": "The mention of Odysseus being brought into the war by 'trickery and compulsion' reflects the societal rule that the state/generals could force even reluctant high-status individuals into military service.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to nearly the entire adult male citizen population capable of bearing arms.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exclusion of the infirm",
+      "rule_category": "Denial of religious access",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to lead religious rituals",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] How, if I sail with you, can you burn sacrifices to the gods, or make libations any more? That was your pretext for casting me away in the first place."
+      ],
+      "reasoning": "Philoctetes references a specific civic/religious rule used against him: the presence of a person with a 'foul-smelling' or 'crippled' condition is treated as a ritual pollutant that invalidates religious ceremonies like sacrifices and libations.",
+      "specificity": 6,
+      "specificity_reasoning": "This specifically targets the chronically ill or those with visible/odorous physical maladies.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Property seizure by state",
+      "rule_category": "Denial of property rights",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Right to retain personal property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§29] Back, back again I return to you, but now stripped and lacking the means to live. [...] Although he gave me his right hand in pledge of his word, he has taken my bow, the sacred bow, once belonging to Zeus’s son Heracles, and he keeps it, and wants to show it to the Argives as his own."
+      ],
+      "reasoning": "The text depicts a scenario where a person cast out from the community ('citiless') can have their essential survival property (the bow) seized by military representatives for the common good/interest of the state without legal recourse.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to those whose legal status has been revoked or who are outside the protection of a 'polis'.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Military mandate for seizure",
+      "rule_category": "State-sanctioned seizure",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to seize property by state mandate",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] Chorus: A man must always assert what is right. But, when he has done so, he must not let loose malignant, stinging taunts. The man was the sole representative of the whole army, and at their mandate he achieved a universal benefit for his friends."
+      ],
+      "reasoning": "The Chorus justifies the taking of Philoctetes' bow by arguing that the individual (Odysseus) acted as a representative of the army under a collective mandate. This reflects a societal rule in Greek military contexts where individual property rights can be overridden by a collective military 'mandate' for the 'universal benefit' of the group.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to individuals engaged in military service or those subject to military authority during wartime, which is a significant but distinct portion of the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Soldier self-mutilation prohibition",
+      "rule_category": "Restriction of bodily harm",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Protection from self-mutilation and suicide",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§35] Philoctetes: But oh, friends, grant me one wish! Chorus: What would you ask? Philoctetes: A sword, if you can find one, or an axe, or any weapon— please, pass it to me! Chorus: That you may execute what scheme? Philoctetes: Mangle all this body, and sever limb from limb with my own hand! Death, death is my thought now!"
+      ],
+      "reasoning": "The Chorus's refusal and alarmed questioning when Philoctetes asks for a weapon to 'mangle' his own body reflects a normative constraint against assisting in self-mutilation or suicide, particularly within a military/companion context where the soldier is still viewed as part of the collective body.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule against assisting in self-harm applies generally to those in social or military bonds, though the specific request for weapons is context-dependent.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Right to aid",
+      "rule_category": "Access to social support",
+      "group": "Disabled",
+      "group_category": "Health",
+      "resource": "Right to seek physical aid",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§34] Chorus: In the name of the gods, if you have any reverence for a friend who approaches you in all kindness, approach him! But know this, and know it well: it is in your power to escape this plague. Cruel is it that you feed it with your own flesh, and that there is no way for you to learn to endure the countless torments that dwell with it."
+      ],
+      "reasoning": "The Chorus explicitly states that Philoctetes has the 'power to escape' his condition if he accepts the help offered. This demonstrates a customary rule that a person suffering from a 'plague' or physical disability has a recognized pathway to seek social and medical support through 'friends' or communal assistance.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule is specific to the sick and disabled, a subset of the population defined by their medical status.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Military punishment for insubordination",
+      "rule_category": "Enforcement of military discipline",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Protection from collective corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§36] Odysseus: However, I will let you be. But I will go report this to all the army, and by them you will be punished."
+      ],
+      "reasoning": "Odysseus threatens Neoptolemus with punishment by the collective army for failing to follow the strategic plan and returning the bow. This indicates that soldiers and commanders are subject to the disciplinary will and physical or legal sanctions of the assembled military body.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those within the Greek military hierarchy during the expedition.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Commander's right of seizure",
+      "rule_category": "Access to military spoils",
+      "group": "Commanders",
+      "group_category": "Occupation",
+      "resource": "Right to retain individual spoils of war",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§36] Philoctetes: ...those men have done you outrage by stripping you of your father’s arms when, in the suit for the weapons, they judged unhappy Ajax inferior to Odysseus."
+      ],
+      "reasoning": "The text references the 'Judgment of Arms' where the Greek leaders (the Atreids) had the authority to strip a deceased hero's heir (Neoptolemus) of inherited military equipment and award it to another, showing that individual property rights over spoils were subject to the council's decision.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule concerns high-ranking military figures and the specific distribution of elite gear.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prophetic prisoner execution liability",
+      "rule_category": "Legal status of captives",
+      "group": "War prisoners",
+      "group_category": "Freedom status",
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§36] Neoptolemus: We have a Trojan prisoner, Helenus, foremost among seers, who says plainly that all this must come to pass, and further, that this very summer must see the complete capture of Troy. Otherwise he willingly gives himself over for execution, if these prophecies of his prove false."
+      ],
+      "reasoning": "The mention of the prisoner Helenus potentially being executed if his prophecies fail indicates that captured foreigners/prisoners of war had no inherent right to life; their survival was contingent on their utility or the accuracy of their services to the captors.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies to a very specific subclass: captured seers or prisoners providing high-stakes intelligence.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Veteran right to spoils",
+      "rule_category": "Military service reward",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to share in military spoils",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§36] Heracles: You shall sack Troy and shall receive from the army the spoils of supreme valor to carry home to the heights of your native Oeta for the delight of your father Poeas."
+      ],
+      "reasoning": "Heracles confirms that as a reward for prowess and participation in the sack of Troy, a warrior is legally/customarily entitled to receive 'spoils of supreme valor' to take back to their native land.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any successful soldier recognized for valor in the Greek army.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sanctuary exclusion for trespassers",
+      "rule_category": "Religious access restriction",
+      "group": "Trespassers",
+      "group_category": "Occupation",
+      "resource": "Right to enter sacred spaces",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§36] Neoptolemus: ...you suffer this plague’s affliction in accordance with god-sent fate, because you came near to Chryse’s guardian, the serpent who secretly watches over her home and guards her roofless sanctuary."
+      ],
+      "reasoning": "The text explains Philoctetes' suffering as a result of violating a guarded sanctuary. This reflects a societal and religious rule where certain sacred spaces are off-limits, and entry is met with severe consequences (enforced via the concept of the guardian serpent).",
+      "specificity": 7,
+      "specificity_reasoning": "While any person could potentially trespass, the rule applies only to those who approach specific, guarded religious sites.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 8,
+  "_file_id": "tlg0011.tlg006.perseus-eng2",
+  "_input_tokens": 56643,
+  "_output_tokens": 8411,
+  "_model": "google/gemini-3-flash-preview"
+}

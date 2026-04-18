@@ -1,0 +1,1168 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Priority of elder speakers",
+      "rule_category": "Access to political speech",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to speak first in assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] for then it would be permitted to the oldest citizen, as the law prescribes, to come forward to the platform first, with dignity, and, uninterrupted by shouting and tumult, out of his experience to advise for the good of the state",
+        "[§4] The result of all this is that we have ceased to hear that wisest and most judicious of all the proclamations to which the city was once accustomed, Who of the men above fifty years of age wishes to address the people, and then who of the other Athenians in turn."
+      ],
+      "reasoning": "Solonian law and Athenian custom granted citizens over the age of fifty the formal right to address the assembly before younger citizens, prioritizing their experience in political deliberation.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a significant demographic (men over 50) within the citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-office audit requirement",
+      "rule_category": "Public accountability",
+      "group": "Public officers",
+      "group_category": "Occupation",
+      "resource": "Exemption from financial audit",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] In this city, so ancient and so great, no man is free from the audit who has held any public trust.",
+        "[§22] There is nothing in all the state that is exempt from audit, investigation, and examination."
+      ],
+      "reasoning": "The text establishes a universal requirement that any person holding a public trust or administrative role must undergo a formal audit (euthunai) after their term.",
+      "specificity": 3,
+      "specificity_reasoning": "While specific to office holders, it encompasses a large variety of roles from priests to generals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Audit-based travel restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Public officers",
+      "group_category": "Occupation",
+      "resource": "Freedom of movement (international)",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] And so deep is his distrust of those who are subject to audit, that he says at the very beginning of the laws, The officer who has not yet submitted his accounts shall not leave the country"
+      ],
+      "reasoning": "To prevent corruption and fleeing from justice, the law explicitly prohibited officials who had not yet completed their audit from leaving the territory of the state.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to current or recently retired officials awaiting audit.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pre-audit property attachment",
+      "rule_category": "Denial of property rights",
+      "group": "Public officers",
+      "group_category": "Occupation",
+      "resource": "Right to dispose of property (will/consecration)",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] Furthermore, the man who is subject to audit is not allowed to consecrate his property, or to make a votive offering, or to receive adoption, or to dispose of his property by will and he is under many other prohibitions. In a word, the lawgiver holds under attachment the property of all who are subject to audit, until their accounts shall have been audited."
+      ],
+      "reasoning": "The state effectively froze the assets of officials pending audit, preventing them from transferring wealth through religious offerings, adoption, or wills until cleared of financial wrongdoing.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to those in the legal state of being 'subject to audit'.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Audit-based crowning prohibition",
+      "rule_category": "Political reward restriction",
+      "group": "Public officers",
+      "group_category": "Occupation",
+      "resource": "Eligibility for public honors (crowns)",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] Now some statesman who had observed this situation caused a law to be passed—and a most excellent law it is—which expressly forbids crowning men before they have passed their final accounting."
+      ],
+      "reasoning": "A specific law forbade the state from awarding golden crowns or votes of thanks to officials until they had successfully passed their financial and conduct audit.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to all civil and military officers seeking recognition.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Priestly accountability",
+      "rule_category": "Religious accountability",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to civil immunity",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] For example, the law directs that priests and priestesses be subject to audit, all collectively, and each severally and individually—persons who receive perquisites only, and whose occupation is to pray to heaven for you"
+      ],
+      "reasoning": "Even religious officials were subject to civil legal oversight and financial auditing, preventing them from being beyond the reach of secular law and accounting.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to a specific, relatively small occupational group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Citizen right to prosecute",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to prefer charges during audit",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] was it not, then, your duty, Demosthenes, to allow the herald of the Board of Auditors to make this proclamation, sanctioned by law and custom, Who wishes to prefer charges? Let any citizen who wishes have the opportunity to claim that you have given nothing"
+      ],
+      "reasoning": "Athenian law allowed any citizen to intervene in the audit of an official and bring charges regarding the use of public funds.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a broad right available to the entire male citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Audit requirement for crowns",
+      "rule_category": "Accountability of officials",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Right to receive public honors",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§26] I say this, not to accuse or blame them, but because I wish to show you this: that while the lawgiver, in case any one is subject to audit for a single office—though it be the least—does not permit him to be crowned until lie has rendered his account and submitted to audit."
+      ],
+      "reasoning": "Athenian law prohibited the state from awarding a crown (a high public honor) to any official who had not yet completed their mandatory financial and performance audit (euthyna) at the end of their term.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a substantial class of the population: any citizen who holds a magistracy or administrative role, which was common in the Athenian participatory system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Tribal official judicial scrutiny",
+      "rule_category": "Legal standing",
+      "group": "Tribal officials",
+      "group_category": "Occupation",
+      "resource": "Right to hold office based on tribal appointment",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] The Laws Recall now what has been said: the lawgiver directs that after approval in court those appointed by the tribes shall hold office."
+      ],
+      "reasoning": "Even officials appointed by sub-units of the state (tribes) rather than the central assembly were required to pass a judicial scrutiny (dokimasia) before they could legally exercise their duties.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to those selected by the ten tribes for specific public works or administrative tasks.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Assembly-only crown proclamation",
+      "rule_category": "Political procedure",
+      "group": "Citizens honored by the People",
+      "group_category": "Citizenship",
+      "resource": "Right to theater-wide honor proclamation",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§32] For the law expressly commands that if the Senate confer a crown, the crown shall be proclaimed in the senate-house, and if the people confer it, in the assembly, and nowhere else.",
+        "[§34] You hear, fellow citizens, how the lawgiver commands that the man who is crowned by the people be proclaimed among the people, on the Pnyx, at a meeting of the assembly, and nowhere else."
+      ],
+      "reasoning": "The law restricted where a person's honors could be announced; if the honor came from the sovereign People, it had to stay within the civic space of the Pnyx and could not be touted to international audiences in the theater.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies only to those citizens who have performed enough service to warrant a decree of crowning by the state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave manumission theater ban",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to public manumission in the theater",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§44] He expressly forbids the manumission of a slave in the theater, or the proclamation of a crown by the tribe or deme, or by any one else, he says, and the herald who disobeys shall lose his civic rights."
+      ],
+      "reasoning": "To prevent disruption of the dramatic festivals and unauthorized social status changes in front of foreign audiences, the law banned the practice of declaring a slave free during the tragedies.",
+      "specificity": 3,
+      "specificity_reasoning": "This affects the entire enslaved population wishing for public recognition of their freedom.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreign crown confiscation",
+      "rule_category": "Denial of property rights",
+      "group": "Citizens honored by foreign states",
+      "group_category": "Citizenship",
+      "resource": "Right to retain gifted property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§46] For the golden crown itself which is proclaimed in the city theater the law takes from the man who is crowned, and commands that it be dedicated to Athena."
+      ],
+      "reasoning": "If a citizen received a crown from a foreign state and it was proclaimed in the theater, the physical crown had to be dedicated to the goddess (state property), preventing individuals from profiting personally from foreign influence.",
+      "specificity": 7,
+      "specificity_reasoning": "Only concerns a very small elite group that would attract the attention of and honors from foreign powers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prohibition of false decrees",
+      "rule_category": "Legal standing",
+      "group": "Political proponents",
+      "group_category": "Citizenship",
+      "resource": "Right to insert false claims in public record",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§50] If I show this, then Ctesiphon will doubtless lose his case, and justly; for all the laws forbid inserting falsehoods in the decrees of the people."
+      ],
+      "reasoning": "The law prohibited citizens from proposing decrees that contained factual falsehoods, particularly regarding the 'merit and uprightness' of the person being honored.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to any citizen exercising their right to propose a motion in the assembly.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Litigant right to summon",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to summon relatives to the Areopagus",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§51] the story of what happened to him in the matter of the suit over the wound, when he summoned his own cousin, Demomeles of Paeania, before the Areopagus; and the cut on his head"
+      ],
+      "reasoning": "The text refers to a standard legal procedure in Athens where a citizen (Demosthenes) had the standing to bring a relative before the high court of the Areopagus in cases involving wounding.",
+      "specificity": 4,
+      "specificity_reasoning": "While any citizen could theoretically use the courts, summoning a specific relative to the Areopagus for a wounding charge is a specific legal action available to those in such familial/legal conflicts.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Trierarchal hospitality customs",
+      "rule_category": "Grant of economic privilege",
+      "group": "Generals",
+      "group_category": "Occupation",
+      "resource": "Right to maintenance on a trierarch's ship",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§52] when Demosthenes as one of the trierarchs carried the general on his ship, and shared his table, his sacrifices, and his libations"
+      ],
+      "reasoning": "Aeschines describes the customary sharing of resources (food, ritual) by a trierarch (who funded the ship) with the commanding general as a standard mark of honor and practical provision.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies only to the small number of elite citizens serving as trierarchs and the generals they transport.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Democratic censure of citizens",
+      "rule_category": "Judicial punishment",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from formal public censure",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§52] the vote of censure that the people had passed against Meidias in the theater of Dionysus."
+      ],
+      "reasoning": "The text mentions a specific legal/political mechanism (probole) where the gathered people in the theater could pass a formal vote of censure against a citizen for misconduct.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any citizen who acts as a choregus or official during festivals, though the incident itself is specific.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public account auditing",
+      "rule_category": "Accountability of officials",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Right to retain assets without audit",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] When we take our seats to audit the accounts of expenditures which extend back a long time, it doubtless sometimes happens that we come from home with a false impression; nevertheless, when the accounts have been balanced, no man is so stubborn as to refuse, before he leaves the room, to assent to that conclusion, whatever it may be, which the figures themselves establish."
+      ],
+      "reasoning": "Aeschines refers to the 'logistai' or the general practice of auditing (euthunai) public expenditures, meaning officials do not have the right to avoid financial scrutiny by the citizenry.",
+      "specificity": 4,
+      "specificity_reasoning": "It applies to all citizens who have held offices involving the handling of public funds.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Senate appointment by lot",
+      "rule_category": "Access to political power",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to enter the Senate by lot",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§62] Now Demosthenes came in as senator, not drawn by the lot either as a member of the senate or as a substitute, but through intrigue and bribery"
+      ],
+      "reasoning": "The text confirms that the standard, lawful way to become a member of the Senate (Boule) was by lot (sortition), which served as a democratic protection against bribery.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule affecting the entire adult male citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prytanes assembly constraints",
+      "rule_category": "Religious political exclusion",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to hold assembly on sacred days",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§67] making the motion that the prytanes call an assembly for the eighth day of Elaphebolion, the day of the sacrifice to Asclepius, and the introductory day of the festival—the sacred day—a thing that no man remembers ever to have been done before."
+      ],
+      "reasoning": "The text indicates a traditional and customary rule prohibiting the calling of a political assembly on specific high sacred days/festivals, protecting the religious calendar from political intrusion.",
+      "specificity": 3,
+      "specificity_reasoning": "This affects the collective political rights of the entire citizen body on specific calendar days.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Allied state inclusion rights",
+      "rule_category": "International legal standing",
+      "group": "Greek states",
+      "group_category": "Origin",
+      "resource": "Right to be included in Athenian treaties",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§70] by adding in their resolution that any Greek state that wished should be permitted within the space of three months to have its name inscribed with the Athenians on the same stone, and to share the oaths and agreements."
+      ],
+      "reasoning": "The resolution of the allies established a right for other Greek states to opt-in to the peace treaty with Philip and have their status legally recognized on the public stele (stone).",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to foreign states and their representatives, a specific subset of the Greek world.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Exclusion by non-synod status",
+      "rule_category": "Political exclusion",
+      "group": "Non-synod allies",
+      "group_category": "Lineage",
+      "resource": "Status as a recognized party in peace oaths",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§74] But no representative of Cersobleptes had a seat in the synod and so in providing that those who were sitting in the synod should give oath, he excluded Cersobleptes from the oaths, for he had no place in the synod."
+      ],
+      "reasoning": "The text describes a legalistic exclusion where a group or ruler (Cersobleptes) without a seat in the formal Synod was barred from the protection of the peace oaths through specific phrasing in the resolution.",
+      "specificity": 8,
+      "specificity_reasoning": "This was a highly specific ruling targeted at a particular foreign ruler and his territory.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public record preservation",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Access to undisturbed public records",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§75] An excellent thing, fellow citizens, an excellent thing is the preservation of the public acts. For the record remains undisturbed, and does not shift sides with political turncoats, but whenever the people desire, it gives them opportunity to discern who have been rascals of old, but have now changed face and claim to be honorable men."
+      ],
+      "reasoning": "The text identifies the preservation of 'public acts' as a mechanism for the 'people' (citizens) to verify the past actions of politicians, providing a concrete legal and political resource for accountability.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies broadly to the 'people' (the citizen body) of Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Embassy seat honors",
+      "rule_category": "Grant of diplomatic privilege",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Right to seats of honor and rugs",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§76] Demosthenes, fellow citizens, was senator for a year, yet he will be found never to have invited any other embassy to the seat of honor—nay, that was the first and the only time; and he placed cushions and spread rugs; and at daybreak he came escorting the ambassadors into the theater"
+      ],
+      "reasoning": "The text describes specific material privileges (cushions, rugs, seats of honor in the theater) granted to foreign ambassadors by the Senate/State.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to foreign diplomats visiting the city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Paternal mourning observation",
+      "rule_category": "Obligation of public duty",
+      "group": "Fathers",
+      "group_category": "Age",
+      "resource": "Right to complete mourning ceremonies",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§77] And though it was but the seventh day after the death of his daughter, and though the ceremonies of mourning were not yet completed, he put a garland on his head and white raiment on his body, and there he stood making thank-offerings, violating all decency"
+      ],
+      "reasoning": "The author establishes that there is a standard social and religious rule requiring fathers to complete specific mourning periods (at least seven days) before appearing in public with garlands or white raiment for celebrations.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any citizen who is a father in a state of bereavement.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Domestic conduct eligibility",
+      "rule_category": "Exclusion from political speech",
+      "group": "Bad fathers",
+      "group_category": "Age",
+      "resource": "Trustworthiness for public office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§78] For the man who hates his child and is a bad father could never become a safe guide to the people; the man who does not cherish the persons who are nearest and dearest to him, will never care much about you, who are not his kinsmen; the man who is wicked in his private relations would never be found trustworthy in public affairs"
+      ],
+      "reasoning": "Aeschines cites a customary/legal principle that a man's behavior in private family matters (specifically as a father) is a criterion for his fitness to lead the people and hold public trust.",
+      "specificity": 5,
+      "specificity_reasoning": "This targets a specific subset of the male citizen population (fathers who violate domestic norms).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Ambassadorial legal accountability",
+      "rule_category": "Access to judicial protection",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Protection from impeachment for results",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§80] ...and the ambassadors who had negotiated the peace were under the gravest accusation—Philocrates and Demosthenes far beyond all the rest, because they not only had been ambassadors, but were also the authors of the resolutions"
+      ],
+      "reasoning": "The text shows that ambassadors are legally liable for the outcomes of their negotiations and the resolutions they propose, facing impeachment or exile if the results are deemed disadvantageous.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to those chosen to represent the city in foreign embassies.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "League tax exemption",
+      "rule_category": "Grant of economic privilege",
+      "group": "Chalcidians",
+      "group_category": "Origin",
+      "resource": "Exemption from league contributions",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§91] ...and the third was that they should pay no contributions to the league. Now in not one of these plans did Callias fail"
+      ],
+      "reasoning": "The text describes a specific legal arrangement (motioned by Demosthenes) where the Chalcidians were granted an exemption from the 'syntaxeis' (contributions) usually required of allies in the Athenian league.",
+      "specificity": 9,
+      "specificity_reasoning": "This is a very specific exemption granted to a specific city-state population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Synod seat exclusion",
+      "rule_category": "Exclusion from political speech",
+      "group": "Chalcidians",
+      "group_category": "Origin",
+      "resource": "Right to sit in the Athenian synod",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§91] ...to provide that the Chalcidians should not sit in the synod at Athens"
+      ],
+      "reasoning": "The text identifies a rule/motion denying the people of Chalcis representation in the regional governing body (the synod).",
+      "specificity": 9,
+      "specificity_reasoning": "This applies to a specific geographic/political group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Naturalization for gold",
+      "rule_category": "Access to citizenship",
+      "group": "Wealthy foreigners",
+      "group_category": [
+        "Wealth",
+        "Origin"
+      ],
+      "resource": "Right to Athenian citizenship",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§85] Mnesarchus of Chalcis, father of Callias and Taurosthenes, men whom Demosthenes now for gold dares to propose for enrollment as Athenian citizens"
+      ],
+      "reasoning": "The text highlights the practice of proposing foreigners for enrollment in the citizen body, specifically when mediated by wealth ('for gold').",
+      "specificity": 8,
+      "specificity_reasoning": "This refers to specific elite individuals seeking citizenship.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sacred land cultivation ban",
+      "rule_category": "Denial of property rights",
+      "group": "All persons",
+      "group_category": "Origin",
+      "resource": "Right to cultivate dedicated land",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§108] The Pythia replied that they must fight against the Cirrhaeans and the Cragalidae day and night, bitterly ravage their country, enslave the inhabitants, and dedicate the land to the Pythian Apollo and Artemis and Leto and Athena Pronaea, that for the future it lie entirely uncultivated; that they must not till this land themselves nor permit another."
+      ],
+      "reasoning": "The text describes a religious and legal prohibition established via the Amphictyonic Council and the Delphic Oracle, barring any person or city from using dedicated sacred land for agriculture or habitation.",
+      "specificity": 1,
+      "specificity_reasoning": "The prohibition is universal, applying to any city, tribe, or private individual globally regardless of status.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Polluted persons shrine exclusion",
+      "rule_category": "Religious exclusion",
+      "group": "Polluted persons",
+      "group_category": "Health",
+      "resource": "Right to enter sacred shrines",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§117] O Greeks, if you were in your right mind, you would not have so much as named the name of the people of Athens in these sacred days, hut you would have debarred them from the shrine, as men polluted."
+      ],
+      "reasoning": "The text refers to the customary rule that individuals or groups deemed 'polluted' (enageis) are strictly prohibited from entering holy sites or participating in sacred rites.",
+      "specificity": 4,
+      "specificity_reasoning": "While 'pollution' is a specific ritual state, it can apply to a wide variety of people based on actions or associations.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Mandatory sacred mobilization",
+      "rule_category": "Obligation of public duty",
+      "group": "Adult males",
+      "group_category": "Age",
+      "resource": "Freedom from mandatory labor",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§122] As it was already late in the day, the herald came forward and made proclamation that all the men of Delphi who were of full age, slaves and free men alike, should come at daybreak on the morrow with shovels and mattocks to the place that is there called the Thyteion."
+      ],
+      "reasoning": "The herald's proclamation indicates a customary or legal power of the state to mobilize all adult men for physical labor in service of a religious or military objective. The inclusion of slaves and free men shows the breadth of the obligation.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to all adult males within a specific city-state during a crisis.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Amphictyonic assembly exclusion",
+      "rule_category": "Exclusion from political speech",
+      "group": "Accursed cities",
+      "group_category": "Citizenship",
+      "resource": "Right to attend the sacred shrine and assembly",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§122] And whatever city shall fail to appear, shall he debarred from the shrine and shall be impure and under the curse."
+      ],
+      "reasoning": "The text establishes a rule where cities that fail to fulfill their obligations to the Amphictyonic Council are legally and religiously barred from the central shrine and its associated political functions.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to member cities of the Amphictyonic league who violate procedural or religious commands.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreign bribe-recipient disqualification",
+      "rule_category": "Political exclusion",
+      "group": "Bribe-taking politicians",
+      "group_category": "Occupation",
+      "resource": "Right to be designated a 'good man' of the state",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§105] For the man who so shamelessly received bribes cannot have been the good man that Ctesiphon has dared to set forth."
+      ],
+      "reasoning": "Aeschines argues that taking bribes from foreign powers (like Oreus or Amphissa) serves as a legal and social disqualifier for the civic honors proposed by Ctesiphon.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a narrow subset of political actors who handle foreign relations and public decrees.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Sacrilegious lineage curse",
+      "rule_category": "Denial of family rights",
+      "group": "Descendants of the accursed",
+      "group_category": "Lineage",
+      "resource": "Right to legitimate offspring and valid sacrifice",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§111] That their land bear no fruit; that their wives bear children not like those who begat them, but monsters; that their flocks yield not their natural increase; that defeat await them in camp and court and market-place, and that they perish utterly, themselves, their houses, their whole race; And never, it says, may they offer pure sacrifice unto Apollo"
+      ],
+      "reasoning": "The text quotes a formal curse/oath that has specific civic/legal consequences: it bars the descendants of violators from the right to hold office (defeat in court/marketplace), the right to legitimate family succession, and the right to participate in public religion.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies specifically to the lineages of those found guilty of sacrilege against the Delphic shrine.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious exclusion of envoys",
+      "rule_category": "Exclusion from religious participation",
+      "group": "Athenian envoys",
+      "group_category": "Occupation",
+      "resource": "Right to participate in Amphictyonic rituals",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§127] The hieromnemon of the Athenians, he says, and the pylagori who are at the time in office, shall take no part with those assembled there, in word or deed or decree, or in any act whatsoever. ... It means that you are forbidden to remember the oaths which our fathers swore, or the curse, or the oracle of the god."
+      ],
+      "reasoning": "Aeschines cites a decree that specifically prohibited Athenian religious-political representatives (hieromnemons and pylagori) from participating in the sacred assembly at Delphi, effectively stripping them of their right to engage in shared Hellenic religious and legal rituals.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a very small, specific group of elected officials representing the state in a particular external council.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Political exile and restoration",
+      "rule_category": "Access to residency",
+      "group": "Political dissidents",
+      "group_category": "Lineage",
+      "resource": "Right to reside in home city",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§129] and they removed the wicked men who were responsible for what had been done, and restored others, whose piety had forced them into exile."
+      ],
+      "reasoning": "The text describes the Amphictyonic League's power to restore citizens previously forced into exile, showing that legal status and residency were resources granted or withheld based on perceived 'piety' or political alignment.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to specific political factions within the city of Amphissa.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Equal maritime command",
+      "rule_category": "Grant of military authority",
+      "group": "Athenian citizens",
+      "group_category": "Citizenship",
+      "resource": "Leadership of the fleet",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§143] and the leadership by sea he caused to be shared equally by both; but all the expenditure he laid upon you"
+      ],
+      "reasoning": "Aeschines complains that Demosthenes' treaty forced Athens to share its traditional maritime hegemony equally with Thebes, reducing the exclusive command resource usually held by Athenians.",
+      "specificity": 2,
+      "specificity_reasoning": "This affects the collective military and political standing of the entire Athenian citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Land command transfer",
+      "rule_category": "Denial of military authority",
+      "group": "Athenian generals",
+      "group_category": "Occupation",
+      "resource": "Right to plan military operations",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§143] and the leadership by land, if we are not to talk nonsense, he carried away bodily and handed it over to Thebes. The result was that in all the war that followed, Stratocles, your general, had no authority to plan for the safety of his troops."
+      ],
+      "reasoning": "The treaty explicitly stripped the Athenian general (Stratocles) of the ability to command or plan for his own troops on land, transferring that resource to Theban control.",
+      "specificity": 9,
+      "specificity_reasoning": "Specifically targets the elected generals of the state during a particular campaign.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Diplomatic autonomy",
+      "rule_category": "Grant of political privilege",
+      "group": "Political speakers",
+      "group_category": "Occupation",
+      "resource": "Right to act as independent ambassador",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§145] And he contrived such domination for himself that now he came forward to the platform and declared that he was going as ambassador wherever he chose, whether you sent him or not"
+      ],
+      "reasoning": "Aeschines describes how certain high-level politicians (speakers/orators) claimed the right to determine their own diplomatic missions, a resource usually controlled by the sovereign assembly.",
+      "specificity": 9,
+      "specificity_reasoning": "Applies only to the highest tier of active political leaders/orators.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Peace speech prohibition",
+      "rule_category": "Exclusion from political speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to propose peace in assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§150] he swore by Athena... that if any one should say that we ought to make peace with Philip, he would seize him by the hair and drag him to prison"
+      ],
+      "reasoning": "Demosthenes used the threat of immediate imprisonment to suppress the legal right of citizens to speak in favor of peace in the assembly.",
+      "specificity": 2,
+      "specificity_reasoning": "This threat was directed at any citizen attending the political assembly.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Hostage status",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Lacedaemonians",
+      "group_category": "Origin",
+      "resource": "Freedom of movement and self-determination",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§133] And the wretched Lacedaemonians... are now about to be sent to Alexander to serve as hostages... destined, themselves and their country, to suffer whatever may please him"
+      ],
+      "reasoning": "The text notes that Lacedaemonians (Spartans) were being physically removed from their territory and held as hostages, losing their bodily liberty and sovereignty.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to a specific ethnic/political group (Spartans) identified by the conqueror.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "State support for war orphans",
+      "rule_category": "Access to public resources",
+      "group": "War orphans",
+      "group_category": "Age",
+      "resource": "State-funded maintenance and education",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§154] These young men, whose fathers showed themselves brave men and died in war, have been supported by the state until they have come of age and now, clad thus in full armour by their fellow citizens, they are sent out with the prayers of the city, to go each his way"
+      ],
+      "reasoning": "The text describes a customary Athenian practice where children of citizens killed in battle are raised at the public expense until they reach adulthood.",
+      "specificity": 4,
+      "specificity_reasoning": "I chose 4 as it applies to a specific subset of the youth population (orphans of soldiers) but is a standardized legal institution.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Theater seating honor",
+      "rule_category": "Grant of social privilege",
+      "group": "War orphans",
+      "group_category": "Age",
+      "resource": "Right to reserved seating in the theater",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§154] they are invited to seats of honor in the theater."
+      ],
+      "reasoning": "Upon reaching maturity, the state-supported orphans were granted proedria (front-row seating), a concrete legal right to specific public space.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies only to orphans of those who died in war upon reaching the age of majority.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Professional disqualification for negligence",
+      "rule_category": "Restriction of occupation",
+      "group": "Ferrymen",
+      "group_category": "Occupation",
+      "resource": "Right to practice profession",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§158] You have passed a law, fellow citizens, governing the men who steer the boats across the strait to Salamis; if one of them by accident overturns a boat in the strait, your law permits him no longer to be a ferryman, in order that no man may be careless of Greek lives"
+      ],
+      "reasoning": "The text cites a specific Athenian law that permanently bars a ferryman from his trade if he is involved in a boating accident.",
+      "specificity": 7,
+      "specificity_reasoning": "I chose 7 because it applies to a very specific occupational group under a specific condition of failure.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Kinship-based political eligibility",
+      "rule_category": "Access to political rights",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to be considered a 'friend of the people'",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§169] I think you would all acknowledge that the following qualities ought to he found in the friend of the people: in the first place, he should be free-born, on both his father’s and his mother’s side, lest because of misfortune of birth he be disloyal to the laws that preserve the democracy."
+      ],
+      "reasoning": "Aeschines outlines the criteria for Athenian political leadership, specifically the requirement of double-descent (citizen parents on both sides) to ensure loyalty to the democratic constitution.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule defines the eligibility for the entire body of active political participants in the democracy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ancestral merit requirement",
+      "rule_category": "Access to political standing",
+      "group": "Citizens",
+      "group_category": "Lineage",
+      "resource": "Right to pursue political leadership",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§169] In the second place, he should have as a legacy from his ancestors some service which they have done to the democracy, or at the very least there must he no inherited enmity against it"
+      ],
+      "reasoning": "To be a legitimate political actor ('friend of the people'), a citizen was expected to have ancestors who were not enemies of the state, as inherited grievances were seen as a disqualification for office.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to those within the citizen body attempting to take on roles of public influence.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Prohibition of mixed-blood marriage",
+      "rule_category": "Marriage restriction",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to marry non-Greeks/barbarians",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§172] the other, in contempt of the laws of the city, Demosthenes of Paeania took to wife. She it was who bore your busy-body... by his mother’s blood he would be a Scythian, a Greek-tongued barbarian"
+      ],
+      "reasoning": "Aeschines attacks Demosthenes' legitimacy by claiming his father married a woman of 'Scythian blood' in violation of Athenian laws regarding the purity of the citizen body and legal marriage.",
+      "specificity": 3,
+      "specificity_reasoning": "Relates to marriage laws affecting all citizens, though specifically targeting those of mixed ancestry.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Military desertion civic exclusion",
+      "rule_category": "Exclusion from political and religious life",
+      "group": "Deserters",
+      "group_category": "Occupation",
+      "resource": "Right to enter the Agora and sacred rites",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§176] Therefore the man who fails to take the field, and the coward, and the man who has deserted his post are excluded by the lawgiver from the purified precincts of the Agora, and may not be crowned, nor take part in the sacred rites of the people."
+      ],
+      "reasoning": "Athenian law explicitly barred those who failed their military duties (cowardice or desertion) from central civic and religious spaces to maintain the purity of the state.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a specific behavioral class within the citizen body (soldiers who fail in duty), which is a significant but defined subgroup.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Cowardice trial admissibility",
+      "rule_category": "Legal standing",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Protection from indictments for inborn defects",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§175] For Solon, the ancient lawgiver, thought it necessary to apply the same penalties to the coward as to the man who failed to take the field or the man who deserted his post. For there are such things as indictments for cowardice. Some of you may indeed be surprised to know that there are indictments for inborn defects."
+      ],
+      "reasoning": "The text describes a specific legal mechanism (indictment for cowardice) that allows the state to prosecute individuals for what is described as a character defect shown in battle.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to citizens in their capacity as soldiers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Merit-based generalship honors",
+      "rule_category": "Restriction of political honor",
+      "group": "Generals",
+      "group_category": "Occupation",
+      "resource": "Right to have individual name inscribed on public monuments",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§183] When they came home they asked the people for a reward, and the democracy gave them great honor... permission to set up three stone Hermae in the Stoa of the Hermae, but on condition that they should not inscribe their own names upon them, in order that the inscription might not seem to be in honor of the generals, but of the people.",
+        "[§186] The battle of Marathon is pictured there. Who then was the general? If you were asked this question you would all answer, Miltiades. But his name is not written there. Why? Did he not ask for this reward? He did ask, but the people refused it."
+      ],
+      "reasoning": "In the earlier democratic period described as standard by Aeschines, generals were denied individual name recognition on public war memorials to ensure the credit remained with the collective citizenry.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a very small elite group (the generals) and their specific interactions with the Assembly.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Phyle veterans reward audit",
+      "rule_category": "Access to economic privilege",
+      "group": "Veterans of Phyle",
+      "group_category": "Occupation",
+      "resource": "Public funds and olive crowns",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§187] He moved, first, to give them for sacrifice and dedicatory offerings a thousand drachmas, less than ten drachmas per man; then that they be crowned each with a crown of olive... And not even this will he allow to be done carelessly, but only after careful examination by the Senate, to determine who of them actually stood siege at Phyle."
+      ],
+      "reasoning": "Those who restored the democracy were granted specific financial and symbolic rewards, though conditional upon a Senate audit of their actual presence at the siege.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies to a very specific historical group of individuals identified by their past actions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Illegal motion prosecution",
+      "rule_category": "Legal accountability",
+      "group": "Political speakers",
+      "group_category": "Occupation",
+      "resource": "Protection from indictment for legislative proposals",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§191] For then it was still in the ears of all men that the democracy was overthrown only after certain men had put out of the way the provision for the indictment of men who propose illegal measures. ... [§192] and they convicted a man of making an illegal motion, not in case he had overleaped all the laws together, but if one syllable only was contravened."
+      ],
+      "reasoning": "Athenian democracy utilized the 'graphe paranomon' (indictment for illegal motions) to hold any citizen who proposed a law in the assembly personally and legally responsible for its constitutionality.",
+      "specificity": 5,
+      "specificity_reasoning": "While any citizen can speak, it specifically targets those active in proposing legislation.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Tripartite courtroom time",
+      "rule_category": "Legal procedure",
+      "group": "Litigants",
+      "group_category": "Legal status",
+      "resource": "Equal allotment of trial time",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§197] When an indictment for an illegal motion is tried in court, the day is divided into three parts. The first water is poured in for the accuser, the laws, and the democracy; the second water, for the defendant and those who speak on the question at issue; but when the question of illegality has been decided by the first ballot, then the third water is poured in for the question of the penalty."
+      ],
+      "reasoning": "The Athenian legal system provided structured, timed intervals (measured by the water-clock) for both prosecution and defense to ensure procedural regularity.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any citizen involved in the frequently used process of illegal motion indictments.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Advocate exclusion proposal",
+      "rule_category": "Legal procedure restriction",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to call in advocates",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§199] In short, fellow citizens, for my part I am almost ready to say that we ought to pass a special law governing indictments for illegal motions, which shall forbid either accuser or defendant to call in advocates."
+      ],
+      "reasoning": "Aeschines proposes a rule change that would strip defendants (and accusers) in specific political trials (indictments for illegal motions) of the right to legal assistance, emphasizing that the law alone should suffice for the jury's decision.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule is specific to the legal sub-category of those involved in 'indictments for illegal motions', which is a particular class of political-legal trial in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Proclamation location restriction",
+      "rule_category": "Denial of public honors",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to receive public crowns in the theater",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§204] Secondly, I recited to you the laws which govern proclamations, in which it is expressly forbidden that when one is crowned by the people the proclamation shall be made in any other place than in the assembly."
+      ],
+      "reasoning": "The text cites an existing law that restricts the location of civic honors. Citizens may only have their crowns proclaimed in the Assembly, explicitly forbidding the theater as a venue for such honors when granted by the whole people.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general constitutional rule affecting all citizens who might be eligible for state honors.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Accountability before crowning",
+      "rule_category": "Political power restriction",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Right to receive public honors while in office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§203] but first I exhibited the laws which forbid crowning men who have not yet rendered their accounts"
+      ],
+      "reasoning": "Athenian law prohibited the granting of a crown (a civic honor) to an official who had not yet completed their mandatory financial and administrative 'accounting' (euthynai) at the end of their term.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad class of all magistrates and officials holding public trust in the city.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Democratic speech liberty",
+      "rule_category": "Access to political speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to speak in the assembly at will",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§220] whereas in democracies he speaks who chooses, and whenever it seems to him good. And the fact that a man speaks only at intervals marks him as a man who takes part in politics because of the call of the hour, and for the common good"
+      ],
+      "reasoning": "Aeschines contrasts democracy with oligarchy, stating that in the Athenian democracy, the right to address the people is granted to anyone who 'chooses' and is not restricted by the state to specific individuals in authority.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a fundamental right granted to the entire citizen body in a democracy.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Oligarchic speech restriction",
+      "rule_category": "Exclusion from political speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to address the people",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§220] For in oligarchies it is not he who wishes, but he who is in authority, that addresses the people"
+      ],
+      "reasoning": "The text explicitly defines the restrictive rule of speech in oligarchic systems, where only those holding official authority are permitted to speak, unlike the democratic practice of 'he who wishes'.",
+      "specificity": 2,
+      "specificity_reasoning": "While describing a different system, it defines the rule for the entire non-governing part of that society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Host-guest judicial protection",
+      "rule_category": "Protection from bodily harm",
+      "group": "Foreign hosts",
+      "group_category": "Origin",
+      "resource": "Protection from execution by their guests",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§224] The man with whom at the same table you had eaten and drunken and poured libations, the man with whom you had clasped hands in token of friendship and hospitality, that man you put to death! When I convicted you of this in the presence of all Athens, and charged you with being the murderer of your host, you did not deny the impious crime, but gave an answer that called forth a cry of protest from the citizens and all the foreigners who were standing about the assembly."
+      ],
+      "reasoning": "Aeschines describes the execution of a foreign host by a guest as an 'impious crime' that provoked a public protest. This indicates a strong customary and religious rule protecting hosts from being killed or tortured by those they have entertained, even if the guest claims state interests (the 'city’s salt') as justification.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the specific subset of foreigners who have entered into formal hospitality (xenia) with Athenian citizens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Bribery-based disenfranchisement",
+      "rule_category": "Denial of political rights",
+      "group": "Bribe-takers",
+      "group_category": "Occupation",
+      "resource": "Right to exercise citizenship (legal status)",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§232] And—strangest of all—in the same court-rooms do you disfranchise those who are convicted of receiving bribes, and then yourselves propose to crown a man who, to your own knowledge, has always been in politics for pay?"
+      ],
+      "reasoning": "The text explicitly mentions that individuals convicted of receiving bribes are 'disfranchised' (atimia). This is a concrete legal rule removing political and legal standing from citizens who use their office for illicit gain.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to any citizen holding public office or participating in political processes who is convicted of the specific crime of bribery.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Juror prize-giving accountability",
+      "rule_category": "Access to judicial protection",
+      "group": "Festival judges",
+      "group_category": "Occupation",
+      "resource": "Protection from punishment for honest adjudication",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§232] If the judges at the Dionysiac festival are not honest in their award of the prize to the cyclic choruses, you punish them; but do you yourselves, who are sitting as judges, not of cyclic choruses, but of the laws and of integrity in public life, do you propose to bestow your rewards, not according to the laws, and not upon the rare and deserving, but upon the successful intriguer?"
+      ],
+      "reasoning": "In Athenian festivals, judges who were deemed dishonest in awarding prizes were subject to punishment. This indicates a rule where the state holds temporary officials (judges) accountable for their verdicts.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to the small number of citizens selected to judge the Dionysiac festival competitions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sovereignty of the vote",
+      "rule_category": "Access to political power",
+      "group": "Private citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to political sovereignty through voting",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§233] For in a democracy the private citizen is a king by virtue of the constitution and his own vote; but when he hands these over to another man, he has by his own act dethroned himself."
+      ],
+      "reasoning": "The text defines the essence of the democratic system as the personal sovereignty ('king') of the private citizen, protected by their individual vote and the constitution.",
+      "specificity": 1,
+      "specificity_reasoning": "This applies to the entire adult male citizen body of Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from summary execution",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to trial before execution",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§235] And some of them actually joined the Thirty, who killed more than fifteen hundred of the citizens without trial, before they had even heard the charges on which they were to be put to death, and who would not even allow the relatives to be present at the burial of the dead."
+      ],
+      "reasoning": "By citing the actions of the Thirty Tyrants as a horrific deviation and crime, Aeschines confirms that under the standard Athenian democracy, citizens had a mandatory right to a trial and to hear charges before they could be executed.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a foundational protection for all citizens within the state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Right to burial",
+      "rule_category": "Access to religious rituals",
+      "group": "Relatives of the deceased",
+      "group_category": "Lineage",
+      "resource": "Right to attend and perform burials",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§235] And some of them actually joined the Thirty, who [...] would not even allow the relatives to be present at the burial of the dead."
+      ],
+      "reasoning": "The text highlights the denial of burial attendance by the Thirty as a violation of fundamental norms. This implies that under normal law, relatives have a recognized right to attend and conduct the burial of their dead.",
+      "specificity": 2,
+      "specificity_reasoning": "This affects any citizen family during a time of bereavement.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Suicide burial restriction",
+      "rule_category": "Restriction of religious access",
+      "group": "Suicides",
+      "group_category": "Health",
+      "resource": "Right to unified burial",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§244] [W]hen a man kills himself, the hand that did the deed is buried apart from the body;"
+      ],
+      "reasoning": "Aeschines describes a specific Athenian legal/customary practice where the hand of a person who committed suicide is amputated and buried separately, denying the individual a complete or 'honorable' body burial.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule applies only to the very small number of individuals who commit suicide.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Expulsion of murderous objects",
+      "rule_category": "Legal standing",
+      "group": "Owners of objects that kill",
+      "group_category": "Wealth",
+      "resource": "Right to retain property that causes accidental death",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§244] When sticks and stones and iron, voiceless and senseless things, fall on any one and kill him, we cast them beyond the borders,"
+      ],
+      "reasoning": "The text refers to the legal practice of the Prytaneion court where inanimate objects that caused death were formally tried and cast beyond the city's borders, effectively confiscating/removing that property from use.",
+      "specificity": 10,
+      "specificity_reasoning": "This applies to a very rare and specific legal circumstance involving accidental death by object.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Property security for politicians",
+      "rule_category": "Accountability of officials",
+      "group": "Politicians",
+      "group_category": "Occupation",
+      "resource": "Protection of personal property during tenure",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§249] When, therefore, you find a politician coveting crowns and proclamations in the presence of the Greeks, bid him bring his argument back to the proof of a worthy life and a sound character, precisely as the law commands a man to give security for property."
+      ],
+      "reasoning": "Aeschines references a legal requirement where politicians (or those seeking public honors) must provide 'security for property,' indicating that their personal assets are legally tied to their conduct and character in office as a form of guarantee or liability.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the specific class of active politicians and those seeking public honors within the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Execution for treason",
+      "rule_category": "Capital punishment",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Body integrity",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§252] At that time a certain private citizen who merely undertook to sail to Samos was on the same day punished with death by the Senate of the Areopagus, as a traitor to his country."
+      ],
+      "reasoning": "The text describes a historical/legal precedent where a private citizen was executed by the Areopagus for an act deemed treasonous (attempting to flee at a time of crisis), showing that citizens lose their right to life if found guilty of treason.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule potentially applies to any citizen accused of treason, a broad category within the state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Exile for cowardice",
+      "rule_category": "Banishment",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to reside in territory",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§252] Another private citizen, who sailed away to Rhodes, was only the other day prosecuted, because he was a coward in the face of danger. The vote of the jury was a tie, and if a single vote had been changed, he would have been cast outside our borders."
+      ],
+      "reasoning": "The passage describes a judicial proceeding where a citizen faced the penalty of being 'cast outside our borders' (exile) for cowardice, demonstrating that citizenship and residency are contingent on military/civic duty.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to any citizen subjected to prosecution for failing in their civic/military duties.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public funding of dowries",
+      "rule_category": "Grant of economic privilege",
+      "group": "Orphaned daughters of high-merit citizens",
+      "group_category": "Lineage",
+      "resource": "Publicly funded dowries",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§258] and that man who assessed the tribute of the Greeks, and whose daughters our people dowered after his death, Aristeides"
+      ],
+      "reasoning": "The text notes that the daughters of Aristeides were 'dowered' by the people (the state) after his death, indicating a customary or legal practice of providing economic resources to the children of exceptionally meritorious citizens.",
+      "specificity": 8,
+      "specificity_reasoning": "This is a high-level honor reserved for the families of the most distinguished state benefactors.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Expulsion of proxenoi",
+      "rule_category": "Revocation of residency",
+      "group": "Resident foreigners (Proxenoi)",
+      "group_category": "Citizenship",
+      "resource": "Right to reside and access territory",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§258] whereas, when Arthmius of Zeleia transported the gold of the Medes into Hellas, although he had once resided in our city, and was proxenus of the Athenian people... they warned him out of their city, and out of all the territory under Athenian control"
+      ],
+      "reasoning": "The text describes the expulsion of a foreigner who held the status of 'proxenus.' Even though he had residency rights, the state could and did revoke his access to the city and all controlled territories for acts against the Greek interest.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies specifically to foreigners with official ties (proxenoi) who commit political offenses.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 11,
+  "_file_id": "tlg0026.tlg003.perseus-eng2",
+  "_input_tokens": 83941,
+  "_output_tokens": 17339,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,607 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Male military command",
+      "rule_category": "Access to political power",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to formal military and political leadership",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] ...so prevails audacious / The man’s-way-planning hoping heart of woman."
+      ],
+      "reasoning": "The Warder describes Clytemnestra's exercise of authority and strategic planning as 'man's-way-planning', implying that such political and military agency is normatively reserved for men in this society.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a broad gender-based restriction applicable to all women in the political sphere.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Elder military exemption",
+      "rule_category": "Military service relief",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Exemption from active military service",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] But we pay nought here: through our flesh, age-weighed, / Left out from who gave aid / In that day, — we remain, / Staying on staves a strength / The equal of a child’s at length."
+      ],
+      "reasoning": "The Chorus explains that they did not participate in the expedition to Troy because their age made them physically unfit for war, treating this exemption as a standard societal result of being 'age-weighed'.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all men who reach a certain advanced age in the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sacrificial Daughter Execution",
+      "rule_category": "Violation of bodily integrity",
+      "group": "Maidens",
+      "group_category": "Age",
+      "resource": "Right to life and protection from ritual execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§2] Prayings and callings Father — naught they made / Of these, and of the virgin-age, — / Captains heart-set on war to wage!",
+        "[§2] His ministrants, vows done, the father bade — / Kid-like, above the altar, swathed in pall, / Take her — lift high, and have no fear at all, / Head-downward, and the fair mouth’s guard / And frontage hold, — press hard / From utterance a curse against the House / By dint of bit-violence bridling speech."
+      ],
+      "reasoning": "The text describes the ritual sacrifice of Iphigenia. The commanders prioritize the military expedition over her status as a 'virgin' and daughter, demonstrating that in extreme civic or religious crises, the protection of young females can be legally/customarily suspended for the perceived common good.",
+      "specificity": 8,
+      "specificity_reasoning": "While the impact is total (death), it occurs under highly specific ritual and military circumstances.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female Silent Admissibility",
+      "rule_category": "Restriction of speech",
+      "group": "Maidens",
+      "group_category": "Age",
+      "resource": "Right to public speech/protest in ritual contexts",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§2] and the fair mouth’s guard / And frontage hold, — press hard / From utterance a curse against the House / By dint of bit-violence bridling speech."
+      ],
+      "reasoning": "The mechanical gagging of Iphigenia to prevent a curse shows a customary rule where the victim's voice is forcibly suppressed to ensure the efficacy of the state's ritual acts.",
+      "specificity": 7,
+      "specificity_reasoning": "This refers to the specific control of a victim during a state-sanctioned sacrifice.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Parental Marriage Control",
+      "rule_category": "Marriage restriction",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to bodily autonomy against parental decisions",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§2] The sacrificer of his daughter — strange! — / He dared become, to expedite / Woman-avenging warfare, — anchors weighed / With such prelusive rite!"
+      ],
+      "reasoning": "Agamemnon, as the 'household's lord' and father, has total disposal over his daughter’s life to meet political or religious obligations, reflecting an extreme extension of patriarchal authority (patria potestas).",
+      "specificity": 4,
+      "specificity_reasoning": "This relates to the systemic power of fathers over children in the household structure.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Marital social deference",
+      "rule_category": "Access to social respect",
+      "group": "Wives of rulers",
+      "group_category": "Gender",
+      "resource": "Right to receive public reverence",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] For ’t is just we bow To the ruler’s wife, — the male-seat man-bereaved."
+      ],
+      "reasoning": "The Chorus explicitly states that it is 'just' (right/lawful) to show reverence to the wife of a ruler when the husband is absent, establishing a social/legal requirement for deference based on her marital and political status.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to the wives of heads of state (rulers), a very small subset of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Military plunder rights",
+      "rule_category": "Grant of economic privilege",
+      "group": "Victorious soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to claim conquered resources by lot",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] While these — the after-battle hungry labour, Which prompts night-faring, marshals them to breakfast On the town’s store, according to no billet Of sharing, but as each drew lot of fortune."
+      ],
+      "reasoning": "The text describes the victors seizing the 'town’s store' (food/provisions) and distributing it via lots rather than fixed rations, indicating a recognized right to plunder and consume captured resources.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all members of a conquering army, which constitutes a significant but specific portion of the male population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prisoner of war enslavement",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Conquered populations",
+      "group_category": "Origin",
+      "resource": "Freedom from enslavement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] For those, indeed, upon the bodies prostrate Of husbands, brothers, children upon parents — The old men, from a throat that ’s free no longer, Shriekingly wail the death-doom of their dearest"
+      ],
+      "reasoning": "The mention of old men wailing from a 'throat that's free no longer' indicates the immediate transition of the conquered population into a state of captivity or slavery upon the fall of their city.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies broadly to any population on the losing side of a total war.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sacrosanctity of temples",
+      "rule_category": "Protection from seizure",
+      "group": "Conquered populations",
+      "group_category": "Origin",
+      "resource": "Protection of sacred property from looting",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] And if they fear the gods, the city-guarders, And the gods’ structures of the conquered country, They may not — capturers—soon in turn be captive. But see no prior lust befall the army To sack things sacred"
+      ],
+      "reasoning": "Klytaimnestra warns the army against looting temples, suggesting a legal/customary prohibition against 'sacking things sacred' even in a conquered city, intended to protect the victors from divine/procedural blowback.",
+      "specificity": 3,
+      "specificity_reasoning": "While the resource is specific (temples), the protection benefits the entire conquered community and imposes rules on the entire invading force.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sanctity of the guest-bond",
+      "rule_category": "Protection from harm",
+      "group": "Hosts",
+      "group_category": "Citizenship",
+      "resource": "Protection from theft by guests",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] Such an one, Paris goes Within the Atreidai’s house — Shamed the guest’s board by robbery of the spouse."
+      ],
+      "reasoning": "The condemnation of Paris for 'robbery of the spouse' from his host's table reflects the Greek rule of Xenia, which grants hosts protection from harm or theft by those they admit to their home.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule of hospitality applied to almost everyone in Greek society involved in hosting or traveling.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public funeral rites",
+      "rule_category": "Access to ritual",
+      "group": "Soldiers killed in action",
+      "group_category": "Occupation",
+      "resource": "Right to return of remains (ashes) and burial",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] And in the live man’s stead, Armour and ashes reach The house of each. ... Filling with well-packed ashes every urn, For man — that was — the sole return."
+      ],
+      "reasoning": "The text describes the systematic return of cremated remains to the families of fallen soldiers, indicating a societal rule ensuring that those who die in state service receive formal burial rites at home.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all citizens serving in the military who are killed abroad.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female intellectual dismissal",
+      "rule_category": "Exclusion from rational standing",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to be taken seriously in public discourse",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] KLUTAIMNESTRA. As a young maid’s my mind thou mockest grossly.",
+        "[§4] It is conspicuous in a woman’s nature, Before its view to take a grace for granted: Too trustful, — on her boundary, usurpature Is swiftly made; But swiftly, too, decayed, The glory perishes by woman vaunted."
+      ],
+      "reasoning": "The Chorus and Klytaimnestra's dialogue reveal a customary rule where a woman's judgment is systematically doubted or characterized as 'childish' and 'too trustful,' effectively denying them equal footing in the evaluation of public evidence.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a gender-based rule applying to half the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Royal sacrificial authority",
+      "rule_category": "Access to religious ritual",
+      "group": "High-born women",
+      "group_category": "Gender",
+      "resource": "Right to lead public sacrifice",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] Yet still I sacrificed; and, — female-song with, — A shout one man and other, through the city, Set up, congratulating in the gods’ seats, Soothing the incense-eating flame right fragrant."
+      ],
+      "reasoning": "Klutaimnestra, as Queen, describes her ability to initiate and lead city-wide sacrifices and religious chants (female-song) in response to military news, indicating that high-status women held concrete roles in public religious mechanics.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to high-born or royal women within the civic-religious structure.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Marital fidelity expectation",
+      "rule_category": "Regulation of female conduct",
+      "group": "Wives",
+      "group_category": "Gender",
+      "resource": "Right to sexual autonomy",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] A faithful wife at home may he find, coming! Such an one as he left — the dog o’ the household — Trusty to him, adverse to the ill-minded, And, in all else, the same: no signet-impress Having done harm to, in that time’s duration. I know nor pleasure, nor blameworthy converse With any other man more than — bronze-dippings!"
+      ],
+      "reasoning": "The text establishes a strict social and legal expectation that a wife remains a 'dog o' the household,' protecting her husband's property (the signet-impress) and abstaining from contact with other men, effectively removing her right to social or sexual autonomy.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the general class of married women in the society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizen burial rights",
+      "rule_category": "Access to funerary rites",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to burial in ancestral soil",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] For never prayed I, in this earth Argeian Dying, to share my part in tomb the dearest. Now, hail thou earth, and hail thou also, sunlight, And Zeus, the country’s lord, and king the Puthian"
+      ],
+      "reasoning": "The Herald's primary concern upon returning is the possibility of dying and being buried in his native land ('tomb the dearest'), reflecting a societal rule where citizens are entitled to specific funerary honors and resting places within their own territory.",
+      "specificity": 3,
+      "specificity_reasoning": "This concerns the body of citizens who serve the state.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Noble political accountability",
+      "rule_category": "Political transparency",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to audit civic conduct",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] And in time shalt thou know, by inquiry instructed, Who of citizens justly, and who not to purpose, the city conducted."
+      ],
+      "reasoning": "The Chorus informs the returning King that through 'inquiry,' he (and the city) will distinguish between those citizens who managed the city's affairs justly or unjustly during his absence. This implies a systemic right for the community or its head to audit the conduct of administrators.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to the segment of the citizenry involved in political or administrative conduct.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Exclusion from military counsel",
+      "rule_category": "Political exclusion",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to military/political credibility",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] And someone, girding me, said, Through fire-bearers Persuaded — Troia to be sacked now, thinkest? Truly, the woman’s way, — high to lift heart up! By such words I was made seem wit-bewildered"
+      ],
+      "reasoning": "Klutaimnestra recounts how her interpretation of the beacons was dismissed by men as 'the woman's way,' a sign of being 'wit-bewildered.' This indicates a customary rule excluding women from being considered credible sources or participants in military and strategic intelligence.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general cultural/political restriction based on gender.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Athenian Council safety",
+      "rule_category": "Political protection",
+      "group": "Political leaders",
+      "group_category": "Occupation",
+      "resource": "Protection from mob-uproar",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] ...Both of thee ’neath Ilion The danger, and if anarchy’s mob-uproar Should overthrow thy council; since ’t is born with Mortals, — whoe’er has fallen, the more to kick him."
+      ],
+      "reasoning": "Klutaimnestra identifies the monarch's and the council's stability as a protected state, contrasted with the 'monstrous' danger of mob-uproar or anarchy, which she presents as a threat to be guarded against by social and familial structures.",
+      "specificity": 4,
+      "specificity_reasoning": "This refers to the ruling council and the king, a small but significant political elite.",
+      "confidence": 8
+    },
+    {
+      "rule_category": "Exclusion from public life",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to live independently outside the home",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] First: for a woman, from the male divided, To sit at home alone, is monstrous evil — Hearing the many rumours back-revenging: And for now This to come, now That bring after Woe, and still worse woe, bawling in the household!"
+      ],
+      "reasoning": "Klutaimnestra describes the seclusion of a woman in the absence of her husband as a standard social constraint ('monstrous evil') that limits her existence to the household and subjects her to psychological distress based on external rumors.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to roughly half the population (free women).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female combat exclusion",
+      "rule_category": "Denial of military role",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to participate in battle or war",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] AGAMEMNON. Sure, ’t is no woman’s part to long for battle."
+      ],
+      "reasoning": "Agamemnon explicitly states that involvement or interest in military conflict is not part of a woman's social role, marking a gender-based exclusion from the martial sphere.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a universal biological/gender-based exclusion rule in this society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Captured stranger ritual inclusion",
+      "rule_category": "Access to ritual",
+      "group": "Foreign captives",
+      "group_category": "Origin",
+      "resource": "Right to participate in household rituals",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] KLUTAIMNESTRA. Take thyself in, thou too — I say, Kassandra! Since Zeus — not angrily—in household placed thee Partaker of hand-sprinklings, with the many Slaves stationed, his the Owner’s altar close to."
+      ],
+      "reasoning": "Despite being an enslaved stranger, Kassandra is granted a specific legal/customary place within the household's religious life, specifically the 'hand-sprinklings' at the owner's altar.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies specifically to foreign war captives brought into domestic service.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Old-wealth master moderation",
+      "rule_category": "Protection from maltreatment",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from excessive harshness",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] ...Much is the favour of old-wealthy masters: For those who, never hoping, made fine harvest Are harsh to slaves in all things, beyond measure. Thou hast — with us — such usage as law warrants."
+      ],
+      "reasoning": "The text distinguishes between types of masters, suggesting that slaves under 'old-wealthy' lineages have a more regulated/favorable status ('as law warrants') compared to the 'beyond measure' harshness of the nouveau riche.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to slaves within a specific type of high-status household.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Barbarian language barrier",
+      "rule_category": "Restriction of communication",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to verbal legal/social participation",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] KLUTAIMNESTRA. Why, if she is not, in the swallow’s fashion, Possessed of voice that’s unknown and barbaric... But if thou, being witless, tak’st no word in, Speak thou, instead of voice, with hand as Kars do!"
+      ],
+      "reasoning": "Klutaimnestra highlights that 'barbaric' (non-Greek) speakers are excluded from normal social and legal discourse unless they can speak Greek, relegating them to communication by hand signs (as the Carians do).",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to non-Greek speakers entering Greek households.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave prophetic endurance",
+      "rule_category": "Access to religious experience",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Retention of divinely inspired mantic capacity",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] CHOROS. To prophesy she seems of her own evils: Remains the god-gift to the slave-soul present."
+      ],
+      "reasoning": "The Chorus observes that even though Kassandra has been reduced to the status of a slave (captured in war), the 'god-gift' of prophecy remains with her. This indicates a societal belief/rule that servile status does not legally or spiritually extinguish previous mantic or religious endowments granted by the gods.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to enslaved individuals who possessed religious or prophetic roles prior to their enslavement, a distinct but recognized subgroup in the context of captured populations.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Stoning for domestic murder",
+      "rule_category": "Access to judicial protection",
+      "group": "Murderers",
+      "group_category": "Lineage",
+      "resource": "Protection from summary communal execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§10] KASSANDRA. But may a revolt — Unceasing assault — On the Race, raise a shout Sacrificial, about A victim — by stoning — For murder atoning!"
+      ],
+      "reasoning": "The text references stoning as a recognized method of communal 'atonement' or punishment for those who commit murder within a kinship group ('the Race'). Stoning represents a loss of protection from corporal/capital punishment without a formal trial, functioning as a customary legal recourse for blood-guilt.",
+      "specificity": 3,
+      "specificity_reasoning": "While the act is specific, the rule of stoning as a penalty for high-level kin murder was a broadly understood customary threat in Greek tragedy and law.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Oracle-based risk warning",
+      "rule_category": "Access to information",
+      "group": "Mortals",
+      "group_category": "Origin",
+      "resource": "Access to positive oracular guidance",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§10] CHOROS. From oracles, what good speech To mortals, beside, is sent? It comes of their evils: these arts word-abounding that sing the event Bring the fear’t is their office to teach."
+      ],
+      "reasoning": "The Chorus articulates a general rule regarding the social function of oracles: they do not provide 'good speech' or positive guidance, but rather serve only to communicate fears and impending 'evils' to mortals. This reflects a limitation on the resource of divine counseling.",
+      "specificity": 1,
+      "specificity_reasoning": "The text explicitly generalizes this rule to all 'mortals'.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Slave subordination",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom from the yoke of servitude",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] Mine, since to bear the slavish yoke behoves me!"
+      ],
+      "reasoning": "Kassandra explicitly identifies her status as a captive who is required by social and legal necessity to bear 'the slavish yoke,' indicating the total loss of personal autonomy for those in her status.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad class of enslaved persons in the aftermath of the Trojan War as depicted in the contemporary Athenian dramatic context.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Exile for homicide",
+      "rule_category": "Expulsion from citizenship",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to reside in the city",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Off thou hast thrown him, off hast cut The man from the city: but — Off from the city thyself shalt be Cut — to the citizens A hate immense!",
+        "[§12] Now, indeed, thou adjudgest exile to me, And citizens’ hate, and to have popular curses"
+      ],
+      "reasoning": "The Chorus and Klutaimnestra discuss the legal/customary consequence of killing a high-ranking member of the community (the King), which is 'cutting off' from the city and formal exile.",
+      "specificity": 4,
+      "specificity_reasoning": "Exile is a standard legal penalty for homicide in ancient Greek society, affecting any citizen who commits the act.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pollution banishment",
+      "rule_category": "Exclusion for religious impurity",
+      "group": "Polluted persons",
+      "group_category": "Health",
+      "resource": "Right to remain in the community",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] Not him did it behove thee hence to banish — Pollution’s penalty?"
+      ],
+      "reasoning": "Klutaimnestra argues that Agamemnon should have been banished earlier due to the 'pollution' of sacrificing his daughter, showing that religious ritual impurity (miasma) carried the concrete civic penalty of banishment.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those who have committed acts deemed religiously polluting, such as kin-slaying.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female legal dependency",
+      "rule_category": "Access to judicial protection",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to act as an independent legal agent",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] Aigisthos as before well-caring for me; Since he to me is shield, no small, of boldness."
+      ],
+      "reasoning": "Klutaimnestra identifies Aigisthos as her 'shield' and protector. In the context of the play's society, women required a male guardian (kyrios) to provide 'boldness' or legal/physical security within the household and city.",
+      "specificity": 2,
+      "specificity_reasoning": "The requirement for male guardianship applied to virtually all women in Greek society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Succession via vengeance",
+      "rule_category": "Access to political succession",
+      "group": "Exiled sons",
+      "group_category": [
+        "Lineage",
+        "Age"
+      ],
+      "resource": "Right to reclaim ancestral inheritance",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] For there shall come another, our avenger, The mother-slaying scion, father’s doomsman: Fugitive, wanderer, from this land an exile, Back shall he come, — for friends, copestone these curses!"
+      ],
+      "reasoning": "Kassandra describes the rule of return for the 'scion' (Orestes). Despite being an exile, his lineage grants him a recognized (if violent) path to return and reclaim his father's house/throne through the customary duty of vengeance.",
+      "specificity": 8,
+      "specificity_reasoning": "This refers specifically to the heirs of royal or noble houses in cases of usurped power.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Marital fidelity requirement",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to engage in extramarital relations",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] CHOROS. Woman, thou, — of him coming new from battle Houseguard — thy husband’s bed the while disgracing, — For the Army-leader didst thou plan this fate too?"
+      ],
+      "reasoning": "The Chorus rebukes Clytemnestra for 'disgracing' her husband's bed while he was at war, reflecting the societal norm in classical Greece where a wife's sexual fidelity was a strict legal and customary requirement, the breach of which was a source of public shame and potential legal penalty.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all married women in the society.",
+      "confidence": 9
+    },
+    {
+      "rule_category": "Access to political authority",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to exercise independent political rule",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] CHOROS. So — thou shalt be my king then of the Argeians — Who, not when for this man his fate thou plannedst, Daredst to do this deed — thyself the slayer!",
+        "[§15] CHOROS. Why then, this man here, from a coward spirit, Didst not thou slay thyself? But, — helped, — a woman, The country’s pest, and that of gods o’ the country, Killed him!"
+      ],
+      "reasoning": "The Chorus expresses outrage at the idea of being ruled by Aigisthos because he allowed a woman to commit the murder for him. The text highlights a deep societal aversion to female political agency and the delegitimization of any power structure founded on a woman's actions.",
+      "specificity": 2,
+      "specificity_reasoning": "This reflects a general systemic exclusion of women from sovereign power.",
+      "confidence": 8,
+      "rule_name": "Female political exclusion"
+    },
+    {
+      "rule_name": "Elderly socio-political deference",
+      "rule_category": "Obligation of public duty",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to speak without correction",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] AIGISTHOS. Thou shalt know, being old, how heavy is teaching To one of the like age — bidden be modest!"
+      ],
+      "reasoning": "Aigisthos asserts that the elderly (the Chorus) must remain 'modest' and are subject to 'teaching' (punishment or correction) if they challenge the ruling power, showing that age did not provide immunity from political suppression.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to a specific demographic subset (the elderly men of the city).",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Wealth-based civic control",
+      "rule_category": "Grant of economic privilege",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Political control over citizens",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] AIGISTHOS. But out of this man’s wealth will I endeavour To rule the citizens: and the no-man-minder — Him will I heavily yoke."
+      ],
+      "reasoning": "Aigisthos explicitly links the possession of the former king's wealth to his ability to rule the citizens and punish dissenters, demonstrating that material wealth was a direct instrument of political coercion and governance.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to those in possession of significant concentrated wealth/resources.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exile property deprivation",
+      "rule_category": "Denial of property rights",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Access to household and ancestral goods",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] AIGISTHOS. For Atreus, this land’s lord... Drove forth to exile from both town and household [...] O, I know, myself, that fugitives on hopes are pasture-fed!"
+      ],
+      "reasoning": "The text describes exile as being driven from 'town and household,' and describes fugitives as living only on 'hopes' rather than material resources, indicating that the legal status of exile involves the loss of all concrete property and access to the means of subsistence in the home city.",
+      "specificity": 5,
+      "specificity_reasoning": "Exile is a specific legal status affecting a limited number of individuals.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ritual burial exclusion",
+      "rule_category": "Denial of religious access",
+      "group": "Enemies of the household",
+      "group_category": "Lineage",
+      "resource": "Right to public mourning and household funeral",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§14] KLUTAIMNESTRA. It belongs not to thee to declare This object of care! By us did he fall... and down, no less, We will bury him there, and not beneath The wails of the household over his death."
+      ],
+      "reasoning": "Clytemnestra denies Agamemnon the customary funeral rites (public wailing and house mourning), showing that political or familial victors could legally/customarily strip the deceased of their religious and social right to a traditional burial.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to individuals who have been labeled as enemies or failures within the household context.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 7,
+  "_file_id": "tlg0085.tlg005.perseus-eng4",
+  "_input_tokens": 50694,
+  "_output_tokens": 9030,
+  "_model": "google/gemini-3-flash-preview"
+}

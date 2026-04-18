@@ -1,0 +1,186 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Contractual legal binding",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Exemption from self-harming agreements",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Is it really true that Demosthenes, unlike any other man in Athens, is exempt from the laws which enforce an agreement made by a person against his own interests?"
+      ],
+      "reasoning": "The text identifies a general law in Athens where individuals are legally bound by agreements they make, even if those agreements end up being detrimental to their own interests.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all Athenian citizens participating in legal agreements and contracts.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Areopagus investigative authority",
+      "rule_category": "Access to judicial protection",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Protection from Areopagus reporting",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] You denied having done so and drew up a challenge, which you laid before the people in the form of a decree entrusting the matter on which you were accused to the council of the Areopagus.",
+        "[§3] They reported the guilty persons; even this was not done from choice but in answer to repeated pressure from the people; and they did not undertake to punish them on their own responsibility but rightly left it to you, with whom the final authority rests."
+      ],
+      "reasoning": "In cases of alleged corruption (like the Harpalus affair), the Council of the Areopagus had the mandate to investigate and report names of suspects to the assembly/courts, removing the right to be free from such high-level scrutiny.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to high-ranking politicians and generals accused of serious state crimes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Enhanced bribery penalties",
+      "rule_category": "Financial punishment",
+      "group": "Public speakers and generals",
+      "group_category": "Occupation",
+      "resource": "Protection from ten-fold fines",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] The laws prescribe that ordinary offenders shall pay a simple fine but that men accepting bribes shall pay ten times the usual sum."
+      ],
+      "reasoning": "Athenian law explicitly singled out orators and military leaders for significantly harsher financial penalties (ten times the amount of the bribe) compared to ordinary offenders.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the specific subset of citizens acting as political/military leaders.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public official accountability",
+      "rule_category": "Legal accountability",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Immunity from prosecution for minor errors",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] Suppose that one of you, mere private individuals, during the tenure of some office, makes a mistake through ignorance or inexperience; he will be overwhelmed in court by the eloquence of these men and will either lose his life or be banished from his country."
+      ],
+      "reasoning": "The text describes an enforced norm where even private individuals serving in public roles can face capital punishment or exile for functional mistakes made through simple ignorance.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to any citizen serving in a public office, which was a common occurrence in Athens.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Age-based legal roles",
+      "rule_category": "Legal procedure",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Protection from prosecution by youths",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] and you are not ashamed, even at your age, to be tried by youths for bribery. And yet the positions ought to be reversed: your generation ought to be training the younger orators, reproving and punishing any over-impetuous action."
+      ],
+      "reasoning": "While the author complains about it, the text provides evidence that the customary hierarchy of age was being subverted, allowing 'youths' to prosecute 'men of over sixty' in the courts.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to the elder demographic in the context of political trials.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Citizen grant for foreigners",
+      "rule_category": "Grant of citizenship",
+      "group": "Foreigners of merit",
+      "group_category": "Origin",
+      "resource": "Athenian citizenship",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] For these men were made Athenian citizens on the motion of Demosthenes and they are his special agents."
+      ],
+      "reasoning": "The text confirms that foreign political actors (like Callias the Chalcidian) could be granted full Athenian citizenship through a motion in the assembly.",
+      "specificity": 8,
+      "specificity_reasoning": "Grants of citizenship to specific individuals were rare and highly specific acts of the assembly.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Theoric fund protection",
+      "rule_category": "Financial regulation",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to personal use of state funds",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] Conon of Paeania took theoric money for his son who was abroad. He was prosecuted for it by these men in court, and though he asked your pardon, had to pay a talent, all for taking five drachmas."
+      ],
+      "reasoning": "Misappropriating even small amounts of sacred/public funds like the Theoric fund resulted in heavy fines (one talent for five drachmas), indicating a strict rule against misuse of public resources.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to all citizens who had access to or received distributions from the state funds.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Athenian prosecutorial mandate",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to prosecute state offenders",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] The prosecuting in court and the exposing of those who had received the money and taken bribes against their country it allotted to us, the chosen accusers."
+      ],
+      "reasoning": "The text describes the formal allotment of prosecutorial powers to citizen accusers in cases of bribery against the state, indicating a specific legal capacity granted to members of the civic body to participate in the judicial process.",
+      "specificity": 4,
+      "specificity_reasoning": "While this refers to 'chosen accusers', it represents a broader systemic role for citizens in the Athenian legal framework regarding state crimes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Areopagus investigative authority",
+      "rule_category": "Grant of political power",
+      "group": "Areopagites",
+      "group_category": "Occupation",
+      "resource": "Right to report criminal suspects",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] The reporting of the names of the recipients it assigned to the Areopagus, who gave these men’s names to the people."
+      ],
+      "reasoning": "The text explicitly identifies the Council of the Areopagus as the body holding the legal resource/power to investigate and report names of suspects to the Demos (the people) in cases of corruption.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to a small, elite council within the broader Athenian state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Jury verdict finality",
+      "rule_category": "Access to judicial protection",
+      "group": "Jurors",
+      "group_category": "Occupation",
+      "resource": "Right to issue binding verdicts",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] If the vote goes contrary to law or justice, that is a responsibility, gentlemen of the jury, which will rest with you."
+      ],
+      "reasoning": "The passage confirms that the final decision-making power in criminal trials rests with the jury, who hold the material entitlement to determine the guilt or innocence of those accused of bribery.",
+      "specificity": 3,
+      "specificity_reasoning": "The role of the juror was a common civic duty for a large portion of the Athenian citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Pirate judicial exclusion",
+      "rule_category": "Denial of judicial protection",
+      "group": "Pirates",
+      "group_category": "Occupation",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] Remember this but this man would have no right to shed tears, any more than pirates who cry upon the wheel when they need not have embarked in the boat."
+      ],
+      "reasoning": "The text references 'the wheel' (a form of torture/execution) as a standard consequence for pirates. It suggests that because of their chosen status/occupation, they forfeit the right to bodily integrity or judicial empathy once captured.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies to a very specific, marginalized, and criminalized group outside the standard civic protections.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg0030.tlg005.perseus-eng2",
+  "_input_tokens": 12162,
+  "_output_tokens": 2501,
+  "_model": "google/gemini-3-flash-preview"
+}

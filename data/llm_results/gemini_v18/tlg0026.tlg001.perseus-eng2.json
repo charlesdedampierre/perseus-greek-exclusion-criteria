@@ -1,0 +1,817 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "School-room access restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Freedom of movement to educational spaces",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] No person who is older than the boys shall be permitted to enter the room while they are there, unless he be a son of the teacher, a brother, or a daughter’ s husband. If any one enter in violation of this prohibition, he shall be punished with death."
+      ],
+      "reasoning": "Athenian law strictly prohibited adult males from entering schools while boys were present, under penalty of death, to protect the boys' morals.",
+      "specificity": 4,
+      "specificity_reasoning": "While applying to all adults, it targets a specific location (schools) and specific interactions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Gymnasia age segregation",
+      "rule_category": "Age-based social exclusion",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Right to participate in youth athletic contests",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] The superintendents of the gymnasia shall under no conditions allow any one who has reached the age of manhood to enter the contests of Hermes together with the boys."
+      ],
+      "reasoning": "Law forbade men from participating in specific religious/athletic festivals (the Hermaea) reserved for boys.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to adult men in the specific context of boys' festivals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Choregus age requirement",
+      "rule_category": "Age-based political qualification",
+      "group": "Adults under forty",
+      "group_category": "Age",
+      "resource": "Right to serve as choregus",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] He prescribes, namely, that the choregus, a man who is going to spend his own money for your entertainment, shall be a man of more than forty years of age when he performs this service, in order that he may have reached the most temperate time of life before he comes into contact with your children.",
+        "[§12] Every choregus who is appointed by the people shall be more than forty years of age."
+      ],
+      "reasoning": "Citizens under the age of forty were legally barred from holding the office of choregus to prevent younger men from supervising boy performers.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to a specific subset of citizens (those wealthy enough to be choregoi) based on a specific age threshold.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Parental support exemption",
+      "rule_category": "Denial of family support",
+      "group": "Fathers who prostituted sons",
+      "group_category": "Lineage",
+      "resource": "Right to maintenance from adult children",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§13] Moreover the law frees a son, when he has become a man, from all obligation to support or to furnish a home to a father by whom he has been hired out for prostitution; but when the father is dead, the son is to bury him and perform the other customary rites."
+      ],
+      "reasoning": "The normal legal obligation for children to support aging parents is voided if the father committed the specific act of hiring his son out for prostitution.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies only to fathers who committed a specific, rare act against their offspring.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from outrage",
+      "rule_category": "Protection from bodily harm",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from physical outrage (hybris)",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] if any one outrage a child (and surely he who hires, outrages) or a man or woman, or any one, free or slave, or if he commit any unlawful act against any one of these.",
+        "[§16] The same action shall hold against those who abuse the persons of slaves."
+      ],
+      "reasoning": "Athenian law explicitly extended the right to be free from 'outrage' (hybris) to slaves, allowing for prosecution against those who abused them physically.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies broadly to all individuals held in slavery.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prostitution political debarment",
+      "rule_category": "Exclusion from political speech",
+      "group": "Men who prostituted themselves",
+      "group_category": "Gender",
+      "resource": "Right to speak in assembly and hold office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] If any Athenian, he says, shall have prostituted his person, he shall not be permitted to become one of the nine archons... nor shall he act as an advocate for the state, he says, nor shall ever hold any office whatsoever...",
+        "[§20] —nor shall ever address senate or assembly, not even though he be the most eloquent orator in Athens."
+      ],
+      "reasoning": "Athenian citizens who had engaged in male prostitution were legally disenfranchised from virtually all public functions, including speaking, office-holding, and priestly duties.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to a subset of the male citizen body defined by their past sexual conduct.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prostitution religious exclusion",
+      "rule_category": "Exclusion from sacred spaces",
+      "group": "Men who prostituted themselves",
+      "group_category": "Gender",
+      "resource": "Right to participate in public sacrifices",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] If any Athenian shall have prostituted his person... nor shall he discharge the office of priest... nor be present at public sacrifices; when the citizens are wearing garlands, he shall wear none; and he shall not enter within the limits of the place that has been purified for the assembling of the people."
+      ],
+      "reasoning": "Self-prostitution led to 'cleanliness' based exclusions from religious roles and presence at sacred/civic rituals.",
+      "specificity": 5,
+      "specificity_reasoning": "Targets the same subset of citizens across religious and civic life.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Elder speaking precedence",
+      "rule_category": "Age-based political privilege",
+      "group": "Citizens over fifty",
+      "group_category": "Age",
+      "resource": "Priority right to speak in assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] The herald then asks, Who of those above fifty years of age wishes to address the assembly? When all these have spoken, he then invites any other Athenian to speak who wishes"
+      ],
+      "reasoning": "Athenian law gave older citizens (above 50) the privilege of speaking first in the assembly, before the floor was opened to younger men.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to all citizens within a specific, broad age bracket.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Filial duty speech requirement",
+      "rule_category": "Exclusion from political speech",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to address the assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        " [§28] Under the heading Scrutiny of public men he says, If any one attempts to speak before the people who beats his father or mother, or fails to support them or to provide a home for them. Such a man, then, he forbids to speak."
+      ],
+      "reasoning": "Athenian law explicitly barred citizens from the public platform if they failed in their private moral obligation to care for their parents, as a man's private conduct was seen as a predictor of his public integrity.",
+      "specificity": 4,
+      "specificity_reasoning": "While it applies to all citizens, it targets a specific subset who have failed in domestic duties.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Military desertion speech bar",
+      "rule_category": "Exclusion from political speech",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to address the assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        " [§29] Or the man who has failed to perform all the military service demanded of him, or who has thrown away his shield. And he is right. Why? Man, if you fail to take up arms in behalf of the state, or if you are such a coward that you are unable to defend her, you must not claim the right to advise her, either."
+      ],
+      "reasoning": "Failure to fulfill military obligations or showing cowardice in battle (throwing away the shield) resulted in the loss of the right to give advice to the state in the assembly.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any citizen-soldier who fails his duty, a specific legal category of disqualification.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Male prostitution speech prohibition",
+      "rule_category": "Exclusion from political speech",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to address the assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        " [§29] Or the man, he says, who has debauched or prostituted himself. For the man who has made traffic of the shame of his own body, he thought would be ready to sell the common interests of the city also.",
+        " [§40] But in whose houses he has lived to the shame of his own body and of the city, earning wages by precisely that thing which the law forbids, under penalty of losing the privilege of public speech, of this I will speak."
+      ],
+      "reasoning": "Athenian law prohibited men who had prostituted their bodies from speaking in the assembly, based on the logic that one who sells himself would sell the city's interests.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule targets men who engaged in specific sexual-economic behaviors, which is a narrower group than the general citizenry.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Spendthrift speech disqualification",
+      "rule_category": "Exclusion from political speech",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to address the assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        " [§30] Or the man, he says, who has squandered his patrimony or other inheritance. For he believed that the man who has mismanaged his own household will handle the affairs of the city in like manner"
+      ],
+      "reasoning": "The law debarred individuals from the speaker's platform if they had wasted their inherited wealth, under the principle that private financial mismanagement disqualified one from public administration.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to those who inherit wealth and then squander it, a defined economic subgroup.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from corrupting youth",
+      "rule_category": "Protection from bodily harm",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from sexual exploitation",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        " [§43] Misgolas and Phaedrus threatened the foreigners and ordered them to follow straight to the lock-up for having corrupted a free youth."
+      ],
+      "reasoning": "The text references a legal mechanism ('the lock-up') for those who 'corrupted' free youths, indicating a societal rule protecting the status and bodily integrity of free-born young males.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all free-born youths in the city, a broad demographic category.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Speaker order discipline",
+      "rule_category": "Regulation of expression",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from fines during speech",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        " [§35] If any public man, speaking in the senate or in the assembly of the people... shall speak abusively or slanderously, or shall interrupt the proceedings... the board of presidents are authorized to report his name to the collectors, with a fine of not more than 50 drachmas for each offence."
+      ],
+      "reasoning": "Rules of order in the Athenian assembly allowed for the imposition of fines on citizens who violated protocols of decorum, such as speaking abusively or interrupting.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to any citizen acting in the capacity of a public speaker.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Tribe-based assembly oversight",
+      "rule_category": "Right to political oversight",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to preside over the platform",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        " [§33] By the new law, for every meeting of the assembly one tribe is to be chosen by lot to have charge of the speaker’ s platform, and to preside."
+      ],
+      "reasoning": "A specific law granted a rotating group of citizens (organized by tribe) the power to preside over the assembly to ensure order against 'shameless' speakers.",
+      "specificity": 5,
+      "specificity_reasoning": "While all citizens belong to tribes, this specific power is granted only to the tribe selected by lot for a specific meeting.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public slave property protection",
+      "rule_category": "Protection from bodily harm",
+      "group": "Public slaves",
+      "group_category": "Slaves",
+      "resource": "Protection from corporal punishment by private citizens",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§59] and finally they tied Pittalacus himself to the pillar and gave him an inhuman whipping, which lasted until even the neighbors heard the uproar. [§62] when the case was coming to trial, behold, another mighty stroke on the part of Hegesandrus! Here was a man who had done him no wrong, but, quite the opposite, had been wronged by him, a man on whom he had no claim, in fact, a slave belonging to the city; this man he attempted to enslave to himself, alleging that he was his owner."
+      ],
+      "reasoning": "Pittalacus, a public slave ('property of the city'), is able to bring a suit against citizens for assault and whipping. The text implies that because he was a public slave and not the private property of the defendants, they had no right to punish him, leading to legal repercussions.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to the sub-category of slaves owned by the state (demosioi), who held a different legal status than privately owned slaves.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public slave litigation right",
+      "rule_category": "Access to judicial protection",
+      "group": "Public slaves",
+      "group_category": "Slaves",
+      "resource": "Right to bring suit for personal injury",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§62] the fellow, angry at their insolent treatment, brings a suit against each of them. When now the case was coming to trial, behold, another mighty stroke on the part of Hegesandrus! ... this man he attempted to enslave to himself, alleging that he was his owner."
+      ],
+      "reasoning": "The text shows a public slave (Pittalacus) initiating legal action against citizens for assault. While Hegesandrus tries to subvert this by claiming ownership (which would strip him of independent standing), the fact that the suit was accepted and heading to trial confirms the right.",
+      "specificity": 4,
+      "specificity_reasoning": "This is a specific legal capacity granted to public slaves in Athens, distinguishing them from private slaves.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Prostitution political disqualification",
+      "rule_category": "Exclusion from political speech",
+      "group": "Male citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to speak before the assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§72] I do not believe your memory is so short that you have forgotten the laws that you heard read a few moments ago, in which it stands written that if anyone hires any Athenian for this act, or if any one lets himself out for hire, he is liable to the most severe penalties. [§73] But he is on trial on precisely this charge, that after such conduct as this, he breaks the laws by speaking before the assembly."
+      ],
+      "reasoning": "Athenian law prohibited citizens who had prostituted themselves (let themselves out for hire) from exercising political rights, specifically the right to address the citizen assembly.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all citizens who meet the behavioral criteria, which was an established legal category (atimia).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public slave sanctuary right",
+      "rule_category": "Access to judicial protection",
+      "group": "Public slaves",
+      "group_category": "Slaves",
+      "resource": "Right to seek sanctuary at an altar",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§60] The next day Pittalacus, exceeding angry over the affair, comes without his cloak to the marketplace and seats himself at the altar of the Mother of the Gods."
+      ],
+      "reasoning": "The public slave uses a formal religious/civil mechanism (supplication at an altar) to publicize a grievance and seek protection from citizens, which is treated as a valid move that forces the defendants to negotiate.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to slaves in distress seeking public/legal intervention.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Hireling sexual penalty",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Male citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from severe legal penalties for consensual sex",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§72] it stands written that if anyone hires any Athenian for this act, or if any one lets himself out for hire, he is liable to the most severe penalties, and the same penalties for both offences."
+      ],
+      "reasoning": "The law explicitly penalizes both the person who hires a citizen for sexual acts and the citizen who accepts payment, moving these acts from the private to the criminal/civil sphere with 'severe penalties'.",
+      "specificity": 2,
+      "specificity_reasoning": "This law targets any Athenian citizen involved in the transaction of male prostitution.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizen eligibility review",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to retained citizenship status",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§77] We have been having revisions of the citizen-lists in the demes, and each one of us has submitted to a vote regarding himself to determine whether he is a genuine citizen or not. Now whenever I am in the court-room listening to the pleas, I see that the same argument always prevails with you: when the prosecutor says [§78] Gentlemen of the jury, the men of the deme have under oath excluded this man on their own personal knowledge, although nobody brought accusation or gave testimony against him, you immediately applaud, assuming that the man who is before the court has no claim to citizenship."
+      ],
+      "reasoning": "The text describes a formal legal process (diapsephisis) where the members of a deme vote on the legitimacy of a person's citizenship. While it shows how one might lose it, it establishes the 'right to be a citizen' as a resource protected by a collective oath-bound vote of the community.",
+      "specificity": 2,
+      "specificity_reasoning": "This process applies to the entire body of individuals claiming Athenian citizenship.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prostitution political bar",
+      "rule_category": "Exclusion from political speech",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to speak in the assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§79] if, as on the question of birth, so on the question of these personal habits, Timarchus had to submit to a vote as to whether he is guilty of the charge or not [...] The hollow ballot for the juror who believes that Timarchus has been a prostitute, the solid ballot for the juror who does not, what would be your vote? [...] [§80] it is every time that Timarchus mounts the platform in the assembly; and the senate spoke out, when last year he was a member of the senate."
+      ],
+      "reasoning": "Aeschines argues that Timarchus should be barred from the platform (speaking in the assembly) because he prostituted himself. The law (dokimasia) functioned to strip political rights from citizens who had committed specific acts, treating the right to address the people as a resource lost by those who prostituted their bodies.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule applies to a specific subset of male citizens who have engaged in a particular trade or behavior.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Bribery capital punishment",
+      "rule_category": "Protection from bodily harm",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§87] it would have been absolutely necessary for the one man to testify that he gave a bribe, the other, that he took a bribe, though the law threatens each of them with death precisely as in this case if anyone hires an Athenian for a disgraceful purpose, and again if any Athenian voluntarily hires himself out to the shame of his body."
+      ],
+      "reasoning": "The author explicitly mentions that Athenian law mandates the death penalty for both the giver and taker of bribes, as well as for those involved in the hiring of an Athenian for prostitution.",
+      "specificity": 4,
+      "specificity_reasoning": "While any citizen could theoretically be targeted, it specifically concerns those participating in the assembly or courts.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Circumstantial evidence admissibility",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to be judged by notoriety and circumstantial evidence",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§91] those who have done the act secretly and deny their guilt, are tried in the courts, and the truth can be determined by circumstantial evidence only. [§92] For it is not on the strength of the pleading alone, nor of the testimony alone, that the members of the court give their verdict, but on the strength of their own knowledge and their own investigations."
+      ],
+      "reasoning": "In Attic law, particularly in the Areopagus and cases of secret crimes, the court is legally empowered to reach a verdict based on its own knowledge and public notoriety rather than just formal witness testimony.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all defendants caught in the specific judicial context of 'secret' crimes or trials before the Areopagus.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave labor income",
+      "rule_category": "Grant of economic privilege",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to collect slave wages",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§97] there were nine or ten slaves who were skilled shoemakers, each of whom paid him a fee of two obols a day, and the superintendent of the shop three obols. Besides these there was a woman skilled in flax-working, who produced fine goods for the market, and there was a man skilled in embroidery."
+      ],
+      "reasoning": "The text documents the legal/customary right of a master to receive a daily fee (apophora) from skilled slaves who work in trades. This shows the master's legal entitlement to the material rewards of the slave's specialized labor.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific class of wealthy citizens who own industrial slaves.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Familial support obligation",
+      "rule_category": "Access to economic privilege",
+      "group": "Disabled family members",
+      "group_category": "Health",
+      "resource": "Right to maintenance from estate",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§102] So long as Arizelus lived, he managed the whole estate, because of the ill-health of Arignotus and the trouble with his eyes [...] By agreement with Arignotus he regularly gave him a sum of money for his support."
+      ],
+      "reasoning": "The text describes a customary or legal arrangement within a lineage where an able-bodied brother manages an undivided estate and provides a regular allowance for the support of a disabled brother (the blind Arignotus).",
+      "specificity": 7,
+      "specificity_reasoning": "This is a specific family arrangement, though it reflects broader inheritance customs for vulnerable family members.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Disabled pauper pension",
+      "rule_category": "Access to economic privilege",
+      "group": "Disabled paupers",
+      "group_category": "Health",
+      "resource": "Right to state financial support",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§103] He gave nothing to Arignotus for his support, but was content to see him, fallen from such wealth, now receiving the alms that the city gives to disabled paupers.",
+        "[§104] finally—and most shameful of all—when the old man’ s name had been omitted at a revision of the list of pauper-pensioners, and he had laid a petition before the senate to have his dole restored, the defendant, who was a member of the senate, and one of the presiding officers that day, did not deign to speak for him, but let him lose his monthly pension."
+      ],
+      "reasoning": "The text describes a formal state mechanism (a list of 'pauper-pensioners' and a 'monthly pension') specifically for citizens who are both disabled and impoverished, indicating a legal entitlement to state 'alms'.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a specific sub-section of the citizen body defined by the intersection of health status and wealth level.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizen property control",
+      "rule_category": "Access to property rights",
+      "group": "Adult citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to manage and alienate paternal estate",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§103] But after Timarchus was enrolled in the citizens’ list, and had come into control of the estate, he thrust aside this old and unfortunate man, his own uncle, and made way with the estate."
+      ],
+      "reasoning": "The text explicitly links the transition from childhood to adult citizenship ('enrolled in the citizens' list') with the legal capacity to take control of and dispose of a father's estate.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all male citizens upon reaching the age of majority.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Senate petition right",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to petition the Senate for administrative redress",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§104] and he had laid a petition before the senate to have his dole restored, the defendant, who was a member of the senate, and one of the presiding officers that day, did not deign to speak for him, but let him lose his monthly pension."
+      ],
+      "reasoning": "The ability to lay a petition before the Senate to restore a removed benefit shows a formal legal channel for citizens to seek redress from administrative decisions.",
+      "specificity": 2,
+      "specificity_reasoning": "While used here by a pauper, the right to petition the senate is a general civic right for the citizenry.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Admitted thief execution",
+      "rule_category": "Capital punishment",
+      "group": "Thieves who admit guilt",
+      "group_category": "Occupation",
+      "resource": "Protection from summary execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§113] Whereas the laws command that thieves who admit their guilt shall be punished with death; it is those who deny their guilt that are to be put on trial."
+      ],
+      "reasoning": "Aeschines cites a specific law mandating the death penalty for thieves who confess, contrasting them with those who deny the charge and receive a trial.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule applies only to a specific category of criminals based on their legal plea/admission.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prostitute tax",
+      "rule_category": "Economic obligation",
+      "group": "Prostitutes",
+      "group_category": "Occupation",
+      "resource": "Right to retain full earnings (freedom from specific occupational tax)",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§119] for I fear that if I neglect this topic, that man who professes to teach the young the tricks of speech may mislead you by some artifice, and so defraud the state. [...] every single year the senate farms out the tax on prostitutes, and that the men who buy this tax do not guess, but know precisely, who they are that follow this profession."
+      ],
+      "reasoning": "The state formally recognizes the profession of prostitution for tax purposes, requiring practitioners to pay a specific levy collected by tax-farmers.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to everyone engaged in a specific, documented profession within the city.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prostitute political exclusion",
+      "rule_category": "Exclusion from political speech",
+      "group": "Male citizens who prostituted themselves",
+      "group_category": "Citizenship",
+      "resource": "Right to address the assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§119] When, therefore, I have dared to bring impeachment against Timarchus for having prostituted himself, in order that I may deprive him of the right to address the people in assembly..."
+      ],
+      "reasoning": "The central legal thrust of the speech is that a citizen who has engaged in prostitution loses the concrete political right to speak in the public assembly (atimia).",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific legal penalty (atimia) targeting citizens who violate particular moral/social codes.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection of free wives",
+      "rule_category": "Protection from assault",
+      "group": "Wives of free men",
+      "group_category": "Gender",
+      "resource": "Protection from sexual licentiousness/abuse",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§107] And in his treatment of the wives of free men he showed such licentiousness as no other man ever did. Of these men I call no one into court to testify publicly to his own misfortune, which he has chosen to cover in silence, but I leave it to you to investigate this matter."
+      ],
+      "reasoning": "The text treats 'licentiousness' toward the wives of free men as a matter of public concern and potential legal investigation, implying a social and legal shield around the bodily integrity/chastity of this group.",
+      "specificity": 3,
+      "specificity_reasoning": "This covers a large demographic—all married women of free/citizen status.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave gymnasium exclusion",
+      "rule_category": "Restriction of social participation",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to exercise or anoint in wrestling-schools",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§138] A slave, says the law, shall not take exercise or anoint himself in the wrestling-schools."
+      ],
+      "reasoning": "Aeschines cites a specific Athenian law that explicitly bars slaves from the physical and social spaces of the gymnasium and palaestra, reserving these activities for free citizens as a mark of status.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to the entire class of enslaved persons within the city-state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of slave-citizen pederasty",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to pursue romantic relationships with free minors",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§139] again, the same lawgiver said, A slave shall not be the lover of a free boy nor follow after him, or else he shall receive fifty blows of the public lash."
+      ],
+      "reasoning": "The text quotes a law forbidding slaves from engaging in pederastic relationships with free-born boys, a practice that was a recognized social institution for free adult males. The rule is enforced by a specific corporal punishment.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all slaves but specifically targets their interactions with a specific subset of the free population (boys).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave corporal punishment liability",
+      "rule_category": "Denial of bodily integrity",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§139] A slave shall not be the lover of a free boy nor follow after him, or else he shall receive fifty blows of the public lash."
+      ],
+      "reasoning": "The law specifies the 'public lash' as the penalty for slaves, highlighting that slaves, unlike citizens, were legally subject to judicial corporal punishment for social infractions.",
+      "specificity": 3,
+      "specificity_reasoning": "This penalty applies to any slave who violates the social boundary laws mentioned.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pederastic courtship right",
+      "rule_category": "Access to social customs",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to associate with and court free boys",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§139] But the free man was not forbidden to love a boy, and associate with him, and follow after him, nor did the lawgiver think that harm came to the boy thereby, but rather that such a thing was a testimony to his chastity."
+      ],
+      "reasoning": "Aeschines contrasts the prohibition on slaves with the legal permission granted to free men to engage in the social practice of courting and associating with free-born boys.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad category of free adult male citizens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prostitution civic disenfranchisement",
+      "rule_category": "Denial of political power",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Retention of civic rights",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§134] if by their surpassing beauty and youthful charm they infatuate one person or another, and become the subject of strife because of the passion they inspire, these sons, as it seems, you propose to deprive of civic rights—because Aeschines tells you to do it.",
+        "[§137] I declare that he who has played the prostitute by inducement of wages is disgraced."
+      ],
+      "reasoning": "The core of the legal action against Timarchus is that a citizen who has prostituted himself (meriting 'disgrace') loses his standing and rights as a citizen (disenfranchisement/atimia).",
+      "specificity": 5,
+      "specificity_reasoning": "This rule applies to a specific sub-group: citizens who have engaged in the behavior of male-to-male prostitution for hire.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prostitute political exclusion",
+      "rule_category": "Exclusion from political speech",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to address the people",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§154] What is it that I say against Timarchus, and what is the charge that I have brought? That Timarchus addresses the people, a man who has made himself a prostitute and has consumed his patrimony.",
+        "[§160] no matter how the deed is done, he commands that the man who did it shall take no part in public affairs. And he is right; for the man who in his youth was led by shameful indulgence to surrender honorable ambition, that man, he believed, ought not in later life to be possessed of the citizen’ s privileges."
+      ],
+      "reasoning": "Athenian law explicitly barred men who had engaged in prostitution from exercising the political right of addressing the assembly or holding public office. The text frames this as a loss of 'citizen's privileges' due to past behavior used as a classification for the group.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific sub-set of the male citizen population who have engaged in certain transactional sexual behaviors.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prostitute judicial exclusion",
+      "rule_category": "Exclusion from legal standing",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to bring suit in court",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§164] For who will not say, And then do you thrust yourself into the market-place, do you put on a garland, do you attempt to do anything else that the rest of us do? His contract, you see, is of no use to him."
+      ],
+      "reasoning": "The text argues that a man who has acted as a prostitute cannot effectively use the courts to enforce contracts or participate in regular civic life like the 'rest' of the citizens (putting on garlands, appearing in the market-place/courts).",
+      "specificity": 4,
+      "specificity_reasoning": "It targets citizens who have lost their standing (atimia) due to prostitution.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Orphan judicial protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Orphans",
+      "group_category": "Age",
+      "resource": "Right to archon protection",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§158] he cited the laws that command the archon to protect orphans, when he himself had violated the laws that enjoin chastity."
+      ],
+      "reasoning": "The text references specific Athenian laws that mandate the Archon (a high-ranking official) to provide legal protection and oversight for orphans, ensuring their property and rights are not violated.",
+      "specificity": 3,
+      "specificity_reasoning": "Orphans are a recognized legal category in Athens with specific protections, but the rule applies to any citizen child whose father is deceased.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Patrimony squanderer exclusion",
+      "rule_category": "Exclusion from political speech",
+      "group": "Men",
+      "group_category": "Wealth",
+      "resource": "Right to address the people",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§154] What is it that I say against Timarchus, and what is the charge that I have brought? That Timarchus addresses the people, a man who has made himself a prostitute and has consumed his patrimony."
+      ],
+      "reasoning": "Similar to prostitution, 'consuming one's patrimony' (squandering inherited family wealth) was a legal ground for atimia (loss of civic rights), specifically the right to speak in the assembly.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to citizens who have inherited and subsequently exhausted their family estates.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Contractual legal recourse",
+      "rule_category": "Access to judicial protection",
+      "group": "Contracting parties",
+      "group_category": "Wealth",
+      "resource": "Right to seek satisfaction in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§161] we enter into contracts because we do not trust one another, the object being that the party who has not violated the written terms may receive satisfaction by verdict of the courts from the one who has."
+      ],
+      "reasoning": "The text describes the standard legal function of contracts in society: providing a concrete mechanism for property owners or business actors to obtain legal redress if terms are violated.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule of Athenian civil law affecting any citizen engaging in trade or agreements.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from unsworn verdicts",
+      "rule_category": "Access to judicial protection",
+      "group": "Litigants",
+      "group_category": "Citizenship",
+      "resource": "Right to verdict based on specific charges",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§154] And what is the oath that you have taken? To give your verdict on the precise charges that are presented by the prosecution."
+      ],
+      "reasoning": "Jurors were bound by a sacred oath to decide only on the relevant legal charges presented, which served as a procedural protection for the defendant against irrelevant slander.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all citizens involved in the jury-court system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adulteress ritual exclusion",
+      "rule_category": "Exclusion from religious access",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to attend public sacrifices",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§183] and Solon, the most famous of lawgivers, has written in ancient and solemn manner concerning orderly conduct on the part of the women. For the woman who is taken in the act of adultery he does not allow to adorn herself, nor even to attend the public sacrifices, lest by mingling with innocent women she corrupt them."
+      ],
+      "reasoning": "Solon's laws specifically bar women caught in adultery from participating in the central religious life of the city, a concrete restriction of their communal and religious rights.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a sub-group (adulteresses) within the general category of women, but is a standardized legal consequence in Athenian society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adulteress garment protection",
+      "rule_category": "Denial of bodily protection",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection of garments and ornaments from public stripping",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§183] But if she does attend, or does adorn herself, he commands that any man who meets her shall tear off her garments, strip her of her ornaments, and beat her (only he may not kill or maim her); for the lawgiver seeks to disgrace such a woman and make her life not worth the living."
+      ],
+      "reasoning": "If an adulteress violates her ban from sacred spaces or adornment, the law explicitly removes her protection against physical battery and public stripping by any citizen.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any woman identified as an adulteress who violates specific behavioral bans.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Procurer capital liability",
+      "rule_category": "Denial of life",
+      "group": "Procurers",
+      "group_category": "Occupation",
+      "resource": "Protection from capital punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§184] and he commands that procurers, men and women, be indicted, and if they are convicted, be punished with death, because to people who lust after sin but hesitate and are ashamed to meet one another, the procurers offer their own shamelessness for pay, and make it possible to discuss the act and to accomplish it."
+      ],
+      "reasoning": "The text cites a law of Solon that mandates the death penalty for those who facilitate illicit sexual unions for pay.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule targets a specific occupational/behavioral group (procurers) rather than a broad demographic class.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prostitution political disqualification",
+      "rule_category": "Exclusion from political power",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to hold office or act as a public speaker",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§188] And it seems that a man who is not to be permitted to be a candidate for election by lot for the priesthood of any god, as being impure of body as that is defined by the laws, this same man is to write in our decrees prayers to the August Goddesses in behalf of the state.",
+        "[§195] And tell those who have sinned against their own bodies to cease annoying you and to stop speaking before the people; for the law investigates, not men in private station, but those who are in public life."
+      ],
+      "reasoning": "Men who have prostituted themselves ('sinned against their own bodies') are legally barred from the scrutiny required for priesthoods and from the right to address the assembly or propose decrees.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any male citizen who has engaged in certain sexual behaviors, disqualifying them from central civic functions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Priesthood bodily purity",
+      "rule_category": "Exclusion from religious office",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to be a candidate for priesthood",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§188] And it seems that a man who is not to be permitted to be a candidate for election by lot for the priesthood of any god, as being impure of body as that is defined by the laws..."
+      ],
+      "reasoning": "Athenian law defines bodily purity as a prerequisite for the lot-based selection of priests; those deemed 'impure' (in this context, prostitutes) are ineligible.",
+      "specificity": 5,
+      "specificity_reasoning": "Attaching to a specific sub-category of men defined by their physical history.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Paternal right of execution",
+      "rule_category": "Denial of life",
+      "group": "Maidens",
+      "group_category": "Age",
+      "resource": "Protection from paternal execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§182] For so stern were they toward all shameful conduct, and so precious did they hold the purity of their children, that when one of the citizens found that his daughter had been seduced, and that she had failed to guard well her chastity till the time of marriage, he walled her up in an empty house with a horse, which he knew would surely kill her, if she were shut in there with him."
+      ],
+      "reasoning": "The text describes an ancestral custom/precedent where a father had the authority to effectively execute a daughter who lost her virginity before marriage.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies to unmarried females within the household context following a specific violation of family honor.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 8,
+  "_file_id": "tlg0026.tlg001.perseus-eng2",
+  "_input_tokens": 62213,
+  "_output_tokens": 12605,
+  "_model": "google/gemini-3-flash-preview"
+}

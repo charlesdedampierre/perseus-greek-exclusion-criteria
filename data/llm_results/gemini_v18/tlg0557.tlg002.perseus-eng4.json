@@ -1,0 +1,265 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Slave disciplinary authority",
+      "rule_category": "Labor control",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to punish servants",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] If I do not punish my servant, he will be good for nothing. [...] and it is better that your servant should be bad than you unhappy. [...] And when you call your servant, consider that it is possible he may not come at your call; or, if he does, that he may not do what you wish."
+      ],
+      "reasoning": "The text acknowledges the standard social and legal expectation that a master has the right to punish a servant to ensure utility ('good for nothing'). While Epictetus advises against emotional investment in the outcome, he confirms the existence of the master's disciplinary power as a social norm.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the broad class of slave-owners/householders and their domestic servants.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Servant obedience obligation",
+      "rule_category": "Labor control",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom to refuse labor or commands",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] And when you call your servant, consider that it is possible he may not come at your call; or, if he does, that he may not do what you wish."
+      ],
+      "reasoning": "The text describes the expectation of immediate obedience to a master's call or command. Although Epictetus notes the reality of disobedience, the context of 'punishing' the servant for being 'good for nothing' establishes a rule of mandatory service.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all enslaved or bonded persons in domestic service.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Philosopher social exclusion",
+      "rule_category": "Social stratification",
+      "group": "Philosophers",
+      "group_category": "Occupation",
+      "resource": "Protection from public ridicule",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] If you have an earnest desire towards philosophy, prepare yourself from the very first to have the multitude laugh and sneer, and say, He is returned to us a philosopher all at once; and Whence this supercilious look?"
+      ],
+      "reasoning": "The text indicates a social norm where choosing the life of a philosopher subjects an individual to systematic public mockery and loss of social esteem by 'the multitude.'",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those who visibly adopt the lifestyle or profession of a philosopher.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Roman citizenship acquisition",
+      "rule_category": "Citizenship access",
+      "group": "Non-citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to obtain Roman citizenship",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] My friends will be unassisted. What do you mean by unassisted? They will not have money from you; nor will you make them Roman citizens. Who told you, then, that these are among the things within our own power, and not rather the affairs of others?"
+      ],
+      "reasoning": "The text identifies Roman citizenship as a material resource that is difficult to obtain and 'beyond our power,' implying that it is restricted and requires External intervention or specific legal mechanisms to confer.",
+      "specificity": 2,
+      "specificity_reasoning": "Citizenship rules affect all non-citizens within the Roman Empire.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Private provision of infrastructure",
+      "rule_category": "Public duty",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Exemption from funding public works",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] Well, but my country, say you, as far as depends upon me, will be unassisted. Here, again, what assistance is this you mean? It will not have porticos nor baths of your providing?"
+      ],
+      "reasoning": "The mention of providing 'porticos and baths' refers to the Roman practice of evergetism, where wealthy individuals were culturally and/or legally expected to fund public infrastructure to be considered 'useful' citizens.",
+      "specificity": 5,
+      "specificity_reasoning": "This specifically targets wealthy citizens capable of financing significant civic structures.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Political office eligibility",
+      "rule_category": "Political exclusion",
+      "group": "Commoners",
+      "group_category": "Lineage",
+      "resource": "Right to hold high office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] But, for your part, do not desire to be a general, or a senator, or a consul, but to be free; and the only way to this is a disregard of things which lie not within our own power."
+      ],
+      "reasoning": "Epictetus lists the offices of general, senator, and consul as things 'beyond our power.' In a Roman context, these were highly competitive, restricted by wealth and lineage requirements, and thus not accessible to the general population.",
+      "specificity": 7,
+      "specificity_reasoning": "These roles were reserved for the elite senatorial and equestrian classes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly movement restriction",
+      "rule_category": "Age-based restriction",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Freedom of movement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] But if you are old, never go far from the ship, lest you should be missing when called for."
+      ],
+      "reasoning": "Epictetus uses the nautical metaphor to describe a social reality where the elderly are expected to restrict their range of activity or movement to remain available for the 'call' (death/duty), reflecting a decrease in autonomy due to age.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all individuals categorized as old in that society.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Filial care and obedience",
+      "rule_category": "Obligation of family duty",
+      "group": "Sons",
+      "group_category": "Lineage",
+      "resource": "Right to resist parental authority",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] Is a certain man your father? In this are implied, taking care of him; submitting to him in all things; patiently receiving his reproaches, his- correction. But he is a bad father. Is your natural tie, then, to a good father? No, but to a father."
+      ],
+      "reasoning": "Epictetus defines the role of a son as one of absolute submission and care, regardless of the father's moral quality. This indicates a social and customary rule where sons lack the right to defy or neglect a father based on the father's behavior.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all male children/adult sons within the family structure, a large demographic.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Civic and military duty",
+      "rule_category": "Obligation of public duty",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to avoid hazardous public service",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§32] When, therefore, it is our duty to share the danger of a friend or of our country, we ought not to consult the oracle as to whether we shall share it with them or not. ... But we have reason within us; and it directs us, even with these hazards, to stand by our friend and our country."
+      ],
+      "reasoning": "The text describes a concrete duty for citizens to share in the dangers of the state (military or political), suggesting that individuals do not have the right to opt-out of these hazards when the country is at risk.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies generally to the citizen body capable of service.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious ritual conformity",
+      "rule_category": "Obligation of religious practice",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Freedom of religious expression",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] But it also becomes incumbent on every one to offer libations and sacrifices and first-fruits, according to the customs of his country, purely, and not heedlessly nor negligently; not avariciously, nor yet extravagantly."
+      ],
+      "reasoning": "Epictetus notes that performing specific religious rituals (libations, sacrifices) according to national custom is 'incumbent on every one', indicating a social rule mandating outward religious conformity.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a universal requirement for everyone within the local jurisdiction/civilization.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Pre-marital sexual restriction",
+      "rule_category": "Constraint on personal conduct",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to engage in extramarital sex",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§33] Before marriage, guard yourself with all your ability from unlawful intercourse with women; yet be not uncharitable or severe to those who are led into this, nor frequently boast that you yourself do otherwise."
+      ],
+      "reasoning": "The text references 'unlawful intercourse' (porneia/adultery/fornication), indicating a legal or customary prohibition on sex outside of marriage for men, even if the author suggests a mild attitude toward violators.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all unmarried or adult men in the society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Female social devaluation",
+      "rule_category": "Gender-based social restriction",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to status independent of male pleasure",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§40] Women from fourteen years old are flattered by men with the title of mistresses. Therefore, perceiving that they are regarded only as qualified to give men pleasure, they begin to adorn themselves, and in that to place all their hopes."
+      ],
+      "reasoning": "The author explicitly states that society (men) views women primarily through the lens of providing pleasure once they reach age fourteen. This restricts their access to social honor based on other attributes (like reason or career).",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to half the population based on gender and age.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Social access by proxenetic service",
+      "rule_category": "Access to political elites",
+      "group": "Clients",
+      "group_category": "Occupation",
+      "resource": "Access to elite social circles and entertainments",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§25] For how can he who will not haunt the door of any man, will not attend him, will not praise him, have an equal share with him who does these things? ... You have not been invited to such a person’s entertainment, because you have not paid him the price for which a supper is sold. It is sold for praise; it is sold for attendance."
+      ],
+      "reasoning": "The text describes the Roman/Greek system of patronage where 'attendance' and 'praise' are the currency required to gain access to the tables and circles of the powerful.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those seeking social advancement through the patronage system.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Adult self-governance requirement",
+      "rule_category": "Age-based political exclusion",
+      "group": "Minors",
+      "group_category": "Age",
+      "resource": "Right to exercise adult legal and moral autonomy",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§51] You are no longer a boy, but a grown man. If, therefore, you will be negligent and slothful, and always add procrastination to procrastination, purpose to purpose, and fix day after day in which you will attend to yourself, you will insensibly continue to accomplish nothing, and, living and dying, remain of vulgar mind. This instant, then, think yourself worthy of living as a man grown up and a proficient."
+      ],
+      "reasoning": "Epictetus explicitly distinguishes the state of being a 'boy' from that of a 'grown man' regarding the responsibility for self-reformation and adherence to reason. This reflects a societal boundary where minors are not expected or permitted to exercise the same level of self-governance and legal/moral agency as adults.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all individuals transitioning from childhood to adulthood within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Poor hardship endurance",
+      "rule_category": "Socio-economic hardship",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Economic security and comfort",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§47] But first consider how much more frugal are the poor than we, and how much more patient of hardship."
+      ],
+      "reasoning": "The text identifies 'the poor' as a group defined by their lack of material resources, noting that they are by necessity more 'frugal' and 'patient of hardship' than the target audience (the wealthy or students of philosophy). This confirms a societal stratification where the poor lack access to basic comforts.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to a large segment of the population defined by their low economic status.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Vulgar exclusion from philosophy",
+      "rule_category": "Exclusion from intellectual participation",
+      "group": "The ignorant",
+      "group_category": "Occupation",
+      "resource": "Access to philosophical discourse",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§46] Never proclaim yourself a philosopher; nor make much talk among the ignorant about your principles, but show them by actions. ... So if ever there should be among the ignorant any discussion of principles, be for the most part silent."
+      ],
+      "reasoning": "The text mandates a social and intellectual separation between 'philosophers' and the 'ignorant' (the vulgar). Philosophers are instructed to withhold verbal principles from this group, effectively excluding them from the material resource of elite intellectual and ethical debate.",
+      "specificity": 4,
+      "specificity_reasoning": "This refers to the broad category of non-philosophers within the urban social hierarchy.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0557.tlg002.perseus-eng4",
+  "_input_tokens": 21559,
+  "_output_tokens": 3895,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,271 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Occupation",
+      "rule": "Domestic access to master's secrets",
+      "group": "Maid-servants",
+      "resource": "Access to household information",
+      "directionality": "MORE",
+      "verbatim": "[§5] Practise on Palaistra, the maidservant-for the wife of your host and friend is sacred; wrestling with her, I assure you, you will easily learn what you want, for servants know everything about their masters, good and bad.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The protagonist explicitly states that domestic servants possess comprehensive knowledge of their masters' private affairs, identifying this as a general characteristic of the group.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave responsibility for animal fodder",
+      "group": "Maid-servants",
+      "resource": "Control over own labor",
+      "directionality": "LESS",
+      "verbatim": "[§3] When she had thus spoken we went off to bathe, and I gave the girl money to buy a little barley for my horse. She carried in all my belongings and deposited them in my room.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text shows that a guest can direct a host's maid-servant to perform labor-intensive tasks and external errands like purchasing animal feed, indicating the group's lack of control over their specific duties.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Vulnerability to physical restraint",
+      "group": "Slaves",
+      "resource": "Protection from physical restraint",
+      "directionality": "LESS",
+      "verbatim": "[§12] Then they tied up Hipparchos and Palaistra and my man in their rooms, and so stripped the house fearlessly, carrying out the money and the clothes and the furniture.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "During the robbery, both the maid Palaistra and the protagonist's male servant are physically bound. While the master is also bound, the text illustrates that servants share the same lack of physical security in a house under attack.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy female social mobility",
+      "group": "Wealthy women",
+      "resource": "Freedom of movement in public",
+      "directionality": "MORE",
+      "verbatim": "[§4] While I was thus employed I saw a woman approaching, young still and well to do, as far as I could judge from a casual meeting. She was dressed in bright stuffs, had a number of attendants, and displayed an extravagance of gold.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The description of Abroia indicates that women of high wealth and status could move through the town with many attendants, indicating access to public space and social visibility.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Guest protection by host",
+      "group": "Foreigners",
+      "resource": "Protection within private household",
+      "directionality": "MORE",
+      "verbatim": "[§4] 'Thank you very much,' said I, 'but I should be ashamed to desert a friendly man's house when I have no fault to find with him.' [...] 'Pray, be on your guard in every way against Hipparchos's wife... you are a stranger, so that there is no danger in dealing with you.'",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes the social code of guest-friendship (xenia), where a foreigner/guest is protected by the host, and explores how this status (as a 'stranger') makes one a target or a guest.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Absolute master power over slaves",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": "[§14] When he saw the enemy, the destroyer of his vegetables, he seized me as a severe master seizes a thieving slave and pounded me with his club, sparing neither ribs nor thighs. He even crushed my ears and mangled my face.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage uses the common societal practice of a master severely beating a thieving slave as a point of comparison to describe the gardener's actions, confirming that slaves lacked protection from violent physical punishment by masters.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Governor jurisdiction over local bandits",
+      "group": "Foreigners",
+      "resource": "Right to legal trial",
+      "directionality": "MORE",
+      "verbatim": "[§22] But before day had fairly come a crowd of soldiers suddenly appeared who had come to attack these villians, and they forthwith clapped them all in irons and carried them off to the governor of the country.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the arrest of the outlaws (robbers) and their transfer to the 'governor of the country', indicating that even those outside the law are brought under the centralized state's legal administration for judgment.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Reward for services rendered",
+      "group": "Wealthy citizens",
+      "resource": "Right to grant freedom from labor",
+      "directionality": "MORE",
+      "verbatim": "[§22] A few days after the marriage my mistress declared in her father's presence that she was indebted to me, and longed to make me a just return; whereupon he gave orders to turn me out to grass in the pasture with the mares. 'For if he is at liberty,' said he, 'he will enjoy life.'",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The father, as a wealthy property owner, has the authority to grant 'liberty' (exemption from labor) to sentient property as a reward, demonstrating the control elites had over the allocation of labor and leisure.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Male control over marriage and property",
+      "group": "Women",
+      "resource": "Right to autonomous legal action",
+      "directionality": "LESS",
+      "verbatim": "[§22] A few days after the marriage my mistress declared in her father's presence that she was indebted to me, and longed to make me a just return; whereupon he gave orders to turn me out to grass in the pasture with the mares.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The young woman must petition her father to reward the creature that saved her; it is the father who issues the official orders regarding the property, illustrating the patriarchal control over household assets.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave labor for hire",
+      "group": "Slaves",
+      "resource": "Right to retain earnings",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§23] [28] ...the man in charge of the mares left me in the possession of his wife, Megapole, for domestic service... the worthy woman hired out my wretched neck to the other peasants of the district, who were numerous, taking her pay in flour."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a common practice where the person in control of a slave (or animal-slave) can hire out their labor to third parties and keep the resulting payment (flour/money) for themselves.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave food ration restriction",
+      "group": "Slaves",
+      "resource": "Right to adequate nutrition",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§23] [28] And she would also roast the barley allowed me for my breakfast, put it before me for me to grind, make cakes of it, and eat them whole, leaving me to breakfast on the bran."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage shows that even when a specific ration ('allowed barley') is designated for the subordinate, the master/controller has the power to divert the quality portion for themselves, leaving only waste (bran).",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Minor authority over subordinates",
+      "group": "young people",
+      "resource": "Right to exercise physical discipline",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§24] [29] Besides this they sent with me as driver a wretch of a small boy, who found a new way to torture me every time. First he used to flog me even when I was trotting faster than I should, and not with a trimmed stick, but one covered with sharp knots."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that even a 'small boy' (minor) is granted the authority to drive and physically discipline those in the category of domestic labor/beasts of burden.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Summary execution of slaves",
+      "group": "Slaves",
+      "resource": "Protection of life",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§28] [33] When the master heard this he said, 'Well, if he is willing neither to walk nor to carry a load, kill him and give his vitals to the dogs, but save his flesh for the work-people, and if any questions are asked as to the manner of his death lay it to the wolf.'"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The master has the absolute right to order the death of a subordinate based solely on a report of laziness or unproductivity, and can suggest a cover-up ('lay it to the wolf') to avoid inquiry.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave redistribution upon household collapse",
+      "group": "Slaves",
+      "resource": "Right to remain in household",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§29] [34] This news, that the house was bereft of its young master and mistress, determined the farm-people to live in slavery no longer. They laid their hands on everything in the house and fled. The master of the horses took me, too, collected all the goods he could, and packed them on me and the mares."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Upon the death of the owners, subordinates are treated as movable property to be seized or taken by other fleeing members of the household hierarchy.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Public sale of slaves",
+      "group": "Slaves",
+      "resource": "Right to personal autonomy",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§30] [35] There our drivers determined to settle us and themselves, and we beasts were sold at auction by a loud-voiced crier in the middle of the market-place. The by-standers wished to open our mouths and look at them, and they saw the age of each by his teeth."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the standard procedure for selling living property: a public auction where the physical condition (teeth/age) is inspected by potential buyers.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave corporal punishment for unproductivity",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§36] [42] Although I knew how to work a mill from much experience, I feigned ignorance; but my hopes were vain, for a number of the millers seized clubs and surrounded me... And I learned by experiment that it will not do for a slave to wait for the master's hand before he does his work."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage illustrates that failure to perform a task (or feigning ignorance) is met with collective physical violence to compel labor.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Soldier authority over civilians",
+      "group": "Soldiers",
+      "resource": "Right to command civilian labor",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§38] [44] ...we happened upon a fine-looking man in a soldier's uniform, who began to address us in the Latin tongue, and asked the gardener whither he was driving me, the ass. ... The other grew angry at what he thought an insult, and struck with his whip at the gardener..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage depicts a Roman soldier exercising immediate, violent authority over a civilian gardener based on his status/uniform, including the expectation of obedience and the right to use corporal punishment (the whip) for perceived disrespect.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Judicial recourse for elite families",
+      "group": "Nobility",
+      "resource": "Right to personal hearing by governors",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§46] [54] ...I ran to the governor of the province... and prayed him to put me under guard until I should persuade him that I had told him my true history. [§47] [55] ...When the magistrate heard this he cried, 'You are the son of a family who are very dear to me, and my guest-friends. ... And he sprang from his seat, embraced me, kissed me again and again, and conducted me to his home.'"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While the crowd calls for the protagonist's execution for sorcery, his lineage and the 'guest-friendship' of his noble family with the governor grant him immediate safety, a personal hearing, and official exoneration that a commoner would not receive.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave vocational specialization",
+      "group": "Slaves",
+      "resource": "Right to practice a trade",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§40] [46] The purchaser was a servant to a very rich man of Thessalonika... His trade was to cook meats for his master, and he had a brother, a fellow-slave, who understood bread-baking and the flavoring of honey-cakes."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies that within wealthy households, specific slaves are assigned and trained in distinct professional trades (cook, baker), which provides them with specific roles and tools of trade distinct from general labor.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Official exoneration through family ties",
+      "group": "Nobility",
+      "resource": "Freedom from criminal prosecution",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§47] [55] ...I know you tell the truth, since you are a child of theirs. ... Thereupon the governor declared me free officially in the presence of the people..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The governor bypasses a formal trial for the suspected crime of 'unholy potions' specifically because of the protagonist's family reputation and their existing social bond (guest-friendship), leading to an immediate declaration of freedom.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0061.tlg001.perseus-eng1",
+  "_input_tokens": 24944,
+  "_output_tokens": 3987,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,1189 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Ambassadorial accountability mandate",
+      "rule_category": "Access to judicial protection",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Legal responsibility for public conduct",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] By consideration among yourselves, gentlemen, you should form a true conception of what should be included in the vindication which the state requires of any ambassador. He is responsible then, in the first place, for the reports he has made; secondly, for the advice he has offered; thirdly, for his observance of your instructions; then there is the question of times and opportunities; and, to crown all, whether he has done his business corruptly or with integrity."
+      ],
+      "reasoning": "The text defines the legal and civic framework of Athens where diplomats (ambassadors) are held strictly accountable to the citizens for five specific metrics of their performance, including the truthfulness of their reports and integrity against bribery.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific class of high-level political officials carrying out state business.",
+      "confidence": 10
+    },
+    {
+      "rule_category": "Grant of economic privilege",
+      "rule_name": "Public official bribery prohibition",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Protection from state-sanctionated bribery",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] The author of the statute, however, made no such distinction; he forbade the acceptance of rewards absolutely, holding, as I suppose, that the man who takes them and is thereby corrupted can no longer be trusted by the state as a judge of sound policy."
+      ],
+      "reasoning": "Athenian law explicitly forbade ambassadors and public officials from accepting any external rewards or gifts, viewing such income as a disqualification from public trust.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets individuals holding specific public mandates or offices.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Juror oath-based adjudication",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to trial by sworn jury",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] You will reflect that justice and the oath concern yourselves and the commonwealth, whereas the importunity and party spirit of advocates serve the end of those private ambitions which you are convened by the laws to thwart, not to encourage for the advantage of evil-doers."
+      ],
+      "reasoning": "The text references the heliastic oath taken by Athenian citizens serving as jurors, which functions as a structural resource ensuring that legal decisions are made based on law rather than private influence.",
+      "specificity": 2,
+      "specificity_reasoning": "This affects any citizen acting in a legal capacity, comprising a large portion of the adult male population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public servant audit requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Right to undergo scrutiny (euthynai)",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] Now I observe that men who enter public life with honest intentions, even after they have submitted to scrutiny, do still acknowledge a perpetual responsibility."
+      ],
+      "reasoning": "Athenian democracy required an 'audit' or 'scrutiny' (euthynai) for all men who held public office, ensuring their actions remained under the control of the sovereign people.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to anyone holding a form of public administrative or political office.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Assembly-directed diplomatic conduct",
+      "rule_category": "Exclusion from political speech",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Autonomy in diplomatic negotiation",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] Thirdly, when he has been expressly instructed what to say and what to do by resolution of the Assembly, it is his duty to conduct his business according to such instructions."
+      ],
+      "reasoning": "Ambassadors were not independent agents; they were legally bound to follow the specific instructions (decrees) passed by the Assembly, limiting their independent political power.",
+      "specificity": 4,
+      "specificity_reasoning": "Relates specifically to those chosen for diplomatic missions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ambassadorial ceremonial honors",
+      "rule_category": "Grant of economic privilege",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Right to public dinner and votes of thanks",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] และ also that the Council, not being debarred from hearing the truth from me, did not give these men either a vote of thanks, or an invitation to the public dinner in the Town Hall. We are told that these compliments had never before been withheld from any ambassadors since the foundation of Athens—not even from Timagoras, whom the Assembly condemned to death."
+      ],
+      "reasoning": "The text establishes a customary rule in Athens where ambassadors, upon returning from a mission, are systematically granted specific material and honorary rewards (public dinners at the Prytaneion and formal thanks), a right so entrenched it was historically granted even to those later condemned.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies only to a very small, specific group of high-level political officials (ambassadors) upon the completion of their specific duties.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Council report transparency",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to hear embassy reports via the Council",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§34] although the right course for you was, first to hear the facts, next to decide, and finally to carry out your decision—you heard nothing until he was already on the spot, and it was no easy matter to advise you what to do. [§35] Further, no one read the resolution to the Assembly, and the people never heard it."
+      ],
+      "reasoning": "Demosthenes identifies a procedural rule where the citizen assembly has a right to be formally briefed on the Council's findings regarding foreign embassies before making decisions. The failure to read the resolution is cited as a breach of the 'right course' of democratic process.",
+      "specificity": 2,
+      "specificity_reasoning": "This concerns the general body of Athenian citizens in their capacity as the Assembly.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Assembly priority of speech",
+      "rule_category": "Exclusion from political speech",
+      "group": "Dissenting citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to be heard in the Assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§35] although you were at first alarmed at Philip’s approach... you became as mild as lambs, expecting to get all that you desired, and refused to hear a word from me or anyone else. [§45] When you refused me a hearing, I held my peace, except that I protested."
+      ],
+      "reasoning": "The text describes the Assembly's power to effectively strip a citizen of their right to speak through collective refusal to listen or shouting down, specifically targeting those delivering 'alarmist' or dissenting information.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to any citizen attempting to exercise their right to speak in the Assembly, but focus is on those in the minority or opposition.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Inviolability of state envoys",
+      "rule_category": "Protection from bodily harm",
+      "group": "Envoys",
+      "group_category": "Occupation",
+      "resource": "Protection from sovereign deception",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§53] Because they conceived that, though Philip had deceived them ten times over, he would never have dared to deceive Athenians and envoys of the Athenian people, that the report of Aeschines was true."
+      ],
+      "reasoning": "The text highlights a customary international norm where envoys of a major power like Athens were expected to be exempt from the types of diplomatic deception practiced against smaller states, a status the Phocians relied upon to their detriment.",
+      "specificity": 9,
+      "specificity_reasoning": "This is a very specific protection afforded to individuals acting as formal representatives of the Athenian state in foreign relations.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Hereditary peace privileges",
+      "rule_category": "Access to political succession",
+      "group": "Descendants of treaty parties",
+      "group_category": "Lineage",
+      "resource": "Extension of treaty protections and alliance rights",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§48] it provides that the peace, and also the alliance, made with Philip shall be extended to his posterity."
+      ],
+      "reasoning": "Athenian law allowed for treaties to be structured as hereditary, granting the 'resource' of peace and alliance security to the future generations of the contracting parties (in this case, Philip's lineage).",
+      "specificity": 10,
+      "specificity_reasoning": "This applies specifically to the biological descendants of a specific individual mentioned in a legal decree.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Treaty-based alliance rights",
+      "rule_category": "Access to military support",
+      "group": "Allies",
+      "group_category": "Citizenship",
+      "resource": "Right to military succor",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§62] These are the relations that subsisted between you and them—friendship, alliance, succor. Now hear what they have suffered through the man who thwarted the succor you owed them."
+      ],
+      "reasoning": "Demosthenes identifies 'succor' (military aid) as a concrete obligation owed by Athens to its allies (the Phocians) under established treaties. This reflects a rule where ally status grants a specific material resource: protection/intervention.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies to specific foreign states recognized as allies, a category smaller than 'all Greeks' but larger than individuals.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Assembly statutory commination",
+      "rule_category": "Accountability of officials",
+      "group": "Envoys",
+      "group_category": "Occupation",
+      "resource": "Right to immunity from ancestral curses",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§70] This imprecation, men of Athens, is pronounced, as the law directs, by the marshal on your behalf at every meeting of the Assembly, and again before the Council at all their sessions. The defendant cannot say that he is not familiar with it, for, when acting as clerk to the Assembly and as an officer of the Council, he used to dictate the statute to the marshal."
+      ],
+      "reasoning": "Athenian law required a formal curse (commination) to be read against those who deceived the people. This removes a layer of religious/legal protection from officials, placing them and their families under a state-sanctioned threat of extirpation if they lie.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to citizens acting as public speakers or envoys before the Council and Assembly.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-war disarmament",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Defeated populations",
+      "group_category": "Origin",
+      "resource": "Right to bear arms",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§81] ...only of living like slaves in mortal terror of Thebans and of Philip’s mercenaries, who are billeted on them after they have been disarmed and distributed among villages."
+      ],
+      "reasoning": "The text describes the condition of the Phocians following the Amphictyonic decrees: they were systematically disarmed and forcibly relocated into small villages, a legal/military imposition that removed their right to self-defense.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the entire population of the Phocian state following their surrender.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Compulsory military billeting",
+      "rule_category": "Denial of housing security",
+      "group": "Defeated populations",
+      "group_category": "Origin",
+      "resource": "Right to exclusive use of property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§81] ...only of living like slaves in mortal terror of Thebans and of Philip’s mercenaries, who are billeted on them after they have been disarmed and distributed among villages."
+      ],
+      "reasoning": "The Phocians are forced to house (billet) foreign mercenaries in their homes, a concrete loss of property rights and privacy imposed as a penalty of the convention.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the residents of Phocian villages under the terms of the settlement.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Phocian demographic exclusion",
+      "rule_category": "Age-based military exclusion",
+      "group": "Young men",
+      "group_category": "Age",
+      "resource": "Freedom to remain in homeland",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§65] ...homesteads levelled with the ground, cities stripped of their defensive walls, a countryside all emptied of its young men; only women, a few little children, and old men stricken with misery."
+      ],
+      "reasoning": "Demosthenes describes a demographic shift where young men have been systematically removed or excluded from the Phocian territory, leaving only the vulnerable age groups behind, indicating a rule of expulsion or forced labor for the able-bodied.",
+      "specificity": 5,
+      "specificity_reasoning": "This describes a specific age and gender cohort within a specific geographic region.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Post-surrender city dismantling",
+      "rule_category": "Destruction of municipal infrastructure",
+      "group": "Defeated populations",
+      "group_category": "Origin",
+      "resource": "Right to maintain defensive walls",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§61] Now give me our treaty with the Phocians, and the Amphictyonic decrees, under which they dismantled their defences.",
+        "[§65] ...cities stripped of their defensive walls..."
+      ],
+      "reasoning": "Under the Amphictyonic decrees, the Phocians were legally required to dismantle their city walls, a material loss of security and civic standing.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all Phocian citizens as a collective body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ambassadorial accountability",
+      "rule_category": "Access to judicial protection",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Protection from capital punishment for diplomatic failure",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§82] These are the questions for a scrutiny of an embassy: What has been accomplished? What did you report? If the truth,—go in peace; if falsehood,—take your punishment."
+      ],
+      "reasoning": "Demosthenes outlines the legal standard for the 'euthynai' (accountability process) for ambassadors in Athens. If an ambassador is found to have reported falsehoods (intentional or otherwise), they are subject to legal punishment, which in this context often implied the death penalty.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to the small group of citizens appointed to diplomatic missions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Political accountability for ignorance",
+      "rule_category": "Legal standing",
+      "group": "Politicians",
+      "group_category": "Occupation",
+      "resource": "Right to use ignorance as a legal defense",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§99] And yet ignorance is not a fair excuse in public life; no man is required or compelled by you to handle politics. [§100] If he succeeds, he will be honored, and so far will gain an advantage over ordinary people; but if he fails, shall he put forward excuses and apologies? That would be unfair."
+      ],
+      "reasoning": "In Athenian law and custom, individuals who voluntarily enter the political arena (politeuomenoi) are held to a higher standard of responsibility. They are denied the defense of 'simple-mindedness' or 'unintentional error' that might apply to private citizens, as the consequences of their actions affect the whole state.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any citizen who chooses to address the assembly or hold office, a significant segment of active citizens but not the whole population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Political success rewards",
+      "rule_category": "Grant of economic privilege",
+      "group": "Politicians",
+      "group_category": "Occupation",
+      "resource": "Civic honors and social advantages",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§100] If he succeeds, he will be honored, and so far will gain an advantage over ordinary people."
+      ],
+      "reasoning": "The text explicitly mentions that successful politicians receive honors and advantages compared to the 'ordinary' (private) citizen.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any citizen who succeeds in public business.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Emergency urban relocation",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Rural residents",
+      "group_category": "Wealth",
+      "resource": "Right to reside on rural property during war",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§86] but when you had been led astray by these men, you brought your wives and children in from the country, and ordered the festival of Heracles to be held within the walls, in time of peace."
+      ],
+      "reasoning": "The text describes a specific decree (Callisthenes') that forced the rural population to move within the city walls for safety. This represents a loss of freedom of movement and residence for those living in the Attic countryside.",
+      "specificity": 3,
+      "specificity_reasoning": "This affects a very large portion of the Athenian population—the farmers and rural inhabitants.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ambassadorial instruction adherence",
+      "rule_category": "Labor control",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Right to exercise diplomatic discretion",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§94] Afterwards, when appointed to receive the oaths of ratification, he disobeyed every one of your instructions; he brought to ruin allies of ours whose safety had never been imperilled in time of war."
+      ],
+      "reasoning": "Ambassadors were legally bound by the specific instructions (psēphismata) given by the Assembly. Disobeying these instructions was a criminal offense, showing they lacked independent power to deviate from the people's will.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies only to those currently serving on a specific diplomatic mission.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave testimony under torture",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify without torture",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§109] Here is another point: if we were unable to prove that any one man among the ambassadors received anything, or if that were not as clear as daylight, we might have had recourse to torture or the like."
+      ],
+      "reasoning": "In Athenian law, the 'torture' (basanos) mentioned in the context of proving a crime refers to the standard legal procedure of extracting evidence from slaves, which was considered more reliable than the unsworn word of free men in specific categories of proof.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a large subset of the population (all slaves) in legal disputes involving their masters or public crimes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ambassador accountability",
+      "rule_category": "Legal procedure",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Right to legal immunity",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§113] The rest had various excuses: one was not legally accountable; another was not present; a third had a brother-in-law in Macedonia.",
+        "[§127] ...you, who have entered this court to adjudicate at the scrutiny of those transactions, and have taken the judicial oath on behalf of the commonwealth, that you, I say, when the author of these wrongs has been placed in your power, caught red-handed after perpetrating such crimes, should return a verdict of acquittal."
+      ],
+      "reasoning": "Athenian law required ambassadors to undergo a 'scrutiny' (euthynai) where they were legally accountable for their conduct and could be prosecuted for taking bribes or misrepresentation.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to the small number of citizens selected for high-level diplomatic missions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Unauthorized diplomatic travel",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Protection from capital punishment for travel",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§121] He forgot that he had sworn that he was too ill to travel; forgot that another ambassador had been chosen in his stead, and that the law visits such conduct with death;"
+      ],
+      "reasoning": "The text explicitly states that an ambassador who travels to a foreign power without being the current legally appointed representative for that specific mission faces the death penalty.",
+      "specificity": 9,
+      "specificity_reasoning": "This is a very specific legal penalty applied to a narrow set of political actors in a specific procedural state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial defense right",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to self-defense in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§115] Come here: stand up and answer me!—Nothing to say? You cannot plead inexperience.",
+        "[§124] Of these proceedings it is not possible for the defendant to give an account differing from mine."
+      ],
+      "reasoning": "The text demonstrates the procedural right of the defendant to be present, to be questioned directly, and to provide their own account of the facts during a trial.",
+      "specificity": 3,
+      "specificity_reasoning": "Any citizen brought to trial (a common occurrence) has these defensive rights.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Diplomatic bribery prohibition",
+      "rule_category": "Corruption control",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Protection from capital punishment for gift-taking",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§126] So, when he took his departure, he was breaking a law whose penalty is death; after his arrival, he is again proved guilty of conduct that deserves death; and his earlier misconduct of this business of the embassy had been bad enough to bring him to death."
+      ],
+      "reasoning": "Athenian law strictly forbid ambassadors from accepting bribes (wages/hire) from foreign powers, with the standard penalty being death.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies strictly to the diplomatic corps during active service.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Civil emergency relocation",
+      "rule_category": "Emergency protection",
+      "group": "Women and children",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to shelter within city walls",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§120] ...when you were resolving to bring in your women and children from the country, to reinstate the frontier fortresses, to fortify the Peiraeus..."
+      ],
+      "reasoning": "In times of military crisis (the destruction of allies), the Athenian state actively organized the movement of vulnerable groups (women, children) from rural areas to the safety of the fortified city/port.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general mobilization affecting a large portion of the non-combatant population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Ambassadorial travel allowance",
+      "rule_category": "Grant of economic privilege",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Journey-money from public funds",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§153] But it may be urged that they spent all this time swearing in the allies, or discharging some other part of their duty. Not at all; though they were on their travels for three whole months, and received from you a thousand drachmas for journey-money, they did not get the oaths from any single city either on their outward journey or on their way home."
+      ],
+      "reasoning": "The text specifies a set amount (one thousand drachmas) provided by the state to envoys to cover the costs of their diplomatic travels, representing a concrete material resource granted to this group.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a very small number of citizens selected for specific diplomatic missions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Diplomatic accountability",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to prosecute state representatives for misconduct",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§156] Yet, when they are convicted of all these delinquencies, of having squandered their time, thrown away the Thracian outposts, done nothing agreeable either to your instructions or to sound policy, and sent lying dispatches to Athens, how can this man possibly find a way of escape before an intelligent and conscientious jury?"
+      ],
+      "reasoning": "The entire speech is a prosecution (dokimasia/euthynai context). The text establishes that ambassadors are legally accountable to a jury of citizens for failing to follow specific instructions or for harming the city's interests.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule governs the relationship between the general citizenry (acting as jurors) and their representatives.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prisoner ransom assistance",
+      "rule_category": "Access to public resources",
+      "group": "Captives",
+      "group_category": "Social status",
+      "resource": "Ransom for release from captivity",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§161] Take next the period of our loitering at Pella, and compare the employments which we severally chose for ourselves. Mine was to seek out and rescue the captives, spending money of my own, and asking Philip to apply to their ransom the money he was spending on hospitable gifts for us."
+      ],
+      "reasoning": "Demosthenes identifies the rescue of captives as a valid and expected use of funds during a diplomatic mission, implying a customary expectation of state or representative assistance for citizens held as prisoners of war.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to the specific subset of citizens who have been captured during military conflicts.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Ambassadorial hospitality gifts",
+      "rule_category": "Grant of economic privilege",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Hospitality gifts from foreign powers",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§162] Accordingly it was offered,—nominally, as a form of hospitality.",
+        "[§161] ...asking Philip to apply to their ransom the money he was spending on hospitable gifts for us."
+      ],
+      "reasoning": "The text describes a customary practice where host monarchs provide 'hospitable gifts' (xenia) to visiting ambassadors, which is treated as a standard, if potentially corruptible, entitlement of the office.",
+      "specificity": 8,
+      "specificity_reasoning": "This is restricted specifically to the small group of men serving as active envoys to foreign courts.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreign marriage/land prohibitions",
+      "rule_category": "Denial of property rights",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to own land in the city's territory",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§142] ...but if he represented this city, how comes it that by terms of treaty the city that sent him has lost property and he has increased his property by his rewards? In common justice, the city and its representatives should have fared alike."
+      ],
+      "reasoning": "The text contrasts 'the city' losing property while the individual gains it through foreign bribes. In the Athenian legal context mentioned throughout 'On the Embassy', ownership of Attic land was a privilege restricted to citizens, making the acquisition of foreign estates by ambassadors a point of legal and ethical contention regarding their primary allegiance.",
+      "specificity": 3,
+      "specificity_reasoning": "The restriction of land ownership typically applied to all non-citizens (metics and foreigners).",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Official accountability for speech",
+      "rule_category": "Political accountability",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Protection from prosecution for official reports",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§178] [183] For what are we to bring any ambassador to justice, if not for his words? Ambassadors have control, not over war-ships, and military positions, and troops, and citadels,—these are never entrusted to them,—but over words and opportunities. If an ambassador has not wasted the opportunities of the state, he is no wrongdoer; if he has wasted them, he has done wrong. If the words of his reports are true and profitable words, let him be acquitted; if they are false, venal, and noxious, let him be convicted."
+      ],
+      "reasoning": "Demosthenes argues that ambassadors in Athens are legally liable for the truthfulness and utility of their verbal and written reports to the assembly. Unlike private citizens, whose 'idiotic' speech might be excused, officials are subject to criminal conviction if their words are found to be false or harmful.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific class of high-level state officials (ambassadors) during their term of service.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of assembly deception",
+      "rule_category": "Legal restriction on speech",
+      "group": "Political debaters",
+      "group_category": "Occupation",
+      "resource": "Right to provide false testimony to the Assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§179] [184] A man can do no greater wrong than by telling lies to a popular assembly; for, where the political system is based upon speeches, how can it be safely administered if the speeches are false?"
+      ],
+      "reasoning": "The text establishes a strict civic rule against providing false information to the sovereign body (the Assembly). In a speech-based democracy, deception of the collective citizenry is treated as a major legal/moral offense rather than a protected form of expression.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any citizen who stands to address the Assembly, a significant but limited portion of the male citizenry.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Official duty of whistleblowing",
+      "rule_category": "Obligation of public duty",
+      "group": "Public authorities",
+      "group_category": "Occupation",
+      "resource": "Right to maintain collegial silence regarding misconduct",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§185] [190] I know that the Presidents unite in a sacrificial service, dine together, and make libation together; but it does not follow that the honest men take their cue from the knaves; as soon as they detect one of themselves in misconduct, they lay information before the Council and the Assembly."
+      ],
+      "reasoning": "Demosthenes describes a customary and legal norm where members of various Athenian boards (Presidents, Council, Commanders) are expected to report the crimes of their colleagues. Shared religious or social bonds (the 'cup of friendship') do not grant immunity or a right to withhold evidence of wrongdoing.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule applies to all citizens serving in administrative or military boards.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Juror adherence to decrees",
+      "rule_category": "Legal procedure",
+      "group": "Jurors",
+      "group_category": "Occupation",
+      "resource": "Right to ignore statutory law in verdicts",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§174] [179] You have sworn to give a verdict according to the laws, and to the decrees of the people and of the Council of Five Hundred; the conduct of the defendant when holding the office of ambassador has manifestly violated those laws, those decrees, and the principles of justice; therefore he must be convicted by an intelligent jury."
+      ],
+      "reasoning": "Athenian jurors are bound by a religious and civic oath to judge cases based strictly on the existing laws and democratic decrees, rather than arbitrary preference. This limits their discretion to deviate from the established legal framework.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the thousands of citizens selected to serve in the heliastic courts.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Time-based administrative constraints",
+      "rule_category": "Procedural restriction",
+      "group": "The Populace",
+      "group_category": "Citizenship",
+      "resource": "Right to immediate executive action",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§180] [185] For in those polities, I take it, everything is done promptly at the word of command; but with you, first the Council must be informed, and must adopt a provisional resolution,—and even that not at any time, but only after written notice given to marshals and embassies; then the Council must convene an Assembly, but only on a statutory date."
+      ],
+      "reasoning": "In the Athenian democracy, the people's collective power is constrained by rigorous procedural timelines (statutory dates and notice periods). Unlike a monarchy, the group 'Citizens' cannot act instantly, which Demosthenes identifies as a structural limitation that can be exploited by corrupt officials.",
+      "specificity": 2,
+      "specificity_reasoning": "This affects the entire body of active citizens in their capacity to govern.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Captive protection from battery",
+      "rule_category": "Protection from bodily harm",
+      "group": "Captives",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§192] Then Aeschines and Phryno declared that it was intolerable impertinence for a captive,—and one of those ungodly, pernicious Olynthians too,—to give herself such airs. Call a servant, they cried; bring a whip, somebody. In came a flunkey with a horsewhip, and—I suppose they were tipsy, and it did not take much to irritate them,when she said something and began to cry, he tore off her dress and gave her a number of lashes on the back."
+      ],
+      "reasoning": "The text describes an incident where a freeborn woman, reduced to the status of a captive (war prisoner), is summarily whipped for refusing to perform. The justification used by the aggressors is specifically her status as a 'captive,' implying that such individuals lack the legal protection from corporal punishment afforded to free citizens.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population (war captives/prisoners) within the broader context of Greek conflict and social hierarchy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ambassadorial financial accountability",
+      "rule_category": "Access to judicial protection",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Right to submit to public scrutiny",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§206] I wished to do the honest thing, and to give an account of myself twice, because I had been appointed ambassador twice; but Aeschines approached the Court of Scrutiny, taking with him a crowd of witnesses, and forbade them to summon me, on the ground that I had already submitted to scrutiny, and was no longer liable."
+      ],
+      "reasoning": "Athenian law required officials, specifically ambassadors, to undergo a 'scrutiny' (euthunai) or accounting of their conduct. Demosthenes highlights this as a legal obligation and a right to clear one's name, which his opponent attempted to block.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies only to the very small number of citizens appointed to diplomatic missions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Litigant voice-based prejudice",
+      "rule_category": "Legal procedure",
+      "group": "Defendants",
+      "group_category": "Origin",
+      "resource": "Right to impartial hearing regardless of vocal strength",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§211] You must not notice what a fine loud voice he has, and what a poor voice I have. [§212] If you are wise, you must not treat this trial as a competition of forensic eloquence."
+      ],
+      "reasoning": "Demosthenes' plea to the jury indicates a customary bias where jurors favored speakers with 'fine loud voices' and superior 'forensic eloquence.' He is identifying a social reality where those with less oratorical power (the 'diffident' or 'nervous') are at a disadvantage in securing justice.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual appearing before a jury in the Athenian democratic courts.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave immunity from prosecution",
+      "rule_category": "Legal exclusion",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to bring impeachment or indictment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§204] And yet a threat of impeachment involves endless speeches and litigation; but here are just two or three simple words that a slave bought yesterday could deliver..."
+      ],
+      "reasoning": "The text contrasts the complex legal process of impeachment available to citizens with the inability of a slave to perform such acts. While a slave could speak words, they could not participate in 'endless speeches and litigation' as a principal party in an Athenian court.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire enslaved population, a large demographic in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public official wage access",
+      "rule_category": "Grant of economic privilege",
+      "group": "Public clerks",
+      "group_category": "Occupation",
+      "resource": "Right to receive wages for public service",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§195] then the junior clerk, doing the dirty work of public offices for a few shillings a month"
+      ],
+      "reasoning": "Demosthenes mentions the salary of a junior clerk. This confirms that even lower-level public administrative roles were remunerated, providing a concrete material resource (wages) to those in that occupation.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific professional class of low-level civil servants.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ambassadorial compensation restriction",
+      "rule_category": "Restriction of economic gain",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Right to accept gifts or payment from foreign powers",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§218] I kept my hands clean of corruption for the sake of truth and justice and of my future career, believing, as others have believed, that my honesty would be rewarded by your favor, and that my public spirit must never be bartered away for any emolument.",
+        "[§227] Today you are not merely adjudging this case: you are legislating for all future time, whether every ambassador is basely to serve your enemies for hire, or without fee or bribe to give his best service to you."
+      ],
+      "reasoning": "Athenian law and custom strictly prohibited ambassadors from receiving money ('emoluments' or 'bribes') from foreign states, treating such acts as a betrayal of the commonwealth subject to judicial scrutiny.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to the small subset of citizens appointed to diplomatic missions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Accountability of public officials",
+      "rule_category": "Access to judicial protection",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Protection from judicial scrutiny (audit)",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§218] I now denounce them, and I have attended this scrutiny, because I have a care for the future, and desire a decision recorded in this case and by this court that my conduct has been exactly opposed to theirs."
+      ],
+      "reasoning": "The 'scrutiny' (euthynai) was a mandatory legal process in Athens where officials had to account for their conduct; they lacked the resource of immunity from prosecution for their time in office.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies to all citizens holding magistracies or embassies, a significant but defined portion of the active citizenry.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Citizenship age requirement",
+      "rule_category": "Age-based political exclusion",
+      "group": "Minors",
+      "group_category": "Age",
+      "resource": "Inclusion on the list of citizens",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§225] One of them, named Phryno, a bold, bad man, sent his son to Philip before he had put him on the list of citizens"
+      ],
+      "reasoning": "The text indicates a formal registration process ('the list of citizens') that a son must wait for, implying that younger males are excluded from the rights of citizenship until a specific age or formal recognition.",
+      "specificity": 4,
+      "specificity_reasoning": "This affects all young males reaching the age of maturity in the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Secret ballot protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Jurors",
+      "group_category": "Citizenship",
+      "resource": "Right to anonymous voting",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§234] The legislator wisely discerned herein the essence of secret voting, that no suppliant shall know the name of the juror who has granted his prayer, but the gods and the divine spirit will know him who has cast an unrighteous vote."
+      ],
+      "reasoning": "Athenian law protected jurors from social or political retaliation by ensuring their individual votes remained secret from the litigants (suppliants).",
+      "specificity": 5,
+      "specificity_reasoning": "While only citizens can be jurors, the juror pool was large (thousands of people), making this a broadly applicable protection for those in court.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Litigant's right to relevance",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Citizenship",
+      "resource": "Right to demand relevant prosecution arguments",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§237] Then do not follow my example: address your defence to the real issue. You had your opportunity of denouncing and saying what you chose when you were the prosecutor."
+      ],
+      "reasoning": "The text references a procedural norm or expectation that the defense should be addressed 'to the real issue' rather than being led astray by irrelevant denouncements of the prosecutor.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to anyone involved in a public trial, which was a common occurrence for Athenian citizens.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Officer's class-based prestige",
+      "rule_category": "Grant of economic privilege",
+      "group": "Artisans",
+      "group_category": "Occupation",
+      "resource": "Suitability for high military command",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§232] We, Aphobetus and Philochares, although you, Philochares, were a painter of alabaster boxes and tambourines, and your brothers ordinary people, junior clerks and the like,—respectable occupations, but hardly suitable for commanding officers"
+      ],
+      "reasoning": "Demosthenes voices a social rule/prejudice that individuals from artisanal or clerical backgrounds are 'hardly suitable' for high military or diplomatic commands, even if they are technically 'respectable'.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to the broad class of working citizens (the 'ordinary people' and artisans).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Public clerk maintenance",
+      "rule_category": "Grant of economic privilege",
+      "group": "Public clerks",
+      "group_category": "Occupation",
+      "resource": "Two years of free maintenance in the Rotunda",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§244] The offspring of this pair earned a little money as junior clerks and messengers in the public offices, until, by your favor, they became full-fledged clerks, with free maintenance for two years in the Rotunda."
+      ],
+      "reasoning": "Demosthenes describes a specific state-provided benefit (free maintenance/meals) granted to individuals who attain the status of full-fledged public clerks in Athens.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to a specific sub-category of public officials (full-fledged clerks) for a limited duration.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of recovery proposals",
+      "rule_category": "Exclusion from political speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to propose the recovery of lost territory",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§247] When Salamis had revolted, and the Athenian people had forbidden under penalty of death any proposal for its recovery, Solon, accepting the risk of death, composed and recited an elegiac poem, and so retrieved that country for Athens."
+      ],
+      "reasoning": "The text explicitly mentions a decree that criminalized a specific type of political proposal (reclaiming Salamis) under the penalty of death.",
+      "specificity": 5,
+      "specificity_reasoning": "While the rule applied to all citizens, it concerned a very specific and localized political issue (the recovery of Salamis).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Bribe-taking capital punishment",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from the death penalty for corruption",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§265] Clerk, take this and read it.—For I would have you know that you are treating with indifference offences such as your forefathers once punished with death."
+      ],
+      "reasoning": "Demosthenes cites historical legal precedent (the judgment of the ancestors) stating that bribery and betrayal of public trust was a capital offense.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applied broadly to any citizen involved in public affairs or diplomacy who accepted bribes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Outlawry for foreign bribery",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Legal protection and peace within Athenian territory",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§266] You hear, men of Athens, the record which declares Arthmius, son of Pythonax, of Zelea, to be enemy and foeman of the Athenian people and their allies, him and all his kindred. His offence was conveying gold from barbarians to Greeks."
+      ],
+      "reasoning": "The text references a public inscription declaring a foreigner and his entire lineage to be 'enemies and foemen' for the act of facilitating bribery between Persians and Greeks, effectively removing their legal protections.",
+      "specificity": 9,
+      "specificity_reasoning": "The rule is cited through the example of a specific individual (Arthmius) and his family, though presented as a precedent for how the state treats such agents.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public status through labor",
+      "rule_category": "Grant of economic privilege",
+      "group": "Children of poor teachers",
+      "group_category": "Children",
+      "resource": "Wages as public messengers and clerks",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§244] The offspring of this pair earned a little money as junior clerks and messengers in the public offices, until, by your favor, they became full-fledged clerks."
+      ],
+      "reasoning": "The text indicates that even children from lower-income backgrounds (infant-school teachers, ritual assistants) could access paid employment in the public sector as clerks and messengers.",
+      "specificity": 4,
+      "specificity_reasoning": "This describes a general pathway for a segment of the population into the lower rungs of the civic bureaucracy.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Ambassadorial bribery prohibition",
+      "rule_category": "Punishment for corruption",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Protection from capital punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§268] I am sure you have all heard the story of their treatment of Callias, son of Hipponicus... At the inquiry into his conduct they came near to putting him to death, and mulcted him in fifty talents, because he was said to have taken bribes on embassy.",
+        "[§270] They held the taking of bribes to be too inimical and unprofitable to the state to be tolerated in any transaction or in any person; but you... instead of putting them to death of your own accord, wait for the appearance of a prosecutor."
+      ],
+      "reasoning": "Athenian custom and law treated the acceptance of bribes by diplomats as a capital offense, or one punishable by massive fines, regardless of the quality of the peace negotiated.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific subset of the political class (ambassadors) during their period of service.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Duty of diplomatic obedience",
+      "rule_category": "Accountability for officials",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Protection from execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§273] By the terms of this decree, men of Athens, you condemned to death the ambassadors named... Look at the decree: Whereas the said ambassadors have disobeyed their instructions. That is the first charge alleged."
+      ],
+      "reasoning": "The text cites a specific legal decree where ambassadors were sentenced to death for failing to follow the precise instructions of the Athenian Assembly.",
+      "specificity": 8,
+      "specificity_reasoning": "Relates to specific individuals holding a particular temporary commission and their adherence to a mandate.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Official report integrity",
+      "rule_category": "Legal standing",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Protection from prosecution",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§274] Whereas, says the old decree, certain of them are convicted of making untruthful reports to the Council. Why, these men are convicted of making untruthful reports even to the Assembly."
+      ],
+      "reasoning": "Officials and ambassadors were legally liable for the veracity of their reports to the Council and Assembly; falsehoods were grounds for criminal conviction.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to all citizens acting in an official reporting capacity to the governing bodies.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Strategic trade restriction",
+      "rule_category": "Economic restriction",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to export arms",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§281] He did it because Timarchus had moved in the Council a decree making the conveyance of arms or ships’ tackle to Philip a capital offence.",
+        "[§282] The man who for your sake proposed the prohibition, under penalty of death, of carrying arms to Philip is vilified and disgraced."
+      ],
+      "reasoning": "The text mentions a specific decree making it a capital crime for citizens to convey military equipment to an enemy state (Macedonia).",
+      "specificity": 4,
+      "specificity_reasoning": "While specific to the trade with Philip, it effectively restricts the commercial and movement rights of any citizen involved in maritime trade or arms manufacturing.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Wealthy public service duty",
+      "rule_category": "Obligation of public duty",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Retention of private wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§277] Has the state ever had to thank any one of them in the whole course of his life for so much as a horse, or a war-galley, or a military expedition, or a chorus, or any public service, assessed contribution, or free gift...?"
+      ],
+      "reasoning": "The text lists 'liturgies' (public services like funding a war-galley or chorus) as an expected distribution of wealth from rich families to the state. Lack of participation is used as a negative criterion in court.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to the 'liturgical class,' composed of the wealthiest citizens in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Disfranchisement for immorality",
+      "rule_category": "Denial of citizenship rights",
+      "group": "Citizens with moral/legal records",
+      "group_category": "Citizenship",
+      "resource": "Political power",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§279] The unfortunate Timarchus is still disfranchised because he was a witness of Aeschines’ misdeeds, and why should you allow Aeschines to go scot-free?",
+        "[§280] He will say that the trial of Timarchus will improve the morals of our young men."
+      ],
+      "reasoning": "Citizens could be 'disfranchised' (atimia), losing the right to speak or vote in the Assembly, based on legal challenges regarding their personal conduct or past actions.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to citizens who are prosecuted under specific laws (like those regarding morality or official conduct).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Equality before the law",
+      "rule_category": "Access to judicial protection",
+      "group": "Prominent politicians",
+      "group_category": "Occupation",
+      "resource": "Immunity from judicial verdicts",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§291] Indeed, there is no danger... more anxious vigilance than allowing any man to become stronger than the people. Let no man be delivered, and let no man be destroyed, merely because this man or that so desires.",
+        "[§292] In courts of justice no man to this day has ever been superior to the people, or to the laws, or to the judicial oath."
+      ],
+      "reasoning": "The text explicitly states that no individual, regardless of their political power in the Assembly, is permitted to have legal standing superior to the jury or the laws in court.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general constitutional principle affecting all high-ranking or 'superior' individuals relative to the common citizens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial accountability of ambassadors",
+      "rule_category": "Access to judicial protection",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Vulnerability to prosecution for treason",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§294] Therefore, you are all exhorted by Zeus, by Dione, by all the gods, to punish with one mind those who have made themselves the servants of your enemies. [§296] ...and then punish before the eyes of the world the man who has traitorously sold himself."
+      ],
+      "reasoning": "Demosthenes argues that ambassadors (statesmen acting as leaders) who accept bribes or act as traitors are subject to trial and punishment by the citizen body. This establishes a legal rule of accountability for high-ranking diplomatic officials.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific elite subset of political actors (statesmen/ambassadors) rather than the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of political bribery",
+      "rule_category": "Restriction of economic privilege",
+      "group": "Statesmen",
+      "group_category": "Occupation",
+      "resource": "Right to accept foreign gifts or bribes",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§294] It is the business of foes to give bribes, of traitors to take bribes, and to rescue those who have taken them."
+      ],
+      "reasoning": "The text identifies taking bribes as the defining act of a 'traitor' and implies it is an illegal act subject to divine and civic punishment, thereby denying politicians the right to profit from foreign powers.",
+      "specificity": 3,
+      "specificity_reasoning": "Affects all individuals holding political leadership or diplomatic roles.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Captive enslavement and transfer",
+      "rule_category": "Denial of personal freedom",
+      "group": "Olynthians",
+      "group_category": "Origin",
+      "resource": "Freedom from enslavement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§301] and when he was told that they were Olynthian captives whom Atrestidas was bringing away with him as a present from Philip, he thought it a terrible business, and burst into tears."
+      ],
+      "reasoning": "The text describes the historical reality where residents of a defeated allied city (Olynthus) were reduced to captives and treated as movable property ('presents') to be given away by a monarch.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies specifically to the population of a single defeated city-state during a specific conflict.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female captive sexual vulnerability",
+      "rule_category": "Denial of bodily integrity",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from sexual exploitation",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§304] Is it possible that the same man... should now be content to cooperate with Philocrates, who brought free-born Olynthian ladies to this city for their dishonor?"
+      ],
+      "reasoning": "The mention of 'free-born ladies' being brought to the city for 'dishonor' (sexual exploitation/prostitution) indicates that captive women lacked legal protection against sexual violence or forced labor in this capacity.",
+      "specificity": 5,
+      "specificity_reasoning": "Focuses on female captives and their specific vulnerability compared to male captives.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Citizen child protection",
+      "rule_category": "Protection of family rights",
+      "group": "Children of citizens",
+      "group_category": "Age",
+      "resource": "Right to inherit hope and status",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§305] while, by adding to the treaty of peace the words and to their posterity, he and his friends robbed your own children even of hope."
+      ],
+      "reasoning": "Demosthenes argues that a statesman's actions (the treaty terms) directly impact the legal and material future/standing ('hope') of the citizens' offspring, implying children have a stake in the civic status of their parents.",
+      "specificity": 2,
+      "specificity_reasoning": "This concerns the entire next generation of the Athenian citizen body.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Ancestral merit as legal claim",
+      "rule_category": "Access to judicial protection",
+      "group": "Descendants of war heroes",
+      "group_category": "Lineage",
+      "resource": "Right to invoke ancestral glory in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§308] ...and does an Aeschines forbid you, their own descendants, to commemorate their names... That retribution you will levy on him for your forefathers’ sake."
+      ],
+      "reasoning": "Demosthenes uses the lineage of the jurors (as descendants of those who fought at Marathon and Salamis) as a concrete legal and moral ground to demand the punishment of the defendant.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to the whole of the Athenian citizen body who claim descent from the Persian War generation.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Prosecutorial use of family",
+      "rule_category": "Legal procedure",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to present children to incite pity",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§305] Very likely he will bring his children into court and put them in a conspicuous position. But do you, gentlemen of the jury... reflect how many children of your own friends and allies are wanderers."
+      ],
+      "reasoning": "The text acknowledges the customary practice in Athenian courts where defendants bring their children before the jury to appeal for mercy (compassion), even if Demosthenes argues against it in this specific case.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to individuals who have reached the stage of being a defendant in a major trial.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ambassadorial maintenance and honors",
+      "rule_category": "Grant of economic privilege",
+      "group": "Ambassadors",
+      "group_category": "Occupation",
+      "resource": "Free maintenance in the Town Hall",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§325] Gentlemen of the jury, would you set up in the market-place a statue of any of the ambassadors whom Philip sent? Or would you give to them free maintenance in the Town Hall, or any of the other privileges with which you reward your benefactors?"
+      ],
+      "reasoning": "Demosthenes identifies free meals (sitesis) in the Prytaneum (Town Hall) and the erection of statues as standard rewards for ambassadors and public benefactors who act in the interest of the city.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies specifically to high-level diplomatic representatives and state benefactors.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Athenian precedence at Oracle",
+      "rule_category": "Access to religious privilege",
+      "group": "Athenian citizens",
+      "group_category": "Citizenship",
+      "resource": "Precedence in consultation of the Oracle",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§322] [327] If anyone says a word about the sacred treasure, he is thrown down the precipice; and Athens is robbed of her precedence in the consultation of the Oracle."
+      ],
+      "reasoning": "The text explicitly mentions that Athens held a right of 'precedence' (promanteia) at the Delphic Oracle, which was lost or 'robbed' due to the political changes described.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a collective right held by the entire body of Athenian citizens relative to other states.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Amphictyonic Council membership",
+      "rule_category": "Political exclusion by origin",
+      "group": "Macedonians",
+      "group_category": "Origin",
+      "resource": "Membership in the Amphictyonic Council",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§322] [327] ...men who never in all former time were members of it, Macedonians and barbarians, are now forcing their way into the Amphictyonic Council."
+      ],
+      "reasoning": "The text describes a change in the customary rules of the Amphictyonic Council where groups previously excluded (Macedonians/Barbarians) gained the right to participate in this central political-religious body.",
+      "specificity": 4,
+      "specificity_reasoning": "This affects an entire ethnic/national group's standing in a major pan-Hellenic institution.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection of sacred treasure",
+      "rule_category": "Restriction of speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from execution without trial for speech",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§322] [327] If anyone says a word about the sacred treasure, he is thrown down the precipice"
+      ],
+      "reasoning": "The text mentions a summary and violent punishment (being thrown from a precipice) for those who speak against the management of the sacred treasure, indicating a loss of legal protection for speech in that context.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to any individual speaking on a specific, sensitive subject under the new administration of the temple.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Heraldic vocal requirement",
+      "rule_category": "Access to public office",
+      "group": "Heralds",
+      "group_category": "Occupation",
+      "resource": "Right to hold office based on vocal power",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§333] [338] If you are holding an examination for the office of herald, you do well to look for a man with a fine loud voice"
+      ],
+      "reasoning": "Demosthenes notes that for the specific office of herald, physical vocal strength is a legitimate criterion for selection, unlike other political offices.",
+      "specificity": 9,
+      "specificity_reasoning": "This is a very specific rule for a single specialized public office.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Statutory conduct investigation",
+      "rule_category": "Access to judicial protection",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Right to be charged only during statutory investigations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§330] [335] If Demosthenes committed any crime, why bring it up now? Why did you not lay your complaint at the statutory investigation of his conduct?"
+      ],
+      "reasoning": "Athenian law required 'euthynai' or statutory audits/investigations of officials; Demosthenes argues that failure to bring a charge during this window limits the legitimacy of later accusations.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to all citizens who have held public office during their mandatory audit period.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 13,
+  "_file_id": "tlg0014.tlg019.perseus-eng2",
+  "_input_tokens": 100849,
+  "_output_tokens": 17934,
+  "_model": "google/gemini-3-flash-preview"
+}

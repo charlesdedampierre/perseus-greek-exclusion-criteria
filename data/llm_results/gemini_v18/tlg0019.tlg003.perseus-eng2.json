@@ -1,0 +1,958 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Master's right to punish",
+      "rule_category": "Labor control",
+      "group": "Domestics",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] May you perish then, O war! For many reasons; because I may not even punish my domestics."
+      ],
+      "reasoning": "Strepsiades laments that the state of war prevents him from exercising his usual right to physically punish his servants, implying that in normal times, domestics lack protection from corporal punishment by their masters.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad class of domestic slaves/servants in Athenian society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Paternal property control",
+      "rule_category": "Generational wealth control",
+      "group": "Adult sons",
+      "group_category": "Age",
+      "resource": "Right to dispose of family patrimony",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] But, if you have any concern for your father’s patrimony, become one of them, having given up your horsemanship. ... Then, by Ceres, you shall not eat any of my good! Neither you, nor your blood-horse; but I will drive you out of my house to the crows."
+      ],
+      "reasoning": "The father (Strepsiades) maintains total control over the household resources ('patrimony') and can threaten to cut off his son's access to food and shelter, showing that sons do not have independent legal rights to family property while the father lives.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to sons living within the paternal oikos.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Debt-based asset seizure",
+      "rule_category": "Property confiscation",
+      "group": "Debtors",
+      "group_category": "Wealth",
+      "resource": "Right to retain personal property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] ...since I have been cast in suits, and others say that they will have surety given them for the interest. ... I am pillaged and plundered, and have my goods seized for debt."
+      ],
+      "reasoning": "The text demonstrates a legal mechanism where creditors can win lawsuits ('cast in suits') and seize the property of debtors to satisfy interest and principal.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to any citizen falling into debt, a common occurrence.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Secretive school admission",
+      "rule_category": "Educational exclusion",
+      "group": "Non-disciples",
+      "group_category": "Occupation",
+      "resource": "Access to specialized knowledge",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] Disciple. It is not lawful to mention it, except to disciples."
+      ],
+      "reasoning": "The 'thinking-shop' functions as a closed association where specific intellectual content is legally/customarily restricted to those admitted as disciples.",
+      "specificity": 8,
+      "specificity_reasoning": "This is specific to the private regulations of the Socratic school as depicted.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Fee-based instruction",
+      "rule_category": "Educational access",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to receive education",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] These men teach, if one give them money, to conquer in speaking, right or wrong."
+      ],
+      "reasoning": "The text explicitly states that instruction in rhetoric at the 'thinking-shop' is contingent upon payment, effectively excluding those without sufficient wealth.",
+      "specificity": 5,
+      "specificity_reasoning": "While education is for the wealthy, this specifically refers to the sophistry schools.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Equitable land distribution",
+      "rule_category": "Land management",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to land allotment",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Strepsiades. What belongs to an allotment? Disciple. No, but the whole earth. Strepsiades. You tell me a clever notion; for the contrivance is democratic and useful."
+      ],
+      "reasoning": "Strepsiades' reaction to the mention of measuring land/allotments as 'democratic' reflects the Athenian custom of redistributing land (cleruchies) to citizens.",
+      "specificity": 3,
+      "specificity_reasoning": "This refers to broad state-level policies regarding land division among the citizenry.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sacred rite secrecy",
+      "rule_category": "Religious exclusion",
+      "group": "Uninitiated persons",
+      "group_category": "Citizenship",
+      "resource": "Protection from exposure to secret rites",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] Chorus. Ye rain-bringing virgins, let us come to the fruitful land of Pallas, to view the much-loved country of Cecrops, abounding in brave men; where is reverence for sacred rites not to be divulged; where the house that receives the initiated is thrown open in holy mystic rites;"
+      ],
+      "reasoning": "The text describes Athens as a place where specific sacred rites are not to be 'divulged' and are restricted to 'the initiated,' indicating a formal legal or customary boundary preventing the general public from accessing certain religious knowledge or spaces.",
+      "specificity": 4,
+      "specificity_reasoning": "While many citizens were initiated into various mysteries, the rule specifically excludes all those who have not undergone the particular initiation from the 'holy mystic rites.'",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Intellectual patronage rewards",
+      "rule_category": "Grant of economic privilege",
+      "group": "Sophists and Poets",
+      "group_category": "Occupation",
+      "resource": "Access to high-quality food and maintenance",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] Socrates. For you do not know, by Jupiter! that these feed very many sophists, Thurian soothsayers, practisers of medicine, lazy-long-haired-onyx-ring-wearers, song-twisters for the cyclic dances, and meteorological quacks. They feed idle people who do nothing, because such men celebrate them in verse. ... And then, in return for these, they swallow slices of great, fine mullets, and bird’s-flesh of thrushes."
+      ],
+      "reasoning": "The text identifies a specific class of intellectual and artistic workers (sophists, poets, soothsayers) who receive material sustenance (fine food like mullets and thrushes) in exchange for their 'celebration' of the clouds, reflecting a societal structure of patronage for certain occupations.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific subset of the population defined by their specialized intellectual or artistic occupations.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Bacchic festival participation",
+      "rule_category": "Access to public resources",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to participate in state-sponsored musical and theatrical festivals",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] Chorus. ...and with the approach of spring the Bacchic festivity, and the rousings of melodious choruses, and the loud-sounding music of flutes."
+      ],
+      "reasoning": "The Chorus identifies the seasonal Bacchic festivals and musical choruses as a standard, institutionalized feature of the land of Pallas (Athens), implying a communal right to participate in these sacred/civic events.",
+      "specificity": 2,
+      "specificity_reasoning": "These festivals were central public events involving a large portion of the Athenian citizen body and their families.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Assembly speaking right",
+      "rule_category": "Access to political speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to pass opinions in public assemblies",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] Well, you shall have this from us, so that hence-forward from this time no one shall get more opinions passed in the public assemblies than you."
+      ],
+      "reasoning": "The text assumes that a person with the right rhetorical training (a citizen like Strepsiades) can participate in and influence the public assembly by moving resolutions or passing opinions, a core political right in Athens.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad class of enfranchised male citizens in Athens, which is a major segment of the society described.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial self-defense",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to argue cases in lawsuits",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] Strepsiades. Grant me not to deliver important opinions; for I do not desire these, but only to pervert the right for my own advantage, and to evade my creditors.",
+        "[§10] if I shall escape clear from my debts, and appear to men to be bold, glib of tongue, audacious, impudent, shameless, a fabricator of falsehoods, inventive of words, a practiced knave in lawsuits"
+      ],
+      "reasoning": "The protagonist seeks rhetorical training specifically to defend himself in court against creditors. This reflects a legal system where individuals represent themselves and use speech to protect their assets.",
+      "specificity": 4,
+      "specificity_reasoning": "While all citizens could be involved, this specifically concerns those involved in litigation/debt disputes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sacrificial ritual access",
+      "rule_category": "Access to religious rituals",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to offer sacrifice and libations",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] Absolutely I would not even converse with the others, not even if I met them; nor would I sacrifice to them, nor make libations, nor offer frankincense."
+      ],
+      "reasoning": "Strepsiades' statement that he will refuse to sacrifice to traditional gods implies that as a standard member of society, he currently possesses the right and customary expectation to perform these civic religious acts.",
+      "specificity": 2,
+      "specificity_reasoning": "Religious participation was a general expectation and right for the broad citizenry.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Scholarly lifestyle exemption",
+      "rule_category": "Grant of economic privilege",
+      "group": "Philosophers",
+      "group_category": "Occupation",
+      "resource": "Exemption from social standards of dress and hygiene",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] because you walk proudly in the streets, and cast your eyes askance, and endure many hardships with bare feet, and in reliance upon us lookest supercilious.",
+        "[§10] refrain from wine, and gymnastics, and the other follies"
+      ],
+      "reasoning": "The text describes a specific sub-group (sophists/philosophers) who are socially permitted or expected to adopt a lifestyle that eschews standard comforts (shoes, wine, gymnastics) in pursuit of 'wisdom'.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a very small, specific group of intellectual practitioners in Athens.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Assault witness requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to bring suit for assault",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] Strepsiades. I take the beating; and then, when I have waited a little while, I call witnesses to prove it; then again, after a short interval, I go to law."
+      ],
+      "reasoning": "Strepsiades describes the standard procedure for an Athenian citizen to seek legal redress for physical battery, which requires the presence of witnesses to validate the claim before a lawsuit can be successfully initiated.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes a general procedural right and requirement for any citizen wishing to use the legal system for personal injury.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Virgin maternal restriction",
+      "rule_category": "Restraint of family rights",
+      "group": "Unmarried women",
+      "group_category": "Gender",
+      "resource": "Right to acknowledge and raise children",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] For since what time my Modest Man and my Rake were very highly praised here by an audience... and I (for I was still a virgin, and it was not lawful for me as yet to have children) exposed my offspring, and another girl took it up, and owned it, and you generously reared and educated it."
+      ],
+      "reasoning": "The author (via the Chorus) uses the metaphor of an unmarried girl exposing a child because it was 'not lawful' for her to have them. This reflects the real social and legal stigma in Athens where children born to unmarried women lacked legal status/legitimacy and the mother lacked the social right to keep them.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to unmarried women of childbearing age, a significant but specific demographic subset.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Bribery stocks punishment",
+      "rule_category": "Loss of body integrity",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Protection from corporal restraint",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] If you should convict the cormorant Cleon of bribery and embezzlement, and then make fast his neck in the stocks, the affair will turn out for the state to the ancient form again."
+      ],
+      "reasoning": "The text identifies a specific legal consequence for politicians (exemplified by Cleon) convicted of financial crimes: the use of stocks (pillorying). This represents a loss of bodily integrity and freedom through public shaming and physical restraint.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule specifically targets high-ranking politicians or generals accused of white-collar crimes like embezzlement.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Hieromnemon office removal",
+      "rule_category": "Loss of political power",
+      "group": "Religious magistrates",
+      "group_category": "Occupation",
+      "resource": "Right to hold sacred office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] For which reason Hyperbolus, having obtained the lot this year to be Hieromnemon, was afterward deprived by us gods of his crown; for thus he will know better that he ought to spend the days of his life according to the Moon."
+      ],
+      "reasoning": "The text alludes to Hyperbolus being stripped of his position as Hieromnemon (a religious delegate). While framed as divine action, it refers to a concrete removal from a political/sacred office in Athenian administration.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a very narrow group of individuals selected for specific annual high-level religious-political delegations.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Litigation and torture suspension",
+      "rule_category": "State religious observance",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from legal harassment on festival days",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] And then, when you ought to be sacrificing, you are inflicting tortures and litigating. And often, while we gods are observing a fast, when we mourn for Memnon or Sarpedon, you are pouring libations and laughing."
+      ],
+      "reasoning": "The text rebukes the Athenians for conducting legal business (litigating and inflicting judicial torture) on days that should be reserved for religious sacrifice and fasting. This indicates a societal rule or expectation that certain days should be free from legal proceedings, a rule the author claims is currently being violated due to calendar confusion.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the entire body of citizens participating in the Athenian legal and religious system.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sacred office eligibility",
+      "rule_category": "Religious and political exclusion",
+      "group": "Hieromnemones",
+      "group_category": "Occupation",
+      "resource": "Right to retain sacred office and crown",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] For which reason Hyperbolus, having obtained the lot this year to be Hieromnemon, was afterward deprived by us gods of his crown; for thus he will know better that he ought to spend the days of his life according to the Moon."
+      ],
+      "reasoning": "The text describes the removal of Hyperbolus from his position as Hieromnemon (a sacred delegate). While framed as divine intervention, it reflects the civic reality that an official could be deprived of their crown and status for failing to observe the correct religious calendar, which was a primary duty of the office.",
+      "specificity": 9,
+      "specificity_reasoning": "The rule specifically concerns a very small number of high-ranking religious/political officials (Hieromnemones).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military service obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Legal recognition of masculinity",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] Socrates. Do you see? You call Amynias a woman. Strepsiades. Is it not then with justice, who does not serve in the army?"
+      ],
+      "reasoning": "The text implies that a man's legal or social standing as 'masculine' (and therefore his right to masculine naming conventions) is contingent upon fulfilling the civic duty of military service. Strepsiades argues that treating a man as a woman is 'just' if he evades the army.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies broadly to the adult male citizen population of Athens during the Peloponnesian War.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Debt interest obligation",
+      "rule_category": "Economic obligation",
+      "group": "Debtors",
+      "group_category": "Wealth",
+      "resource": "Retention of property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] Strepsiades. About the interest; so that I may pay no one. ... Strepsiades. Because the money is lent out by the month."
+      ],
+      "reasoning": "The text describes a standard economic rule where those who borrow money (debtors) are legally required to lose a portion of their wealth to interest payments calculated on a monthly basis.",
+      "specificity": 4,
+      "specificity_reasoning": "While many citizens held debts, it specifically targets a segment of the population involved in financial credit transactions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial suit cancellation",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Protection from legal liability",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] Socrates. If a suit of five talents should be entered against you, tell me how you would obliterate it. ... Strepsiades. ... when the clerk was entering the suit, and were to stand at a distance ... and melt out the letters of my suit?"
+      ],
+      "reasoning": "The dialogue refers to the physical 'entry' of a suit by a clerk onto wax or similar media. The ability to 'obliterate' the record would result in the defendant gaining protection from the five-talent liability, reflecting the material nature of Athenian legal records.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to individuals specifically targeted by high-stakes litigation (five talents).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-mortem lawsuit immunity",
+      "rule_category": "Legal standing protection",
+      "group": "Deceased persons",
+      "group_category": "Health",
+      "resource": "Protection from litigation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] Strepsiades. For no one will bring action against me when I am dead."
+      ],
+      "reasoning": "The text identifies a legal boundary: death terminates the capacity for a person to be a defendant in a civil action, granting the estate (or the memory of the person) protection from new suits.",
+      "specificity": 1,
+      "specificity_reasoning": "Death is a universal state, making this rule applicable to everyone eventually.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Paternal right of expulsion",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Adult sons",
+      "group_category": "Age",
+      "resource": "Right to reside in the paternal home",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] Strepsiades. I will go for him, and if he be not willing, I will certainly drive him from my house. ... Strepsiades. By Mist, you certainly shall not stay here any longer! But go and gnaw the columns of Megacles."
+      ],
+      "reasoning": "Under the authority of the Kyrios (head of household), an Athenian father had the customary and legal right to expel even an adult son from the family home for disobedience.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the specific subgroup of adult sons still living under their father's roof.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Heliaea juror wages",
+      "rule_category": "Grant of economic privilege",
+      "group": "Jurors",
+      "group_category": "Occupation",
+      "resource": "Public wages (obolus)",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] Strepsiades. ... and bought you a go-cart at the Diasia, with the first obolus I received from the Heliaea."
+      ],
+      "reasoning": "The text confirms that citizens serving as jurors in the Heliaea (the supreme court of ancient Athens) received a daily wage (obolus) from public resources.",
+      "specificity": 3,
+      "specificity_reasoning": "A significant portion of the Athenian citizen body (usually older men) served as jurors to earn this stipend.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Interest-bearing debt terms",
+      "rule_category": "Economic obligation",
+      "group": "Debtors",
+      "group_category": "Wealth",
+      "resource": "Retention of property (interest-free)",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] Strepsiades. You have heard a thousand times what I wish. About the interest; so that I may pay no one. [...] Strepsiades. Because the money is lent out by the month."
+      ],
+      "reasoning": "The text establishes that debt in Athens involves monthly interest payments, meaning debtors lose a portion of their wealth/property periodically as a legal consequence of their status.",
+      "specificity": 4,
+      "specificity_reasoning": "Debt was a common condition for many Athenian citizens, though it specifically targeted those who lacked immediate liquidity.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Juror compensation",
+      "rule_category": "Economic privilege",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Wages for judicial service",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] Strepsiades. I also know that I formerly obeyed you, a lisping child of six years old, and bought you a go-cart at the Diasia, with the first obolus I received from the Heliaea."
+      ],
+      "reasoning": "The mention of an 'obolus' received from the Heliaea (the Athenian people's court) refers to the pay received by citizens for serving as jurors, a concrete material benefit of citizenship.",
+      "specificity": 3,
+      "specificity_reasoning": "While specific to those who chose to serve as jurors, the pool of eligible participants included the entire adult male citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prosecution for lunacy",
+      "rule_category": "Legal restriction",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to manage own property and affairs",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§26] Phidippides. Ah me! What shall I do, my father being crazed? Shall I bring him into court and convict him of lunacy, or shall I give information of his madness to the coffin-makers?"
+      ],
+      "reasoning": "Phidippides contemplates a 'dike paranoias', an Athenian legal action where a son could sue a father for lunacy to strip him of control over his estate.",
+      "specificity": 4,
+      "specificity_reasoning": "This is a specific legal mechanism targeting older heads of households whose mental state was deemed failing by their heirs.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial suit cancellation",
+      "rule_category": "Legal procedure",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to be free from pending legal suits",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§24] Socrates. If a suit of five talents should be entered against you, tell me how you would obliterate it. [...] Strepsiades. I were to take this [burning glass]... and melt out the letters of my suit?"
+      ],
+      "reasoning": "The dialogue describes the formal recording of lawsuits ('entering the suit') by a clerk, which creates a legal obligation for the defendant. The humor relies on the fact that these records are concrete and legally binding unless physically destroyed/altered.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to individuals against whom a high-value private suit has been lodged.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Debt termination upon death",
+      "rule_category": "Legal status",
+      "group": "Deceased persons",
+      "group_category": "Health",
+      "resource": "Immunity from legal action",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§24] Strepsiades. If, while one suit was still pending, before mine was called on, I were to run away and hang myself. [...] For no one will bring action against me when I am dead."
+      ],
+      "reasoning": "The text acknowledges a legal principle where a personal lawsuit (private suit) cannot be initiated or continued against a person who has died, providing a grim form of legal immunity.",
+      "specificity": 6,
+      "specificity_reasoning": "This is a specific legal boundary regarding who can be a defendant in a trial.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Youth silence requirement",
+      "rule_category": "Social behavior restriction",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to speak in public or private",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] In the first place it was incumbent that no one should hear the voice of a boy uttering a syllable"
+      ],
+      "reasoning": "Under the traditional Athenian education system described by Just Cause, boys were strictly forbidden from speaking, reflecting a lack of communicative agency in the presence of elders.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applied to all male children/youths within the citizen class during their education.",
+      "confidence": 9
+    },
+    {
+      "rule_category": "Physical discipline",
+      "rule_name": "Musical innovation penalty",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] But if any of them were to play the buffoon, or to turn any quavers, like these difficult turns the present artists make after the manner of Phrynis, he used to be thrashed, being beaten with many blows, as banishing the Muses."
+      ],
+      "reasoning": "The text describes a specific legal/customary allowance for teachers to physically strike students who deviate from traditional musical standards.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to students during musical instruction.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Dining seniority priority",
+      "rule_category": "Access to resources",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to specific food items",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] Nor used it to be allowed when one was dining to take the head of the radish, or to snatch from their seniors dill or parsley, or to eat fish"
+      ],
+      "reasoning": "Customary rules in ancient Athens dictated that certain 'luxury' or 'prime' food items were reserved for elders, and youths were prohibited from taking them.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the entire category of youths when dining with elders.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Seniority deference",
+      "rule_category": "Social etiquette",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to remain seated",
+      "resource_category": "Status privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] and to rise up from seats before your seniors when they approach"
+      ],
+      "reasoning": "The text identifies a social rule requiring youths to yield their physical space (seats) to elders as a form of mandatory deference.",
+      "specificity": 2,
+      "specificity_reasoning": "This was a general social expectation for all young men in public or communal settings.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adultery corporal punishment",
+      "rule_category": "Criminal punishment",
+      "group": "Adulterers",
+      "group_category": "Other",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] But what if he should suffer the radish through obeying you, and be depillated with hot ashes?"
+      ],
+      "reasoning": "The text refers to the 'rhaphanidosis', a specific legal/customary punishment for caught adulterers involving physical violation and torture.",
+      "specificity": 8,
+      "specificity_reasoning": "Applies specifically to those caught in a particular illegal act, though the group is behavioral, the punishment is a concrete societal rule.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Educational physical segregation",
+      "rule_category": "Social stratification",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Freedom of movement to market-places",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] not chattering in the market-place rude jests, like the youths of the present day; nor dragged into court for a petty suit"
+      ],
+      "reasoning": "Just Cause advocates for a rule where youths are kept in gyms and academies and are barred from the Agora (market-place) and law courts, which are reserved for adults.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the class of young men under education.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Paternal authority",
+      "rule_category": "Family rights",
+      "group": "Sons",
+      "group_category": "Lineage",
+      "resource": "Right to contradict elders",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] and not to contradict your father in anything; nor by calling him Iapetus, to reproach him with the ills of age"
+      ],
+      "reasoning": "Traditional Athenian custom (and law regarding 'kakosis goneon' or maltreatment of parents) prohibited sons from verbally or legally challenging their fathers.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to all sons within a family structure.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Youth silence requirement",
+      "rule_category": "Exclusion from public speech",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to speak",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] In the first place it was incumbent that no one should hear the voice of a boy uttering a syllable;"
+      ],
+      "reasoning": "Just Cause describes the traditional Athenian education system where boys were strictly forbidden from speaking, even in educational or public settings, enforcing a total lack of vocal agency.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all male children/youths within the educational system of the city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Corporal punishment for boys",
+      "rule_category": "Vulnerability to corporal punishment",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] But if any of them were to play the buffoon, or to turn any quavers, like these difficult turns the present artists make after the manner of Phrynis, he used to be thrashed, being beaten with many blows, as banishing the Muses."
+      ],
+      "reasoning": "Standard pedagogical practice involved physical beating for deviations from traditional artistic or behavioral norms.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies broadly to the demographic of students/youths in training.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Youth dietary restrictions",
+      "rule_category": "Denial of luxury goods",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to specific foods",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] Nor used it to be allowed when one was dining to take the head of the radish, or to snatch from their seniors dill or parsley, or to eat fish"
+      ],
+      "reasoning": "Traditional social rules prohibited youths from consuming certain delicacies or taking specific food items before their elders as a sign of subordination.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to all youths during communal or family dining.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elder deference protocol",
+      "rule_category": "Age-based social subordination",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to remain seated",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] and to rise up from seats before your seniors when they approach, and not to behave ill toward your parents"
+      ],
+      "reasoning": "Social custom mandated that youths surrender their seats to elders, indicating a lack of right to physical space when a senior is present.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general rule governing the behavior of the younger population toward the older.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adultery punishment",
+      "rule_category": "Vulnerability to corporal punishment",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§35] But what if he should suffer the radish through obeying you, and be depillated with hot ashes? What argument will he be able to state, to prove that he is not a blackguard?"
+      ],
+      "reasoning": "The text refers to the 'rhaphanidosis' and depilation with hot ashes, which were standard legal/customary punishments for men caught in adultery.",
+      "specificity": 5,
+      "specificity_reasoning": "This targeting is specific to men who have reached adult status and engage in specific extra-marital behavior, though the group 'Men' is general.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Sophist legal training",
+      "rule_category": "Access to judicial protection",
+      "group": "Learned individuals",
+      "group_category": "Occupation",
+      "resource": "Self-defense in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§35] For I have been called among the deep thinkers the worse cause on this very account, that I first contrived how to speak against both law and justice; and this art is worth more than ten thousand staters, that one should choose the worse cause, and nevertheless be victorious."
+      ],
+      "reasoning": "The 'Unjust Cause' represents the new education that grants the ability to manipulate legal proceedings to win cases regardless of actual guilt, providing a superior legal defense.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies only to those wealthy enough or situated to receive specialized rhetorical training.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Creditor legal deposit right",
+      "rule_category": "Access to judicial protection",
+      "group": "Creditors",
+      "group_category": "Wealth",
+      "resource": "Right to initiate debt litigation via deposit",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] For every one to whom I happen to be indebted, swears, and says he will ruin and destroy me, having made his deposits against me; though I only ask what is moderate and just—My good sir, one part don’t take just now; the other part put off I pray; and the other part remit; they say that thus they will never get back their money, but abuse me, as I am unjust, and say they will go to law with me."
+      ],
+      "reasoning": "In Athenian debt law, creditors had the right to initiate a lawsuit by making a financial deposit (prytaneia) with the court on a specific day of the month. This gave them the legal mechanism to compel payment or recover property from debtors.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual regardless of citizenship who has lent money, though it is a specific legal procedure for a subset of the population (lenders).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Solon's Two-Day Summons",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Citizenship",
+      "resource": "Right to a pre-trial compromise period",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] Phidippides: He therefore made the summons for two days, for the Old and New, that the deposits might be made on the first of the month. ... In order, my good sir, that the defendants, being present a day before, might compromise the matter of their own accord; but if not, that they might be worried on the morning of the new moon."
+      ],
+      "reasoning": "The text describes a legal rule attributed to Solon where summons were spread over two days ('the Old and New'). The explicit purpose was to provide defendants a specific window of time to settle out of court before the formal legal process and associated fees/worry commenced on the new moon.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all defendants in civil/debt cases in the Athenian legal system.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Magistrate deposit receipt timing",
+      "rule_category": "Access to judicial protection",
+      "group": "Creditors",
+      "group_category": "Wealth",
+      "resource": "Right to early processing of legal deposits",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] Strepsiades: Why, then, do the magistrates not receive the deposits on the new moon, but on the Old and New? Phidippides: They seem to me to do what the forestallers do: in order that they may appreciate the deposits as soon as possible, on this account they have the first pick by one day."
+      ],
+      "reasoning": "The text identifies a customary practice where magistrates accepted court deposits a day earlier than the official start of the month, allowing creditors early access to the judicial machinery.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific procedural timing rule affecting the interaction between magistrates and litigating creditors.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Debt recovery via witness",
+      "rule_category": "Legal procedure",
+      "group": "Creditors",
+      "group_category": "Wealth",
+      "resource": "Right to compel testimony for debt",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] Pasias: since I am now dragging you to be a witness, for the sake of my own money; and further, in addition to this, I shall become an enemy to my fellow-tribesman. But never, while I live, will I disgrace my country, but will summon Strepsiades."
+      ],
+      "reasoning": "Creditors in Athens had the right to 'drag' or compel bystanders to act as summon-witnesses (kleteres) to formally serve a summons on a debtor, an essential step in securing legal standing for a debt claim.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those engaged in the process of serving a legal summons for debt recovery.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Creditor legal summons",
+      "rule_category": "Access to judicial protection",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to summon debtors to court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] But never, while I live, will I disgrace my country, but will summon Strepsiades. [...] For the twelve minae, which you received when you were buying the dapple-gray horse."
+      ],
+      "reasoning": "The character Pasias, a creditor, exercises his legal right to bring a summons-witness and formally call a debtor to court to recover property, demonstrating established legal procedure for wealth protection.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual engaging in private lending or commerce, which was a common part of Athenian civic life.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Court deposit requirement",
+      "rule_category": "Legal procedure",
+      "group": "Plaintiffs",
+      "group_category": "Citizenship",
+      "resource": "Right to litigate through financial deposit",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] I will depart; and be assured of this, that I will make deposit against you, or may I live no longer!"
+      ],
+      "reasoning": "The text refers to the 'prytaneia' or legal deposit required in Athenian law to initiate certain types of lawsuits, acting as a formal mechanism for legal recourse.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule applies specifically to those initiating certain civil lawsuits, a distinct subset of the citizen population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Interest on loans",
+      "rule_category": "Grant of economic privilege",
+      "group": "Lenders",
+      "group_category": "Wealth",
+      "resource": "Right to collect interest",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] Well, if you are in want, pay me the interest of my money. [...] Most assuredly the money is always becoming more and more every month and every day as the time slips away."
+      ],
+      "reasoning": "The dialogue confirms that lenders have a recognized customary or legal right to expect their capital to increase through interest over time.",
+      "specificity": 4,
+      "specificity_reasoning": "Lending with interest was a standard economic practice for those with surplus capital.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Paternal corporal punishment",
+      "rule_category": "Discipline and control",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§50] Did you beat me when I was a boy? Strepsiades. I did, through good-will and concern for you. [...] You will say that it is ordained by law that this should be the lot of boys."
+      ],
+      "reasoning": "The text explicitly states that it is 'ordained by law' (or at least by strong social norm) that boys can be beaten by their fathers for the purpose of discipline.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all male children within the family structure.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Old age exemption",
+      "rule_category": "Exemption from punishment",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Protection from corporal punishment by descendants",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] It is nowhere ordained by law that a father should suffer this. [...] Why then is it less lawful for me also in turn to propose henceforth a new law for the sons, that they should beat their fathers in turn?"
+      ],
+      "reasoning": "The traditional law and custom of Athens, as stated by Strepsiades and challenged by Phidippides, protected fathers from being physically assaulted by their children.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general societal rule governing the relationship between all fathers and sons.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adult male immunity",
+      "rule_category": "Protection from harm",
+      "group": "Free adult men",
+      "group_category": [
+        "Freedom status",
+        "Age"
+      ],
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] For why ought your body to be exempt from blows and mine not? And yet I too was born free."
+      ],
+      "reasoning": "Phidippides questions why he (now an adult/youth) is exempt from blows while he was not as a boy, linking the 'exemption from blows' to his status as 'born free' and adult status.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad category of free citizens beyond childhood.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Parental right to corporal punishment",
+      "rule_category": "Access to disciplinary authority",
+      "group": "Fathers",
+      "group_category": "Age",
+      "resource": "Right to administer corporal punishment to children",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§57] Did you beat me when I was a boy? Strepsiades. I did, through good-will and concern for you. ... Since I am justly entitled to chastise you; and you to chastise your son, if you should have one."
+      ],
+      "reasoning": "The text establishes that fathers have a recognized, customary right to beat their sons for the purpose of education and discipline ('good-will'), a right that Phidippides acknowledges as an established norm even while attempting to subvert it.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all fathers within the citizen body, a significant but specific demographic.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Boyhood vulnerability to blows",
+      "rule_category": "Denial of bodily integrity",
+      "group": "Minors",
+      "group_category": "Age",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§57] For why ought your body to be exempt from blows and mine not? And yet I too was born free. The boys weep, and do you not think it is right that a father should weep? You will say that it is ordained by law that this should be the lot of boys."
+      ],
+      "reasoning": "Phidippides explicitly references a law or social ordinance stating that being beaten is 'the lot of boys,' indicating that minors lack the protection from corporal punishment afforded to adult free men.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all male children within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly protection from battery",
+      "rule_category": "Access to bodily integrity",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Protection from corporal punishment by children",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§57] Strepsiades. It is nowhere ordained by law that a father should suffer this. ... Phidippides. Why then is it less lawful for me also in turn to propose henceforth a new law for the sons, that they should beat their fathers in turn?"
+      ],
+      "reasoning": "The dialogue confirms that under existing Athenian law and custom, it is illegal/unlawful for a son to beat his father. Strepsiades appeals to this established lack of a law permitting such violence.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to the elderly/parents in relation to their adult children.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Free-born status protection",
+      "rule_category": "Access to bodily integrity",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from arbitrary physical violence",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§57] For why ought your body to be exempt from blows and mine not? And yet I too was born free."
+      ],
+      "reasoning": "Phidippides' argument hinges on the fact that as a 'free-born' person, he should share the same bodily exemptions from violence as his father, implying that free status (citizenship/freedom) normally carries protections against battery that slaves or non-free persons would not have.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad category of all free-born male citizens.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Maternal protection from battery",
+      "rule_category": "Access to bodily integrity",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Protection from corporal punishment by children",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§57] Phidippides. I will beat my mother, just as I have you. Strepsiades. What do you say? What do you say? This other, again, is a greater wickedness."
+      ],
+      "reasoning": "Strepsiades' extreme reaction to the idea of beating a mother, calling it a 'greater wickedness,' identifies a strong social and religious taboo (and likely legal prohibition) protecting mothers from physical assault by their sons.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to mothers/women within the family structure.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Right to legal redress",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to bring an action and prosecute",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§59] And become my adviser, whether I shall bring an action and prosecute them, or whatever you think. You advise me rightly, not permitting me to get up a lawsuit, but as soon as possible to set fire to the house..."
+      ],
+      "reasoning": "Strepsiades considers 'bringing an action' as the standard legal recourse for being deceived or defrauded, reflecting the right of Athenian citizens to use the court system for private grievances.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general right available to all adult male citizens.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 12,
+  "_file_id": "tlg0019.tlg003.perseus-eng2",
+  "_input_tokens": 88974,
+  "_output_tokens": 14015,
+  "_model": "google/gemini-3-flash-preview"
+}

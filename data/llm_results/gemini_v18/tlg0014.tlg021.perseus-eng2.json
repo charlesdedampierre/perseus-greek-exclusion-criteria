@@ -1,0 +1,895 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Post-festival assembly judicial review",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to lodge complaints for festival-related offenses",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] The Law The Prytanes shall call a meeting of the Assembly in the temple of Dionysus on the day next after the Pandia. At this meeting they shall first deal with religious matters; next they shall lay before it the plaints lodged concerning the procession or the contests at the Dionysia, namely such as have not been shared."
+      ],
+      "reasoning": "The law specifically mandates a session where citizens can bring grievances regarding illegal acts or violence committed during the religious festivals, providing a specific legal mechanism for redress.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any citizen participating in or affected by the major state festivals, which involves a large portion of the Athenian population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Festival debt collection moratorium",
+      "rule_category": "Grant of economic privilege",
+      "group": "Debtors",
+      "group_category": "Wealth",
+      "resource": "Protection from property seizure during festivals",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] The Law Evegorus proposed that [...] it shall not be lawful on those days to distrain or to seize any debtors’ property, even if they are defaulters."
+      ],
+      "reasoning": "The law of Evegorus explicitly forbids the seizure of property or the exaction of debts during specific religious festivals, granting debtors temporary immunity from legal execution.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule targets a specific sub-group of the population (debtors) during specific times of the year.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Chorus-master person sacrosanctity",
+      "rule_category": "Protection from bodily harm",
+      "group": "Chorus-masters",
+      "group_category": "Occupation",
+      "resource": "Protection from assault during official duties",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] So far from thinking it right that any man’s person should be outraged on those days, or that any equipment should be damaged which a citizen provides out of his private means for a public service, you have even conceded that what by law and by verdict belongs to the winner of a suit should remain the property of the loser and original owner, at any rate during the festival."
+      ],
+      "reasoning": "The text highlights that because chorus-masters are performing a public service (liturgy) and providing equipment out of private means, they and their equipment are protected by the laws of the festival from outrage or damage.",
+      "specificity": 8,
+      "specificity_reasoning": "Chorus-masters are a very small, wealthy elite group appointed or volunteering to fund specific festival activities.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military service exemption",
+      "rule_category": "Grant of economic privilege",
+      "group": "Choristers",
+      "group_category": "Occupation",
+      "resource": "Exemption from military service during festivals",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Now the trouble that he caused by opposing the exemption of our chorus from military service, or by putting himself forward as overseer at the Dionysia and demanding election, these and other similar annoyances I will pass over in silence."
+      ],
+      "reasoning": "The text mentions an exemption for the chorus members from military service, which Meidias attempted to oppose, indicating a standard legal privilege for those performing in state festivals.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies only to the specific citizens and residents selected to perform in the state choruses for the duration of the festival events.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sacrosanctity of festival apparel",
+      "rule_category": "Protection of property",
+      "group": "Chorus-masters",
+      "group_category": "Occupation",
+      "resource": "Legal protection of ritual equipment",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] The sacred apparel—for all apparel provided for use at a festival I regard as being sacred until after it has been used—and the golden crowns,which I ordered for the decoration of the chorus, he plotted to destroy,men of Athens, by a nocturnal raid on the premises of my goldsmith."
+      ],
+      "reasoning": "Items commissioned for use in the state festivals are regarded as 'sacred' and protected by law; destroying them is treated as a higher offense than simple property damage.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule protects the specific religious and material assets managed by individuals performing high-level civic duties.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Tribal prize eligibility",
+      "rule_category": "Access to public resources",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to fair competition for tribal prizes",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] But since Meidias bribed the umpires and so robbed my tribe unfairly of the prize,",
+        "[§18] So after he had already corrupted the umpires in the men’s contest, he put the cap, as it were, on all his previous acts of wantonness by two outrages: he assaulted my person, and he was chiefly responsible for preventing my tribe, which was winning, from gaining the prize."
+      ],
+      "reasoning": "The Athenian tribes competed for prizes at festivals. Corrupting this process is a violation of the tribe's right to receive the honors and material rewards associated with victory.",
+      "specificity": 3,
+      "specificity_reasoning": "While the prize goes to a tribe, it affects the collective body of citizens organized into those tribes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Athenian prosecutorial eligibility",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to bring a public indictment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] If anyone assaults any child or woman or man, whether free or slave, or commits any unlawful act against anyone of these, any Athenian citizen who desires so to do, being qualified, may indict him before the Judges"
+      ],
+      "reasoning": "The law explicitly grants the right to initiate a public action (graphē) for assault to any Athenian citizen, regardless of whether they were the victim, provided they are 'qualified' (have not lost their civic rights).",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the entire body of enfranchised male citizens in Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Enhanced magistrate protection",
+      "rule_category": "Protection from bodily harm",
+      "group": "Judges",
+      "group_category": "Occupation",
+      "resource": "Protection from assault while in office",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] Therefore if a man is guilty of assault or slander against anyone of them in his private capacity, he will stand his trial on an indictment for assault or in a suit for slander; but if he assails him as judge, he will incur total disfranchisement."
+      ],
+      "reasoning": "Assaulting a judge while they are acting in their official capacity carries the severe penalty of 'total disfranchisement' (atimia), a much harsher consequence than the fines or damages associated with assaulting a private citizen.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a specific group of seasonal or sitting officials during their term of service.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Archon's physical inviolability",
+      "rule_category": "Protection from bodily harm",
+      "group": "Archons",
+      "group_category": "Occupation",
+      "resource": "Protection from assault while wearing the crown",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] In the same way again, if you strike or abuse the Archon when wearing his crown, you are disfranchised; but if you assault him as a private citizen, you are liable to a private suit."
+      ],
+      "reasoning": "The Archon is granted special legal immunity from physical or verbal abuse while wearing his crown (the symbol of his office), with violations leading to loss of citizenship rights.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies to one of the highest individual offices in the Athenian state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Dionysia festival legal protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Chorus-masters",
+      "group_category": "Occupation",
+      "resource": "Enhanced protection from assault during festivals",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§34] but if all his outrages are shown to have been aimed at your chorus-master during the holy days of the festival, it is right that he should face public resentment and pay a public penalty. [§35] But it was not sufficient, and the proof of this is that you made a law to protect the sanctity of the god during the Holy Month."
+      ],
+      "reasoning": "Citizens serving as chorus-masters during the Dionysia are protected by specific laws that elevate an assault from a private matter to a public crime (impiety/profaning a festival), allowing for public prosecution and state-enforced penalties.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to citizens appointed to specific liturgical roles during a fixed religious timeframe.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave protection from assault",
+      "rule_category": "Protection from bodily harm",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from personal outrage and assault",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] Indeed he went to such extreme lengths that even if a slave was assaulted, he granted him the same right of bringing a public action. [§47] If anyone assaults any child or woman or man, whether free or slave, or commits any unlawful act against anyone of these, any Athenian citizen who desires so to do, being qualified, may indict him before the Judges"
+      ],
+      "reasoning": "Athenian law allowed third-party citizens to bring a public indictment (hubris) against those who assaulted slaves, treating the act itself as a public wrong regardless of the victim's rank.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule covers a very large segment of the population (the enslaved).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Willful damage penalty",
+      "rule_category": "Grant of economic privilege",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to double restitution for willful damage",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] First then, all the laws of damage—to take these first—order the offender to pay the amount twice over if the damage is willful, but only once if it is involuntary."
+      ],
+      "reasoning": "The law distinguishes between intent, granting the victim double the value of the damage if the act was intentional, rather than simple restoration.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule of Athenian tort law affecting any citizen with property.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prosecutorial liability for failure",
+      "rule_category": "Legal procedure",
+      "group": "Prosecutors",
+      "group_category": "Legal status",
+      "resource": "Exemption from fines for dropping or losing suits",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§47] In all cases where an indictment is entered, as the law directs, if anyone fails to prosecute, or after prosecution fails to obtain one fifth of the votes of the jury, he shall pay a thousand drachmas to the Treasury."
+      ],
+      "reasoning": "To prevent frivolous or malicious litigation, the law imposes a heavy fine (1000 drachmas) on citizens who start a public action but do not follow through or fail to win a minimum percentage of the jury's support.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any citizen who chooses to engage the public legal system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Victim's fine exclusion",
+      "rule_category": "Legal standing",
+      "group": "Assault victims",
+      "group_category": "Legal status",
+      "resource": "Right to receive fines from public assault actions",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§45] On this principle, for the actual assault the law grants everyone the right to prosecute, but makes over the whole of the fine to the State. The legislator considered that [...] his punishment was sufficient compensation for the victim, who ought not to make money for himself out of such wrongs."
+      ],
+      "reasoning": "In cases of 'hubris' (outrageous assault) prosecuted as a public action, the fine goes to the treasury of the state rather than the individual victim.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual seeking redress through 'graphē hubreōs'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave festival participation",
+      "rule_category": "Religious access",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to participate in public religious festivals",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§53] To Dionysus pay public sacrifices and mix a bowl of wine and set up dances; to Apollo the Averter sacrifice an ox and wear garlands, both free men and slaves, and observe one day of rest"
+      ],
+      "reasoning": "The oracle from Dodona specifically mandates that slaves, alongside free men, are to wear garlands and participate in the ritual activities, indicating a sanctioned inclusion in certain civic-religious events.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire slave population during specific religious festivals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave labor exemption",
+      "rule_category": "Economic privilege",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to a day of rest from labor",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§53] to Apollo the Averter sacrifice an ox and wear garlands, both free men and slaves, and observe one day of rest"
+      ],
+      "reasoning": "The text explicitly identifies a 'day of rest' that applies specifically to both free men and slaves during the festival of Apollo the Averter.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule covers all slaves within the Athenian territory for the duration of the festival.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Alien contest exclusion",
+      "rule_category": "Citizenship-based exclusion",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to participate in choral contests",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§56] Moreover, you are aware that, although anxious to exclude aliens from the contest, you do not grant unlimited right to any chorus-master to summon for scrutiny any member of a chorus"
+      ],
+      "reasoning": "Demosthenes notes that the city is 'anxious to exclude aliens from the contest,' confirming that foreigners (non-citizens) are generally barred from competing in these civic-religious festivals.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all non-citizens residing in or visiting Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Chorus member protection",
+      "rule_category": "Legal protection",
+      "group": "Chorus members",
+      "group_category": "Occupation",
+      "resource": "Protection from arbitrary legal summons during festivals",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§56] if he summons him, he is fined fifty drachmas, and a thousand drachmas if he orders him to sit among the spectators. What is the object? To protect the crowned official, who is doing public service to the god, from being maliciously summoned or annoyed or insulted on that day."
+      ],
+      "reasoning": "Law protects those performing in the chorus from being removed or harassed by rival chorus-masters through legal summons (proklesis) on the day of the festival, imposing heavy fines on violators.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies only to the specific subset of the population currently serving as chorus members or masters during a religious festival.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Athenian citizen bodily integrity",
+      "rule_category": "Protection from bodily harm",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from corporal assault (hubris)",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§72] To be struck is not the serious thing for a free man, serious though it is, but to be struck in wanton insolence.",
+        "[§76] no one who wantonly assaults and outrages another should be punished by the victim himself in hot blood, but must be brought into your court, because it is you who confirm and uphold the protection granted by the laws to those who are injured."
+      ],
+      "reasoning": "The text distinguishes between a simple blow and 'wanton insolence' (hubris) against a free man/citizen, asserting that the law provides a concrete mechanism (the courts) for protection and redress for bodily integrity.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general protection afforded to all free citizens within the legal framework of Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Draft dodger exclusion",
+      "rule_category": "Political/Legal exclusion",
+      "group": "Military deserters",
+      "group_category": "Occupation",
+      "resource": "Full legal standing and freedom from public debarment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§58] There is, for instance, Sannio, the trainer of the tragic choruses, who was convicted of shirking military service and so found himself in trouble.",
+        "[§59] After that misfortune he was hired by a chorus-master... rival masters were indignant and threatened to debar him"
+      ],
+      "reasoning": "A person convicted of shirking military service (lipotaxion) loses certain standing, allowing others to legally debar or threaten them from public roles like chorus training, as they are considered to be 'in misfortune' (atimia).",
+      "specificity": 7,
+      "specificity_reasoning": "This applies only to the specific group of individuals who have been formally convicted of military crimes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Litigation by proxy challenge",
+      "rule_category": "Legal maneuver restriction",
+      "group": "Orphans",
+      "group_category": "Age",
+      "resource": "Right to pursue inheritance claims without interference",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§78] When I brought my action against my guardians for the recovery of my patrimony, being a mere lad... Meidias and his brother suddenly burst into my house and challenged me to take over their trierarchy.",
+        "[§79] from words they proceeded to deeds, and they were going to drop the lawsuits, claiming them as their own, to oblige my guardians."
+      ],
+      "reasoning": "In Athenian law, a challenge to an exchange of property (antidosis) via a trierarchy challenge could be used to seize control of a person's pending lawsuits. Demosthenes, as a 'mere lad' (orphan/minor seeking patrimony), was vulnerable to this tactic, which would allow his opponents to drop his suits against his guardians.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific sub-set of the population (orphans/minors with inheritance suits) but represents a known legal mechanism in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Arbitrator's finality of judgment",
+      "rule_category": "Access to judicial protection",
+      "group": "Legal litigants",
+      "group_category": "Citizenship",
+      "resource": "Right to finality in private arbitration",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§94] But when they have chosen by mutual agreement, they shall abide by his decisions and shall not transfer the same charges from him to another court, but the judgements of the arbitrator shall be final."
+      ],
+      "reasoning": "The text explicitly quotes the law stating that when citizens choose an arbitrator for private contracts, his decision is legally binding and final, preventing recursive litigation.",
+      "specificity": 2,
+      "specificity_reasoning": "This law applies to any citizen involved in a private contract dispute, a very broad category.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Default judgment liability",
+      "rule_category": "Legal procedure",
+      "group": "Defendants",
+      "group_category": "Citizenship",
+      "resource": "Protection from judgment in absentia",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§84] as I continued to refuse and Meidias did not appear in court, and it was getting late, he gave his decision against him."
+      ],
+      "reasoning": "If a defendant fails to appear before an arbitrator on the appointed day after all legal delays are exhausted, the arbitrator is authorized and required to issue a judgment of guilty by default.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule of Athenian legal procedure affecting any defendant.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Disfranchisement for arbitrator misconduct",
+      "rule_category": "Loss of civic status",
+      "group": "Public arbitrators",
+      "group_category": "Occupation",
+      "resource": "Retention of civic rights (Atimia)",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§87] he denounces Strato in his absence and in the absence of witnesses, and gets him struck off the roll of arbitrators and disfranchised.",
+        "[§95] he stands silent, stripped not only of all our common privileges, but also of the right to speak or complain; he is not even allowed to tell you whether he has suffered justly or unjustly."
+      ],
+      "reasoning": "An arbitrator who is successfully denounced for procedural misconduct or unfairness can be 'disfranchised' (atimia), resulting in the total loss of civic rights including the right to speak in court or assembly.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to citizens serving in the capacity of public arbitrators.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prosecutorial follow-through requirement",
+      "rule_category": "Legal obligation",
+      "group": "Public accusers",
+      "group_category": "Citizenship",
+      "resource": "Right to maintain civic standing after bringing charges",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§103] because Euctemon, having disfranchised himself by failing to follow up the charge, has given me all the satisfaction that I require."
+      ],
+      "reasoning": "In Athenian law, a prosecutor who brings a public indictment (like desertion) but fails to follow through to trial faces automatic penalties, which in this case included partial or total disfranchisement.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any citizen who initiates a public legal action (graphe).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military service obligation",
+      "rule_category": "Citizenship duty",
+      "group": "Adult male citizens",
+      "group_category": "Age",
+      "resource": "Protection from charges of desertion",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§103] Euctemon of the Lusian deme has indicted Demosthenes of the Paeanian deme for desertion of his post."
+      ],
+      "reasoning": "The text mentions a specific legal charge ('desertion of his post') that can be brought against citizens, implying a mandatory legal obligation to serve in military campaigns at the proper age.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all male citizens of military age.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Anti-corruption bribery prohibition",
+      "rule_category": "Prevention of judicial corruption",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from corrupted legal indictments",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§113] If any Athenian accepts a bribe from another, or himself offers it to another, or corrupts anyone by promises, to the detriment of the people in general, or of any individual citizen, by any means or device whatsoever, he shall be disfranchised together with his children, and his property shall be confiscated."
+      ],
+      "reasoning": "The law explicitly forbids bribery intended to harm citizens or the state, providing a legal shield against manufactured or bought prosecutions.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies broadly to all Athenian citizens and protects any individual citizen from being the target of a bribed indictment.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Bribery disenfranchisement penalty",
+      "rule_category": "Loss of citizenship rights",
+      "group": "Bribers",
+      "group_category": "Citizens",
+      "resource": "Citizenship status and inheritance",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§113] If any Athenian accepts a bribe from another, or himself offers it to another, or corrupts anyone by promises... he shall be disfranchised together with his children, and his property shall be confiscated."
+      ],
+      "reasoning": "The text cites a specific statute where committing bribery leads to the total loss of civic rights (atimia) for the offender and their descendants, as well as asset forfeiture.",
+      "specificity": 4,
+      "specificity_reasoning": "While the category 'bribers' is behavioral, the text frames this as a formal legal status of disenfranchisement (atimia) that extends to the immutable group of the offender's children.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Wealth-based judicial acceleration",
+      "rule_category": "Grant of legal privilege",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Control over trial timing",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§112] The rich can choose their own time for facing a jury, and their crimes are stale and cold when they are dished up before you, but if any of the rest of us is in trouble, he is brought into court while all is fresh."
+      ],
+      "reasoning": "Demosthenes points to a customary or systemic advantage where wealthy litigants can delay proceedings to their benefit, whereas poorer citizens are forced into immediate trials.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes a systemic stratification affecting the wealthy class versus the general populace in legal proceedings.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Wealth-based litigation support",
+      "rule_category": "Grant of legal privilege",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Access to professional legal counsel",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§112] The rich have witnesses and counsel in readiness, all primed against us; but, as you see, my witnesses are some of them unwilling even to bear testimony to the truth."
+      ],
+      "reasoning": "The text identifies a disparity where wealth allows for the 'priming' of witnesses and the hiring of professional advocates, a resource less accessible to the non-wealthy.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the socio-economic elite within the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection of cultic leadership",
+      "rule_category": "Access to religious office",
+      "group": "Citizens under indictment",
+      "group_category": "Citizens",
+      "resource": "Right to perform state sacrifices and embassies",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§114-115] after accusing me of murder and bringing that grave charge against me, he suffered me to conduct initiatory rites and sacrifices for the Council, and to inaugurate the victims on behalf of you and all the State; he suffered me as head of the Sacred Embassy to lead it in the name of the city to the Nemean shrine of Zeus"
+      ],
+      "reasoning": "Demosthenes argues that even under a murder charge, he was legally permitted to fulfill high-level religious duties, implying that mere accusation does not result in immediate suspension from sacred offices.",
+      "specificity": 5,
+      "specificity_reasoning": "This concerns citizens who hold religious or civic appointments but are concurrently facing legal charges.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Right of self-defence",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right of free speech and legal redress",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§124] It must not be supposed that the man who by intimidation tries to debar any citizen from obtaining reparation for his wrongs is doing less than robbing us of our liberties and of our right of free speech."
+      ],
+      "reasoning": "Demosthenes characterizes the attempt to intimidate a citizen out of a lawsuit as a violation of the fundamental Athenian right to 'reparation' and 'free speech' (parrhesia).",
+      "specificity": 1,
+      "specificity_reasoning": "This refers to the core rights of the entire citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial torture of slaves",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from torture during testimony",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§147] Another story is that he imprisoned the painter Agatharchus. Yes, but he had caught him in an act of trespass, or so we are told; so that it is unfair to blame him for that. He was one of the mutilators of the Hermae. All acts of sacrilege, I suppose, ought to excite the same indignation, but is not complete destruction of sacred things just as sacrilegious as their mutilation? Well, that is what Meidias has been convicted of."
+      ],
+      "reasoning": "While the passage discusses the painter Agatharchus and sacrilege, the broader legal context of the speech (and the reference to Agatharchus's imprisonment without trial) reflects the Athenian standard that non-citizens and slaves lacked the bodily protections afforded to citizens in legal disputes.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the entire class of enslaved persons within the legal system.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Liturgical expenditure exemptions",
+      "rule_category": "Grant of economic privilege",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Exemption from subsequent public services",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§155] After this the State provides the crews and furnishes the tackle; so that some of them succeed in really spending nothing at all and by pretending to have performed one public service enjoy exemption from the rest."
+      ],
+      "reasoning": "Demosthenes describes a loophole or rule where performing one 'trierarchy' (public service) allows a citizen to claim exemption from other financial burdens imposed by the state.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to the 'Twelve Hundred', the wealthiest tier of Athenian citizens responsible for funding the navy.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Citizen protection from insolence",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from physical assault and hubris",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§143] My object, men of Athens, is that you may know and feel that there is not, and never will be, anything—not birth, not wealth, not power—that you, the great mass of citizens, ought to tolerate, if it is coupled with insolence.",
+        "[§146] They made him a fugitive and an outlaw... because they deemed any involuntary suffering more honorable than a voluntary submission to the tyranny of insolence."
+      ],
+      "reasoning": "The text establishes that the Athenian legal and social order is designed to protect the 'mass of citizens' from the 'insolence' (hubris) of the powerful, regardless of the offender's wealth or lineage.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a foundational rule affecting all citizens of the state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Tribal and Council protection",
+      "rule_category": "Legal standing",
+      "group": "Political bodies",
+      "group_category": "Citizenship",
+      "resource": "Right to bring group-based legal action",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§131] ...unless he could affront a whole tribe or the Council or some class of citizens and harass vast multitudes of you at once, he felt that life was really not worth living."
+      ],
+      "reasoning": "The text implies that when an individual 'affronts' a collective body like a Tribe or the Council, the society recognizes this as a specific category of legal/civic injury that warrants collective punishment.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to institutional groupings within the citizen body.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Customs confiscation for soldiers",
+      "rule_category": "Labor control",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Retention of luxury goods during expedition",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§133] ...taking with you your shawls and goblets and wine-jars, which were confiscated by the customs?"
+      ],
+      "reasoning": "The text indicates a rule or practice where non-essential luxury items carried by a soldier (even a wealthy one) on a military expedition were subject to confiscation by customs officials.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to citizens serving in a specific military capacity (cavalry/infantry on expedition).",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Citizen collective strength",
+      "rule_category": "Access to judicial protection",
+      "group": "Poor citizens",
+      "group_category": "Wealth",
+      "resource": "Right to collective legal redress",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§140] All this, I expect, is alarming for the rest of you as individuals, depending each upon his own resources; and that is why you band yourselves together, so that when you find yourselves individually inferior to others, whether in wealth or in friends or in any other respect, you may together prove stronger than any one of your enemies"
+      ],
+      "reasoning": "The passage describes a structural rule of the Athenian democracy: citizens who lack individual wealth or power (resources) are granted strength through the collective action of the jury and assembly to check the wealthy.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to the majority of the citizen population who are not part of the elite.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Liturgical wealth assessment",
+      "rule_category": "Obligation of public duty",
+      "group": "Heirs to large estates",
+      "group_category": "Wealth",
+      "resource": "Right to defer taxes until citizenship scrutiny",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§157] I was chairman of one of the tax-syndicates for ten years, contributing the same share as Phormio, Lysitheides, Callaeschrus, and the richest citizens, not from my actual property, of which my guardians had robbed me, but from the estimated wealth which my father had left and which I was entitled to inherit when I had passed the scrutiny for citizenship."
+      ],
+      "reasoning": "Athenian law required those inheriting significant estates to contribute to tax-syndicates (proeisphora) based on the estimated value of the inheritance, even before they formally passed the scrutiny (dokimasia) to exercise full citizenship rights.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to a subset of wealthy minors/young adults entering the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Trierarchic service exemption",
+      "rule_category": "Military service reward",
+      "group": "Trierarchs",
+      "group_category": "Wealth",
+      "resource": "Exemption from cavalry service",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§166] Unable in any other way to get himself exempt from service with the cavalry, Meidias has invented this new-fangled cavalry-collectorship."
+      ],
+      "reasoning": "The text implies that performing the trierarchy (funding a warship) was a recognized legal method to seek exemption from other demanding military duties like the cavalry.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies only to the wealthiest citizens capable of funding triremes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Protection from corporal touch",
+      "rule_category": "Protection from bodily harm",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from physical strikes by officials",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§179] The authority to bid the attendants remove me, but not to strike me yourself. If I still refuse to go, you may impose a fine; anything rather than touch me with your own hand; for the laws have taken every precaution to save a citizen from being insulted in his own person."
+      ],
+      "reasoning": "Athenian law strictly prohibited officials (like the Archon or his assessors) from personally striking citizens, limiting their enforcement power to fines or ordering attendants to move the person.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general protection afforded to all members of the citizen body.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave-like treatment prohibition",
+      "rule_category": "Protection from bodily harm",
+      "group": "Freemen",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment (leathern lash)",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§180] ...he carried a leathern lash in the procession and, being drunk, struck with it a personal enemy of his. It was thought that insolence, not drink, prompted the stroke, and that he seized the excuse of the procession and his own drunkenness to commit the offence of treating freemen like slaves."
+      ],
+      "reasoning": "The use of a whip/lash on a freeman was legally categorized as a capital offense (hubris) because it treated a free person as if they had the status of a slave, who could be corporally punished.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all free individuals within the society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Debtor jury exclusion",
+      "rule_category": "Legal standing restriction",
+      "group": "State debtors",
+      "group_category": "Wealth",
+      "resource": "Right to serve on a jury",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§182] Pyrrhus, men of Athens, one of the Eteobutadae, who was indicted for serving on a jury when he was in debt to the Treasury, was thought by some of you to deserve capital punishment, and he was convicted in your court and put to death."
+      ],
+      "reasoning": "Citizens who owed money to the public treasury lost their civic rights (atimia), including the right to serve as jurors; violating this was a capital offense.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to citizens who have specifically defaulted on state payments.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sacred festival protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Litigants",
+      "group_category": "Legal standing",
+      "resource": "Protection from arrest during holy days",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§175] First of all then, to begin with the most recent condemnation, the Assembly gave its verdict against Euandrus of Thespiae for profanation of the Mysteries on the charge of Menippus... [§176] He had won a commercial suit against Menippus, but... he had arrested him while he was staying here for the Mysteries. You condemned him for that alone."
+      ],
+      "reasoning": "Athenian law protected individuals (even those who lost lawsuits) from arrest or seizure during religious festivals; violating this 'sanctity' was considered profanation.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to anyone involved in legal disputes during specific festival windows.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Class-based judicial impartiality",
+      "rule_category": "Access to judicial protection",
+      "group": "Middle class citizens",
+      "group_category": "Wealth",
+      "resource": "Right to equal sentencing",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§183] Beware, Athenians, of bearing this testimony against yourselves, that if you detect a man of the middle class or a friend of the people committing an offence, you will neither pity nor reprieve him, but will punish him with death or disfranchisement, while you are ready to pardon the insolence of a rich man. Spare us that injustice, and show your indignation impartially against all offenders."
+      ],
+      "reasoning": "Demosthenes argues that the law should apply equally regardless of wealth, implying that middle-class citizens have a right to the same leniency or types of punishment as the wealthy, rather than being subject to harsher penalties like death or disfranchisement for the same offenses.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule concerns the general application of justice across broad economic strata of the citizenry.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Civic equality through laws",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Equal legal rights",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§188] The laws, Athenians, you have sworn to obey; through the laws you enjoy your equal rights; to the laws you owe every blessing that is yours—not to Meidias nor to the children of Meidias."
+      ],
+      "reasoning": "The text explicitly states that equal rights among the Athenian people are a product of the laws, which are the source of civic protection and benefits.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule describes the foundational status of all citizens under the law.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Trial immunity for service",
+      "rule_category": "Protection from bodily harm",
+      "group": "Public officials",
+      "group_category": "Occupation",
+      "resource": "Protection from assault during public service",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§189] Yet even if I were the most unscrupulous of that gang, I ought rather to be punished according to the laws than insulted in the performance of a public service."
+      ],
+      "reasoning": "The passage indicates a rule that even if a person (specifically an orator or official) is guilty of a crime, they are protected by law from being physically 'insulted' (assaulted/outraged) specifically while they are performing their public duties.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to citizens while they are engaged in official public roles or liturgies.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Property tax obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Retention of personal wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§203] Why, that is the sort of men you Athenians are. You do not serve abroad; you see no need to pay your property-tax. ... Do you think I am going to pay my property-tax and you spend the money?"
+      ],
+      "reasoning": "Referencing the 'eisphora', the text highlights the legal/customary obligation for wealthy citizens to pay a property tax to fund the state's military needs.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the segment of the population that meets the wealth threshold for the Athenian property tax.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Naval service obligation",
+      "rule_category": "Military service reward",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Freedom from mandatory naval service",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§203] Do you think I am going to fit out war-galleys and you decline to embark in them?"
+      ],
+      "reasoning": "The text identifies the expectation/obligation for citizens to personally serve on war-galleys (triremes) during times of conflict.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all able-bodied male citizens within the age of service.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Universal legal protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection afforded by the laws",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§205] [He] is prepared now to mount the platform and demand that I shall even forfeit my claim to that protection which the laws afford to all"
+      ],
+      "reasoning": "Demosthenes refers to the 'protection which the laws afford to all' as a standard civic entitlement that a powerful opponent is trying to subvert.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a statement regarding the universal application of law to all members of the political community.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Equal legal security",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Security provided by the laws",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§210] They have many advantages, which no one hinders them from enjoying; then they in their turn must not hinder us from enjoying the security which the laws provide as our common birthright."
+      ],
+      "reasoning": "The text identifies legal security as a 'common birthright' for the citizens (the 'us' in Demosthenes' appeal), asserting that even wealthy individuals cannot legally deprive ordinary citizens of this resource.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the entire body of Athenian citizens, encompassing a vast majority of the free population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Juror political authority",
+      "rule_category": "Grant of political power",
+      "group": "Jurors",
+      "group_category": "Citizens",
+      "resource": "Power and authority in state affairs",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§223] For if you would only examine and consider the question, what it is that gives you who serve on juries such power and authority in all state-affairs... it is due to no cause of that sort but simply to the strength of the laws."
+      ],
+      "reasoning": "Serving on a jury (dikastai) grants citizens specific legal and political authority over state affairs, a power derived from the laws rather than physical strength or age.",
+      "specificity": 4,
+      "specificity_reasoning": "While any citizen can be a juror, the rule specifically concerns those currently empaneled in the court system, a large but subset group of the citizenry.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from battery",
+      "rule_category": "Protection from bodily harm",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from being struck or insulted",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§221] Because in his heart he knows, and is confident, and has learned to trust the State, that no one shall seize or insult or strike him."
+      ],
+      "reasoning": "The author describes a societal norm/rule enforced by the state that guarantees a citizen can walk the streets without fear of physical assault (being struck or seized).",
+      "specificity": 2,
+      "specificity_reasoning": "The protection is described as a general right for any citizen walking home from the court.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from unredressed wrongs",
+      "rule_category": "Access to judicial protection",
+      "group": "Victims of assault",
+      "group_category": "Citizens",
+      "resource": "Right to judicial redress",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§220] But whenever a solitary victim fails to obtain redress, then each one of you must expect to be the next victim himself... Then neither must you leave me, Athenians, in this man’s power."
+      ],
+      "reasoning": "The text argues that the legal system is designed to provide 'redress' to individual victims of violence, and failing to provide it undermines the security of all citizens.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those who have suffered a wrong and are seeking satisfaction through the court system.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Wealth-based intercession limit",
+      "rule_category": "Denial of legal privilege",
+      "group": "Wealthy men",
+      "group_category": "Wealth",
+      "resource": "Right to bypass laws via personal influence",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§225] and no excuse—neither public services, nor pity, nor personal influence, nor forensic skill, nor anything else—must be devised whereby anyone who has transgressed the laws shall escape punishment."
+      ],
+      "reasoning": "Demosthenes explicitly argues against a customary rule where the wealthy use 'liturgies' (public services) or 'personal influence' to exempt themselves from legal punishment, asserting the law should override these status-based claims.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a specific elite class (the 'wealthy' and 'influential') within the citizen body.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 9,
+  "_file_id": "tlg0014.tlg021.perseus-eng2",
+  "_input_tokens": 69300,
+  "_output_tokens": 13356,
+  "_model": "google/gemini-3-flash-preview"
+}

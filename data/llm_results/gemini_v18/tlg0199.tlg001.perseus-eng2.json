@@ -1,0 +1,265 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Land allotment for settlers",
+      "rule_category": "Grant of economic privilege",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to land ownership",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] Minos came with a host of Cretans in fifty ships with flashing sterns. And by the will of Zeus Eukleios he subdued the deep-waisted maiden Dexithea, and left with her half of his people, battle-loving men, to whom he gave the craggy land as their share."
+      ],
+      "reasoning": "King Minos provides a specific portion of land ('their share') to his soldiers/men as a permanent settlement, establishing a rule where military service or royal affiliation leads to property rights in new territories.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific military expedition and its participants, which is a significant but defined group within the described society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Dynastic succession rights",
+      "rule_category": "Access to political succession",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to rule",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] And in the tenth month the bride with beautiful hair bore Euxantius, to be ruler over the glorious island daughters city cut deep by the sun's rays. From his (Euxantius'?) family descended Argeius."
+      ],
+      "reasoning": "The text identifies the birth of a son to a specific union (Minos and Dexithea) as the designated ruler, establishing that lineage and birth within the ruling family grant the resource of political power.",
+      "specificity": 8,
+      "specificity_reasoning": "Political succession rules apply only to a very small number of elite individuals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Self-inflicted death over slavery",
+      "rule_category": "Freedom preservation",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Protection from enslavement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] For indeed, once the ruler of horse-taming Lydia, Croesus—when Zeus was bringing about the decreed fate, and Sardis was being sacked by the Persian army—Croesus was protected by the god of the golden lyre, Apollo. When he had come to that unexpected day, Croesus had no intention of waiting any longer for the tears of slavery."
+      ],
+      "reasoning": "The text demonstrates that upon conquest, even high-ranking nobles (the King of Lydia) loses his freedom and faces enslavement ('tears of slavery'), unless he chooses death.",
+      "specificity": 9,
+      "specificity_reasoning": "This describes the specific fate of a defeated monarch and his family.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "War-captive female enslavement",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Freedom from enslavement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] The palace of Alyattes falls into ruins countless city the Pactolus whirling with [gold runs red with blood], women are brutally led out of the well-built halls."
+      ],
+      "reasoning": "The description of women being 'brutally led out' of their halls during the sack of a city indicates a societal rule/custom where conquered women are seized as slaves or captives.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the female population of a conquered city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical profession inheritance",
+      "rule_category": "Occupational access",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Access to the art of healing",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§1] those which Apollo, famed for the bow, bestowed on Pantheides: the art of healing, and friendly honor towards guests. With a good share of the Graces, and admired by many men, when he ended his life he left behind five greatly-praised sons, one of whom the son of Cronus seated on high has made a victor."
+      ],
+      "reasoning": "The text suggests that specific skills like 'the art of healing' are bestowed by gods onto fathers and passed down to sons as part of their 'excellence' and social standing.",
+      "specificity": 7,
+      "specificity_reasoning": "Relates to specific families/guilds of healers.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Monarchical authority",
+      "rule_category": "Grant of political power",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "The scepter of Zeus (sovereignty)",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] Every man who does not fatten himself with envy may praise a warlike man, a lover of horses, who has the scepter of Zeus, and a share of the violet-haired Muses."
+      ],
+      "reasoning": "Holding the 'scepter of Zeus' is a concrete symbol of the right to rule and exercise political authority, granted to specific individuals based on their status ('warlike man', 'lover of horses').",
+      "specificity": 9,
+      "specificity_reasoning": "Refers specifically to the sovereign/tyrant of Syracuse.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly political exclusion",
+      "rule_category": "Age-based political exclusion",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to physical youth/vitality for competition",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] It is not lawful for a man to bypass gray old age, and recover flourishing youth."
+      ],
+      "reasoning": "The text states it is 'not lawful' (themis/customary law) to regain youth, effectively barring older men from resources tied to physical excellence like athletic competition or peak military service.",
+      "specificity": 2,
+      "specificity_reasoning": "Old age is a state eventually reached by all who survive, making this a general societal condition.",
+      "confidence": 6
+    },
+    {
+      "rule_name": "Panhellenic athletic eligibility",
+      "rule_category": "Access to international competition",
+      "group": "Greeks",
+      "group_category": "Origin",
+      "resource": "Right to compete in Olympic games",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] Shining daughter of Time and Night, the fifty [months have brought] you, sixteenth day of the month at Olympia by the will of to judge the speed of swift feet and preeminence in strength of limbs among the Greeks."
+      ],
+      "reasoning": "The text explicitly identifies the competitors at the Olympic games as 'the Greeks,' implying that this specific ethnic/cultural group has the exclusive right to have their physical excellence judged at these panhellenic festivals.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the entire Greek population (free males) as a broad cultural category.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-group competition rights",
+      "rule_category": "Age-based athletic classification",
+      "group": "Boys",
+      "group_category": "Age",
+      "resource": "Right to compete in age-matched categories",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§8] I will make my boast, laying my hand on the earth— every debt of praise shines in the light of truth—no Greek, boy or man, has won more victories in his age-group."
+      ],
+      "reasoning": "The mention of victories specifically within an 'age-group' for both boys and men indicates a formal customary rule that protects younger competitors from competing against physically superior adults, granting them their own sphere of competition and honors.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all male youths participating in the panhellenic athletic system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Wealth-based social valuation",
+      "rule_category": "Economic status privilege",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Legal and social validity",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] I know also the great power of wealth, which makes even a useless man valuable."
+      ],
+      "reasoning": "The author identifies a concrete societal rule/norm where the possession of wealth can transform a 'useless' (likely meaning low-status or unskilled) individual into a 'valuable' one, implying that wealth grants a person standing they would not otherwise possess.",
+      "specificity": 2,
+      "specificity_reasoning": "Wealth is a broad category that affects a significant portion of the elite and aspiring classes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Male political succession",
+      "rule_category": "Access to political succession",
+      "group": "Younger brothers",
+      "group_category": "Lineage",
+      "resource": "Right to found and rule a city",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] ...the people entreated the sons of Abas that, since they had as their share a land rich in barley, the younger one should be the founder of Tiryns, before they fell under ruinous compulsion."
+      ],
+      "reasoning": "In the context of a civil dispute, the community intervenes to establish a rule of partition where even a younger son (Proetus) is granted the right to found and lead a city-state (Tiryns) as his share of the father's inheritance/power.",
+      "specificity": 8,
+      "specificity_reasoning": "This concerns the specific dynamics of royal succession and city-founding, which affects only high-lineage individuals.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Female ritual participation",
+      "rule_category": "Access to religious ritual",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to perform choruses and sacrifices",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] They built her a sanctuary and an altar right away, and stained it with the blood of sheep, and set up choruses of women."
+      ],
+      "reasoning": "The text describes the establishment of a cult as a historical/customary precedent where women are granted the specific religious right/duty to lead choruses at altars, a concrete civic role in Greek society.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to women as a gendered class within the religious framework of the city.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Panhellenic contest victor honors",
+      "rule_category": "Access to public honors",
+      "group": "Athletic victors",
+      "group_category": "Occupation",
+      "resource": "Right to public processions and conspicuous fame",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] the blossoms of glory-bringing Victory nurture for men golden, conspicuous fame throughout their lives—for a select few—and when the dark cloud of death covers them, the undying glory of their fine deed is left behind, secure in its destiny. You too have attained this at Nemea, son of Lampon; your hair crowned with garlands of flourishing blossoms, [you walk] the lofty streets of the city [of Aeacus, so that] your ancestral island [teems] with gentle-voiced victory processions, in which mortals delight"
+      ],
+      "reasoning": "The text describes the specific civic and material rewards (processions, public recognition, and lasting fame) granted to those who win in the panhellenic games, distinguishing them from the general populace.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to the 'select few' who win major international athletic competitions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maiden ritual participation",
+      "rule_category": "Access to religious rituals",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to lead victory songs and wear native decorations",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] And a proud maiden [sings the praises of your strength?] often lightly springing with her feet like a carefree fawn on the flowery [hills] with her far-famed [companions] who live nearby. The maidens wear garlands of crimson blossoms and rushes, the native decoration, and sing of your [child]"
+      ],
+      "reasoning": "The text identifies a specific social and religious role for unmarried women (maidens) in celebrating athletic victors through song and dance using traditional regalia.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a broad demographic category (young unmarried women) within the city-state.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Hospitable host recognition",
+      "rule_category": "Access to social praise",
+      "group": "Wealthy hosts",
+      "group_category": "Wealth",
+      "resource": "Right to public praise for hospitality",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] honor the splendor-loving hospitality which [you], Lampon, [have provided] for me; may you not regard [my gift for your son] as slight. And if it truly is flourishing Clio who has distilled this gift in my [mind], songs filled with words of delight will proclaim him to all the people."
+      ],
+      "reasoning": "The poet explicitly links the provision of material hospitality (proxenia/hospitality) to the right to have one's name and family proclaimed and honored publicly through choral poetry.",
+      "specificity": 6,
+      "specificity_reasoning": "While hospitality is a general value, the specific reward of an epinician ode is reserved for the wealthy elite who can afford to host poets.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elders' military exemption",
+      "rule_category": "Exemption from military duty",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Exemption from battle",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] The voice of the lyre and clear-sounding choruses do not harmonize with the deep griefs of battle, nor does the clang of clashing bronze with festivities. For every work of men [appropriateness] is the finest thing."
+      ],
+      "reasoning": "The author argues for 'appropriateness' (kairos) in human activities, implying that different life stages or social contexts dictate participation in either war or festival, a common Greek justification for age-based roles.",
+      "specificity": 3,
+      "specificity_reasoning": "The concept of appropriateness in roles applies broadly across the social structure based on age and status.",
+      "confidence": 6
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0199.tlg001.perseus-eng2",
+  "_input_tokens": 20764,
+  "_output_tokens": 3885,
+  "_model": "google/gemini-3-flash-preview"
+}

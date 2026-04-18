@@ -1,0 +1,891 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Gender",
+      "group": "Women",
+      "resource": "Protection from medical complications in illness",
+      "directionality": "LESS",
+      "verbatim": [
+        "Though many women fell ill, they were fewer than the men and less frequently died. But the great majority had difficult childbirth, and after giving birth they would fall ill, and these especially died, as did the daughter of Telebulus on the sixth day after delivery. [...] all to my knowledge had abortions if they chanced to fall ill when with child."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific heightened vulnerability and negative medical outcome (death/abortion) for women linked to the physiological states of childbirth and pregnancy during the epidemic.",
+      "confidence": 9,
+      "rule": "Maternal illness mortality and miscarriage"
+    },
+    {
+      "criteria": "Age",
+      "group": "Children",
+      "resource": "Protection from fatal disease",
+      "directionality": "LESS",
+      "verbatim": [
+        "From all the diseases some died, but the greatest number from these fevers, especially children—those just weaned, older children of eight or ten years, and those approaching puberty."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that the mortality rate of the described fevers was highest among the specific age group of children and adolescents.",
+      "confidence": 10,
+      "rule": "Juvenile vulnerability to epidemic fever"
+    },
+    {
+      "criteria": "Age",
+      "group": "Old people",
+      "resource": "Preservation of sensory and motor faculties",
+      "directionality": "LESS",
+      "verbatim": [
+        "Older people, and those whose natural heat is failing, have paralysis or raving or blindness."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule that advanced age determines the specific clinical manifestation of the disease as loss of motor control or sight, compared to younger victims.",
+      "confidence": 9,
+      "rule": "Geriatric disease-induced paralysis"
+    },
+    {
+      "criteria": "Occupation",
+      "group": "Athletes",
+      "resource": "Protection from epidemiological infection",
+      "directionality": "LESS",
+      "verbatim": [
+        "Many had swellings beside one ear, or both ears [...] The sufferers were youths, young men, and men in their prime, usually those who frequented the wrestling school and gymnasia."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies individuals associated with specific occupational/lifestyle spaces (the gymnasium/wrestling school) as the primary group losing their health to the 'parotitis' outbreak.",
+      "confidence": 8,
+      "rule": "Athlete susceptibility to ear swellings"
+    },
+    {
+      "criteria": "Freedom",
+      "group": "Slaves",
+      "resource": "Access to personalized medical monitoring",
+      "directionality": "LESS",
+      "verbatim": [
+        "Far otherwise was it with the servant of Phanagoras, who had none of these symptoms, and died. [...] the slave of Erato and Myllus, after copious hemorrhage, lapsed into dysentery. They recovered."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While treated, slaves are identified primarily by their status as property ('servant of...', 'the slave of...') and are subjected to the same clinical recording as citizens, yet their identity is entirely dependent on the master, indicating less individual autonomy in the medical records.",
+      "confidence": 7,
+      "rule": "Slave identification in medical caseology"
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female exclusion from the gymnasium",
+      "group": "Women",
+      "resource": "Access to the gymnasium and physical training",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§2] The sufferers were youths, young men, and men in their prime, usually those who frequented the wrestling school and gymnasia. Few women were attacked."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes that an epidemic of swellings (mumps) primarily affected those attending gymnasia and wrestling schools, then notes 'Few women were attacked.' This implies that women were not part of the group frequenting these public institutions of physical training.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood susceptibility to fatal fever",
+      "group": "Children",
+      "resource": "Protection from fatal disease",
+      "directionality": "LESS",
+      "verbatim": "[§6] From all the diseases some died, but the greatest number from these fevers, especially children—those just weaned, older children of eight or ten years, and those approaching puberty.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies children as a specific biological group that suffered a higher mortality rate during the epidemic in Thasos, indicating a lack of the 'resource' of survival/protection compared to other age groups.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Infant and child convulsion vulnerability",
+      "group": "Children",
+      "resource": "Exemption from convulsive symptoms",
+      "directionality": "LESS",
+      "verbatim": "[§6] children for the most part in such cases suffer chiefly from the convulsions; [§9] In many patients, especially children, there were convulsions and slight feverishness from the beginning.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes that convulsions are a specific symptom predominantly affecting the group of children during these fever outbreaks, distinguishing their clinical experience from adults.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female specific morbidity",
+      "group": "Women",
+      "resource": "Exemption from womb pain",
+      "directionality": "LESS",
+      "verbatim": "[§6] Women have both these symptoms and pains in the womb.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Gender is the criterion here; the text explicitly links the female group to a specific additional set of symptoms (pains in the womb) during the described illness.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly sensory and mental impairment",
+      "group": "Old people",
+      "resource": "Protection from blindness and raving",
+      "directionality": "LESS",
+      "verbatim": "[§6] Older people, and those whose natural heat is failing, have paralysis or raving or blindness.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes older people as a group that experiences more severe neurological and sensory resource losses (sight, mental clarity, mobility) during the fevers compared to younger cohorts.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Strangury as survival mechanism",
+      "group": "Children",
+      "resource": "Access to life-saving abscessions",
+      "directionality": "MORE",
+      "verbatim": "[§6] The only good sign, the most striking that occurred, which saved very many of those who were in the greatest danger, was when there was a change to strangury... The strangury, too, came mostly to patients of the ages mentioned [children].",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While children were generally more likely to die, those who developed strangury (a specific medical resource in this context) survived; the author notes this beneficial complication occurred 'mostly' in the age group previously mentioned (children).",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood vulnerability to epidemic mortality",
+      "group": "Children",
+      "resource": "Protection from fatal disease",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§13] From all the diseases some died, but the greatest number from these fevers, especially children—those just weaned, older children of eight or ten years, and those approaching puberty."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author observes that children of specific age ranges were disproportionately affected by the mortality of the fevers described, indicating a higher societal risk and less protection from fatal outcomes for this group.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Age-based susceptibility to strangury",
+      "group": "Children",
+      "resource": "Protection from painful urinary conditions",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§13] The strangury, too, came mostly to patients of the ages mentioned [children], though it did happen to many of the others, either without their taking to bed or when they were ill."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies children as the primary group suffering from strangury (a painful urinary condition), showing that this group had less protection from such specific medical complications.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Infant and child convulsion susceptibility",
+      "group": "Children",
+      "resource": "Protection from convulsive symptoms",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§15] Children for the most part in such cases suffer chiefly from the convulsions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the medical context of the time, the author identifies children as a distinct group that lacks protection from convulsions compared to other age groups when suffering from these fevers.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female specific morbidity",
+      "group": "Women",
+      "resource": "Protection from uterine pain",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§15] Women have both these symptoms and pains in the womb."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes women as a group experiencing a specific medical burden (pains in the womb) during these illnesses, representing a lack of protection from gender-specific health complications.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly susceptibility to paralysis",
+      "group": "Old people",
+      "resource": "Protection from sensory and motor loss",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§15] Older people, and those whose natural heat is failing, have paralysis or raving or blindness."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly links the group 'older people' to severe outcomes like paralysis and blindness, indicating they have less access to health preservation or protection from these specific complications in the face of the disease.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female protection from fever mortality",
+      "group": "Women",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§16] Though many women fell ill, they were fewer than the men and less frequently died."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author observes a statistical trend in the Thasos epidemic where women, as a group defined by gender, had a higher survival rate and lower infection rate compared to men.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood protection from comatose fever mortality",
+      "group": "children",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§16] There were also comatose fevers about this time, usually in children, and of all patients these showed the lowest mortality."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies children as a specific age group that experienced a lower death rate during the outbreak of comatose fevers compared to other age groups.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Maternal vulnerability to post-partum illness",
+      "group": "Women",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§16] But the great majority had difficult childbirth, and after giving birth they would fall ill, and these especially died, as did the daughter of Telebulus on the sixth day after delivery."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While women generally fared better, the specific biological/health state of having given birth (post-partum) is identified as a high-risk category for mortality.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Health",
+      "rule": "Pregnant women's risk of miscarriage",
+      "group": "women ... with child",
+      "resource": "Right to successful pregnancy completion",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§16] but all to my knowledge had abortions if they chanced to fall ill when with child."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes a universal rule of the current constitution/epidemic where the condition of pregnancy led to the loss of the fetus (abortion) if the mother contracted the fever.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth vulnerability to ardent fever mortality",
+      "group": "striplings, young people, people in their prime",
+      "resource": "Protection from fatal disease outcomes",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§16] And of the patients there died chiefly striplings, young people, people in their prime, the smooth, the fair-skinned, the straight-haired, the black-haired, the black-eyed, those who had lived recklessly and care-lessly, the thin-voiced, the rough-voiced, the lispers, the passionate."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly lists younger age groups as the primary victims of mortality in this specific disease environment, contrasting with children and older people mentioned elsewhere.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female survival in epidemic fevers",
+      "group": "Women",
+      "resource": "Protection from disease-related mortality",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§20] Though many women fell ill, they were fewer than the men and less frequently died."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author observes a statistical difference in mortality rates between genders during the epidemic in Thasos, indicating women had a higher survival rate compared to men.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Child survival in comatose fevers",
+      "group": "children",
+      "resource": "Protection from disease-related mortality",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§21] There were also comatose fevers about this time, usually in children, and of all patients these showed the lowest mortality."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies children as a specific age group that, despite being the primary sufferers of a specific fever, experienced the lowest death rates compared to other groups.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth mortality in ardent fevers",
+      "group": "young people",
+      "resource": "Protection from disease-related mortality",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§23] Now the number of illnesses was great. And of the patients there died chiefly striplings, young people, people in their prime..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly links the age group of 'young people' and 'striplings' to a higher likelihood of death during the described constitution/epidemic.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Pregnant women's risk of abortion",
+      "group": "women with child",
+      "resource": "Right to carry pregnancy to term",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§20] ...but all to my knowledge had abortions if they chanced to fall ill when with child."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a universal negative outcome for the group of pregnant women who fall ill, effectively losing the resource of pregnancy maintenance/viability.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth susceptibility to hemorrhage",
+      "group": "youths",
+      "resource": "Access to life-saving physiological crisis (hemorrhage)",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§19] But the great majority had hemorrhage, especially youths and those in the prime of life, and of these the great majority who had no hemorrhage died."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text notes that a specific physiological benefit (hemorrhage) which led to recovery was more common in younger age groups, while its absence in that same group led to death.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Postpartum medical monitoring",
+      "group": "Women",
+      "resource": "Access to postpartum clinical care",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§31] [CASE IV] In Thasos the wife of Philinus gave birth to a daughter. The lochial discharge was normal, and the mother was doing well when on the fourteenth day after delivery she was seized with fever attended with rigor.",
+        "[§31] [CASE XI] The wife of Dromeades, after giving birth to a daughter, when everything had gone normally, on the second day was seized with rigor; acute fever."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text documents specific medical surveillance and systematic reporting of the health status of women following childbirth, treating the postpartum state as a distinct category for medical observation.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Pessary treatment for gynecological distress",
+      "group": "Women",
+      "resource": "Specific gynecological medical intervention",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§31] [CASE IV] Pains in the genital organs. The discharge ceased. By a pessary these troubles were eased, but pains persisted in the head, neck and loins.",
+        "[§31] [CASE V] On the second day after the delivery she was seized with acute fever, pain at the stomach and in the genitals. A pessary relieved these symptoms."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text demonstrates a standard medical rule where women suffering from genital pains or suppressed discharges are treated with a specific instrument (pessary), a resource linked to their gendered physiology.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Medical recording of youth",
+      "group": "Young people",
+      "resource": "Distinction in clinical diagnostic framing",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§31] [CASE II] Continuous throbbing of the hypochondrium; age about twenty years."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly identifies the age of the patient as a relevant clinical marker for the medical record, distinguishing young adults as a specific group within the pathological observation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Medical monitoring of pregnancy",
+      "group": "Women",
+      "resource": "Clinical monitoring of prenatal health",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§31] [CASE XIII] A woman lying sick by the shore, who was three months gone with child, was seized with fever, and immediately began to feel pains in the loins."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The clinical record identifies the specific stage of pregnancy as a condition for medical observation, indicating that pregnant women were a distinct group for which specialized health data (gestation time) was tracked.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Maternal postpartum healthcare access",
+      "group": "Women",
+      "resource": "Access to medical treatment for postpartum complications",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§35] In Thasos the wife of Philinus gave birth to a daughter. The lochial discharge was normal, and the mother was doing well when on the fourteenth day after delivery she was seized with fever attended with rigor. At first she suffered in the stomach and the right hypochondrium. Pains in the genital organs. The discharge ceased. By a pessary these troubles were eased, but pains persisted in the head, neck and loins."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific medical intervention (the use of a pessary) provided to a woman following childbirth to treat physical complications, indicating that postpartum women were a group recognized as requiring and receiving specific medical resources.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Midwifery and attendant assistance",
+      "group": "Women",
+      "resource": "Support from birth attendants",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§35] A copious passing of urine with convulsions—her attendants seldom reminding her—which was white and thick, like urine with a sediment and then shaken; it stood for a long time without forming a sediment; colour and consistency like that of the urine of cattle."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of 'attendants' in the context of a woman's delivery and subsequent illness indicates a social and medical norm where women in labor or suffering from female-specific illnesses are provided with a support group to assist in their care and provide reminders/monitoring.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Medical monitoring of young adults",
+      "group": "young people",
+      "resource": "Clinical observation and diagnosis",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§33] Continuous throbbing of the hypochondrium; age about twenty years. Eleventh day. Death."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author specifically notes the age of the patient (Silenus) as a relevant factor in the clinical record, suggesting that age was a defining demographic criterion used by practitioners to categorize patients and evaluate their cases.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Medical case observation of women",
+      "group": "Women",
+      "resource": "Access to specialized medical documentation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§44] CASE XIII A woman lying sick by the shore, who was three months gone with child, was seized with fever, and immediately began to feel pains in the loins.",
+        "[§45] CASE XIV Melidia, who lay sick by the temple of Hera, began to suffer violent pain in the head, neck and chest. Immediately she was attacked by acute fever, and there followed a slight menstrual flow."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text documents detailed clinical observations of women, including conditions specific to their biological group (pregnancy and menstruation), indicating they were subjects of the era's medical attention and systematic recording of health outcomes.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Medical case observation of men",
+      "group": "Men",
+      "resource": "Access to specialized medical documentation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§43] CASE XII A man dined when hot and drank too much. During the night he vomited everything; acute fever; pain in the right hypochondrium; inflammation, soft underneath, from the inner part; an uncomfortable night."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author includes male subjects in his clinical case studies, documenting their symptoms and outcomes for medical knowledge, demonstrating the inclusion of men in medical observation and resource allocation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Childhood vulnerability to fatal tenesmus",
+      "group": "Children",
+      "resource": "Protection from fatal bowel disease",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§46] ...In the first place many were attacked by painful tenesmus, mostly children—all in fact who were approaching puberty—and most of these died."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific medical vulnerability to a fatal condition based on the age group of children approaching puberty during the described epidemic.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly vulnerability to spreading erysipelas",
+      "group": "Old people",
+      "resource": "Protection from lethal skin infection",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§46] Many were attacked by the erysipelas all over the body when the exciting cause was a trivial accident or a very small wound; especially when the patients were about sixty years old and the wound was in the head, however little the neglect might have been."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that advanced age (sixty years old) is a specific criterion for increased risk of severe, spreading infection from minor wounds.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Hereditary susceptibility to consumption",
+      "group": "Persons with consumptive lineage",
+      "resource": "Protection from respiratory disease",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§46] CASE VI ...The maiden daughter of Euryanax was seized with fever. ... There was also some inherited tendency to consumption."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author links the patient's condition to her lineage, identifying an 'inherited tendency' as a criterion for the disease.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Constitutional predisposition to specific fevers",
+      "group": "Melancholic persons",
+      "resource": "Protection from ardent fevers",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§46] As to those with a melancholic or a rather sanguine complexion, they were attacked by ardent fevers, phrenitis and dysenteric troubles."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Hippocratic text uses physical/humoral constitution (complexion) as a near-immutable criterion to determine which specific diseases an individual is susceptible to.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Bilious temperament susceptibility to diarrhea",
+      "group": "Bilious persons",
+      "resource": "Protection from chronic diarrhea",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§46] ...the chronic diarrhoea and acrid, greasy stools affected persons of a bilious temperament."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text categorizes individuals by biological temperament (bilious) to explain the occurrence of specific material health outcomes (chronic diarrhea).",
+      "confidence": 10
+    },
+    {
+      "criteria": "Health",
+      "rule": "Phlegmatic susceptibility to tenesmus",
+      "group": "Young phlegmatic people",
+      "resource": "Protection from tenesmus",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§46] Tenesmus affected young, phlegmatic people;"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "A combination of Age and Health (humoral temperament) is used to define a group that lacks access to health/protection from a specific ailment.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Military and labor obligation for youths",
+      "group": "young people",
+      "resource": "Exemption from strenuous physical exertion",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§47] CASE VIII The youth who lay sick by the Liars’ Market was seized with fever after unaccustomed fatigue, toil and running.",
+        "Seventh day. Died, being about twenty years old."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific male youth (twenty years old) engaged in 'unaccustomed fatigue, toil and running,' which reflects the societal expectation of intense physical labor or military-aligned training (running/toil) for men of this specific age group.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Household access to medicine",
+      "group": "Wealthy citizens",
+      "resource": "Access to private medical housing",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§47] CASE V Chaerion, who lay sick in the house of Demaenetus, was seized with fever after drinking.",
+        "CASE VII The woman suffering from angina who lay sick in the house of Aristion...",
+        "CASE IX The woman who lodged with Tisamenus was in bed..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text distinguishes between patients identified by public landmarks (Liars' Market, New Wall) and those cared for in private 'houses' of named individuals, indicating that certain groups have the resource of private domestic medical care based on property/social connections.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female restriction to domestic space",
+      "group": "Women",
+      "resource": "Mobility in public spaces",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§47] CASE VI The maiden daughter of Euryanax was seized with fever. [...] She was silent, and did not converse at all. Depression, the patient despairing of herself.",
+        "CASE X A woman who was one of the house of Pantimides after a miscarriage was seized with fever...",
+        "CASE XI Another woman, after a miscarriage about the fifth month, the wife of Hicetas..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Unlike the male cases (Pythion, Hermocrates) who are often identified by public locations or their own names, the women are strictly identified by their relationship to a male head of house (daughter of, wife of, house of) and their clinical history is tied to domestic/reproductive events (miscarriage, delivery).",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth military and physical exemption",
+      "group": "young people",
+      "resource": "Exemption from excessive physical toil",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§55] CASE VIII The youth who lay sick by the Liars’ Market was seized with fever after unaccustomed fatigue, toil and running. ... Seventh day. Died, being about twenty years old."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific case where a 20-year-old (youth) died following 'unaccustomed fatigue, toil and running,' implying that such strenuous physical activity was a typical expectation or occurrence for that age group in this society, leading to a lack of protection from over-exertion.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Maternal healthcare access",
+      "group": "Women",
+      "resource": "Protection from postpartum complications",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§59] CASE XII A woman who lay sick by the Liars’ Market, after giving birth in a first and painful delivery to a male child, was seized with fever. ... Fourteenth day. Epistaxis; death. ... Age about seventeen."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The detailed recording of maternal death following childbirth indicates a recurring societal reality where women lacked effective resources or protection against the fatal risks of the postpartum period.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Hereditary health status",
+      "group": "male heirs",
+      "resource": "Exemption from hereditary disease liability",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§53] CASE VI ... There was also some inherited tendency to consumption."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes an 'inherited tendency' as a factor in the patient's death, showing that lineage in this society predetermined specific biological vulnerabilities that individuals could not opt out of.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly vulnerability to cranial erysipelas",
+      "group": "Elderly people",
+      "resource": "Protection from fatal infection",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§60] Many were attacked by the erysipelas all over the body when the exciting cause was a trivial accident or a very small wound; especially when the patients were about sixty years old and the wound was in the head, however little the neglect might have been."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific age group (sixty years old) that faced a significantly higher risk of severe disease and death from minor head wounds during this epidemic constitution compared to the general population.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Juvenile vulnerability to tenesmus",
+      "group": "Children",
+      "resource": "Protection from fatal bowel disease",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§60] In the first place many were attacked by painful tenesmus, mostly children—all in fact who were approaching puberty—and most of these died."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a clear link between the age group of children/those approaching puberty and a high mortality rate from a specific bowel condition (tenesmus) during the epidemic.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Age",
+      "rule": "Age-based vulnerability to head wounds",
+      "group": "old people",
+      "resource": "Protection from severe infection",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§63] Many were attacked by the erysipelas all over the body when the exciting cause was a trivial accident or a very small wound; especially when the patients were about sixty years old and the wound was in the head, however little the neglect might have been."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific age (sixty years) as a criterion for increased medical risk and loss of physical resilience following minor injuries to the head, suggesting a societal/medical observation of age-related vulnerability.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Juvenile vulnerability to terminal tenesmus",
+      "group": "children",
+      "resource": "Protection from fatal bowel disease",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§67] The bowel troubles in many cases turned out many and harmful. In the first place many were attacked by painful tenesmus, mostly children—all in fact who were approaching puberty—and most of these died."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text defines a specific age group (children approaching puberty) as being disproportionately affected by a fatal medical condition, distinguishing their access to health/survival from other groups.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Health",
+      "rule": "Physiognomic indicators of consumption",
+      "group": "physically weak people",
+      "resource": "Exemption from consumption",
+      "directionality": "LESS",
+      "verbatim": [
+        " [§73] The physical characteristics of the consumptives were:—-skin smooth, whitish, lentil-coloured, reddish; bright eyes; a leucophlegmatic condition; shoulder-blades projecting like wings."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author uses physical health traits (near-immutable physiological characteristics) to categorize a group that inevitably loses the resource of health to consumption.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Age-based susceptibility to digestive disorders",
+      "group": "young people",
+      "resource": "Protection from tenesmus",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§73] Tenesmus affected young, phlegmatic people; the chronic diarrhoea and acrid, greasy stools affected persons of a bilious temperament."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Age is used as a primary criterion for determining which demographic suffers from specific debilitating ailments, marking a loss of physical well-being for the young in this context.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Postpartum medical vulnerability monitoring",
+      "group": "Women",
+      "resource": "Right to health monitoring after childbirth",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§76] CASE II In Thasos the woman who lay sick by the Cold Water, on the third day after giving birth to a daughter without lochial discharge, was seized with acute fever accompanied by shivering."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text documents specific physiological transitions (childbirth and lochial discharge) as the basis for medical observation and the tracking of illness, establishing a gender-specific category for medical monitoring.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Puberty-related health monitoring",
+      "group": "young people",
+      "resource": "Right to medical observation during physiological transition",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§76] CASE VII In Abdera the maiden who lay sick by the Sacred Way was seized with a fever of the ardent type. She was thirsty and sleepless. Menstruation occurred for the first time.",
+        "[§76] CASE XII In Larisa a maiden was seized with an acute fever of the ardent type. ... In the fever and after the crisis menstruation for the first time, for she was a young maiden."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies 'maidens' (young females) and links their medical crises specifically to the timing of their first menstruation, treating this age-defined biological milestone as a critical data point in their societal/medical treatment.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Medical attention for laborers",
+      "group": "peasants",
+      "resource": "Access to medical documentation after labor",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§76] CASE III In Thasos Pythion, who lay sick above the shrine of Heracles, after labour, fatigue and careless living, was seized by violent rigor and acute fever."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies 'labour' and 'fatigue' as a causal context for the illness of Pythion, indicating that the society (or at least the medical practitioner) categorizes individuals by their physical occupation/exertion history when determining health outcomes.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Management of maternal complications",
+      "group": "Women",
+      "resource": "Protection from postpartum complications",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§76] CASE XIV In Cyzicus a woman gave birth with difficult labour to twin daughters, and the lochial discharge was far from good. First day. Acute fever with shivering; painful heaviness of head and neck."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage highlights a specific risk and lack of protection (less resource of health/safety) associated with the gender-specific event of childbirth, particularly in cases of 'difficult labour'.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Maternal health crisis risk",
+      "group": "Women",
+      "resource": "Protection from post-partum fever",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§78] In Thasos the woman who lay sick by the Cold Water, on the third day after giving birth to a daughter without lochial discharge, was seized with acute fever accompanied by shivering."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text documents a specific medical vulnerability and negative outcome (lack of lochial discharge leading to fatal fever) associated specifically with the biological and social category of women in the postpartum period.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Puberty-related medical crisis",
+      "group": "Young maidens",
+      "resource": "Protection from fever during menarche",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§83] In Abdera the maiden who lay sick by the Sacred Way was seized with a fever of the ardent type. She was thirsty and sleepless. Menstruation occurred for the first time.",
+        "[§88] In Larisa a maiden was seized with an acute fever of the ardent type. ... In the fever and after the crisis menstruation for the first time, for she was a young maiden."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author links the onset of the first menstruation (menarche) in young girls to the occurrence of 'ardent' fevers, suggesting a systemic risk associated with this specific age and gender transition.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Labor-induced illness",
+      "group": "Laborers",
+      "resource": "Protection from exhaustion-related fever",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§79] In Thasos Pythion, who lay sick above the shrine of Heracles, after labour, fatigue and careless living, was seized by violent rigor and acute fever."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies 'labour' and 'fatigue' as the precipitating factors for a fatal illness, implying that those engaged in heavy physical work lack the resource of physical security against exhaustion.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Health",
+      "rule": "Mental health related physical decline",
+      "group": "Persons of gloomy temperament",
+      "resource": "Right to physical health stability",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§87] In Thasos a woman of gloomy temperament, after a grief with a reason for it, without taking to bed lost sleep and appetite, and suffered thirst and nausea."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author categorizes the individual by a near-immutable 'temperament' and links this psychological state (and the experience of grief) to a loss of basic physical resources like sleep and appetite.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Maternal health management",
+      "group": "Women",
+      "resource": "Access to postpartum medical monitoring",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§90] CASE XIV In Cyzicus a woman gave birth with difficult labour to twin daughters, and the lochial discharge was far from good. First day. Acute fever with shivering; painful heaviness of head and neck. Sleepless from the first, but silent, sulky and refractory."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text documents the medical observation and recording of postpartum complications (lochial discharge and labor difficulties) in a specific woman, indicating that women in this society were subjects of clinical medical attention regarding reproductive health.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Youth medical surveillance",
+      "group": "young people",
+      "resource": "General medical care",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§92] CASE XVI In Meliboea a youth took to his bed after being for a long time heated by drunkenness and sexual indulgence. He had shivering fits, nausea, sleeplessness, but no thirst."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author provides a detailed clinical history of a 'youth', showing that individuals categorized by their young age were eligible for and received professional medical diagnostic attention and monitoring.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 18,
+  "_file_id": "tlg0627.tlg006.perseus-eng4",
+  "_input_tokens": 113954,
+  "_output_tokens": 11788,
+  "_model": "google/gemini-3-flash-preview"
+}

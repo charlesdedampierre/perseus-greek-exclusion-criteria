@@ -1,0 +1,167 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Spousal and child obedience",
+      "rule_category": "Family hierarchy and education",
+      "group": "Wives",
+      "group_category": "Gender",
+      "resource": "Right to personal autonomy in faith and education",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] next teach our wives to remain in the faith given to them, and in love and purity, tenderly loving their husbands in all truth, and loving all others equally in all chastity, and to educate their children in the fear of God.",
+        "[§17] [2] next teach our wives to remain in the faith given to them, and in love and purity, tenderly loving their husbands in all truth, and loving all others equally in all chastity, and to educate their children in the fear of God."
+      ],
+      "reasoning": "The text establishes a social hierarchy where men are instructed to 'teach' their wives how to behave, love, and educate their children, implying wives are subjects of domestic and religious instruction rather than autonomous agents.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all married women within the Christian community, a significant but specific demographic.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based ecclesiastical subordination",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Younger men",
+      "group_category": "Age",
+      "resource": "Right to self-governance",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] Likewise also let the younger men be blameless in all things; caring above all for purity, and curbing themselves from all evil [...] Wherefore it is necessary to refrain from all these things, and to be subject to the presbyters and deacons as to God and Christ.",
+        "[§22] [3] Likewise also let the younger men be blameless in all things; caring above all for purity, and curbing themselves from all evil; [...] Wherefore it is necessary to refrain from all these things, and to be subject to the presbyters and deacons as to God and Christ."
+      ],
+      "reasoning": "The text explicitly mandates that younger men must be 'subject' to the church hierarchy (presbyters and deacons), characterizing this subordination as a religious necessity.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a specific age and gender demographic (youth/younger men) within the community.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Clerical poverty and integrity",
+      "rule_category": "Restriction of economic privilege",
+      "group": "Deacons",
+      "group_category": "Occupation",
+      "resource": "Right to pursue private wealth",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] Likewise must the deacons be blameless; before his righteousness, as the servants of God and Christ and not of man, not slanderers, not double-tongued, not lovers of money, temperate in all things",
+        "[§21] [2] Likewise must the deacons be blameless; before his righteousness, as the servants of God and Christ and not of man, not slanderers, not double-tongued, not lovers of money, temperate in all things"
+      ],
+      "reasoning": "Holding the office of deacon carries a specific prohibition against the 'love of money,' effectively restricting their pursuit of wealth as a condition of their role.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to a small, defined group of office-holders within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Presbyterial welfare obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Presbyters",
+      "group_category": "Occupation",
+      "resource": "Right to ignore vulnerable groups",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§23] And let the presbyters also be compassionate. merciful to all, bringing back those that have wandered, caring for all the weak, neglecting neither widow, nor orphan nor poor, but ever providing for that which is good before God and man",
+        "[§24] [1] And let the presbyters also be compassionate. merciful to all, bringing back those that have wandered, caring for all the weak, neglecting neither widow, nor orphan nor poor, but ever providing for that which is good before God and man"
+      ],
+      "reasoning": "Presbyters are legally and customarily bound to provide care and resources for widows, orphans, and the poor, representing a mandatory social-service obligation attached to their status.",
+      "specificity": 8,
+      "specificity_reasoning": "This is restricted specifically to those holding the ecclesiastical title of presbyter.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Widowhood conduct restrictions",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Freedom of social speech",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] Let us teach the widows to be discreet in the faith of the Lord, praying ceaselessly for all men, being far from all slander, evil speaking, false witness, love of money, and all evil",
+        "[§18] [3] Let us teach the widows to be discreet in the faith of the Lord, praying ceaselessly for all men, being far from all slander, evil speaking, false witness, love of money, and all evil"
+      ],
+      "reasoning": "Widows are codified as a specific social class ('an altar of God') with heightened restrictions on their speech and financial conduct compared to the general population.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to women of a specific marital status (widows).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Orphan and widow welfare access",
+      "rule_category": "Access to public resources",
+      "group": [
+        "Widows",
+        "Children",
+        "The poor"
+      ],
+      "group_category": [
+        "Gender",
+        "Age",
+        "Wealth"
+      ],
+      "resource": "Access to community support and care",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] caring for all the weak, neglecting neither widow, nor orphan nor poor, but ever providing for that which is good before God and man",
+        "[§24] [1] And let the presbyters also be compassionate. merciful to all, bringing back those that have wandered, caring for all the weak, neglecting neither widow, nor orphan nor poor"
+      ],
+      "reasoning": "The text mandates that the leadership (presbyters) must not 'neglect' these groups, establishing a customary right for the vulnerable to receive communal oversight and provision.",
+      "specificity": 3,
+      "specificity_reasoning": "While specific, these categories together represent a large portion of the non-productive or vulnerable population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Clerical removal for avarice",
+      "rule_category": "Denial of religious office",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to hold ecclesiastical office",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§40] I am deeply sorry for Valens, who was once made a presbyter among you, that he so little understands the place which was given to him. I advise, therefore, that you keep from avarice, and be pure and truthful. [§41] I am deeply sorry for Valens, who was once made a presbyter among you, that he so little understands the place which was given to him."
+      ],
+      "reasoning": "The text describes a specific individual, Valens, who lost his position as a 'presbyter' (elder/priest) due to 'avarice'. Polycarp's sorrow and the use of the past tense ('was once made') indicate that a violation of financial ethics results in the loss of the right to hold that specific community office.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically targets the behavior and status of those within the clerical hierarchy (presbyters), a small subset of the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gentile judicial exclusion",
+      "rule_category": "Exclusion from judicial authority",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Right to judge the world",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§42] If any man does not abstain from avarice he will be defiled by idolatry, and shall be judged as if he were among the Gentiles who know not the judgment of God. Or do we not know that the saints shall judge the world? as Paul teaches."
+      ],
+      "reasoning": "Polycarp contrasts the 'saints' (the Christian group) with the 'Gentiles' (non-Christians/foreigners to the faith) regarding judicial authority. Gentiles are characterized as those who 'know not the judgment' and are the ones being judged, rather than those possessing the right to judge in the eschatological/legal sense described.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad category of all non-Christians (Gentiles) in the worldview of the author.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Repentant member reintegration",
+      "rule_category": "Access to community membership",
+      "group": "Exiles",
+      "group_category": "Citizenship",
+      "resource": "Right to community reintegration",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] Therefore, brethren, I am deeply sorry for him and for his wife, and may the Lord grant them true repentance. Therefore be yourselves also moderate in this matter, and do not regard such men as enemies, but call them back as fallible and straying members, that you may make whole the body of you all."
+      ],
+      "reasoning": "The text establishes a rule for handling 'straying members' who have been disciplined. Instead of permanent exclusion or being treated as 'enemies', they are granted the path of repentance and the right to be called back into the social/religious body.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those who have been disciplined or removed from the group but seek to return.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg1622.tlg001.perseus-eng1",
+  "_input_tokens": 14271,
+  "_output_tokens": 2629,
+  "_model": "google/gemini-3-flash-preview"
+}

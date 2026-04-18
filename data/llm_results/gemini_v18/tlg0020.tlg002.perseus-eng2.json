@@ -1,0 +1,152 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Judicial impartiality for foreigners",
+      "rule_category": "Access to judicial protection",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to straight judgements",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] But they who give straight judgements to strangers and to the men of the land, and go not aside from what is just, their city flourishes, and the people prosper in it."
+      ],
+      "reasoning": "The text explicitly links the prosperity of a city to the practice of providing the same 'straight' justice to foreigners (strangers) as to local citizens, establishing an ideal of legal equality across citizenship status.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all non-citizens interacting with a Greek polis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly support obligation",
+      "rule_category": "Protection of the elderly",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to maintenance by children",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§19] They will not repay their aged parents the cost of their nurture, for might shall be their right... truly Zeus himself is angry, and at the last lays on him a heavy requital for his evil doing."
+      ],
+      "reasoning": "Hesiod describes the failure to support aged parents as a sign of societal collapse (the Iron Age) and a sin against Zeus, implying a strong normative rule that children must provide for their parents in old age.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to all parents who have reached old age.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave social exclusion",
+      "rule_category": "Exclusion from social spaces",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to leisure in public spaces",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§34] Pass by the smithy and its crowded lounge in winter time when the cold keeps men from field work,— for then an industrious man can greatly prosper his house [implicitly contrasted with slaves who must work]."
+      ],
+      "reasoning": "While free men are advised to avoid the smithy to work, the surrounding context of the 'Works' specifically commands masters to keep slaves busy during times when free men might rest, effectively denying slaves the resource of leisure in communal spaces.",
+      "specificity": 3,
+      "specificity_reasoning": "Relates to the entire class of enslaved manual laborers.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Orphaned child protection",
+      "rule_category": "Access to justice for minors",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from exploitation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] Alike with him who does wrong to a suppliant or a guest... or who infatuately offends against fatherless children... truly Zeus himself is angry."
+      ],
+      "reasoning": "The text categorizes offending against fatherless children (orphans) as a severe moral and quasi-legal transgression attracting divine punishment, indicating a societal rule protecting this vulnerable group.",
+      "specificity": 5,
+      "specificity_reasoning": "Specifically targets children without paternal guardians.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave woman labor utility",
+      "rule_category": "Restriction of family rights",
+      "group": "Female slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to marry and domestic independence",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] First of all, get a house, and a woman and an ox for the plough—a slave woman and not a wife, to follow the oxen as well."
+      ],
+      "reasoning": "Hesiod categorizes the slave woman as an agricultural implement ('to follow the oxen') and explicitly contrasts her with a wife, denying her the status and rights associated with legal marriage.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to female slaves used in agricultural households.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Seasonal slave dismissal",
+      "rule_category": "Denial of housing security",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from arbitrary dismissal",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§37] And so soon as you have safely stored all your stuff indoors, I bid you put your bondman out of doors and seek out a servant-girl with no children;—for a servant with a child to nurse is troublesome."
+      ],
+      "reasoning": "The master is advised to put the male slave 'out of doors' once the harvest is stored, showing that slaves lacked tenure or the right to year-round maintenance when their labor was not immediately profitable.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the general class of agricultural bondmen.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Resource-based judicial standing",
+      "rule_category": "Exclusion from legal procedure",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to participate in litigation",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] Little concern has he with quarrels and courts who has not a year's victuals laid up betimes, even that which the earth bears, Demeter's grain."
+      ],
+      "reasoning": "The text suggests that legal disputes and court attendance are the purview of those with surplus food (wealth), effectively stating that those without basic subsistence lack the practical right or standing to engage in the legal system.",
+      "specificity": 2,
+      "specificity_reasoning": "Applies to any citizen lacking a year's worth of grain surplus.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Restriction of female hygiene",
+      "rule_category": "Gendered ritual restriction",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to share water with women",
+      "resource_category": "Health",
+      "directionality": "LESS",
+      "proof": [
+        "[§41] A man should not clean his body with water in which a woman has washed, for there is bitter mischief in that also for a time."
+      ],
+      "reasoning": "This is a ritual/customary rule that prohibits men from using water previously used by women, reflecting a gender-based stratification regarding physical purity and resources.",
+      "specificity": 1,
+      "specificity_reasoning": "Applies to all men in the household.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Primogeniture-based inheritance",
+      "rule_category": "Restriction of inheritance",
+      "group": "Second sons",
+      "group_category": "Lineage",
+      "resource": "Right to full paternal estate",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§27] There should be an only son to feed his father's house, for so wealth will increase in the home; but if you leave a second son you should die old."
+      ],
+      "reasoning": "Hesiod advises having only one son to prevent the fragmentation of the estate, noting that a second son is a burden on the father's wealth, reflecting an inheritance system that favors single heirs.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to younger siblings in land-owning families.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0020.tlg002.perseus-eng2",
+  "_input_tokens": 14808,
+  "_output_tokens": 1973,
+  "_model": "google/gemini-3-flash-preview"
+}

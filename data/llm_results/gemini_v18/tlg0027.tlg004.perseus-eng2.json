@@ -1,0 +1,395 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Protection from arbitrary punishment",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from exile or imprisonment without trial",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] Now the legislator responsible for this deserves censure; for the law which he framed violates the oath of the People and Council. Under the terms of that oath you swear to exile no one, to imprison no one, to put no one to death, without trial."
+      ],
+      "reasoning": "The text explicitly states that the foundational oath taken by the governing bodies of Athens (People and Council) protects individuals from being exiled, imprisoned, or executed unless a formal trial has taken place.",
+      "specificity": 1,
+      "specificity_reasoning": "This is a fundamental constitutional protection that applies to the entire body of citizens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ostracism due process exclusion",
+      "rule_category": "Exclusion from legal standing",
+      "group": "Political candidates",
+      "group_category": "Citizens",
+      "resource": "Right to formal defense and accusation",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§4] whereas on this present occasion, when the person ostracized is to be cut off from his country for so long, no accusation has been made, no defence allowed, and the voting is secret."
+      ],
+      "reasoning": "In the specific context of ostracism, the standard legal protections (the right to hear a specific accusation and present a defense) are suspended, and the decision is made via secret ballot without a court trial.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to prominent political figures who become subjects of an ostracism vote, a subset of the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Universal political suffrage",
+      "rule_category": "Access to political power",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to vote in ostracism",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] because the judges are not appointed by lot as in courts of law: in the present decision every member of the community has a voice."
+      ],
+      "reasoning": "The text explains that unlike standard court cases where only a selected lot of judges decide, the process of ostracism allows every member of the community (the citizen body) to participate in the decision.",
+      "specificity": 1,
+      "specificity_reasoning": "This involves the entire voting population of the city-state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "State right to punish",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from state-imposed fines or death",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§5] for wrongs done to the state I regard it as an insufficient and useless penalty, when you have the right to punish by fine, imprisonment, or death."
+      ],
+      "reasoning": "The author acknowledges the established legal right of the Athenian state to strip citizens of property (fines), freedom (imprisonment), or life (death) if they are found to have harmed the state.",
+      "specificity": 1,
+      "specificity_reasoning": "These are general penal powers the state holds over all its members.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from double jeopardy",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Protection from repeated prosecution for the same charge",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] ...the laws forbid the same charge to be brought twice against the same defendant, and you have sworn to observe those laws."
+      ],
+      "reasoning": "The author cites a specific legal prohibition against 'bis in idem' (double jeopardy), ensuring that once a defendant is acquitted or convicted, they cannot be tried again for the same offense.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to individuals involved in the legal system as defendants, but its application is a general principle of Athenian law.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Wife initiated divorce",
+      "rule_category": "Access to marital dissolution",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to petition for divorce",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] ...he behaved in so profligate a fashion, bringing mistresses, slave and free, into the bridal house, that he drove his wife, who was a decent woman, to present herself before the Archon, as she was legally entitled to do, and divorce him."
+      ],
+      "reasoning": "The text explicitly states that a wife is 'legally entitled' to present herself before the Archon to initiate divorce proceedings in cases of marital misconduct.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all married citizen women in Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave witness exclusion",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom from physical restraint",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] Democracy, freedom went for nothing: Agatharchus had been put in chains exactly like any acknowledged slave."
+      ],
+      "reasoning": "The text uses the chaining of a free man as a scandal by comparing it to the standard treatment of 'acknowledged slaves,' implying that slaves are legally subject to being put in chains.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire slave population as a standard condition of their status.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from arbitrary imprisonment",
+      "rule_category": "Access to judicial protection",
+      "group": "Free men",
+      "group_category": "Freedom status",
+      "resource": "Protection from imprisonment without trial",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] In our treaties with other states we make it a condition that no free man shall be imprisoned or placed in durance, and a heavy fine is prescribed as the penalty for so doing."
+      ],
+      "reasoning": "Athenian international and domestic norms specifically protect the 'free man' from being imprisoned or held in durance without legal cause, backed by financial penalties.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a broad rule protecting all free individuals (citizens and often treaty-protected foreigners).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prosperous citizen prosecutor liability",
+      "rule_category": "Access to judicial accountability",
+      "group": "Prosecutors",
+      "group_category": "Legal standing",
+      "resource": "Protection from fines for failed suits",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§15] It makes me angry to think that while you yourselves cannot place even malefactors under arrest without risk, because it is enacted that anyone who fails to gain one-fifth of the votes shall be liable to a fine of a thousand drachmae..."
+      ],
+      "reasoning": "The law imposes a significant fine on prosecutors who fail to receive a minimum threshold of support from the jury, intended to discourage frivolous or malicious litigation.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any citizen who chooses to act as a prosecutor in a public trial.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Chorus citizenship requirement",
+      "rule_category": "Access to ritual participation",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to participate in competition choruses",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§16] The law allows the ejection of any member whatsoever of a competing chorus who is not of Athenian birth, and it is forbidden to resist any attempt at such ejection."
+      ],
+      "reasoning": "Participation in the prestigious choral competitions (choregia) was strictly reserved for those of Athenian birth; non-citizens could be physically removed according to the law.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to non-citizens attempting to enter a specific cultural/religious institution.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ostracism for political dominance",
+      "rule_category": "Exclusion from political office",
+      "group": "Powerful leaders",
+      "group_category": "Political power",
+      "resource": "Right to remain in the city",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] Observing that whenever members of the community are more powerful than the magistrates and the laws, it is impossible for an individual to obtain redress from them, he arranged that punishment for their misdeeds should be exacted by the state."
+      ],
+      "reasoning": "The institution of ostracism is described as a specific legal mechanism to remove individuals who have become too powerful to be restrained by ordinary laws.",
+      "specificity": 8,
+      "specificity_reasoning": "Ostracism targets only a very small number of the highest-ranking and most influential political figures.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from double jeopardy",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Protection from being tried twice for the same charge",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] [9] ...especially as the laws forbid the same charge to be brought twice against the same defendant, and you have sworn to observe those laws."
+      ],
+      "reasoning": "The text explicitly mentions a legal prohibition against bringing the same charge twice against a defendant, identifying it as a standing law that jurors are sworn to uphold.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual currently in the legal status of a defendant within the Athenian court system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Wife's right to divorce",
+      "rule_category": "Access to matrimonial dissolution",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to present a petition for divorce before the Archon",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] [14] ...he behaved in so profligate a fashion... that he drove his wife, who was a decent woman, to present herself before the Archon, as she was legally entitled to do, and divorce him."
+      ],
+      "reasoning": "The text states that a wife is legally entitled to present herself before the Archon to initiate a divorce in response to her husband's conduct.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule applies specifically to married citizen women.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Inheritance protection through state donation",
+      "rule_category": "Protection of property",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to bequeath property to the state to prevent private seizure",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§17] [15] Callias himself... for fear that his wealth would cost him his life, made over his property to the state in the event of his dying without issue."
+      ],
+      "reasoning": "The text describes a legal mechanism where a citizen, fearing for his life due to his wealth, can legally designate the state as his heir to remove the incentive for his assassination by private parties.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to wealthy individuals without direct heirs who face specific threats of violence.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from arbitrary imprisonment",
+      "rule_category": "Access to personal freedom",
+      "group": "Free men",
+      "group_category": "Freedom status",
+      "resource": "Protection from being imprisoned without legal cause",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] [18] In our treaties with other states we make it a condition that no free man shall be imprisoned or placed in durance, and a heavy fine is prescribed as the penalty for so doing."
+      ],
+      "reasoning": "The text cites both internal norms and international treaties specifying that free status confers a right to be free from arbitrary durance or imprisonment by private individuals.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad category of all free-born men, both citizens and those covered by treaties.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prosecutorial risk fine",
+      "rule_category": "Legal procedure safeguard",
+      "group": "Plaintiffs",
+      "group_category": "Legal standing",
+      "resource": "Protection from fines when bringing a suit",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] [18] ...you yourselves cannot place even malefactors under arrest without risk, because it is enacted that anyone who fails to gain one-fifth of the votes shall be liable to a fine of a thousand drachmae..."
+      ],
+      "reasoning": "The text identifies a legal rule where a prosecutor (or one who arrests a malefactor) must pay a substantial fine if they do not secure a minimum threshold of support (20%) from the jury.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any citizen acting in the capacity of a prosecutor in specific types of public suits.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Choral purity regulation",
+      "rule_category": "Participation in civic rituals",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Right to participate in a competing chorus",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§22] [20] The law allows the ejection of any member whatsoever of a competing chorus who is not of Athenian birth, and it is forbidden to resist any attempt at such ejection."
+      ],
+      "reasoning": "Athenian law explicitly prohibited non-Athenians from participating in certain choral competitions, allowing for their forceful removal if discovered.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to non-citizens attempting to participate in specific Athenian civic-religious festivals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection of choral contestants",
+      "rule_category": "Protection from bodily harm",
+      "group": "Choregi",
+      "group_category": "Occupation",
+      "resource": "Protection from physical assault during performance",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] [20] ...it is forbidden to resist any attempt at such ejection. Yet in your presence... Alcibiades drove off Taureas with his fists.",
+        "[§23] [21] ...Taureas, who had spent so vast a sum, was being subjected to insults, while his rival, who showed such contempt for the law, was all-powerful."
+      ],
+      "reasoning": "The text implies that striking a rival Choregus (the individual funding the chorus) is an act of 'insolence' and 'open effrontery' that is contrary to the laws governing the conduct of the festivals.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a very small group of wealthy citizens performing the Choregia liturgy at any given time.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Military Ally Commander Immunity",
+      "rule_category": "Exemption from public accountability",
+      "group": "Military commanders with allied authority",
+      "group_category": "Occupation",
+      "resource": "Protection from public audit of acts",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] Alcibiades, whose authority extends over all our allies and who receives monies from them, is not liable to answer for any of his public acts."
+      ],
+      "reasoning": "The text explicitly states that a commander with authority over allies and their finances is not held legally accountable (liable to answer) for his public conduct, contrasting this with standard civic expectations.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies specifically to high-ranking military officials with external commands, a small subset of the citizenry.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prytaneum entertainment reward",
+      "rule_category": "Grant of economic privilege",
+      "group": "Victorious public figures",
+      "group_category": "Occupation",
+      "resource": "Access to free public meals",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] ...he was rewarded with free entertainment in the Prytaneum; and not content with that, he is for ever taking credit for his victory."
+      ],
+      "reasoning": "The text documents the customary reward of 'sitesis' (free meals/entertainment) in the Prytaneum for those who achieve significant victories or services for the state.",
+      "specificity": 7,
+      "specificity_reasoning": "While a known institution, it is reserved for a very small number of elite achievers such as Olympic victors or generals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Incest-based Banishment",
+      "rule_category": "Exclusion from residence",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to remain in the city",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§35] ...your fathers showed themselves, when they ostracized Cimon for breaking the law by taking his own sister to wife."
+      ],
+      "reasoning": "In Athenian law/custom as described here, entering into an incestuous marriage (specifically with a sister) was grounds for legal judgment and expulsion from the community (ostracism/banishment).",
+      "specificity": 2,
+      "specificity_reasoning": "The law against incest applies to the entire citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Administrative Ostracism Procedure",
+      "rule_category": "Access to judicial protection",
+      "group": "Influential citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from exile without formal trial",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§37] Observing that whenever members of the community are more powerful than the magistrates and the laws, it is impossible for an individual to obtain redress from them, he arranged that punishment for their misdeeds should be exacted by the state.",
+        "[§38] ...I cannot deserve to be sent into exile when no trial has taken place; nor after vindicating myself so many times in court can I be thought to merit banishment on the same grounds of accusation again."
+      ],
+      "reasoning": "The institution of ostracism allowed the state to banish powerful individuals without a standard court trial or specific criminal charge, serving as a political safeguard rather than a judicial one.",
+      "specificity": 3,
+      "specificity_reasoning": "While theoretically any citizen could be ostracized, it historically targeted only the most prominent political leaders.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Protection from Double Jeopardy",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Protection from re-trial after acquittal",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§40] If, on the other hand, those who have been declared innocent should once more be accused on the same charge—is it not only right that you should behave in the case of the living as you would in the case of the dead?"
+      ],
+      "reasoning": "The author appeals to a legal principle that those acquitted in court should not face the same charges again, treating it as a standard of justice comparable to the finality of death.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies broadly to anyone who has undergone a legal trial.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Liturgical funding obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Retention of private wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§44] Of my public services I do not intend to speak. I will say only this: the expenditure required of me I meet, not from monies belonging to the state, but from my own pocket. And yet I have in fact gained victories... without striking rival Choregi."
+      ],
+      "reasoning": "Wealthy citizens were required to fund public services (liturgies) like the Choregia (theatrical productions) out of their private funds, effectively a redistribution of wealth for public festivals.",
+      "specificity": 4,
+      "specificity_reasoning": "This specifically affects the wealthy class who meet the property qualification for liturgies.",
+      "confidence": 10
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0027.tlg004.perseus-eng2",
+  "_input_tokens": 28418,
+  "_output_tokens": 5524,
+  "_model": "google/gemini-3-flash-preview"
+}

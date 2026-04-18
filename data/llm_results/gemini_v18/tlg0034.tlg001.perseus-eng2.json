@@ -1,0 +1,570 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Emergency travel ban",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Freedom of movement outside the city",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] After the disaster of Chaeronea the Athenian people passed a decree forbidding persons to leave the city or to remove their wives or children."
+      ],
+      "reasoning": "Following a military defeat, the state enacted a specific decree restricting the near-immutable right of citizens to move freely or relocate their families, framing departure as treason.",
+      "specificity": 4,
+      "specificity_reasoning": "While it applies to all citizens, it is a specific emergency decree triggered by a unique historical event (the Battle of Chaeronea).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Compulsory defense duty",
+      "rule_category": "Obligation of public duty",
+      "group": "Residents",
+      "group_category": "Citizens",
+      "resource": "Right to choose personal safety over military service",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§17] the people decreed that the women and children should be brought from the countryside inside the walls and that the generals should appoint any Athenians or other residents at Athens to defence duties as they thought fit."
+      ],
+      "reasoning": "The decree mandated that both citizens (Athenians) and other residents (likely metics) were subject to compulsory assignment to defense duties by generals, removing their choice to avoid military danger.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire resident male population capable of bearing arms during the crisis.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sacrificial participation right",
+      "rule_category": "Access to religious ritual",
+      "group": "Deserters",
+      "group_category": "Citizens",
+      "resource": "Right to share in public sacrifices",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] I thought it monstrous to allow this man to push into the market place and share the public sacrifices, when he had been a disgrace to his country and to you all."
+      ],
+      "reasoning": "The text indicates that those deemed to have betrayed the city (disgraced citizens) should be excluded from shared religious and civic spaces like the marketplace and public sacrifices.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule targets a specific sub-group of citizens who have committed acts of cowardice or treason.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Judicial torture of witnesses",
+      "rule_category": "Legal standing restriction",
+      "group": "Witnesses",
+      "group_category": "Occupation",
+      "resource": "Right to testify without coercion",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§21] Otherwise let them swear the oath of disclaimer with their hands on the sacrifice. If they refuse both these alternatives, we will summons them in the interest of yourselves, our laws and our democracy."
+      ],
+      "reasoning": "Although the text focuses on 'bribes' and 'favors' making witnesses reluctant, the legal mechanism described requires witnesses to either testify under oath (diomosia) or face a formal summons/penalty, showing the state's power to compel legal participation.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any individual called upon as a witness in a public trial.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Expatriation of family gods",
+      "rule_category": "Restriction of property movement",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to relocate ancestral religious property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§26] For he was not content simply to remove his own person and his goods. There were the sacred images of his family which his forbears established... These too he had sent to Megara. He took them out of the country without a qualm at the name ancestral images... established in a strange and uncongenial place, as aliens to the soil."
+      ],
+      "reasoning": "The prosecutor frames the removal of ancestral religious statues (theophany/images) from Athenian soil as a violation of traditional custom, implying that while physical goods may be moved, religious lineage property belongs to the land/city.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to citizens with established family lineages and ancestral shrines.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Grain export restriction",
+      "rule_category": "Economic regulation",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to export grain to foreign ports",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§28] And yet, gentlemen, in cases of this sort your laws lay down the most severe penalties if an Athenian transports corn to any place other than your city."
+      ],
+      "reasoning": "Athenian law strictly regulated the grain trade, specifically prohibiting citizens from shipping grain to any destination other than Athens to ensure the city's food supply.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all Athenian citizens engaged in maritime trade or transport.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave judicial torture",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify without torture",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§30] Every one of you knows that in matters of dispute it is considered by far the justest and most democratic course, when there are male or female slaves, who possess the necessary information, to examine these by torture and so have facts to go upon instead of hearsay, particularly when the case concerns the public and is of vital interest to the state."
+      ],
+      "reasoning": "In Athenian law, the evidence of a slave was only admissible if obtained through judicial torture (basanos), which was considered a standard and 'just' procedure.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all slaves (male and female) who are potential witnesses in legal disputes.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Senior military exemption",
+      "rule_category": "Military service obligation",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Exemption from field service",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] The men who had outlived their stength and were advanced in life, exempt by law from service in the field, could be seen throughout the city, now on the threshold of the grave, wretchedly scurrying with their cloaks pinned double round them."
+      ],
+      "reasoning": "Men over a certain age (implied elsewhere as 60, but described here as 'advanced in life') were legally exempt from active military duty in the field.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific age demographic within the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Emergency manumission",
+      "rule_category": "Access to status",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom from enslavement",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] ...the sight which would most surely have stirred the onlooker and moved him to tears over the sorrows of Athens was to see the people vote that slaves should be released, that aliens should become Athenians and the disfranchised regain their rights..."
+      ],
+      "reasoning": "During the extreme emergency following the defeat at Chaeronea, the Athenian assembly voted for an extraordinary measure to release slaves, granting them freedom to bolster the city's defense.",
+      "specificity": 3,
+      "specificity_reasoning": "This was a collective grant affecting many individuals, though triggered by a specific historical crisis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Emergency naturalization",
+      "rule_category": "Access to citizenship",
+      "group": "Foreigners",
+      "group_category": "Citizenship",
+      "resource": "Citizenship status",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] ...the sight which would most surely have stirred the onlooker and moved him to tears over the sorrows of Athens was to see the people vote that slaves should be released, that aliens should become Athenians and the disfranchised regain their rights..."
+      ],
+      "reasoning": "In the same emergency decree, resident aliens (metics) were granted full citizenship to ensure their participation in the city's defense.",
+      "specificity": 4,
+      "specificity_reasoning": "This targeted the resident alien population of Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Restoration of rights",
+      "rule_category": "Legal status restoration",
+      "group": "Disfranchised citizens",
+      "group_category": "Legal status",
+      "resource": "Political and legal rights (Atimia reversal)",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§42] ...the sight which would most surely have stirred the onlooker and moved him to tears over the sorrows of Athens was to see the people vote that slaves should be released, that aliens should become Athenians and the disfranchised regain their rights..."
+      ],
+      "reasoning": "Citizens who had lost their rights (atimia) were granted a restoration of those rights to allow them to serve the state during the crisis.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific sub-group of citizens who had been legally penalized.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Treason-based execution",
+      "rule_category": "Capital punishment",
+      "group": "Deserters",
+      "group_category": "Citizenship",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§53] For the council of the Areopagus [...] seized and executed men who then had fled from their country and abandoned it to the enemy."
+      ],
+      "reasoning": "The Areopagus exercised emergency powers to summarily execute citizens who fled the city during the wartime crisis, treating desertion as a capital offense.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to citizens who committed the specific act of fleeing during an emergency.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Merchant travel procedure",
+      "rule_category": "Freedom of movement",
+      "group": "Merchants",
+      "group_category": "Occupation",
+      "resource": "Right to depart without public oversight",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§56] The first point is that men travelling as merchants do not leave by the postern on the beach; they embark inside the harbor with all their friends watching to see them off."
+      ],
+      "reasoning": "Customary and likely legal practice required merchants to depart from the main harbor under public observation; departing from a hidden 'postern' was considered evidence of illicit flight.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those identifying as and acting as commercial merchants.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Merchant naval enlistment obligation",
+      "rule_category": "Obligation of military service",
+      "group": "Merchants",
+      "group_category": "Occupation",
+      "resource": "Right to pursue trade during wartime",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§58] For surely it is outrageous, when men abroad on business were hurrying to the city’s help, that Leocrates alone should sail away at such a time for purposes of trade, since no one would then have thought of adding to his wealth. Men’s only care was to preserve what they already had. I should like Leocrates to tell me what merchandise he could have brought us to render him more useful than he would have been, had he presented himself before the generals for enrollment and had resisted the invaders by fighting at your sides."
+      ],
+      "reasoning": "The text indicates that during an invasion, the pursuit of private trade is subservient to the civic obligation to enroll for military service. Economic activity does not exempt one from the draft.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to citizens engaged in trade during periods of military crisis.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Death penalty for theft",
+      "rule_category": "Access to judicial life",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from capital punishment for minor theft",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§66] It was not their way, when prescribing the death penalty for the thief who stole a hundred talents, to approve a punishment less severe for one who took ten drachmas. [§67] For all breaches of the law alike, however small, they fixed upon the death penalty, making no special allowances, in their assessment of the magnitude of crimes, for the individual circumstances of each."
+      ],
+      "reasoning": "Lycurgus cites the traditional Athenian legal standards where even small-scale theft was met with the death penalty based on the principle of deterring wider social harm.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies broadly to any citizen who commits the act of theft, regardless of the amount.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Equal punishment for homicide",
+      "rule_category": "Access to judicial protection",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to equal judicial vengeance for life",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§66] They did not differentiate between him who killed a slave and him who killed a free man, by fining one and outlawing the other."
+      ],
+      "reasoning": "The author claims that under the early lawgivers, the penalty for killing a slave was the same as killing a free man (implied to be death), suggesting a legal resource of protection for the slave's life equivalent to a citizen's.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the specific legal status of slaves in the context of homicide.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ephebic military oath",
+      "rule_category": "Obligation of public duty",
+      "group": "Ephebi",
+      "group_category": "Age",
+      "resource": "Right to remain in the city during war",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§77] There is an oath which you take, sworn by all citizens when, as ephebi, they are enrolled on the register of the deme, not to disgrace your sacred arms, not to desert your post in the ranks, but to defend your country and to hand it on better than you found it.",
+        "[§78] I will not bring dishonor on my sacred arms nor will I abandon my comrade wherever I shall be stationed. I will defend the rights of gods and men and will not leave my country smaller, when I die, but greater and better, so far as I am able by myself and with the help of all."
+      ],
+      "reasoning": "Young men reaching the age of majority (ephebi) must swear an oath that legally and religiously binds them to military service and prevents them from leaving their posts or the country during danger.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to a specific age-grade of citizens during their transition to full adulthood.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Juryman/Official religious bond",
+      "rule_category": "Obligation of public duty",
+      "group": "Jurymen",
+      "group_category": "Occupation",
+      "resource": "Exemption from divine vengeance for verdicts",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§80] The power which keeps our democracy together is the oath. For there are three things of which the state is built up: the archon, the juryman and the private citizen. Each of these gives this oath as a pledge, and rightly so. [...] But the gods no one who broke his oath would deceive."
+      ],
+      "reasoning": "Those holding legal and civic office are required to swear oaths that place them under divine scrutiny, removing the 'resource' of acting with impunity or escaping consequences through human deception.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to specific roles within the Athenian political and legal system.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Grant of permanent maintenance",
+      "rule_category": "Grant of economic privilege",
+      "group": "Foreign benefactors",
+      "group_category": "Origin",
+      "resource": "Right to maintenance in the Prytaneum",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§88] To Cleomantis of Delphi the city made a grant of maintenance in the Prytaneum for himself and his descendants for ever."
+      ],
+      "reasoning": "The text records a specific legal grant given to a non-citizen (a Delphian) and his lineage as a reward for civic service, providing a permanent material entitlement from public resources.",
+      "specificity": 7,
+      "specificity_reasoning": "While the rule applies to a specific lineage, it represents a broader legal mechanism for rewarding foreign benefactors (proxeny/evergetism).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Posthumous land share",
+      "rule_category": "Access to burial rights",
+      "group": "Kings",
+      "group_category": "Lineage",
+      "resource": "Right to a share in the country after death",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§89] For they were entitled, even after death, to a share in the country which they so zealously preserved."
+      ],
+      "reasoning": "The text identifies a specific funerary/territorial right where kings who died for the state are legally and religiously entitled to a persistent 'portion' or 'share' of the land.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically concerns the highest social rank (kings) and their unique funerary status.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial sanctuary limitation",
+      "rule_category": "Access to judicial protection",
+      "group": "Condemned criminals",
+      "group_category": "Legal standing",
+      "resource": "Protection from execution at religious altars",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§94] [93] How he fled and later, hearing from the god at Delphi that if he returned to Athens he would have fair treatment by the laws, came back and taking refuge at the altar of the twelve gods was none the less put to death by the state, and rightly so, for fair treatment by the laws is, in the case of wrongdoers, punishment."
+      ],
+      "reasoning": "The narrative confirms that in Athenian practice, the religious right of sanctuary ('asylia') did not protect a person already legally condemned to death from execution, even if they reached an altar.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual who has been legally condemned, a broad category of legal status.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Recitation exclusivity",
+      "rule_category": "Cultural monopoly",
+      "group": "Homer",
+      "group_category": "Occupation",
+      "resource": "Exclusive right to public recitation at Panathenaea",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§103] [102] I want also to recommend Homer to you. In your fathers’ eyes he was a poet of such worth that they passed a law that every four years at the Panathenaea he alone of all the poets should have his works recited"
+      ],
+      "reasoning": "The text mentions a specific law (nomos) regulating the Panathenaic festival which granted a monopoly to one poet's works, effectively excluding all other poets from this specific public resource/platform.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule applies to the works of a single individual/category of poetry.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Military leadership requisition",
+      "rule_category": "Access to political command",
+      "group": "Athenians",
+      "group_category": "Origin",
+      "resource": "Right to command foreign (Spartan) armies",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§106] [105] when in days gone by the Spartans, so renowned for courage, were at war with the Messenians the god advised them to take a leader from us; for so they would defeat their enemies. ... [§107] [106] Does any Greek not know that they took Tyrtaeus from our city to be their leader"
+      ],
+      "reasoning": "The text describes a historical legal/diplomatic event where an Athenian was appointed as a leader over Spartan forces, overriding the standard hereditary command of the Heraclidae.",
+      "specificity": 6,
+      "specificity_reasoning": "This concerns the interstate relationship between two specific citizen groups (Athenians and Spartans).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Soldier mandatory choral assembly",
+      "rule_category": "Mandatory cultural participation",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to communal military education",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§108] Though they have no regard for other poets, they valued his works so highly that they passed a law which provides that their men, after taking the field, shall be summoned to the king’s tent to hear the verses of Tyrtaeus all together, holding that this of all things would make them most ready to die for their country."
+      ],
+      "reasoning": "The text describes a Spartan law requiring soldiers in the field to assemble and listen to patriotic poetry, as a formal civic mechanism to instill military readiness.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all Spartan citizens serving in the army during a campaign.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Traitor burial prohibition",
+      "rule_category": "Denial of funerary rights",
+      "group": "Traitors",
+      "group_category": "Citizenship",
+      "resource": "Right to burial in native soil",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§114] They decreed publicly, on the motion of Critias, that the dead man should be tried for treason, and that if it were found that this was a tratior who had been buried in the country, his bones should be dug up and removed from Attica, so that the land should not have lying in it even the bones of one who had betrayed his country and his city."
+      ],
+      "reasoning": "The Athenian decree against Phrynichus shows that those convicted of treason (even post-mortem) lost the right to have their remains within Attic territory.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule targets a specific legal category (the convicted traitor) but is applied on a case-by-case basis based on judicial outcome.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Traitor advocate liability",
+      "rule_category": "Legal restriction",
+      "group": "Legal defenders of traitors",
+      "group_category": "Citizenship",
+      "resource": "Protection from vicarious punishment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§115] They decreed also that if any persons defended the dead man and he were found guilty, they should be liable to the same punishment as he."
+      ],
+      "reasoning": "Under the decree mentioned, individuals who attempted to legally defend someone accused of treason faced the same radical penalties (such as death or loss of burial) if the defendant was found guilty.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies specifically to those choosing to perform a particular legal action (defense) in a treason case.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Treason-based asset destruction",
+      "rule_category": "Property confiscation",
+      "group": "Traitors",
+      "group_category": "Citizenship",
+      "resource": "Right to maintain public memorials",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§118] When Hipparchus, the son of Charmus, did not stand his trial for treason before the people but let the case go by default, they sentenced him to death. Then, as they did not secure his person to answer for the crime, they took down his statue from the Acropolis and, melting it down, made a pillar of it, on which they decreed that the names of sinners and traitors should be inscribed."
+      ],
+      "reasoning": "The case of Hipparchus demonstrates that traitors lose the right to public honor and their private/public property (statues) can be seized and repurposed by the state as a form of ignominy.",
+      "specificity": 7,
+      "specificity_reasoning": "While specific to statues of honor, it indicates a broader loss of property rights for those fleeing trial for treason.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wartime movement restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Adult male citizens",
+      "group_category": "Citizenship",
+      "resource": "Freedom of movement within the state",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§122] It says that they condemned any who moved to Decelea in war-time and laid it down that those who were caught returning should be led by any Athenian who cared to do so to the Thesmothetae who should take them into custody and hand them over to the executioner."
+      ],
+      "reasoning": "The text cites an Athenian decree that prohibited citizens from moving to the enemy-occupied fort of Decelea during wartime, punishing such movement with death.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any citizen attempting the specified movement during a state of war.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Summary execution for tyranny",
+      "rule_category": "Protection from bodily harm",
+      "group": "Tyrannical conspirators",
+      "group_category": "Political power",
+      "resource": "Protection from extrajudicial execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§126] For they established it by decree and oath that anyone who found a person aspiring to tyranny or attempting to betray the city or overthrow the democracy should be guiltless if he killed him."
+      ],
+      "reasoning": "In post-Thirty Tyrants Athens, a law (the decree of Demophantus) removed the legal protection of the body for those attempting to overthrow the democracy, permitting any citizen to kill them without legal consequence.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule targets a specific behavioral subset (conspirators) but is a general law applicable to anyone perceived to be in that category.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Spartan cowardice death penalty",
+      "rule_category": "Capital punishment",
+      "group": "Spartan soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to life after retreat",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§130] They passed a law, covering all who refused to risk their lives for their country, which expressly stated that they should be put to death."
+      ],
+      "reasoning": "Lycurgus cites a Spartan law that mandates the death penalty for soldiers who show cowardice or refuse to risk their lives in battle.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the entire Spartan citizen-soldier class during war.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Foreign residency exclusion",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Exiles for treason",
+      "group_category": "Exiles",
+      "resource": "Right to reside as an alien",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§134] That is why no city let him reside within it as an alien. He was naturally expelled more quickly than a murderer. Exiles for murder who move into another city do not meet with enmity among their hosts; but what city could admit Leocrates?"
+      ],
+      "reasoning": "The text explicitly states that while murderers might be tolerated as resident aliens in other cities, those who desert or betray their own country are systematically denied the right to reside elsewhere even as foreigners.",
+      "specificity": 4,
+      "specificity_reasoning": "While this refers specifically to traitors, it describes a general interstate custom regarding the status of exiles.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Judicial presence of family",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to have family present in court",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§142] Though it may not be customary at any other time for members of the jury to set their wives and children beside them in the court, at least in a trial for treason this practice ought to have been sanctioned... Since, however, custom and tradition have not sanctioned this and you must act on their behalf"
+      ],
+      "reasoning": "Lycurgus notes that Athenian legal custom and tradition specifically forbid family members (wives and children) from being present in the court during trials, even when the speaker believes their presence would be morally justified.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all defendants and juries in the Athenian legal system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Civic resource access",
+      "rule_category": "Denial of citizenship rights",
+      "group": "Deserters",
+      "group_category": "Citizenship",
+      "resource": "Access to cults, markets, and laws",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§143] it is outrageous that he is returnIng to have access to your cults and sacrifices, to your market, your laws and constitution, when to save these from destruction a thousand of your citizens fell at Chaeronea and received public burial from the city."
+      ],
+      "reasoning": "The orator argues that a man who deserted his post should be legally barred from the fundamental rights of a citizen: participating in religious sacrifices, using the marketplace, and being protected by the laws and constitution.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a specific class of citizens (those who fled/deserters) but describes the loss of general rights.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public service credit",
+      "rule_category": "Grant of economic privilege",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to judicial leniency through liturgies",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§140] Some of them indeed are no longer using arguments to try to deceive you; they will even cite their own public services in favor of the defendants. ... To earn your gratitude he must, instead, have been distinguished as a trierarch, or built walls to protect his city, or subscribed generously from his own property for the public safety. These are services to the state"
+      ],
+      "reasoning": "The text confirms the Athenian custom of the 'charis' (gratitude), where wealthy citizens who performed expensive public services (liturgies like trierarchy) could use these contributions as a legal resource to gain leniency or favor for themselves or friends in court.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the elite class of citizens capable of performing such expensive services.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Ancestral burial rights",
+      "rule_category": "Denial of property rights",
+      "group": "Deserters",
+      "group_category": "Citizenship",
+      "resource": "Right to maintain ancestral memorials and rites",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§148] He is guilty too of injuring his forbears, for he effaced their memorials and deprived them of their rites, and guilty of desertion and refusal to serve, since he did not submit his person to the leaders for enrollment."
+      ],
+      "reasoning": "Abandoning the city is legally/customarily framed as a loss of the right to maintain family cults and memorials, a grave civic and religious obligation in Athens.",
+      "specificity": 4,
+      "specificity_reasoning": "This specifically targets those who flee the city, resulting in a loss of specific familial/religious rights.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 6,
+  "_file_id": "tlg0034.tlg001.perseus-eng2",
+  "_input_tokens": 45166,
+  "_output_tokens": 8522,
+  "_model": "google/gemini-3-flash-preview"
+}

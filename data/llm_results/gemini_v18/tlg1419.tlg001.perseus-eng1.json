@@ -1,0 +1,2692 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Slave saleability",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from being sold",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] He who brought me up sold me to a certain Rhoda at Rome."
+      ],
+      "reasoning": "The narrator (Hermas) states he was sold by the person who raised him to a woman in Rome. This indicates that individuals in the status of a slave or bondman could be legally sold as property within Roman society.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the broad class of enslaved persons in Rome during this period.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Parental correctional duty",
+      "rule_category": "Obligation of public duty",
+      "group": "Parents",
+      "group_category": "Age",
+      "resource": "Right to be free from divine/communal anger for children's conduct",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] But you are indulgent, and do not correct your family, but have allowed them to become corrupt. For this reason the Lord is angry with you, but he will heal all the past evils in your family, for because of their sins and wickednesses have you been corrupted by the things of daily life.",
+        "[§1] Do not cease, then, correcting your children, for I know that if they repent with all their heart, they will be inscribed in the books of life with the saints."
+      ],
+      "reasoning": "The text explicitly links the father's moral standing and divine favor to his active correction of his children. Failure to discipline or 'correct' the family results in the father losing his own standing and being held responsible for their corruption.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all parents/heads of households within the community described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealth-based exclusion",
+      "rule_category": "Denial of religious/future rewards",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Hope for future spiritual goods",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§1] But they who have evil designs in their hearts bring upon themselves death and captivity, especially those who obtain this world for themselves, and glory in their wealthy and do not lay hold of the good things which are to come. Their hearts will repent; yet have they no hope, but they have abandoned themselves and their life."
+      ],
+      "reasoning": "The text identifies the wealthy (those who 'glory in their wealth') as a specific category that loses 'hope' and the 'good things which are to come' because they prioritize material acquisition over communal/spiritual standards.",
+      "specificity": 4,
+      "specificity_reasoning": "This targets a specific economic class within the society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Parental correctional authority",
+      "rule_category": "Access to judicial protection",
+      "group": "Parents",
+      "group_category": "Age",
+      "resource": "Right to exercise domestic discipline",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§17] But you are indulgent, and do not correct your family, but have allowed them to become corrupt. [...] Do not cease, then, correcting your children, for I know that if they repent with all their heart, they will be inscribed in the books of life with the saints."
+      ],
+      "reasoning": "The text establishes a social and moral obligation for the head of the household (parents) to actively correct and discipline their children, framing the failure to do so as a personal transgression of the parent. This implies a recognized legal and customary authority over the conduct of family members.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies broadly to the head of any family unit within the society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Heathen repentance access",
+      "rule_category": "Exclusion from religious standing",
+      "group": "Heathen",
+      "group_category": "Origin",
+      "resource": "Extended period for repentance",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] For the Master has sworn to his elect by his glory that if there be still sin after this day has been fixed, they shall find no salvation; for repentance for the just has an end; the days of repentance have been fulfilled for all the saints, but for the heathen repentance is open until the last day."
+      ],
+      "reasoning": "The text outlines a clear legalistic distinction between groups (Saints/Elect vs. Heathen). While the 'Saints' are subject to a strict deadline for repentance, the 'Heathen' are granted a longer period of eligibility to change their status, showing a different set of rules for those outside the primary legal/religious group.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a large specific category of people (non-Christians) within the broader society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Church leadership administrative duty",
+      "rule_category": "Obligation of public duty",
+      "group": "Leaders of the Church",
+      "group_category": "Occupation",
+      "resource": "Political and administrative authority",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] You shall say, then, to the leaders of the Church, that they reform their ways in righteousness, to receive in full the promises with great glory.",
+        "[§26] Clement then shall send it to the cities abroad, for that is his duty; and Grapte shall exhort the widows and orphans; but in this city you shall read it yourself with the elders who are in charge of the church."
+      ],
+      "reasoning": "The text identifies specific roles (Elders, Clement, Grapte) with associated duties: foreign correspondence, communal reading, and oversight of specific vulnerable groups (widows/orphans). This reflects an organized hierarchy with specific civic/communal powers.",
+      "specificity": 7,
+      "specificity_reasoning": "The rule applies only to a small group of office-holders or functionaries within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Widow and orphan assistance",
+      "rule_category": "Access to public resources",
+      "group": [
+        "Widows",
+        "Age"
+      ],
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to communal exhortation and support",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] and Grapte shall exhort the widows and orphans;"
+      ],
+      "reasoning": "The text identifies widows and orphans as a specific category entitled to organized communal attention and 'exhortation' by a designated official (Grapte), implying a customary right to institutional support.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to specific vulnerable sub-groups within the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Elect salvation deadline",
+      "rule_category": "Exclusion from religious standing",
+      "group": "Saints",
+      "group_category": "Citizenship",
+      "resource": "Right to salvation through repentance",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§32] the days of repentance have been fulfilled for all the saints, but for the heathen repentance is open until the last day."
+      ],
+      "reasoning": "The 'Saints' (the primary group of the community) are losing the right to repent after a certain fixed day, whereas other groups retain it. This acts as a legal restriction on their standing within the community.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the entire community of 'Saints' or 'Elect' mentioned in the text.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Male head domestic correction",
+      "rule_category": "Access to judicial protection",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from paternal correction",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§41] But, Hermas, no longer bear a grudge against your children, nor neglect your sister, that they may be cleansed from their former sins. For they will be corrected with righteous correction, if you bear no grudge against them.",
+        "[§42] [2] But you, Hermas, had great troubles of your own because of the transgressions of your family, because you did not pay attention to them. But you neglected them and became entangled in their evil deeds."
+      ],
+      "reasoning": "The text identifies the father's (Hermas) failure to 'pay attention' or properly 'correct' his children as a source of his own 'troubles.' It frames 'righteous correction' as a necessary duty of the head of the household to cleanse secondary family members of sin, implying children are subject to the father's disciplinary authority within the community.",
+      "specificity": 4,
+      "specificity_reasoning": "Applicable to all families within the early Christian community, a significant but specific sub-group of the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Clerical communication monopoly",
+      "rule_category": "Access to political power",
+      "group": "Elders",
+      "group_category": "Occupation",
+      "resource": "Right to receive and distribute official texts",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] The ancient lady came and asked me if I had already given the book to the elders. [...] but in this city you shall read it yourself with the elders who are in charge of the church."
+      ],
+      "reasoning": "The visionary instructions specify that the text must be given to and read with the 'elders who are in charge,' establishing a formal hierarchy for the reception of communal directives and information.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies only to a very small group of leaders (presbyters/elders) within the local church structure.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Foreign mission distribution authority",
+      "rule_category": "Access to political power",
+      "group": "Clement",
+      "group_category": "Occupation",
+      "resource": "Right to conduct international correspondence",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§49] [3] You shall therefore write two little books and send one to Clement and one to Grapte. Clement then shall send it to the cities abroad, for that is his duty."
+      ],
+      "reasoning": "The text identifies a specific administrative role (Clement's duty) to communicate with 'cities abroad,' indicating a division of labor and a specific person/office holding the right to represent the community externally.",
+      "specificity": 10,
+      "specificity_reasoning": "This refers to the specific duties of one named individual or his specific office.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female communal exhortation",
+      "rule_category": "Access to political power",
+      "group": "Grapte",
+      "group_category": "Gender",
+      "resource": "Right to exhort vulnerable groups",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§49] [3] You shall therefore write two little books and send one to Clement and one to Grapte. [...] and Grapte shall exhort the widows and orphans."
+      ],
+      "reasoning": "The text assigns a specific gendered role where a woman (Grapte) is authorized to 'exhort' specific sub-segments of the community (widows and orphans), showing a structured but limited female leadership role.",
+      "specificity": 9,
+      "specificity_reasoning": "Refers to a specific named woman or a very narrow category of female leader.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Widow and orphan assistance",
+      "rule_category": "Grant of economic privilege",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Access to communal guidance and resources",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§49] [3] Grapte shall exhort the widows and orphans; but in this city you shall read it yourself with the elders who are in charge of the church."
+      ],
+      "reasoning": "By specifically naming widows and orphans as the targets of Grapte's exhortation and the distribution of the 'book,' the text confirms these groups as recognized categories within the social structure entitled to specific communal care and administrative attention.",
+      "specificity": 5,
+      "specificity_reasoning": "These are common social categories in the period, representing a vulnerable but distinct portion of society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Martyr seating precedence",
+      "rule_category": "Access to political succession",
+      "group": "Martyrs",
+      "group_category": "Status",
+      "resource": "Right to seat of honor",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] The seat on the right is for others, who have already been found well-pleasing to God and have suffered for the Name. But you fall far short of sitting with them. [...] Listen, she said: Stripes, imprisonments, great afflictions, crucifixions, wild beasts, for the sake of the Name. Therefore is it given to them to be on the right hand of the Holiness"
+      ],
+      "reasoning": "The text establishes a strict hierarchy for seating (a proxy for status/authority) based on having undergone physical suffering for the faith. Those who survived 'Stripes, imprisonments, great afflictions, crucifixions' are granted the right to the 'right hand' seat, which is denied to others.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the community (those who have suffered persecution) rather than the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Wealthy exclusion from Church",
+      "rule_category": "Denial of property rights",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Full membership in the community",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§50] These are they which have faith, but have also the riches of this world. When persecution comes, because of their wealth and because of business they deny their Lord. [...] so too they who have riches in this world cannot be useful to the Lord unless their wealth be cut away from them."
+      ],
+      "reasoning": "The text explicitly states that wealthy individuals are 'useless' for the construction of the 'tower' (the Church) because their material assets and business interests cause them to apostatize. Their full inclusion is contingent upon the removal of their wealth.",
+      "specificity": 3,
+      "specificity_reasoning": "Wealthy individuals represent a significant but distinct economic class within the Roman-era Christian community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Mandatory wealth redistribution",
+      "rule_category": "Obligation of public duty",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to retain surplus goods",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§50] Now, therefore, listen to me and be at peace among yourselves, and regard one another and help one another, and do not take a superabundant share of the creatures of God for yourselves, but give also a part to those who lack. [...] So this lack of sharing is harmful to you who are rich, and do not share with the poor."
+      ],
+      "reasoning": "The text commands those with 'superabundant shares' to redistribute their resources to the hungry. It frames the retention of surplus as a harm to the soul and a cause of physical injury to the poor, effectively establishing a rule against private hoarding of excess food.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule targets property owners and those with surplus, a broad but defined group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Poor access to food",
+      "rule_category": "Access to public resources",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Access to community food resources",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] Let therefore they who have over-abundance seek out those who are hungry, so long as the tower is not yet finished; for when the tower has been finished you will wish to do good, and will have no opportunity."
+      ],
+      "reasoning": "The text dictates that the hungry have a moral and communal claim on the over-abundance of the wealthy during the period the community ('the tower') is being formed.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to a large segment of the population defined by the general trait of being 'destitute' or 'hungry'.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Apostate exclusion from salvation",
+      "rule_category": "Religious access",
+      "group": "Apostates",
+      "group_category": "Status",
+      "resource": "Right to repent and rejoin",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§50] And they who are falling into the fire and are being burnt, these are they who finally apostatize from the living God, and it no longer enters into their hearts to repent because of their licentious lusts, and the crimes which they have committed."
+      ],
+      "reasoning": "The text defines a category of persons who, through 'licentious lusts' and 'crimes', lose the capacity/right to repent, leading to their total exclusion from the community (the tower) and its benefits.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to a specific group defined by a final change in religious/legal status within the community.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Elders' seating precedence",
+      "rule_category": "Age-based social precedence",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to seating precedence",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§59] [8] And after the young men had gone away and we were alone, she said to me: Sit here. I said to her: Lady, let the elders sit first."
+      ],
+      "reasoning": "Hermas's instinctive response to be seated by the 'Lady' is to defer to the 'elders' (presbyteroi), indicating a social or ecclesiastical norm where older members or officials of the community have the right to be seated before others.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific leadership or age-based class within the community, but is a general rule for that group's interactions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Martyr honorary seating",
+      "rule_category": "Access to religious honor",
+      "group": "Martyrs",
+      "group_category": "Occupation",
+      "resource": "Right to prestigious seating",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§60] [9] The seat on the right is for others, who have already been found well-pleasing to God and have suffered for the Name.",
+        "[§62] [1] Listen, she said: Stripes, imprisonments, great afflictions, crucifixions, wild beasts, for the sake of the Name. Therefore is it given to them to be on the right hand of the Holiness."
+      ],
+      "reasoning": "The text establishes a clear rule of hierarchy within the sacred space (the couch/the Church): those who have undergone specific physical punishments (martyrdom/confession) are granted the 'right hand' seat, a concrete symbol of superior status and 'glory' over other members.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule is very specific to those who have undergone specific physical trials (suffering for the Name).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Non-martyr seating restriction",
+      "rule_category": "Exclusion from religious honor",
+      "group": "Non-martyrs",
+      "group_category": "Occupation",
+      "resource": "Right to prestigious seating",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§60] [9] Yet when I wished to sit on the right hand she would not let me, but signed to me with her hand to sit on the left.",
+        "[§62] [1] Therefore is it given to them to be on the right hand of the Holiness, and to everyone who shall suffer for the Name; but for the rest there is the left side."
+      ],
+      "reasoning": "While all members have 'the same promises,' the text explicitly bars those who have not suffered (non-martyrs) from the seat of honor (the right side), relegating them to the left side.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the majority of the community who have not faced capital punishment or torture.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ecclesiastical leadership status",
+      "rule_category": "Access to religious authority",
+      "group": "Apostles, bishops, teachers, and deacons",
+      "group_category": "Occupation",
+      "resource": "Right to foundational status in the community",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§81/§82] The stones which are square and white and which fit into their joins are the Apostles and bishops and teachers and deacons who walked according to the majesty of God, and served the elect of God in holiness and reverence as bishops and teachers and deacons; some of them are fallen asleep and some are still alive."
+      ],
+      "reasoning": "The text identifies specific clerical offices as the 'square and white' stones that form the bedrock of the 'tower' (the church community), granting these roles a primary and permanent status in the social/religious structure.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies specifically to those holding recognized offices within the early Christian community.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Martyr eligibility for inclusion",
+      "rule_category": "Religious inclusion",
+      "group": "Martyrs",
+      "group_category": "Occupation",
+      "resource": "Right to inclusion in the central community",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§81/§83] But who are they who have been brought out of the deep sea, and added on to the building, and agree in their joins with the other stones which have already been built? These are they who have suffered for the name of the Lord."
+      ],
+      "reasoning": "Those who have 'suffered' (martyrs or confessors) are explicitly granted immediate and perfect integration into the 'tower' alongside the leadership.",
+      "specificity": 7,
+      "specificity_reasoning": "Martyrs represent a specific subset of the community defined by their endurance of persecution.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealthy exclusion from community",
+      "rule_category": "Denial of religious membership",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to community membership",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§87/§92] These are they which have faith, but have also the riches of this world. When persecution comes, because of their wealth and because of business they deny their Lord.",
+        "[§87/§93] so too they who have riches in this world cannot be useful to the Lord unless their wealth be cut away from them."
+      ],
+      "reasoning": "The text establishes a rule that material riches and the pursuit of business are incompatible with the stability of the 'tower' (the community), leading to exclusion unless the wealth is removed.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual with significant property or business interests within the group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Penitent social demotion",
+      "rule_category": "Restriction of religious status",
+      "group": "Sinner-penitents",
+      "group_category": "Lineage",
+      "resource": "Right to honorable standing in the tower",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§95/§100] I was still unabashed and asked her whether really all these stones which have been cast away, and do not fit into the building of the tower,—whether repentance is open to them, and they have a place in this tower. Repentance, she said, they have, but they cannot fit into this tower.",
+        "[§95/§101] But they will fit into another place much less honourable, and even this only after they have been tormented and fulfilled the days of their sins"
+      ],
+      "reasoning": "While repentance is possible, the society imposes a 'less honourable' secondary status on those who have sinned after joining, denying them re-entry into the primary 'tower' and requiring a period of 'torment' (penance).",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any member who has committed a breach of community rules and seeks restoration.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Proselyte admission delay",
+      "rule_category": "Access to full membership",
+      "group": "New converts",
+      "group_category": "Age",
+      "resource": "Unconditional integration into the community",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§81/§85] They are young in the faith and faithful; but they are being exhorted by the angels to good deeds, because wickedness has been found in them."
+      ],
+      "reasoning": "Converts who are 'young in the faith' are treated with suspicion and subjected to extra scrutiny and exhortation before they are considered fully integrated stones, due to residual 'wickedness' from their previous lives.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies broadly to all new members entering the community.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Obligation of wealth sharing",
+      "rule_category": "Obligation of public duty",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to retain superabundant property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§114] Now, therefore, listen to me and be at peace among yourselves, and regard one another and help one another, and do not take a superabundant share of the creatures of God for yourselves, but give also a part to those who lack.",
+        "[§118] So this lack of sharing is harmful to you who are rich, and do not share with the poor."
+      ],
+      "reasoning": "The text establishes a clear social and religious mandate for the wealthy within the community to divest themselves of 'superabundant' resources to support the destitute. Failure to do so is framed as a harmful violation of communal peace and carries the penalty of exclusion from the 'tower' (the community of the saved).",
+      "specificity": 3,
+      "specificity_reasoning": "The rule applies to all individuals categorized as 'rich' or possessing 'over-abundance' within the early Christian community described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Destitute right to subsistence",
+      "rule_category": "Access to public resources",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Access to communal food resources",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§114] ...but give also a part to those who lack. For some are contracting illness in the flesh by too much eating, and are injuring their flesh, and the flesh of the others who have nothing to eat is being injured by their not having sufficient food and their body is being destroyed."
+      ],
+      "reasoning": "The text asserts a right for those who 'lack' or 'have nothing to eat' to receive a portion of the goods held by others. It identifies the physical destruction of the poor's bodies as a result of the rich withholding resources, implying the poor have a legitimate claim on the community's surplus.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad class of the destitute or hungry within the society addressed.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Leader heart cleansing requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Church leaders",
+      "group_category": "Occupation",
+      "resource": "Right to receive divine mercy",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§121] Therefore I speak now to the leaders of the Church and to those who take the chief seats. Be not like the sorcerers, for sorcerers carry their charms in boxes, but you carry your charms and poison in your hearts. [§122] You are hardened, and will not cleanse your hearts, and mix your wisdom together in a pure heart that you may find mercy by the great King."
+      ],
+      "reasoning": "The text imposes a specific behavioral and spiritual condition on those in 'chief seats' (leaders). While mercy is the resource, it is framed within a civic-religious 'judgment' context where leaders lose the standing to receive this mercy if they harbor internal 'poison' or disagreements, unlike the general population who may not have the same corrective burden.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically targets a small subset of the population: those holding high-ranking offices or 'chief seats' in the organization.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Wealthy exclusion from tower",
+      "rule_category": "Denial of citizenship rights",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to enter the tower (communal assembly)",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§120] See to it then, you who rejoice in your wealth, that the destitute may not groan, and their groans go up to the Lord, and you with your goods be shut outside the door of the tower."
+      ],
+      "reasoning": "The 'tower' represents the concrete assembly of the 'saints.' The text threatens the wealthy with literal exclusion ('shut outside the door') from this body if they do not address the grievances of the destitute, effectively stripping them of their status within the community.",
+      "specificity": 4,
+      "specificity_reasoning": "While focused on the wealthy, the threat of exclusion is a general mechanism used against a significant economic class.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Senior inheritance rights",
+      "rule_category": "Access to political succession",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to inherit property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        " [§141] When anyone is old, he already despairs of himself by reason of his weakness and poverty, and expects nothing except the last day of his life. Then an inheritance was suddenly left him, and he heard it, and rose up and was very glad and put on his strength; and he no longer lies down but stands up, and his spirit which was already destroyed by his former deeds is renewed, and he no longer sits still, but takes courage."
+      ],
+      "reasoning": "The text uses a parable to explain spiritual renewal, but the premise of the parable relies on the legal reality that an elderly person (even one in poverty) is a valid subject for receiving an inheritance, which then changes their material status and legal standing.",
+      "specificity": 3,
+      "specificity_reasoning": "This refers to the general category of elderly individuals within the legal framework of the time.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public road access",
+      "rule_category": "Grant of economic privilege",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Freedom of movement on public roads",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§150] I was going into the country by the Via Campana. The place is about ten furlongs from the public road, and is easily reached."
+      ],
+      "reasoning": "The text mentions the 'public road' (Via Campana) as a standard, accessible infrastructure for movement into the country, implying a right of and ease of access for the general population/citizens to use state-maintained thoroughfares.",
+      "specificity": 2,
+      "specificity_reasoning": "Public roads are accessed by the vast majority of the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Religious mission mandate",
+      "rule_category": "Obligation of public duty",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to speak to the community",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§150] Go then and tell the Lord’s elect ones of his great deeds, and tell them that this beast is a type of the great persecution which is to come... Therefore do not cease to speak to the ears of the saints."
+      ],
+      "reasoning": "Hermas is given a specific civic/religious duty to act as a messenger to the 'elect' (the community). This establishes a rule where designated figures have the right and obligation to disseminate information and warnings to the group, a form of assembly-related power.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies specifically to those recognized as messengers or leaders within the religious sub-community.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Poor relief for distressed",
+      "rule_category": "Access to public resources",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to receive charity without penalty",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§190] Do good, and of all your toil which God gives you, give in simplicity to all who need, not doubting to whom you shall give and to whom not: give to all, for to all God wishes gifts to be made of his own bounties. Those then who receive shall render an account to God why they received it and for what. For those who accepted through distress shall not be punished, but those who accepted in hypocrisy shall pay the penalty."
+      ],
+      "reasoning": "The text establishes a social rule within the community regarding the distribution of resources (alms/charity). It explicitly protects those in 'distress' from the social or divine 'penalty' associated with taking resources under false pretenses, effectively granting them a legitimate claim to community support.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies broadly to the 'needy' or 'distressed' within the community, which constitutes a significant segment of the population addressed.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Hypocrite charity exclusion",
+      "rule_category": "Denial of economic privilege",
+      "group": "Wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to receive community resources",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§190] For those who accepted through distress shall not be punished, but those who accepted in hypocrisy shall pay the penalty."
+      ],
+      "reasoning": "By contrasting those in 'distress' with those in 'hypocrisy', the rule functions to bar those who do not actually need the resources (implicitly those with existing means) from accessing communal charity, backed by the threat of a 'penalty'.",
+      "specificity": 4,
+      "specificity_reasoning": "This targets a specific subset of people who attempt to claim resources they do not strictly require according to the community's standards.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Universal charity obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Retention of full earnings from labor",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§190] Do good, and of all your toil which God gives you, give in simplicity to all who need, not doubting to whom you shall give and to whom not: give to all, for to all God wishes gifts to be made of his own bounties."
+      ],
+      "reasoning": "The text mandates that those who 'toil' and earn must redistribute their resources to 'all who need.' This functions as a customary tax or mandatory charitable contribution that reduces the individual's retention of their own goods.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any individual within the society who earns or possesses the results of 'toil'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Charitable resource allocation",
+      "rule_category": "Access to public resources",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to receive communal charity",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§195] Do good, and of all your toil which God gives you, give in simplicity to all who need, not doubting to whom you shall give and to whom not: give to all, for to all God wishes gifts to be made of his own bounties."
+      ],
+      "reasoning": "The text establishes a social obligation for those with means ('toil') to distribute resources to those in need without discrimination, effectively granting the needy a customary right to support from the community's collective labor.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies broadly to anyone defined by the 'need' for material support within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Adulterous spouse expulsion",
+      "rule_category": "Marriage restriction",
+      "group": "Adulterous wives",
+      "group_category": "Gender",
+      "resource": "Right to remain in the marital home",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§206] So long as he is ignorant, said he, he does not sin, but if the husband knows her sin, and the wife does not repent, but remains in her fornication, and the husband go on living with her, he becomes a partaker of her sin, and shares in her adultery. What then, said I, sir, shall the husband do if the wife remain in this disposition? Let him put her away, he said, and let the husband remain by himself."
+      ],
+      "reasoning": "The text commands the husband to divorce and expel a wife who persists in adultery, removing her legal and customary right to cohabitation and marital status.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule is specific to married women who have committed a particular breach of contract (adultery).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Repentant spouse reinstatement",
+      "rule_category": "Family reconciliation",
+      "group": "Repentant wives",
+      "group_category": "Gender",
+      "resource": "Right to be received back by husband",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§206] If then, said I, sir, after the wife be put away she repent, and wish to return to her own husband, shall she not be received? Yes, said he; if the husband do not receive her he sins and covers himself with great sin; but it is necessary to receive the singer who repents, but not often, for the servants of God have but one repentance."
+      ],
+      "reasoning": "The text mandates that a husband must take back a divorced wife if she repents (once), granting her a restorative right to her former domestic and legal position.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a narrow sub-group: formerly divorced women who have undergone a specific religious/moral change.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Divorced male remarriage prohibition",
+      "rule_category": "Marriage restriction",
+      "group": "Divorced men",
+      "group_category": "Gender",
+      "resource": "Right to marry another",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§206] But if he put his wife away and marry another he also commits adultery himself. [...] Therefore, for the sake of repentance the husband ought not to marry."
+      ],
+      "reasoning": "The community rules forbid a man who has 'put away' his wife from entering a new marriage, effectively restricting his legal right to contract a new union.",
+      "specificity": 4,
+      "specificity_reasoning": "This affects all divorced men within the group, which is a significant category.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Widow/Widower remarriage right",
+      "rule_category": "Marriage access",
+      "group": "Widows and Widowers",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to remarry without penalty",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§206] If, sir, said I, a wife, or on the other hand a husband, die, and the survivor marry, does the one who marries commit sin? He does not sin, said he, but if he remain single he gains for himself more exceeding honour and great glory with the Lord, but even if he marry he does not sin."
+      ],
+      "reasoning": "While celibacy is preferred for 'honor,' the text explicitly confirms that those whose spouses have died retain the legal and social right to remarry without being classified as sinners/adulterers.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to any surviving spouse in the community.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adulterous wife separation mandate",
+      "rule_category": "Mandatory marital separation",
+      "group": "Husbands",
+      "group_category": "Gender",
+      "resource": "Right to cohabit with spouse",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§212] So long as he is ignorant, said he, he does not sin, but if the husband knows her sin, and the wife does not repent, but remains in her fornication, and the husband go on living with her, he becomes a partaker of her sin, and shares in her adultery. [§213] What then, said I, sir, shall the husband do if the wife remain in this disposition? Let him put her away, he said, and let the husband remain by himself."
+      ],
+      "reasoning": "The text establishes a formal communal rule for Christian husbands: once the adultery of a wife is known and she is unrepentant, the husband is religiously and socially required to 'put her away' (divorce/separate) or else be legally/spiritually classified as an adulterer himself.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to married men within the Christian community dealing with a specific marital crisis.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prohibition of remarriage",
+      "rule_category": "Marriage restriction",
+      "group": "Husbands",
+      "group_category": "Gender",
+      "resource": "Right to remarry after divorce",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§213] Let him put her away, he said, and let the husband remain by himself. But if he put his wife away and marry another he also commits adultery himself."
+      ],
+      "reasoning": "While the husband is commanded to separate from an unfaithful wife, the text explicitly denies him the right to marry another person, defining such an act as adultery.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to divorced men within the religious community.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Repentant wife reinstatement",
+      "rule_category": "Access to marital restoration",
+      "group": "Wives",
+      "group_category": "Gender",
+      "resource": "Right to return to husband after repentance",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§214] If then, said I, sir, after the wife be put away she repent, and wish to return to her own husband, shall she not be received? [§215] Yes, said he; if the husband do not receive her he sins and covers himself with great sin; but it is necessary to receive the sinner who repents, but not often, for the servants of God have but one repentance."
+      ],
+      "reasoning": "The text mandates that a husband must receive back a repentant wife who had been put away for adultery, granting the woman a specific legal/customary right to restoration within the household, though limited to a single instance.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies to women who have been divorced for a specific cause and have met the condition of repentance.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Limited post-baptismal repentance",
+      "rule_category": "Access to judicial/communal mercy",
+      "group": "Baptized Christians",
+      "group_category": "Citizenship",
+      "resource": "Right to single post-baptismal repentance",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§230] But I tell you, said he, after that great and holy calling, if a man be tempted by the devil and sin, he has one repentance, but if he sin and repent repeatedly it is unprofitable for such a man, for scarcely shall he live."
+      ],
+      "reasoning": "Hermas articulates a specific community rule regarding legal/spiritual standing: after the 'holy calling' (baptism), a member is granted exactly one opportunity for formal repentance for grave sins. This is a concrete limit on their standing within the group.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all members of the specific religious society (the 'servants of God').",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Widow remarriage permission",
+      "rule_category": "Marriage right",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Right to remarry without sin",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§233] If, sir, said I, a wife, or on the other hand a husband, die, and the survivor marry, does the one who marries commit sin? [§234] He does not sin, said he, but if he remain single he gains for himself more exceeding honour and great glory with the Lord, but even if he marry he does not sin."
+      ],
+      "reasoning": "The text clarifies the legal/moral status of survivors in a marriage, explicitly granting the right to remarry without the penalty of 'sin' (which in this context carries exclusion or death), distinguished from the prohibition on remarrying after divorce.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to all surviving spouses in the community.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Religious intercession validity",
+      "rule_category": "Access to ritual efficacy",
+      "group": "The ill-tempered",
+      "group_category": "Health",
+      "resource": "Value of religious intercession before God",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§237, §244] If, therefore, ill temper be mixed with courage, the courage is defiled, and its intercession is no longer valuable before God."
+      ],
+      "reasoning": "The text establishes a rule where a specific emotional/dispositional state (ill temper) nullifies the material spiritual benefit of intercession (prayer/mediation), rendering the ritual act useless in the eyes of the divine authority.",
+      "specificity": 4,
+      "specificity_reasoning": "It applies to any member of the community who fails to maintain a specific temperament, which is presented as a common moral danger.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Repentant preservation",
+      "rule_category": "Access to judicial protection",
+      "group": "The repentant",
+      "group_category": "Occupation",
+      "resource": "Protection and preservation by the divine authority",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§237, §245] And all shall refrain from it, who repent with all their heart; for I will be with them, and will preserve them, for all have been made righteous by the most revered angel."
+      ],
+      "reasoning": "Repentance is treated here as a formal category that triggers a guarantee of preservation and a change in legal/moral status (being 'made righteous') enforced by a specific official entity (the angel).",
+      "specificity": 3,
+      "specificity_reasoning": "Repentance is a broad status available to the entire community of believers.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Faith-based protection from harm",
+      "rule_category": "Access to security",
+      "group": "The faithful",
+      "group_category": "Citizenship",
+      "resource": "Immunity from being led astray by evil spirits",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§237, §247] But it does not lead astray those who are filled with faith, nor can it work evil to them, because my power is with them, but it leads astray those who are vain and are double-minded."
+      ],
+      "reasoning": "The text defines a certain group (those filled with faith) as having a concrete protection ('my power is with them') that grants immunity from specific harms described as 'evil' workings.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a large subset of the community defined by their commitment to the group's core tenets.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Double-minded vulnerability to harm",
+      "rule_category": "Denial of security",
+      "group": "The double-minded",
+      "group_category": "Health",
+      "resource": "Protection from mental and spiritual interference",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§237, §247] but it leads astray those who are vain and are double-minded. And when it sees such men in tranquillity, it forces its way into the heart of that man, and the man or woman is made bitter out of nothing."
+      ],
+      "reasoning": "The text identifies the 'double-minded' as a group lacking the protection afforded to the faithful, making them susceptible to having their internal state ('the heart') forcibly entered and manipulated.",
+      "specificity": 4,
+      "specificity_reasoning": "This targets a specific psychological/behavioral demographic within the broader society.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Servant of God luxury restriction",
+      "rule_category": "Restriction of economic privilege",
+      "group": "Servants of God",
+      "group_category": "Occupation",
+      "resource": "Right to partake in luxury and feasts",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§255] Next the desire of many deeds and the luxury of much eating and drinking, and many feasts, and various and unnecessary foods, and the desire of women, and covetousness and haughtiness, and pride, and whatsoever things are akin and like to these,— when, therefore, these things come into your heart, know that the angel of wickedness is with you. When, therefore, you know his deeds, keep from him, and do not trust him, because his deeds are evil and unprofitable for the servants of God."
+      ],
+      "reasoning": "The text explicitly defines luxury items (feasts, expensive food, excess drinking) as works of the 'angel of wickedness' and states these actions are 'unprofitable' and to be avoided by the 'servants of God.' This establishes a community norm where members are restricted from specific consumption patterns.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the population (the religious community or 'servants of God') rather than the general public, but is a general rule for that entire group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Right to righteous counsel",
+      "rule_category": "Access to judicial protection",
+      "group": "The righteous",
+      "group_category": "Lineage",
+      "resource": "Right to be believed in social/legal dealings",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§255] They relate, then, to the righteous and to the unrighteous: do you therefore believe the righteous, but do not believe the unrighteous. For that which is righteous has a straight path, but that which is unrighteous a crooked path."
+      ],
+      "reasoning": "The text mandates a discriminatory rule regarding testimony and belief: the 'righteous' are granted the resource of belief/trust, while the 'unrighteous' are systematically denied it. This reflects a social stratification based on perceived moral status (often tied to group membership in this context).",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies broadly to anyone categorized under these two large social/moral headers within the community.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Unrighteous testimonial exclusion",
+      "rule_category": "Denial of legal standing",
+      "group": "The unrighteous",
+      "group_category": "Lineage",
+      "resource": "Right to be believed in social/legal dealings",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§258] do you therefore believe the righteous, but do not believe the unrighteous."
+      ],
+      "reasoning": "The text explicitly commands the listener to withhold belief from a specific group (the unrighteous). This is a concrete loss of social and potentially legal standing within the community's assembly or judicial processes.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to a large category of people defined by their status relative to the community's laws.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Commandment-keeper life entitlement",
+      "rule_category": "Access to public resources",
+      "group": "Commandment observers",
+      "group_category": "Occupation",
+      "resource": "Right to life with God (communal inclusion)",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§273] Those, therefore who fear him and observe his commandments,—it is they who have life with God. But as for those who do not observe his commandments, neither have they life in him."
+      ],
+      "reasoning": "The text establishes 'life with God' (which in Hermas refers to membership in the saved community and its protections) as a resource granted only to those who perform the 'occupation' of keeping the commandments, while others are excluded.",
+      "specificity": 2,
+      "specificity_reasoning": "This is the primary dividing line for the entire society addressed by the author.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Widow maintenance",
+      "rule_category": "Grant of economic privilege",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Right to receive material support",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§291] [10] Next hear the things which follow: To minister to widows, to look after orphans and the destitute, to redeem from distress the servants of God, to be hospitable, for in hospitality may be found the practice of good..."
+      ],
+      "reasoning": "The text lists 'ministering to widows' as a mandatory 'deed of goodness' for the community (servants of God). This establishes a customary rule where widows are entitled to active care and material support from the religious group.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific demographic group (widows) within the expanding early Christian community, which constitutes a significant but defined portion of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Orphan and destitute care",
+      "rule_category": "Grant of economic privilege",
+      "group": "Orphans",
+      "group_category": "Age",
+      "resource": "Right to receive material support",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§291] [10] Next hear the things which follow: To minister to widows, to look after orphans and the destitute, to redeem from distress the servants of God, to be hospitable, for in hospitality may be found the practice of good..."
+      ],
+      "reasoning": "The text explicitly commands the community to 'look after orphans', creating a social rule that grants this vulnerable age group access to community resources and protection.",
+      "specificity": 4,
+      "specificity_reasoning": "Orphans are a specific sub-group of the population with defined needs addressed by the rule.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Debtor protection from oppression",
+      "rule_category": "Access to judicial protection",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Protection from predatory debt enforcement",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§291] [10] ...not to oppress poor debtors, and whatever is like to these things."
+      ],
+      "reasoning": "The instruction 'not to oppress poor debtors' constitutes a rule of restraint for creditors within the community, granting the poor a right to be free from harsh or abusive debt collection practices.",
+      "specificity": 3,
+      "specificity_reasoning": "Economic hardship was common, so this rule likely applied to a large segment of the urban population addressed in the text.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly reverence",
+      "rule_category": "Access to social deference",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to be treated with reverence",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§291] [10] ...to reverence the aged, to practise justice, to preserve brotherhood, to submit to insult, to be brave, to bear no malice..."
+      ],
+      "reasoning": "Reverencing the aged is listed as a concrete requirement of social conduct ('deeds of goodness'), establishing a right for the elderly to receive specific behavioral deference from younger members of society.",
+      "specificity": 3,
+      "specificity_reasoning": "The group 'the aged' is a broad demographic category encompassing everyone above a certain life stage.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prisoner/Distress redemption",
+      "rule_category": "Grant of economic privilege",
+      "group": "The destitute",
+      "group_category": "Wealth",
+      "resource": "Right to be ransomed/redeemed from distress",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§291] [10] ...to redeem from distress the servants of God, to be hospitable, for in hospitality may be found the practice of good..."
+      ],
+      "reasoning": "The community is obligated to 'redeem' those in distress. In Second Century context, this often referred to paying debts or ransoming those facing imprisonment or slavery for debt, granting the distressed a right to communal financial intervention.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those within the group ('servants of God') who have fallen into extreme legal or financial crisis.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Petitionary prayer access",
+      "rule_category": "Access to religious rituals",
+      "group": "The double-minded",
+      "group_category": "Health",
+      "resource": "Right to have petitions fulfilled by God",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§300] [5] But if you doubt in your heart, you shall receive none of your petitions. For those who have doubts towards God, these are the double-minded, and they shall not in any wise obtain any of their petitions."
+      ],
+      "reasoning": "The text establishes a clear exclusion from the benefits of prayer (the fulfillment of petitions) based on the mental/spiritual state of 'double-mindedness' (doubt), contrasted with the 'perfect' who receive all things.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a significant subset of the religious community who struggle with doubt, which the text suggests is a common condition ('uproots many').",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Theological understanding restriction",
+      "rule_category": "Exclusion from religious knowledge",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Access to understanding of religious parables",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§313] [4] Listen, he said, those who have never inquired concerning the truth, nor made search concerning the Godhead, but only have faith, and are mixed up with business and riches, and heathen friendships, and many other occupations of this world,—such as are intent on these, do not understand the parables of the Godhead."
+      ],
+      "reasoning": "The author outlines a rule of spiritual cognitive exclusion: those engaged with riches and worldly business are systematically barred from understanding the 'parables of the Godhead' due to their preoccupation with material wealth.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad category of the wealthy and business-engaged within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Intercession validity restriction",
+      "rule_category": "Denial of religious standing",
+      "group": "Mourners",
+      "group_category": "Health",
+      "resource": "Power of intercession reaching the altar of God",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§308] For the intercession of the mournful man has nowhere power to ascend to the altar of God. Why, said I, does not the intercession of the mournful man ascend to the altar? Because, said he, grief sits in his heart. Therefore, the grief which is mixed with his intercession does not permit the intercession to ascend in purity to the altar."
+      ],
+      "reasoning": "The text explicitly states that the prayers (intercessions) of those in a state of 'grief' or 'mourning' are functionally blocked from reaching the divine altar, a concrete loss of religious efficacy.",
+      "specificity": 5,
+      "specificity_reasoning": "It targets individuals in a specific emotional/spiritual state that prevents them from utilizing a standard communal resource (prayer/intercession).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Retention of the Holy Spirit",
+      "rule_category": "Access to spiritual status",
+      "group": "The ill-tempered",
+      "group_category": "Health",
+      "resource": "Right to the indwelling of the Holy Spirit",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§316] Put therefore away from yourself grief, and do not oppress the Holy Spirit which dwells in you, lest it beseech God, and it depart from you. For the Spirit of God which is given to this flesh endures neither grief nor oppression."
+      ],
+      "reasoning": "The text describes a rule where the 'oppression' caused by ill temper and grief results in the literal departure of a religious resource (the Holy Spirit) from the individual.",
+      "specificity": 4,
+      "specificity_reasoning": "While any person can become ill-tempered, the rule describes a specific spiritual consequence for those who persist in that state within the group of believers.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Prophetic reward prohibition",
+      "rule_category": "Religious conduct restriction",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to accept payment for prophecy",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§328] In the first place, that man who seems to have a spirit exalts himself and wishes to have the first place, and he is instantly impudent and shameless and talkative, and lives in great luxury and in many other deceits, and accepts rewards for his prophecy, and if he does not receive them he does not prophesy. Is it then possible for a Divine Spirit to accept rewards and prophesy? It is not possible for a prophet of God to do this, but the spirit of such prophets is of the earth."
+      ],
+      "reasoning": "The text establishes a rule for identifying true prophets within the early Christian community: a true prophet is prohibited from accepting rewards or fees for their spiritual services. Accepting payment is categorized as a mark of a false, 'earthly' prophet, meaning valid religious practitioners lose the right to monetize their office.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically targets a small subset of the population identified as prophets or religious leaders.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Mourner intercession exclusion",
+      "rule_category": "Denial of religious access",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to effective ritual intercession",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§323] For the intercession of the mournful man has nowhere power to ascend to the altar of God. Why, said I, does not the intercession of the mournful man ascend to the altar? Because, said he, grief sits in his heart. Therefore, the grief which is mixed with his intercession does not permit the intercession to ascend in purity to the altar."
+      ],
+      "reasoning": "The text describes a systematic exclusion where individuals in a state of 'grief' (mournful men) are denied the efficacy of their prayers and intercessions. Their spiritual 'petitions' are blocked from reaching the altar, a concrete religious disadvantage within the community's framework.",
+      "specificity": 4,
+      "specificity_reasoning": "While specifically about 'mourners', the text treats this as a broad state of mind that can affect many people, though it is a distinct category from the 'faithful' or 'joyful'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prophetic assembly exclusion",
+      "rule_category": "Restriction of religious movement",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Freedom to enter righteous assemblies",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§328] Next, on no account does he come near to an assembly of righteous men, but shuns them. ... But when he comes into a meeting full of righteous men, who have a spirit of the Godhead, and intercession is made by them, that man is made empty, and the earthly spirit flees from him in fear, and that man is made dumb and is altogether broken up, being able to say nothing."
+      ],
+      "reasoning": "The text outlines a social and spiritual barrier for those identified as 'false' or 'earthly' prophets (those who seek rewards or luxury). They are pressured to shun the assembly of the 'righteous', and if they do enter, they are systematically silenced (made dumb), effectively losing their right to speak or function within the community's primary gathering.",
+      "specificity": 9,
+      "specificity_reasoning": "It specifically targets the 'false prophet' as a distinct, identifiable persona within the religious social structure.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Property-based prophetic validation",
+      "rule_category": "Requirement of poverty",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to accumulate wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§328] Test the man who has the Divine Spirit by his life. In the first place, he who has the spirit which is from above, is meek and gentle, and lowly-minded, and refrains from all wickedness and evil desire of this world, and makes himself poorer than all men"
+      ],
+      "reasoning": "The text indicates that for a prophet to be recognized as legitimate ('having the spirit from above'), he must intentionally divest himself of wealth. This creates a customary rule where religious status is contingent upon the loss of the right to property and material accumulation.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to the specific group of individuals claiming prophetic status.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prophetic reward prohibition",
+      "rule_category": "Economic restriction on clergy",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to accept rewards for prophecy",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§341] In the first place, that man who seems to have a spirit exalts himself and wishes to have the first place, and he is instantly impudent and shameless and talkative, and lives in great luxury and in many other deceits, and accepts rewards for his prophecy, and if he does not receive them he does not prophesy. Is it then possible for a Divine Spirit to accept rewards and prophesy? It is not possible for a prophet of God to do this, but the spirit of such prophets is of the earth."
+      ],
+      "reasoning": "The text establishes a clear communal rule that a 'prophet of God'—a specific religious occupation—is barred from accepting material rewards for the exercise of his spiritual office. Accepting payment is the defining characteristic used to identify a false prophet and exclude them from the category of the righteous.",
+      "specificity": 8,
+      "specificity_reasoning": "I chose 8 because this rule specifically targets individuals claiming the status of a prophet within the religious community, which is a small, specialized group.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prophetic assembly exclusion",
+      "rule_category": "Exclusion from sacred spaces",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to attend the assembly of the righteous",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§342] Next, on no account does he come near to an assembly of righteous men, but shuns them. But he cleaves to the double-minded and empty, and prophesies to them in a corner, and deceives them by empty speech about everything according to their lusts, for he is also answering the empty."
+      ],
+      "reasoning": "The text describes a rule of social and spatial separation where 'earthly' or false prophets are excluded from (or must shun) the formal gathering of the righteous, being instead relegated to private 'corners.'",
+      "specificity": 8,
+      "specificity_reasoning": "I chose 8 because it specifically applies to the sub-group of those practicing prophecy who do not meet the community's criteria for 'divine' inspiration.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prophetic silence obligation",
+      "rule_category": "Religious speech restriction",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Right to speak at will in assembly",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§337] In the first place, he who has the spirit which is from above, is meek and gentle, and lowly-minded, and refrains from all wickedness and evil desire of this world, and makes himself poorer than all men, and gives no answers to anyone when he is consulted, nor does he speak by himself (for the Holy Spirit does not speak when a man wishes to speak), but he speaks at that time when God wishes him to speak."
+      ],
+      "reasoning": "In the context of the early Christian assembly, even the 'true' prophet is under a rule of silence; he lacks the right to speak based on his own volition or in response to direct consultation, being permitted to speak only under specific charismatic conditions.",
+      "specificity": 7,
+      "specificity_reasoning": "I chose 7 because it governs the behavior of recognized leaders (prophets) during communal meetings.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Human dominion over nature",
+      "rule_category": "Grant of ecological control",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Power to master all creatures and creation",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§351] Do you not understand the glory of God, how great and mighty and wonderful it is, because he created the world for man’s sake, and subdued all his creation to man, and gave him all power, to master all things under heaven?"
+      ],
+      "reasoning": "The author cites a foundational societal and theological rule that 'man' (as a category of humans) has been granted legal/customary mastery over the physical world and all other creatures. This is used to argue that humans have the capacity to master moral laws.",
+      "specificity": 1,
+      "specificity_reasoning": "I chose 1 because this rule applies to all of humanity as a general class.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Luxury consumption restriction",
+      "rule_category": "Restriction of economic privilege",
+      "group": "Servants of God",
+      "group_category": "Occupation",
+      "resource": "Right to use wealth for luxury",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§356] Before all is desire for the wife or husband of another, and of extravagance of wealth, and much needless food and drink, and many other foolish luxuries. For all luxury is foolish and vain for the servants of God."
+      ],
+      "reasoning": "The text explicitly identifies 'servants of God' as a group for whom luxury and the extravagance of wealth are forbidden, establishing a community-specific rule against certain types of material consumption.",
+      "specificity": 3,
+      "specificity_reasoning": "While 'servants of God' is a general religious category, it functions as a distinct socio-religious group within the broader Roman society with specific behavioral restrictions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prohibition of adultery",
+      "rule_category": "Marriage restriction",
+      "group": "Servants of God",
+      "group_category": "Occupation",
+      "resource": "Right to pursue another's spouse",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§357] [1] Before all is desire for the wife or husband of another, and of extravagance of wealth, and much needless food and drink, and many other foolish luxuries. For all luxury is foolish and vain for the servants of God."
+      ],
+      "reasoning": "The text identifies the desire for another's spouse as a primary 'wicked desire' that the group must refrain from, effectively codifying the prohibition of adultery for this specific community.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to the entire subset of society identified as 'servants of God'.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Loss of salvation",
+      "rule_category": "Denial of legal standing",
+      "group": "Commandment violators",
+      "group_category": "Occupation",
+      "resource": "Protection of children and household",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§362] But now I say to you, if you do not keep them, but neglect them, you shall not have salvation, nor your children, nor your house, because you have already judged for yourself that these commandments cannot be kept by man. [§368] [6] But now I say to you, if you do not keep them, but neglect them, you shall not have salvation, nor your children, nor your house, because you have already judged for yourself that these commandments cannot be kept by man."
+      ],
+      "reasoning": "The text describes a rule where failure to adhere to the community's commandments leads to the loss of protection/status for not only the individual but their children and household, representing a concrete social/familial penalty.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule targets a specific behavioral subset within the religious group, but the consequences affect the family unit (house/children).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Dominion over creation",
+      "rule_category": "Grant of economic privilege",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Power over all creatures and things",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§371] [2] ...he created the world for man’s sake, and subdued all his creation to man, and gave him all power, to master all things under heaven?"
+      ],
+      "reasoning": "The author asserts a rule of hierarchy where humanity (specifically 'man') is granted legal and actual mastery over all earth-bound resources and creatures as a foundational social/structural fact.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule applies to the most general level of the human species in the author's worldview.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious expulsion from city",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Right to reside in the city",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§392] [3] ... For the Lord of this city will say: I do not wish you to dwell in my city, but go out from this city, because you do not use my law.",
+        "[§393] [4] ... For the lord of this country justly says to you, Either use my law or go out from my country.",
+        "[§395] [6] ... whenever the master of this city wishes to expel you for resisting his law, you may go out from his city"
+      ],
+      "reasoning": "The text describes the contemporary social reality where Christians (servants of God), viewed as living in a 'strange country' (the Roman world/secular city), are subject to expulsion if they do not adhere to the local 'law' (likely pagan customs or imperial cult requirements).",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific religious minority within the broader urban population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Property forfeiture upon expulsion",
+      "rule_category": "Denial of property rights",
+      "group": "Christians",
+      "group_category": "Origin",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§393] [4] If then you have fields and dwellings, and many other possessions, when you are cast out by him, what will you do with your land and house, and all the other things which you have prepared for yourself?"
+      ],
+      "reasoning": "The author warns that when Christians are expelled for their faith ('cast out'), they effectively lose the use and benefit of their fixed assets like land and houses, as these stay within the power of the 'master of the city.'",
+      "specificity": 4,
+      "specificity_reasoning": "This concerns the property-owning subset of the Christian minority.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Provision for vulnerable groups",
+      "rule_category": "Access to public resources",
+      "group": "Widows and orphans",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Right to material support",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§397] [8] Therefore instead of lands, purchase afflicted souls, as each is able, and look after widows and orphans, and do not despise them, and spend your wealth and all your establishments for such fields and houses as you have received from God."
+      ],
+      "reasoning": "The text codifies a communal rule within the Christian society requiring the wealthy to divert their resources to support widows and orphans as a religious and civic duty.",
+      "specificity": 3,
+      "specificity_reasoning": "Widows and orphans are broad but clearly defined categories of vulnerable persons in ancient society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Wealth-based community support",
+      "rule_category": "Obligation of public duty",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to retain surplus wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§398] [9] For, for this reason did the Master make you rich, that you should fulfil these ministries for him.",
+        "[§401] ...But when the rich man rests upon the poor, and gives him what he needs... the rich man likewise provides the poor, without hesitating, with the wealth which he received from the Lord"
+      ],
+      "reasoning": "The text establishes a social rule where wealth is not for private accumulation but must be shared with the poor. The rich man is 'busied about his riches' but is expected to 'provide the poor' with his necessities.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies generally to the affluent members of the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Intercessory standing for poor",
+      "rule_category": "Access to religious agency",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to provide spiritual intercession",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§401] ...because the poor is rich in intercession and confession, and his intercession has great power with God... for he knows that the intercession of the poor is acceptable and rich toward the Lord."
+      ],
+      "reasoning": "Within this community's structure, the poor are granted a specific 'resource'—the recognized power of their prayers/intercession—which the rich must 'purchase' or rely upon through charity, creating a reciprocal social obligation.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the impoverished class within the community.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Poor spiritual intercession",
+      "rule_category": "Reciprocal religious labor",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to provision of necessities",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§407] But when the rich man rests upon the poor, and gives him what he needs, he believes that what he does to the poor man can find a reward with God, because the poor is rich in intercession and confession, and his intercession has great power with God. [§410] So also the poor; interceding with the Lord for the rich; complement their wealth; and again; the rich helping the poor with their necessities complement their prayers."
+      ],
+      "reasoning": "The text describes a concrete social arrangement in the early Christian community where the poor are entitled to material support ('what he needs', 'necessities') from the wealthy in exchange for the spiritual 'service' of intercessory prayer.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule governs the interaction between two major segments of the community (rich and poor) based on their economic status.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealthy spiritual dependency",
+      "rule_category": "Spiritual resource allocation",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Effective intercession with the divine",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§407] The rich man has much wealth, but he is poor as touching the Lord, being busied about his riches, and his intercession and confession towards the Lord is very small, and that which he has is weak and small, and has no other power."
+      ],
+      "reasoning": "The text establishes that the wealthy, by virtue of their preoccupation with riches, lack the 'power' of intercession (a concrete spiritual resource in this context) that the poor possess, necessitating a trade of material goods for the poor's prayers.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all individuals defined as 'rich' within the community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Business-based prayer exclusion",
+      "rule_category": "Religious access restriction",
+      "group": "Business owners",
+      "group_category": "Occupation",
+      "resource": "Right to receive requests from the Lord",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§424] For those who do much business also sin much, being engrossed in their business, and serving their Lord in nothing. [§425] How then, said he, can such a one pray for anything from the Lord and receive it, when he does not serve the Lord? They who serve him,—they shall receive their requests. But they who do not serve the Lord,—they shall receive nothing."
+      ],
+      "reasoning": "Hermas sets a rule that those involved in 'much business' are effectively barred from the resource of answered prayer because their occupation is seen as preventing service to God. Only those with limited business are granted this 'standing'.",
+      "specificity": 4,
+      "specificity_reasoning": "This targets a specific subset of the population engaged in high-volume commercial activity.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Wealth transfer duty",
+      "rule_category": "Obligation of public duty",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Retention of full property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§409] And the rich man likewise provides the poor, without hesitating, with the wealth which he received from the Lord; and this work is great and acceptable with God; because he has understanding in his wealth; and has wrought for the poor man from the gifts of the Lord; and fulfilled his ministry rightly."
+      ],
+      "reasoning": "The text frames wealth not as private property but as a 'gift from the Lord' that must be redistributed to the poor. Successful membership in the group requires 'fulfilling his ministry' by giving away the surplus.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general rule for the wealthy class within the religious society described.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave manumission for obedience",
+      "rule_category": "Access to freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Freedom from enslavement",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§428] Take this vineyard which I have planted, and fence it until I come, and do nothing more to the vineyard. And follow this order of mine and you shall have your freedom from me. [...] And he said to them: I promised this servant his freedom if he kept the orders which I gave him."
+      ],
+      "reasoning": "The text describes a standard conditional contract where a slave is granted freedom in exchange for fulfilling specific labor commands from the master. This reflects a customary legal mechanism for manumission in second-century Roman society.",
+      "specificity": 4,
+      "specificity_reasoning": "While specifically about a faithful servant, the practice of conditional manumission was a widespread legal reality for the slave class.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave inheritance rights",
+      "rule_category": "Access to property succession",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to inherit property as joint-heir",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§428] So in reward for this work which he has done I wish to make him joint heir with my son, because, when he had a good thought he did not put it on one side, but carried it out. The son of the master agreed with this plan, that the servant should be joint heir with the son."
+      ],
+      "reasoning": "The parable reflects the social possibility of a master elevating a slave to the status of an heir (often alongside manumission), granting them equal legal standing in succession to the biological son.",
+      "specificity": 7,
+      "specificity_reasoning": "Granting a slave joint-heirship with a biological son was a high-level reward for exceptional service, likely less common than basic manumission.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Charitable resource allocation",
+      "rule_category": "Grant of economic privilege",
+      "group": "Widows and orphans",
+      "group_category": [
+        "Gender",
+        "Age"
+      ],
+      "resource": "Access to public/private food resources",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§428] And you shall do thus: After completing what has been written, in that day on which you fast you shall taste nothing except bread and water, and you shall reckon the price of the expense for that day which you are going to keep, of the foods which you would have eaten, and you shall give it to a widow or an orphan or to some one destitute"
+      ],
+      "reasoning": "The text mandates a specific redistribution of material resources (the cost of a meal) to vulnerable groups as part of a formal ritual (the fast). This establishes a customary right for these groups to receive economic support from practitioners.",
+      "specificity": 3,
+      "specificity_reasoning": "Widows and orphans were broad categories in this society that relied on these established mechanisms of charity.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave food distribution",
+      "rule_category": "Access to rations",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to receive food distributions",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§428] But the servant took the food which was sent to him by the master, kept what was sufficient for himself, and distributed the rest to his fellow-servants. And his fellow-servants were glad when they received the food"
+      ],
+      "reasoning": "The text depicts a scenario where surplus food from the master's table is distributed among the under-servants, indicating a customary expectation of resource sharing within the slave household hierarchy.",
+      "specificity": 4,
+      "specificity_reasoning": "This describes the internal resource management of a large household with many servants.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Manumission for faithful service",
+      "rule_category": "Access to freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to manumission upon fulfillment of condition",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§435] And he chose out a certain servant, who was faithful, in good esteem and honour with him, and he called him and said to him: Take this vineyard which I have planted, and fence it until I come, and do nothing more to the vineyard. And follow this order of mine and you shall have your freedom from me.",
+        "[§442] And he said to them: I promised this servant his freedom if he kept the orders which I gave him. Now he has kept my orders, and has added good work in the vineyard, and greatly pleased me."
+      ],
+      "reasoning": "The text describes a legal-social contract common in the Roman era (the author's context) where a master promises freedom (manumission) to a slave contingent upon the successful completion of a specific task or period of faithful service.",
+      "specificity": 4,
+      "specificity_reasoning": "While manumission was a common legal mechanism, this specific rule applies to the subset of slaves who are given specific conditional tasks by their masters.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Testamentary joint inheritance",
+      "rule_category": "Access to political succession",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to be named joint heir",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§442] So in reward for this work which he has done I wish to make him joint heir with my son, because, when he had a good thought he did not put it on one side, but carried it out.",
+        "[§443] The son of the master agreed with this plan, that the servant should be joint heir with the son."
+      ],
+      "reasoning": "The parable reflects the Roman legal capacity for a master to name a slave as an heir in a will (usually accompanied by manumission), even allowing them to share an inheritance with legitimate biological sons.",
+      "specificity": 8,
+      "specificity_reasoning": "This is a very specific and high-level social elevation involving the transfer of significant estate assets to a former bondman.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Widow and orphan relief",
+      "rule_category": "Grant of economic privilege",
+      "group": [
+        "Widows",
+        "Age",
+        "Wealth"
+      ],
+      "group_category": [
+        "Gender",
+        "Age",
+        "Wealth"
+      ],
+      "resource": "Access to communal food resources",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§454] And you shall do thus: After completing what has been written, in that day on which you fast you shall taste nothing except bread and water, and you shall reckon the price of the expense for that day which you are going to keep, of the foods which you would have eaten, and you shall give it to a widow or an orphan or to some one destitute"
+      ],
+      "reasoning": "The author outlines a community rule where the savings from religious fasting are redirected as a mandatory material entitlement for the most vulnerable members of society (widows, orphans, and the destitute).",
+      "specificity": 3,
+      "specificity_reasoning": "This rule targets broad categories of the vulnerable within the community but is a frequent feature of early Christian social organization.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-baptismal sin healing",
+      "rule_category": "Access to judicial protection",
+      "group": "Servants of God",
+      "group_category": "Occupation",
+      "resource": "Access to divine healing for past ignorance",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§481] But, if, sir, said I, there was any previous ignorance before these words were heard, how can the man who defiled his flesh be saved? For the former ignorances, said he, it is possible for God alone to give healing, for he has all power, [§482] if, for the future, you defile neither the flesh nor the spirit; for both are in communion, and neither can be defiled without the other."
+      ],
+      "reasoning": "The text establishes a rule where individuals who have committed 'sins of ignorance' (defiling the flesh) prior to receiving specific commandments are granted a path to restoration/healing, provided they maintain purity afterward.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the community (those who sinned in ignorance) rather than the whole population, but it is a general theological-legal principle for that group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Fleshly purity for life",
+      "rule_category": "Protection from bodily harm",
+      "group": "Servants of God",
+      "group_category": "Occupation",
+      "resource": "Right to life and spiritual justification",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§480] For if you defile your flesh you defile also the Holy Spirit, and if you defile the flesh you shall not live.",
+        "[§482] Keep, therefore, both pure, and you shall live to God."
+      ],
+      "reasoning": "The text explicitly states that a failure to maintain the 'flesh' in a pure state results in the loss of 'life' (spiritual/legal existence within the community's standing), acting as a restrictive rule on bodily conduct.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all 'servants of God' (the Christian community Hermas is addressing).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Right to repentance",
+      "rule_category": "Access to judicial protection",
+      "group": "Deceived sinners",
+      "group_category": "Occupation",
+      "resource": "Hope of repentance and renewal",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§483] But the sheep which you see not skipping, but feeding in one place, these are they who have given themselves up to luxury and deceit, but have uttered no blasphemy against the Lord. These then have been corrupted from the truth; in them there is hope of repentance, in which they can live."
+      ],
+      "reasoning": "The text distinguishes a group that has sinned through luxury but refrained from blasphemy, granting them the specific legal/spiritual resource of 'hope of repentance' which leads to life.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific category of sinners within the broader group of those who have strayed.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Blasphemer exclusion from life",
+      "rule_category": "Denial of judicial protection",
+      "group": "Blasphemers",
+      "group_category": "Occupation",
+      "resource": "Right to repentance",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§483] For these, then, there is no repentance of life, because they added to their sins and blasphemed against the name of God. Such men incur death."
+      ],
+      "reasoning": "A specific exclusionary rule is mentioned for those who blaspheme: they are legally barred from the process of repentance and labeled for 'death'.",
+      "specificity": 6,
+      "specificity_reasoning": "This targets a specific subset of offenders defined by a specific breach of communal law.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial torture duration",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Apostates",
+      "group_category": "Occupation",
+      "resource": "Protection from extended punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§483] The time of luxury and deceit is one hour, but the hour of punishment has the power of thirty days. If, therefore, any man live in luxury and deceit for one day, and be punished one day, the day of punishment has the power of a whole year, for a man is punished as many years as he has lived days in luxury."
+      ],
+      "reasoning": "The text outlines a 'punishment' ratio enforced by the 'angel of punishment'. It is a formal rule of the society described, where the duration of suffering (loss, deprivation, illness) is mathematically extended relative to the duration of the offense.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all who fall under the jurisdiction of the 'angel of punishment' due to communal wandering.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Protection from loss/illness",
+      "rule_category": "Protection from bodily harm",
+      "group": "Servants of God",
+      "group_category": "Occupation",
+      "resource": "Protection from loss and illness",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§483] Hear, said he, the different tortures and punishments. The tortures befall them in this life, for some are punished with loss, others with deprivations, others with divers illnesses, others with all unsettlement, and others are insulted by the unworthy"
+      ],
+      "reasoning": "The text describes a system where members of the community lose their protection from material 'loss', 'deprivation', and 'illness' as a formal consequence of wandering from the commandments.",
+      "specificity": 3,
+      "specificity_reasoning": "It applies to any member of the group who deviates into 'luxury and deceit'.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Post-repentance divine support",
+      "rule_category": "Access to spiritual resources",
+      "group": "Penitents",
+      "group_category": "Religion",
+      "resource": "Divine strengthening and support",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§486] Be not double-minded at all, but put on the faith of the Lord, and you shall walk in them, for I will strengthen you in them."
+      ],
+      "reasoning": "The text establishes a rule that for those who commit to the commandments and the faith of the Lord, a supernatural/divine strengthening is provided to enable them to follow the rules, distinguishing them from those who remain 'double-minded'.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a broad religious community (the early Christians/Hermas' audience) rather than the whole of society, but it is a general condition for that group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Blasphemer exclusion from repentance",
+      "rule_category": "Denial of religious standing",
+      "group": "Blasphemers",
+      "group_category": "Religion",
+      "resource": "Right to repent",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§494] For these, then, there is no repentance of life, because they added to their sins and blasphemed against the name of God. Such men incur death."
+      ],
+      "reasoning": "The text explicitly denies the possibility of 'repentance of life' (a concrete status in this community) to those who have blasphemed, leading to permanent exclusion (death) as opposed to temporary corruption.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific sub-set of sinners within the religious community defined by a specific speech-act.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Sinful property loss",
+      "rule_category": "Punitive asset deprivation",
+      "group": "Deceived sinners",
+      "group_category": "Religion",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§503] The tortures befall them in this life, for some are punished with loss, others with deprivations, others with divers illnesses, others with all unsettlement, and others are insulted by the unworthy, and suffer many other things."
+      ],
+      "reasoning": "The text describes concrete worldly punishments ('in this life') for those who stray, including 'loss' and 'deprivations,' which in a 2nd-century context refer to material and property losses sanctioned as divine/social punishment.",
+      "specificity": 4,
+      "specificity_reasoning": "It applies to those regarded as 'fallen' within the community, using material loss as a disciplinary tool.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Sinner protection from insult",
+      "rule_category": "Denial of social protection",
+      "group": "Deceived sinners",
+      "group_category": "Religion",
+      "resource": "Protection from public insult",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§503] ...and others are insulted by the unworthy, and suffer many other things."
+      ],
+      "reasoning": "The text identifies being 'insulted by the unworthy' as a specific 'torture' or punishment that befalls the group in their current life. This suggests a loss of the usual social or legal protection against verbal abuse or loss of face.",
+      "specificity": 4,
+      "specificity_reasoning": "This relates to the social standing of an individual who has lost favor within the religious/communal hierarchy.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Punishment time ratio",
+      "rule_category": "Judicial sentencing",
+      "group": "Deceived sinners",
+      "group_category": "Religion",
+      "resource": "Protection from disproportionate punishment",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§510] The time of luxury and deceit is one hour, but the hour of punishment has the power of thirty days. If, therefore, any man live in luxury and deceit for one day, and be punished one day, the day of punishment has the power of a whole year, for a man is punished as many years as he has lived days in luxury."
+      ],
+      "reasoning": "The passage outlines a specific mathematical 'rule' for the duration of punishment (30:1 ratio compared to the time spent sinning). This is a concrete procedural rule governing how long an individual is subjected to the 'angel of punishment'.",
+      "specificity": 6,
+      "specificity_reasoning": "It is a highly specific calculation for a particular class of individuals (those who lived in 'luxury').",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Vicarious household punishment",
+      "rule_category": "Legal and communal liability",
+      "group": "Heads of households",
+      "group_category": "Lineage",
+      "resource": "Protection from punishment for the sins of others",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§519] I said to him: Sir, even if they have done such things that the glorious angel is enraged, what have I done? They cannot, said he, be punished in any other way, than if you, the head of the house, be afflicted. For when you are afflicted, they also will necessarily be afflicted, but while you prosper, they cannot suffer any affliction."
+      ],
+      "reasoning": "The text describes a systematic social and spiritual logic where the head of the family is the sole mechanism through which the rest of the household (children, servants) can be effectively punished or corrected. If the family sins, the head must suffer regardless of individual innocence.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all individuals who hold the status of 'head of a house' within the community, which is a significant but defined portion of society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Household repentance requirement",
+      "rule_category": "Communal religious standing",
+      "group": "Dependents",
+      "group_category": "Age",
+      "resource": "Right to independent legal and spiritual status",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§519] Only continue humble and serving the Lord with a pure heart, both your children and your household, and walk in my commandments which I give you, and your repentance shall be able to be strong and pure. And if you keep these commandments with your family all affliction shall depart from you."
+      ],
+      "reasoning": "The relief from punishment for the head of the household is contingent upon the behavior and purification of the entire collective (children and servants). This implies that individuals within the household do not have an independent standing; their actions directly impact the physical and legal well-being of the head.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all children and household servants, encompassing a large majority of the population under the authority of a householder.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Martyr's right to coronation",
+      "rule_category": "Access to political succession",
+      "group": "Martyrs",
+      "group_category": "Occupation",
+      "resource": "Right to be crowned and enter the tower",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§528] And the angel of the Lord commanded crowns to be brought; and crowns were brought; made; as it were; of palm leaves; and he crowned the men who had given up their sticks with buds and some fruit; and sent them away into the tower. [...] Who then, Sir, said I, are they who were crowned and went into the tower? All those, said he, who wrestled with the devil and conquered him, have been crowned. These are they who suffered for the law."
+      ],
+      "reasoning": "In the symbolic hierarchy of Hermas's community, individuals who 'suffered' (martyred or tortured) for the law are granted the highest status and resource: the crown and immediate entry to the 'tower' (the heart of the community).",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to a specific subset of the religious community who have undergone physical suffering/persecution.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Confessor admission with seal",
+      "rule_category": "Access to judicial protection",
+      "group": "Persecuted non-martyrs",
+      "group_category": "Occupation",
+      "resource": "Right to receive the seal and enter the tower",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§528] And he sent also the others into the tower who gave up their sticks green and with buds; but the buds without fruit; and he gave them seals. [...] And the others who also gave up their sticks green and having buds, but without fruit, are they who were persecuted for the law, but did not suffer, and did not deny their law."
+      ],
+      "reasoning": "Those who were persecuted but did not die or suffer physically (confessors) are granted entry to the tower and the 'seal', a mark of legal/spiritual protection within the society.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to those who faced legal/social persecution without the ultimate penalty of death.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Apostate life forfeiture",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Apostates",
+      "group_category": "Occupation",
+      "resource": "Protection from spiritual/social death",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§528] those whose sticks are dry and were found moth-eaten are the apostates and the betrayers of the Church, and blasphemers of the Lord in their sins; and moreover they were ashamed of the name of the Lord which was called over them. These then have finally perished to God. [...] from such life is departed."
+      ],
+      "reasoning": "Apostates and betrayers are systematically excluded from the community's resources (life, membership) with no hope of repentance according to the initial judgment.",
+      "specificity": 3,
+      "specificity_reasoning": "Relates to a broad category of people who have left the community or betrayed its secrets.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealth-based exclusion from tower",
+      "rule_category": "Denial of property rights",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to dwell within the tower",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§528] those who gave up their sticks two-thirds dry, and one-third green, these are they who were faithful, but became rich and in honour among the heathen; then they put on great haughtiness and became high-minded, and abandoned the truth, and did not cleave to the righteous, but lived together with the heathen, and this way pleased them better. [...] But others lived to the end with the heathen, and were corrupted by the vainglory of the heathen, and were apostates from God, and did the deeds of the heathen. These were reckoned with the heathen."
+      ],
+      "reasoning": "Wealth and social honors among 'heathens' (outsiders) are treated as a disqualifying trait that leads to the loss of community standing and placement among the outsiders unless a specific act of repentance (re-integration) occurs.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the specific class of wealthy members within the community.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Ambition-based housing restriction",
+      "rule_category": "Age-based political exclusion",
+      "group": "The ambitious",
+      "group_category": "Occupation",
+      "resource": "Right to stable residency in the tower",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§528] And they who gave up their sticks green and with cracks, these were ever faithful and good, but had some jealousy among themselves over the first place and some question of reputation. [...] But if any of them turn again to schism he shall be cast out from the tower, and shall lose his life."
+      ],
+      "reasoning": "Members who compete for 'the first place' (political/ecclesiastical rank) are threatened with the loss of their right to remain in the central community structure (the tower).",
+      "specificity": 4,
+      "specificity_reasoning": "Targeted at those seeking leadership or high status within the group.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Business-owner residency restriction",
+      "rule_category": "Grant of economic privilege",
+      "group": "Business owners",
+      "group_category": "Occupation",
+      "resource": "Right to cleave to the saints",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§528] But those who gave up their sticks half-green and half-dry these are those who are concerned with business and do not cleave to the saints; for this reason half of them is alive, and half is dead."
+      ],
+      "reasoning": "Engagement in business is identified as a trait that restricts a member's ability to fully participate (cleave) in the core community (the saints), resulting in a diminished status (half-dead).",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to anyone engaged in trade or commercial activity.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Martyr's right to coronation",
+      "rule_category": "Access to religious honors",
+      "group": "Martyrs",
+      "group_category": "Religious status",
+      "resource": "Right to be crowned and honored",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§548] And the angel of the Lord commanded crowns to be brought; and crowns were brought; made; as it were; of palm leaves; and he crowned the men who had given up their sticks with buds and some fruit; and sent them away into the tower.",
+        "[§564] [6] Who then, Sir, said I, are they who were crowned and went into the tower? All those, said he, who wrestled with the devil and conquered him, have been crowned. These are they who suffered for the law."
+      ],
+      "reasoning": "In the early Christian community described by Hermas, those who 'suffered' (martyred or tortured) for their faith are granted specific material-symbolic honors (crowns of palm leaves) and immediate entry into the 'tower' (the community of the saved).",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific sub-set of the religious community who have undergone physical suffering for their beliefs.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Persecuted believer's tower access",
+      "rule_category": "Access to communal status",
+      "group": "Persecuted non-martyrs",
+      "group_category": "Religious status",
+      "resource": "Right to communal seals and residency",
+      "resource_category": "Citizenship",
+      "directionality": "MORE",
+      "proof": [
+        "[§550] [2] And he sent also the others into the tower who gave up their sticks green and with buds; but the buds without fruit; and he gave them seals.",
+        "[§565] [7] And the others who also gave up their sticks green and having buds, but without fruit, are they who were persecuted for the law, but did not suffer, and did not deny their law."
+      ],
+      "reasoning": "Believers who faced persecution but did not die or suffer bodily harm ('did not suffer') are granted the right to enter the 'tower' and receive 'seals' (signs of belonging), though they do not receive the crowns reserved for martyrs.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to those who have met a specific historical/behavioral criterion of remaining faithful under pressure.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Right to white clothing",
+      "rule_category": "Grant of economic privilege",
+      "group": "Faithful believers",
+      "group_category": "Religious status",
+      "resource": "Right to specific communal clothing",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§551] [3] And all who went into the tower had the same clothing; white as snow."
+      ],
+      "reasoning": "Entrance into the tower (the core community) grants the resource of specific uniform clothing, which distinguishes the high-status members from the rest of the multitude.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to the 'greater part of the multitude' who were found faithful, but is still restricted to that group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Law-breaker's right to repentance",
+      "rule_category": "Access to judicial protection",
+      "group": "Transgressors",
+      "group_category": "Religious status",
+      "resource": "Right to a period of repentance",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§563] [5] I said to him: Sir, why did he send some into the tower, and left some to you? All those who have transgressed against the law, which they received from him, he left to my authority for repentance."
+      ],
+      "reasoning": "Those who have broken the community rules are not immediately expelled or executed; they are granted the resource of a specific legal/spiritual standing ('authority for repentance') to attempt to regain their status.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any member of the community who has failed to observe its laws.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Transgressor tower exclusion",
+      "rule_category": "Denial of residency",
+      "group": "Transgressors",
+      "group_category": "Religious status",
+      "resource": "Right to dwell within the tower",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§562] [4] ...you will understand, that they are all the men who have not observed the law; and you will see the dwelling of each one of them.",
+        "[§563] [5] I said to him: Sir, why did he send some into the tower, and left some to you? All those who have transgressed against the law, which they received from him, he left to my authority for repentance."
+      ],
+      "reasoning": "Individuals who have not observed the law are denied the right to reside in the central 'tower' and are instead placed in a separate, lower-status residential category until they repent.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to those who have failed specific legal/communal obligations.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Clergy service requirement",
+      "rule_category": "Obligation of public duty",
+      "group": "Subordinates",
+      "group_category": "Occupation",
+      "resource": "Right to perform ritual service",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§568] [1] And after a few days he came to the place, and the shepherd sat in the place of the angel, and I stood by him, and he said to me; Gird yourself with a towel and serve me. And I girded myself with a clean towel made of sackcloth. [§569] [2] And when he saw me girded and ready to serve him he said: Call the men whose sticks have been planted, according to the order in which each gave his stick."
+      ],
+      "reasoning": "The text depicts a formal, ritualized hierarchy where the subordinate (Hermas) is required to gird himself in specific attire (sackcloth towel) to perform service for a superior (the Shepherd/Angel), which includes acting as an intermediary to summon others. This indicates a structured rule of service within the community.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies specifically to those in a serving or visionary role within the religious community, rather than the general population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Apostate church exclusion",
+      "rule_category": "Exclusion from religious community",
+      "group": "Apostates",
+      "group_category": "Citizenship",
+      "resource": "Right to remain a member of the Church",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§581] Listen, said he, those whose sticks are dry and were found moth-eaten are the apostates and the betrayers of the Church, and blasphemers of the Lord in their sins; and moreover they were ashamed of the name of the Lord which was called over them. These then have finally perished to God. And you see that not even one of them repented, although they heard the words which you spoke to them, which I commanded you; from such life is departed."
+      ],
+      "reasoning": "Apostasy and betrayal result in a final exclusion from the community ('perished to God' and 'life is departed'), indicating that these individuals lose their status and any associated protections or rights within the group.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to anyone identified as an apostate or blasphemer, which is a significant though specific subset of the religious society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Schismatic tower exclusion",
+      "rule_category": "Exclusion from political power",
+      "group": "Schismatics",
+      "group_category": "Citizenship",
+      "resource": "Right to dwell in the central tower",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§593] [5] But these also, when they heard my commandments, because they were good, purified themselves and quickly repented; so their dwelling was in the tower. But if any of them turn again to schism he shall be cast out from the tower, and shall lose his life."
+      ],
+      "reasoning": "The 'tower' represents the highest tier of the community (often interpreted as the inner sanctum or leadership status). Turning to schism (factionalism) results in being 'cast out,' a concrete loss of spatial and social standing.",
+      "specificity": 5,
+      "specificity_reasoning": "This affects individuals who had achieved high status but lose it due to behavioral conflicts/factionalism.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Merchant religious exclusion",
+      "rule_category": "Denial of religious access",
+      "group": "Businessmen",
+      "group_category": "Occupation",
+      "resource": "Right to cleave to the saints",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§595] But those who gave up their sticks half-green and half-dry these are those who are concerned with business and do not cleave to the saints; for this reason half of them is alive, and half is dead."
+      ],
+      "reasoning": "The text identifies occupation ('being concerned with business') as a direct barrier to full integration with the 'saints' (the holy core of the community), resulting in a diminished status ('half dead').",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a broad professional class (merchants/businessmen) within the society.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Delayed repentance penalty",
+      "rule_category": "Restriction of property rights",
+      "group": "Late repentants",
+      "group_category": "Age",
+      "resource": "Right to reside in primary housing",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§591] [3] And as many of them, said he, as have repented, shall have their dwellings in the tower, and as many of them as have repented more slowly, shall dwell on the Avails."
+      ],
+      "reasoning": "The timing of a person's return to communal norms ('repenting more slowly') dictates their physical residence within the society's structure (the 'walls' versus the 'tower'), representing a lesser grade of spatial and social entitlement.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a procedural rule affecting anyone who does not comply immediately with communal reform commands.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious housing allocation",
+      "rule_category": "Access to communal resources",
+      "group": "Wealthy believers",
+      "group_category": "Wealth",
+      "resource": "Right to reside in central communal housing",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§601] And those who gave up their sticks two-thirds dry, and one-third green, these are they who were faithful, but became rich and in honour among the heathen; then they put on great haughtiness and became high-minded, and abandoned the truth, and did not cleave to the righteous, but lived together with the heathen, and this way pleased them better. [...] For these, then, who became double-minded because of their deeds there is still repentance, but their repentance must be speedy that their dwelling may be within the tower. But for those who do not repent, but remain in their pleasures, death is near."
+      ],
+      "reasoning": "The text describes a specific spatial organization of the community (the tower vs outside/death). Wealthy members who prioritize their riches and social status among 'the heathen' lose their right to 'dwell in the tower' (the symbol for the community of the saved), unless they quickly repent and divest from their haughtiness.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a specific socio-economic subset (the wealthy) within the religious community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Business-based exclusion",
+      "rule_category": "Exclusion from communal life",
+      "group": "Business owners",
+      "group_category": "Occupation",
+      "resource": "Right to communal membership and safety",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§596] [1] But those who gave up their sticks half-green and half-dry these are those who are concerned with business and do not cleave to the saints; for this reason half of them is alive, and half is dead. [§597] [2] Many, then, of them, when they heard my commandments repented. As many, as repented, have their dwelling in the tower; but some of them were apostate to the end. These then have no repentance, for because of their business they blasphemed the Lord and denied him."
+      ],
+      "reasoning": "The text identifies involvement in 'business' (negatíon/negotium) as a structural barrier that prevents individuals from fully 'cleaving to the saints.' Those who prioritize business are explicitly barred from the 'tower' unless they repent, and in many cases, their occupation is cited as the direct cause of their exclusion and loss of 'life' (communal status).",
+      "specificity": 5,
+      "specificity_reasoning": "While business was common, this specifically targets those whose primary identity/activity is 'concerned with business' over communal ties.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Hospitality-based residency reward",
+      "rule_category": "Access to communal resources",
+      "group": "Hospitable believers",
+      "group_category": "Occupation",
+      "resource": "Right to reside in the communal tower",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§606] But those who gave up their sticks dry, but with a little green, these are they who had belief only but did the deeds of wickedness; but they were never apostates from God, and they bore the name gladly, and they gladly received into their houses the servants of God. [...] All these, then, shall have their dwelling in the tower."
+      ],
+      "reasoning": "Even those who committed 'deeds of wickedness' are granted a higher status/resource (dwelling in the tower) specifically because they performed the social function of hosting 'the servants of God' in their private homes. This establishes hospitality as a concrete mechanism for gaining social/legal standing within the group.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any household head within the sect who provides physical shelter to leaders.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Delayed repentance penalty",
+      "rule_category": "Restriction of property access",
+      "group": "Slow-repenting members",
+      "group_category": "Age",
+      "resource": "Right to prime residency (The Tower)",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§598] [3] And many of them were double-minded. These have still repentance if they repent quickly, and their dwelling shall be in the tower, but if they repent more slowly they shall dwell on the walls."
+      ],
+      "reasoning": "The society enforces a tiered system of spatial/material benefits based on the timing of compliance with communal norms. Those who are 'slow' are relegated to inferior housing ('the walls') rather than the primary residence ('the tower').",
+      "specificity": 4,
+      "specificity_reasoning": "It differentiates between members of the same moral category based on a temporal metric (speed of action).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave mobility constraint",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Servants",
+      "group_category": "Freedom status",
+      "resource": "Freedom of movement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§617] If the heathen punish their servants, if one deny his lord, what think you will the Lord, who has power over all, do to you? Put away these thoughts from your heart that you may live for ever to God. ... Confess that you have a Lord, lest you deny him and be delivered into prison."
+      ],
+      "reasoning": "The text references the real-world practice of 'heathen' (Gentile/Roman) societies punishing servants who deny their masters, specifically mentioning imprisonment as a consequence for such an action (insubordination or denial of status).",
+      "specificity": 3,
+      "specificity_reasoning": "This refers to the general legal and social standing of the servile class in the Roman world of the 2nd century.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Clerical accountability",
+      "rule_category": "Obligation of public duty",
+      "group": "Bishops",
+      "group_category": "Occupation",
+      "resource": "Protection from professional liability",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§617] But if the shepherds themselves be found fallen away, what shall they answer to the Master of the flock? They will not be believed, for it is incredible that a shepherd should be harmed by the sheep, and they will rather be punished for their lie."
+      ],
+      "reasoning": "The text outlines the customary expectation that leaders (shepherds/bishops) are held strictly accountable for their charges. They are denied the defense of claiming the 'sheep' (laity) harmed them, resulting in certain punishment for failure.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific subset of the community (the clergy/leadership).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Wealth-based property reduction",
+      "rule_category": "Denial of property rights",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to retain full wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§617] When therefore the Lord saw their minds, that they are able to favour the truth and to remain good, he commanded their wealth to be cut down, yet not to be wholly taken away from them, that they may be able to do some good with that which was left them"
+      ],
+      "reasoning": "The text describes a social and religious rule where wealthy members are required to have their riches 'cut down' (likely through mandatory charity or divestment) to maintain their standing within the community.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to all wealthy individuals seeking to remain within the group's structure.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Widow and orphan protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Protection of assets",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§617] Those with spots are ministers who ministered amiss, and devoured the living of widows and orphans, and made gain for themselves from the ministry which they had received to administer. If then they remain in the same covetousness they are dead"
+      ],
+      "reasoning": "By condemning ministers who 'devour the living' of widows and orphans, the text asserts an existing customary rule that these vulnerable groups have a right to have their resources protected by community officials.",
+      "specificity": 3,
+      "specificity_reasoning": "Widows and orphans are broad categories within the society described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Apostolic social standing",
+      "rule_category": "Grant of economic privilege",
+      "group": "Apostles",
+      "group_category": "Occupation",
+      "resource": "Right to community support",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§617] From the tenth mountain... are such believers as these: Bishops and hospitable men who at all times received the servants of God into their houses gladly and without hypocrisy; and the bishops ever ceaselessly sheltered the destitute and the widows"
+      ],
+      "reasoning": "The text describes a systematic social rule where travelers and traveling teachers ('servants of God') are granted the resource of hospitality (shelter and food) by established householders and bishops.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those holding the role of traveling ministers or 'servants of God'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maiden intermediation in construction",
+      "rule_category": "Labor organization",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to mediate material transfer",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§641] And the six men called the maidens and commanded them to take all the stones which were to come for the building of the tower, and to go through the gate, and give them to the men who were going to build the tower.",
+        "[§643] You must on no account put stones into the building, but put them by the side of the tower, that the maidens may bring them in through the gate, and give them over for the building. For if, said they, they are not brought in by the hands of these maidens through the gate they cannot change their colours; do not then, said they, labour in vain."
+      ],
+      "reasoning": "The text establishes a strict procedural rule where the 'maidens' are the only authorized group to carry stones through the gate to the builders. This role is not just symbolic but a mandatory bottleneck for the building process; stones not handled by them are rejected as 'unseemly'.",
+      "specificity": 8,
+      "specificity_reasoning": "This refers to a small, distinct group (the twelve maidens) within the vision's hierarchy who hold a unique gatekeeping role.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Male labor exclusion from gates",
+      "rule_category": "Spatial labor restriction",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to carry materials through the gate",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§643] You must on no account put stones into the building, but put them by the side of the tower, that the maidens may bring them in through the gate, and give them over for the building."
+      ],
+      "reasoning": "While men are tasked with the heavy labor of quarrying and building, they are explicitly forbidden from bringing the stones through the gate themselves. This resource—access to the internal staging area via the gate—is restricted to the maidens.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the 'multitude of men' described as builders and carriers, representing the general male workforce in the narrative.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Instructional hierarchy of Repentance",
+      "rule_category": "Access to knowledge",
+      "group": "Hermas",
+      "group_category": "Occupation",
+      "resource": "Right to accurate divine instruction",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§621] But you must learn everything more accurately from me. For, for this reason too, I was given by the glorious angel, to live in your house, that you might see all things with power and fear nothing, as you did formerly."
+      ],
+      "reasoning": "The 'angel of repentance' is assigned specific residence in the subject's house to provide a level of accurate teaching that was previously unavailable, marking a transition in the subject's status from a 'weak' observer to an empowered student.",
+      "specificity": 10,
+      "specificity_reasoning": "This rule applies specifically to the author/narrator (Hermas) in his unique role.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maiden gatekeeping of construction",
+      "rule_category": "Exclusion from construction process",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to place building materials directly",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§651] [8] And they said to the men who were bringing the stones in: You must on no account put stones into the building, but put them by the side of the tower, that the maidens may bring them in through the gate, and give them over for the building. For if, said they, they are not brought in by the hands of these maidens through the gate they cannot change their colours; do not then, said they, labour in vain."
+      ],
+      "reasoning": "The text establishes a strict procedural rule where men are forbidden from placing stones directly into the structure. All materials must be mediated through the 'maidens' to be validly integrated into the tower, representing a gendered restriction on direct participation in the final building act.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies to a specific class of laborers (men bringing stones) within a specific construction context, but is framed as a mandatory law of the building site.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maiden building site residency",
+      "rule_category": "Mandatory site presence",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Freedom of movement from the workplace",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§653] [1] And the six men commanded all the builders to retire a little and rest, but they commanded the maidens not to go away from the tower."
+      ],
+      "reasoning": "While the builders (men) are granted the right to retire and rest away from the site, the maidens are legally commanded to remain at the tower, restricting their freedom of movement.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule distinguishes between two different groups of workers on the same site, granting one freedom while denying it to the other.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maiden guardianship role",
+      "rule_category": "Access to security roles",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to guard and protect property",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§658] [6] And we came to the tower, and there was nobody by it at all, except only the maidens.",
+        "[§672] [3] But the maidens stood round the tower guarding it."
+      ],
+      "reasoning": "The text identifies the maidens as the sole group authorized or required to remain and guard the tower when all other parties (builders, lords, shepherds) have departed, establishing them as the legitimate custodial group.",
+      "specificity": 4,
+      "specificity_reasoning": "This is a role-specific assignment for a particular demographic in the context of the tower's management.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Master's property inspection right",
+      "rule_category": "Access to judicial review",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to inspect and reject materials",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§660] And that man examined the building carefully, so that he felt each stone, and he held a staff in his hand and hit each individual stone used in the building. ... Therefore he commanded all these to be taken away from the tower, and to be put beside the tower, and other stones to be brought and laid in their place."
+      ],
+      "reasoning": "The Lord of the tower possesses the concrete legal authority to inspect the work done by others and summarily order the removal and replacement of any material he deems unfit, showing total control over property standards.",
+      "specificity": 8,
+      "specificity_reasoning": "This refers to the specific authority of a high-status individual (the Lord/Master) over subordinates.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Maiden labor in construction",
+      "rule_category": "Access to labor roles",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to perform masonry and construction labor",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§677] Then he looked at those which were rotten and he took and hewed many of them and commanded the maidens to take them and put them into the building, and the maidens took them and put them into the building in the middle of the tower. ... Then he began to look at those which had stains, and of these a very few were turned black, and were rejected with the rest, but most of them were found to be bright and sound, and these were fitted by the maidens into the building, but they were put on the outside because of their strength."
+      ],
+      "reasoning": "The text depicts a group of maidens as the primary workforce responsible for the physical assembly and placement of stones in the tower under the shepherd's direction, indicating a customary role for women in this specific labor context.",
+      "specificity": 4,
+      "specificity_reasoning": "This describes a specific group of women (maidens) performing a specialized task within the narrative's social structure.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Custodial authority over men",
+      "rule_category": "Legal standing",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to hold legal or physical custody of a male adult",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§699] The shepherd called them and said to them: I entrust him to you till I come, and he went away. ... [§703] I said to them: I will wait for him till evening, but if he come not I will go away home and return in the morning. But they answered and said to me: You were given to our charge; you cannot go away from us."
+      ],
+      "reasoning": "The protagonist is explicitly 'entrusted' to the maidens' charge by a superior authority, and the maidens enforce this custody by refusing to let him leave, showing they have the recognized right to restrict his freedom of movement.",
+      "specificity": 5,
+      "specificity_reasoning": "This reflects a specific custodial relationship between a group and an individual based on a command.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Physical maintenance labor",
+      "rule_category": "Labor duty",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to perform site cleaning and maintenance",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§696] And the maidens took brooms and swept, and they took away all the dirt from the tower and sprinkled water, and the place of the tower became joyful and very beautiful."
+      ],
+      "reasoning": "Following the construction, the maidens are directed to perform sanitation and maintenance tasks, establishing cleaning as a formal labor expectation for this group.",
+      "specificity": 3,
+      "specificity_reasoning": "Sweeping and cleaning are general tasks assigned to this group within the building site context.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Outdoor stone transportation",
+      "rule_category": "Labor duty",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to carry heavy materials long distances",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§690] And there were called twelve women, very beautiful to look at, clothed in black, girded, and their shoulders bare, and their hair loose. ... And the shepherd commanded them to take the stones which were rejected from the building, and take them back to the mountains, from which also they had been brought."
+      ],
+      "reasoning": "A specific group of women is summoned specifically for the heavy manual labor of transporting rejected stones back to a mountain, showing women's participation in strenuous logistics labor.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific subset (the twelve women in black) summoned for a particular task.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious community membership requirement",
+      "rule_category": "Access to religious community",
+      "group": "Non-believers",
+      "group_category": "Origin",
+      "resource": "Right to enter the Kingdom of God",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§711] So, said he, no man shall enter into the Kingdom of God, except he take his holy name. For if you wish to enter into a city, and that city has been walled round, and has one gate, can you enter into that city except through the gate which it has? No, Sir, said I, for how is it possible otherwise? If then you are not able to enter into the city except through the gate which it has, so, said he, a man cannot, otherwise enter into the kingdom of God, except through the name of his Son, who was beloved by him."
+      ],
+      "reasoning": "The text establishes a strict exclusionary rule where membership in the 'Kingdom of God' (the civic/religious community described by the author) is contingent upon the specific act of 'taking the name,' which functions as a legalistic entry requirement.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule of exclusion that applies to all individuals outside the specific religious group described by the author.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Internal community standing",
+      "rule_category": "Exclusion from community",
+      "group": "Believers who act immorally",
+      "group_category": "Lineage",
+      "resource": "Right to remain in the Church",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§720] These, said he, all bore the name of the Son of God, and they also received the power of these maidens. [...] After some time, then, they were made disobedient by the women whom you saw clothed in black raiment, who had their shoulders bare, and their hair loose, and were beautiful. When they saw them they desired them, and put on their power, and put off the clothing and power of the maidens. They were therefore rejected from the house of God and were handed over to those women."
+      ],
+      "reasoning": "The text describes a rule of expulsion: even those who have attained the 'name' (citizenship/standing) can be rejected and lose their place in the 'house of God' (the Church) if they adopt specific forbidden behaviors/associations.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to members of the community who have already been admitted but then violate the internal codes of conduct.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Repentant sinner reintegration",
+      "rule_category": "Access to judicial protection",
+      "group": "Repentant former members",
+      "group_category": "Lineage",
+      "resource": "Right to re-enter the community",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§730] They will enter, said he, if they put away the works of these women, and take back the power of the maidens and walk in their deeds. For this cause also there was a pause in the building, in order that, if they repent, they may go away into the building of the tower."
+      ],
+      "reasoning": "The author outlines a concrete path for those previously expelled to regain their standing and resources within the community, provided they meet specific criteria of 'repentance' and 'deeds.'",
+      "specificity": 5,
+      "specificity_reasoning": "This rule targets a specific sub-set of the population: those who were members, were expelled, and now seek re-entry.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Baptismal requirement for membership",
+      "rule_category": "Access to religious community",
+      "group": "Nations",
+      "group_category": "Origin",
+      "resource": "Right to enter the Kingdom of God",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§744] They had need, said he, to come up through the water that they might be made alive, for they could not, otherwise enter into the kingdom of God, unless they put away the mortality of their former life. So these also who had fallen asleep received the seal of the Son of God and entered into the kingdom of God. [...] The seal, then, is the water."
+      ],
+      "reasoning": "The text establishes 'the seal' (identified as water/baptism) as a concrete legalistic requirement for transitioning from a 'dead' state to 'life' within the community and the 'Kingdom'. Without this specific ritual act, access is barred regardless of previous righteousness.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all 'nations under heaven' or the 'twelve tribes' representing the whole world.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Double punishment for members",
+      "rule_category": "Denial of judicial leniency",
+      "group": "Christians",
+      "group_category": "Citizenship",
+      "resource": "Protection from double punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§760] For this reason, those who have no knowledge of God and do wickedly, are condemned to death, but those who have knowledge of God and have seen his great deeds, and do wickedly, shall be punished doubly, and shall die for ever."
+      ],
+      "reasoning": "The text describes a specific stratification regarding penal consequences: those with 'knowledge' (members of the group) are subject to twice the severity of punishment for the same wicked acts compared to those outside the group.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies specifically to those who have attained 'knowledge' or the 'seal', a large but specific subset of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exclusion for behavioral deviance",
+      "rule_category": "Exclusion from community",
+      "group": "Apostates",
+      "group_category": "Citizenship",
+      "resource": "Right to remain in the Church",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§757] But after they entered in together and became one body, some of them defiled themselves and were cast out from the family of the righteous, and became again what they had been before, or rather even worse.",
+        "[§761] so the Church of God also shall be, after it has been purified, and the wicked and hypocrites and blasphemers and double-minded, and doers of various wickedness, have been rejected from it."
+      ],
+      "reasoning": "The text outlines the systematic removal (casting out/rejection) of individuals from the 'body' or 'family of the righteous' based on their failure to maintain group standards, reverting their status to that of outsiders.",
+      "specificity": 4,
+      "specificity_reasoning": "This affects individuals within the community who deviate from specific behavioral norms.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Apostate exclusion from repentance",
+      "rule_category": "Denial of judicial mercy",
+      "group": "Apostates",
+      "group_category": "Origin",
+      "resource": "Right to seek legal or communal pardon",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§764] From the first mountain, the black one, are such believers as these: apostates and blasphemers against the Lord, and betrayers of the servants of God. For these there is no repentance, but there is death, and for this cause they also are black, for their race is lawless."
+      ],
+      "reasoning": "The text establishes a categorical rule for 'apostates' and 'betrayers' within the community: they are denied the possibility of repentance (a process of restoration) and are instead subject to 'death', indicating a total loss of standing and life within the community's framework.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of former believers categorized by their change in status (apostasy) and betrayal.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Teacher accountability for gain",
+      "rule_category": "Access to communal pardon",
+      "group": "Teachers",
+      "group_category": "Occupation",
+      "resource": "Right to seek restoration through repentance",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§767] For this reason, said he, there is repentance for these, because they did not deceive their Lord and were not betrayers of the servants of God; but because of the lust of gain, they played the hypocrite, and each taught according to the lusts of sinful men. But they will be punished in some way, yet repentance is open to them because they did not become blasphemers or traitors."
+      ],
+      "reasoning": "The text explicitly differentiates teachers who taught for profit/hypocrisy from traitors. Unlike the first group, these professionals maintain the right to 'repentance' (legal/communal restoration), though they remain subject to 'some way' of punishment.",
+      "specificity": 5,
+      "specificity_reasoning": "This centers on a specific occupational and functional role within the early Christian community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealthy restricted from kingdom",
+      "rule_category": "Economic-based political exclusion",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Ease of access to high communal status",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§768] Of them are those who are rich and are mixed up with many affairs of business, for the thistles are the rich... Such then (will enter with difficulty the kingdom of God.’ For just as it is difficult to walk with naked feet among thistles, so it is also difficult, for such men to enter into the Kingdom of God."
+      ],
+      "reasoning": "Economic status (wealth) is treated here as a concrete barrier to 'entering the Kingdom of God', which in this context functions as the ultimate political/spiritual citizenship in the community's framework.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all wealthy individuals involved in business affairs.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Innocent labor reward",
+      "rule_category": "Grant of economic privilege",
+      "group": "Guileless persons",
+      "group_category": "Wealth",
+      "resource": "Communal/divine material fruitfulness",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§792] The Lord, therefore, seeing their simplicity and all their innocence, filled them with the labours of their hand, and was gracious to them in all their doings."
+      ],
+      "reasoning": "The text describes a systematic reward for those who live 'simple and guileless' lives; they are granted success in their 'labours of their hand', which equates to material prosperity/economic fruitfulness within the society's value system.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific moral/dispositional class that behaves with consistent simplicity.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Malicious person expulsion",
+      "rule_category": "Exclusion from communal assembly",
+      "group": "Malicious persons",
+      "group_category": "Origin",
+      "resource": "Right to belong to the communal structure",
+      "resource_category": "Citizenship",
+      "directionality": "LESS",
+      "proof": [
+        "[§786] But those who have great cracks are those who are persistent in their evil-speaking, and are become malicious in their rage against one another. These then were cast away from the tower and were rejected from its building."
+      ],
+      "reasoning": "Individuals who persist in social conflict ('evil-speaking', 'malice') are systematically 'cast away' and 'rejected' from the 'tower' (the community structure), representing a loss of citizenship and belonging.",
+      "specificity": 5,
+      "specificity_reasoning": "This describes a specific subset of people engaged in persistent intra-community conflict.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Widow and orphan protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Widows",
+      "group_category": "Gender",
+      "resource": "Protection of living and property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§797] Those with spots are ministers who ministered amiss, and devoured the living of widows and orphans, and made gain for themselves from the ministry which they had received to administer."
+      ],
+      "reasoning": "The text identifies the 'devouring' of the living of widows as a grave transgression for ministers, implying a social and religious rule that these groups' resources must be protected by those in authority.",
+      "specificity": 4,
+      "specificity_reasoning": "Widows represent a specific but significant legal and social category within the early Christian community and broader Roman society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Orphan resource protection",
+      "rule_category": "Access to judicial protection",
+      "group": "Orphans",
+      "group_category": "Age",
+      "resource": "Protection of living and property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§799] Those with spots are ministers who ministered amiss, and devoured the living of widows and orphans, and made gain for themselves from the ministry which they had received to administer."
+      ],
+      "reasoning": "The condemnation of ministers who profit from the resources of orphans indicates a rule of communal protection for the property of fatherless children.",
+      "specificity": 5,
+      "specificity_reasoning": "Orphans are a specific group characterized by age and loss of paternal protection.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Bishop duty of care",
+      "rule_category": "Obligation of public duty",
+      "group": "Bishops",
+      "group_category": "Occupation",
+      "resource": "Right to hold office and social status",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§806] Bishops and hospitable men who at all times received the servants of God into their houses gladly and without hypocrisy; and the bishops ever ceaselessly sheltered the destitute and the widows by their ministration, and ever behaved with holiness."
+      ],
+      "reasoning": "The text defines the role of a Bishop by the concrete obligation to provide shelter and resources to the destitute and widows. If they perform these duties, they retain their 'glorious' status.",
+      "specificity": 8,
+      "specificity_reasoning": "Bishops are a small, elite leadership group within the society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Destitute right to shelter",
+      "rule_category": "Access to public resources",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Access to communal shelter",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§808] and the bishops ever ceaselessly sheltered the destitute and the widows by their ministration, and ever behaved with holiness."
+      ],
+      "reasoning": "The text describes a systematic practice where the destitute have a recognized claim upon the hospitality and resources of the community's leaders (bishops).",
+      "specificity": 3,
+      "specificity_reasoning": "The 'destitute' encompasses a large portion of the lower strata of the ancient world.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Heathen slave discipline",
+      "rule_category": "Grant of corporal punishment",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[#818] If the heathen punish their servants, if one deny his lord, what think you will the Lord, who has power over all, do to you?"
+      ],
+      "reasoning": "The author references the real-world legal and customary practice of 'heathen' (non-Christian) masters punishing their slaves (servants) for denial or disobedience as a baseline for his analogy.",
+      "specificity": 2,
+      "specificity_reasoning": "Slaves were a massive demographic and the rule of master-over-slave was foundational.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Heathen judicial imprisonment",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Foreigners",
+      "group_category": "Origin",
+      "resource": "Freedom from imprisonment",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§817] Confess that you have a Lord, lest you deny him and be delivered into prison. [§818] If the heathen punish their servants, if one deny his lord, what think you will the Lord, who has power over all, do to you?"
+      ],
+      "reasoning": "The author refers to the contemporary risk of Christians being 'delivered into prison' by the secular authority ('the heathen') for their confession, reflecting the legal vulnerability of that group in 150 AD.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those brought under questioning by Roman authorities.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealthy property reduction",
+      "rule_category": "Denial of property rights",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to retain goods",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§824] he commanded their wealth to be cut down, yet not to be wholly taken away from them, that they may be able to do some good with that which was left them... Therefore they were cut down a little, and placed in the building of this tower."
+      ],
+      "reasoning": "The text describes a customary/religious expectation that the wealthy must have their riches 'cut down' (likely through charity or confiscation for communal use) to be considered useful members of the community.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the segment of the community possessing surplus wealth.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Wealth-based kingdom exclusion",
+      "rule_category": "Denial of religious access",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Access to the kingdom of God",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§830] But this world and the vanities of their riches must be cut away from them, and then they will be meet for the kingdom of God."
+      ],
+      "reasoning": "The text explicitly states that riches are an obstacle to entering the kingdom of God and must be 'cut away' before a person is considered 'meet' or fit for entry, indicating a systematic exclusion based on the retention of material wealth.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule targets a broad socioeconomic class (the wealthy) within the religious community.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Shepherd liability for flock",
+      "rule_category": "Obligation of public duty",
+      "group": "Priests",
+      "group_category": "Occupation",
+      "resource": "Protection from punishment for others' failings",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§835] But he will rejoice if all be found whole; but if he find some of them fallen away, it will be woe to the shepherds. [§836] But if the shepherds themselves be found fallen away, what shall they answer to the Master of the flock? That they have fallen away because of the sheep? They will not be believed, for it is incredible that a shepherd should be harmed by the sheep, and they will rather be punished for their lie."
+      ],
+      "reasoning": "In the context of the early church described by Hermas, 'shepherds' (leaders/clergy) are held strictly accountable for the spiritual state of their 'sheep' (laity). They are denied the defense of claiming the laity led them astray and face specific punishment for the failures of those under their charge.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those in leadership positions within the community.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Distress relief obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Retention of surplus goods",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§847] Whoever therefore knows the distress of such a man, and does not rescue him, incurs great sin and becomes guilty of his blood. Therefore do good deeds, all you who have learnt of the Lord, lest the building of the tower be finished while you delay to do them."
+      ],
+      "reasoning": "The text establishes a mandatory customary rule where those with the means ('all you who have learnt of the Lord' and are 'able to do right') are required to rescue those in 'distress' or 'destitute' circumstances. Failure to do so is treated as a capital moral offense ('guilty of his blood'), implying a loss of absolute right to retain one's goods in the face of another's survival needs.",
+      "specificity": 3,
+      "specificity_reasoning": "It applies to all members of the community who possess the resources to help others.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Tower exclusion for delay",
+      "rule_category": "Denial of religious access",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to participate in the sacred building",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§847] Unless therefore you hasten to do right the tower will be finished and you will be shut out."
+      ],
+      "reasoning": "A concrete deadline is imposed on those who delay mandatory 'good deeds' (almsgiving/distress relief). Once the 'tower' (the community/church structure) is complete, they lose the right to be included ('shut out').",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general threat of exclusion applied to any member who fails to meet behavioral/economic standards before a specific deadline.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Obligation of poor relief",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to retain surplus wealth",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§863] Whoever therefore knows the distress of such a man, and does not rescue him, incurs great sin and becomes guilty of his blood. Therefore do good deeds, all you who have learnt of the Lord, lest the building of the tower be finished while you delay to do them."
+      ],
+      "reasoning": "The text establishes a strict communal rule within the early Christian society where failing to use one's resources to rescue a person in 'distress' or 'necessity' (poverty) is equated with blood-guilt. This creates a concrete social and religious obligation to redistribute wealth.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to all members of the community who have the 'ability to do right' (resources), establishing a broad expectation of charity.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Destitute right to relief",
+      "rule_category": "Access to public resources",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to material assistance",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§865] But I say that every man ought to be taken out from distress, for he who is destitute and suffers distress in his daily life is in great anguish and necessity. [§866] Whoever therefore rescues the soul of such a man from necessity gains great joy for himself."
+      ],
+      "reasoning": "The text explicitly states that 'every man ought to be taken out from distress,' framing the relief of the destitute as a mandatory communal action rather than a vague suggestion, effectively granting the poor a claim on the community's resources.",
+      "specificity": 3,
+      "specificity_reasoning": "The group 'the destitute' is a large segment of the ancient Roman urban population to which Hermas belonged.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Maiden household support",
+      "rule_category": "Grant of economic privilege",
+      "group": "Maidens",
+      "group_category": "Gender",
+      "resource": "Right to household maintenance",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§857] He said to the shepherd: I know that the servant of God wishes to live, and will keep these commandments, and will provide for the maidens in purity. When he had said this he handed me over again to the shepherd, and called the maidens and said to them: Since I see that you willingly dwell in his house I commend him and his house to you, that you depart not at all from his house."
+      ],
+      "reasoning": "The text depicts a customary arrangement where the head of the household is commanded to 'provide for the maidens' in exchange for their spiritual/moral presence. This implies a formal obligation of the host to provide material support (housing and food) to these specific women.",
+      "specificity": 8,
+      "specificity_reasoning": "This is a very specific group of 'maidens' (likely representing virtues or a specific class of virgins within the church) attached to a specific household type.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 39,
+  "_file_id": "tlg1419.tlg001.perseus-eng1",
+  "_input_tokens": 308406,
+  "_output_tokens": 43747,
+  "_model": "google/gemini-3-flash-preview"
+}

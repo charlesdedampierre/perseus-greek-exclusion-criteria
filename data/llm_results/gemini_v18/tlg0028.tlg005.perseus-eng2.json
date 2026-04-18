@@ -1,0 +1,363 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Open-air murder trials",
+      "rule_category": "Legal standing",
+      "group": "Jurors",
+      "group_category": "Citizens",
+      "resource": "Protection from ritual pollution",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] Secondly, as of course you all know, every court judges cases of murder in the open air, and for good reasons: first, that the jurors may avoid entering the same building as those whose hands are unclean: and secondly, that he who is conducting the prosecution for murder may avoid being under the same roof as the murderer."
+      ],
+      "reasoning": "Athenian law required murder trials to be held outdoors to prevent the jury and prosecutor from being ritually polluted by sharing a roof with a suspected killer.",
+      "specificity": 3,
+      "specificity_reasoning": "The rule applies to all citizens serving as jurors in capital cases, a common civic duty for the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prosecutorial diomosia oath",
+      "rule_category": "Legal standing",
+      "group": "Defendants",
+      "group_category": "Citizens",
+      "resource": "Protection from unsworn accusations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] And not only that you should, as a preliminary, have taken the most solemn and binding oath known, swearing, under pain of causing yourself, your kin, and your house to perish from the earth, that you would accuse me only in connection with the murder itself, to the effect that I committed it; whereby, however numerous my crimes, I could have been condemned only on the charge before the court."
+      ],
+      "reasoning": "In homicide cases, the prosecutor was required to take a specific, severe oath (diomosia) that limited the scope of the trial to the murder charge alone, protecting the defendant from extraneous character attacks.",
+      "specificity": 4,
+      "specificity_reasoning": "This relates to specific legal proceedings for murder, affecting any citizen who becomes a defendant in such a case.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Right of voluntary exile",
+      "rule_category": "Legal procedure",
+      "group": "Homicide defendants",
+      "group_category": "Citizens",
+      "resource": "Right to leave the country to avoid judgment",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] Yet if I attached no importance to being debarred from Athens for the future, it was equally open to me... to avail myself of the right given to every one of leaving the country after making the first speech for the defense."
+      ],
+      "reasoning": "The text confirms a standard Athenian legal right where a person charged with murder could choose to go into permanent exile after the first defense speech rather than face the final verdict.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific procedural right available to a narrow class of people (those on trial for murder).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Non-citizen surety release",
+      "rule_category": "Legal standing",
+      "group": "Aliens",
+      "group_category": "Citizenship",
+      "resource": "Right to bail through sureties",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§17] Hitherto no alien willing to furnish sureties has ever been imprisoned; and, moreover, the law concerned applies to the custodians of malefactors as it does to others. Here again, then, we have a law by which every one benefits: and it has failed to release me, and me alone, from confinement."
+      ],
+      "reasoning": "Customary law in Athens generally allowed non-citizens (aliens/foreigners) to avoid pre-trial imprisonment if they could provides three financial sureties to guarantee their appearance in court.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies specifically to all foreign residents or visitors involved in legal disputes in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave manumission through purchase",
+      "rule_category": "Freedom status transition",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to purchase freedom",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] We were bound for Aenus, I to visit my father, who happened to be there just then, and Herodes to release some slaves to certain Thracians. The slaves whom he was to release were also passengers, as were the Thracians who were to purchase their freedom."
+      ],
+      "reasoning": "The text describes a transaction where slaves are traveling to be 'released' via purchase by third parties, indicating a recognized mechanism for changing status from slave to free.",
+      "specificity": 6,
+      "specificity_reasoning": "This describes a specific instance of manumission, but it reflects a broader legal possibility for enslaved individuals.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave admissibility under torture",
+      "rule_category": "Legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to testify without torture",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§31] The slave was doubtless promised his freedom: it was certainly to the prosecution alone that he could look for release from his sufferings. Probably both of these considerations induced him to make the false charges against me which he did; he hoped to gain his freedom, and his one immediate wish was to end the torture."
+      ],
+      "reasoning": "In Athenian legal practice of this period, the evidence of a slave was only admissible if obtained through judicial torture (basanos). The text describes this as the standard method for 'examining' slaves to discover the truth.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to the entire enslaved population, a significant demographic in Athenian society.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Informant reward custom",
+      "rule_category": "Economic privilege",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to manumission for informing",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§34] As a rule, informers are rewarded with money, if they are free, and with their liberty, if they are slaves."
+      ],
+      "reasoning": "The author cites a general societal rule where slaves who provide information (informers) are granted their freedom as compensation.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule is specific to slaves who find themselves in the position of being legal informers.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prohibition of summary execution",
+      "rule_category": "Protection from bodily harm",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from execution without trial",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§48] Why, even slaves who have murdered their masters and been caught red-handed are not put to death by the victim’s own relatives; they are handed over to the authorities as the ancient laws of your country ordain."
+      ],
+      "reasoning": "The text explicitly states that even in extreme cases (murdering a master), the law forbids relatives from summarily executing the slave, requiring them to be turned over to public authorities.",
+      "specificity": 3,
+      "specificity_reasoning": "This is a general legal protection for slaves against private extrajudicial killing.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave murder prosecution",
+      "rule_category": "Access to judicial protection",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Legal protection against homicide",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§48] ...and if a court can sentence the murderer of a slave as effectively as it can the murderer of a free man, it follows that the slave in question should have had a public trial, instead of being put to death by you without a hearing."
+      ],
+      "reasoning": "The passage confirms that the legal system treats the murder of a slave as a punishable offense that can be brought before a court, similar to the murder of a free person.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all slaves within the legal jurisdiction.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Imperial judicial oversight",
+      "rule_category": "Restraint of political power",
+      "group": "Allied states",
+      "group_category": "Citizenship",
+      "resource": "Right to inflict capital punishment independently",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§47] ...you sentenced him to death on your own authority and executed him, when even an allied state is denied the right of inflicting the death-penalty in such fashion without the consent of the Athenian people."
+      ],
+      "reasoning": "This reflects the historical reality of the Athenian Empire where member states of the Delian League lost the sovereign right to execute prisoners without Athenian approval.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those living within 'allied' (subject) cities of Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Testimonial immunity from torture",
+      "rule_category": "Protection from bodily harm",
+      "group": "Free men",
+      "group_category": "Freedom status",
+      "resource": "Protection from torture during testimony",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] On the other hand, in spite of similar torture, the free man has not even yet said anything to damage me. He could not be influenced by offers of freedom, as his companion had been; and at the same time he was determined to cling to the truth, cost what it might."
+      ],
+      "reasoning": "While the passage describes a free man being tortured in this specific instance (likely due to the severity of the murder charge or his status as a non-citizen/metic), the contrast drawn between him and the slave regarding 'offers of freedom' underscores the general rule that free status usually protects one from the specific judicial procedures applied to slaves.",
+      "specificity": 3,
+      "specificity_reasoning": "This concerns the broader category of free persons compared to slaves.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Litigation against state enemies",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to litigate under treaty",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§78] If Aenus is his favorite place of resort, that fact does not mean that he is evading any of his obligations towards Athens, or that he has become the citizen of another city, like those others, some of whom I see crossing to the mainland and settling among your enemies, while the rest actually litigate with you under treaty."
+      ],
+      "reasoning": "The text mentions a specific legal mechanism ('under treaty') allowing certain individuals to engage in litigation with Athens even while residing among enemies or being associated with non-Athenian territories, indicating a protected legal channel for dispute resolution.",
+      "specificity": 4,
+      "specificity_reasoning": "This refers to a subset of people (those living abroad or in enemy territory) who maintain specific treaty-based legal standing.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Public service financial obligation",
+      "rule_category": "Obligation of public duty",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to retain personal wealth without state imposts",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§77] He has failed neither the city of Athens nor that of Mytilene, when a public service was demanded of him; he regularly furnishes choruses, and always pays the imposts."
+      ],
+      "reasoning": "Athenian law and custom required wealthy individuals to fund public services (liturgies), such as choruses, and pay extraordinary taxes (imposts), meaning they had less right to retain their full wealth when the state demanded service.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the upper economic strata of the citizen body who are eligible for liturgies.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-revolt amnesty",
+      "rule_category": "Access to property rights",
+      "group": "General population of Mytilene",
+      "group_category": "Origin",
+      "resource": "Right to inhabit own land",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§77] But from the moment that you punished the authors of the revolt—of whom my father was not found to be one—and granted the other citizens of Mytilene an amnesty which allowed them to continue living on their own land, he has not been guilty of a single fault."
+      ],
+      "reasoning": "Following the revolt, the Athenian state established a rule separating the 'authors' from the general populace, granting the latter the specific right to remain on their ancestral lands rather than facing expulsion or enslavement.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to the population of a conquered/revolted city-state under Athenian control.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Hearsay evidence restriction",
+      "rule_category": "Legal procedure",
+      "group": "Litigants",
+      "group_category": "Legal standing",
+      "resource": "Protection from hearsay accusations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§74] If my accuser were on trial, and I were giving evidence against him based on hearsay instead of certain knowledge, he would protest that he was being treated monstrously; [§75] yet he sees nothing monstrous in forcing me to explain occurrences with which I am far too young to be acquainted save from hearsay."
+      ],
+      "reasoning": "The speaker invokes a procedural norm where evidence and accusations should be based on direct knowledge rather than hearsay, treating the use of hearsay as a violation of fair trial standards.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general rule of the Athenian legal system applicable to all parties in a trial.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Religious exclusion of polluted",
+      "rule_category": "Religious access",
+      "group": "Unclean or defiled persons",
+      "group_category": "Health",
+      "resource": "Right to participate in sacrifices",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§82] Many, too, have been proved to be defiled as they stood beside a sacrifice, because they prevented the proper performance of the rites."
+      ],
+      "reasoning": "Social and religious rules in Athens barred those considered 'polluted' (due to crimes like murder) from sacred rites, as their presence was believed to invalidate the sacrifice or cause divine disfavor.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific sub-group defined by their ritual or legal status (the 'unclean').",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Maritime exclusion of polluted",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Unclean or defiled persons",
+      "group_category": "Health",
+      "resource": "Freedom of movement via sea",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§82] I hardly think I need remind you that many a man with unclean hands or some other form of defilement who has embarked on shipboard with the righteous has involved them in his own destruction."
+      ],
+      "reasoning": "Customary rules/beliefs discouraged or prohibited the 'polluted' from boarding ships with others, as their presence was seen as a physical danger to the crew and vessel through divine retribution.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to individuals with a specific legal/religious status ('unclean hands').",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Capital punishment stay",
+      "rule_category": "Access to judicial protection",
+      "group": "Condemned prisoners",
+      "group_category": "Legal standing",
+      "resource": "Protection from immediate execution",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§70] This one, whose name is said to have been Sosias, though under sentence of death, had not yet been executed. Meanwhile it was shown how the money had disappeared. The Athenian people rescued him from the very hands of the Eleven."
+      ],
+      "reasoning": "The text provides an instance where a man under sentence of death was held but not yet executed, allowing for newly discovered evidence to save him. This reflects a procedural gap or delay between sentencing and execution that served as a protection.",
+      "specificity": 8,
+      "specificity_reasoning": "This is a very specific situation involving those already convicted and awaiting the Eleven (executioners).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Judicial finality submission",
+      "rule_category": "Obligation of legal submission",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to disregard wrongful verdicts",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§87] In a trial for murder, even if judgement is wrongly given against the defendant, justice and the facts cannot prevail against that decision. Once you condemn me, I must perforce obey your verdict and the law, even if I am not the murderer or concerned in the crime. No one would venture either to disregard the sentence passed upon him because he was sure that he had had no part in the crime, or to disobey the law if he knew in his heart that he was guilty of such a deed."
+      ],
+      "reasoning": "The text establishes that once a verdict is rendered in a murder trial, the defendant is legally bound to comply with the punishment regardless of actual guilt or innocence, showing that the finality of the court's decision overrides objective truth.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual currently in the status of a defendant in a capital case, a significant but specific subset of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Prosecutorial diomosia requirement",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Protection from unsworn accusations",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§90] Then how can you decide the case aright? By allowing the prosecution to bring their charge only after taking the customary oath",
+        "[§96] Acquit me, then, today and at the trial for murder the prosecution shall take the traditional oath before accusing me: you shall decide my case by the laws of the land"
+      ],
+      "reasoning": "In Athenian murder trials, the 'traditional oath' (diomosia) was a mandatory procedural safeguard for the defendant, ensuring the accuser swore to the truth of the charge under religious sanction.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a specific procedural rule for murder trials in Athens, affecting defendants and accusers within that specific legal context.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Right to relevant defense",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to restrict defense to the specific charge",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§90] By allowing the prosecution to bring their charge only after taking the customary oath, and by allowing me to confine my defence to the question before the court."
+      ],
+      "reasoning": "The author asserts a procedural right for the defendant to limit their defense specifically to the charge at hand (murder), rather than being forced to defend against extraneous character attacks or unrelated charges.",
+      "specificity": 5,
+      "specificity_reasoning": "This pertains to the specific legal procedures governing murder trials (homicide courts) versus other types of trials.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Irreversibility of execution",
+      "rule_category": "Protection from bodily harm",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Protection from irreversible punishment during appeal",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§90] If you spare me now, you can treat me as you will then; whereas once you put me to death, you cannot even consider my case further.",
+        "[§95] If you are persuaded only for an instant to put him to death, he has lost his chance of redress with his life. A man’s very friends will refuse to seek redress for him once he is dead"
+      ],
+      "reasoning": "The text highlights a concrete legal reality where the execution of a death sentence precludes any further legal reconsideration or redress, effectively stripping the condemned of all future legal standing or correction of error.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to defendants in capital cases where death is a possible or actual sentence.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0028.tlg005.perseus-eng2",
+  "_input_tokens": 28854,
+  "_output_tokens": 5441,
+  "_model": "google/gemini-3-flash-preview"
+}

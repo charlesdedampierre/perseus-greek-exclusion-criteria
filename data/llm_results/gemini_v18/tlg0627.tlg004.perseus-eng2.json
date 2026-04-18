@@ -1,0 +1,506 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Treatment without pain",
+      "rule_category": "Protection from bodily harm",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Protection from pain during medical operations",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§2] such operations as can be performed without pain should be done with the least possible pain; and that all other things of the like kind should be done better than they could be managed by the attendants."
+      ],
+      "reasoning": "The author establishes a professional medical standard that patients should be protected from unnecessary physical suffering during clinical procedures.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any person undergoing a medical operation, which represents a large portion of the population at various times.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Calibrated nutritional intake",
+      "rule_category": "Access to medical care",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to individualized dietary regimen",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] At first it will be proper not to give a large quantity nor very thick, but in proportion to the quantity of food which one has been accustomed to take, and so as that the veins may not be much emptied."
+      ],
+      "reasoning": "Hippocrates dictates that the administration of resources (food/ptisan) must be calibrated to the patient's prior status and current physical needs to prevent harm.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule specifically targets individuals suffering from acute diseases requiring dietary intervention.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Scheduled meal frequency",
+      "rule_category": "Access to medical care",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Preservation of customary meal frequency",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] And to those who are accustomed to take two meals in the day it is to be given twice, and to those accustomed to live upon a single meal it is to be given once at first, and then, if the case permit, it is to be increased and given twice to them, if they appear to stand in need of it."
+      ],
+      "reasoning": "The medical rule respects the patient's existing social and physiological habits regarding meal frequency when providing the resource of medicinal sustinence.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to sick individuals under medical supervision for acute conditions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-crisis nutritional extension",
+      "rule_category": "Access to medical care",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Continued medicinal nutrition after crisis",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] And the more that the patient is troubled with purging, in so much greater quantity is it to be given until the crisis, and moreover until two days beyond the crisis, in such cases as it appears to take place on the fifth, seventh, or ninth day, so as to have respect both for the odd and even day"
+      ],
+      "reasoning": "The rule mandates that the patient continues to receive the resource (ptisan) even after the peak of the illness to ensure recovery.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to the subset of patients reaching a clinical 'crisis' point in acute disease.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-based medical intervention",
+      "rule_category": "Access to medical care",
+      "group": "Adults",
+      "group_category": "Age",
+      "resource": "Right to invasive bowel evacuation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] But if the earlier-taken food has not descended, in the case of a person who has recently swallowed food, and if he be strong and in the vigor of life, a clyster should be given, or if he be weaker, a suppository is to be administered"
+      ],
+      "reasoning": "The text differentiates treatment based on the patient's life stage; those in the 'vigor of life' (adults) are granted more aggressive medical resources (clysters) compared to the 'weaker' (likely elderly or children).",
+      "specificity": 4,
+      "specificity_reasoning": "This rule targets a specific demographic (strong adults) versus less vigorous patients.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Medical access to venesection",
+      "rule_category": "Access to medical care",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to receive venesection",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] But if the pain point to the clavicle, or if there be a heaviness in the arm, or about the breast, or above the diaphragm, one should open the inner vein at the elbow, and not hesitate to abstract a large quantity, until it become much redder, or instead of being pure red, it turns livid, for both these states occur."
+      ],
+      "reasoning": "The text establishes a clinical protocol where patients presenting with specific symptoms (pain extending to the clavicle or upper torso) are entitled to and should receive significant bloodletting as a standard medical resource.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual within the society who falls ill with these specific acute symptoms, which is a significant but specific subset of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Procedural right to purgatives",
+      "rule_category": "Access to medical care",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Access to efficacious pharmaceutical treatment",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§7] But if the pain be below the diaphragm, and do not point to the clavicle, we must open the belly either with black hellebore or peplium... and both these stop the pain, and many other of the laxatives also stop it, but these two are the most efficacious that I am acquainted with."
+      ],
+      "reasoning": "The text mandates the administration of specific medicinal substances (hellebore or peplium) for patients with sub-diaphragmatic pain, identifying these as the standard and most effective treatments available in that society's medical practice.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies to any person suffering from the described medical condition.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Dietary restriction during purging",
+      "rule_category": "Restriction of resource access",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to consume draughts (medicinal drinks)",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§7] but it is according to rule not to give any draughts while the medicine is under operation; but when the purging is stopped then he should take a smaller draught than what he had been accustomed to."
+      ],
+      "reasoning": "Hippocrates explicitly states a 'rule' that restricts a patient's access to liquids/draughts during the active phase of medicinal purging, representing a customary medical restriction.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule is specific to the duration of a medical procedure for sick individuals.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Pre-treatment starvation custom",
+      "rule_category": "Denial of nutrition",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to regular nutrition (ptisans and drinks)",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§8] And here I know that physicians are in the practice of doing the very reverse of what is proper, for they all wish, at the commencement of diseases, to starve their patients for two, three, or more days, and then to administer the ptisans and drinks."
+      ],
+      "reasoning": "Although the author disagrees with the practice, he identifies it as a standard 'practice' of physicians in his society to deny food and drink to patients at the onset of illness.",
+      "specificity": 4,
+      "specificity_reasoning": "It applies to the general class of the sick at the start of their illness.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Constitutional dietary accommodation",
+      "rule_category": "Access to medical care",
+      "group": "Pituitous persons",
+      "group_category": "Health",
+      "resource": "Protection from the negative effects of fasting",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] Persons who are bilious in the stomach bear these changes worst, while those who are pituitous, upon the whole, bear the want of food best, so that they suffer the least from being restricted to one meal in the day, contrary to usage."
+      ],
+      "reasoning": "The text identifies a specific biological group (the pituitous) who, by social/medical observation, are recognized as having a greater capacity to endure food restriction, which informs how medical rules are applied to them described later in the passage regarding 'emptying of vessels'.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies only to a specific 'humoral' type within the population.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Standardized medical care",
+      "rule_category": "Access to judicial protection",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to competent medical treatment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] All these things are strong proofs that physicians do not conduct the regimen of patients properly, but that in those diseases in which total abstinence from food should not be enforced on patients that will be put on the use of ptisans, they do enforce total abstinence; that in those cases in which there should be no change made from total abstinence to ptisans, they do make the change."
+      ],
+      "reasoning": "The author establishes a normative standard for medical practice, asserting that patients have a right to treatment that follows specific physiological rules rather than the arbitrary or 'unskilled' whims of practitioners. This implies a societal expectation of professional competence and the avoidance of 'great mischief' or 'disgraceful' errors.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to any person in the society who falls ill and seeks medical assistance.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from medical derision",
+      "rule_category": "Access to judicial protection",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Protection from public ridicule",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] Such mistakes of practitioners are particularly ridiculed by mankind, for the physician or nonprofessional man thus coming in, seems as it were to resuscitate the dead."
+      ],
+      "reasoning": "The text describes a customary social sanction where physicians who fail to recognize basic nutritional needs (inanition) are subject to public 'derision' and 'ridicule' by both peers and laypeople, suggesting a lack of protection for professional reputation in cases of manifest incompetence.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those practicing the medical profession.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Wounded limb immobilization",
+      "rule_category": "Restriction of personal freedom",
+      "group": "The wounded",
+      "group_category": "Health",
+      "resource": "Freedom of movement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§12] If a person having received a wound in the leg, neither very serious nor very trifling... at first betakes himself to bed, in order to promote the cure, and never raises his leg, it will thus be much less disposed to inflammation, and be much sooner well, than it would have been if he had strolled about during the process of healing."
+      ],
+      "reasoning": "This describes a prescribed medical and customary rule for those with physical injuries: to ensure healing, they must forfeit their freedom of movement (walking or 'strolling about') in favor of strict bed rest and elevation of the limb.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any individual who sustains a specific type of injury (a leg wound).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Patient dietary restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to choose food and drink",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] It is also disgraceful not to recognize a patient whose debility is connected with inanition, and to pinch him in his diet; this mistake, indeed, is attended with some danger, but much less than the other."
+      ],
+      "reasoning": "The text highlights a standard practice where physicians 'pinch' (restrict) the diet of the sick. While the author critiques the misapplication of this rule, the existence of a regime where a person's basic right to eat is legally/customarily ceded to a physician's authority is clearly established.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad category of the sick under medical care.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Uterine protection from vinegar",
+      "rule_category": "Denial of medical treatment",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Access to vinegar-based medical drinks",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§16] Vinegar is more prejudicial to women than to men, for it creates pains in the uterus."
+      ],
+      "reasoning": "The author explicitly identifies a physiological harm specific to the female anatomy (the uterus) as a reason to restrict the use of vinegar (oxymel) in women compared to men during acute disease treatment.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to the entire female population of the society when facing acute illness.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Class-based bathing access",
+      "rule_category": "Access to public resources",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to proper medical bathing",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] Sometimes it must be less used than it would be otherwise, from the want of accommodation; for in few families are all the conveniences prepared, and persons who can manage them as they ought to be."
+      ],
+      "reasoning": "Hippocrates notes that many families lack the private infrastructure (smoke-free rooms, abundant water, attendants) required for a medically sound bath, effectively limiting this clinical resource to wealthy households with proper facilities.",
+      "specificity": 4,
+      "specificity_reasoning": "This affects a significant portion of the population who lack private wealth and household infrastructure.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Patient autonomy in bathing",
+      "rule_category": "Restriction of personal freedom",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to self-managed physical movement",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] But the person who takes the bath should be orderly and reserved in his manner, should do nothing for himself, but others should pour the water upon him and rub him"
+      ],
+      "reasoning": "Medical custom in this period dictated that patients forfeit physical autonomy during the therapeutic bath, requiring them to remain passive while attendants perform all actions.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any individual currently categorized as a patient undergoing this specific treatment.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Age-based bloodletting criteria",
+      "rule_category": "Access to medical intervention",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Access to venesection",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§20] Bleed in the acute affections, if the disease appear strong, and the patients be in the vigor of life, and if they have strength."
+      ],
+      "reasoning": "The clinical rule restricts the use of bloodletting (venesection) to those in the 'vigor of life,' implying that those of advanced age (who lack this vigor/strength) are systematically denied this primary treatment for acute disease.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to all individuals defined by their age or perceived lack of physical 'vigor'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Age-calibrated blood extraction",
+      "rule_category": "Regulated medical treatment",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Protection from excessive blood loss",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] one ought to open the internal vein of the right arm, and abstract blood more or less according to the habit and age of the patient."
+      ],
+      "reasoning": "Legal/customary medical practice required the amount of blood withdrawn to be regulated by the age of the patient, providing a protection for younger (or older) patients against the standard adult dosage of bloodletting.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general physiological-legal rule applied to all patients based on their age category.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical information right",
+      "rule_category": "Relief from medical uncertainty",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to prognostic disclosure",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] ...and should a convulsion occur to such a person, death may be anticipated, and it is well to announce it beforehand."
+      ],
+      "reasoning": "The text instructs the physician to announce the anticipation of death beforehand. This establishes a customary rule where the patient (or their family) has a right to be informed of a fatal prognosis based on specific clinical signs.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to any individual seeking medical care in Hippocratic society who exhibits terminal symptoms.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Inclusion of women in diagnostics",
+      "rule_category": "Access to medical care",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Equal medical diagnostic consideration",
+      "resource_category": "Health",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] ...you may expect that the patient, man or woman, who experiences these symptoms, is about to fall into a state of delirium."
+      ],
+      "reasoning": "The author explicitly includes both men and women in the diagnostic rule for delirium. This indicates that the medical standards and prognostic rules of the time were applied across gender lines for these specific acute conditions.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all women within the context of medical treatment.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Patient dietary restriction",
+      "rule_category": "Restriction of resource access",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to consume standard food",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§25] When the feet are cold, give neither drink nor ptisan, nor anything else of the kind, but reckon it an important rule to refrain until they become warm... you will augment the disease in no small degree.",
+        "[§26] ...nothing should be given to them, except oxymel diluted with water; no draught should be administered, until the fever abate and the urine be concocted..."
+      ],
+      "reasoning": "The text establishes strict medical/customary prohibitions against feeding patients during specific physiological states (cold extremities or unconcocted urine). This is a concrete loss of the resource of nutrition/food based on health status.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a subset of the population currently undergoing medical treatment for acute illness.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical disclosure of prognosis",
+      "rule_category": "Access to judicial protection",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to receive medical prognosis",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§28] when, therefore, you perceive these symptoms, announce this prognostic, if you shall judge proper, after making the suitable observations."
+      ],
+      "reasoning": "The text instructs the physician to provide a prognosis to the patient or their family when fatal symptoms are observed. This establishes a customary right for the sick to be informed of their condition by the professional.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies generally to any patient exhibiting specific acute symptoms under a physician's care.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Health-based venesection eligibility",
+      "rule_category": "Access to medical care",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Protection from excessive bloodletting",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§29] the inner vein in the arm should be opened on the side affected, and blood abstracted according to the habit, age, and color of the patient, and the season of the year, and that largely and boldly, if the pain be acute"
+      ],
+      "reasoning": "The rule mandates that medical intervention (bloodletting) must be calibrated to the specific physical characteristics and age of the individual, serving as a protection against standardized but potentially harmful over-treatment.",
+      "specificity": 3,
+      "specificity_reasoning": "It applies to all patients undergoing pleuritic treatment, but the application is individualized.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Exercise-based diagnostic priority",
+      "rule_category": "Access to medical care",
+      "group": "Athletes",
+      "group_category": "Occupation",
+      "resource": "Right to specialized diagnostic forecasting",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§28] and if the patient be in the prime of life, and if his body be strong from exercise, and brawny, or of a melancholic temperament... it may be well to announce beforehand either delirium or convulsion"
+      ],
+      "reasoning": "Physicians are specifically instructed to provide advanced warnings of delirium to patients who are physically strong or athletic, indicating a societal/professional rule where physical status dictates the level of predictive care provided.",
+      "specificity": 4,
+      "specificity_reasoning": "This is specific to a subset of the population defined by age (prime of life) and physical occupation/habit (exercise/brawny).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Behavioral contraindication for hellebore",
+      "rule_category": "Denial of medical treatment",
+      "group": "Sexually active or intemperate persons",
+      "group_category": "Health",
+      "resource": "Access to specific medical purgatives (hellebore)",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§34] you may administer the hellebore, provided these symptoms be not connected with drinking, nor with immoderate venery; nor with sorrow, vexation, nor insomnolency, for, if any of these causes exist, the treatment must have respect to it."
+      ],
+      "reasoning": "The text explicitly bars the administration of a specific resource (hellebore treatment) to individuals if their physical symptoms are derived from specific behaviors (drinking, sex) or emotional states, functioning as a medical exclusion rule.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule targets individuals whose ailments are attributed to specific lifestyle choices or temporary emotional states.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Medical access to bloodletting",
+      "rule_category": "Access to medical care",
+      "group": "Patients",
+      "group_category": "Health",
+      "resource": "Right to bloodletting treatment",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§38] If he labors under difficulty of breathing, if it is the summer season, and if he is in the prime of life, and is strong, blood should be abstracted from the arm, and then he should eat hot pieces of bread, dipped in dark wine and oil, drink very little, and labor much, and live on well-fed pork, boiled with vinegar, so that he may be able to endure hard exercises."
+      ],
+      "reasoning": "The text prescribes bloodletting as a standard therapeutic intervention for specific physical conditions (breathing difficulty) provided certain age and strength criteria are met, indicating it was a resource granted by medical practitioners.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a subset of the population (the sick who are also strong/young) but is a general medical rule of the time.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Restriction on purgative medicine",
+      "rule_category": "Medical restriction",
+      "group": "Patients with chronic pain",
+      "group_category": "Health",
+      "resource": "Protection from downward purging",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] If you think it necessary to give medicines, you may safely purge upwards by hellebore, but none of those should be purged downwards."
+      ],
+      "reasoning": "The text establishes a safety rule or medical prohibition against 'downward purging' (laxatives) for certain internal pains, treating the protection from such treatments as a necessary clinical safeguard.",
+      "specificity": 5,
+      "specificity_reasoning": "Applies specifically to patients with certain localized pains above or below the diaphragm.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Clinical diagnostic protection",
+      "rule_category": "Legal standing",
+      "group": "Hysterical patients",
+      "group_category": "Health",
+      "resource": "Right to clinical differentiation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§53] Mode of distinguishing persons in an hysterical fit. Pinch them with your fingers, and if they feel, it is hysterical; but if not, it is a convulsion."
+      ],
+      "reasoning": "The text provides a specific diagnostic rule to distinguish between conditions. In a society where medical status could affect legal or social standing, the right to a correct diagnosis is a concrete resource.",
+      "specificity": 6,
+      "specificity_reasoning": "Applies to a narrow group of people experiencing specific types of fits or seizures.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Protection from harmful purging",
+      "rule_category": "Medical restriction",
+      "group": "Anaemic or splenetic patients",
+      "group_category": "Health",
+      "resource": "Protection from purgative interference",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] In these cases you may do mischief, but cannot possibly do any good by purging, but may interrupt the spontaneous remissions and crises of the complaints."
+      ],
+      "reasoning": "The author explicitly forbids the application of purging to a list of specific groups (those with enlarged spleens, anaemia, etc.), defining their right to be free from a standard but, for them, harmful medical practice.",
+      "specificity": 5,
+      "specificity_reasoning": "The rule targets a specific list of medical conditions rather than the general public.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-surgical exercise regimen",
+      "rule_category": "Access to medical care",
+      "group": "Post-surgical patients",
+      "group_category": "Health",
+      "resource": "Access to gym and wrestling facilities",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§47] When the patient recovers, let him be put upon a course of hellebore. Then let him be exercised and sweated; the friction of the gymnasium and wrestling in the morning will be proper."
+      ],
+      "reasoning": "The text mandates access to the gymnasium and wrestling as a formal part of the recovery process for those treated for hemorrhoids or trichiasis, treating these civic spaces as medical resources.",
+      "specificity": 6,
+      "specificity_reasoning": "The rule applies specifically to those recovering from certain surgical procedures.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 8,
+  "_file_id": "tlg0627.tlg004.perseus-eng2",
+  "_input_tokens": 55674,
+  "_output_tokens": 7406,
+  "_model": "google/gemini-3-flash-preview"
+}

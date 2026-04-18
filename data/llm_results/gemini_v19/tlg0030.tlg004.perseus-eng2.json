@@ -1,0 +1,117 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Occupation",
+      "rule": "Orator impeachment for bribery",
+      "group": "orators",
+      "resource": "Protection from impeachment",
+      "directionality": "LESS",
+      "verbatim": "[§8] [8] Or if he attends a meeting in any place with intent to undermine the democracy, or forms a political society; or if anyone betrays a city, or ships, or any land, or naval force, or being an orator, makes speeches contrary to the interests of the Athenian people, receiving bribes. The opening provisions of the law were made applicable by you to the entire citizen body, since those are offences which anyone might commit; but the latter part is directed against the orators themselves, in whose hands the proposing of measures rests.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text defines that specific legal procedures (impeachments) for speaking against the people's interests are specifically reserved for professional orators who receive bribes, rather than ordinary citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to legal advocacy",
+      "group": "Citizens",
+      "resource": "Right to legal advocacy",
+      "directionality": "MORE",
+      "verbatim": "[§11] [11] ...what is better or more democratic than our custom, when some private person is facing the danger of a trial and cannot conduct his own defence, of allowing any citizen who wishes to come forward to help him and give the jury a fair statement of the case?",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a democratic norm/right where any citizen may act as an advocate (synegoros) for another citizen who is unable to defend themselves effectively.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to local burial",
+      "group": "Citizens",
+      "resource": "Right to burial in Attica",
+      "directionality": "MORE",
+      "verbatim": "[§18] [18] ...is the man who lay down in the temple at the people’s request even to be refused a grave in Attica?",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The rhetorical question points to a legal reality where certain high crimes result in the denial of burial within Athenian territory, implying this is a standard resource/right for citizens unless legally forfeited.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Private citizen trial protection",
+      "group": "private citizens",
+      "resource": "Protection from impeachment",
+      "directionality": "MORE",
+      "verbatim": "[§4] [4] ...which lays it down that impeachments shall be reserved for the orators themselves, when they speak against the interests of the people, but shall not apply to every Athenian. [§9] [9] You would have been insane if you had framed the law in any other way; if, when the orators enjoy both the honors and the profits of speaking, you had exposed the ordinary citizen to the risks that go with them.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law distinguishes between professional politicians (orators) and private citizens, protecting the latter from the specific high-risk legal mechanism of impeachment (eisangelia) for political speech.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen protection from malicious prosecution",
+      "group": "Citizens",
+      "resource": "Protection from slanderous litigation",
+      "directionality": "MORE",
+      "verbatim": "[§33] ...there is not in the world a single democracy or monarch or race more magnanimous than the Athenian people, and that it does not forsake those citizens who are maligned by others, whether singly or in numbers, but supports them. [§34] ...they immediately disfranchised the man who tried to slander the accused and did not award him a fifth part of the votes.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a systemic judicial protection where the Athenian assembly/jury supports citizens against malicious accusers by penalizing the prosecutor if they fail to secure a minimum threshold of votes.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy citizen property security",
+      "group": "Wealthy citizens",
+      "resource": "Right to retain property",
+      "directionality": "MORE",
+      "verbatim": "[§36] They decided that the mine was within its proper limits, and in one and the same verdict assured the safety of the men’s estates and guaranteed their working of the mine for the remainder of the period.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Hyperides notes a specific legal precedent where the jury prioritized property rights and legal boundaries over the state's financial gain, ensuring wealthy investors (mine-workers) could retain their estates.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Contractor protection from arbitrary tribute",
+      "group": "Peasants",
+      "resource": "Exemption from extra-legal tribute",
+      "directionality": "MORE",
+      "verbatim": "[§36] ...the city’s revenues from these are again being increased, revenues which some of our orators impaired by misleading the people and subjecting the mine-workers to tribute.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text implies that 'mine-workers' (contractors/entrepreneurs) are legally entitled to operate without being subjected to arbitrary or improper 'tribute' imposed by orators, framing this protection as a rule that restores revenue.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Impeachment law procedural protection",
+      "group": "Citizens",
+      "resource": "Protection from illegal impeachment",
+      "directionality": "MORE",
+      "verbatim": "[§38] ...help Euxenippus in the same way, rather than desert him over a trivial matter, and in an impeachment like the present: an impeachment to which he is not liable, which has been framed in defiance of the laws...",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Hyperides argues that the specific legal mechanism of 'impeachment' (eisangelia) is governed by strict laws and criteria, and citizens are protected from being tried under this process if their actions do not fall within the defined legal scope.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Right to summon character witnesses",
+      "group": "Citizens",
+      "resource": "Right to summon supporters in court",
+      "directionality": "MORE",
+      "verbatim": "[§41] It remains for you to ask the jury’s permission to summon your friends and bring your children to the bar.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a standard procedural right for a citizen defendant to call 'friends' and family to the court to provide emotional or character-based appeals to the jury.",
+      "confidence": 10
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg0030.tlg004.perseus-eng2",
+  "_input_tokens": 10659,
+  "_output_tokens": 1764,
+  "_model": "google/gemini-3-flash-preview"
+}

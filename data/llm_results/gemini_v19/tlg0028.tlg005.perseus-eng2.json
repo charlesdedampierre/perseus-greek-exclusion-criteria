@@ -1,0 +1,263 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Citizenship",
+      "rule": "Metic exclusion from murder courts",
+      "group": "Metics / Foreigners",
+      "resource": "Right to trial by murder laws",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§9] First, whereas an information has been lodged against me as a malefactor, I am being tried for murder: a thing which has never before happened to anyone in this country. Indeed, the prosecution have themselves borne witness to the fact that I am not a malefactor and cannot be charged under the law directed against malefactors, as that law is concerned with thieves and footpads, and they have omitted to prove my claim to either title."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker, an alien, argues that he is being illegally tried under the laws for 'malefactors' (common criminals like thieves) rather than the specific, ancient laws governing murder trials, which provide more protections. This indicates that as an alien (metic), he is being denied the standard procedural resource of a murder trial.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Alien pretrial detention bypass",
+      "group": "Metics / Foreigners",
+      "resource": "Protection from pretrial imprisonment",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§17] Then again, gentlemen, my imprisonment was an act of illegality quite without parallel. I was ready to furnish the three sureties required by law; yet the prosecution took steps to ensure that I should be prevented from doing so. Hitherto no alien willing to furnish sureties has ever been imprisoned; and, moreover, the law concerned applies to the custodians of malefactors as it does to others."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states a rule that aliens who can provide three sureties are exempt from pretrial imprisonment. The speaker claims this right is being uniquely denied to him, but acknowledges the general rule exists to protect his group.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Defendant right of voluntary exile",
+      "group": "Citizens",
+      "resource": "Right to leave after first speech",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§13] You reply that if I had been allowed my freedom, I should have made off without awaiting my trial—as though you had forced me to enter this country against my will. Yet if I attached no importance to being debarred from Athens for the future, it was equally open to me either to disregard the summons to appear in court and so lose the case by default, or to avail myself of the right given to every one of leaving the country after making the first speech for the defense."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker identifies a general legal privilege in Athens where a defendant in a murder trial has the right to go into voluntary exile (leaving the country) after the first defense speech to avoid the death penalty.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave manumission through purchase",
+      "group": "Slaves",
+      "resource": "Right to purchase freedom",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§20] I sailed from Mytilene, gentlemen, as a passenger on the same boat as this Herodes whom, we are told, I murdered. We were bound for Aenus, I to visit my father, who happened to be there just then, and Herodes to release some slaves to certain Thracians. The slaves whom he was to release were also passengers, as were the Thracians who were to purchase their freedom."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a commercial and legal transaction where slaves are traveling specifically to have their freedom purchased by third parties (Thracians), indicating a rule that slaves can be manumitted through a resource (money/purchase).",
+      "confidence": 8
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from torture during legal proceedings",
+      "directionality": "LESS",
+      "verbatim": "[§29] ...So they abandoned that line, and instead seized the two men and examined them under torture. [§31] ...The slave was doubtless promised his freedom: it was certainly to the prosecution alone that he could look for release from his sufferings.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the standard legal procedure in Athenian homicide cases where slaves are subjected to physical torture (basanos) to extract evidence, a practice not applied to free citizens in the same manner.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave reward for informing",
+      "group": "Slaves",
+      "resource": "Right to manumission",
+      "directionality": "MORE",
+      "verbatim": "[§34] ...As a rule, informers are rewarded with money, if they are free, and with their liberty, if they are slaves.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly states the customary social/legal rule that slaves who provide information (informers) are typically granted their freedom as a reward.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Public trial for slaves",
+      "group": "Slaves",
+      "resource": "Right to a public trial",
+      "directionality": "MORE",
+      "verbatim": "[§48] ...it follows that the slave in question should have had a public trial, instead of being put to death by you without a hearing.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker argues that even though the individual is a slave, the law or custom requires a public hearing rather than summary execution by private individuals.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Protection of slaves from summary execution",
+      "group": "Slaves",
+      "resource": "Protection from extrajudicial killing",
+      "directionality": "MORE",
+      "verbatim": "[§48] Why, even slaves who have murdered their masters and been caught red-handed are not put to death by the victim’s own relatives; they are handed over to the authorities as the ancient laws of your country ordain.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text outlines a specific legal protection where even in cases of flagrant crime, slaves must be processed by state authorities rather than killed by the victim's family.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Allied state execution restriction",
+      "group": "Metics / Foreigners",
+      "resource": "Right to independent capital punishment",
+      "directionality": "LESS",
+      "verbatim": "[§47] ...you sentenced him to death on your own authority and executed him, when even an allied state is denied the right of inflicting the death-penalty in such fashion without the consent of the Athenian people.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage highlights a jurisdictional rule of the Athenian Empire where allied (subject) states cannot execute individuals without the approval of the Athenian central government.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Judicial protection for slave lives",
+      "group": "Slaves",
+      "resource": "Access to court for murder cases",
+      "directionality": "MORE",
+      "verbatim": "[§48] ...and if a court can sentence the murderer of a slave as effectively as it can the murderer of a free man, it follows that the slave in question should have had a public trial...",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes that the legal system treats the murder of a slave as a punishable offense similar to that of a free man, implying a right to legal recourse.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Imprisonment for unpaid debt",
+      "group": "Indebted citizens",
+      "resource": "Freedom from imprisonment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§63] On the contrary, the probabilities show that he would have been induced to commit the crime by me sooner than I by him; for even after suffering an execution for a debt of seven minae, he could not release himself from prison: his friends had to purchase his release."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific individual, Lycinus, who was imprisoned because he could not pay a debt (an execution for seven minae). This reflects a general societal rule where failure to pay debts resulted in the loss of physical liberty until the debt was settled by the individual or their associates.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Amnesty for non-leaders of revolt",
+      "group": "Mytilenaean citizens",
+      "resource": "Right to retain land",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§77] But from the moment that you punished the authors of the revolt—of whom my father was not found to be one—and granted the other citizens of Mytilene an amnesty which allowed them to continue living on their own land, he has not been guilty of a single fault, of a single lapse from duty."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage refers to a historical event (the revolt of Mytilene) where the Athenian state established a rule: while leaders were punished, the general citizen body was granted the right to retain their ancestral lands through an amnesty.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Liturgy and tax obligations",
+      "group": "Wealthy citizens",
+      "resource": "Right to retain own earnings",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§77] He has failed neither the city of Athens nor that of Mytilene, when a public service was demanded of him; he regularly furnishes choruses, and always pays the imposts."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies providing choruses (liturgies) and paying imposts (taxes) as mandatory public services for a man of the father's status and wealth, representing a systematic redirection of private wealth to the state.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Treaty-based litigation rights",
+      "group": "Foreign settlers",
+      "resource": "Right to litigate",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§78] If Aenus is his favorite place of resort, that fact does not mean that he is evading any of his obligations towards Athens... like those others, some of whom I see crossing to the mainland and settling among your enemies, while the rest actually litigate with you under treaty."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes that certain individuals (likely metics or former allies) who have settled elsewhere still possess the resource of legal standing to litigate with Athenians based on formal treaties (symbola).",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Age-based legal disability",
+      "group": "Young people",
+      "resource": "Right to defend oneself",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§79] my father is too old to help me: and I am far too young to be able to avenge myself as I should. [§80] You must help me: you must refuse to reach those who make a trade of prosecution to become more powerful than yourselves."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The speaker argues that his youth (and his father's extreme age) creates a deficit in his ability to use the legal system for 'vengeance' or defense, suggesting social and potentially legal disadvantages for the very young in adversarial proceedings.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Sacred protection in murder trials",
+      "group": "Citizens",
+      "resource": "Protection through traditional religious procedure",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§88] The laws, the oaths, the sacrifices, the proclamations, in fact the entire proceeding in connection with trials for murder differ as profoundly as they do from the proceedings elsewhere simply because it is of supreme importance that the facts at issue, upon which so much turns, should themselves be rightly interpreted."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal and religious framework (oaths, sacrifices) that applies to murder trials in Athens, providing defendants with procedural protections that differ from other types of cases.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Citizen right to legal defense",
+      "group": "Citizens",
+      "resource": "Right to confine defense to charges",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§90] Then how can you decide the case aright? By allowing the prosecution to bring their charge only after taking the customary oath, and by allowing me to confine my defence to the question before the court."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker (a defendant in a murder trial) asserts the procedural right to focus the defense solely on the relevant charges, which serves as a protection for the accused.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Mandatory obedience to court verdicts",
+      "group": "Citizens",
+      "resource": "Right to contest final judgments",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§87] In a trial for murder, even if judgement is wrongly given against the defendant, justice and the facts cannot prevail against that decision. Once you condemn me, I must perforce obey your verdict and the law, even if I am not the murderer or concerned in the crime."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage establishes that once a verdict is reached in a murder trial, the individual loses any right to resist the sentence, even on the grounds of factual innocence.",
+      "confidence": 10
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Prosecutorial oath requirement",
+      "group": "Citizens",
+      "resource": "Protection from unsworn accusations",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§96] Acquit me, then, today and at the trial for murder the prosecution shall take the traditional oath before accusing me: you shall decide my case by the laws of the land."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text specifies that for a capital murder charge, the accuser is legally bound to take a 'traditional oath', which acts as a barrier against frivolous or false capital accusations.",
+      "confidence": 9
+    }
+  ],
+  "_n_chunks": 4,
+  "_file_id": "tlg0028.tlg005.perseus-eng2",
+  "_input_tokens": 23290,
+  "_output_tokens": 3822,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,179 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": "Occupation",
+      "rule": "Philosopher exclusion from social esteem",
+      "group": "philosophers",
+      "resource": "Protection from public ridicule",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§22] If you have an earnest desire towards philosophy, prepare yourself from the very first to have the multitude laugh and sneer, and say, He is returned to us a philosopher all at once; and Whence this supercilious look?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a consistent social reaction (ridicule and sneering) from 'the multitude' toward those who transition to the specific occupation/status of a philosopher.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Citizenship",
+      "rule": "Roman citizen status restriction",
+      "group": "Friends of non-citizens",
+      "resource": "Right to grant Roman citizenship",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§24] But my friends will be unassisted. What do you mean by unassisted? They will not have money from you; nor will you make them Roman citizens. Who told you, then, that these are among the things within our own power, and not rather the affairs of others?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies the granting of Roman citizenship as a resource that is 'not within our own power' (beyond the reach of the private individual/non-official), indicating a legal/political boundary regarding who can confer this status.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Freedom",
+      "rule": "Slave exclusion from autonomy",
+      "group": "Slaves",
+      "resource": "Right to personal emotional stability",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§12] And when you call your servant, consider that it is possible he may not come at your call; or, if he does, that he may not do what you wish. But it is not at all desirable for him, and very undesirable for you, that it should be in his power to cause you any disturbance."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text assumes the master-servant dynamic where the servant's primary function is obedience to the master's call, and explicitly seeks to strip the servant of the 'power to cause any disturbance' to the master.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Age",
+      "rule": "Elderly restriction on mobility",
+      "group": "old people",
+      "resource": "Freedom of movement from home",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§7] But if you are old, never go far from the ship, lest you should be missing when called for."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Using the analogy of a ship for life, the author establishes a specific behavioral rule for the group 'old people', restricting their distance from their 'ship' (death/calling) compared to others.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Occupation",
+      "rule": "Private citizen exclusion from infrastructure provision",
+      "group": "private citizens",
+      "resource": "Right to provide public porticos and baths",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§24] It will not have porticos nor baths of your providing? And what signifies that? Why, neither does a smith provide it with shoes, nor a shoemaker with arms. It is enough if every one fully performs his own proper business."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text outlines that specific material contributions to the state (baths/porticos) are not the 'business' of private citizens or specific tradesmen, categorizing these resources by occupational role.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Lineage",
+      "rule": "Filial obedience and care",
+      "group": "Sons",
+      "resource": "Right to personal autonomy",
+      "directionality": "LESS",
+      "verbatim": "[§30] Is a certain man your father? In this are implied, taking care of him; submitting to him in all things; patiently receiving his reproaches, his correction. But he is a bad father. Is your natural tie, then, to a good father? No, but to a father.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text defines the role of a son based on the lineage relationship ('father'), prescribing total submission and care as a duty regardless of the father's moral quality.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Religion",
+      "rule": "Traditional sacrifice and libation",
+      "group": "Citizens",
+      "resource": "Freedom of religious practice",
+      "directionality": "LESS",
+      "verbatim": "[§31] But it also becomes incumbent on every one to offer libations and sacrifices and first-fruits, according to the customs of his country, purely, and not heedlessly nor negligently; not avariciously, nor yet extravagantly.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes that performing specific religious rituals according to national custom is 'incumbent on every one', indicating a social and religious rule governing behavior.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Premarital chastity for men",
+      "group": "Men",
+      "resource": "Freedom of sexual conduct",
+      "directionality": "LESS",
+      "verbatim": "[§33] Before marriage, guard yourself with all your ability from unlawful intercourse with women; yet be not uncharitable or severe to those who are led into this, nor frequently boast that you yourself do otherwise.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Epictetus outlines a behavioral rule for men specifically regarding 'unlawful' sexual activity prior to marriage.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Gender",
+      "rule": "Female status through appearance",
+      "group": "Women",
+      "resource": "Recognition of moral character",
+      "directionality": "LESS",
+      "verbatim": "[§40] Women from fourteen years old are flattered by men with the title of mistresses. Therefore, perceiving that they are regarded only as qualified to give men pleasure, they begin to adorn themselves, and in that to place all their hopes.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a societal norm where women are valued primarily for physical pleasure and adornment once they reach the age of fourteen.",
+      "confidence": 8
+    },
+    {
+      "criteria": "Age",
+      "rule": "Adulthood transition for females",
+      "group": "Women",
+      "resource": "Protection from sexual objectification",
+      "directionality": "LESS",
+      "verbatim": "[§40] Women from fourteen years old are flattered by men with the title of mistresses. Therefore, perceiving that they are regarded only as qualified to give men pleasure, they begin to adorn themselves, and in that to place all their hopes.",
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage identifies fourteen as the age threshold where girls are transitioned into a specific social category ('mistresses') based on their utility to men's pleasure.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Wealthy status over others",
+      "group": "Wealthy citizens",
+      "resource": "Right to claim superiority",
+      "directionality": "LESS",
+      "verbatim": "[§44] These reasonings have no logical connection: I am richer than you; therefore I am your superior. ... The true logical connection is rather this: I am richer than you; therefore my possessions must exceed yours.",
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author argues against an existing social convention where the wealthy believe their material resources equate to personal or moral superiority over the poor.",
+      "confidence": 7
+    },
+    {
+      "criteria": "Wealth / Properties",
+      "rule": "Poor greater hardship endurance",
+      "group": "The poor",
+      "resource": "Capacity for physical endurance",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§47] But first consider how much more frugal are the poor than we, and how much more patient of hardship."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author contrasts his own socio-economic group with 'the poor,' noting that the latter group possesses a greater degree of a specific resource (the ability to endure hardship/frugality) as a general social observation.",
+      "confidence": 9
+    },
+    {
+      "criteria": "Age",
+      "rule": "Adult accountability for reason",
+      "group": "Grown men",
+      "resource": "Requirement of self-reformation",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§51] You are no longer a boy, but a grown man. If, therefore, you will be negligent and slothful, and always add procrastination to procrastination, purpose to purpose, and fix day after day in which you will attend to yourself, you will insensibly continue to accomplish nothing, and, living and dying, remain of vulgar mind. This instant, then, think yourself worthy of living as a man grown up and a proficient."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a distinction based on the criterion of Age. Being a 'grown man' versus a 'boy' carries the societal and philosophical expectation/requirement to adhere to the judgments of reason and self-improvement.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 3,
+  "_file_id": "tlg0557.tlg002.perseus-eng4",
+  "_input_tokens": 17384,
+  "_output_tokens": 2440,
+  "_model": "google/gemini-3-flash-preview"
+}

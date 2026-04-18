@@ -1,0 +1,832 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Deceased passage fare requirement",
+      "rule_category": "Obligation of public duty",
+      "group": "The dead",
+      "group_category": "Health",
+      "resource": "Right to passage without payment",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] CHARON Pay the fare, curse you. MENIPPUS Shout away, Charon, if that’s what you prefer. CHARON Pay me, I say, for taking you across. MENIPPUS You can’t get blood out of a stone. CHARON Is there anyone who hasn’t a single penny?",
+        "[§8] CHARON Didn’t you know you had to bring it with you? MENIPPUS Yes, but I didn’t have it. What of it? Did that make it wrong for me to die? CHARON So you’ll be the only one to boast of a free passage? MENIPPUS Not free, my good fellow; I baled, I helped at the oar, I was the only passenger who wasn’t weeping. CHARON That’s nothing to do with a ferryman; your penny must be paid. No alternative’s allowed."
+      ],
+      "reasoning": "The text describes the standard social-religious rule of the 'obol for Charon,' where every deceased person is legally/customarily required to pay a penny to cross into the underworld. Menippus's refusal highlights the existence of the rule as an absolute requirement with 'no alternative allowed.'",
+      "specificity": 1,
+      "specificity_reasoning": "This rule applies to every single human being upon death within the cultural context described.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Physical dignity of free men",
+      "rule_category": "Protection from bodily harm",
+      "group": "Free men",
+      "group_category": "Freedom status",
+      "resource": "Protection from contemptuous treatment",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] MENIPPUS No, the outrageous thing was your behaviour, when you expected people to worship you, treated free men with contempt, and forgot all about death."
+      ],
+      "reasoning": "Menippus critiques former tyrants (Croesus, etc.) for violating the social rule that free men should not be treated with contempt or forced into worshipful submission, implying a standard of bodily and personal dignity for those of free status.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to those with the status of 'free men' in contrast to slaves or subjects.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Philosophical intellectual standing",
+      "rule_category": "Legal standing",
+      "group": "Philosophers",
+      "group_category": "Occupation",
+      "resource": "Right to be recognized as wise",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§3] POLLUX But they say I’m an uneducated ignoramus to cast aspersions on their wisdom."
+      ],
+      "reasoning": "The text indicates that philosophers hold a social status where their 'wisdom' is a protected trait; an 'uneducated' person is culturally barred from critiquing them, showing a stratification of who is allowed to judge intellectual or social truth.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to a specific professional and social class (Philosophers).",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Elite wealth accumulation",
+      "rule_category": "Grant of economic privilege",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to collect interest",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] DIOGENES And take this message to the rich men from us, my dearest Pollux. “Why do you guard your gold, you senseless fools? Why do you punish yourselves, counting interest, and piling talents on talents, when you must come here shortly with no more than a penny?”"
+      ],
+      "reasoning": "Diogenes's critique of the rich for 'counting interest' confirms that the wealthy in this society have the legal and customary right to accumulate wealth through lending, a concrete economic mechanism used to 'pile talents' (resources).",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to the class of people with enough surplus capital to act as lenders.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Philosophical dietary restriction",
+      "rule_category": "Religious and ethical regulation",
+      "group": "Pythagoreans",
+      "group_category": "Occupation",
+      "resource": "Right to consume beans",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] MENIPPUS: Beans, my good fellow—something you mustn’t eat. [§22] PYTHAGORAS: Just give me some. Doctrines are different among the dead; I’ve learnt that beans and parents’ heads are not the same thing here."
+      ],
+      "reasoning": "The text references the well-known Pythagorean taboo against eating beans as an established doctrine for members of that sect during life. Pythagoras acknowledges this rule was binding in the world of the living, even if it is void in the underworld.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies specifically to a distinct philosophical sub-group (Pythagoreans) rather than the general population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Female cranial frailty",
+      "rule_category": "Physical status classification",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Physical cranial strength",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] AEACUS: Don’t, you’re breaking his skull; it’s as weak as a woman’s. [§21] MENIPPUS: Then at least I’ll have a good spit at him, since he’s as much woman as man."
+      ],
+      "reasoning": "The text establishes a normative comparison where women are defined by having physically weaker skulls than men. This comparison is used to categorize the effeminate Sardanapalus as sharing the lower physical/legal status of a woman.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to approximately half the human population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Post-mortem mobility restriction",
+      "rule_category": "Restriction of personal freedom",
+      "group": "Deceased persons",
+      "group_category": "Health",
+      "resource": "Freedom of movement from the underworld",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§19] AEACUS: I’m off now, too, to see that none of the dead gives us the slip and escapes. [§25] AEACUS: I’m off now, too, to see that none of the dead gives us the slip and escapes."
+      ],
+      "reasoning": "Aeacus describes his official duty as gate-keeper to prevent the 'shades' (the dead) from escaping Hades. This reflects the societal/mythological rule that the state of being dead entails a permanent loss of freedom of movement back to the world of the living.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all individuals once they have reached the universal state of death.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Adolescent philosophical engagement",
+      "rule_category": "Access to education",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to study and practice philosophy",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§19] MENIPPUS: Many of the young men call themselves Philosophers, and, to judge at least from their garb and gait, are tiptop Philosophers. [§24] MENIPPUS: Many of the young men call themselves Philosophers, and, to judge at least from their garb and gait, are tiptop Philosophers."
+      ],
+      "reasoning": "Menippus reports to Socrates that 'young men' in contemporary Athens are the primary group adopting the status and appearance of philosophers, indicating that this age group has full access to philosophical life.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies specifically to young males in an urban (Athenian) context.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female military exclusion",
+      "rule_category": "Exclusion from military service",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Obligation to fight in wars",
+      "resource_category": "Military",
+      "directionality": "LESS",
+      "proof": [
+        "[§33] TIRESIAS: The woman’s life, Menippus, by a long way. It has fewer worries, and women have the mastery over men, and don’t have to fight in wars, or stand on the battlements, or argue in parliament, or be crossexamined in court."
+      ],
+      "reasoning": "Tiresias, who has experienced both male and female lives according to the Greek tradition Lucian is referencing, explicitly identifies the lack of military duty as a characteristic privilege of the female status in his society.",
+      "specificity": 2,
+      "specificity_reasoning": "The rule describes a general condition affecting all women in the society described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female political exclusion",
+      "rule_category": "Exclusion from political speech",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to argue in parliament",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§33] TIRESIAS: The woman’s life, Menippus, by a long way. It has fewer worries, and women have the mastery over men, and don’t have to fight in wars, or stand on the battlements, or argue in parliament, or be crossexamined in court."
+      ],
+      "reasoning": "The text lists 'arguing in parliament' (deliberative assembly) as a burden women are free from, which indicates their systematic exclusion from formal political participation.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the entire category of women regarding formal political institutions.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Female legal exclusion",
+      "rule_category": "Exclusion from judicial proceedings",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to be cross-examined in court",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§33] TIRESIAS: The woman’s life, Menippus, by a long way. It has fewer worries, and women have the mastery over men, and don’t have to fight in wars, or stand on the battlements, or argue in parliament, or be crossexamined in court."
+      ],
+      "reasoning": "Tiresias notes that women do not have to be cross-examined in court, implying that they lacked independent legal standing to testify or defend themselves in the same manner as men under the contemporary legal framework Lucian describes.",
+      "specificity": 3,
+      "specificity_reasoning": "This refers to a broad legal incapacity based on gender.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Greek citizen prostration exemption",
+      "rule_category": "Exemption from servile ritual",
+      "group": "Macedonians",
+      "group_category": "Origin",
+      "resource": "Right to refuse prostration (proskynesis)",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] Furthermore, you discarded the Macedonian cloak, they tell me, for a Median doublet, and took to a tiara worn upright on your head, and expected Macedonians, free men, to bow down before you."
+      ],
+      "reasoning": "Philip's critique of Alexander emphasizes that Macedonians, as 'free men' (contrasted with the 'effeminate' Medes/Persians), possessed a traditional right or status that made performing prostration (bowing down) to a monarch inappropriate or a violation of their ancestral customs.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to a specific ethnic/national group (the Macedonians) within the context of Alexander's empire, defining their status as free men relative to the king.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Royal protection of captives",
+      "rule_category": "Protection of high-status captives",
+      "group": "Captured royal women",
+      "group_category": [
+        "Gender",
+        "Lineage"
+      ],
+      "resource": "Protection from sexual exploitation",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] I’ve only heard of one thing I can praise; you kept your attentions away from Darius’ beautiful queen, and looked after his mother and his daughters. That was conduct befitting a king."
+      ],
+      "reasoning": "Philip identifies the protection of the defeated king's female relatives from sexual attention or mistreatment as conduct befitting a king. This indicates a customary rule involving the respectful treatment of high-status female captives by their captors.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies to a very small subset of people: the close female relatives of a defeated monarch.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "King's military leadership duty",
+      "rule_category": "Obligation of public duty",
+      "group": "Kings",
+      "group_category": "Occupation",
+      "resource": "Right to lead the army in battle",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§50] I don’t. Not that I think it’s a bad thing for a king to suffer an occasional wound and to face dangers at the head of his army; but that wasn’t at all the sort of thing for you."
+      ],
+      "reasoning": "The text acknowledges that it is a standard expectation or right for a king to face dangers 'at the head of his army' and suffer wounds, framing personal military leadership as a core component of the royal role in Greek/Macedonian society.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule applies specifically to the individual holding the office of king.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Diplomatic integrity rule",
+      "rule_category": "Access to diplomatic trust",
+      "group": "Kings",
+      "group_category": "Occupation",
+      "resource": "Adherence to oaths and promises",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§48] I never went back on an oath or a promise, or broke faith to gain a victory, and, though I took over most of the Greeks without bloodshed, perhaps you’ve heard how I punished the Thebans."
+      ],
+      "reasoning": "Alexander cites his adherence to oaths and promises as a hallmark of his legitimate conduct as a leader, implying a societal rule that rulers must maintain faith in treaties and diplomatic agreements rather than relying on 'bribery and treachery.'",
+      "specificity": 7,
+      "specificity_reasoning": "This rule applies to political and military leaders who act on behalf of the state in diplomatic matters.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Royal succession by ring",
+      "rule_category": "Access to political succession",
+      "group": "Royal heirs",
+      "group_category": "Lineage",
+      "resource": "Right to inherit empire",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§52] ALEXANDER I don’t know, Diogenes; I didn’t give any instructions about it in time; I merely gave my ring to Perdiccas when I died."
+      ],
+      "reasoning": "The passage indicates that in the absence of formal instructions, the physical transfer of the royal ring (the signet) serves as the mechanism for transferring imperial authority to a successor.",
+      "specificity": 9,
+      "specificity_reasoning": "This rule applies only to the highest level of political power, affecting only a few potential successors within the royal circle.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Absolute denial of resurrection",
+      "rule_category": "Restriction of personal freedom",
+      "group": "The dead",
+      "group_category": "Age",
+      "resource": "Freedom of movement to the world above",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§55] DIOGENES It’s against our law that anyone who has once sailed across our lake and passed within our entrance should go up again. For Aeacus does not neglect his duties, nor is Cerberus to be taken lightly."
+      ],
+      "reasoning": "The text explicitly mentions a 'law' in Hades that prevents any person who has died and entered the underworld from returning to the world of the living.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule applies to every single human being once they have passed away.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Posthumous deification in Egypt",
+      "rule_category": "Grant of economic privilege",
+      "group": "Macedonian Kings",
+      "group_category": "Lineage",
+      "resource": "Right to divine honors and temple resources",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§55] ALEXANDER I’ve been lying in Babylon for a whole thirty days now, but my guardsman Ptolemy promises that, whenever he gets a respite from the present disturbances, he’ll take me away to Egypt and bury me there, so that I may become one of the gods of the Egyptians."
+      ],
+      "reasoning": "The text describes a customary practice where dead rulers are transported to Egypt to be formally buried and transitioned into the status of a god, which entails concrete temple establishment and cultic worship.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies specifically to high-ranking rulers or individuals like Alexander.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Naval service debt collection",
+      "rule_category": "Obligation of public duty",
+      "group": "Ferrymen",
+      "group_category": "Occupation",
+      "resource": "Right to defer debt payments",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] HERMES If you don’t mind, ferryman, let’s work out how much you owe me at the moment, so that we won’t quarrel about it later. ... HERMES Then you won’t think it wrong of me if I dun you for my debt."
+      ],
+      "reasoning": "The dialogue establishes that a ferryman (Charon) is legally or customarily liable for the costs of his vessel's equipment (anchors, oars, nails) and can be 'dunned' (searched or pressed) for payment by the supplier.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to individuals in specific service or trade roles regarding their operating equipment.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Intestate estate inheritance",
+      "rule_category": "Access to property rights",
+      "group": "Non-relatives",
+      "group_category": "Lineage",
+      "resource": "Right to inherit property from sonless men",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§62] PLUTO Do you know the old man—I mean that veritable greybeard, EuCrates the rich—the man with no sons, but with fifty thousand men hunting his estate? ... PLUTO What possesses them that they pray for his death, or aspire to his fortune, although not related?"
+      ],
+      "reasoning": "The text highlights that non-related individuals (toadies/estate-hunters) have no automatic legal claim to the wealth of a rich man without sons, leading them to use flattery to secure a place in a will that the law of kinship does not provide.",
+      "specificity": 5,
+      "specificity_reasoning": "This concerns a common social phenomenon regarding the inheritance of large estates among the wealthy class.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Testamentary preference for sons",
+      "rule_category": "Inheritance protection",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Priority in inheritance over legacy hunters",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§68] But later, when the wills are read, the bodyguard, for all their years of service, are excluded, and the sons and Nature herself, as is only right, prevail over all of them, and they gnash their teeth in secret at having been made to look such fools."
+      ],
+      "reasoning": "Pluto describes the legal outcome of contested wills where biological sons ('Nature herself') take precedence over 'the bodyguard' (toadies/captatores), confirming that legitimate offspring have a legally protected right to inherit despite the efforts of outsiders to influence the testator.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies generally to the class of legitimate sons and affects the transfer of wealth across the entire property-owning class.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Legacy hunter exclusion",
+      "rule_category": "Denial of property rights",
+      "group": "Legacy hunters",
+      "group_category": "Occupation",
+      "resource": "Right to inherit from the childless",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§68] But later, when the wills are read, the bodyguard, for all their years of service, are excluded, and the sons and Nature herself, as is only right, prevail over all of them, and they gnash their teeth in secret at having been made to look such fools."
+      ],
+      "reasoning": "The text identifies a specific social group ('the bodyguard' or toadies who wait on the rich) and notes they are systematically 'excluded' when wills are read in favor of natural heirs, showing a legal or customary barrier to their enrichment through these means.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those who engage in the 'art' of legacy hunting, a known sub-group in Roman-era society described by Lucian.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Testamentary freedom of property",
+      "rule_category": "Grant of economic privilege",
+      "group": "Property owners",
+      "group_category": "Wealth",
+      "resource": "Right to designate heirs by will",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§75] So I thought of another clever move, and decided to make my will public. I’ve left him all my property in it, hoping he in turn would emulate me, and do the same by me."
+      ],
+      "reasoning": "Cnemon's ability to publicly declare a will and designate a non-relative (Hermolaus) as his heir demonstrates that property owners have the concrete legal right to dispose of their goods via testament to whoever they choose.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to anyone in the society who possesses enough wealth to warrant a will, encompassing a large portion of the free population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave manumission for service",
+      "rule_category": "Access to freedom",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Grant of manumission for requested services",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§72] I bought poison, and persuaded his butler, next time he asked for wine—he’s a pretty heavy drinker, you know—to have the poison ready in the cup, and give it to him. I promised him his freedom, if he did it."
+      ],
+      "reasoning": "The offer of freedom to a butler (a slave) in exchange for an action shows that manumission was a concrete legal mechanism available as a reward for service to a superior, even if the service in this case was criminal.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to domestic/trusted slaves such as butlers involved in household management.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Testamentary freedom of childless",
+      "rule_category": "Access to political succession",
+      "group": "Childless wealthy men",
+      "group_category": "Wealth",
+      "resource": "Right to designate arbitrary heirs",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§76] Yet this great love for rich, childless old men is there for all to see. ... I would keep saying in public that I had left each of them as my heir, and each would believe me, and show himself more assiduous than ever in his flattery; but all the time my real will was different",
+        "[§80] And who was the heir under your final will? One of your family, no doubt? POLYSTRATUS Good heavens no; it was a pretty boy from Phrygia I’d just bought."
+      ],
+      "reasoning": "The text describes 'legacy hunting' as a social phenomenon where wealthy childless men exercise total control over their succession, allowing them to bypass family members and appoint even recently purchased slaves as heirs, thereby wielding significant social power through their property.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific subset of the wealthy class (the childless) and their interactions with the 'noblest' citizens of the city seeking inheritance.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Inheritance by manumitted slaves",
+      "rule_category": "Grant of economic privilege",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to inherit property and status",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§80] So he became my heir, and is now numbered among the aristocrats, and, despite his smooth chin and foreign accent, is credited with bluer blood than Codrus, greater beauty than NIreus, and more intelligence than Odysseus."
+      ],
+      "reasoning": "The passage confirms that a slave (a 'boy from Phrygia I'd just bought') can be legally designated an heir, and upon inheriting, transitions into the aristocratic class with full social and economic standing.",
+      "specificity": 3,
+      "specificity_reasoning": "While the event is specific, it reflects the legal capacity of slaves to be instituted as heirs in Roman-era law (as indicated by the author's timeframe).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-mortem asset stripping",
+      "rule_category": "Restriction of property rights",
+      "group": "The Dead",
+      "group_category": "Age",
+      "resource": "Right to retain material goods",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§81] Strip yourselves before you come on board, and leave all this useless stuff on the shore; for, even then, the ferry will hardly hold you. ... Off too with those wreaths and proclamations of your prowess. ... You too, Craton, off with your wealth and your effeminacy too, and your luxury, and don’t bring your funeral trappings or your ancestors’ reputations"
+      ],
+      "reasoning": "The text outlines the customary/mythological rule that the deceased are stripped of all earthly status, wealth, and physical markers of rank (crowns, robes, armor) upon entering the afterlife, representing an absolute loss of material resources at the point of death.",
+      "specificity": 1,
+      "specificity_reasoning": "This 'rule' applies to every single human being in the society upon death.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Tyrannical property forfeiture",
+      "rule_category": "Denial of property rights",
+      "group": "Tyrants",
+      "group_category": "Occupation",
+      "resource": "Right to retain wealth and insignia",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§81] Lampichus, tyrant of Gela. ... Ought a tyrant to come naked, Hermes? HERMES A tyrant shouldn’t, but a dead man most certainly should. So off with it all. LAMPICHUS There you are; there goes my wealth. HERMES Away too with your vanity, Lampichus, and your pride; they will weigh down the ferry"
+      ],
+      "reasoning": "Beneath the mythological satire, the text reflects the socio-political reality that the personal wealth and 'trappings' of a tyrant (purple robes, diadem) are surrendered entirely at death, often accompanied by the joy of the citizenry over the loss of their power.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to individuals holding the specific political status of 'tyrant'.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public mourning exclusion",
+      "rule_category": "Social exclusion",
+      "group": "Cynic philosophers",
+      "group_category": "Occupation",
+      "resource": "Right to public funeral rites",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§81] But nobody weeps for you, Menippus; you’re the only one lying in peace. MENIPPUS Not so; soon you’ll hear the dogs howling most piteous laments over me, and the ravens flapping their wings in mourning, when they gather and perform my burial."
+      ],
+      "reasoning": "Menippus, representing the Cynic philosopher, identifies a societal rule where those who reject social norms are excluded from formal civic and familial mourning rituals (weeping, dirges), receiving instead a 'natural' burial by animals.",
+      "specificity": 7,
+      "specificity_reasoning": "Applies to the specific group of philosophers who lead a life of 'independence and plain speaking' outside traditional kin structures.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Tyrannical property confiscation",
+      "rule_category": "Denial of property rights",
+      "group": "Tyrants",
+      "group_category": "Occupation",
+      "resource": "Right to retain property and insignia",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§85] HERMES Well why, Lampichus, do you bring all that with you? LAMPICHUS Well, what should I do? Ought a tyrant to come naked, Hermes? HERMES A tyrant shouldn’t, but a dead man most certainly should. So off with it all. LAMPICHUS There you are; there goes my wealth. HERMES Away too with your vanity, Lampichus, and your pride; they will weigh down the ferry, if they come in along with you. LAMPICHUS Then at least allow me to keep my diadem and my mantle. HERMES Certainly not; away with these too."
+      ],
+      "reasoning": "While the setting is mythological, Lucian uses the tyrant Lampichus of Gela to reflect the real-world expectation that a deposed or deceased tyrant loses all material wealth and symbols of office (diadem, mantle) as part of the transition of power and the social judgment of his rule.",
+      "specificity": 8,
+      "specificity_reasoning": "Tyrants are a very small, specific subset of the political elite.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Athlete physical requirement",
+      "rule_category": "Access to professional status",
+      "group": "Athletes",
+      "group_category": "Occupation",
+      "resource": "Right to participate in competition",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§86] HERMES You, the fat and fleshy one, who are you? DAMASIAS Damasias, the athlete. HERMES Yes, you look like him. I know you, having often seen you in the ring. DAMASIAS Yes, Hermes; but let me in; I’m stripped to the skin. HERMES No, you’re not, my good fellow, not while you have all that flesh on you. Well, take it off, for you’ll sink the boat, if you only put one foot aboard."
+      ],
+      "reasoning": "The text highlights the physical conditioning required of professional athletes in the Greek world. Their status and right to compete 'in the ring' were contingent on a specific bodily state (lack of excess fat, presence of muscle), which Lucian parodies by requiring the athlete to 'strip' off his flesh.",
+      "specificity": 7,
+      "specificity_reasoning": "Athletes represent a specific professional class with particular physical regulations.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Testamentary freedom",
+      "rule_category": "Access to property succession",
+      "group": "Wealthy property owners",
+      "group_category": "Wealth",
+      "resource": "Right to designate heirs by will",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§95] They made no secret of their wills; Moerichus was leaving Aristeas master of all he had, if he died first, and Aristeas was doing the same for Moerichus. This was all down in black and white, and they tried to outdo each other with obsequious attentions."
+      ],
+      "reasoning": "The text describes the legal practice of making written wills ('black and white') to designate heirs. This was a standard legal mechanism in the Greco-Roman world for wealthy individuals to control the transmission of property outside of strict kinship lines.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual with sufficient property to warrant a written testament.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Intestate succession by kin",
+      "rule_category": "Access to inheritance",
+      "group": "Male relations",
+      "group_category": "Lineage",
+      "resource": "Right to inherit in absence of direct heirs",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§97] Both have died on one day, and the properties have passed on to Eunomius and Thrasycles, two relations who have never imagined things turning out thus."
+      ],
+      "reasoning": "When the intended reciprocal heirs (Moerichus and Aristeas) died simultaneously, the property defaulted to their kin (Eunomius and Thrasycles), reflecting the legal rules of intestate succession where blood relations inherit when a will fails.",
+      "specificity": 5,
+      "specificity_reasoning": "Inheritance laws apply to the broader population of citizens and their families.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public funeral honors",
+      "rule_category": "Grant of civic honor",
+      "group": "Wealthy citizens",
+      "group_category": "Wealth",
+      "resource": "Right to public funeral orations and monuments",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§87] leave behind family, fame, all public proclamations in your honour, and the inscriptions on your statues, and say nothing of the mighty tomb they raised over your body.",
+        "[§93] Then there are others, in Sicyon, applauding Diophantus, the Rhetorician, for his funeral speech over Craton here"
+      ],
+      "reasoning": "The text reflects the customary right of wealthy or prominent citizens to receive lavish public burials, statue inscriptions, and formal funeral orations (epitaphios logos) delivered by rhetoricians.",
+      "specificity": 6,
+      "specificity_reasoning": "This is restricted to the wealthy or politically significant class within a city-state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Filial maintenance allowance",
+      "rule_category": "Economic restriction of sons",
+      "group": "Adult sons",
+      "group_category": "Age",
+      "resource": "Right to financial maintenance from father",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§107] But your treatment at his hands was quite just, if you, who had a thousand talents in all, and lived a life of pleasure at ninety, wouldn’t allow your eighteen-year-old son any more than fourpence."
+      ],
+      "reasoning": "The text describes a situation where a wealthy father (Damis) withheld all but a pittance from his adult son. Diogenes' commentary reflects a social reality where fathers held absolute control over family wealth, leaving adult sons dependent on a discretionary allowance.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific legal/social dynamic between landowning/wealthy fathers and their adult heirs.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Intestate succession by kin",
+      "rule_category": "Access to inheritance",
+      "group": "Distant kin",
+      "group_category": "Lineage",
+      "resource": "Right to inherit from childless individuals",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§107] As for Blepsias, he was the first to accuse himself of great folly in hoarding his money for heirs who were unrelated, thinking in his folly that he would live for ever."
+      ],
+      "reasoning": "The mention of hoarding money for 'unrelated' heirs (or the realization that without direct descendants, wealth goes to those outside the immediate household) points to the legal structures of inheritance where property passes to collateral kin or designated heirs in the absence of children.",
+      "specificity": 3,
+      "specificity_reasoning": "This concerns the general laws of succession affecting any estate holder and their potential heirs.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Kinsman inheritance priority",
+      "rule_category": "Access to political succession",
+      "group": "Male kinsmen",
+      "group_category": "Lineage",
+      "resource": "Right to inherit ancestral property and honors",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§111] The armour belonged to me by natural right, as it was my cousin’s, and the rest of you, though far superior to him, wouldn’t compete, but left the prize for me... She ought to have left you the arms as a legacy to a kinsman, but she brought them and delivered them up to the community."
+      ],
+      "reasoning": "Ajax claims the arms of Achilles based on 'natural right' of kinship (as a cousin). Agamemnon’s response acknowledges that leaving items as a 'legacy to a kinsman' is the standard custom, contrasting it with the 'delivery to the community' through a contest.",
+      "specificity": 5,
+      "specificity_reasoning": "This relates to specific elite customs regarding the inheritance of prestige goods and arms among families.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military merit over lineage",
+      "rule_category": "Grant of military honor",
+      "group": "Soldiers",
+      "group_category": "Occupation",
+      "resource": "Right to military spoils based on merit",
+      "resource_category": "Military",
+      "directionality": "MORE",
+      "proof": [
+        "[§110] There’s some excuse for him, Ajax, as he’s only a man, and was eager for glory, the sweetest thing of all, the thing for which each of us faced danger, especially as he was judged your better—and, what’s more, by Trojans."
+      ],
+      "reasoning": "The text confirms that despite claims of lineage, military honors/resources (the arms) were distributed based on a judgment of merit ('judged your better') and service, allowing a non-kinsman to claim the resource through proven capability.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to the specific subset of the population engaged in high-status military competition.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Judicial defense for Shade",
+      "rule_category": "Access to judicial protection",
+      "group": "Deceased persons",
+      "group_category": "Age",
+      "resource": "Right to self-defense in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§113] SOSTRATUS Listen, Minos, and see if what I say is just. MINOS Listen again now? ... SOSTRATUS But answer me this, Minos. My question will be a short one. MINOS Speak on, then, only be brief, so that we can settle the other cases at once."
+      ],
+      "reasoning": "In the underworld court, even a confessed murderer and pirate like Sostratus is granted the right to speak and present an argumentative defense before the judge Minos, which results in a stay of punishment.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule applies to all 'shades' or deceased individuals awaiting judgment in the Lucianic underworld.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Executioner liability exemption",
+      "rule_category": "Protection from legal liability",
+      "group": "Occupational subordinates",
+      "group_category": "Occupation",
+      "resource": "Protection from responsibility for homicide",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§113] MINOS Clearly the judge or the tyrant, since the actual sword can’t be blamed; for it merely serves as a tool to serve the passion of the person who is responsible in the first instance."
+      ],
+      "reasoning": "The text establishes a legal/customary principle that those acting under direct compulsion or command (like public executioners or mercenaries obeying a judge/tyrant) are not held responsible for the killings they perform; the liability lies with the superior.",
+      "specificity": 4,
+      "specificity_reasoning": "It applies to specific professional roles such as executioners, mercenaries, and servants acting under orders.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Servant delivery recognition",
+      "rule_category": "Recognition of agency",
+      "group": "Servants",
+      "group_category": "Occupation",
+      "resource": "Right to be recorded as benefactor",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§113] And, if some one brings with his own hands gold or silver sent by his master, whom must we thank and record as the benefactor? MINOS The sender, Sostratus; the bringer was merely a servant."
+      ],
+      "reasoning": "The text confirms a social and legal rule where a servant delivering wealth is denied the status or credit of a benefactor; the resource (gratitude and formal record of the gift) belongs solely to the master.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes a general social rule for the servant-master relationship regarding financial transactions.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial priority for Greats",
+      "rule_category": "Access to judicial arbitration",
+      "group": "Military commanders",
+      "group_category": "Occupation",
+      "resource": "Right to formal arbitration of status",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§117] ALEXANDER Let Minos decide, then. ... MINOS Then let each of you speak in turn; you start, Libyan."
+      ],
+      "reasoning": "High-status military leaders (Alexander, Hannibal, Scipio) are granted a formal hearing by the supreme judge Minos to adjudicate their relative standing and 'first place,' treating their reputation as a resource subject to judicial ruling.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies only to the most 'famous' and high-ranking generals/kings.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Trial of citizens",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to trial before condemnation",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§117] But I led my country as her equal, and, when she sent for me... I promptly obeyed, gave myself up as a private citizen, and, when tried and condemned, accepted it without rancour."
+      ],
+      "reasoning": "Hannibal describes the Carthaginian/Greek norm where even a supreme commander, when acting as a private citizen, must be formally tried and condemned by the state rather than summarily punished.",
+      "specificity": 2,
+      "specificity_reasoning": "This refers to a general civic right in organized city-states (Carthage/Greek states).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Judicial accountability of leaders",
+      "rule_category": "Access to judicial protection",
+      "group": "Political leaders",
+      "group_category": "Occupation",
+      "resource": "Right to be tried as a private citizen",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§120] But I led my country as her equal, and, when she sent for me, after the enemy had invaded Africa with a great force, I promptly obeyed, gave myself up as a private citizen, and, when tried and condemned, accepted it without rancour."
+      ],
+      "reasoning": "Hannibal describes the Carthaginian norm where even high-ranking generals or leaders are subject to the legal authority of the state and can be tried as private citizens, rather than being above the law.",
+      "specificity": 4,
+      "specificity_reasoning": "The rule applies to the specific subset of society that holds high military or political office.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Inviolability of guest-friendship",
+      "rule_category": "Protection from bodily harm",
+      "group": "Hosts",
+      "group_category": "Occupation",
+      "resource": "Protection from marital abduction by guests",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§131] Though I was his host, he carried off my wife with him, contrary to all justice. Paris ought to be strangled, and not by you only, but by all the soldiers on both sides, for bringing death to so many."
+      ],
+      "reasoning": "The text identifies the violation of the guest-host relationship (xenia) as a legal/customary breach ('contrary to all justice') that justifies capital punishment, indicating a rule protecting the household of the host.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any household head acting as a host, which was a broad social role.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Universal equality of speech",
+      "rule_category": "Access to political speech",
+      "group": "The Dead",
+      "group_category": "Health",
+      "resource": "Equality of speech",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§127] but now I realise that glory is useless, however much men above hymn its praises, that among the dead all have but equal honour, and neither the beauty nor the strength we had remain with us, but we lie buried in the same darkness, all of us quite alike, and no better one than the other, and I am neither feared by the Trojan dead nor respected by the Greeks, but there is complete equality of speech and one dead man is like another, 'be he mean or be he great'."
+      ],
+      "reasoning": "Achilles describes the social structure of the underworld as one where all prior status markers (lineage, beauty, strength) are erased in favor of 'isegoria' (equality of speech), contrasted with the hierarchical 'life above'.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule applies to every single person within the terminal state of existence (the dead).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-mortem status loss",
+      "rule_category": "Exclusion from political power",
+      "group": "The Dead",
+      "group_category": "Health",
+      "resource": "Right to hold superior rank or honor",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§127] among the dead all have but equal honour, and neither the beauty nor the strength we had remain with us, but we lie buried in the same darkness, all of us quite alike, and no better one than the other, and I am neither feared by the Trojan dead nor respected by the Greeks"
+      ],
+      "reasoning": "The text explicitly states that death strips individuals of all material and social advantages (strength, beauty, fear, respect) that constituted their status in the living world.",
+      "specificity": 1,
+      "specificity_reasoning": "This applies to all deceased individuals regardless of their former status.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Irrevocability of death",
+      "rule_category": "Restriction of personal freedom",
+      "group": "The dead",
+      "group_category": "Health",
+      "resource": "Freedom to return to life",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§133] PLUTO That’s a love that’s common to all the dead, but will come to pass for none of them."
+      ],
+      "reasoning": "Pluto states as a general rule and existential fact of his realm that the dead are permanently confined to the underworld and cannot be restored to life, regardless of their desires.",
+      "specificity": 1,
+      "specificity_reasoning": "This rule applies to every deceased human being without exception in the context of the work's universe.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Post-mortem status equality",
+      "rule_category": "Denial of social distinction",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Right to superior legal or social standing",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§140] DIOGENES No indeed, your excellency; we shan’t be on an equal footing. Mausolus will groan when he remembers the things on earth above, which he thought brought him happiness, while Diogenes will be able to laugh at him.",
+        "[§143] MENIPPUS Neither you nor anyone else is handsome here. In Hades all are equal, and all alike."
+      ],
+      "reasoning": "The text explicitly argues that earthly distinctions—such as royal position (Mausolus) or physical beauty (Nireus)—carry no weight or privilege once a person has died. In the jurisdiction of the dead, all individuals are reduced to the same legal and social status.",
+      "specificity": 2,
+      "specificity_reasoning": "While it affects everyone, it specifically targets the high-status groups (kings, the beautiful, the wealthy) who lose their relative advantages.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Underworld marriage reunion exception",
+      "rule_category": "Access to family restoration",
+      "group": "Widowed spouses",
+      "group_category": "Gender",
+      "resource": "Right to temporary reunion with deceased spouse",
+      "resource_category": "Marriage and family",
+      "directionality": "MORE",
+      "proof": [
+        "[§133] PLUTO Well, Hermes, since Persephone agrees, take him up and make him into a bridegroom again. And you, sir, remember you’ve only been given one day."
+      ],
+      "reasoning": "While the general rule is no return to life, the text illustrates a specific customary exception where a recently wedded person may be granted a strictly limited (one day) return to see their spouse, based on a logic of 'favour' or precedent (Eurydice, Alcestis).",
+      "specificity": 9,
+      "specificity_reasoning": "This is an extremely rare and specific exception granted only to particular individuals under extraordinary emotional circumstances.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Tomb and memorial retention",
+      "rule_category": "Access to property recognition",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to maintain terrestrial memorials",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§139] DIOGENES Perhaps your tomb and all that costly marble may give the people of Halicarnassus something to show off, and they can boast to strangers of the magnificent building they have"
+      ],
+      "reasoning": "The text acknowledges that while the dead person gains no personal utility from it, the law and custom of the surface world protect the right of the wealthy to have their property/wealth converted into permanent memorials (tombs) that remain after death.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any deceased individual whose family has the wealth to commission a monument.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 12,
+  "_file_id": "tlg0062.tlg066.perseus-eng3",
+  "_input_tokens": 96099,
+  "_output_tokens": 13336,
+  "_model": "google/gemini-3-flash-preview"
+}

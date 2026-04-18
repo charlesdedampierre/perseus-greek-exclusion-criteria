@@ -1,0 +1,1150 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Rhetorical political dominance",
+      "rule_category": "Access to political power",
+      "group": "Rhetoricians",
+      "group_category": "Occupation",
+      "resource": "Political dominion over citizens",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] A thing, Socrates, which in truth is the greatest good, and a cause not merely of freedom to mankind at large, but also of dominion to single persons in their several cities. [...] I call it the ability to persuade with speeches either judges in the law courts or statesmen in the council-chamber or the commons in the Assembly or an audience at any other meeting that may be held on public affairs."
+      ],
+      "reasoning": "Gorgias defines rhetoric not just as a skill but as a means to achieve 'dominion' (arché) over others in the city-state context. This represents a rule of social stratification where the master of this specific art gains a level of political power described as superior to other citizens.",
+      "specificity": 8,
+      "specificity_reasoning": "I chose 8 because this rule applies specifically to the small subset of the population (rhetoricians) who possess this specialized training.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Labor appropriation via persuasion",
+      "rule_category": "Denial of economic autonomy",
+      "group": "Artisans",
+      "group_category": "Occupation",
+      "resource": "Right to personal economic gain",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§6] And I tell you that by virtue of this power you will have the doctor as your slave, and the trainer as your slave; your money-getter will turn out to be making money not for himself, but for another,—in fact for you, who are able to speak and persuade the multitude."
+      ],
+      "reasoning": "The text describes a social dynamic where the rhetorician, through political and judicial persuasion, can effectively reduce other high-status professionals (doctors, trainers, financiers) to a state of metaphorical 'slavery' where their labor and wealth-generation benefit the speaker rather than themselves.",
+      "specificity": 5,
+      "specificity_reasoning": "I chose 5 because it targets several distinct professional classes (doctors, trainers, money-getters) which represent a significant portion of the free, skilled population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Public assembly speech rights",
+      "rule_category": "Access to political speech",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to speak in the Assembly",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§5] I should say— in the manner of those who draft amendments in the Assembly—that in most respects calculation is in the same case as numeration",
+        "[§6] I call it the ability to persuade [...] the commons in the Assembly or an audience at any other meeting that may be held on public affairs."
+      ],
+      "reasoning": "The mention of drafting amendments and persuading the 'commons in the Assembly' confirms the established civic right of certain individuals to propose legislation and address the public body, a concrete political resource in Athenian society.",
+      "specificity": 2,
+      "specificity_reasoning": "I chose 2 because the right to attend and speak in the Assembly broadly applied to the entire body of adult male citizens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial self-defense",
+      "rule_category": "Access to judicial protection",
+      "group": "Litigants",
+      "group_category": "Legal standing",
+      "resource": "Right to persuade judges in court",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§6] I call it the ability to persuade with speeches either judges in the law courts or statesmen in the council-chamber"
+      ],
+      "reasoning": "The legal system allows individuals to present speeches to persuade judges; this is a concrete legal resource that ensures an individual's standing and ability to protect their interests in court.",
+      "specificity": 3,
+      "specificity_reasoning": "I chose 3 because while many people might go to court, it is a specific legal status (litigant) that activates this particular resource.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Oratorical political influence",
+      "rule_category": "Access to political power",
+      "group": "Orators",
+      "group_category": "Occupation",
+      "resource": "Right to give advice and carry resolutions",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] So whenever there is an election of such persons as you were referring to, Socrates, you see it is the orators who give the advice and get resolutions carried in these matters."
+      ],
+      "reasoning": "Gorgias asserts that in the Athenian political context, individuals trained in rhetoric are the ones who effectively provide counsel and ensure the passage of legislative or elective resolutions, even in technical matters.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to a specific professional class (orators) within the context of the entire citizen body's decision-making process.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Expert-led technical appointment",
+      "rule_category": "Grant of economic privilege",
+      "group": "Craftsmen",
+      "group_category": "Occupation",
+      "resource": "Right to be elected to public technical positions",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] When the city holds a meeting to appoint doctors or shipbuilders or any other set of craftsmen, there is no question then, is there, of the rhetorician giving advice? And clearly this is because in each appointment we have to elect the most skilful person."
+      ],
+      "reasoning": "Socrates describes the civic rule that for specific technical roles (doctors, shipbuilders), the society seeks to grant the position to the most skilled practitioner of that specific craft.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to various distinct professional subgroups when specific public vacancies arise.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Military advisory priority",
+      "rule_category": "Political power access",
+      "group": "General staff",
+      "group_category": "Occupation",
+      "resource": "Right to advise on military strategy",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§9] or in consulting on the appointment of generals, or on a manoeuvre against the enemy, or on a military occupation, it is the general staff who will then advise us, and not the rhetoricians."
+      ],
+      "reasoning": "The text identifies a customary rule where military professionals (general staff) are the ones granted the right to advise the state on warfare and tactical occupations.",
+      "specificity": 5,
+      "specificity_reasoning": "This is restricted to a very high-level group of military experts during times of war or strategic planning.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Public meeting instruction limit",
+      "rule_category": "Exclusion from instruction",
+      "group": "Public gatherings",
+      "group_category": "Citizenship",
+      "resource": "Right to receive specialized instruction in matters of justice",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§9] And so the rhetorician’s business is not to instruct a law court or a public meeting in matters of right and wrong, but only to make them believe; since, I take it, he could not in a short while instruct such a mass of people in matters so important."
+      ],
+      "reasoning": "Socrates argues that the large crowds in law courts or assemblies are systematically denied education/instruction (resulting in knowledge) in favor of mere persuasion (resulting in belief) due to the constraints of the setting.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the large masses of citizens attending the Assembly or law courts.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Capital punishment for misuse",
+      "rule_category": "Protection from bodily harm",
+      "group": "Unfair rhetoricians",
+      "group_category": "Occupation",
+      "resource": "Protection from execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§11] Thus it is the man who does not use it aright who deserves to be hated and expelled and put to death, and not his teacher."
+      ],
+      "reasoning": "Gorgias articulates a social rule that those who use the power of rhetoric 'unfairly' forfeit their right to body integrity and life, becoming liable to expulsion or execution.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies specifically to those within the oratorical class who violate ethical standards of the craft.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Self-defense right",
+      "rule_category": "Protection from bodily harm",
+      "group": "Trained fighters",
+      "group_category": "Occupation",
+      "resource": "Right to use combat skills for self-defense",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] For they imparted their skill with a view to its rightful use against enemies and wrongdoers, in self-defence, not provocation"
+      ],
+      "reasoning": "Gorgias notes that those trained in physical combat (boxing/wrestling) have a sanctioned right to use their skills to protect their own bodies against aggressors.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any citizen trained in the gymnasia or military schools.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Athenian freedom of speech",
+      "rule_category": "Access to political speech",
+      "group": "Residents of Athens",
+      "group_category": "Citizenship",
+      "resource": "Freedom of speech",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] It would indeed be a hard fate for you, my excellent friend, if having come to Athens, where there is more freedom of speech than anywhere in Greece, you should be the one person there who could not enjoy it."
+      ],
+      "reasoning": "Socrates explicitly identifies Athens as a location where the right to speak freely (parrhesia) is a recognized and widespread privilege, contrasting it with the rest of Greece.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general right available to a large portion of the population (those in Athens) compared to other city-states.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Intellectual guardianship by youth",
+      "rule_category": "Obligation of public duty",
+      "group": "Younger men",
+      "group_category": "Age",
+      "resource": "Right to correct elder speech and conduct",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§15] Ah, sweet Polus, of course it is for this very purpose we possess ourselves of companions and sons, that when the advance of years begins to make us stumble, you younger ones may be at hand to set our lives upright again in words as well as deeds."
+      ],
+      "reasoning": "Socrates describes a social norm where younger companions and sons have the specific role and duty to intervene and correct the errors of their elders, framing it as a functional social resource for the maintenance of the household and community.",
+      "specificity": 4,
+      "specificity_reasoning": "While this applies to all younger men, it specifically concerns their relationship with elders within a familial or mentor-student context.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Trainer immunity from misuse",
+      "rule_category": "Protection from legal liability",
+      "group": "Teachers of arts",
+      "group_category": "Occupation",
+      "resource": "Protection from liability for student wrongdoing",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] Then do you remember saying a little while ago that we ought not to complain against the trainers or expel them from our cities, if a boxer makes not merely use, but an unfair use, of his boxing? So in just the same way, if an orator uses his rhetoric unfairly, we should not complain against his teacher or banish him from our city, but the man who does the wrong and misuses his rhetoric."
+      ],
+      "reasoning": "The text outlines a legal or customary rule that protects teachers (specifically boxing trainers and rhetoric teachers) from being held responsible or banished when their students use their skills for unjust purposes.",
+      "specificity": 6,
+      "specificity_reasoning": "This rule applies specifically to those in the profession of teaching skills that can be used violently or deceptively.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Interlocutor withdrawal right",
+      "rule_category": "Access to judicial protection",
+      "group": "Participants in discussion",
+      "group_category": "Occupation",
+      "resource": "Freedom to terminate participation",
+      "resource_category": "Freedom",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] But as a set-off to that, I ask you if it would not be just as hard on me, while you spoke at length and refused to answer my questions, not to be free to go away and avoid listening to you."
+      ],
+      "reasoning": "Socrates asserts a right of freedom of movement/action within a social discussion, specifically the right to leave if the established procedural norms of the conversation are violated by the other party.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a narrow group of people engaged in formal philosophical or rhetorical debate.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Physician immunity from starvation",
+      "rule_category": "Protection of professional status",
+      "group": "Doctors",
+      "group_category": "Occupation",
+      "resource": "Right to professional recognition and livelihood",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§18] Thus cookery assumes the form of medicine, and pretends to know what foods are best for the body; so that if a cook and a doctor had to contend before boys, or before men as foolish as boys, as to which of the two, the doctor or the cook, understands the question of sound and noxious foods, the doctor would starve to death."
+      ],
+      "reasoning": "Socrates describes a social reality where, in the presence of an uneducated or 'foolish' public (the 'boys'), the formal expertise of a doctor is not recognized over a cook's flattery, leading to the doctor's loss of livelihood (starvation).",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific professional class (doctors) when interacting with a specific demographic (the uneducated public).",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Despotic capital punishment power",
+      "rule_category": "State violence",
+      "group": "Despots",
+      "group_category": "Lineage",
+      "resource": "Right to execute at discretion",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] Pol. What? Are they not like the despots, in putting to death anyone they please, and depriving anyone of his property and expelling him from their cities as they may think fit?"
+      ],
+      "reasoning": "Polus identifies the standard power of a 'despot' (tyrannos) in the Greek city-state as the legal or de facto ability to execute, exile, or confiscate property at will, which Socrates acknowledges as the common definition of their power.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule applies only to the very small number of individuals holding despotic power.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Oratorical property confiscation",
+      "rule_category": "Asset seizure",
+      "group": "Orators",
+      "group_category": "Occupation",
+      "resource": "Right to deprive others of property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] Pol. Are they [orators] not like the despots, in putting to death anyone they please, and depriving anyone of his property and expelling him from their cities as they may think fit?",
+        "[§21] Soc. ...the orators who do what they think fit in their cities, and the despots, will find they have got no good in doing that..."
+      ],
+      "reasoning": "The text establishes that high-level orators in the Athenian context possess the concrete power to influence the city to seize property or exile individuals, effectively holding the same material powers as a despot.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to the elite political class of public speakers/statemen.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from unjust execution",
+      "rule_category": "Judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from being put to death unjustly",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§23] Pol. I suppose, at any rate, the man who is put to death unjustly is both pitiable and wretched. Soc. Less so than he who puts him to death, Polus, and less so than he who is put to death justly."
+      ],
+      "reasoning": "While the discussion is philosophical, it refers to the legal reality of 'just' vs 'unjust' execution in the city. The distinction implies a social rule where individuals are protected from execution unless it is deemed 'just' by the city's standards.",
+      "specificity": 2,
+      "specificity_reasoning": "This is a general protection intended for all citizens under the law.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Citizen property retention",
+      "rule_category": "Property protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§22] Soc. And so we put a man to death, if we do put him to death, or expel him or deprive him of his property, because we think it better for us to do this than not?"
+      ],
+      "reasoning": "The mention of 'depriving him of his property' as an act requiring a specific decision/justification by those in power (orators/despots) implies the baseline existence of a right to property for those within the city.",
+      "specificity": 2,
+      "specificity_reasoning": "Property rights are a broad category affecting most of the free population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave status by descent",
+      "rule_category": "Denial of freedom",
+      "group": "Children of female slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to personal freedom",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§25] He had no claim to the throne which he now occupies, being the son of a woman who was a slave of Perdiccas’ brother Alcetas, and in mere justice he was Alcetas’ slave."
+      ],
+      "reasoning": "Polus argues that Archelaus was 'in mere justice' a slave because his mother was a slave. This reflects the societal rule that the legal status of the mother determines the status of the child, denying freedom to those born of enslaved women.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies to a significant demographic within the population—all children born to enslaved women.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Dynastic legitimacy by birth",
+      "rule_category": "Access to political succession",
+      "group": "Legitimate sons",
+      "group_category": "Lineage",
+      "resource": "Right to inherit the throne",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§25] ...his brother, the legitimate son of Perdiccas, a boy about seven years old who had a just title to the throne, and restoring the kingdom to him."
+      ],
+      "reasoning": "The text distinguishes between the 'son of a woman who was a slave' and the 'legitimate son,' asserting that the latter has a 'just title to the throne,' confirming that lineage and legitimacy are requirements for political succession.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule is highly specific as it applies only to the narrow group of royal heirs within a monarchy.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Presidency voting procedure",
+      "rule_category": "Political participation",
+      "group": "Presiding tribe members",
+      "group_category": "Citizenship",
+      "resource": "Right to put questions to a vote",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§28] last year, when I was elected a member of the Council, and, as my tribe held the Presidency, I had to put a question to the vote."
+      ],
+      "reasoning": "Socrates describes a specific Athenian democratic rule where members of the Council whose tribe held the Presidency (prytany) were granted the legal right and duty to preside over meetings and put matters to a vote.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to citizens serving their term in the Council, which is a specific subset of the citizen body at any given time.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial witness verification",
+      "rule_category": "Legal procedure",
+      "group": "Litigants",
+      "group_category": "Legal standing",
+      "resource": "Right to produce reputable witnesses",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§26] For there, one party is supposed to refute the other when they bring forward a number of reputable witnesses to any statements they may make."
+      ],
+      "reasoning": "The text describes the standard practice in Athenian law courts where litigants are permitted to corroborate their claims through the testimony of reputable witnesses to achieve 'refutation' of the opponent.",
+      "specificity": 4,
+      "specificity_reasoning": "This rule applies to any citizen involved in a legal dispute, which is a common occurrence in Athenian civic life.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from arbitrary torture",
+      "rule_category": "Protection from bodily harm",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from torture and corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§27] If a man be caught criminally plotting to make himself a despot, and he be straightway put on the rack and castrated and have his eyes burnt out... he be finally crucified or burnt in a coat of pitch."
+      ],
+      "reasoning": "Polus describes these extreme punishments as the consequence of a specific crime (plotting to become a despot). Under normal circumstances, Athenian citizens were protected from such bodily violations (unlike slaves), and their application here is framed as a legal 'penalty' for the highest civic crime.",
+      "specificity": 2,
+      "specificity_reasoning": "General protection from such treatment applied to the whole citizen body except in cases of treason or specific capital crimes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Judicial reform through punishment",
+      "rule_category": "Access to judicial protection",
+      "group": "Wrongdoers",
+      "group_category": "Legal status",
+      "resource": "Right to judicial correction and moral reform",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§32] Soc. Because, I suppose, the justice of the court reforms us and makes us juster, and acts as a medicine for wickedness. Pol. Yes."
+      ],
+      "reasoning": "Socrates argues that the purpose of the law-court for a wrongdoer is analogous to medicine for a sick person; therefore, the legal system serves as a mechanism for the material benefit of 'becoming better in soul' through just punishment.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual who has committed a crime, which is a significant but specific subset of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Criminal liability for kin",
+      "rule_category": "Access to judicial protection",
+      "group": "Family members of wrongdoers",
+      "group_category": "Lineage",
+      "resource": "Right to be held accountable for family crimes",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§34] Soc. Then for pleading in defence of injustice, whether it is oneself or one’s parents or friends or children or country that has done the wrong, rhetoric is of no use to us at all, Polus; except one were to suppose, perchance, to the contrary, that a man ought to accuse himself first of all, and in the second place his relations or anyone else of his friends who may from time to time be guilty of wrong; and, instead of concealing the iniquity, to bring it to light in order that he may pay the penalty and be made healthy."
+      ],
+      "reasoning": "The text describes a social and legal expectation (framed here as a moral-legal duty) that justice is applied not just to the individual but to their kin (parents, children) to ensure they are 'relieved of that greatest evil, injustice.'",
+      "specificity": 3,
+      "specificity_reasoning": "This rule encompasses the immediate social and biological circles of any wrongdoer.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Punishment-based corporal correction",
+      "rule_category": "Protection from bodily harm",
+      "group": "Convicted wrongdoers",
+      "group_category": "Legal status",
+      "resource": "Protection from corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§34] if his crimes have deserved a flogging, he must submit to the rod; if fetters, to their grip; if a fine, to its payment; if banishment, to be banished; or if death, to die; himself to be the first accuser either of himself or of his relations, and to employ his rhetoric for the purpose of so exposing their iniquities that they may be relieved of that greatest evil, injustice."
+      ],
+      "reasoning": "The text explicitly lists the concrete resources (freedom from pain, freedom of movement, property/fines, life) that are lost through the legal mechanism of 'paying the penalty' (the rod, fetters, fines, banishment, death).",
+      "specificity": 5,
+      "specificity_reasoning": "These penalties are specific to those successfully prosecuted and convicted in the Athenian legal system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Tyrannical evasion of justice",
+      "rule_category": "Grant of economic privilege",
+      "group": "Despots and overlords",
+      "group_category": "Wealth",
+      "resource": "Protection from judicial punishment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§33] Soc. And this is the man who in committing the greatest wrongs and practicing the greatest injustice has contrived to escape reproof and chastisement and penalty alike, as you say Archelaus has succeeded in doing, and the rest of the despots and orators and overlords? ... they do all they can to avoid paying the penalty and being relieved of the greatest of evils, by providing themselves with money and friends and the ability to excel in persuasive speech."
+      ],
+      "reasoning": "The text identifies a specific class of wealthy and powerful individuals (despots, orators) who use their resources (money, friends, rhetoric) to gain a concrete exemption from the legal penalties that others must suffer.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to a very small elite of political leaders and exceptionally wealthy individuals.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Slave protection from insult",
+      "rule_category": "Denial of bodily integrity",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Protection from unavenged insult",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§37] Indeed this endurance of wrong done is not a man’s part at all, but a poor slave’s, for whom it is better to be dead than alive, as it is for anybody who, when wronged or insulted, is unable to protect himself or anyone else for whom he cares."
+      ],
+      "reasoning": "Callicles distinguishes between the 'manly' (citizen) role and the slave role by noting that slaves are defined by their inability to legal or physically protect themselves from insult or wrong, suggesting society offers them no recourse for such treatment.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire class of enslaved persons in Athenian society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Majoritarian legislative power",
+      "rule_category": "Access to political power",
+      "group": "The weaker majority",
+      "group_category": "Wealth",
+      "resource": "Right to legislate and distribute praise/censure",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§37] But I suppose the makers of the laws are the weaker sort of men, and the more numerous. So it is with a view to themselves and their own interest that they make their laws and distribute their praises and censures"
+      ],
+      "reasoning": "The text describes the Athenian democratic reality where the 'many' (the weaker/commoners) hold the power to craft the laws and social norms to protect their interests against the 'stronger' individuals.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes the fundamental constitutional power of the majority of the citizenry.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Youth philosophy participation",
+      "rule_category": "Access to education",
+      "group": "Youths",
+      "group_category": "Age",
+      "resource": "Right to study philosophy without social stigma",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§38] For philosophy, you know, Socrates, is a charming thing, if a man has to do with it moderately in his younger days... [§39] It is a fine thing to partake of philosophy just for the sake of education, and it is no disgrace for a lad to follow it"
+      ],
+      "reasoning": "Callicles outlines a social norm where philosophical study is encouraged and considered 'liberal' for young men, but becomes a social liability later in life.",
+      "specificity": 3,
+      "specificity_reasoning": "Applies to young men of a certain class/age bracket within the citizen body.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Elderly philosophy prohibition",
+      "rule_category": "Social exclusion",
+      "group": "Elderly men",
+      "group_category": "Age",
+      "resource": "Right to pursue philosophy without corporal punishment",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§39] But when I see an elderly man still going on with philosophy and not getting rid of it, that is the gentleman, Socrates, whom I think in need of a whipping."
+      ],
+      "reasoning": "Callicles states that for older men, the pursuit of philosophy is not only ridiculous but merits physical punishment (whipping) and leads to the loss of public standing.",
+      "specificity": 3,
+      "specificity_reasoning": "This targets a specific age group among the elite or educated classes.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Philosopher judicial vulnerability",
+      "rule_category": "Denial of judicial protection",
+      "group": "Philosophers",
+      "group_category": "Occupation",
+      "resource": "Ability to defend oneself in court",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§40] For as it is, if somebody should seize hold of you or anyone else at all of your sort, and drag you off to prison, asserting that you were guilty of a wrong you had never done, you know you would be at a loss what to do with yourself, and would be all dizzy and agape without a word to say; and when you came up in court, though your accuser might be ever so paltry a rascal, you would have to die if he chose to claim death as your penalty."
+      ],
+      "reasoning": "Callicles argues that those who exclusively pursue philosophy lose the practical legal skills required to defend themselves in the Athenian court system, leaving them vulnerable to execution by even low-status accusers.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to those whose life is defined by philosophical study rather than civic engagement.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Philosopher property protection",
+      "rule_category": "Denial of property rights",
+      "group": "Philosophers",
+      "group_category": "Occupation",
+      "resource": "Protection from property confiscation",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§40] Such a person... like to be stripped by his enemies of all his substance, and to live in his city as an absolute outcast?"
+      ],
+      "reasoning": "The text suggests that neglecting practical/legal affairs in favor of philosophy results in the loss of ability to protect one's goods and estate from being stripped by enemies through legal or extra-legal means.",
+      "specificity": 4,
+      "specificity_reasoning": "Targeted at individuals pursuing a specific life path/occupation.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Slave judicial exclusion",
+      "rule_category": "Exclusion from legal standing",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to participate in legal or civic ordinances",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§43] Or do you suppose I mean that if a pack of slaves and all sorts of fellows who are good for nothing, except perhaps in point of physical strength, gather together and say something, that is a legal ordinance?"
+      ],
+      "reasoning": "Callicles uses the idea of slaves creating legal ordinances as a reductio ad absurdum, indicating that in Athenian society, slaves had no recognized power to create or participate in the laws that governed the city.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to the entire class of enslaved people in the city-state.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Political leadership qualification",
+      "rule_category": "Access to political power",
+      "group": "Men of wisdom and manliness",
+      "group_category": [
+        "Occupation",
+        "Lineage"
+      ],
+      "resource": "Right to rule and hold public office",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§45] First of all, by the superior I mean, not shoemakers or cooks, but those who are wise as regards public affairs and the proper way of conducting them, and not only wise but manly, with ability to carry out their purpose to the full; and who will not falter through softness of soul.",
+        "[§45] These are the persons who ought to rule our cities, and justice means this—that these should have more than other people, the rulers than the ruled."
+      ],
+      "reasoning": "Callicles describes the specific requirements (wisdom in public affairs and manliness) for the group that society deems fit to rule, contrasting them with common laborers.",
+      "specificity": 7,
+      "specificity_reasoning": "This applies to a specific elite subset of citizens defined by education and temperament.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Artisan political exclusion",
+      "rule_category": "Exclusion from political power",
+      "group": "Artisans",
+      "group_category": "Occupation",
+      "resource": "Right to political rule and surplus resources",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§45] First of all, by the superior I mean, not shoemakers or cooks, but those who are wise as regards public affairs and the proper way of conducting them... these should have more than other people, the rulers than the ruled."
+      ],
+      "reasoning": "The text explicitly excludes manual laborers like shoemakers and cooks from the group that 'ought to rule' and receive 'more than other people,' reflecting a stratified view of occupational classes.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a broad category of the working population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Principle of democratic equality",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to an equal share and protection from harm",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§43] Is it, or is it not, the opinion of the many that to have one’s equal share, and not more than others, is just, and that it is fouler to wrong than be wronged?"
+      ],
+      "reasoning": "Socrates identifies the 'opinion of the many' (the democratic majority in Athens) as the rule that justice consist of equality and procedural protection against being wronged.",
+      "specificity": 1,
+      "specificity_reasoning": "This is the foundational principle for nearly the entire citizen body in Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Royal/Elite legal immunity",
+      "rule_category": "Access to political succession",
+      "group": "Sons of kings",
+      "group_category": "Lineage",
+      "resource": "Right to exercise power without legal restraint",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§46] For to those who started with the advantage of being either kings’ sons or able by their own parts to procure some authority or monarchy or absolute power, what in truth could be fouler or worse than temperance and justice in such cases? Finding themselves free to enjoy good things, with no obstacle in the way, they would be merely imposing on themselves a master in the shape of the law."
+      ],
+      "reasoning": "The text describes an exemption for those of royal or high-power lineage, where they are seen as naturally 'above' the laws that govern the many.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies to an extremely small number of elite individuals.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Catamite social degradation",
+      "rule_category": "Exclusion from social standing",
+      "group": "Catamites",
+      "group_category": "Gender",
+      "resource": "Legal and social standing",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§48] See, Callicles, what your answer will be, if you are asked everything in succession that links on to that statement; and the culmination of the case, as stated—the life of catamites—is not that awful, shameful, and wretched? Or will you dare to assert that these are happy if they can freely indulge their wants?"
+      ],
+      "reasoning": "Socrates uses the category of 'catamites' (kinaidoi) as the ultimate rhetorical point to prove that not all pleasures are good. The text assumes a shared social understanding that this group has lost all status and is inherently 'shameful' and 'wretched,' reflecting the Athenian loss of civic rights (atimia) for men who prostituted themselves or occupied this social role.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies to a specific sub-group of the male population defined by their sexual/social role.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Religious initiation sequence",
+      "rule_category": "Access to sacred ritual",
+      "group": "Initiates",
+      "group_category": "Citizenship",
+      "resource": "Right to participate in Great Mysteries",
+      "resource_category": "Religious access",
+      "directionality": "LESS",
+      "proof": [
+        "[§51] You are fortunate, Callicles, in having been initiated into the Great Mysteries before the Little: I did not think that was the proper thing."
+      ],
+      "reasoning": "The text references the procedural rule of the Eleusinian Mysteries, where a participant must typically complete the 'Lesser Mysteries' before being eligible for the 'Great Mysteries.' Socrates' sarcastic remark confirms this normative sequence of access to religious resources.",
+      "specificity": 5,
+      "specificity_reasoning": "This rule applied to all potential initiates of the Eleusinian cult, a significant portion of the Athenian population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Child political incapacity",
+      "rule_category": "Age-based political exclusion",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to be categorized as 'good' or 'wise' (civic virtue)",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§51] Well now, do you give the name of good men to fools and cowards? It was not they just now but brave and wise men whom you so described. ... And now, have you ever seen a silly child enjoying itself? Call. I have."
+      ],
+      "reasoning": "In the context of the dialogue, the 'good' is equated with wisdom and courage—traits of the full citizen. Children are grouped with 'fools' (silly/aphronas) to show they lack the capacity for the 'good' life, reflecting their legal status as minors lacking political agency and full civic virtue.",
+      "specificity": 3,
+      "specificity_reasoning": "This encompasses all individuals under the age of majority in the society.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Assembly speaking right",
+      "rule_category": "Access to political speech",
+      "group": "Freemen",
+      "group_category": "Citizenship",
+      "resource": "Right to speak in assemblies",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§56] Very well; but now, the rhetoric addressed to the Athenian people, or to the other assemblies of freemen in the various cities—what can we make of that?"
+      ],
+      "reasoning": "The text identifies 'assemblies of freemen' as the specific audience and venue for rhetoric and political practice, implying that this political resource is reserved for those with free status.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad category of free male citizens in Greek city-states.",
+      "confidence": 10
+    },
+    {
+      "rule_category": "Access to public entertainment",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Right to attend theatrical and rhetorical performances",
+      "resource_category": "Public resources",
+      "directionality": "MORE",
+      "proof": [
+        "[§56] So now we have found a kind of rhetoric addressed to such a public as is compounded of children and women and men, and slaves as well as free"
+      ],
+      "reasoning": "Socrates explicitly lists women as part of the public audience for tragic poetry and theatrical rhetoric, confirming their legal/customary access to these public cultural events.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule encompasses half the population (all women).",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Slave theater attendance",
+      "rule_category": "Access to public entertainment",
+      "group": "Slaves",
+      "group_category": "Freedom status",
+      "resource": "Right to attend theatrical and rhetorical performances",
+      "resource_category": "Public resources",
+      "directionality": "MORE",
+      "proof": [
+        "[§56] So now we have found a kind of rhetoric addressed to such a public as is compounded of children and women and men, and slaves as well as free"
+      ],
+      "reasoning": "The text includes slaves in the 'compounded' public that consumes poetry and theater, indicating that they were not excluded from these specific public gatherings.",
+      "specificity": 3,
+      "specificity_reasoning": "Slaves were a significant but specific portion of the Athenian population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Minor theater attendance",
+      "rule_category": "Access to public entertainment",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Right to attend theatrical and rhetorical performances",
+      "resource_category": "Public resources",
+      "directionality": "MORE",
+      "proof": [
+        "[§56] So now we have found a kind of rhetoric addressed to such a public as is compounded of children and women and men, and slaves as well as free"
+      ],
+      "reasoning": "Children are explicitly mentioned as part of the theater-going public to whom tragic rhetoric is addressed.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all individuals below the age of adulthood.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Political career restriction",
+      "rule_category": "Exclusion from political office",
+      "group": "Philosophers",
+      "group_category": "Occupation",
+      "resource": "Participation in active political and assembly practice",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§54] namely, what course of life is best; whether it should be that to which you invite me, with all those manly pursuits of speaking in Assembly and practicing rhetoric and going in for politics after the fashion of you modern politicians, or this life of philosophy; and what makes the difference between these two."
+      ],
+      "reasoning": "Socrates contrasts the life of philosophy with the life of 'manly pursuits' like speaking in the Assembly and practicing politics. While not an immutable biological trait, 'Philosopher' functions here as a distinct social and vocational category that, in the context of this dialogue, is defined by its withdrawal from active political administration.",
+      "specificity": 8,
+      "specificity_reasoning": "Philosophers represented a very small, specific intellectual minority in Athens.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Medical dietary restriction",
+      "rule_category": "Restriction of consumption",
+      "group": "The sick",
+      "group_category": "Health",
+      "resource": "Right to eat and drink at will",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] And so the satisfaction of one’s desires—if one is hungry, eating as much as one likes, or if thirsty, drinking—is generally allowed by doctors when one is in health; but they practically never allow one in sickness to take one’s fill of things that one desires."
+      ],
+      "reasoning": "Socrates cites the standard practice of Greek physicians who legally and customarily restricted the caloric and fluid intake of patients, contrasting their lack of freedom in consumption with the autonomy of healthy people.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual regardless of class or gender during periods of illness, which is a significant but temporary portion of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Judicial correction of citizens",
+      "rule_category": "Access to judicial protection",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to state-imposed moral correction",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§61] but if he have need of it, either himself or anyone belonging to him, either an individual or a city, then right must be applied and they must be corrected, if they are to be happy."
+      ],
+      "reasoning": "The text describes a societal obligation (mediated through 'the city' or the law) to apply 'right' (justice) to individuals who lack self-restraint, framing this correction as a necessary resource for achieving the goal of happiness within the polis.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule is framed as a general principle of the city-state applying to all its constituent members.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Paternalistic restraint of the 'unjust'",
+      "rule_category": "Restriction of personal freedom",
+      "group": "The thoughtless and unjust",
+      "group_category": "Health",
+      "resource": "Freedom of action and desire",
+      "resource_category": "Freedom",
+      "directionality": "LESS",
+      "proof": [
+        "[§59] So long as it is in a bad state—thoughtless, licentious, unjust and unholy—we must restrain its desires and not permit it to do anything except what will help it to be better: do you grant this, or not?"
+      ],
+      "reasoning": "The text outlines a civic/customary rule where those deemed to be in a 'bad state' of soul (comparable to a sick body) are stripped of their agency and 'not permitted' to act as they wish, but are instead subject to restraint.",
+      "specificity": 5,
+      "specificity_reasoning": "While the traits are behavioral, Socrates treats them as a distinct 'state' or category of person (like 'the sick') who are subject to specific legal/social control.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Kinship-based prosecution",
+      "rule_category": "Legal standing",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Right to prosecute family and friends",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§62] a man must accuse himself or his son or his comrade if he do any wrong, and that this is what rhetoric must be used for"
+      ],
+      "reasoning": "Socrates reaffirms an earlier point in the dialogue that justice requires the legal denunciation of oneself or one's intimates when they commit wrongs, implying a legal and moral standing to bring suit against family members.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies generally to any citizen involved in legal or rhetorical life in Athens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Protection from arbitrary seizure",
+      "rule_category": "Protection from bodily harm",
+      "group": "Citizens",
+      "group_category": "Citizens",
+      "resource": "Protection from corporal punishment and property seizure",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§62] is it fairly alleged or not that I am unable to stand up for myself or any of my friends and relations, or to deliver them from the sorest perils, but am exposed like an outcast to the whim of anyone who chooses to give me— the dashing phrase is yours—a box on the ear; or strip me of my substance or expel me from the city; or, worst of all, put me to death"
+      ],
+      "reasoning": "The text discusses the existing legal protections (and the vulnerability created by their absence) regarding bodily integrity, property retention, and residency, framed as rights a citizen or rhetorician seeks to defend.",
+      "specificity": 2,
+      "specificity_reasoning": "These are fundamental rights applicable to the entire citizen body of Athens.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Tyrannical power acquisition",
+      "rule_category": "Access to political power",
+      "group": "Associates of the government",
+      "group_category": "Occupation",
+      "resource": "Political power and legal immunity",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§64] one must either be a ruler, or even a despot, in one’s city, or else an associate of the existing government. ... him none will wrong with impunity."
+      ],
+      "reasoning": "The text outlines a strategy for gaining power and legal security by aligning oneself with the ruling regime, suggesting that such associates enjoy a degree of immunity and influence not shared by others.",
+      "specificity": 5,
+      "specificity_reasoning": "This describes a specific subset of the population (political associates/elites).",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Despotic property confiscation",
+      "rule_category": "Denial of property rights",
+      "group": "Political dissidents",
+      "group_category": "Citizens",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§65] Surely you know that this imitator will put to death anyone who does not imitate his master, if he pleases, and will strip him of his property."
+      ],
+      "reasoning": "Callicles describes the reality of life under a despot or a dominant faction where those who do not align (imitate the ruler) face the loss of property as a tool of political control.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to those in opposition to the current ruling power.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Professional marriage exclusion",
+      "rule_category": "Marriage restriction by occupation",
+      "group": "Engineers",
+      "group_category": "Occupation",
+      "resource": "Right to marry into elite families",
+      "resource_category": "Marriage and family",
+      "directionality": "LESS",
+      "proof": [
+        "[§66] But you none the less despise him and his special art, and you would call him engineer in a taunting sense, and would refuse either to bestow your daughter on his son or let your own son marry his daughter."
+      ],
+      "reasoning": "Socrates identifies a social custom among the Athenian elite (represented by Callicles) where certain technical professions, despite their civic value, are socially barred from intermarrying with the upper class.",
+      "specificity": 7,
+      "specificity_reasoning": "This concerns a specific professional group and their social interactions with the elite.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Political assimilation requirement",
+      "rule_category": "Access to political influence",
+      "group": "Statesmen",
+      "group_category": "Occupation",
+      "resource": "Political influence and leadership",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§67] whether it is your duty to make yourself as like as possible to the Athenian people, if you intend to win its affection and have great influence in the city... for you must be no mere imitator, but essentially like them, if you mean to achieve any genuine sort of friendship with Demus"
+      ],
+      "reasoning": "The text describes a customary rule/necessity in Athenian democracy: to hold power or influence, a person must conform their character and speech to the temperament of the masses (the Demus).",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any citizen aspiring to political leadership or public speaking.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public physician qualification requirement",
+      "rule_category": "Access to public office",
+      "group": "Physicians",
+      "group_category": "Occupation",
+      "resource": "Right to hold public medical office",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§68] And so too with all the rest: suppose, for instance, we had undertaken the duties of state-physicians, and were to invite one another to the work as qualified doctors, we should, I presume, have first inquired of each other, I of you and you of me: Let us see now, in Heaven’s name; how does Socrates himself stand as regards his body’s health? Or has anyone else, slave or free, ever had Socrates to thank for ridding him of a disease?"
+      ],
+      "reasoning": "The text describes a customary or legal expectation that before being appointed as a 'state-physician', an individual must demonstrate a track record of successful private practice and clinical results.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies specifically to a small professional subgroup seeking a particular state-appointed position.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Public architect qualification requirement",
+      "rule_category": "Access to public office",
+      "group": "Architects",
+      "group_category": "Occupation",
+      "resource": "Right to lead public construction projects",
+      "resource_category": "Political power",
+      "directionality": "MORE",
+      "proof": [
+        "[§68] Then if you and I, Callicles, in setting about some piece of public business for the state, were to invite one another to see to the building part of it, say the most important erections either of walls or arsenals or temples, would it be our duty to consider and examine ourselves, first as to whether we understood the art of building or not, and from whom we had learnt it? ... it might, in those circumstances, be open to men of sense to enter upon public works."
+      ],
+      "reasoning": "The text establishes that the state requires proof of apprenticeship and previous high-quality private work before a person is permitted to oversee public infrastructure like walls or temples.",
+      "specificity": 8,
+      "specificity_reasoning": "This applies only to professionals in the building trade seeking state contracts.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Statesman accountability for results",
+      "rule_category": "Legal liability",
+      "group": "Statemen",
+      "group_category": "Occupation",
+      "resource": "Protection from criminal prosecution for political failure",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§70] ...at the end of our Pericles’ life they convicted him of embezzlement, and all but condemned him to death... And now about Cimon once more, tell me, did not the people whom he tended ostracize him in order that they might not hear his voice for ten years? And Themistocles, did they not treat him in just the same way, and add the punishment of exile? And Miltiades, the hero of Marathon, they sentenced to be flung into the pit"
+      ],
+      "reasoning": "The text recounts historical legal actions taken by the Athenian state against its leaders (embezzlement trials, ostracism, fines/execution threats) when their leadership resulted in perceived public failure or corruption.",
+      "specificity": 9,
+      "specificity_reasoning": "This applies only to a handful of high-ranking political leaders at the top of the social hierarchy.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Access to state fees",
+      "rule_category": "Grant of economic privilege",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to receive public fees",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§69] What I, for my part, hear is that Pericles has made the Athenians idle, cowardly, talkative, and avaricious, by starting the system of public fees."
+      ],
+      "reasoning": "Socrates refers to the historical introduction of misthophoria (payment for public service), which provided citizens with a concrete economic resource for participating in civic life.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the broad body of Athenian citizens who participated in assemblies or juries.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Artisan political exclusion",
+      "rule_category": "Exclusion from political leadership",
+      "group": "Artisans",
+      "group_category": "Occupation",
+      "resource": "Right to rule as a statesman",
+      "resource_category": "Political power",
+      "directionality": "LESS",
+      "proof": [
+        "[§71] baker or cook or weaver or shoemaker or tanner... whereas all those others know it not... [§72] and hence it is that, while those other arts are slavish and menial and illiberal in dealing with the body, gymnastics and medicine can fairly claim to be their mistresses."
+      ],
+      "reasoning": "The text categorizes manual trades as 'slavish' and 'menial', contrasting them with 'royal' or 'mistress' arts like lead-statesmanship or medicine, implying these occupations lack the standing or knowledge required for sovereign political authority.",
+      "specificity": 4,
+      "specificity_reasoning": "This affects a significant portion of the free population engaged in manual trade.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Rhetorical education fee restriction",
+      "rule_category": "Economic privilege restriction",
+      "group": "Sophists",
+      "group_category": "Occupation",
+      "resource": "Right to claim fees for virtue education",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§74] But about this business of finding the way to be as good as possible, and of managing one’s own household or city for the best, it is recognized to be a disgrace for one to decline to give advice except for a payment in cash, is it not?"
+      ],
+      "reasoning": "Socrates describes an Athenian social norm or customary rule where teaching 'virtue' or statesmanship for money is considered disgraceful, unlike teaching other arts like building or athletics.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific professional class (Sophists/Orators) within the city-state.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prosecutorial standing requirement",
+      "rule_category": "Legal standing",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from prosecution by honest men",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§75] Of one thing, however, I am sure—that if ever I am brought before the court and stand in any such danger as you mention, it will be some villain who brings me there, for no honest man would prosecute a person who had done no wrong"
+      ],
+      "reasoning": "The text implies a social and moral rule in Athenian legal culture where 'honest men' do not bring suits against those who haven't committed wrongs, effectively acting as a form of social protection for the innocent.",
+      "specificity": 1,
+      "specificity_reasoning": "This describes a general expectation of behavior for all members of the civic body.",
+      "confidence": 7
+    },
+    {
+      "rule_name": "Judicial property confiscation",
+      "rule_category": "Denial of property rights",
+      "group": "Defendants",
+      "group_category": "Health",
+      "resource": "Right to retain property",
+      "resource_category": "Property and inheritance",
+      "directionality": "LESS",
+      "proof": [
+        "[§75] SOCRATES: Do not tell me, what you have so often repeated, that anyone who pleases will put me to death... nor that anyone may strip me of whatever I have, lest I should have to say in my turn: Well, but when he has stripped me, he will not know what use to make of his spoil."
+      ],
+      "reasoning": "The dialogue reflects the reality of the Athenian legal system where a successful prosecutor or the state could strip a defendant of all their property upon conviction.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any citizen who becomes a defendant in a specific type of legal trial.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Capital punishment vulnerability",
+      "rule_category": "Body integrity restriction",
+      "group": "Defendants",
+      "group_category": "Health",
+      "resource": "Protection from execution",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§75] Callicles: ...you believe not one of these troubles could befall you, as though you dwelt out of the way, and could never be dragged into a law court by some perhaps utterly paltry rascal. Soc. ...if ever I am brought before the court and stand in any such danger as you mention... it would be no marvel if I were put to death."
+      ],
+      "reasoning": "The text establishes that any citizen 'dragged into a law court' faces the material risk of being lawfully put to death by the state based on the jury's verdict.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies specifically to those entangled in the judicial process.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Ancestry-based judicial bias",
+      "rule_category": "Grant of legal privilege",
+      "group": "Nobles",
+      "group_category": "Lineage",
+      "resource": "Advantage in judicial proceedings",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§77] Now many, said he, who have wicked souls are clad in fair bodies and ancestry and wealth, and at their judgement appear many witnesses to testify that their lives have been just."
+      ],
+      "reasoning": "In the description of earthly (Athenian) justice which Zeus seeks to correct, 'ancestry' is explicitly listed as a 'clothing' that influences judges, giving those of high lineage an advantage in court testimony and outcomes.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the elite/noble segment of the population.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Wealth-based judicial bias",
+      "rule_category": "Grant of legal privilege",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Advantage in judicial proceedings",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§77] Now many, said he, who have wicked souls are clad in fair bodies and ancestry and wealth, and at their judgement appear many witnesses to testify that their lives have been just."
+      ],
+      "reasoning": "The text acknowledges that in the real-world courts of the time, wealth acts as a resource that helps secure favorable witnesses and influences the judges' perception of a defendant's character.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to the wealthy stratum of society.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Post-mortem corporal markings",
+      "rule_category": "Legal standing",
+      "group": "Criminals",
+      "group_category": "Occupation",
+      "resource": "Privacy of bodily history after death",
+      "resource_category": "Body integrity",
+      "directionality": "LESS",
+      "proof": [
+        "[§78] Again, if anyone had been a sturdy rogue, and bore traces of his stripes in scars on his body, either from the whip or from other wounds, while yet alive, then after death too his body has these marks visible upon it; or if anyone’s limbs were broken or distorted in life, these same effects are manifest in death."
+      ],
+      "reasoning": "Socrates describes a physiological/mystical rule in Greek thought where judicial punishments (stripes, whip marks, broken limbs) inflicted during life remain manifest on the corpse and soul, serving as permanent evidence of a person's legal and moral history before judges.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to any individual who has undergone judicial corporal punishment or lived a life of crime, a significant but specific subset of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Executive accountability",
+      "rule_category": "Access to judicial protection",
+      "group": "Despots and Potentates",
+      "group_category": "Lineage",
+      "resource": "Immunity from criminal prosecution",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§79] And I think, moreover, that most of these examples have come from despots and kings and potentates and public administrators; for these, since they have a free hand, commit the greatest and most impious offences. ... but Thersites, or any other private person who was wicked, has been portrayed by none as incurable and therefore subjected to heavy punishment; no doubt because he had not a free hand."
+      ],
+      "reasoning": "The text establishes that while powerful rulers have a 'free hand' (lack of earthly restraint/accountability), they are subject to extreme, incurable criminal status and punishment in the ultimate judicial setting, unlike private citizens who lack the power to commit such high-level crimes.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically targets the highest tier of political power: kings, despots, and high-level administrators.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Philosophic judicial favor",
+      "rule_category": "Grant of economic privilege",
+      "group": "Philosophers",
+      "group_category": "Occupation",
+      "resource": "Right to reach the Isles of the Blest",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§80] Sometimes, when he discerns another soul that has lived a holy life in company with truth, a private man’s or any others—especially, as I claim, Callicles, a philosopher’s who has minded his own business and not been a busybody in his lifetime—he is struck with admiration and sends it off to the Isles of the Blest."
+      ],
+      "reasoning": "Socrates identifies philosophers (specifically those who abstain from meddling in general affairs) as a group receiving preferential judicial outcomes in the final judgment compared to public figures and common wrongdoers.",
+      "specificity": 9,
+      "specificity_reasoning": "Philosophers who 'mind their own business' represent a very small, specific intellectual elite within the broader category of citizens.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Correction of wrongdoing",
+      "rule_category": "Access to judicial protection",
+      "group": "Wrongdoers",
+      "group_category": "Occupation",
+      "resource": "Right to be corrected through punishment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§81] that if one becomes bad in any respect one must be corrected; that this is good in the second place,— next to being just, to become so and to be corrected by paying the penalty;"
+      ],
+      "reasoning": "The text frames the 'paying of the penalty' not just as a loss, but as a constructive legal/moral resource (correction) that the individual has a right or obligation to receive for their own benefit.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to any person who commits a remediable offense, which constitutes a broad segment of the population.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 15,
+  "_file_id": "tlg0059.tlg023.perseus-eng2",
+  "_input_tokens": 113341,
+  "_output_tokens": 17712,
+  "_model": "google/gemini-3-flash-preview"
+}

@@ -1,0 +1,185 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Metic price ceiling restriction",
+      "rule_category": "Economic regulation",
+      "group": "Metics",
+      "group_category": "Citizenship",
+      "resource": "Right to set market prices for services",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§3] Diognides and Antidorus the metic are impeached on a charge of hiring out flute-girls at a higher price than that fixed by law"
+      ],
+      "reasoning": "The text identifies a metic being prosecuted for violating a price-fixing law regarding the hire of flute-girls, indicating that resident aliens were subject to specific legal price ceilings in their commercial activities.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific class of resident aliens engaged in a particular trade but reflects a broader regulatory mechanism for that group.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Impeachment restricted to orators",
+      "rule_category": "Legal procedure protection",
+      "group": "Ordinary citizens",
+      "group_category": "Citizenship",
+      "resource": "Protection from impeachment (eisangelia) for general speech",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] It is certainly wrong to maintain, as Polyeuctus did in his speech for the prosecution, that defendants should not insist on the impeachment law; which lays it down that impeachments shall be reserved for the orators themselves, when they speak against the interests of the people, but shall not apply to every Athenian."
+      ],
+      "reasoning": "Hyperides cites the impeachment law to argue that the specific high-stakes legal process of 'eisangelia' is legally reserved for professional orators/politicians, shielding private citizens from its application for their advice or speech.",
+      "specificity": 2,
+      "specificity_reasoning": "This rule distinguishes between the entire body of private citizens and a small group of professional politicians.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Right to advocacy",
+      "rule_category": "Access to judicial protection",
+      "group": "Private citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to summon advocates (synegoroi)",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§11] And yet, of the many good institutions of the city, what is better or more democratic than our custom, when some private person is facing the danger of a trial and cannot conduct his own defence, of allowing any citizen who wishes to come forward to help him and give the jury a fair statement of the case?"
+      ],
+      "reasoning": "Hyperides describes a democratic custom/rule that allows private individuals who lack rhetorical skill to have other citizens speak on their behalf in court.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to any private citizen appearing as a defendant in the Athenian court system.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Elderly legal assistance",
+      "rule_category": "Access to judicial protection",
+      "group": "Elders",
+      "group_category": "Age",
+      "resource": "Right to legal assistance from friends/relatives",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§13] is Euxenippus, because he is not a professional speaker and is now advanced in years, even to be denied the help of friends and relatives, on pain of their being abused by you?"
+      ],
+      "reasoning": "The author argues that advanced age (combined with non-professional status) provides a customary and legal justification for receiving help from others in a trial.",
+      "specificity": 3,
+      "specificity_reasoning": "This specifically targets the elderly who are defendants in legal proceedings.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Citizen burial rights",
+      "rule_category": "Protection of after-death rights",
+      "group": "Citizens",
+      "group_category": "Citizenship",
+      "resource": "Right to burial in Attica",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§18] is the man who lay down in the temple at the people’s request even to be refused a grave in Attica?"
+      ],
+      "reasoning": "The text implies that a standard right for citizens is burial within the territory of Attica, and losing this right is a consequence of the most severe punishments (like those following an impeachment conviction).",
+      "specificity": 2,
+      "specificity_reasoning": "Burial in native soil is a general expectation for the citizen body unless they are convicted of high crimes.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Prosecutorial immunity check",
+      "rule_category": "Legal standing",
+      "group": "Defendants",
+      "group_category": "Legal standing",
+      "resource": "Right to challenge validity of indictment",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§4] the jury should refuse to listen to the details of the prosecution until they have first considered the point at issue, and also the written statement of the accused, to see if the pleas are legally valid."
+      ],
+      "reasoning": "The text outlines a procedural right for defendants to have the legal validity of the prosecution's charge checked against the law before the case proceeds.",
+      "specificity": 4,
+      "specificity_reasoning": "Applies specifically to persons currently acting as defendants in public trials.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Litigant right of refutation",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to refute specific charges",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§31] For any charge that is not refuted is left to be fastened on by the anger of the jury."
+      ],
+      "reasoning": "The text describes a procedural reality where a defendant's failure to address every specific allegation (even irrelevant ones) leads to legal prejudice, establishing an informal but enforced requirement for comprehensive self-defense in court.",
+      "specificity": 5,
+      "specificity_reasoning": "This applies to any individual currently in the role of a defendant in a trial, which is a significant but specific subset of the population.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Miner property security",
+      "rule_category": "Grant of economic privilege",
+      "group": "Mine-workers",
+      "group_category": "Occupation",
+      "resource": "Protection of mining estates from seizure",
+      "resource_category": "Property and inheritance",
+      "directionality": "MORE",
+      "proof": [
+        "[§36] They decided that the mine was within its proper limits, and in one and the same verdict assured the safety of the men’s estates and guaranteed their working of the mine for the remainder of the period."
+      ],
+      "reasoning": "The author highlights a specific legal precedent where the Athenian jury protected the property rights and contractual working periods of mine operators against state confiscation based on boundary disputes.",
+      "specificity": 8,
+      "specificity_reasoning": "This rule specifically targets a small, wealthy group of citizens engaged in the specialized industry of silver mining.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Accuser penalty for failure",
+      "rule_category": "Restriction of judicial power",
+      "group": "Accusers",
+      "group_category": "Legal status",
+      "resource": "Protection from disenfranchisement and fines",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§34] ...this jury were so far from approving such a suggestion or coveting the property of others that they immediately disfranchised the man who tried to slander the accused and did not award him a fifth part of the votes."
+      ],
+      "reasoning": "Athenian law imposed a penalty (disfranchisement and a fine) on prosecutors who failed to obtain at least twenty percent (one-fifth) of the jury's votes, acting as a check against frivolous or malicious lawsuits.",
+      "specificity": 6,
+      "specificity_reasoning": "This applies to any citizen who chooses to bring a public indictment, a common but distinct legal role.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Defendant's right to support",
+      "rule_category": "Access to judicial protection",
+      "group": "Defendants",
+      "group_category": "Legal status",
+      "resource": "Right to summon character witnesses",
+      "resource_category": "Legal standing",
+      "directionality": "MORE",
+      "proof": [
+        "[§41] It remains for you to ask the jury’s permission to summon your friends and bring your children to the bar."
+      ],
+      "reasoning": "The text explicitly mentions the customary right of a defendant to call 'friends' (synegoroi/witnesses) and family to the court to appeal to the jury's mercy and character judgment.",
+      "specificity": 5,
+      "specificity_reasoning": "This is a standard right available to any citizen facing trial.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Wealth-based legal Targeting",
+      "rule_category": "Denial of judicial protection",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Protection from irrelevant wealth-based prejudice",
+      "resource_category": "Legal standing",
+      "directionality": "LESS",
+      "proof": [
+        "[§32] The most outrageous feature of your speech was the fact that often during the argument you let fall the remark... that Euxenippus was rich... It has surely nothing to do with this case whether he is a man of large means or small, and to raise the matter is malicious."
+      ],
+      "reasoning": "The orator complains that wealth is used by prosecutors as an 'unfair assumption' to bias the jury, suggesting that despite legal ideals, wealthy citizens faced a specific vulnerability to confiscatory or malicious litigation.",
+      "specificity": 4,
+      "specificity_reasoning": "This affects the upper economic strata of the citizenry, a defined but relatively broad group.",
+      "confidence": 8
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg0030.tlg004.perseus-eng2",
+  "_input_tokens": 13441,
+  "_output_tokens": 2551,
+  "_model": "google/gemini-3-flash-preview"
+}

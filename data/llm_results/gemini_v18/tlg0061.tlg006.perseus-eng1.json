@@ -1,0 +1,121 @@
+{
+  "extracted_rules": [
+    {
+      "rule_name": "Male beard maintenance",
+      "rule_category": "Gender-based grooming standards",
+      "group": "Men",
+      "group_category": "Gender",
+      "resource": "Right to grow facial hair",
+      "resource_category": "Body integrity",
+      "directionality": "MORE",
+      "proof": [
+        "[§14] soft smooth flesh was very well for women, they thought; as for them, they were men, and were content to look it; the beard was man’s ornament, like the lion’s, or the horse’s mane; God had made certain beautiful and decorative additions to those creatures; and so he had to man, in the beard."
+      ],
+      "reasoning": "The text describes a traditional societal norm where beards are considered the proper and identifying ornament of men, contrasting them specifically with the 'smooth flesh' of women.",
+      "specificity": 3,
+      "specificity_reasoning": "This applies to all adult males in the society as a general gender norm.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Human-powered transport",
+      "rule_category": "Grant of economic privilege",
+      "group": "The wealthy",
+      "group_category": "Wealth",
+      "resource": "Right to use humans as beasts of burden",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§10] But now, pray, what is the purpose of the protection, in turn? ... you for whom men are beasts of burden, you who make them shoulder your couch-carriages, and loll up there yourselves in luxury, driving your men like so many asses and bidding them turn this way and not that; this is one of the outward and visible signs of your happiness."
+      ],
+      "reasoning": "The text identifies the use of human porters to carry litter-carriages (couch-carriages) as a standard practice and a visible sign of wealth and 'happiness' in contemporary society.",
+      "specificity": 4,
+      "specificity_reasoning": "This applies to a specific socio-economic class (the wealthy) and their relationship with those they employ or own.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Need-based resource hierarchy",
+      "rule_category": "Age-based social dependency",
+      "group": "Children",
+      "group_category": "Age",
+      "resource": "Access to material support",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] But to clear your ideas on the comparative merits of great and small needs, you have only to reflect that children have more needs than adults, women than men, the sick than the well, and generally the inferior than the superior."
+      ],
+      "reasoning": "The author cites as a social fact that children are recognized as having greater material needs and requirements for support than adults, framing this as a measure of their 'inferior' or dependent status.",
+      "specificity": 2,
+      "specificity_reasoning": "This describes a general developmental and social category applicable to all children.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Gender-based resource hierarchy",
+      "rule_category": "Gender-based social dependency",
+      "group": "Women",
+      "group_category": "Gender",
+      "resource": "Access to material support",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§12] But to clear your ideas on the comparative merits of great and small needs, you have only to reflect that children have more needs than adults, women than men, the sick than the well, and generally the inferior than the superior."
+      ],
+      "reasoning": "The text explicitly states that women have 'more needs' than men, which in the context of the dialogue refers to the social and material resources provided for their protection and upkeep.",
+      "specificity": 2,
+      "specificity_reasoning": "This applies to all women within the social structure described.",
+      "confidence": 9
+    },
+    {
+      "rule_name": "Status-based uniform recognition",
+      "rule_category": "Occupational dress rights",
+      "group": "Performers",
+      "group_category": "Occupation",
+      "resource": "Right to distinct professional dress",
+      "resource_category": "Economic privileges",
+      "directionality": "MORE",
+      "proof": [
+        "[§16] I cannot make out why you allow a harpist his proper robe and get-up—and so the flute-player has his, and the tragic actor his—, but will not be consistent and recognize any uniform for a good man"
+      ],
+      "reasoning": "The text confirms that society legally or customarily recognizes and 'allows' specific professional 'uniforms' or types of dress for certain occupations like musicians and actors.",
+      "specificity": 5,
+      "specificity_reasoning": "This is specific to a professional subgroup of the population.",
+      "confidence": 10
+    },
+    {
+      "rule_name": "Poor lifestyle equivalence",
+      "rule_category": "Denial of social status",
+      "group": "The poor",
+      "group_category": "Wealth",
+      "resource": "Right to daily bread",
+      "resource_category": "Economic privileges",
+      "directionality": "LESS",
+      "proof": [
+        "[§2] I call it more destitute—destitution and want, that is what it is; you are no better than the poor who beg their daily bread."
+      ],
+      "reasoning": "Lycinus describes the state of the poor as one of 'begging,' indicating that the landless or impoverished lack secured access to food and must rely on non-guaranteed charity.",
+      "specificity": 3,
+      "specificity_reasoning": "This describes the condition of an entire economic class.",
+      "confidence": 8
+    },
+    {
+      "rule_name": "Godlike aesthetic exemption",
+      "rule_category": "Access to religious prestige",
+      "group": "Paupers",
+      "group_category": "Wealth",
+      "resource": "Association with divine likeness",
+      "resource_category": "Religious access",
+      "directionality": "MORE",
+      "proof": [
+        "[§20] Do not confine your attention to Greece; take a tour round the foreign temples too, and see whether the Gods treat their hair and beards like me, or let the painters and sculptors shave them. Most of them, you will find, have no more shirt than I have, either. I hope you will not venture to describe again as mean an appearance that is accepted as godlike."
+      ],
+      "reasoning": "The text establishes a rule of iconographic and social correspondence where the lack of 'externals' (clothing, grooming) normally associated with poverty is legally or customarily equated with the appearance of the Gods. This grants those with minimal possessions a specific civic/religious standing by shielding their appearance from the category of 'mean' or 'despised' status.",
+      "specificity": 3,
+      "specificity_reasoning": "This rule applies broadly to anyone living in voluntary or involuntary poverty, a significant portion of the population, though framed here through the lens of a specific philosophical lifestyle.",
+      "confidence": 7
+    }
+  ],
+  "_n_chunks": 2,
+  "_file_id": "tlg0061.tlg006.perseus-eng1",
+  "_input_tokens": 12548,
+  "_output_tokens": 1736,
+  "_model": "google/gemini-3-flash-preview"
+}
