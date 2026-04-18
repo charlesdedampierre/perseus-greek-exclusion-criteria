@@ -98,15 +98,28 @@
     white-space: pre-wrap; word-wrap: break-word;
   }
   .pill {
-    display: inline-block; padding: 2px 8px; border-radius: 10px;
-    font-size: 11px; font-weight: 600; letter-spacing: 0.02em;
-    color: white; margin-right: 4px;
+    display: inline-block; padding: 3px 10px; border-radius: 12px;
+    font-size: 12px; font-weight: 600; letter-spacing: 0.01em;
+    margin-right: 4px;
   }
-  .pill.past { background: var(--past); }
-  .pill.contemporary { background: var(--contemporary); }
-  .pill.future { background: var(--future); }
-  .pill.mixed { background: var(--mixed); }
-  .pill.timeless { background: var(--timeless); color: #2d3748; }
+  /* Soft pastel palette, one per rule_time_reference */
+  .pill.past         { background: #fed7aa; color: #9c4221; }  /* soft orange */
+  .pill.contemporary { background: #bee3f8; color: #2b6cb0; }  /* soft blue   */
+  .pill.future       { background: #c6f6d5; color: #22543d; }  /* soft green  */
+  .pill.mixed        { background: #e9d8fd; color: #6b46c1; }  /* soft purple */
+  .pill.timeless     { background: #e2e8f0; color: #4a5568; }  /* soft gray   */
+
+  .tint { padding: 3px 10px; border-radius: 12px; display: inline-block; }
+  .tint.past         { background: #fff7ed; color: #9c4221;
+                       box-shadow: inset 2px 0 #fed7aa; }
+  .tint.contemporary { background: #eff8ff; color: #2b6cb0;
+                       box-shadow: inset 2px 0 #bee3f8; }
+  .tint.future       { background: #f0fdf4; color: #22543d;
+                       box-shadow: inset 2px 0 #c6f6d5; }
+  .tint.mixed        { background: #faf5ff; color: #6b46c1;
+                       box-shadow: inset 2px 0 #e9d8fd; }
+  .tint.timeless     { background: #f7fafc; color: #4a5568;
+                       box-shadow: inset 2px 0 #e2e8f0; }
   .rating {
     display: flex; gap: 10px; margin: 14px 0 10px;
   }
@@ -292,10 +305,18 @@
     document.getElementById("rule-sub").innerHTML =
       `${escapeHtml(sub)} ${r.rule_time_reference ? pillFor(r.rule_time_reference) : ""}`;
 
+    const tref = r.rule_time_reference;
     const rowHtml = (k) => {
       if (r[k] === undefined || r[k] === null || r[k] === "") return "";
       const cls = HIGHLIGHT.has(k) ? " class='highlight'" : "";
-      const val = k === "rule_time_reference" ? pillFor(r[k]) : escapeHtml(r[k]);
+      let val;
+      if (k === "rule_time_reference") {
+        val = pillFor(r[k]);
+      } else if (k === "rule_polity" && tref) {
+        val = `<span class="tint ${tref}">${escapeHtml(r[k])}</span>`;
+      } else {
+        val = escapeHtml(r[k]);
+      }
       return `<tr${cls}><th>${escapeHtml(labelFor(k))}</th><td>${val}</td></tr>`;
     };
 

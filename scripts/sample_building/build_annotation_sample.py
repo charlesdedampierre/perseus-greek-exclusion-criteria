@@ -27,12 +27,13 @@ DATA_JS = ANN_DIR / "data.js"
 SAMPLE_TSV = ANN_DIR / "sample.tsv"
 
 # Target per time-reference stratum. "all" = take whole category.
+# Target total: 50 rules, balanced across all 5 time-reference categories.
 QUOTAS = {
-    "contemporary": 50,
-    "timeless": 40,
-    "past": 25,
-    "future": "all",
-    "mixed": "all",
+    "contemporary": 20,
+    "timeless": 15,
+    "past": 10,
+    "future": 4,
+    "mixed": "all",  # 1 rule in the whole corpus
 }
 
 # Columns to expose in the annotator (feature -> value)
