@@ -1,0 +1,182 @@
+"""Build a stratified annotation sample from rules_full_dataset.tsv.
+
+Stratification:
+- Quota per ``rule_time_reference`` (contemporary, past, future, mixed, timeless).
+  Small categories (mixed, future) are taken whole.
+- Within each stratum, rules are picked round-robin across authors and then
+  across criteria to maximise diversity.
+
+Outputs:
+- ``exploring interface/annotator/data.js``  — ``window.SAMPLE = [...]`` used
+  by the static HTML annotator.
+- ``exploring interface/annotator/sample.tsv`` — the same sample as a TSV for
+  reference.
+"""
+
+import json
+import pathlib
+import random
+
+import pandas as pd
+
+HERE = pathlib.Path(__file__).resolve().parent
+REPO = HERE.parent.parent
+SRC = REPO / "data" / "processed_data" / "rules_full_dataset.tsv"
+ANN_DIR = REPO / "exploring interface" / "annotator"
+DATA_JS = ANN_DIR / "data.js"
+SAMPLE_TSV = ANN_DIR / "sample.tsv"
+
+# Target per time-reference stratum. "all" = take whole category.
+QUOTAS = {
+    "contemporary": 50,
+    "timeless": 40,
+    "past": 25,
+    "future": "all",
+    "mixed": "all",
+}
+
+# Columns to expose in the annotator (feature -> value)
+DISPLAY_COLS = [
+    "rule_uid",
+    "criteria",
+    "rule",
+    "group",
+    "resource",
+    "directionality",
+    "verbatim",
+    "reasoning",
+    "confidence",
+    "rule_polity",
+    "rule_polity_reasoning",
+    "rule_time_reference",
+    "rule_time_reasoning",
+    "contemporary",
+    "factuality",
+    "is_historical",
+    "group_specificity",
+    "group_immutability",
+    "resource_materiality",
+    "resource_generality",
+    "resource_persistence",
+    "tautological",
+    "author",
+    "cliopatria_polity",
+    "impact_year",
+    "impact_date",
+    "occupations",
+    "description",
+    "work_title",
+    "perseus_title",
+    "wikidata_work_label",
+    "period",
+    "genre",
+    "form_of_creative_work",
+    "main_language",
+    "pub_date",
+    "n_words",
+    "file_id",
+    "wikidata_id",
+]
+
+
+def first_criterion(s):
+    if pd.isna(s):
+        return ""
+    return str(s).split("|")[0].strip()
+
+
+def pick_diverse(pool, n, seed):
+    """Round-robin pick up to n rules from pool, prioritising author and
+    criterion diversity."""
+    if len(pool) <= n:
+        return pool.sample(frac=1, random_state=seed).reset_index(drop=True)
+
+    rng = random.Random(seed)
+    pool = pool.copy()
+    pool["_first_crit"] = pool["criteria"].map(first_criterion)
+
+    picked_idx = []
+    used_authors = set()
+    used_pairs = set()
+    remaining = pool.index.tolist()
+    rng.shuffle(remaining)
+
+    # Round 1: one per (author, criterion) pair
+    for idx in remaining:
+        if len(picked_idx) >= n:
+            break
+        a = pool.at[idx, "author"]
+        c = pool.at[idx, "_first_crit"]
+        if (a, c) in used_pairs:
+            continue
+        picked_idx.append(idx)
+        used_authors.add(a)
+        used_pairs.add((a, c))
+
+    # Round 2: top up by shuffled pool
+    if len(picked_idx) < n:
+        for idx in remaining:
+            if idx in picked_idx:
+                continue
+            picked_idx.append(idx)
+            if len(picked_idx) >= n:
+                break
+
+    return pool.loc[picked_idx].drop(columns="_first_crit").reset_index(drop=True)
+
+
+def main():
+    df = pd.read_csv(SRC, sep="\t")
+    print(f"Loaded {len(df):,} rules from {SRC.name}")
+    print("Time-reference totals:")
+    print(df["rule_time_reference"].value_counts().to_string())
+
+    parts = []
+    for tref, quota in QUOTAS.items():
+        subset = df[df["rule_time_reference"] == tref]
+        if len(subset) == 0:
+            print(f"  {tref}: 0 rules (skipped)")
+            continue
+        n = len(subset) if quota == "all" else min(quota, len(subset))
+        picked = pick_diverse(subset, n, seed=hash(tref) & 0xFFFF)
+        parts.append(picked)
+        print(
+            f"  {tref}: picked {len(picked)} / {len(subset)}  "
+            f"authors={picked['author'].nunique()}  "
+            f"criteria={picked['criteria'].map(first_criterion).nunique()}"
+        )
+
+    sample = pd.concat(parts, ignore_index=True)
+    # Shuffle the whole sample so annotator sees categories interleaved
+    sample = sample.sample(frac=1, random_state=42).reset_index(drop=True)
+
+    # Restrict to display columns that actually exist, plus keep full row
+    cols = [c for c in DISPLAY_COLS if c in sample.columns]
+    sample = sample[cols]
+
+    print(f"\nTotal sample: {len(sample)} rules / "
+          f"{sample['author'].nunique()} authors / "
+          f"{sample['criteria'].map(first_criterion).nunique()} distinct primary criteria")
+
+    # Persist
+    ANN_DIR.mkdir(parents=True, exist_ok=True)
+    sample.to_csv(SAMPLE_TSV, sep="\t", index=False)
+    print(f"Wrote TSV  : {SAMPLE_TSV}")
+
+    records = sample.where(pd.notna(sample), None).to_dict(orient="records")
+    payload = {
+        "generated_at": pd.Timestamp.utcnow().isoformat(),
+        "n": len(records),
+        "columns": cols,
+        "rules": records,
+    }
+    DATA_JS.write_text(
+        "// Auto-generated by scripts/sample_building/build_annotation_sample.py\n"
+        "// Do not edit by hand.\n"
+        f"window.SAMPLE = {json.dumps(payload, ensure_ascii=False, indent=2)};\n"
+    )
+    print(f"Wrote data : {DATA_JS}")
+
+
+if __name__ == "__main__":
+    main()
