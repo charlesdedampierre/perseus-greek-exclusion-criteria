@@ -1,42 +1,30 @@
 """
-Rule-level polity + time-reference classifier.
+Rule-level polity + time-reference + date classifier (V2).
 
-For each rule in ``rules_classified_v19_full.tsv`` whose ``file_id`` belongs to
-the 318-work sample in ``final_dataset_for_criteria.tsv``, annotate:
+Prompt is loaded from ``prompt/prompt_polity_time_V2.md`` so it can be tuned
+without touching code. V2 revises the original (V1) after manual annotation:
 
-- ``rule_polity``          the polity / society the RULE refers to. This may
-                            differ both from the author's own polity and from
-                            other rules in the same work (e.g. a 4th-century
-                            orator citing a Solonic law => Archaic Athens, even
-                            though the orator himself writes from Classical
-                            Athens).
-- ``rule_polity_reasoning`` one short sentence (<=250 chars).
-- ``rule_time_reference``  exactly one of:
-                              "contemporary"  the society referred to by the
-                                              rule is within ~100 years of the
-                                              author's floruit (before or after).
-                              "past"          clearly earlier era than the
-                                              author's floruit.
-                              "future"        clearly later era (prophecy,
-                                              eschatology, political utopia).
-                              "mixed"         the rule meaningfully invokes
-                                              multiple eras.
-                              "timeless"      the rule is a-temporal / abstract
-                                              (logic, geometry, general biology)
-                                              with no specific polity.
-- ``rule_time_reasoning``  one short sentence (<=250 chars).
+- dropped the ``timeless`` and ``future`` categories
+  (every rule is contemporary to its author unless it describes an earlier
+  historical society; a stated prophecy is contemporary to its stating)
+- dropped ``Generic / abstract (no specific polity)`` — default polity is the
+  author's polity
+- added ``rule_date``: a year or narrow year-range documenting when the rule
+  was in force
 
-Design notes
-------------
-The prompt is intentionally period- and culture-agnostic: nothing in it is
-hard-coded to the Greek world, so the same script can be re-used on any corpus
-where each rule has (author, impact_year, author_polity, rule_text, work_title,
-verbatim). Only the default input paths are project-specific.
+For each rule in ``rules_classified_v19_full.tsv`` whose ``file_id`` belongs
+to the 318-work sample in ``final_dataset_for_criteria.tsv``, annotate:
+
+- ``rule_polity``           specific polity the rule documents (see V2 prompt)
+- ``rule_polity_reasoning`` one short sentence (<=250 chars)
+- ``rule_time_reference``   exactly one of {contemporary, past, mixed}
+- ``rule_date``             a year or narrow year-range (negative = BCE)
+- ``rule_time_reasoning``   one short sentence (<=250 chars)
 
 OpenRouter + ``google/gemini-2.5-flash``, batched via a thread pool. Cached to
-``data/rules_polity_time_mapping.json`` keyed by ``rule_uid`` so re-runs only
-classify new rules. Writes an enriched table to
-``data/rules_classified_v19_full_polity.tsv``.
+``data/llm_results/rules_polity_time_mapping_v2.json`` keyed by ``rule_uid``
+so re-runs only classify new rules. Writes the exploration table to
+``data/processed_data/rules_full_dataset.tsv``.
 """
 
 import json
@@ -54,89 +42,24 @@ REPO_ROOT = HERE.parent.parent
 RULES_TSV = REPO_ROOT / "data" / "llm_results" / "rules_classified_v19_full.tsv"
 FINAL_TSV = REPO_ROOT / "data" / "processed_data" / "final_dataset_for_criteria.tsv"
 AUTHORS_TSV = REPO_ROOT / "data" / "processed_data" / "perseus_authors_cleaned.tsv"
-MAP_JSON = REPO_ROOT / "data" / "llm_results" / "rules_polity_time_mapping.json"
+MAP_JSON = REPO_ROOT / "data" / "llm_results" / "rules_polity_time_mapping_v2.json"
 OUT_TSV = REPO_ROOT / "data" / "processed_data" / "rules_full_dataset.tsv"
+PROMPT_MD = HERE / "prompt" / "prompt_polity_time_V2.md"
 
 MAX_WORKERS = 15
 BATCH_SIZE = 15
 
-VALID_TIME = {"contemporary", "past", "future", "mixed", "timeless"}
+VALID_TIME = {"contemporary", "past", "mixed"}
 
-SYSTEM_PROMPT = """You are a historian-annotator. For each social rule you are
-given, decide TWO things about the rule itself — NOT about the work as a whole.
-Different rules from the same work can (and often do) refer to different
-polities or different time periods.
-
-INPUT FIELDS PER RULE
-- author                : the author of the work
-- author_floruit_year   : the approximate year the author was active
-                          (negative = BCE, positive = CE)
-- author_polity         : the polity the author lived in, if known
-- author_description    : a short bio
-- work_title            : title of the work containing this rule
-- work_genre            : genre / form of the work (e.g. oration, treatise,
-                          epistle, tragedy, dialogue, medical treatise, ...)
-- rule                  : short name of the rule
-- criteria              : exclusion/inclusion criterion (e.g. Gender, Age, ...)
-- group                 : the group the rule targets
-- resource              : the right / resource at stake
-- verbatim              : a direct textual excerpt from the work supporting the
-                          rule (strongest clue)
-
-TASK 1 — ``rule_polity``
-Identify the polity / society the RULE describes, presupposes, or prescribes
-for. Use a short, specific, canonical label. Prefer attested historical
-polities when they exist (e.g. "Classical Athens", "Roman Empire (Greek
-East)", "Achaemenid Persia", "Second Temple Judaism", "Kingdom of France
-(Ancien Régime)", "Ming China") and add a qualifier when useful (region,
-century). Do not invent fictional labels. Use:
-  - "Generic / abstract (no specific polity)" when the rule is a-temporal or
-    non-social (logic, geometry, medicine that speaks of biology alone, etc.).
-  - "Mythological / legendary setting"         when the rule applies to a
-    clearly mythic world (Homeric gods, Titans, Old-Testament patriarchal
-    narrative taken as legendary) rather than a real polity.
-The rule's polity CAN and OFTEN WILL differ from the author's polity.
-
-TASK 2 — ``rule_time_reference``
-Classify the temporal relation between the polity/society the rule is about
-and the author's own floruit. Exactly one of:
-  - "contemporary" : within ~100 years of author_floruit_year (before or after).
-  - "past"         : a clearly earlier era than the author's time.
-  - "future"       : a clearly later era (prophecy, eschatology, utopia).
-  - "mixed"        : the rule meaningfully invokes multiple eras.
-  - "timeless"     : no meaningful temporal anchoring (pure biology, logic,
-                     mathematics, ethics stated as universal).
-
-HEURISTICS (corpus-agnostic)
-- Anchor on ``author_floruit_year`` and ``author_polity``. A rule that
-  prescribes for the author's own society is "contemporary" even if stated
-  as a general maxim.
-- Rules that quote or cite an older legal code, older historical figure, older
-  myth, or older scripture are "past" if the rule is ABOUT that older world.
-  If the author cites the old material only to illustrate a present-day rule,
-  treat it as "contemporary".
-- Letters, sermons, petitions, and political speeches almost always address
-  the author's own community => "contemporary" in the author's polity.
-- Mythological/epic content set in a clearly pre-historical heroic age =>
-  polity "Mythological / legendary setting" and time "past" (relative to a
-  historical author) or "timeless" (relative to a mythographer with no clear
-  historical vantage).
-- Technical treatises (mathematics, anatomy, pure logic) => polity
-  "Generic / abstract ..." and time "timeless", UNLESS the rule embeds a
-  concrete social detail of the author's own world (then "contemporary").
-- Do not use the author's polity as a default answer: re-read the verbatim.
-- Prefer precision over vagueness: if the rule names a specific city, dynasty,
-  sect, or century, use that.
-
-For EACH input item return an object with:
-  "i"                    : the integer index you were given
-  "rule_polity"          : short canonical label
-  "rule_polity_reasoning": one short sentence (<=250 chars)
-  "rule_time_reference"  : one of "contemporary" | "past" | "future" | "mixed" | "timeless"
-  "rule_time_reasoning"  : one short sentence (<=250 chars)
-
-Return ONLY valid JSON: a list of such objects (or an object wrapping the list
-under "results")."""
+SYSTEM_PROMPT = PROMPT_MD.read_text() + (
+    "\n\nReturn ONLY valid JSON — a list of objects, one per input item "
+    "(or an object wrapping the list under \"results\"). Each object MUST "
+    "include the integer index \"i\" from the input, plus the fields "
+    "\"rule_polity\", \"rule_polity_reasoning\", \"rule_time_reference\" "
+    "(one of \"contemporary\", \"past\", \"mixed\"), \"rule_date\" "
+    "(a year, a year range \"start to end\", \"start|end\", or the string "
+    "\"mythological\"), and \"rule_time_reasoning\"."
+)
 
 
 def _s(v, limit=None):
@@ -215,10 +138,18 @@ def classify_batch(client, batch):
         tref = str(it.get("rule_time_reference", "")).strip().lower()
         if tref not in VALID_TIME:
             tref = "contemporary"
+        # rule_date may come in as int, float, or string (e.g. "-350", "-350 to -340",
+        # "-40|+40", "mythological"). Store as a trimmed string.
+        raw_date = it.get("rule_date")
+        if raw_date is None:
+            rule_date = ""
+        else:
+            rule_date = str(raw_date).strip()
         out[i] = {
             "rule_polity": _s(it.get("rule_polity"), 200) or "",
             "rule_polity_reasoning": _s(it.get("rule_polity_reasoning"), 300) or "",
             "rule_time_reference": tref,
+            "rule_date": rule_date[:80],
             "rule_time_reasoning": _s(it.get("rule_time_reasoning"), 300) or "",
         }
     return out
@@ -334,6 +265,7 @@ def main():
         "rule_polity",
         "rule_polity_reasoning",
         "rule_time_reference",
+        "rule_date",
         "rule_time_reasoning",
     ):
         rules[col] = rules["rule_uid"].map(lambda u, c=col: pick(u, c))
@@ -354,10 +286,11 @@ def main():
         "verbatim",
         "reasoning",
         "confidence",
-        # new polity + time annotations (the point of this script)
+        # new polity + time + date annotations (the point of this script)
         "rule_polity",
         "rule_polity_reasoning",
         "rule_time_reference",
+        "rule_date",
         "rule_time_reasoning",
         # existing rule-level classifier outputs
         "contemporary",
@@ -423,6 +356,9 @@ def main():
 
     print("\nTop 20 polities:")
     print(rules["rule_polity"].value_counts(dropna=False).head(20).to_string())
+
+    print("\nTop 20 rule_date values:")
+    print(rules["rule_date"].value_counts(dropna=False).head(20).to_string())
 
     print("\nPer-author time-reference share:")
     print(

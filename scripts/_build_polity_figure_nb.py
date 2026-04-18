@@ -92,7 +92,9 @@ nb["cells"] = [
             )
             authors = author_order["author"].tolist()
 
-            time_levels = ["past", "contemporary", "mixed", "future", "timeless"]
+            _level_order = ["past", "contemporary", "mixed", "future", "timeless"]
+            present = set(df["rule_time_reference"].dropna().unique())
+            time_levels = [t for t in _level_order if t in present]
             colors = {
                 "contemporary": "#2b6cb0",   # steel blue
                 "past":         "#c05621",   # burnt orange

@@ -27,13 +27,12 @@ DATA_JS = ANN_DIR / "data.js"
 SAMPLE_TSV = ANN_DIR / "sample.tsv"
 
 # Target per time-reference stratum. "all" = take whole category.
-# Target total: 50 rules, balanced across all 5 time-reference categories.
+# V2 prompt has 3 categories only (contemporary / past / mixed).
+# Total = 50 rules, oversampled toward past so the rarer class is reviewable.
 QUOTAS = {
-    "contemporary": 20,
-    "timeless": 15,
-    "past": 10,
-    "future": 4,
-    "mixed": "all",  # 1 rule in the whole corpus
+    "contemporary": 25,
+    "past": 20,
+    "mixed": "all",
 }
 
 # Columns to expose in the annotator (feature -> value)
@@ -50,6 +49,7 @@ DISPLAY_COLS = [
     "rule_polity",
     "rule_polity_reasoning",
     "rule_time_reference",
+    "rule_date",
     "rule_time_reasoning",
     "contemporary",
     "factuality",
