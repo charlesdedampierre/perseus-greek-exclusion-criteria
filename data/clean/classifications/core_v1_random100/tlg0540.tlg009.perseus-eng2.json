@@ -1,0 +1,77 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Judicial protection for magistrates",
+      "group": "Magistrates",
+      "resource": "Protection from verbal abuse",
+      "directionality": "MORE",
+      "verbatim": [
+        "the terms of the law only forbid the abuse of a magistrate at session of his court"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly cites a specific law that grants magistrates a resource (protection from abuse) while they are performing their official duties in court.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen military service rotation",
+      "group": "Citizens",
+      "resource": "Exemption from consecutive mobilization",
+      "directionality": "MORE",
+      "verbatim": [
+        "having taken their oaths to enroll only those who had not served in the field, they violated those oaths"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes an oath taken by the generals (the rule-makers in this context) which establishes that citizens who had already served in the field are to be exempt from immediate re-enrollment, favoring those who had not yet served.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public debtor status from fines",
+      "group": "Citizens",
+      "resource": "Protection from public debt registration",
+      "directionality": "LESS",
+      "verbatim": [
+        "it was not reasonable that any of our citizens should be registered as public debtors out of personal enmity"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the process where a fine imposed by a magistrate and recorded by the Treasury clerks turns a citizen into a 'public debtor,' which is a loss of a resource (financial/legal standing).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Financial official's power of remission",
+      "group": "Treasury clerks",
+      "resource": "Right to remit public fines",
+      "directionality": "MORE",
+      "verbatim": [
+        "if they have power to remit, subject to rendering an account of their proceedings, they will easily be visited with the proper penalty for any wrong they have done."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker argues that the Treasury clerks have the legal capacity to cancel (remit) a fine handed to them by other magistrates, identifying this as a specific administrative power/resource held by that group.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0540.tlg009.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "For The Soldier",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4907,
+  "_output_tokens": 689,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

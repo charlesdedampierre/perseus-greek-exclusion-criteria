@@ -1,0 +1,80 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Youth oversight in poetic education",
+      "group": "The young",
+      "resource": "Guidance in literary interpretation",
+      "directionality": "MORE",
+      "verbatim": [
+        "Since, then, it is neither possible, perhaps, nor profitable to debar from poetry a boy as old as my Soclarus and your Cleander now are, let us keep a very close watch over them, in the firm belief that they require oversight in their reading even more than in the streets.",
+        "Similarly also in the art of poetry there is much that is pleasant and nourishing for the mind of a youth, but quite as much that is disturbing and misleading, unless in the hearing of it he have proper oversight."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch establishes a general pedagogical rule for his society that young men must not read poetry unsupervised due to its potential to corrupt or mislead them without the 'standard of reason'.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Greek immunity from battlefield supplication",
+      "group": "Greeks",
+      "resource": "Protection from the necessity of supplication",
+      "directionality": "MORE",
+      "rule_description": "Historical/cultural norm where Greek soldiers are expected to die fighting rather than beg for mercy like barbarians.",
+      "verbatim": [
+        "this we must make to apply to similar cases, thereby curtailing the pride of those who plume themselves on things of no worth... because of their conviction that it is a trait of barbarian peoples to make supplication and to fall at the enemy’s feet in combat, but of Greeks to conquer or to die fighting."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch identifies a cultural rule distinguishing Greeks from barbarians; identifying the former as a group that possesses the 'resource' of a code that forbids life-saving supplication in favor of honorable death.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Master's right to retained loot",
+      "group": "Slaves",
+      "resource": "Right to personal war booty",
+      "directionality": "LESS",
+      "verbatim": [
+        "But Thersites in reviling the same man says: Full of bronze are your quarters, and many, too, are the women, Chosen from all the captives for you, and these we Achaeans Give to you first of all whenever we capture a city. [...] And on another occasion Achilles says, If perchance Zeus ever Grants to us that we plunder Troy, the well-walled city, but Thersites, One that I or another Achaean may bring in as captive."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch uses the text of the Iliad to illustrate the rule of his ancestors/the epic world where the rank-and-file or those in subordinate positions (symbolized by Thersites) see their acquisitions transferred to the leader.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Noble immunity from physical punishment",
+      "group": "Nobles",
+      "resource": "Protection from corporal punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "Plutarch says (Moralia, 173 D) that Artaxerxes (Longhand) ordained that nobles who had offended should lay off their clothes, and their clothes should be scourged instead of their bodies."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal/normative rule in the Persian context (often used as a contrast in moral education) where the group of 'nobles' is granted the resource of physical integrity, with the punishment being transferred to their garments.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg068.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "How the Young Man Should Study Poetry",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 26956,
+  "_output_tokens": 973,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

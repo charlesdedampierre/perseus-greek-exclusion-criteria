@@ -1,0 +1,126 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "group": "Ambassadors",
+      "resource": "Eligibility for public honors",
+      "directionality": "LESS",
+      "rule": "Council withholding of ambassadorial honors",
+      "verbatim": [
+        "the Council, not being debarred from hearing the truth from me, did not give these men either a vote of thanks, or an invitation to the public dinner in the Town Hall. We are told that these compliments had never before been withheld from any ambassadors since the foundation of Athens—not even from Timagoras, whom the Assembly condemned to death. These men, however, had to go without them. Read first the deposition, and then the resolution, to the jury. (The Deposition and the Resolution are read) Here is no commendation, no invitation from the Council to the ambassadors to dine in the Town Hall."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific institutional rule where the Council of Five Hundred evaluates the conduct of ambassadors upon their return. While honors like the vote of thanks and dining in the Prytaneum were standard, the Council exercised the right to withhold these material and immaterial resources as a formal sanction for misconduct.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "group": "Ambassadors",
+      "resource": "Right to provide verbal reports",
+      "directionality": "MORE",
+      "rule": "Ambassadorial responsibility for verbal reports",
+      "verbatim": [
+        "He is responsible then, in the first place, for the reports he has made; secondly, for the advice he has offered; thirdly, for his observance of your instructions... Your conclusions are derived from the ambassador’s reports: you reach a right decision if they are true, a wrong decision if they are false. The advice of ambassadors you regard as the more trustworthy because it is given by men who presumably understand their own mission."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage establishes the legal and procedural framework for the office of ambassador in Athens. They are granted the resource of providing the official information upon which the Assembly acts, but this is coupled with a strict legal liability (scrutiny) for the truthfulness and utility of that information.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "group": "Ambassadors",
+      "resource": "Protection from capital punishment",
+      "directionality": "LESS",
+      "rule": "Death penalty for unauthorized diplomacy",
+      "verbatim": [
+        "off marched this wise, clever, smooth-tongued gentleman, without waiting for Council or Assembly to reappoint him, on his embassy to the court of the chief malefactor. He forgot that he had sworn that he was too ill to travel; forgot that another ambassador had been chosen in his stead, and that the law visits such conduct with death"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes cites a specific Athenian law that mandates the death penalty for an individual who acts as an ambassador or continues an embassy without a valid, current appointment or after formally declining the post on oath.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "group": "Public officials",
+      "resource": "Exemption from legal scrutiny",
+      "directionality": "LESS",
+      "rule": "Mandatory accountability of public functions",
+      "verbatim": [
+        "Now I observe that men who enter public life with honest intentions, even after they have submitted to scrutiny, do still acknowledge a perpetual responsibility. ... if a man who has undertaken and administered any public function can get rid of accusers not by his honesty but by the fear he inspires, the people will soon lose all control of public affairs."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the 'euthynai' (scrutiny/accountability), a fundamental rule of Athenian democracy requiring every person holding a public function (magistracy, embassy, etc.) to submit to a legal audit where any citizen may accuse them of crimes during their tenure.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "group": "Public speakers",
+      "resource": "Protection from legal prosecution",
+      "directionality": "LESS",
+      "rule": "Liability for political speech",
+      "verbatim": [
+        "He will presently, as I am informed, make it a grievance that he, and he alone of all our debaters, is to be called to account for his speeches. ... If an ambassador has not wasted the opportunities of the state, he is no wrongdoer; if he has wasted them, he has done wrong. If the words of his reports are true and profitable words, let him be acquitted; if they are false, venal, and noxious, let him be convicted."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author clarifies that in the Athenian system, specifically for ambassadors and those addressing the Assembly, speech (oratory) is not a protected abstraction but a functional act subject to criminal prosecution if it leads to the harm of the state.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Freedom"
+      ],
+      "group": "Public clerks",
+      "resource": "Access to public maintenance",
+      "directionality": "MORE",
+      "rule": "Clerical access to the Prytaneum",
+      "verbatim": [
+        "The offspring of this pair earned a little money as junior clerks and messengers in the public offices, until, by your favor, they became full-fledged clerks, with free maintenance for two years in the Rotunda. The Prytaneum or Town Hall."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific material resource (free meals/maintenance in the Prytaneum) provided to those who reached the level of 'full-fledged clerks' in the Athenian civil service.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "group": "Citizens",
+      "resource": "Right to appoint ambassadors",
+      "directionality": "MORE",
+      "rule": "Citizen assembly ambassadorial appointment",
+      "verbatim": [
+        "Well, you appointed him a second time, men of Athens, as an envoy to receive the oath of ratification... For though you often employ insignificant men for public business, it does not follow that those affairs are insignificant for which the rest of the world acknowledges our competence."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms the rule that the sovereign Assembly of citizens holds the exclusive power to appoint individuals to represent the state in diplomatic missions.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0014.tlg019.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "On the Embassy",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 44980,
+  "_output_tokens": 1651,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

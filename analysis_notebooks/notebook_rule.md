@@ -1,0 +1,19 @@
+- Notebooks should be annotated
+- Most of the analysis should be in dataframes, with print statements sometimes to check
+- If new data is created, it should be at the beginning
+- When you load data, load everything at the beginning
+- Separate the moment when you do preprocessing and the moment when you do the figures
+- Be as simple as possible
+- The notebooks should be made for human eyes to read
+- You need to make different sections that are easy to follow
+- Make sure, during the process with the dataframe, you do not lose data
+- Seed all randomness
+- add a nulmber in front of each notebook 1_, based on how earluy it is in the analsysi, give a short name easy to understand
+- Use markdown headers (#, ##, ###) for sections — they generate a table of contents in Jupyter/VS Code and make navigation easy.
+- do not saves the figures in figures/, alwyaus print in the notebook
+- Display intermediate dataframes with .head() or .sample() after each transformation — makes it easy to follow the data flow.
+- One figure per cell maximum, with a markdown header naming it as it appears in the paper (e.g., "### Figure 3: Rule distribution by period").
+- Use consistent styling — define colors, fonts, and figure size in the config cell, not ad hoc per figure.
+- figures should be simple, as for a paper in Science or Nature
+- Assert data integrity at key steps: assert df['id'].is_unique, assert df['score'].between(1, 5).all(). Catches silent bugs.
+- Log row counts before and after filters so reviewers (and you) can see exactly how many rules were removed at each step.

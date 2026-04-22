@@ -1,0 +1,45 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Roman prohibition on polygamy",
+      "group": "Romans",
+      "resource": "Right to marry multiple wives",
+      "directionality": "LESS",
+      "verbatim": [
+        "Antony, on the contrary, in marrying two wives at once, in the first place did what no Roman had ever dared to do; and in the second place, he drove away his Roman and lawfully wedded wife, in order to gratify the foreigner, with whom he was living contrary to law."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch contrasts Macedonian royal custom with Roman law/custom, explicitly stating that no Roman had ever dared to marry two wives at once and that Antony's conduct was 'contrary to law', highlighting a group-specific restriction for Romans.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Macedonian royal polygamy custom",
+      "group": "Macedonian kings",
+      "resource": "Right to marry multiple wives",
+      "directionality": "MORE",
+      "verbatim": [
+        "Further, Demetrius, in making several marriages, did not do what was prohibited, but what had been made customary for the kings of Macedonia by Philip and Alexander; he did just what Lysimachus and Ptolemy did, and held all his wives in honour."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text establishes that for the specific group of Macedonian kings, taking multiple wives was a recognized and 'customary' right, unlike for other groups (implicitly Romans, as contrasted in the next sentence).",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0007.tlg059.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Comparison of Demetrius and Antony",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4524,
+  "_output_tokens": 439,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

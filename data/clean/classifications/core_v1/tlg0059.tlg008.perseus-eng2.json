@@ -1,0 +1,552 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Architectural supervision over manual labor",
+      "group": "Architects",
+      "resource": "Right to command workmen",
+      "directionality": "MORE",
+      "verbatim": [
+        "Str. Every architect, too, is a ruler of workmen, not a workman himself. [§69] Y. Soc. Yes. [§70] Str. As supplying knowledge, not manual labor. [§71] Y. Soc. True. [§73] Str. So he may fairly be said to participate in intellectual science. [§74] Y. Soc. Certainly. [§75] Str. But it is his business, I suppose, not to pass judgement and be done with it and go away, as the calculator did, but to give each of the workmen the proper orders, until they have finished their appointed task."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the architect as a specific occupational group defined by intellectual science rather than manual labor. The rule establishes that this group possesses the authority to issue orders to manual laborers to complete tasks, distinguishing them from both the workers and from intellectual groups that only 'judge' (like calculators).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Heralds issuing orders of others",
+      "group": "Heralds",
+      "resource": "Authority to issue own commands",
+      "directionality": "LESS",
+      "verbatim": [
+        "Str. And in like manner heralds receive the purposes of others in the form of orders, and then give the orders a second time to others. [§92] Y. Soc. Very true. [§93] Str. Shall we, then, join the art of the king in the same class with the art of the interpreter, the boatswain, the prophet, the herald, and many other kindred arts, all of which involve giving orders? Or, as we just now made a comparison of functions, shall we now by comparison make a name also—since the class of those who issue orders of their own is virtually nameless—and assign kings to the science of giving orders of one’s own, disregarding all the rest..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato distinguishes between groups that have the authority to issue their own commands (like kings/statesmen) and those whose occupation is strictly limited to relaying the commands of others. Heralds are defined as a group that lacks the resource of autonomous command.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Ethnicity"
+      ],
+      "rule": "Greek distinction from non-Greeks",
+      "group": "Greeks",
+      "resource": "Recognition as a distinct species",
+      "directionality": "MORE",
+      "verbatim": [
+        "Str. It was very much as if, in undertaking to divide the human race into two parts, one should make the division as most people in this country do; they separate the Hellenic race from all the rest as one, and to all the other races, which are countless in number and have no relation in blood or language to one another, they give the single name barbarian; then, because of this single name, they think it is a single species."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Stranger describes a contemporary social convention in Greece where the population is divided based on ethnicity. This rule grants the 'Hellenic race' the status of being a unique group while stripping all other ethnicities (Barbarians) of their individual distinctions by grouping them into a single, heterogeneous category.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Wealth / Properties"
+      ],
+      "rule": "Royal management of foreign fish preserves",
+      "group": "Kings",
+      "resource": "Right to maintain private fish preserves",
+      "directionality": "MORE",
+      "verbatim": [
+        "Str. Whether, as I suppose, you have often heard people speak of this,— for I know you never actually saw the preserves of fish in the Nile and in the ponds of the Persian king. But perhaps you have noticed the like in fountain-pools."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies the Persian King specifically as the owner/manager of specialized fish preserves (ponds), contrasting this high-level resource with the common fountain-pools found in Greece. This establishes a specific material resource (large-scale aquatic preserves) associated with the status of a King.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Statesman authority over human society",
+      "group": "Statesmen",
+      "resource": "Political power over the human herd",
+      "directionality": "MORE",
+      "verbatim": [
+        "Str. I say, then, that we ought at that time to have divided walking animals immediately into biped and quadruped, then seeing that the human race falls into the same division with the feathered creatures and no others, we must again divide the biped class into featherless and feathered, and when that division is made and the art of herding human beings is made plain, we ought to take the statesmanlike and kingly man and place him as a sort of charioteer therein, handing over to him the reins of the state, because that is his own proper science."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato describes the 'statesman' or 'kingly man' as the specific group intended to exercise command ('reins of the state') over the specific class of 'human beings.' This identifies the group (Statesmen) and the specific immaterial resource (political power/command).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Animal husbandry matchmaking by herdsmen",
+      "group": "Herdsmen",
+      "resource": "Right to control animal breeding",
+      "directionality": "MORE",
+      "verbatim": [
+        "but this we know, that no one will ever raise such a contention against any neatherd, but the herdsman himself tends the herd, he is their physician, he is their matchmaker, and he alone knows the midwife’s science of aiding at the birth of their offspring."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Stranger describes the real-world functions of a herdsman as a point of contrast to the disputed claims of the statesman. In Greek agricultural practice, the identification of the herdsman as the 'matchmaker' reflects his functional control over the reproduction and breeding of the animals in his care.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Herdsman provision of animal music",
+      "group": "Herdsman",
+      "resource": "Right to perform music for herds",
+      "directionality": "MORE",
+      "verbatim": [
+        "Moreover, so far as the nature of the creatures allows them to enjoy sport or music, no one can enliven or soothe them better than he; whether with instruments or merely with his voice he performs the music best suited to his own herd; and the same applies to the other herdsmen."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This describes the standard pastoral practice where the herdsman is the exclusive provider of environmental stimulus (music) used to manage the behavior and well-being of the livestock.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Lineage"
+      ],
+      "rule": "Divine tokens for throne succession",
+      "group": "Royal claimants",
+      "resource": "Right to the throne",
+      "directionality": "MORE",
+      "verbatim": [
+        "Atreus promised to show this prodigy to prove that the gods were on his side. . . The lamb was a token (σημεῖον) of the favor of the gods, and the changed course of the sun and stars was a testimony (μαρτυρήσας) to the right of Atreus."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text references the historical/mythological rule that divine omens or 'tokens' served as legal/religious evidence to settle disputes over kingly succession, validating a specific claimant's right to rule.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Education"
+      ],
+      "rule": "Statesman education and breeding standards",
+      "group": "Statesmen",
+      "resource": "Similar breeding and education as subjects",
+      "directionality": "MORE",
+      "verbatim": [
+        "I think, Socrates, that the form of the divine shepherd is greater than that of the king, whereas the statesmen who now exist here are by nature much more like their subjects, with whom they share much more nearly the same breeding and education."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato contrasts the mythical 'divine shepherd' with contemporary Greek statesmen, noting that the latter are characterized by having the same level of education and social upbringing (breeding) as the citizens they lead, rather than being a superior class of being.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Voluntary rule of the king",
+      "group": "Kings",
+      "resource": "Right to rule voluntary subjects",
+      "directionality": "MORE",
+      "verbatim": [
+        "And if we call the art of those who use compulsion tyrannical or something of the sort and the voluntary care of voluntary bipeds political, may we not declare that he who possesses this latter art of caretaking is really the true king and statesman?"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text defines the 'true king' or 'statesman' specifically by the criterion of voluntary governance. Unlike a tyrant who uses compulsion, the king's rule is founded on the voluntary consent of the governed (voluntary bipeds).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Compulsory rule of the tyrant",
+      "group": "Tyrants",
+      "resource": "Authority based on compulsion",
+      "directionality": "MORE",
+      "verbatim": [
+        "And if we call the art of those who use compulsion tyrannical or something of the sort and the voluntary care of voluntary bipeds political, may we not declare that he who possesses this latter art of caretaking is really the true king and statesman?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes the tyrant from the king based on the mode of governance; the tyrant's defining characteristic in this social classification is the use of force or compulsion over the population.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Royal access to state management",
+      "group": "The royal class",
+      "resource": "Political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "Then if this is the case, would it be a bad thing if you and I first tried to see in another small and partial example the nature of example in general, with the intention of transferring afterwards the same figurative method from lesser things to the most exalted eminence of the king, and trying by means of an example to become acquainted in a scientific way with the management of states, in order that this may be waking knowledge for us, not dream knowledge? [...] Then we must take up our former argument again, and since there are countless others who contend that they, rather than the royal class, have the care of states, we must accordingly remove all these and isolate the king"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific class (the royal class) as the rightful holder of the management of the state, distinguishing them from other competing groups who claim such authority.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Dialectical training for students",
+      "group": "Education",
+      "resource": "Access to advanced dialectical training",
+      "directionality": "MORE",
+      "verbatim": [
+        "Suppose we were asked the following question about a group of pupils learning their letters: When a pupil is asked of what letters some word or other composed, is the question asked for the sake of the one particular word before him or rather to make him more learned about all words in the lesson? [...] And how about our own investigation of the statesman? Has it been undertaken for the sake of his particular subject or rather to make us better thinkers about all subjects? [...] By far our first and most important object should be to exalt the method itself of ability to divide by classes, and therefore, if a discourse, even though it be very long, makes the hearer better able to discover the truth, we should accept it eagerly."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato describes the educational norm of the Academy where the primary resource is not the specific knowledge of a subject (like weaving or statesmanship) but the development of the 'ability to divide by classes' (dialectic). The 'pupils' are the group receiving this methodological resource to improve their overall reasoning capacity.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Religion"
+      ],
+      "rule": "Priestly eligibility for kingship",
+      "group": "Priests",
+      "resource": "Eligibility for the kingship",
+      "directionality": "MORE",
+      "verbatim": [
+        "In Egypt, for example, no king can rule without being a priest, and if he happens to have forced his way to the throne from some other class, he must enroll himself in the class of priests afterwards; and among the Greeks, too, you would find that in many states the performance of the greatest public sacrifices is a duty imposed upon the highest officials."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal and customary requirement in Egypt where the resource of political rule (kingship) is tied to the priestly class, and notes similar structural links between high office and religious duties in Greek states.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Archon performance of national sacrifices",
+      "group": "The King Archon",
+      "resource": "Right to perform national sacrifices",
+      "directionality": "MORE",
+      "verbatim": [
+        "Yes, among you Athenians this is very plain, for they say the holiest and most national of the ancient sacrifices are performed by the man whom the lot has chosen to be the King. The second in order of the nine annual archons."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato references a specific contemporary Athenian practice where a specific magistrate (the King Archon) is granted the exclusive right/duty to lead the most significant state religious ceremonies.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Scientific ruler's right to purge",
+      "group": "Scientifically trained rulers",
+      "resource": "Right to exile or execute citizens",
+      "directionality": "MORE",
+      "verbatim": [
+        "And whether they purge the state for its good by killing or banishing some of the citizens, or make it smaller by sending out colonies somewhere, as bees swarm from the hive, or bring in citizens from elsewhere to make it larger, so long as they act in accordance with science and justice and preserve and benefit it by making it better than it was, so far as is possible, that must at that time and by such characteristics be declared to be the only right form of government."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Plato argues that those possessing the 'science' of ruling have the legitimate authority to dispose of citizen lives and residency through execution or banishment if it serves the state's health, modeled on medical science.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Scientific ruler's extra-legal authority",
+      "group": "Scientifically trained rulers",
+      "resource": "Right to rule without written laws",
+      "directionality": "MORE",
+      "verbatim": [
+        "It is, then, a necessary consequence that among forms of government that one is preeminently right and is the only real government, in which the rulers are found to be truly possessed of science, not merely to seem to possess it, whether they rule by law or without law, whether their subjects are willing or unwilling, and whether they themselves are rich or poor."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author posits a rule where the specific group defined by 'science' (knowledge/education) gains the resource of absolute political authority, specifically the right to bypass written laws.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Mandatory adherence to written laws",
+      "group": "Citizens",
+      "resource": "Freedom from capital punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "That no citizen shall dare to do anything contrary to the laws, and that he who does shall be punished by death and the most extreme penalties. And this is perfectly right and good as a second choice, as soon as you depart from the first form of which we were just speaking."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Stranger describes the actual legal practice in contemporary states (the 'second choice' compared to the ideal ruler) where any deviation from the established law by a citizen is met with the highest legal sanctions, indicating that citizens lack the protection to act against the law even for beneficial reasons.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Occupation"
+      ],
+      "rule": "Public audit of annual rulers",
+      "group": "Rulers",
+      "resource": "Protection from legal prosecution",
+      "directionality": "LESS",
+      "verbatim": [
+        "When the year of office has passed for each set of rulers, there will have to be sessions of courts in which the judges are chosen by lot either from a selected list of the rich or from the whole people, and the rulers will have to be brought before these courts and examined as to their conduct in office, and anyone who pleases can bring against the captains an accusation for failure to command the ships during the year in accordance with the written laws or the ancestral customs, and similarly against the physicians for their treatment of the sick; and if any of them is found guilty, the court shall decide what his punishment or his fine shall be."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This passage describes the 'euthyna' (accountability audit) practice in Athens and other Greek cities. Rulers (here metaphorically compared to captains/physicians but explicitly referred to as those 'set up annually') are legally required to undergo a trial at the end of their term where any citizen can prosecute them for deviating from written law.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Citizenship"
+      ],
+      "rule": "Wealth-based eligibility for magistracies",
+      "group": "The rich",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "And suppose that rulers of the people are set up annually, whether from the rich or from the whole people, on the principle that whoever is chosen by lot should rule, and that these rulers exercise their authority in commanding the ships or treating the sick in accordance with the written rules."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the contemporary practice in various Greek poleis where eligibility for certain ruling offices (chosen by lot) was sometimes restricted to the wealthy class or shared with the whole people.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Citizenship"
+      ],
+      "rule": "Wealth-based jury selection",
+      "group": "The rich",
+      "resource": "Right to serve as a judge",
+      "directionality": "MORE",
+      "verbatim": [
+        "there will have to be sessions of courts in which the judges are chosen by lot either from a selected list of the rich or from the whole people, and the rulers will have to be brought before these courts and examined as to their conduct in office"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage identifies that in contemporary legal systems, judges for the accountability of rulers are selected either from the general citizenry or specifically from the wealthy, identifying wealth as a criterion for the resource of judicial power.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education",
+        "Occupation"
+      ],
+      "rule": "Severe penalty for non-traditional investigation",
+      "group": "Scholars",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "And then, in addition to all this, there will have to be a law that if anyone is found to be investigating the art of pilotage or navigation or the subject of health and true medical doctrine about winds and things hot and cold, contrary to the written rules, or to be indulging in any speculation whatsoever on such matters, he shall in the first place not be called a physician or a ship captain, but a star-gazer... and if he is found to be so persuading either young or old contrary to the laws and written rules, he shall suffer the most extreme penalties."
+      ],
+      "contemporary": 1,
+      "factality": 1,
+      "reasoning": "The Stranger describes the existence of laws that punish those who investigate sciences or arts outside of established written rules or ancestral customs, citing the 'extreme penalties' (referencing the death penalty as in the case of Socrates) for those who persuade others to ignore these laws.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy exclusion from statesmanship science",
+      "group": "The rich",
+      "resource": "Access to statesmanship science",
+      "directionality": "LESS",
+      "verbatim": [
+        "Then if there is a kingly art, neither the collective body of the wealthy nor the whole people could ever acquire this science of statesmanship."
+      ],
+      "contemporary": 1,
+      "factality": 0,
+      "reasoning": "The text establishes a rule in Plato's political philosophy that high-level political 'science' (the art of the statesman) is fundamentally inaccessible to the wealthy as a class or to the general population, which justifies their dependence on written laws instead.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public participation in lawmaking",
+      "group": "Citizens",
+      "resource": "Right to pass laws",
+      "directionality": "MORE",
+      "verbatim": [
+        "Since the laws are made after long experience and after commissioners of some kind have carefully considered each detail with delicate skill and have persuaded the people to pass them, anyone, I fancy, who ventured to violate them would be involved in error many times greater than the first."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the standard procedure for Athenian lawmaking where experts/commissioners prepare details but the 'people' (citizens) must be persuaded to pass them, recognizing their legal authority to enact rules.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Aristocratic adherence to written laws",
+      "group": "The rich",
+      "resource": "Right to rule without laws",
+      "directionality": "LESS",
+      "verbatim": [
+        "Then whenever the rich imitate this government, we call such a state an aristocracy; and when they disregard the laws, we call it an oligarchy."
+      ],
+      "contemporary": 1,
+      "factality": 1,
+      "reasoning": "The author defines the legitimate rule of the wealthy (aristocracy) as being strictly bound by written laws; if they rule according to their own will, the classification changes to a negative form, indicating a rule that they lack the right to deviate from stated laws.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Freedom"
+      ],
+      "rule": "Statesman control of rhetoric",
+      "group": "Orators",
+      "resource": "Autonomy in political persuasion",
+      "directionality": "LESS",
+      "verbatim": [
+        "Str. And the science which decides whether to persuade or not should control that which can persuade? Y. Soc. Certainly. Str. Well, then, to what science shall we assign the power of persuading a multitude or a mob by telling edifying stories, not by teaching? Y. Soc. It is, I think, clear that this must be added to rhetoric. Str. But the power of deciding whether some action, no matter what, should be taken, either by persuasion or by some exercise of force, in relation to any person, or whether to take no action at all—to what science is that to be assigned? Y. Soc. To the science which controls the sciences of persuasion and speech. Str. And that would, I think, be no other than the function of the statesman. Y. Soc. A most excellent conclusion. Str. So rhetoric also seems to have been quickly separated from statesmanship as a different species, subservient to the other."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text establishes that rhetoric is a subordinate art to statesmanship. While orators have the skill to persuade, the decision of whether or not to use that skill is reserved for the statesman, thus limiting the orator's professional autonomy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Generals' subordination to statecraft",
+      "group": "Generals",
+      "resource": "Political authority over war and peace",
+      "directionality": "LESS",
+      "verbatim": [
+        "Str. And the power which is able and knows how to deliberate and decide whether to make war or peace, shall we assume that it is the same as this or different? Y. Soc. If we are consistent, we must assume that it is different. Str. Shall we, then, assume that it controls the other, if we are to agree with our views in the former examples? Y. Soc. Yes. Str. And what other art shall we make bold to declare is mistress of that great and terrible art, the art of war as a whole, except the truly kingly art? Y. Soc. No other. Str. We shall, then, not call the art of the generals statesmanship, since it is subservient."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato describes the fixed relationship between the military and the political leadership in the Greek city-state. The general (strategos) possesses the technical skill of warfare but lacks the legal/political right to decide on the initiation or termination of war, which is a resource held by the statesman.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Judicial subordination to legislative enactments",
+      "group": "Judges",
+      "resource": "Power to deviate from law",
+      "directionality": "LESS",
+      "verbatim": [
+        "Has it any power beyond that of judging men’s contracts with one another, pronouncing them right or wrong by the standard of the existing laws which it has received from the king and law-giver; showing its own peculiar virtue in that it is not so perverted by any bribes, or fears, or pity, or enmity, or friendship, as ever to consent to decide the lawsuits of men with each other contrary to the enactments of the lawgiver? ... Then we find that the strength of judges is not kingly, but is guardian of laws and a servant of the kingly power."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The rule defines the limit of judicial power in the Greek state: judges are restricted to applying existing law and are expressly barred from exercising independent kingly discretion or departing from the written statutes provided by the lawgiver.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion",
+        "Health"
+      ],
+      "rule": "Exile and execution for the unjust",
+      "group": "The unjust and godless",
+      "resource": "Right to life and residence",
+      "directionality": "LESS",
+      "verbatim": [
+        "And those men who have no capacity for courage and self-restraint and the other qualities which tend towards virtue, but by the force of an evil nature are carried away into godlessness, violence, and injustice, it removes by inflicting upon them the punishments of death and exile and deprivation of the most important civic rights."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato describes the standard social and legal response to individuals categorized by an 'evil nature' (here a proxy for persistent anti-social behavior/disposition). The state officially removes their right to live within the community through capital punishment, exile, or atimia (deprivation of rights).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Enslavement of the ignorant",
+      "group": "The ignorant",
+      "resource": "Freedom",
+      "directionality": "LESS",
+      "verbatim": [
+        "Str. And those in turn who wallow in ignorance and craven humility it places under the yoke of slavery. Y. Soc. Quite right."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text identifies a group defined by a lack of education and 'craven humility' and notes that the statecraft logic (and 'what people say') justifies their reduction to the status of slaves, thereby losing their resource of freedom.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Education",
+        "Nobility"
+      ],
+      "rule": "Noble access to magistracies",
+      "group": "The noble and educated",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "But we may say that in those only who were of noble nature from their birth and have been nurtured as befits such natures it is implanted by the laws, and for them this is the medicine prescribed by science... and then entrusting to them in common for ever the offices of the state."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text establishes that only those with a specific 'noble nature' and 'education' (nurture) are granted the divine bond of true opinion which qualifies them to hold the 'offices of the state' (magistracies). While Plato is discussing an ideal statesman's art, he is framing the eligibility for political power based on fixed criteria of birth and training.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Marriage ties based on wealth",
+      "group": "The wealthy",
+      "resource": "Right to form marriage alliances",
+      "directionality": "MORE",
+      "verbatim": [
+        "The pursuit of wealth or power in connection with matrimony—but why should anyone ever take the trouble to blame it, as though it were worth arguing about?... The fact is, they act on no right theory at all; they seek their ease for the moment; welcoming gladly those who are like themselves."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Stranger describes the contemporary practice of the wealthy and powerful forming marriage bonds based on wealth and influence rather than character traits. This identifies a social convention where access to specific marriage alliances is dictated by the wealth criterion.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "State inclusion for all inhabitants",
+      "group": "Slaves",
+      "resource": "Protection under state rule",
+      "directionality": "MORE",
+      "verbatim": [
+        "the kingly science has drawn them together by friendship and community of sentiment into a common life, and having perfected the most glorious and the best of all textures, clothes with it all the inhabitants of the state, both slaves and freemen, holds them together by this fabric, and omitting nothing which ought to belong to a happy state, rules and watches over them."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text describes the end goal of the statesman's art as encompassing all inhabitants, explicitly including slaves alongside freemen under the governance and protection of the state's 'fabric'. This acknowledges that even slaves are considered part of the 'all inhabitants' subject to the ruler's care.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0059.tlg008.perseus-eng2",
+  "_perseus_author": "Plato",
+  "_perseus_title": "Statesman",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 11,
+  "_input_tokens": 70002,
+  "_output_tokens": 8138,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

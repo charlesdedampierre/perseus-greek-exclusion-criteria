@@ -1,0 +1,61 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Homicide suspect exclusion from sacred sites",
+      "group": "Homicide suspects",
+      "resource": "Right to enter sacred or public places",
+      "directionality": "LESS",
+      "verbatim": [
+        "I ask you to pity that dead boy’s childless parents: to show your sorrow for his own untimely end: to forbid his slayer to set foot where he is forbidden to set foot by the law: and to refuse to allow him to defile the whole city."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to a law (nomos) that prohibits individuals accused of killing from entering specific areas (temples, markets, or the city at large) due to the religious 'defilement' (miasma) they carry. This is a general legal restriction in Athens for those charged with homicide.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Legal punishment for accidental homicide",
+      "group": "Accidental killers",
+      "resource": "Protection from legal penalties",
+      "directionality": "LESS",
+      "verbatim": [
+        "I maintain that the law is right when it orders the punishment of those who have taken life; not only is it just that he who killed without meaning to kill should suffer punishment which he did not mean to incur; but it would also be an injustice to the victim, whose injury is not lessened by being accidental, were he deprived of vengeance."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The prosecutor cites a general law that requires those who kill accidentally (akousios) to face a penalty (typically exile in Athenian law) to provide satisfaction/vengeance for the victim, establishing that lack of intent does not grant total immunity from punishment.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Legal immunity for self-inflicted harm",
+      "group": "Agents of their own death",
+      "resource": "Protection from homicide prosecution",
+      "directionality": "MORE",
+      "verbatim": [
+        "Since examination proves beyond doubt that the boy was his own slayer, the law absolves us from blame, and condemns him who was guilty."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The defense argues that if the victim is found to be the cause of his own death (by moving into the javelin's path), the law absolves the other party from blame. This reflects the principle that legal responsibility lies with the party whose 'error' (hamartia) caused the event.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0028.tlg003.perseus-eng2",
+  "_perseus_author": "Antiphon",
+  "_perseus_title": "The Second Tetralogy: Prosecution for Accidental Homicide",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 8424,
+  "_output_tokens": 674,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

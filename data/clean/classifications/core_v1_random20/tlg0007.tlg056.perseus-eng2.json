@@ -1,0 +1,46 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation",
+        "Nobility"
+      ],
+      "rule": "Magistrate entitlement to local gifts",
+      "group": "Roman governors",
+      "resource": "Right to retain local gifts",
+      "directionality": "MORE",
+      "verbatim": [
+        "whereas Cicero was sent out as quaestor to Sicily, and as pro-consul to Cilicia and Cappadocia, at a time when the love of wealth was at its greatest height, and when those who were sent out as praetors and governors, feeling that theft was an ignoble thing, resorted to open plundering, so that the taking of property was not thought heinous, but he who did this in moderation was held in high esteem"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a prevailing social norm in the late Roman Republic where provincial governors were effectively expected and allowed to take property and gifts from local populations, provided it was done with a semblance of moderation, contrasting this with Cicero's exceptional refusal.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Minimum age for Roman consulship",
+      "group": "Minors",
+      "resource": "Eligibility for the consulship",
+      "directionality": "LESS",
+      "verbatim": [
+        "Cicero, on the contrary, was reproached in the senate by Laelius for sitting silent when Caesar asked leave to stand for the consulship, which was contrary to law, since he was still a beardless youth."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions a law (lex annalis) that barred individuals deemed too young ('beardless youth') from standing for the consulship, citing Octavian's request as a violation of that existing legal rule.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0007.tlg056.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Comparison of Demosthenes with Cicero",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4987,
+  "_output_tokens": 465,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

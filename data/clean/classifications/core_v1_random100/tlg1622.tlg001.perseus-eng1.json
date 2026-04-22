@@ -1,0 +1,93 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Wives' duty of marital fidelity",
+      "group": "Women",
+      "resource": "Right to associate freely",
+      "directionality": "LESS",
+      "verbatim": [
+        "next teach our wives to remain in the faith given to them, and in love and purity, tenderly loving their husbands in all truth, and loving all others equally in all chastity, and to educate their children in the fear of God."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Polycarp outlines specific behavioral and social restrictions for wives within the Christian community, specifically mandating 'chastity' in their dealings with others and 'purity' in relation to their husbands, establishing a normative rule of restricted social/sexual autonomy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Younger men's subjection to elders",
+      "group": "Younger men",
+      "resource": "Right to self-governance",
+      "directionality": "LESS",
+      "verbatim": [
+        "Likewise also let the younger men be blameless in all things; caring above all for purity, and curbing themselves from all evil; for it is good to be cut off from the lust of the things in the world, because every lust warreth against the Spirit, and neither fornicators nor the effeminate nor sodomites shall inherit the Kingdom of God, nor they who do iniquitous things. Wherefore it is necessary to refrain from all these things, and to be subject to the presbyters and deacons as to God and Christ."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly commands younger men to be 'subject' to the presbyters (elders) and deacons, establishing a hierarchical rule based on age and ecclesiastical office.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Presbyteral duty of mercy",
+      "group": "Presbyters",
+      "resource": "Right to exercise harsh judgment",
+      "directionality": "LESS",
+      "verbatim": [
+        "And let the presbyters also be compassionate, merciful to all, bringing back those that have wandered, caring for all the weak, neglecting neither widow, nor orphan nor poor, but ever providing for that which is good before God and man, refraining from all wrath, respect of persons, unjust judgment, being far from all love of money, not quickly believing evil of any, not hasty in judgment, knowing that we all owe the debt of sin."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author defines the rules of conduct for those holding the office of presbyter, specifically stripping them of the right to act with 'wrath' or 'unjust judgment' while mandating care for the vulnerable.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Deacon blamelessness and service",
+      "group": "Deacons",
+      "resource": "Right to pursue private gain",
+      "directionality": "LESS",
+      "verbatim": [
+        "Likewise must the deacons be blameless; before his righteousness, as the servants of God and Christ and not of man, not slanderers, not double-tongued, not lovers of money, temperate in all things, compassionate, careful, walking according to the truth of the Lord, who was the servant of all."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "As a rule of the community, deacons are explicitly barred from being 'lovers of money' and must prioritize communal service over personal material interests.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Right to communal inclusion",
+      "group": "Heretics",
+      "resource": "Right to be part of the community",
+      "directionality": "LESS",
+      "verbatim": [
+        "For eyeryone who does not confess that Jesus Christ lias come in the flesh is an anti-Christ; and whosoever does not confess the testimony of the Cross is of the devil: and whosoever perverts the oracles of the Lord for his own lusts, and says that there is neither resurrection nor judgment,—this man is the first-born of Satan."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text sets a boundary based on religious confession; those who deviate from the core dogma are labeled as 'anti-Christ' or 'of the devil', which in the context of this letter serves as a rule for their social and ritual exclusion.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg1622.tlg001.perseus-eng1",
+  "_perseus_author": "Polycarp",
+  "_perseus_title": "The Epistle to the Philippians of Saint Polycarp",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5793,
+  "_output_tokens": 1160,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

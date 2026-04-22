@@ -1,0 +1,78 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen eligibility for Council scrutiny",
+      "group": "Citizens",
+      "resource": "Eligibility for the Council",
+      "directionality": "MORE",
+      "verbatim": [
+        "What I say is that only those have the right to sit in Council on our concerns who, besides holding the citizenship, have their hearts set upon it. For to them it makes a great difference whether this city is prosperous or unsuccessful, because they consider themselves obliged to bear their share in her calamities as they also share in her advantages."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that citizenship is a prerequisite for the right to sit on the Council (the Boule) and undergo the scrutiny (dokimasia) process. While the author argues for a moral standard, the underlying legal rule is that the group 'Citizens' holds the resource of political eligibility.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic taxation and patronage requirements",
+      "group": "Metics",
+      "resource": "Protection from alien tax and patronage",
+      "directionality": "LESS",
+      "verbatim": [
+        "For he packed up all his belongings and left the city to live beyond the border, at Oropus, where he paid the aliens’ tax and resided under the protection of a patron, since he preferred the life of an alien among those people to citizenship with us."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the status of an 'alien' (metic) in a Greek city-state (Oropus), noting the specific legal burdens associated with that group: the payment of the metoikion (alien tax) and the requirement of a prostates (patron).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen protection from slavery",
+      "group": "Citizens",
+      "resource": "Protection from enslavement",
+      "directionality": "MORE",
+      "verbatim": [
+        "But surely anyone who has betrayed liberty in the flagrant manner of this man deserves to be faced with a judgement awarding him, not a seat on the Council, but slavery and the heaviest punishment."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author suggests slavery as an extreme, exceptional punishment for a citizen who betrayed the state. This implies that under normal circumstances, the group 'Citizens' possesses the resource of protection from enslavement, which is only forfeit in cases of extreme crimes like treason.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age",
+        "Wealth / Properties"
+      ],
+      "rule": "Exemption from service for the disabled and poor",
+      "group": "The poor or disabled",
+      "resource": "Exemption from military or public service",
+      "directionality": "MORE",
+      "verbatim": [
+        "It is a custom accepted as just among all mankind that in face of the same crimes we should be most incensed with those men who are most able to avoid criminal action, but should be indulgent to the poor or disabled because we regard their offences as involuntary."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a social and legal norm where poverty or physical disability serves as a valid excuse for failing to perform civic duties (like military service) that would otherwise be mandatory for able-bodied, wealthy citizens.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0540.tlg031.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "Against Philon",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6160,
+  "_output_tokens": 877,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

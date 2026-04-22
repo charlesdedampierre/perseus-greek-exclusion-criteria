@@ -1,0 +1,63 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Citizen exclusivity for apobates racing",
+      "group": "Citizens",
+      "resource": "Right to participate in dismounting sports",
+      "directionality": "MORE",
+      "verbatim": [
+        "You, therefore, being well aware that slaves and aliens share in the other sports but that dismounting is open only to citizens and that the best men aspire it, have eagerly applied yourself to this sport. The contestants were called apobates, desultores, i.e. dismounters."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly identifies the sport of 'dismounting' (apobates) as a restricted activity reserved solely for the citizen body, contrasting it with other athletic contests accessible to slaves and metics.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Alien and slave sports participation",
+      "group": "Slaves and Aliens",
+      "resource": "Right to participate in general athletics",
+      "directionality": "MORE",
+      "verbatim": [
+        "You, therefore, being well aware that slaves and aliens share in the other sports but that dismounting is open only to citizens and that the best men aspire it, have eagerly applied yourself to this sport."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms that while certain prestigious sports are restricted, slaves and non-citizens had the recognized right to participate in other types of athletic competitions within the city.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen eligibility for public office",
+      "group": "Citizens",
+      "resource": "Eligibility for political appointments",
+      "directionality": "MORE",
+      "verbatim": [
+        "Neither do I think that it will be in your power to live as chance decrees, but that the City will appoint you to be in charge of some department of her business, and in proportion as your natural gifts are the more conspicuous it will judge you worthy of greater responsibilities and will the sooner desire to make trial of you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes the mechanism of the Athenian state (the City) appointing citizens to administrative departments based on their perceived merit and nature, implying this as an expected path for the citizen-subject.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg061.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "The Erotic Essay",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 10427,
+  "_output_tokens": 630,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

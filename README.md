@@ -205,11 +205,11 @@ sample is annotated with:
   "Generic / abstract (no specific polity)"). May differ from the author's own
   polity.
 - **`rule_time_reference`** — one of:
-    - `contemporary` — within ~100 years of the author's floruit.
-    - `past` — clearly earlier era than the author's time.
-    - `future` — clearly later era (prophecy, eschatology, utopia).
-    - `mixed` — meaningfully invokes multiple eras.
-    - `timeless` — a-temporal / abstract content (logic, geometry, pure
+  - `contemporary` — within ~100 years of the author's floruit.
+  - `past` — clearly earlier era than the author's time.
+  - `future` — clearly later era (prophecy, eschatology, utopia).
+  - `mixed` — meaningfully invokes multiple eras.
+  - `timeless` — a-temporal / abstract content (logic, geometry, pure
       biology).
 - **`rule_polity_reasoning`** / **`rule_time_reasoning`** — short LLM
   rationale (≤250 chars each).
@@ -223,6 +223,7 @@ Inputs per rule: `author`, `impact_year`, `cliopatria_polity`, `description`,
 `resource`, `verbatim`.
 
 Outputs:
+
 - `data/llm_results/rules_polity_time_mapping.json` — cache keyed by `rule_uid`.
 - `data/processed_data/rules_full_dataset.tsv` — exploration-ready flat table:
   one row per rule with rule content + the four new polity / time columns +

@@ -1,0 +1,95 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation",
+        "Citizenship"
+      ],
+      "rule": "Grain purchase limit for dealers",
+      "group": "Resident aliens",
+      "resource": "Right to buy corn in bulk",
+      "directionality": "LESS",
+      "verbatim": [
+        "Tell me, sir, are you a resident alien? Yes. Do you reside as an alien to obey the city’s laws, or to do just as you please? To obey. Must you not, then, expect to be put to death, if you have committed a breach of the laws for which death is the penalty? I must. Then answer me: do you acknowledge that you bought up corn in excess of the fifty measures which the law sets as the limit? I bought it up on an order from the magistrates."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific legal limit (50 measures) on the amount of grain a corn-dealer (who is specifically addressed as a resident alien) can purchase at one time, with the penalty for violation being death.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Maximum profit margin for grain",
+      "group": "Corn-dealers",
+      "resource": "Right to set market prices",
+      "directionality": "LESS",
+      "verbatim": [
+        "Anytus stated that in the previous winter, as the corn was dear, and these men were outbidding each other and fighting amongst themselves, he had advised them to cease their competition, judging it beneficial to you, their customers, that they should purchase at as reasonable a price as possible: for they were bound, in selling, to add no more than an obol to the price."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a price control regulation where grain retailers were legally restricted to adding no more than one obol profit per measure to the purchase price.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Prohibition of grain hoarding",
+      "group": "Corn-dealers",
+      "resource": "Right to hold inventory",
+      "directionality": "LESS",
+      "verbatim": [
+        "Now, that he did not order them to buy up the corn for holding in store, but only advised them not to buy against each other, I will produce to you Anytus himself as witness. ... If they were doing this for your benefit, they ought to have been found selling it at the same price for a number of days, until the stock that they had bought up was exhausted."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that buying corn to 'hold in store' (stockpiling to manipulate prices) was an illegal act, contrasting it with selling stock immediately at a fixed profit.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Occupation"
+      ],
+      "rule": "Special oversight for grain trade",
+      "group": "Corn-controllers",
+      "resource": "Protection from capital punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "while for the sale of all other commodities you have appointed the market-clerks as controllers, for this trade alone you elect special corn-controllers by lot; and often you have been known to inflict the extreme penalty on those officials, who were citizens, for having failed to defeat the villainy of these men."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific class of citizen-officials (corn-controllers) who are uniquely vulnerable to the death penalty if they fail to manage the grain market effectively, a stricter standard than for other market controllers.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "Wealthy individuals",
+      "resource": "Exemption from special levies",
+      "directionality": "LESS",
+      "verbatim": [
+        "And it seems to me a strange thing that, when they have to contribute to a special levy of which everyone is to have knowledge, they refuse, making poverty their pretext"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the 'special levy' (eisphora), a standard Athenian rule where wealthy individuals are required to contribute material funds to the state.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0540.tlg022.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "Against The Corn-Dealers",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5067,
+  "_output_tokens": 1114,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

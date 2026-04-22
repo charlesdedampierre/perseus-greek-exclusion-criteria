@@ -1,0 +1,256 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Guest substitution by the poor",
+      "group": "The poor",
+      "resource": "Access to elite social dining",
+      "directionality": "MORE",
+      "verbatim": [
+        "“Micyllus,” said he, “I am giving a birthday party for my daughter to-day, and have invited a great many of my friends: but as one of them is ill, they say, and can’t dine with us, you must take a bath and come in his place, unless, to be sure, the man I invited says that he will come himself, for just now his coming is doubtful.”"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Roman/Greek social dynamics of the period, poor dependents (like Micyllus the cobbler) could be called upon to fill empty seats at a rich man's table when a social peer was unavailable, granting them temporary access to luxury resources (food/socializing).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Philosopher's obligation to attend social functions",
+      "group": "Education",
+      "resource": "Exemption from social duty due to illness",
+      "directionality": "LESS",
+      "verbatim": [
+        "“Duty,” he said, “must not be shirked, especially by a philosopher, though a thousand illnesses stand in his way; Eucrates would think he had been slighted by me.”"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text describes a social norm where professional philosophers felt a heightened obligation to maintain social ties with wealthy patrons (Eucrates) regardless of physical health, viewing attendance as a non-negotiable professional duty.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Patronage provision for absent guests",
+      "group": "Education",
+      "resource": "Right to home delivery of resources",
+      "directionality": "MORE",
+      "verbatim": [
+        "“Professor, it was very good of you to come to us, but you would not have fared any the worse if you had stayed away, for everything from first to last would have been sent you.”"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Eucrates highlights a customary rule of high-status patronage where a respected professional (a philosopher) who is unable to attend a feast due to illness would still be sent his portion of the meal and gifts by the host.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Wealth / Properties"
+      ],
+      "rule": "Guest displacement for elite space",
+      "group": "Wealthy",
+      "resource": "Priority of dining space",
+      "directionality": "MORE",
+      "verbatim": [
+        "You come in too, Micyllus, and dine with us. Tl make my son eat with his mother in the women’s quarters so that you may have room."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Roman/Greek social norms of the era, the master of the house (Eucrates) had the authority to displace even his own family members to accommodate guests, prioritized by his wealth and status as host.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female seclusion in women's quarters",
+      "group": "Women",
+      "resource": "Right to dine in public quarters",
+      "directionality": "LESS",
+      "verbatim": [
+        "Tl make my son eat with his mother in the women’s quarters so that you may have room."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms the existence of 'women's quarters' (gynaikonitis) where women were expected to eat separately from male dinner parties, highlighting a restriction on their access to main social spaces.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Succession through testamentary heirship",
+      "group": "Citizens",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "I thought that Eucrates himself had somehow become childless and lay dying, and that, after sending for me and making a will in which I was heir to everything, he lingered a while and then died. On entering into possession of the property, I dipped up the gold and the silver in great bowlfuls"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dream narrative reflects the actual legal mechanism of the time where a childless person could designate an heir via a will to transfer their entire estate.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealth-based social status and naming",
+      "group": "The poor",
+      "resource": "Right to respectful address",
+      "directionality": "LESS",
+      "verbatim": [
+        "Recently, for example, I saw him coming toward me and said, “Good-day, Simon’; but he replicd: “Tell that pauper not to abbreviate my name; it is not Simon but Simonides.”"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text illustrates a social convention where the poor are denied the right to address the newly wealthy as equals, and the wealthy adopt more 'noble' versions of their names to command respect.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Lineage"
+      ],
+      "rule": "Intestate succession by kin",
+      "group": "Lineage",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "He had a cousin who was enormously rich, named Drimylus. This fellow while he was alive never gave a penny to Simon... But since his death the other day all his property is Simon’s by law"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes the legal rule of intestate succession, whereby a relative (the cousin Simon) automatically inherits the property if the owner dies without a direct heir.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "group": "The rich",
+      "resource": "Exemption from special taxation",
+      "directionality": "LESS",
+      "rule": "Special tax burden for the wealthy",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "Moreover if it is necessary to pay a special tax, they alone are summoned to do so, and if it is necessary to take the field, they risk their lives in the van as commanders of horse or foot, whereas you, with but a wicker shield, have little to carry and nothing to impede your flight, and are ready to celebrate the victory when the general offers sacrifice after winning the battle."
+      ],
+      "model_reasoning": "The text describes the specific obligation (leitourgia) of the wealthy class in Greek/Roman society to fund special state needs, contrasting it with the poor who do not have this financial burden.",
+      "model_confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "group": "The rich",
+      "resource": "Protection from hazardous military command",
+      "directionality": "LESS",
+      "rule": "High-risk military leadership for wealthy",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "Moreover if it is necessary to pay a special tax, they alone are summoned to do so, and if it is necessary to take the field, they risk their lives in the van as commanders of horse or foot, whereas you, with but a wicker shield, have little to carry and nothing to impede your flight"
+      ],
+      "model_reasoning": "Wealthy citizens are grouped into specific military roles (cavalry and commanders) that involve higher risk and responsibility compared to the light-armed poor flee more easily.",
+      "model_confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "group": "The poor",
+      "resource": "Right to vote in the assembly",
+      "directionality": "MORE",
+      "rule": "Citizen assembly voting rights",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "In time of peace, on the other hand, being one of the voters, you go to the assembly and lord it over the rich while they quake and cringe and seck your good will with presents."
+      ],
+      "model_reasoning": "The Cock identifies Micyllus (a poor cobbler) as a voter in the assembly, exercising political power over the wealthy despite his lack of property.",
+      "model_confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "group": "The rich",
+      "resource": "Right to address the assembly",
+      "directionality": "LESS",
+      "rule": "Silencing of the wealthy in assembly",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "Besides, it is they who toil that you may have baths and shows and everything else to your heart’s content, while you investigate and scrutinize them harshly like a master, sometimes without even letting them say a word for themselves; and if you choose you shower them generously with stones or confiscate their properties."
+      ],
+      "model_reasoning": "The passage describes the assembly's power to silence wealthy speakers and summarily punish them or seize their property via mass action/votes.",
+      "model_confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "group": "The rich",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "rule": "Property confiscation by public vote",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "Besides, it is they who toil that you may have baths and shows and everything else to your heart’s content, while you investigate and scrutinize them harshly like a master, sometimes without even letting them say a word for themselves; and if you choose you shower them generously with stones or confiscate their properties."
+      ],
+      "model_reasoning": "The text refers to the legal or quasi-legal practice of the assembly (composed of the general citizenry) voting to confiscate the assets of the wealthy.",
+      "model_confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "group": "The rich",
+      "resource": "Access to public amenities for free",
+      "directionality": "LESS",
+      "rule": "Wealthy funding of public services",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "Besides, it is they who toil that you may have baths and shows and everything else to your heart’s content, while you investigate and scrutinize them harshly like a master"
+      ],
+      "model_reasoning": "This refers to 'liturgies' where the wealthy were legally required to pay for public baths, theatrical shows, and other civic services utilized by the general public.",
+      "model_confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave retainment of personal earnings",
+      "group": "Slaves",
+      "resource": "Right to retain own earnings",
+      "directionality": "LESS",
+      "verbatim": [
+        "I think Sosylus the groom saw me hiding them under the manger. At any rate he is all for hanging about the stable, though he is not particularly attentive to business otherwise or fond of work. I have probably been robbed of much more than that, or else where did Tibius get the money for the big slice of salt fish they said he treated himself to yesterday or the earring they said he bought for his wife at a cost of five whole drachmas? It’s my money these fellows are squandering, worse luck!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker Simon (a wealthy man) assumes that any money his slaves (Sosylus and Tibius) spend must be money stolen from him. This reflects a social and legal norm where slaves had no right to their own earnings or property; anything they possessed was legally the property of the master.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0062.tlg019.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "The Dream, or the Cock",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 4,
+  "_input_tokens": 22854,
+  "_output_tokens": 3155,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,110 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Egyptian priest exemption from military",
+      "group": "Priests",
+      "resource": "Exemption from the hazards of fighting",
+      "directionality": "MORE",
+      "verbatim": [
+        "Furthermore, the cultivation of practical wisdom may also reasonably be attributed to Busiris. For example, he saw to it that from the revenues of the sacrifices the priests should acquire affluence, but self-control through the purifications prescribed by the laws, and leisure by exemption from the hazards of fighting and from all work."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates describes the Egyptian caste system where priests are specifically exempted from military service and manual labor to focus on religious and intellectual pursuits.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Egyptian priest right to affluence",
+      "group": "Priests",
+      "resource": "Right to acquire affluence",
+      "directionality": "MORE",
+      "verbatim": [
+        "For example, he saw to it that from the revenues of the sacrifices the priests should acquire affluence, but self-control through the purifications prescribed by the laws, and leisure by exemption from the hazards of fighting and from all work."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule where the economic surplus from religious sacrifices is legally designated for the upkeep and wealth of the priestly class.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Citizenship"
+      ],
+      "rule": "Spartan restriction on foreign travel",
+      "group": "Citizens fit for military service",
+      "resource": "Right to leave the country",
+      "directionality": "LESS",
+      "verbatim": [
+        "For instance, the provision that no citizen fit for military service could leave the country without official authorization, the meals taken in common, and the training of their bodies; furthermore, the fact that lacking none of the necessities of life, they do not neglect the edicts of the State, and that none engage in any other crafts, but that all devote themselves to arms and warfare, all these practices they have taken from Egypt"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates references the well-known Spartan (Lacedaemonian) legal restriction (xenelasia/travel control) where soldiers could not travel abroad without state permission.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Egyptian worker property protection",
+      "group": "Workers",
+      "resource": "Protection of property",
+      "directionality": "MORE",
+      "verbatim": [
+        "but if we should wish to adopt the laws of the Egyptians which prescribe that some must work and that the rest must protect the property of the workers, we should all possess our own goods and pass our days in happiness."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a specific legal division of labor in Egypt where the military/protector class is legally bound to protect the property and earnings of the laboring class.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Hereditary occupation requirement",
+      "group": "Artisans and soldiers",
+      "resource": "Right to change occupations",
+      "directionality": "LESS",
+      "verbatim": [
+        "Including in all classes the right numbers for the best administration of the commonwealth, he gave orders that the same individuals should always engage in the same pursuits, because he knew that those who continually change their occupations never achieve proficiency in even a single one of their tasks"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the Egyptian caste/guild system where individuals are legally mandated to remain in the same profession for life to ensure proficiency.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Egyptian seniority in governance",
+      "group": "Older men",
+      "resource": "Political power over important matters",
+      "directionality": "MORE",
+      "verbatim": [
+        "The older men Busiris appointed to have charge of the most important matters, but the younger he persuaded to forgo all pleasures and devote themselves to the study of the stars, to arithmetic, and to geometry"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The rule establishes that political leadership and management of 'important matters' is reserved for individuals based on their age (seniority).",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0010.tlg010.perseus-eng2",
+  "_perseus_author": "Isocrates",
+  "_perseus_title": "Busiris",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 8971,
+  "_output_tokens": 1167,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

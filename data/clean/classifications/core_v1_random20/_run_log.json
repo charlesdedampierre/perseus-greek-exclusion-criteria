@@ -1,0 +1,161 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "core_prompt_V1.md",
+  "sample": "final_dataset_for_criteria_random20.tsv",
+  "parallelism": "chunk-level",
+  "max_parallel": 10,
+  "n_works": 20,
+  "ok": 20,
+  "errors": 0,
+  "chunk_errors": 0,
+  "rules_total": 236,
+  "input_tokens": 443141,
+  "output_tokens": 52452,
+  "price_in_per_1M": 0.5,
+  "price_out_per_1M": 3.0,
+  "cost_usd": 0.3789,
+  "elapsed_sec": 7.6,
+  "results": [
+    {
+      "file_id": "tlg0540.tlg025.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 9489,
+      "output_tokens": 1821,
+      "n_rules": 8
+    },
+    {
+      "file_id": "tlg0540.tlg031.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 6160,
+      "output_tokens": 877,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0062.tlg019.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 22854,
+      "output_tokens": 3155,
+      "n_rules": 15
+    },
+    {
+      "file_id": "tlg0007.tlg121.perseus-eng3",
+      "status": "cached",
+      "input_tokens": 28889,
+      "output_tokens": 1614,
+      "n_rules": 7
+    },
+    {
+      "file_id": "tlg0014.tlg022.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 12851,
+      "output_tokens": 1198,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0028.tlg005.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 17309,
+      "output_tokens": 1534,
+      "n_rules": 7
+    },
+    {
+      "file_id": "tlg0059.tlg005.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 66832,
+      "output_tokens": 4392,
+      "n_rules": 18
+    },
+    {
+      "file_id": "tlg0017.tlg006.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 13376,
+      "output_tokens": 2454,
+      "n_rules": 12
+    },
+    {
+      "file_id": "tlg0007.tlg082a.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 11202,
+      "output_tokens": 2859,
+      "n_rules": 15
+    },
+    {
+      "file_id": "tlg0007.tlg063.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 46015,
+      "output_tokens": 6500,
+      "n_rules": 30
+    },
+    {
+      "file_id": "tlg0014.tlg035.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 10677,
+      "output_tokens": 1134,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0062.tlg041.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 41759,
+      "output_tokens": 5909,
+      "n_rules": 27
+    },
+    {
+      "file_id": "tlg0014.tlg049.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 11111,
+      "output_tokens": 1189,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0007.tlg056.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 4987,
+      "output_tokens": 465,
+      "n_rules": 2
+    },
+    {
+      "file_id": "tlg0010.tlg029.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 4421,
+      "output_tokens": 500,
+      "n_rules": 2
+    },
+    {
+      "file_id": "tlg0007.tlg059.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 4524,
+      "output_tokens": 439,
+      "n_rules": 2
+    },
+    {
+      "file_id": "tlg0540.tlg019.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 12170,
+      "output_tokens": 2478,
+      "n_rules": 10
+    },
+    {
+      "file_id": "tlg0086.tlg034.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 54172,
+      "output_tokens": 4950,
+      "n_rules": 21
+    },
+    {
+      "file_id": "tlg0062.tlg040.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 16644,
+      "output_tokens": 1127,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0027.tlg001.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 8,
+      "input_tokens": 47699,
+      "output_tokens": 7857,
+      "n_rules": 36
+    }
+  ]
+}

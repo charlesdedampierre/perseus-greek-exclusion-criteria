@@ -1,0 +1,113 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Woman's right to influence political decisions",
+      "group": "Women",
+      "resource": "Influence over others",
+      "directionality": "MORE",
+      "verbatim": [
+        "Gorgo, daughter of king Cleomenes, when Aristagoras of Miletus was urging her father to enter upon the war against the Persian king in behalf of the Ionians, promising a vast sum of money, and, in answer to Cleomenes’ objections, making the amount larger and larger, said, Father, the miserable foreigner will be your ruin if you don’t get him out of the house pretty soon!"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text depicts a Spartan woman (the king's daughter) actively intervening in a high-level diplomatic and military negotiation. Her father's apparent compliance or at least the seriousness with which her advice is treated reflects a norm where Spartan women of high status could exercise political influence within the domestic sphere over male leaders.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Female domestic authority over husbands",
+      "group": "Women",
+      "resource": "Influence over others",
+      "directionality": "MORE",
+      "verbatim": [
+        "Being asked by a woman from Attica, Why is it that you Spartan women are the only women that lord it over your men, she said, Because we are the only women that are mothers of men."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The exchange explicitly contrasts the status of Spartan women with those of other Greek cities (specifically Athens/Attica), acknowledging a recognized social norm ('lording it over your men') where Spartan women exercised significant authority or dominance over their husbands.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Nobility"
+      ],
+      "rule": "King's duty to bear heirs",
+      "group": "Women",
+      "resource": "Right to bear legitimate heirs",
+      "directionality": "MORE",
+      "verbatim": [
+        "As she was encouraging her husband Leonidas, when he was about to set out for Thermopylae, to show himself worthy of Sparta, she asked what she should do; and he said, Marry a good man, and bear good children."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "This instruction from a king to his wife establishes a social rule regarding the continuity of the lineage and the city. It defines the woman's primary duty and right as the production of legitimate citizens/warriors for the state.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Execution of cowards by mothers",
+      "group": "Women",
+      "resource": "Political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "Damatria heard that her son had been a coward and unworthy of her, and when he arrived, she made away with him. This is the epigram Referring to her: Sinner against our laws, Damatrius, slain by his mother, Was of the Spartan youth; she was of Sparta too."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a mother killing her son for cowardice and frames this action as consistent with being 'of Sparta' and enforcing 'our laws'. This indicates a social norm where women were empowered/expected to enforce the city's military code within the family even unto death.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Lineage"
+      ],
+      "rule": "Marital fidelity through male mediation",
+      "group": "Women",
+      "resource": "Right to autonomous sexual choice",
+      "directionality": "LESS",
+      "verbatim": [
+        "A man sent to a Spartan woman to ask if she were inclined to look with favour upon seduction; she replied, When I was a child I learned to obey my father, and made that my practice. Then when I became a married woman, my husband took that place. So if the man’s proposal is honourable, let him lay the matter before my husband first."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The rule describes women's submission to male guardians (father, then husband) regarding any negotiations for their attention or favor. It denies women the resource of autonomous personal choice in romantic/sexual matters, placing it in the hands of the male head of household.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave suicide to prevent degradation",
+      "group": "Slaves",
+      "resource": "Protection from degrading treatment",
+      "directionality": "LESS",
+      "verbatim": [
+        "Another who was being sold as a slave, when the crier inquired of her what she knew how to do, said, To be free. And when the purchaser ordered her to do something not fitting for a free woman, she said, You will be sorry that your meanness has cost you such a possession, and committed suicide."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "While the woman asserts she knows how to be 'free,' the factual condition reported is that as a slave she lacks the legal protection from being ordered to perform degrading tasks ('not fitting for a free woman'), leading her to choose death over the loss of that resource.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0007.tlg082b.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Sayings of Spartan Women",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6241,
+  "_output_tokens": 1373,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

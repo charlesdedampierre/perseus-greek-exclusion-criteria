@@ -1,0 +1,164 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Age"
+      ],
+      "rule": "Dowry provision for sisters",
+      "group": "Women",
+      "resource": "Right to receive a dowry",
+      "directionality": "MORE",
+      "verbatim": [
+        "After my father's death we married our elder sister, when she reached a suitable age, to Leucolophus, giving her a dowry of twenty minae. . . Four or five years later, when our younger sister was almost of marriageable age, Menecles lost his first wife. . . we gave her to him in marriage—not dowerless, as my opponent asserts on every possible occasion, but with the same portion as we gave to our elder sister."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker describes the standard social and legal expectation in Athens that brothers or guardians provide dowries for sisters upon marriage to ensure their settlement and status.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Dowry return upon divorce",
+      "group": "Women",
+      "resource": "Right to retain dowry upon divorce",
+      "directionality": "MORE",
+      "verbatim": [
+        "He, therefore, begged us to do him the favor of marrying her to someone else with his consent. . . So we gave her in marriage to Elius of Sphettus, and Menecles handed over her dowry to him—for he had become part-lessee of the estate of the children of Nicias—and he gave her the garments which she had brought with her to his house and the jewelry which there was."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "When Menecles dissolves the marriage so the woman can remarry, he is legally required to (and does) return the dowry and personal effects to her new husband/guardian.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom",
+        "Wealth / Properties"
+      ],
+      "rule": "Citizen right of adoption",
+      "group": "Citizens",
+      "resource": "Right to adopt a son",
+      "directionality": "MORE",
+      "verbatim": [
+        "So please read me the law which ordains that a man can dispose as he likes of his own property, if he does not possess male issue of his own. The law-giver, gentlemen, legislated thus, because he saw that for childless persons the only refuge for their solitary condition, and the only possible comfort in life, lay in the possibility of adopting whomsoever they wished."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Athenian law explicitly permits childless male citizens to adopt an heir to preserve their household (oikos) and manage their property.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Health",
+        "Gender"
+      ],
+      "rule": "Competence requirements for adoption",
+      "group": "Citizens",
+      "resource": "Right to adopt a son",
+      "directionality": "LESS",
+      "verbatim": [
+        "no one could ever dare to say that Menecles adopted me in a moment of insanity or under the influence of a woman. . . when he was sound in body and mind, and fully aware of what he was doing, he adopted me and introduced me to his fellow-wardsmen."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law (as contextually applied in court) invalidates adoptions made while the adopter is of unsound mind (insanity) or acting under the undue influence of a woman.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Adopted son registration",
+      "group": "Citizens",
+      "resource": "Right to religious and civic enrollment",
+      "directionality": "MORE",
+      "verbatim": [
+        "he adopted me and introduced me to his fellow-wardsmen in the presence of my opponents and enrolled me among the demesmen and the members of his confraternity."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Legal adoption requires formal introduction and enrollment in the adopter's phratry (wardsmen) and deme to be valid and recognized by the state.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Childless citizen right of adoption",
+      "group": "Citizens",
+      "resource": "Right to adopt a son",
+      "directionality": "MORE",
+      "verbatim": [
+        "Further, I placed before you the laws which permit those who are childless to adopt sons. In addition to this I am shown to have tended him in his lifetime and to have buried him when he died. My opponent wishes now to deprive me of my father's estate, whether it be large or small, and to render the deceased childless and nameless, so that there may be no one to honor in his place the family cults and perform for him the annual rites"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker explicitly references 'the laws which permit those who are childless to adopt sons.' This indicates a formal legal right granted to citizen householders to ensure the continuity of their line and the performance of religious rites.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Adopted son inheritance rights",
+      "group": "Adopted sons",
+      "resource": "Right to inherit property",
+      "directionality": "MORE",
+      "verbatim": [
+        "I have shown you that, in the first place, I was adopted by Menecles with the strictest possible legality, and that the form of adoption was not merely verbal or by will but by very act and deed... My opponent wishes now to deprive me of my father's estate, whether it be large or small, and to render the deceased childless and nameless."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker argues that his legal adoption entitles him to be the 'rightful heir' and possess the 'estate.' The challenge by the opponent proves that the rule of law generally protects the inheritance rights of legally adopted sons against biological kinsmen.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "rule": "Citizen duty of gymnasiarchy",
+      "group": "Wealthy citizens",
+      "resource": "Eligibility for the gymnasiarchy",
+      "directionality": "MORE",
+      "verbatim": [
+        "I consider it terrible and disgraceful that, when Menecles possessed property, I accepted adoption as his son and out of his property, before the land was sold, acted as gymnasiarch in his deme and won credit as his son, and served in his tribe and deme on all the campaigns which took place during that period"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the role of the gymnasiarch (a liturgy or public service) as a function performed by the son of a property owner within his deme. It signifies the right/duty of wealthy citizens to hold specific local offices and gain 'credit' or prestige.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Adopted son tribal enrollment",
+      "group": "Adopted sons",
+      "resource": "Right to serve in tribe and deme",
+      "directionality": "MORE",
+      "verbatim": [
+        "I accepted adoption as his son and out of his property... and served in his tribe and deme on all the campaigns which took place during that period; and, now that he is dead, if I shall betray him and go off leaving his house desolate, would it not seem a strange and ridiculous proceeding"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Upon adoption, the individual is transferred from his original kinship group to that of the adopter. This gives him the right (and obligation) to represent that specific deme and tribe in military and civic capacities.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0017.tlg002.perseus-eng2",
+  "_perseus_author": "Isaeus",
+  "_perseus_title": "On the Estate of Menecles",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 2,
+  "_input_tokens": 10689,
+  "_output_tokens": 2039,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

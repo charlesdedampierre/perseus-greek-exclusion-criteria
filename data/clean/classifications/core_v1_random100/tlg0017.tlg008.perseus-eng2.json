@@ -1,0 +1,147 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Gender",
+        "Lineage"
+      ],
+      "rule": "Male precedence in inheritance",
+      "group": "Male descendants",
+      "resource": "Precedence in estate claims",
+      "directionality": "MORE",
+      "verbatim": [
+        "the nephew, the son of a brother, ought to have preference over a daughter's issue under the law which ordains that the descendants of males have precedence over those of females."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly cites a specific law ('the law which ordains...') governing Athenian inheritance, establishing that descent through a male line grants a stronger legal claim to an estate than descent through a female line.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender",
+        "Lineage"
+      ],
+      "rule": "Legitimate daughter's marriage dowry",
+      "group": "Women",
+      "resource": "Right to a marriage dowry",
+      "directionality": "MORE",
+      "verbatim": [
+        "he gave her in marriage, when she reached the proper age, to Nausimenes of Cholargus, giving her a dowry of twenty-five minae including raiment and jewelry.",
+        "and gave her in a second marriage to my father with a dowry of one thousand drachmae."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker uses the provision of a dowry on two separate occasions as proof of the woman's status as a legitimate daughter, indicating that receiving a dowry was a standard right/resource for legitimate female citizens entering marriage.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from torture during legal proceedings",
+      "directionality": "LESS",
+      "verbatim": [
+        "Wishing, therefore, in addition to the witnesses which I already had, to obtain proof of these facts by evidence given under torture—in order that the veracity of my witnesses might be tested before, and not after, they gave their evidence... I demanded that our opponents should surrender the male and female slaves to be put to the question"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the standard Athenian legal procedure (basanos) where slaves could not give evidence as free witnesses but were instead subjected to physical torture to 'test' the facts of a case.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Female exclusion from the Dionysia",
+      "group": "Women",
+      "resource": "Access to public spectacles",
+      "directionality": "LESS",
+      "verbatim": [
+        "And not only were we invited to such rites but he also always took us into the country for the Dionysia, and we always went with him to public spectacles and sat at his side, and we went to his house to keep all the festivals"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the context of the speaker proving his legitimacy as a male descendant, he emphasizes that the grandfather took the grandsons to public spectacles like the Dionysia; the absence of the mother/women in these public civic-religious spaces implies their exclusion from such active public participation.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Citizenship"
+      ],
+      "rule": "Wives' presidency at the Thesmophoria",
+      "group": "Women",
+      "resource": "Right to preside over religious festivals",
+      "directionality": "MORE",
+      "verbatim": [
+        "Also the wives of the demesmen afterwards chose our mother, together with the wife of Diocles of Pithus, to preside at the Thesmophoria and to carry out the ceremonies jointly with her."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific religious role reserved for the legitimate wives of citizens (demesmen), allowing them to manage and preside over the Thesmophoria festival.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Lineal descendant priority in inheritance",
+      "group": "Lineal descendants",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "I suppose that you admit in principle as a self-evident fact that those who are descended from the same stock as Ciron are not nearer in right of succession than those who are descended from him. (How, indeed, could they be, since the former are called collateral kinsmen, the latter lineal descendants of the deceased?)"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker cites the Athenian legal principle that direct descendants (children and grandchildren) have priority over collateral relatives (brothers or nephews) in matters of inheritance.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Obligation to support ancestors",
+      "group": "Lineal descendants",
+      "resource": "Freedom from compulsory support of ancestors",
+      "directionality": "LESS",
+      "verbatim": [
+        "For the law enjoins us to support our parents, meaning by “parents” father, mother, grandfather, and grandmother, and their father and mother, if they are still alive; for they are the source of the family, and their property is transmitted to their descendants, and so the latter are bound to support them even if they have nothing to bequeath to them."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a legal obligation (the law on neglect of parents) that requires descendants to provide for their living ancestors, regardless of whether there is an inheritance.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizenship requirement for maternal lineage",
+      "group": "Children of non-citizen mothers",
+      "resource": "Right to civic rights",
+      "directionality": "LESS",
+      "verbatim": [
+        "For if you are misled into the belief that our mother was not an Athenian citizen, neither are we citizens; for we were born after the archonship of Eucleides. The children of mothers who were not citizens, born after 403 B.C., did not enjoy civic rights."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Following the archonship of Eucleides (403 BCE), Athenian law required both parents to be citizens for the children to possess civic rights; the speaker notes that if their mother's status is denied, they lose their citizenship.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0017.tlg008.perseus-eng2",
+  "_perseus_author": "Isaeus",
+  "_perseus_title": "On The Estate of Ciron",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 2,
+  "_input_tokens": 11853,
+  "_output_tokens": 1928,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

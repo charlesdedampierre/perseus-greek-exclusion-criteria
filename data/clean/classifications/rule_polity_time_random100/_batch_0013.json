@@ -1,0 +1,191 @@
+{
+  "batch_idx": 13,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0007.tlg088.perseus-eng3::3",
+    "tlg0007.tlg093.perseus-eng3::0",
+    "tlg0007.tlg093.perseus-eng3::1",
+    "tlg0007.tlg093.perseus-eng3::2",
+    "tlg0007.tlg093.perseus-eng3::3",
+    "tlg0007.tlg105.perseus-eng2::0",
+    "tlg0007.tlg105.perseus-eng2::1",
+    "tlg0007.tlg109.perseus-eng2::0",
+    "tlg0007.tlg109.perseus-eng2::1",
+    "tlg0007.tlg109.perseus-eng2::2",
+    "tlg0007.tlg109.perseus-eng2::3",
+    "tlg0007.tlg109.perseus-eng2::4",
+    "tlg0007.tlg111.perseus-eng2::0",
+    "tlg0007.tlg111.perseus-eng2::1",
+    "tlg0007.tlg122.perseus-eng3::0",
+    "tlg0007.tlg122.perseus-eng3::1",
+    "tlg0007.tlg122.perseus-eng3::2",
+    "tlg0007.tlg126.perseus-eng3::0",
+    "tlg0007.tlg126.perseus-eng3::1",
+    "tlg0007.tlg126.perseus-eng3::2"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Plutarch describes Athenian state policy during the 4th-century BCE military campaigns of Timotheus and Chabrias.",
+      "rule_date": -376,
+      "rule_time_reasoning": "The mention of Chabrias at Naxos refers to the Athenian naval victory in -376, within the work's past-referring span (-490 to -322).",
+      "rule_date_type": "specific_event"
+    },
+    {
+      "i": 1,
+      "rule_polity": "Classical Greek poleis",
+      "rule_polity_reasoning": "The anecdote involves the philosopher Diogenes the Cynic and reflects pedagogical norms in classical Greek city-states.",
+      "rule_date": -375,
+      "rule_time_reasoning": "Diogenes the Cynic flourished in the mid-4th century BCE; -375 is a representative date for his career and the work's span (-450 to -300).",
+      "rule_date_type": "midpoint"
+    },
+    {
+      "i": 2,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule cites Aristophanes, an Athenian comic playwright, regarding social decorum and participation in the Athenian city and household.",
+      "rule_date": -425,
+      "rule_time_reasoning": "Dated to the height of Aristophanes' career in the late 5th century BCE, falling within the work's historical window.",
+      "rule_date_type": "representative"
+    },
+    {
+      "i": 3,
+      "rule_polity": "Scythia",
+      "rule_polity_reasoning": "The verbatim explicitly identifies this as a practice of the Scythians, as recorded by Herodotus.",
+      "rule_date": -440,
+      "rule_time_reasoning": "Plutarch cites Herodotus (fl. -440), who recorded Scythian customs during the 5th century BCE.",
+      "rule_date_type": "source_floruit"
+    },
+    {
+      "i": 4,
+      "rule_polity": "Classical Greek poleis",
+      "rule_polity_reasoning": "The text discusses the requirements for holding a magistracy in a Greek commonwealth, using classical educational standards.",
+      "rule_date": -375,
+      "rule_time_reasoning": "Midpoint of the work's specified past-referring time range (-450 to -300) for pedagogical debates.",
+      "rule_date_type": "midpoint"
+    },
+    {
+      "i": 5,
+      "rule_polity": "Achaemenid Empire",
+      "rule_polity_reasoning": "The rule describes a religious obligation of the Persian Magi, a specific priestly caste in the Persian Empire.",
+      "rule_date": -400,
+      "rule_time_reasoning": "The practice of the Magi is a long-standing feature of the Achaemenid Empire, dated here to the midpoint of the work's active historical span.",
+      "rule_date_type": "representative"
+    },
+    {
+      "i": 6,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule describes the social ostracism of the accusers of Socrates in Athens immediately following his trial.",
+      "rule_date": -399,
+      "rule_time_reasoning": "Socrates was executed in -399 BCE; the subsequent persecution of his accusers occurred in the following months.",
+      "rule_date_type": "specific_event"
+    },
+    {
+      "i": 7,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The speaker is an Athenian describing the political suspicion he faces from his fellow citizens for his Boeotian interests.",
+      "rule_date": -379,
+      "rule_time_reasoning": "The dialogue is set in -379 BCE during the liberation of Thebes from Spartan control.",
+      "rule_date_type": "setting"
+    },
+    {
+      "i": 8,
+      "rule_polity": "Classical Thebes",
+      "rule_polity_reasoning": "The rule concerns a specific religious secret and military office (captains of the horse) within the city of Thebes.",
+      "rule_date": -379,
+      "rule_time_reasoning": "The dialogue is set in the year -379 BCE, documenting contemporary Theban institutional practices.",
+      "rule_date_type": "setting"
+    },
+    {
+      "i": 9,
+      "rule_polity": "Classical Thebes",
+      "rule_polity_reasoning": "The text explicitly mentions the ceremonial arms carried by the local 'governors' in Thebes.",
+      "rule_date": -379,
+      "rule_time_reasoning": "The dialogue is set in -379 BCE, and the verbatim describes what governors 'always' do in that context.",
+      "rule_date_type": "setting"
+    },
+    {
+      "i": 10,
+      "rule_polity": "Classical Thebes",
+      "rule_polity_reasoning": "The text refers to 'Boeotian strictness' regarding women's presence in public, a local norm of Thebes/Boeotia.",
+      "rule_date": -379,
+      "rule_time_reasoning": "The dialogue is set in -379 BCE during a specific revolt where these norms were broken.",
+      "rule_date_type": "setting"
+    },
+    {
+      "i": 11,
+      "rule_polity": "Classical Thebes",
+      "rule_polity_reasoning": "Epaminondas discusses the legal rights of Theban citizens regarding trial and execution.",
+      "rule_date": -379,
+      "rule_time_reasoning": "The dialogue is set in -379 BCE, documenting the legal views of Epaminondas and the norms of Thebes.",
+      "rule_date_type": "setting"
+    },
+    {
+      "i": 12,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Plutarch discusses the local customs and laws of his and his wife's specific community (Boeotia) under the Roman Empire.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch is writing a contemporary letter about the death of his own daughter, dated to his floruit around 100 CE.",
+      "rule_date_type": "floruit"
+    },
+    {
+      "i": 13,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The prohibition on public mourning for infants is described as a custom/law of Plutarch's own country in his time.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch describes this as a contemporary 'custom in outward and public behavior' at the time of writing (c. 100 CE).",
+      "rule_date_type": "floruit"
+    },
+    {
+      "i": 14,
+      "rule_polity": "Hellenistic Athens",
+      "rule_polity_reasoning": "Menander was an Athenian playwright; the text discusses the consumption of his theater by educated audiences in a Greek context.",
+      "rule_date": -300,
+      "rule_time_reasoning": "Menander flourished in the late 4th/early 3rd century BCE; -300 is within his career and the library's focus.",
+      "rule_date_type": "representative"
+    },
+    {
+      "i": 15,
+      "rule_polity": "Hellenistic Athens",
+      "rule_polity_reasoning": "The practice refers to Greek philosophers using the works of Menander (Athenian New Comedy) for recreation.",
+      "rule_date": -300,
+      "rule_time_reasoning": "Dated to the era of Menander and the early Hellenistic philosophical schools in Athens.",
+      "rule_date_type": "representative"
+    },
+    {
+      "i": 16,
+      "rule_polity": "Hellenistic Athens",
+      "rule_polity_reasoning": "The rule describes the acceptance of Menander's work in theaters and social gatherings throughout Greece.",
+      "rule_date": -300,
+      "rule_time_reasoning": "Dated to the era of Menander's high popularity and success in the Greek theatrical tradition.",
+      "rule_date_type": "representative"
+    },
+    {
+      "i": 17,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Plutarch provides a contemporary description of the scientific and religious beliefs regarding Atlantic voyagers within the Greek philosophical tradition.",
+      "rule_date": 95,
+      "rule_time_reasoning": "Midpoint of the work's contemporary span (70 to 120 CE), reflecting Plutarch's floruit.",
+      "rule_date_type": "midpoint"
+    },
+    {
+      "i": 18,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "This describes a religious fellowship (Servants of Cronus) in the Western Ocean as understood by contemporary Roman-era philosophers.",
+      "rule_date": 95,
+      "rule_time_reasoning": "Midpoint of the work's span (70 to 120 CE), representing the era of contemporary scientific/mythological inquiry.",
+      "rule_date_type": "midpoint"
+    },
+    {
+      "i": 19,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The status and term limits of these religious servants are part of the contemporary dialogue's narrative framework.",
+      "rule_date": 95,
+      "rule_time_reasoning": "Midpoint of the work's contemporary span (70 to 120 CE).",
+      "rule_date_type": "midpoint"
+    }
+  ],
+  "input_tokens": 8513,
+  "output_tokens": 2495,
+  "status": "ok"
+}

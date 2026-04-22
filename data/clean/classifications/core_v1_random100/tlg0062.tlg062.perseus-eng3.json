@@ -1,0 +1,80 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Barbarian exclusion from sacred mysteries",
+      "group": "Foreigners",
+      "resource": "Right to initiation in mysteries",
+      "directionality": "LESS",
+      "contemporary": 0,
+      "factuality": 1,
+      "verbatim": [
+        "In the end, if we are to believe Theoxenus, who tells this story as well about him, Anacharsis alone of barbarians was even initiated into the mysteries after being made an Athenian citizen; nor I fancy would he have returned to Scythia, had not Solon died."
+      ],
+      "model_reasoning": "The text notes that Anacharsis was unique among 'barbarians' (non-Greeks) for being initiated into the mysteries, and specifies this occurred only after he was made a citizen. This implies a general rule that non-citizens/barbarians were normally excluded from these religious resources.",
+      "model_confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Foreigner exclusion from land ownership",
+      "group": "Foreigners",
+      "resource": "Right to own land",
+      "directionality": "LESS",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "This Toxaris never went back to Scythia, but died in Athens, where not long after his death he came to be considered a hero, and the Athenians sacrifice to him as “The Foreign Physician”",
+        "the mound is quite small and the pillar lies on the ground; nevertheless it is always garlanded"
+      ],
+      "model_reasoning": "While the text primarily discusses Toxaris's status as a 'hero', the specific designation 'Foreign Physician' and the description of his small mound/pillar being the site of sacrifice (rather than a private estate) reflects the historical reality that metics/foreigners in Athens generally lacked the right to own land (enktesis) without a special grant, hence his burial in a public or specific designated area near the Dipylon.",
+      "model_confidence": 7
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Ethnicity"
+      ],
+      "rule": "Citizen right to frame laws",
+      "group": "Citizens",
+      "resource": "Political power to legislate",
+      "directionality": "MORE",
+      "contemporary": 0,
+      "factuality": 1,
+      "verbatim": [
+        "As a result they employ him to frame laws for the government of the city and are resolved to live in accordance with his ordinances. Make him your friend, get to know what sort of man he is, and you will find all Greece in him, and know already the sum of her glories."
+      ],
+      "model_reasoning": "The text describes Solon, an Athenian citizen by birth, being employed by the city to frame laws. This contrasts with the status of the Scythian visitors who, despite their wisdom, are observers of the laws rather than authors of them, reinforcing that legislative power is a resource held by the citizen group.",
+      "model_confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Lineage"
+      ],
+      "rule": "Aristocratic access to public oratory",
+      "group": "Nobility",
+      "resource": "Influence over public assemblies",
+      "directionality": "MORE",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "They are in fact father and son. The father you may imagine to be a Solon, a Pericles, or an Aristides... Whenever he comes forward to speak in public the entire city listen to him open-mouthed... there is not only love for the young man but a ready reverence already and in short the well-being and happiness of our state are summed up in this one man."
+      ],
+      "model_reasoning": "Lucian describes a contemporary situation in Macedonia where a father and son of pre-eminent birth and reputation dominate the public discourse. Their noble lineage is directly linked to their 'oratory power' and the fact that the 'entire city listen to them', indicating that high birth grants disproportionate access to political influence and public attention.",
+      "model_confidence": 8
+    }
+  ],
+  "_file_id": "tlg0062.tlg062.perseus-eng3",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "The Scythian or Consul",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6052,
+  "_output_tokens": 1012,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,127 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Archonship property qualification",
+      "group": "The wealthy",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "his office of Archon Eponymous, which only he could hold who obtained it by lot from among the families carrying the highest property assessments (these were called Pentacosiomedimni, or Five-hundred-bushellers);"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal requirement for the Eponymous Archonship based on the Solonian property classes, specifically the Pentacosiomedimni.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Wealth / Properties"
+      ],
+      "rule": "Ostracism targeted at elites",
+      "group": "The nobility",
+      "resource": "Protection from ostracism",
+      "directionality": "LESS",
+      "verbatim": [
+        "for no poor men, but only men from great houses which incurred envy because of their family prestige, were liable to ostracism;",
+        "to banishment in ostracism every one was liable who was superior to the common run of men in reputation, or lineage, or eloquence."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The author explains that ostracism was a mechanism specifically used against prominent and high-status individuals rather than the general populace.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Ostracism quorum and procedure",
+      "group": "Citizens",
+      "resource": "Right to vote in ostracism",
+      "directionality": "MORE",
+      "verbatim": [
+        "Each voter took an ostrakon, or potsherd, wrote on it the name of that citizen whom he wished to remove from the city, and brought it to a place in the agora which was all fenced about with railings. The archons first counted the total number of ostraka cast. For if the voters were less than six thousand, the ostracism was void."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text outlines the procedural rules of the Athenian state regarding how citizens exercised the right to banish a peer, including the 6,000-vote quorum requirement.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Ostracized property retention",
+      "group": "The wealthy",
+      "resource": "Right to retain property income",
+      "directionality": "MORE",
+      "verbatim": [
+        "Then they separated the names, and the man who had received the most votes they proclaimed banished for ten years, with the right to enjoy the income from his property."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The rule for ostracism explicitly protected the financial assets of the banished individual, distinguishing it from other forms of exile that involved confiscation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave exclusion from funeral rites",
+      "group": "Slaves",
+      "resource": "Right to participate in religious ministrations",
+      "directionality": "LESS",
+      "verbatim": [
+        "wagons follow filled with myrtle-wreaths, then comes a black bull, then free-born youths carrying libations of wine and milk in jars, and pitchers of oil and myrrh (no slave may put hand to any part of that ministration, because the men thus honored died for freedom);"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a contemporary and historical ritual in Plataea where slaves were explicitly prohibited from participating in the service for the war dead.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Universal eligibility for administration",
+      "group": "Citizens",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "he introduced a decree that the administration of the city be the privilege of all classes, and that the archons be chosen from all the Athenians."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text documents a specific legislative change (Aristides' decree) that expanded political rights from the wealthy to all citizen classes.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Public dowry for distinguished lineage",
+      "group": "Daughters of public benefactors",
+      "resource": "Right to public dowry",
+      "directionality": "MORE",
+      "verbatim": [
+        "they say the city constructed it for him, since he did not leave even enough to pay for his funeral. And they tell how his daughters were married from the prytaneium at the public cost, the city bestowing the dowry for the marriage and voting outright three thousand drachmas to each daughter"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The Athenian state had a norm/rule of providing dowries and support for the children of citizens who died in extreme poverty after serving the state with distinction.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg024.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Aristides",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 18807,
+  "_output_tokens": 1363,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,171 @@
+{
+  "batch_idx": 3,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0004.tlg001.perseus-eng2::60",
+    "tlg0004.tlg001.perseus-eng2::61",
+    "tlg0004.tlg001.perseus-eng2::62",
+    "tlg0004.tlg001.perseus-eng2::63",
+    "tlg0004.tlg001.perseus-eng2::64",
+    "tlg0004.tlg001.perseus-eng2::65",
+    "tlg0004.tlg001.perseus-eng2::66",
+    "tlg0004.tlg001.perseus-eng2::67",
+    "tlg0004.tlg001.perseus-eng2::68",
+    "tlg0004.tlg001.perseus-eng2::69",
+    "tlg0004.tlg001.perseus-eng2::70",
+    "tlg0004.tlg001.perseus-eng2::71",
+    "tlg0004.tlg001.perseus-eng2::72",
+    "tlg0004.tlg001.perseus-eng2::73",
+    "tlg0004.tlg001.perseus-eng2::74",
+    "tlg0004.tlg001.perseus-eng2::75",
+    "tlg0004.tlg001.perseus-eng2::76",
+    "tlg0004.tlg001.perseus-eng2::77",
+    "tlg0004.tlg001.perseus-eng2::78",
+    "tlg0004.tlg001.perseus-eng2::79"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim explicitly names the Athenians and describes their specific legal treatment of the philosopher Xenocrates as a resident alien (metic).",
+      "rule_date": -317,
+      "rule_time_reasoning": "The event involves Demetrius of Phalerum and Xenocrates; Demetrius rose to power as overseer of Athens in -317, making this a representative date for his administration's enforcement of metic taxes."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Olbia",
+      "rule_polity_reasoning": "The verbatim refers to the family of Bion of Borysthenes, whose father was a revenue collector in the Greek colony of Olbia (Borysthenes).",
+      "rule_date": -280,
+      "rule_time_reasoning": "Bion of Borysthenes flourished around -280; the enslavement of his family occurred during his youth, making this date a representative anchor within the work's span."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Bion used his inheritance to travel to Athens and join the philosophical schools; the inheritance itself occurred after his purchase by a rhetorician.",
+      "rule_date": -280,
+      "rule_time_reasoning": "Bion of Borysthenes flourished around -280; the event described (his inheritance and arrival in Athens) is dated to his floruit."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim describes the indictment of Aristotle in Athens by a specifically Athenian religious official (the Hierophant of Eleusis).",
+      "rule_date": -323,
+      "rule_time_reasoning": "Aristotle was indicted for impiety and withdrew to Chalcis immediately following the death of Alexander the Great in -323."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Atarneus",
+      "rule_polity_reasoning": "The marriage involves Pythias, the ward/concubine of Hermias, who was the ruler of Atarneus and Assos in Asia Minor.",
+      "rule_date": -345,
+      "rule_time_reasoning": "Aristotle married Pythias while staying with Hermias at Atarneus around -345."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim describes a priest of Deo (Demeter) attempting to indict Aristotle for impiety within the Athenian legal system.",
+      "rule_date": -323,
+      "rule_time_reasoning": "Aristotle faced the threat of prosecution for impiety in Athens in -323, leading to his self-imposed exile."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Aristotle's will, while drafted in Chalcis, follows the legal norms of the Athenian society where his property and family were primarily based.",
+      "rule_date": -322,
+      "rule_time_reasoning": "The date of Aristotle's death and the execution of his will occurred in -322."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Aristotle's will describes the financial provisions for Herpyllis according to the norms of his estate, which was rooted in Athenian legal custom.",
+      "rule_date": -322,
+      "rule_time_reasoning": "Aristotle's will was enacted upon his death in -322."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The manumissions are part of Aristotle's testament, reflecting the legal practices of his household and Athenian norms regarding testamentary manumission.",
+      "rule_date": -322,
+      "rule_time_reasoning": "Aristotle's will was enacted upon his death in -322."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Aristotle's will describes the management and rights of his domestic servants in the context of his Athenian-based household.",
+      "rule_date": -322,
+      "rule_time_reasoning": "Aristotle's will was enacted upon his death in -322."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim names Sophocles, son of Amphiclides, who proposed this specific law in the Athenian assembly.",
+      "rule_date": -307,
+      "rule_time_reasoning": "The law of Sophocles against the philosophers was enacted in Athens in -307."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The repeal of the law and the recall of the philosophers (including Theophrastus) was an action of the Athenian assembly.",
+      "rule_date": -306,
+      "rule_time_reasoning": "Sophocles' law was repealed and the philosophers were recalled to Athens in the year following its enactment, -306."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim states 'all the Athenians' escorted the bier, indicating a public honors ceremony in the city of Athens.",
+      "rule_date": -287,
+      "rule_time_reasoning": "Theophrastus died in approximately -287, which is when the public funeral procession took place."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim refers to a sentiment expressed by Theophrastus, reflecting the social and legal norms of marriage and dowry in Athens.",
+      "rule_date": -300,
+      "rule_time_reasoning": "As the work is past-referring and gives no specific year for this quote, the midpoint of Theophrastus' floruit in Athens (c. -300) is used."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The manumissions specified in the will of Theophrastus follow the legal structures of his residence in Athens.",
+      "rule_date": -287,
+      "rule_time_reasoning": "Theophrastus' will was enacted upon his death in approximately -287."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The disposal and bequest of household slaves in Theophrastus' will reflect Athenian property law.",
+      "rule_date": -287,
+      "rule_time_reasoning": "Theophrastus' will was enacted upon his death in approximately -287."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The property in question is a garden in Athens intended for the Peripatetic school, governed by Athenian rules on land use and metic rights.",
+      "rule_date": -287,
+      "rule_time_reasoning": "The conditions for the possession of the garden were laid out in the will of Theophrastus at his death in -287."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The conditions for manumission are part of the testamentary instructions for the Peripatetic school's estate in Athens.",
+      "rule_date": -287,
+      "rule_time_reasoning": "Theophrastus' will was enacted upon his death in approximately -287."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text discusses 'Attic blood' and the parentage requirements for Athenian citizenship, specifically citing the case of Antisthenes in Athens.",
+      "rule_date": -451,
+      "rule_time_reasoning": "The Periclean Citizenship Law of -451 established the requirement that both parents must be Athenian citizens for the offspring to have full status."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim explicitly refers to the Athenian system of electing generals (strategoi) by vote.",
+      "rule_date": -390,
+      "rule_time_reasoning": "Antisthenes flourished in the early 4th century BCE; -390 serves as a representative date for his social critiques in Athens."
+    }
+  ],
+  "input_tokens": 7860,
+  "output_tokens": 2257,
+  "status": "ok"
+}

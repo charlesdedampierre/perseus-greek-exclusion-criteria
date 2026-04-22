@@ -1,0 +1,23 @@
+# Python 3.11 required (tested on 3.11.7)
+
+# Core data stack
+pandas==3.0.2
+numpy==2.4.4
+scipy==1.17.1
+
+# Plotting
+matplotlib==3.10.8
+
+# LLM API (OpenRouter uses the OpenAI-compatible SDK)
+openai==2.32.0
+python-dotenv==1.2.2
+
+# Utilities
+tqdm==4.67.3
+requests==2.33.1
+beautifulsoup4==4.14.3
+
+# Notebooks
+jupyter==1.1.1
+notebook==7.5.5
+ipykernel==7.2.0

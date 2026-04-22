@@ -1,0 +1,62 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Nobility",
+        "Education"
+      ],
+      "rule": "Exemption from city taxation",
+      "group": "Tarsians",
+      "resource": "Exemption from metic tax",
+      "directionality": "MORE",
+      "verbatim": [
+        "Athenodorus, son of Sando, of Tarsus, a Stoic, tutor of Caesar Augustus the divine, through whose influence the city of Tarsus was relieved of taxation, died in his native land at the age of eighty-two, and the people of Tarsus pay him honour each year as a hero."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text records a historical fact where the influence of a specific high-status individual (Athenodorus) led to a collective resource allocation (tax relief) for his entire group (the citizens/city of Tarsus) by the sovereign power.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Protection from legal guardianship",
+      "group": "Elderly fathers",
+      "resource": "Right to retain property",
+      "directionality": "MORE",
+      "verbatim": [
+        "Sophocles the tragedian swallowed a grape and choked to death at ninety-five. Brought to trial by his son Iophon toward the close of his life on a charge of feeble-mindedness, he read the jurors his Oedipus at Colonus, proving by the play that he was sound of mind, so that the jury applauded him to the echo and convicted the son himself of insanity."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "This describes the legal mechanism (charge of feeble-mindedness) used to strip elderly people of their autonomy and management of estates; the successful defense proves that if mental competence is demonstrated, the elderly retain their legal rights and resources.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Slave obedience to master demands",
+      "group": "Servants",
+      "resource": "Right to refuse service",
+      "directionality": "LESS",
+      "verbatim": [
+        "calling his servant and telling him, along with a great and hearty laugh, to give the donkey also a sup of wine, he choked with his laughter and died."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a poet (Philemon) commanding a servant to perform a whimsical and non-essential task (giving wine to a donkey), which the servant is expected to obey. This reflects the social rule where individuals of the 'servant' occupation group lack the right to refuse service or exercise autonomy over their labor when commanded by their master.",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0062.tlg011.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "Octogenerians",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 2,
+  "_input_tokens": 10131,
+  "_output_tokens": 701,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

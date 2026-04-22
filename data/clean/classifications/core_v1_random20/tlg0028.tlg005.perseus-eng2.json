@@ -1,0 +1,127 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic exclusion from the Agora",
+      "group": "Metics",
+      "resource": "Access to the Agora during murder trials",
+      "directionality": "LESS",
+      "verbatim": [
+        "In my case the prosecution have first of all caused the trial to be held in the one place from which those charged with murder are always debarred by proclamation, the Agora: and secondly, although it is laid down by law that a murderer shall pay with his life, they have entered a claim for damages—not as a kindness to me, but for their own benefit—and by so doing they have grudged the dead man his lawful due."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker (an alien/metic) notes that murder suspects are legally barred from the Agora. The text indicates that 'those charged with murder are always debarred by proclamation' from this location, which is a ritual and legal restriction based on the fear of pollution.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Foreigner right to leave before verdict",
+      "group": "Non-citizens",
+      "resource": "Right of voluntary exile during trial",
+      "directionality": "MORE",
+      "verbatim": [
+        "Yet if I attached no importance to being debarred from Athens for the future, it was equally open to me either to disregard the summons to appear in court and so lose the case by default, or to avail myself of the right given to every one of leaving the country after making the first speech for the defense."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker references a general legal privilege in Athens where a defendant in a murder trial (historically extended to Greeks/aliens) had the right to go into voluntary exile after the first defense speech to avoid the death penalty.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Alien surety right to avoid imprisonment",
+      "group": "Non-citizens",
+      "resource": "Protection from pretrial imprisonment through sureties",
+      "directionality": "MORE",
+      "verbatim": [
+        "Then again, gentlemen, my imprisonment was an act of illegality quite without parallel. I was ready to furnish the three sureties required by law; yet the prosecution took steps to ensure that I should be prevented from doing so. Hitherto no alien willing to furnish sureties has ever been imprisoned; and, moreover, the law concerned applies to the custodians of malefactors as it does to others."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states a general rule: aliens who can provide three sureties are legally entitled to remain free pending trial rather than being imprisoned. The speaker claims his imprisonment was a specific violation of this general norm.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Health",
+        "Religion"
+      ],
+      "rule": "Exclusion of the impure from temples",
+      "group": "The religiously defiled",
+      "resource": "Access to sacred buildings and juries",
+      "directionality": "LESS",
+      "verbatim": [
+        "Secondly, as of course you all know, every court judges cases of murder in the open air, and for good reasons: first, that the jurors may avoid entering the same building as those whose hands are unclean"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a religious/legal norm where persons accused of murder (considered having 'unclean hands' or pollution) are barred from being under the same roof as jurors or entering sacred precincts, hence trials are held in the open air.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Allied state restriction on executions",
+      "group": "Allied states",
+      "resource": "Right to inflict capital punishment independently",
+      "directionality": "LESS",
+      "verbatim": [
+        "As it was, you sentenced him to death on your own authority and executed him, when even an allied state is denied the right of inflicting the death-penalty in such fashion without the consent of the Athenian people."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author refers to the legal relationship between Athens and its subject allies, noting that allied cities (like Mytilene) lacked the legal authority to execute individuals without the formal consent of the Athenian assembly or courts.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Prohibition of private execution of slaves",
+      "group": "Slaves",
+      "resource": "Right to a public trial before execution",
+      "directionality": "MORE",
+      "verbatim": [
+        "Why, even slaves who have murdered their masters and been caught red-handed are not put to death by the victim’s own relatives; they are handed over to the authorities as the ancient laws of your country ordain. ... it follows that the slave in question should have had a public trial, instead of being put to death by you without a hearing."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text outlines a legal protection for slaves: even in cases of clear guilt (murdering a master), the law forbids relatives from summarily executing the slave, requiring they be handed to magistrates for a legal process.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony via torture",
+      "group": "Slaves",
+      "resource": "Protection from judicial torture",
+      "directionality": "LESS",
+      "verbatim": [
+        "If it is a fact that a slave is allowed to give evidence that a free man is guilty of murder ... they abandoned that line, and instead seized the two men and examined them under torture."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms the standard Athenian legal procedure (basanos) where slave evidence is only admissible if obtained through physical torture, indicating a lack of the resource 'protection from corporal punishment' in legal proceedings.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0028.tlg005.perseus-eng2",
+  "_perseus_author": "Antiphon",
+  "_perseus_title": "On the Murder of Herodes",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 17309,
+  "_output_tokens": 1534,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

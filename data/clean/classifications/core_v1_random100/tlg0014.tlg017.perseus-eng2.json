@@ -1,0 +1,110 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Protection from exile without trial",
+      "group": "Citizens",
+      "resource": "Protection from arbitrary banishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "For it is provided in the compact that it shall be the business of the delegates at the Congress and those responsible for public safety to see that in the states that are parties to the peace there shall be no executions and banishments contrary to the laws established in those states, no confiscation of property, no partition of lands, no cancelling of debts, and no emancipation of slaves for purposes of revolution."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text cites a specific clause of the 'general peace' (the League of Corinth) which explicitly guarantees that citizens of member states like Athens are protected from being banished or executed without following established legal procedures.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Protection of private property rights",
+      "group": "Property owners",
+      "resource": "Right to retain property",
+      "directionality": "MORE",
+      "verbatim": [
+        "For it is provided in the compact that it shall be the business of the delegates at the Congress and those responsible for public safety to see that in the states that are parties to the peace there shall be no executions and banishments contrary to the laws established in those states, no confiscation of property, no partition of lands, no cancelling of debts, and no emancipation of slaves for purposes of revolution."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The treaty provides a legal safeguard for property owners against revolutionary measures such as land redistribution or debt cancellation, framing these assets as protected resources within the participating states.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Wealth / Properties"
+      ],
+      "rule": "Prohibition of revolutionary slave manumission",
+      "group": "Slave owners",
+      "resource": "Right to retain slaves",
+      "directionality": "MORE",
+      "verbatim": [
+        "For it is provided in the compact that it shall be the business of the delegates at the Congress and those responsible for public safety to see that in the states that are parties to the peace there shall be no executions and banishments contrary to the laws established in those states, no confiscation of property, no partition of lands, no cancelling of debts, and no emancipation of slaves for purposes of revolution."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The compact specifically forbids the 'emancipation of slaves for purposes of revolution,' which functions as a rule ensuring that slave owners retain their property and prevents the use of manumission as a political tool against the existing order.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Freedom of maritime navigation",
+      "group": "Citizens",
+      "resource": "Right to sail the seas",
+      "directionality": "MORE",
+      "verbatim": [
+        "For the compact, of course, provides that all the parties to the peace may sail the seas, and that none may hinder them or force a ship of any of them to come to harbor, and that anyone who violates this shall be treated as an enemy by all the parties to the peace."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This is a direct citation of a treaty rule that grants member states and their citizens the right to navigate the seas freely without interference or forced docking.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Prohibition of unauthorized foreign shipbuilding",
+      "group": "Citizens",
+      "resource": "Exclusive use of harbor facilities",
+      "directionality": "MORE",
+      "verbatim": [
+        "No, they thought that they would build their ships here and also furnish them with crews in our harbor, though it is expressly stipulated in the joint agreement that nothing of the kind should be permitted; and they thought too that it would always be more and more in their power to do this."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author references a specific stipulation in the joint agreement that prevents foreign powers (like the Macedonians) from using the Athenian harbor to build ships or recruit crews, preserving these rights/resources for the local state/citizens.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Protection from armed exile incursions",
+      "group": "Citizens",
+      "resource": "Security from hostile exiles",
+      "directionality": "MORE",
+      "verbatim": [
+        "For it is laid down that it shall not be lawful for exiles to set out, bearing arms, from the states which are parties to the peace, with hostile intent against any of the states included in the peace; but if they do, then that city from which they set out shall be excluded from the terms of the treaty."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The treaty contains a formal rule preventing states from allowing armed exiles to launch attacks on other member states, protecting the internal security and territorial integrity of the signatory groups.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg017.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "On the Treaty with Alexander",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6401,
+  "_output_tokens": 1311,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

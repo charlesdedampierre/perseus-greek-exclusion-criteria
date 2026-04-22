@@ -1,0 +1,61 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Sacred protection for envoys",
+      "group": "Envoys",
+      "resource": "Right to be regarded as holy",
+      "directionality": "MORE",
+      "verbatim": [
+        "Now when they have put to sea the several voyagers meet with various fortunes as one might expect; but those who survive the voyage first put in at the outlying islands, which are inhabited by Greeks, and see the sun pass out of sight for less than an hour over a period of thirty days... There they spend ninety days regarded with honour and friendliness as holy men and so addressed, and then winds carry them across to their appointed goal."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific social and religious protocol where survivors of the Atlantic voyage are accorded the status of 'holy men' and granted safety and hospitality for ninety days by the Greek inhabitants of the outlying islands.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Right to settle after service",
+      "group": "Servants of Cronus",
+      "resource": "Right to settle in a foreign land",
+      "directionality": "MORE",
+      "verbatim": [
+        "Nor do any others inhabit it but themselves and those who have been dispatched before them, for, while those who have served the god together for the stint of thirty years are allowed to sail off home, most of them usually choose to settle in the spot, some out of habit and others because without toil or trouble they have all things in abundance while they constantly employ their time in sacrifices and celebrations or with various discourse and philosophy"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch notes a custom in this specific community where individuals who have completed a thirty-year term of religious service have the right to choose between returning home or settling permanently on the island with access to its resources.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Right to return after service",
+      "group": "Servants of Cronus",
+      "resource": "Right to return to homeland",
+      "directionality": "MORE",
+      "verbatim": [
+        "Nor do any others inhabit it but themselves and those who have been dispatched before them, for, while those who have served the god together for the stint of thirty years are allowed to sail off home, most of them usually choose to settle in the spot"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that completing the thirty-year service (a specific near-immutable category in this context) grants the individual the legal/normative permission to return to their original home.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg126.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Concerning the Face which Appears in the Orb Of the Moon",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 81523,
+  "_output_tokens": 689,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

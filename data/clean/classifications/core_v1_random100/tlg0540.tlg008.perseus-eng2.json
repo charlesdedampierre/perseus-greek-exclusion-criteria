@@ -1,0 +1,61 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Horse deposit refund claim",
+      "group": "Wealthy",
+      "resource": "Right to recover money from sick livestock transactions",
+      "directionality": "MORE",
+      "verbatim": [
+        "So, first of all, dealing entirely through you with Hegemachus about the deposit of the horse, I wished to cancel the transaction as the horse was in a sickly state: Diodorus here tried to dissuade me, asserting that Polycles would make no objection to refunding the twelve minae. So he said at the time; but after the death of the horse he ranged himself in the end with these men as my opponent, saying that I had no right to recover the money."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a commercial dispute regarding a 'deposit' (transaction) for a horse. The disagreement centers on whether a buyer has the legal or normative right to cancel a sale and recover their twelve minae (a significant sum of money) if the animal is found to be sickly, illustrating a rule regarding property transactions and consumer protection among the Athenian wealthy class.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Arbitrator-mediated legal proceedings",
+      "group": "Citizens",
+      "resource": "Access to arbitration for civil disputes",
+      "directionality": "MORE",
+      "verbatim": [
+        "This became evident: in the presence of the arbitrators Polycles angrily said that even my friends considered that I was in the wrong,—so they told him."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of 'arbitrators' in a dispute over a financial deposit reflects the Athenian legal practice where civil cases were often first heard by public or private arbitrators before reaching a jury court. This represents a resource (legal recourse) available to citizens to settle disputes.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Third-party support in court",
+      "group": "Citizens",
+      "resource": "Right to have supporting speakers (synegoroi)",
+      "directionality": "MORE",
+      "verbatim": [
+        "My informant himself reported that you declared you would hinder those who intended to speak on my behalf, and had prevented several others already. What need have I to set the proof of these facts in a yet clearer light? I ask you, could that man know that, having asked Cleitodicus to speak next, I was refused?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Athenian law, litigants had the right to ask friends or capable speakers (synegoroi) to speak on their behalf. The text shows this was a standard practice/right (as the speaker is aggrieved it was blocked), confirming that citizens had access to the resource of collective legal advocacy.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0540.tlg008.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "Accusation of Calumny",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4837,
+  "_output_tokens": 729,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

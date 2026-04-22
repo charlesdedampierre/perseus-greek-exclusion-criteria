@@ -1,0 +1,61 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Granting of citizenship by state vote",
+      "group": "Foreigners",
+      "resource": "Right to hold citizenship",
+      "directionality": "MORE",
+      "verbatim": [
+        "Now the word politeia (citizenship) is defined also as having a share of the rights in a State, as we say the Megarians voted Alexander the politeia (citizenship); and when he made fun of their eagerness, they told him that up to that time they had conferred citizenship upon Heracles only and now upon himself."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes citizenship (politeia) as a concrete 'share of the rights in a State' that can be granted to individuals (like Alexander) through a formal vote by the existing citizen body (the Megarians). This defines the process for an out-group member to gain the resource of citizenship.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen participation in public affairs",
+      "group": "Citizens",
+      "resource": "Right to participate in statecraft",
+      "directionality": "MORE",
+      "verbatim": [
+        "Now the word politeia (citizenship) is defined also as having a share of the rights in a State... But the life of a statesman, a man who is occupied in public affairs, is also called politeia (statecraft); as, for example, we commend the politeia (statecraft) of Pericles and of Bias, but condemn that of Hyperbolus and Cleon."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text links the status of citizenship (politeia) directly to the 'share of rights' and the active engagement in 'public affairs' (statecraft). It frames this as a standard resource available to those within the political community to influence the state.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Oligarchic equal power sharing",
+      "group": "Nobles",
+      "resource": "Right to equal political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "in the same way the real statesman will manage successfully the oligarchy that Lycurgus established at Sparta, adapting to himself the colleagues who have equal power and honour and quietly forcing them to do his will"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the description of the Spartan oligarchy established by Lycurgus, the author notes that the governing group (the colleagues/nobles) possesses equal power and honor by rule. While a statesman may try to influence them, the starting legal/normative position is one of shared, equal authority among the group.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg119.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "On Monarchy, Democracy, and Oligrachy",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4120,
+  "_output_tokens": 705,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

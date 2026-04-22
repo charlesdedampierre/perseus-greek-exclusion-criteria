@@ -1,0 +1,94 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Banker deposit recordkeeping custom",
+      "group": "Bankers",
+      "resource": "Right to retain transaction records",
+      "directionality": "MORE",
+      "verbatim": [
+        "It is the custom of all bankers, when a private person deposits money and directs that it be paid to a given person, to write down first the name of the person making the deposit and the amount deposited, and then to write on the margin to be paid to so-and-so; and if they know the face of the person to whom payment is to be made, they do merely this, write down whom they are to pay; but, if they do not know it, it is their custom to write on the margin the name also of him who is to introduce and point out the person who is to receive the money."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a standard professional practice among Athenian bankers for documenting deposits and identifying third-party payees, which serves as a formal rule of business and evidence in court.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Occupation"
+      ],
+      "rule": "Proxenos access to financial records",
+      "group": "Proxenoi",
+      "resource": "Access to deceased foreigners' bank records",
+      "directionality": "MORE",
+      "verbatim": [
+        "He is dead, and, as it happens, I am proxenos of the Heracleotes. I demand therefore that you show me your books, that I may know whether he has left any money; for I must of necessity look after the affairs of all the men of Heraclea. On hearing this, men of the jury, Phormion immediately showed him the books."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "A proxenos (a citizen acting as a consul for a foreign city) had the right or recognized standing to inspect bank records of a deceased citizen of the state they represented to manage their estate.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Heir's oath in litigation",
+      "group": "Heirs",
+      "resource": "Right to provide evidentiary oath",
+      "directionality": "MORE",
+      "verbatim": [
+        "I was ready on my father’s behalf to take the oath which the law prescribes when an heir is sued in court on a charge brought against one who is dead,— that, namely, I believed that my father never agreed to pay the plaintiff the money which Lycon left, and that the plaintiff was not introduced to my father by Lycon."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law explicitly prescribes a specific oath for heirs who are sued for the alleged debts or actions of a deceased person, allowing them to testify to their belief regarding the facts.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from providing unverified testimony",
+      "directionality": "LESS",
+      "verbatim": [
+        "He neither called him in for consultation about his affairs, nor did he ever put up at the home of Callippus as a guest; and this very fact is the one thing to which the plaintiff’s friends have not ventured to depose... for they knew well that, if they told any such lie as this, they would at once be convicted by the slaves when these were put to the torture."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references the standard legal practice of 'basanos', where the testimony of slaves was only admissible and considered truthful if obtained through physical torture.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Arbitrator's oath requirement",
+      "group": "Public Arbitrators",
+      "resource": "Right to issue binding awards",
+      "directionality": "LESS",
+      "verbatim": [
+        "Callippus, I say, induced the arbitrator, who had been designated according to the laws, to pronounce his award without taking oath, although I protested that he should give it on oath as the laws ordain, his purpose being that he might be able to say before you, that Lysitheides, a good and worthy man, had already given a decision."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker cites a legal requirement ('as the laws ordain') that an arbitrator must be under oath to deliver a valid, legally binding award, suggesting that without the oath, the resource of judicial finality is undermined.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg052.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Apollodorus Against Callipus",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 7000,
+  "_output_tokens": 1175,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

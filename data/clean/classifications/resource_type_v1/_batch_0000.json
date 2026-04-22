@@ -1,0 +1,423 @@
+{
+  "batch_idx": 0,
+  "n_items": 40,
+  "items": [
+    {
+      "i": 0,
+      "value": "Access to education"
+    },
+    {
+      "i": 1,
+      "value": "Access to public honors"
+    },
+    {
+      "i": 2,
+      "value": "Access to religious rites"
+    },
+    {
+      "i": 3,
+      "value": "Access to specialized instruction"
+    },
+    {
+      "i": 4,
+      "value": "Access to the gymnasium"
+    },
+    {
+      "i": 5,
+      "value": "Eligibility for public office"
+    },
+    {
+      "i": 6,
+      "value": "Exemption from compulsory public financing"
+    },
+    {
+      "i": 7,
+      "value": "Exemption from legal audit"
+    },
+    {
+      "i": 8,
+      "value": "Exemption from manual labor"
+    },
+    {
+      "i": 9,
+      "value": "Exemption from military service"
+    },
+    {
+      "i": 10,
+      "value": "Exemption from public service financing"
+    },
+    {
+      "i": 11,
+      "value": "Exemption from taxes"
+    },
+    {
+      "i": 12,
+      "value": "Political power"
+    },
+    {
+      "i": 13,
+      "value": "Protection from arbitrary banishment"
+    },
+    {
+      "i": 14,
+      "value": "Protection from capital punishment"
+    },
+    {
+      "i": 15,
+      "value": "Protection from corporal punishment"
+    },
+    {
+      "i": 16,
+      "value": "Protection from enslavement"
+    },
+    {
+      "i": 17,
+      "value": "Protection from legal prosecution"
+    },
+    {
+      "i": 18,
+      "value": "Protection from public libel"
+    },
+    {
+      "i": 19,
+      "value": "Right to a dowry"
+    },
+    {
+      "i": 20,
+      "value": "Right to a legal trial"
+    },
+    {
+      "i": 21,
+      "value": "Right to address the assembly"
+    },
+    {
+      "i": 22,
+      "value": "Right to adopt"
+    },
+    {
+      "i": 23,
+      "value": "Right to bear arms"
+    },
+    {
+      "i": 24,
+      "value": "Right to bodily autonomy"
+    },
+    {
+      "i": 25,
+      "value": "Right to burial"
+    },
+    {
+      "i": 26,
+      "value": "Right to citizenship"
+    },
+    {
+      "i": 27,
+      "value": "Right to dispose of property"
+    },
+    {
+      "i": 28,
+      "value": "Right to drink wine"
+    },
+    {
+      "i": 29,
+      "value": "Right to free speech"
+    },
+    {
+      "i": 30,
+      "value": "Right to freedom of movement"
+    },
+    {
+      "i": 31,
+      "value": "Right to inherit divine covenant"
+    },
+    {
+      "i": 32,
+      "value": "Right to inherit property"
+    },
+    {
+      "i": 33,
+      "value": "Right to marry"
+    },
+    {
+      "i": 34,
+      "value": "Right to military protection"
+    },
+    {
+      "i": 35,
+      "value": "Right to own land"
+    },
+    {
+      "i": 36,
+      "value": "Right to own property"
+    },
+    {
+      "i": 37,
+      "value": "Right to professional judgement"
+    },
+    {
+      "i": 38,
+      "value": "Right to remuneration for office"
+    },
+    {
+      "i": 39,
+      "value": "Right to reside in the city"
+    }
+  ],
+  "parsed": [
+    {
+      "i": 0,
+      "resource_type": [
+        "Education"
+      ]
+    },
+    {
+      "i": 1,
+      "resource_type": [
+        "Honor"
+      ]
+    },
+    {
+      "i": 2,
+      "resource_type": [
+        "Religious Standing"
+      ]
+    },
+    {
+      "i": 3,
+      "resource_type": [
+        "Education"
+      ]
+    },
+    {
+      "i": 4,
+      "resource_type": [
+        "Education"
+      ]
+    },
+    {
+      "i": 5,
+      "resource_type": [
+        "Political Power"
+      ]
+    },
+    {
+      "i": 6,
+      "resource_type": [
+        "Material Wealth"
+      ]
+    },
+    {
+      "i": 7,
+      "resource_type": [
+        "Legal Standing"
+      ]
+    },
+    {
+      "i": 8,
+      "resource_type": [
+        "Bodily Autonomy"
+      ]
+    },
+    {
+      "i": 9,
+      "resource_type": [
+        "Bodily Autonomy"
+      ]
+    },
+    {
+      "i": 10,
+      "resource_type": [
+        "Material Wealth"
+      ]
+    },
+    {
+      "i": 11,
+      "resource_type": [
+        "Material Wealth"
+      ]
+    },
+    {
+      "i": 12,
+      "resource_type": [
+        "Political Power"
+      ]
+    },
+    {
+      "i": 13,
+      "resource_type": [
+        "Bodily Autonomy",
+        "Legal Standing"
+      ]
+    },
+    {
+      "i": 14,
+      "resource_type": [
+        "Bodily Autonomy"
+      ]
+    },
+    {
+      "i": 15,
+      "resource_type": [
+        "Bodily Autonomy"
+      ]
+    },
+    {
+      "i": 16,
+      "resource_type": [
+        "Bodily Autonomy"
+      ]
+    },
+    {
+      "i": 17,
+      "resource_type": [
+        "Legal Standing"
+      ]
+    },
+    {
+      "i": 18,
+      "resource_type": [
+        "Honor"
+      ]
+    },
+    {
+      "i": 19,
+      "resource_type": [
+        "Material Wealth",
+        "Household Authority"
+      ]
+    },
+    {
+      "i": 20,
+      "resource_type": [
+        "Legal Standing"
+      ]
+    },
+    {
+      "i": 21,
+      "resource_type": [
+        "Political Power"
+      ]
+    },
+    {
+      "i": 22,
+      "resource_type": [
+        "Legal Standing",
+        "Household Authority"
+      ]
+    },
+    {
+      "i": 23,
+      "resource_type": [
+        "Political Power",
+        "Bodily Autonomy"
+      ]
+    },
+    {
+      "i": 24,
+      "resource_type": [
+        "Bodily Autonomy"
+      ]
+    },
+    {
+      "i": 25,
+      "resource_type": [
+        "Honor",
+        "Religious Standing"
+      ]
+    },
+    {
+      "i": 26,
+      "resource_type": [
+        "Legal Standing",
+        "Political Power"
+      ]
+    },
+    {
+      "i": 27,
+      "resource_type": [
+        "Material Wealth",
+        "Legal Standing"
+      ]
+    },
+    {
+      "i": 28,
+      "resource_type": [
+        "UNCLASSIFIABLE"
+      ]
+    },
+    {
+      "i": 29,
+      "resource_type": [
+        "Political Power"
+      ]
+    },
+    {
+      "i": 30,
+      "resource_type": [
+        "Bodily Autonomy"
+      ]
+    },
+    {
+      "i": 31,
+      "resource_type": [
+        "Religious Standing"
+      ]
+    },
+    {
+      "i": 32,
+      "resource_type": [
+        "Material Wealth",
+        "Legal Standing"
+      ]
+    },
+    {
+      "i": 33,
+      "resource_type": [
+        "Legal Standing",
+        "Household Authority"
+      ]
+    },
+    {
+      "i": 34,
+      "resource_type": [
+        "Bodily Autonomy"
+      ]
+    },
+    {
+      "i": 35,
+      "resource_type": [
+        "Material Wealth",
+        "Legal Standing"
+      ]
+    },
+    {
+      "i": 36,
+      "resource_type": [
+        "Material Wealth",
+        "Legal Standing"
+      ]
+    },
+    {
+      "i": 37,
+      "resource_type": [
+        "Legal Standing"
+      ]
+    },
+    {
+      "i": 38,
+      "resource_type": [
+        "Political Power",
+        "Material Wealth"
+      ]
+    },
+    {
+      "i": 39,
+      "resource_type": [
+        "Bodily Autonomy"
+      ]
+    }
+  ],
+  "input_tokens": 1789,
+  "output_tokens": 784,
+  "status": "ok"
+}

@@ -1,0 +1,80 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation",
+        "Education"
+      ],
+      "rule": "Imperial stipend for philosophy chairs",
+      "group": "Philosophers",
+      "resource": "Imperial stipend",
+      "directionality": "MORE",
+      "verbatim": [
+        "Well, Pamphilus, the Emperor has established, as you know, an allowance, not inconsiderable, for the philosophers according to sect—the Stoics, I mean, the Platonics, and the Epicureans; also those of the Walk, the same amount for each of these. . . and the prize was not “a shield of hide or a victim,” as the poet has it, but a matter of ten thousand drachmas a year, for instructing boys."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a formal institution created by Marcus Aurelius where specific stipends (10,000 drachmas) are granted to recognized heads of philosophical sects in Athens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Health",
+        "Gender"
+      ],
+      "rule": "Eunuch exclusion from philosophy chairs",
+      "group": "Eunuchs",
+      "resource": "Eligibility for the archonship",
+      "directionality": "LESS",
+      "verbatim": [
+        "Diocles at length said in conclusion that it was not at all permissible for Bagoas to lay claim to philosophy and the rewards of merit in it, since he was a eunuch; such people ought to be excluded, he thought, not simply from all that but even from temples and holy-water bowls and all the places of public assembly, and he declared it an ill-omened, ill-met sight if on first leaving home in the morning, one should set eyes on any such person."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While the dialogue is satirical, it reflects a real legal/normative dispute over whether eunuchs possessed the physical 'manhood' traditionally required to hold public chairs of philosophy and receive the associated imperial stipend.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Male physical endowment for teaching",
+      "group": "Men",
+      "resource": "Eligibility for governance of boys",
+      "directionality": "MORE",
+      "verbatim": [
+        "That was what the judges dwelt upon, and the point thenceforward at issue was whether the seal of approval should be set upon a eunuch who was proposing himself for a career in philosophy and requesting that the governance of boys be committed to him. One said that presence and a fine physical endowment should be among the attributes of a philosopher, and that above all else he should have a long beard that would inspire confidence in those who visited him and sought to become his pupils."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The judges' debate establishes that the role of instructing boys (the governance of boys) required specific masculine physical traits, specifically a beard and perceived 'manhood,' which were viewed as essential for the authority of the position.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Health",
+        "Gender"
+      ],
+      "rule": "Eunuch immunity from adultery charges",
+      "group": "Eunuchs",
+      "resource": "Immunity from adultery prosecution",
+      "directionality": "MORE",
+      "verbatim": [
+        "As a matter of fact, gentlemen, if this fellow, so smooth of jowl, effeminate in voice, and otherwise similar to a eunuch, should strip, you would find him very masculine. . . At that time he secured his acquittal by resorting to the name of eunuch and finding sanctuary in it, since the judges on that occasion discredited the accusation from the very look of him."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text mentions a specific previous trial where a defendant avoided conviction for adultery by claiming he was a eunuch, implying that the physical incapacity associated with the group legally precluded the possibility of committing the act as defined by the law.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0062.tlg047.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "The Eunuch",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6046,
+  "_output_tokens": 999,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

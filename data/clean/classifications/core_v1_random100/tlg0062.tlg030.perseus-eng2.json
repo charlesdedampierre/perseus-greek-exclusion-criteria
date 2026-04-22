@@ -1,0 +1,222 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Artisan right to professional title",
+      "group": "Artisans",
+      "resource": "Right to professional recognition",
+      "directionality": "MORE",
+      "verbatim": [
+        "TYCHIADES\r\nThen, by Zeus, when we wish to tell about you to someone who does not know you, when he wants to find out about you, of course we shall be correct in referring to you as “the parasite”?\r\n\r\nSIMON\r\nFar more correct in referring to me so than in referring to Phidias as a sculptor, for I take quite as much joy in my art as Phidias did in his Zeus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that in contemporary society, individuals who master an 'art' (techne) are correctly and socially addressed by their professional title (e.g., Phidias as 'the sculptor'). The parasite Simon argues for the same right of recognition based on his level of skill.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Universal professional utility requirement",
+      "group": "Free men",
+      "resource": "Right to retain earnings from labor",
+      "directionality": "MORE",
+      "verbatim": [
+        "Why in the world is it, Simon, that while other men, both slave and free, each know some art by which they are of use to themselves and to someone else, you apparently have no work which would enable you to make any profit yourself or give away anything to anybody else?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a social and economic norm where both free individuals and slaves are expected to possess a specific 'art' or skill that allows them to generate profit or utility. This implies a general right/expectation for free men to have a vocation for self-sustenance.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Universal professional utility requirement",
+      "group": "Slaves",
+      "resource": "Right to retain earnings from labor",
+      "directionality": "MORE",
+      "verbatim": [
+        "Why in the world is it, Simon, that while other men, both slave and free, each know some art by which they are of use to themselves and to someone else, you apparently have no work which would enable you to make any profit yourself or give away anything to anybody else?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions that slaves, alongside free men, possess 'arts' by which they are 'of use to themselves.' In the Roman context, this refers to the practice of slaves possessing skills to earn a peculium or provide for their own needs.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealth-based access to pleasure",
+      "group": "The poor",
+      "resource": "Ability to satisfy desires",
+      "directionality": "LESS",
+      "verbatim": [
+        "A man who intends to shape his life by pleasure should satisfy all the desires that arise in him. What do you say to that? TYCHIADES I agree with you. SIMON Therefore the man of vast means no doubt has the opportunity of doing so, while the man of little or no means has not; consequently a poor man cannot become an adept or attain the end, that is to say, pleasure."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The speaker (Simon) argues that in their society, the fulfillment of desires—the prerequisite for a pleasurable life—is dependent on material means, effectively barring the poor from this specific 'end'.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Student vulnerability to corporal punishment",
+      "group": "Education students",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "Every art has to be prefaced by study, hardships, fear and floggings, from which everyone would pray to be delivered. But this art alone, it seems, can be learned without hardships. Who ever went home from a dinner in tears, as we see some going home from their schools?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text contrasts the 'art' of parasitism with formal education, noting that students in traditional arts/schools are subject to 'floggings' and physical distress as part of their learning process.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Laborer restriction to holidays",
+      "group": "Artisans",
+      "resource": "Right to leisure",
+      "directionality": "LESS",
+      "verbatim": [
+        "Everybody knows, too, that those who ply the rest of the arts drudge all the time except one or two days a month which they celebrate as holidays, and are said to have their good time then. But the parasite celebrates thirty holidays a month, for he thinks that every day belongs to the gods."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a general social norm where those practicing technical or 'vulgar' arts (artisans/workers) are restricted to only one or two days of rest or leisure per month.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Food reward for student performance",
+      "group": "Education students",
+      "resource": "Right to food",
+      "directionality": "LESS",
+      "verbatim": [
+        "‘“By Zeus, the boy has written nicely,” they say; “give him something to eat!”’ “He has not written correctly; don’t give him anything!” So highly is the thing esteemed, both as a reward and by way of punishment."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a common educational practice where the basic resource of food is used as a conditional tool for reward or punishment based on academic performance.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Royal table access for favorites",
+      "group": "Parasites",
+      "resource": "Right to share the king's table",
+      "directionality": "MORE",
+      "verbatim": [
+        "For in saying there that the beaker “always stood full,’ he did not mean that Idomeneus’ cup stood full under all circumstances, even when he fought or when he slept, but that he alone was privileged to eat with the king all the days of his life, unlike the rest of the soldiers, who were invited only on certain days."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific social rule in the Homeric/Heroic context (as interpreted by the speaker) where certain individuals designated as 'parasites' or high-favor followers had the permanent right to dine with the sovereign, a resource denied to the general body of soldiers who only received occasional invitations.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Age"
+      ],
+      "rule": "Military mobilization of eligible citizens",
+      "group": "Men of military age",
+      "resource": "Exemption from compulsory military service",
+      "directionality": "LESS",
+      "verbatim": [
+        "the commander has called to the colours all those of military age, and that of course everybody is going, including certain philosophers and rhetoricians and parasites."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes the standard operating procedure of the city-state (polis) during an invasion, where all men within a specific age bracket are legally required to take the field, indicating they lack the resource of exemption.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Parasite protection of patrons",
+      "group": "Parasites",
+      "resource": "Protection from frontline combat risks",
+      "directionality": "LESS",
+      "verbatim": [
+        "The man who supports him is posted in the second line, behind the parasite, who covers him with his shield as Ajax covered Teucer, and when missiles are flying exposes himself to protect his patron; for he prefers to save his patron rather than himself."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author describes a norm or behavioral rule within the 'art' of parasitism where the parasite is expected to occupy the more dangerous forward position to shield the provider, thereby having less access to the safety of the second line.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Exemption from judicial prosecution",
+      "group": "Parasites",
+      "resource": "Exemption from legal suits",
+      "directionality": "MORE",
+      "verbatim": [
+        "And there are speeches in defence of Socrates, Aeschines, Hyperides, Demosthenes, and very nearly the majority of orators and sages, whereas there is no speech in defence of a parasite, and nobody can cite a suit that has been brought against a parasite."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author contrasts the legal history of orators and philosophers, who were frequently sued or prosecuted, with parasites, asserting that no legal actions or suits are ever brought against members of the parasite group.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy obligation for guest entertainment",
+      "group": "The rich",
+      "resource": "Social status for eating alone",
+      "directionality": "LESS",
+      "verbatim": [
+        "realise that a rich man, even if he has the wealth of Gyges, is poor if he eats alone; that if he takes the air without a parasite in his company he is considered a pauper, and that just as a soldier without-arms, or a mantle without a purple border, or a horse without trappings is held in less esteem, so a rich man without a parasite appears low and cheap."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text describes a social norm where a wealthy person's status is contingent upon support for guests (parasites). Eating alone or appearing in public without a companion is framed as a loss of the 'resource' of social esteem and high status.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Philosopher exclusion from gymnasium",
+      "group": "Philosophers",
+      "resource": "Access to the gymnasium",
+      "directionality": "LESS",
+      "verbatim": [
+        "On the athletic field what philosopher or rhetorician, once he has taken his clothes off, is fit to be compared with a parasite’s physique? What one of them when seen in the gymnasium is not actually a disgrace to the place?"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "While rhetorically framed as a matter of physique, the text asserts that philosophers are effectively treated as a 'disgrace' to the gymnasia and athletic fields, indicating a normative social exclusion compared to parasites.",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0062.tlg030.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "The Parasite Tychiades",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 4,
+  "_input_tokens": 26621,
+  "_output_tokens": 2858,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

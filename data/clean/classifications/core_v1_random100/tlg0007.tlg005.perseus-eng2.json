@@ -1,0 +1,343 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Nobility",
+        "Citizenship"
+      ],
+      "rule": "Senator eligibility for interregnum kingship",
+      "group": "Patricians",
+      "resource": "Right to assume royal power",
+      "directionality": "MORE",
+      "verbatim": [
+        "it was arranged by the senators, who were one hundred and fifty in number, that each of them in his turn should assume the insignia of royalty, make the customary sacrifices to the gods, and transact public business, for the space of six hours by day and six hours by night. This distribution of times seemed well adapted to secure equality between the two factions, and the transfer of power likely to remove all jealousy on the part of the people, when they saw the same man, in the course of a single day and night, become king and then a private citizen again. This form of government the Romans call interregnum."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes the formal institutional rule of the interregnum following the disappearance of Romulus. The text specifies that the senators (patricians) held a rotational right to exercise royal authority and perform public sacrifices, a resource (political power) not available to the common folk.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Citizenship"
+      ],
+      "rule": "Patrician selection of the king",
+      "group": "Patricians",
+      "resource": "Right to nominate the monarch",
+      "directionality": "MORE",
+      "verbatim": [
+        "Therefore it was agreed by both factions that one should appoint a king from the other. This was thought the best way to end their prevailing partisanship, and the king thus appointed would be equally well-disposed to both parties... They took counsel, therefore, among themselves, and nominated Numa Pompilius from among the Sabines, a man who had not joined the emigrants to Rome, but was so universally celebrated for his virtues that, when he was nominated, the Sabines accepted him with even greater readiness than those who had chosen him."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a systematic agreement between the two noble factions (the original Roman patricians and the Sabine nobles) to determine the next king. This process was exclusive to the leading senators of both parties, excluding the common people from the primary nomination power.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age",
+        "Lineage"
+      ],
+      "group": "Boys with both parents living",
+      "resource": "Eligibility for priestly attendance",
+      "directionality": "MORE",
+      "rule": "Camillus attendant eligibility",
+      "contemporary": 0,
+      "factuality": 1,
+      "verbatim": [
+        "and that the name Camillus, which the Romans give to the boy with both parents living who attends upon the priest of Jupiter, is the same as that which some of the Greeks give to Hermes, from his office of attendant."
+      ],
+      "reasoning": "The text identifies a specific category of children (boys with both parents living) who are granted the unique right/role of serving as a 'Camillus' for the high priest of Jupiter, a role tied to specific life-status criteria.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Age"
+      ],
+      "group": "Widows past the age of marriage",
+      "resource": "Right to guard the perpetual fire",
+      "directionality": "MORE",
+      "rule": "Greek perpetual fire guardianship",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "Since wherever in Greece a perpetual fire is kept, as at Delphi and Athens, it is committed to the charge, not of virgins, but of widows past the age of marriage."
+      ],
+      "reasoning": "Plutarch contrasts Roman practice with Greek norms, stating that in Greek cities like Athens and Delphi, the specific resource of maintaining the sacred fire is reserved for older widows rather than young virgins.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "group": "Vestal Virgins",
+      "resource": "Right to marry",
+      "directionality": "LESS",
+      "rule": "Thirty-year chastity vow",
+      "contemporary": 0,
+      "factuality": 1,
+      "verbatim": [
+        "It was ordained by the king that the sacred virgins should vow themselves to chastity for thirty years; during the first decade they are to learn their duties, during the second to perform the duties they have learned, and during the third to teach others these duties."
+      ],
+      "reasoning": "The rule imposes a mandatory thirty-year period of celibacy on the Vestal Virgins, thereby restricting their right to marry or engage in sexual relations during their term of service.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Gender"
+      ],
+      "rule": "Vestal Virgin testamentary rights",
+      "group": "Vestal Virgins",
+      "resource": "Right to make a will without a guardian",
+      "directionality": "MORE",
+      "verbatim": [
+        "But Numa bestowed great privileges upon them, such as the right to make a will during the life time of their fathers, and to transact and manage their other affairs without a guardian, like the mothers of three children."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal capacity (testamentary freedom and management of affairs without a tutor) granted to the Vestal Virgins, distinguishing them from other women who typically required a guardian.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Gender"
+      ],
+      "rule": "Vestal Virgin power of pardon",
+      "group": "Vestal Virgins",
+      "resource": "Right to grant life to criminals",
+      "directionality": "MORE",
+      "verbatim": [
+        "When they appear in public, the fasces are carried before them, and if they accidentally meet a criminal on his way to execution, his life is spared; but the virgin must make oath that the meeting was involuntary and fortuitous, and not of design."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "This describes a specific legal privilege where the physical presence of a Vestal Virgin acts as a stay of execution, granting the resource of influence over the life and death of others.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Gender"
+      ],
+      "rule": "Vestal Virgin corporal punishment",
+      "group": "Vestal Virgins",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "For their minor offences the virgins are punished with stripes, the Pontifex Maximus sometimes scourging the culprit on her bare flesh, in a dark place, with a curtain interposed."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text establishes that for minor offenses, members of this specific group are subject to physical scourging by the high priest, indicating they lack protection from corporal punishment.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Gender"
+      ],
+      "rule": "Vestal chastity capital punishment",
+      "group": "Vestal Virgins",
+      "resource": "Right to life",
+      "directionality": "LESS",
+      "verbatim": [
+        "But she that has broken her vow of chastity is buried alive near the Colline gate. Here a little ridge of earth extends for some distance along the inside of the city-wall; the Latin word for it is agger. Under it a small chamber is constructed, with steps leading down from above."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Breaking the vow associated with the group leads to a specific form of state-mandated death (being buried alive), showing a removal of the right to life for group-specific violations.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Widowhood remarriage restriction",
+      "group": "Widows",
+      "resource": "Right to remarry without penalty",
+      "directionality": "LESS",
+      "verbatim": [
+        "This is also the period during which women who have lost their husbands remain in widowhood, and she who took another husband before this term was out, was obliged by the laws of Numa to sacrifice a cow with calf."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The law of Numa imposes a religious/material penalty (sacrificing a cow with calf) on widows who remarry before a ten-month period, restricting their freedom of choice in marriage.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Fetial authority over war declaration",
+      "group": "Fetial priests",
+      "resource": "Veto power over hostile expeditions",
+      "directionality": "MORE",
+      "verbatim": [
+        "But if they forbade it or withheld their consent, neither soldier nor king of Rome could lawfully take up arms. War had to begin with their verdict that it was just, and the ruler, on receiving this verdict, must then deliberate on the proper way to wage it."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The Fetiales held the specific political/religious resource of authorizing or blocking the state's transition to a state of war; without their consent, military action was unlawful.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Labor cessation for religious processions",
+      "group": "Manual laborers",
+      "resource": "Right to work during sacred rites",
+      "directionality": "LESS",
+      "verbatim": [
+        "At all public and solemn processions of the priests, heralds were sent on before through the city, bidding the people make holiday, and putting a stop to all labour. ... They should also rid their streets of noise and clatter and clamour, and all such accompaniments of menial and manual labour, and clear them for the sacred ceremonies."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a rule that prohibited manual and menial labor during priestly processions to ensure religious focus and silence, effectively removing the group's right to work during those times.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Land distribution to indigent citizens",
+      "group": "The poor",
+      "resource": "Right to own land",
+      "directionality": "MORE",
+      "verbatim": [
+        "And indeed the city’s territory was not extensive at first, but Romulus acquired most of it later with the spear. All this was distributed by Numa among the indigent citizens. He wished to remove the destitution which drives men to wrongdoing, and to turn the people to agriculture, that they might be subdued and softened along with the soil they tilled."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a historical land reform where territory conquered by Romulus was legally redistributed to impoverished citizens to encourage farming and social stability.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Merit-based advancement for farmers",
+      "group": "Farmers",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "But sometimes he would inspect them in person, and judging of the characters of the citizens from the condition of their farms, would advance some to positions of honour and trust; while others, who were indolent and careless, he would chide and reproach, and so try to make them sensible."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule where political promotion (honour and trust) was tied to the successful management of one's agricultural property, rewarding industriousness within the occupation of farming.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Age",
+        "Lineage"
+      ],
+      "rule": "Exemption from paternal sale upon marriage",
+      "group": "Married sons",
+      "resource": "Protection from enslavement",
+      "directionality": "MORE",
+      "verbatim": [
+        "Praise is also given to that measure of his whereby the law permitting fathers to sell their sons was amended. He made an exception of married sons, provided they had married with the consent and approval of their fathers. For he thought it a hard thing that a woman who had married a man whom she thought free, should find herself living with a slave."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Under the previous law, fathers could sell sons into slavery. Numa's rule created a specific legal exception for sons who had entered into a marriage approved by the father, granting them protection from being sold.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Ritual bathing in April",
+      "group": "Women",
+      "resource": "Right to participate in public festivals",
+      "directionality": "MORE",
+      "verbatim": [
+        "In it they sacrificed to this goddess, and on its first day the women bathe with myrtle garlands on their heads. Some, however, say that April, with its smooth p, cannot be derived from Aphrodite, with its rough ph, but that this month of high spring time is called April because it opens and discloses the buds and shoots in vegetation, this being the meaning of the word aperio."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a gender-specific religious rite where women are the primary participants in a ritual bath on the first of April, which Plutarch notes as a continuing practice.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Priestly access to sacred knowledge",
+      "group": "Priests",
+      "resource": "Access to religious knowledge",
+      "directionality": "MORE",
+      "verbatim": [
+        "But since, while he was still living, he had taught the priests the written contents of the books, and had inculcated in their hearts the scope and meaning of them all, he commanded that they should be buried with his body, convinced that such mysteries ought not to be entrusted to the care of lifeless documents."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a systemic restriction where sacred knowledge ('mysteries') was preserved for a specific functional group (priests) through oral instruction, while being intentionally withheld from the public or 'lifeless documents' to prevent wider dissemination.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Restriction of Pythagorean oral precepts",
+      "group": "Unworthy persons",
+      "resource": "Access to philosophical teachings",
+      "directionality": "LESS",
+      "verbatim": [
+        "This is the reason, we are told, why the Pythagoreans also do not entrust their precepts to writing, but implant the memory and practice of them in living disciples worthy to receive them. And when their treatment of the abstruse and mysterious processes of geometry had been divulged to a certain unworthy person, they said the gods threatened to punish such lawlessness and impiety with some signal and wide-spread calamity."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The author specifies a rule of the Pythagorean school where membership and 'worthiness' (an educational/moral boundary) dictated access to specific intellectual resources like geometry and precepts, viewing the sharing with outsiders as a religious crime.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Senate membership for honored foreigners",
+      "group": "Foreigners",
+      "resource": "Eligibility for the Senate",
+      "directionality": "MORE",
+      "verbatim": [
+        "Now this Marcius was a son of the Marcius who induced Numa to accept the throne. That Marcius accompanied Numa to Rome, and there was honoured with membership in the Senate."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text demonstrates that under early Roman royal administration, high-status non-natives (those accompanying the king from elsewhere) could be granted the resource of Senate membership as an honor.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Senatorial oversight of religious texts",
+      "group": "Senators",
+      "resource": "Right to suppress public information",
+      "directionality": "MORE",
+      "verbatim": [
+        "These Petilius, who was then praetor, is said to have read, and then brought to the senate, declaring that, in his opinion, it was not lawful or proper that the writings should be published abroad. The books were therefore carried to the comitium and burned."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "This describes a legal norm in the Roman Republic where the Senate possessed the authority to determine what information was lawful for the public to access, resulting in the destruction of texts deemed improper for publication.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg005.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Numa",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 5,
+  "_input_tokens": 28805,
+  "_output_tokens": 4341,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

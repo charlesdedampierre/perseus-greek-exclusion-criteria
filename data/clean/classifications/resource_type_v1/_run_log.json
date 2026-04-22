@@ -1,0 +1,34 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "prompt_resource_type_V1.md",
+  "n_resource_metas": 45,
+  "mapped": 43,
+  "unclassifiable": 2,
+  "missing": 0,
+  "per_category_distinct": {
+    "Religious Standing": 3,
+    "Education": 3,
+    "Honor": 3,
+    "Legal Standing": 12,
+    "Household Authority": 3,
+    "Material Wealth": 11,
+    "Bodily Autonomy": 11,
+    "Political Power": 9
+  },
+  "per_category_rules": {
+    "Political Power": 368,
+    "Legal Standing": 235,
+    "Bodily Autonomy": 234,
+    "Material Wealth": 229,
+    "Honor": 46,
+    "Religious Standing": 36,
+    "Household Authority": 24,
+    "Education": 20
+  },
+  "ok_batches": 2,
+  "errored_batches": 0,
+  "input_tokens": 3020,
+  "output_tokens": 919,
+  "cost_usd": 0.0043,
+  "elapsed_sec": 4.7
+}

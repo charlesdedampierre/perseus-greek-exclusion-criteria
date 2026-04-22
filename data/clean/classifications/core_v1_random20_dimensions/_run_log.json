@@ -1,0 +1,19 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "dimension_prompt_V1.md",
+  "parallelism": "chunk-level (per batch)",
+  "batch_size": 20,
+  "max_parallel": 10,
+  "n_rules": 236,
+  "n_batches": 12,
+  "ok_batches": 12,
+  "errored_batches": 0,
+  "rules_scored": 236,
+  "rules_missing": 0,
+  "input_tokens": 80808,
+  "output_tokens": 60733,
+  "price_in_per_1M": 0.5,
+  "price_out_per_1M": 3.0,
+  "cost_usd": 0.2226,
+  "elapsed_sec": 54.5
+}

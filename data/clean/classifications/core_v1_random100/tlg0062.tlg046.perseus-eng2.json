@@ -1,0 +1,142 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation",
+        "Freedom"
+      ],
+      "rule": "Slave transport of bathing equipment",
+      "group": "Slaves",
+      "resource": "Protection from menial labor",
+      "directionality": "LESS",
+      "verbatim": [
+        "My lad, convoy me my strigil, scrip, diapers, and purgaments to the bath-house, and fetch the wherewithal. ’Tis on the floor, mark you, alongside the coffer, a brace of obols."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the dialogue, the character Callicles commands his 'lad' (slave) to carry his personal effects to the bath-house and retrieve money, reflecting the standard social expectation that slaves perform all manual transport and errand-running for their masters in urban Roman/Greek life.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Anonymity of Eleusinian initiates",
+      "group": "Religious initiates",
+      "resource": "Right to personal name",
+      "directionality": "LESS",
+      "verbatim": [
+        "haling Deinias neck and crop to the office, bringing the charge that he had named them, albeit he knew right well that from the time when they were hallowed they were nameless and thenceforth ineffable, as being now all Hieronymuses."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a legal charge brought against a man for naming the Torch-bearer and Hierophant of the Eleusinian Mysteries. It establishes a rule or 'unutterable rite' where high-ranking initiates lose their individual names upon hallowing, becoming 'ineffable' or known only by sacred titles.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave retainment of physical integrity",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "Chaereas the goldworker, he with the back of many colours... Chaereas’ back bore the stripes of the lash."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The description of Chaereas identifies him as a worker whose back is 'many colours' due to the lash. This indicates that workers of lower status (slaves or former slaves) lacked protection from physical violence and corporal punishment as a means of discipline or social marking.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Magisterial punishment of suspects",
+      "group": "Non-residents",
+      "resource": "Protection from corporal restraint",
+      "directionality": "LESS",
+      "verbatim": [
+        "notwithstanding his reluctation, the magistrate decked him out with wristlets and a necklace and lodged him in the bilboes and the stocks. Wherefore, being impounded, the sorry wretch fusted for fear, and trumped, and was fain to give weregelt."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a magistrate exercising the power to physically restrain and imprison a person (described as a 'bezonian' or stranger) until they pay a fine or ransom. This illustrates the legal capacity of officials to use 'iron' (stocks/chains) on certain individuals.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Champion commemorative statues",
+      "group": "Athletes",
+      "resource": "Right to public statues",
+      "directionality": "MORE",
+      "verbatim": [
+        "Damasias the quondam athlete and champion, now out of the lists for eld—the brazen image, you know, in the square. Out of compliment to him as a champion, his statue was set up in the square."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes that an athlete who achieved the status of 'champion' was granted the resource of a public statue in the square as a form of social honor/immaterial resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Elite literacy requirements",
+      "group": "The uneducated",
+      "resource": "Social recognition for style",
+      "directionality": "LESS",
+      "verbatim": [
+        "If you really desire to be genuinely praised for style and to have a great name among the public, avoid and shun all this sort of thing. After beginning with the best poets and reading them under tutors, pass to the orators, and when you have become familiar with their diction, go over in due time to Thucydides and Plato"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lycinus outlines the rule of social and literary prestige: one must follow a specific curriculum (poets, orators, Thucydides, Plato) to be considered 'a personality in letters'. Those who fail this (the uneducated or 'barbarians') are denied this resource.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female seclusion during illness",
+      "group": "Women",
+      "resource": "Right to social interaction",
+      "directionality": "LESS",
+      "verbatim": [
+        "for some time now his wife is irregular and out of sorts by reason of wanting issue, so that he no longer even knows her; she is unapproachable and uncultivated."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a social norm where a woman experiencing reproductive health issues ('wanting issue') is kept 'unapproachable', effectively losing access to social contact even with her husband.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Slatttern designation restricted to women",
+      "group": "Women",
+      "resource": "Protection from gender-specific labels of untidiness",
+      "directionality": "LESS",
+      "verbatim": [
+        "garment and that only women are called slatterns?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states a social linguistic norm where a specific derogatory term (slattern) is applied exclusively to women and not to men, indicating a gender-based application of social stigma regarding appearance.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0062.tlg046.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "Lexiphanes",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 3,
+  "_input_tokens": 17297,
+  "_output_tokens": 1655,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

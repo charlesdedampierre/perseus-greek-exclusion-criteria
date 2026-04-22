@@ -1,0 +1,276 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Age",
+        "Citizenship"
+      ],
+      "rule": "Youth gymnasium training",
+      "group": "Minors",
+      "resource": "Access to the gymnasium and physical training",
+      "directionality": "MORE",
+      "verbatim": [
+        "And why are your young men doing all this, Solon? Some of them, locked in each other’s arms, are tripping one another up, while others are choking and twisting each other and grovelling together in the mud, wallowing like swine. Yet, in the beginning, as soon as they had taken their clothes off, they put oil on themselves and took turns at rubbing each other down very peacefully—I saw it. Since then, I do not know what has got into them that they push one another about with lowered heads and butt their foreheads together like rams."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a systematic social institution where young Athenian men (implied citizens in the context of Solon's laws) are brought to the gymnasium for physical training and wrestling as part of their education and preparation for the state.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Official supervision of athletic contests",
+      "group": "Magistrates",
+      "resource": "Political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "But even the official there does not separate them and break up the fight—I assume from his purple cloak that he is one of the officials; on the contrary, he urges them on and praises the one who struck the blow."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage identifies a specific class of officials (recognized by their purple cloaks) who have the authority to supervise, regulate, and encourage athletic combat, representing the state's oversight of these activities.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "State-sponsored athletic competition prizes",
+      "group": "Citizens",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "At the Olympic games, a wreath made of wild olive, at the Isthmian one of pine, and at the Nemean one of parsley, at the Pythian some of the apples sacred to Apollo, and with us at the Panathenaea, the oil from the holy olive. . . We have other such athletic exercises, too—boxing, throwing the discus, and jumping—in all of which we hold contests, and the winner is considered best in his class and carries off the prizes."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Solon describes the formal prize system of the Greek games. While the resource is phrased as specific prizes (oil, wreaths), the broader context is the right of citizens to compete for state-sanctioned honors and material rewards (holy oil).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Protection from physical assault",
+      "group": "Citizens",
+      "resource": "Protection from corporal punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "With us Scythians, Solon, if anyone strikes a citizen, or assaults him and throws him down, or tears his clothing, the elders impose severe penalties upon him, even if the offence takes place before just a few witnesses, not to speak of such great assemblies as that at the Isthmus and that at Olympia which you describe."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Anacharsis contrasts Greek athletics with Scythian law, noting that in his society, citizens are legally protected from physical assault and battery, with the state (elders) punishing violators.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to legal counsel",
+      "group": "Citizens",
+      "resource": "Right to professional legal representation",
+      "directionality": "MORE",
+      "verbatim": [
+        "Whenever it goes up to the Areopagus and holds a sitting to judge a case of manslaughter or premeditated wounding or arson, an opportunity to be heard is given to each party to the case, and the plaintiff and defendant plead in turn, either in person or through professional speakers whom they bring to the bar to plead in their behalf."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Solon describes the standard operating procedure of the Areopagus court, where litigants have the established right to be represented by professional speakers (rhetoricians) rather than just representing themselves.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Areopagus restriction on rhetorical introductions",
+      "group": "Citizens",
+      "resource": "Protection from biased legal pleading",
+      "directionality": "MORE",
+      "verbatim": [
+        "As long as they speak about the case, the court tolerates them and listens in silence; but if anyone prefaces his speech with an introduction in order to make the court more favourable, or brings emotion or exaggeration into the case— tricks that are often devised by the disciples of rhetoric to influence the judges,—then the crier appears and silences them at once, preventing them from talking nonsense to the court and from tricking the case out in words, in order that the Areopagites may see the facts bare."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific procedural rule in the Athenian murder court (Areopagus) that forbids emotional or irrelevant introductions, ensuring litigants are judged on facts rather than rhetorical skill.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender",
+        "Education"
+      ],
+      "rule": "Public education through drama",
+      "group": "Citizens",
+      "resource": "Access to public moral education",
+      "directionality": "MORE",
+      "verbatim": [
+        "Furthermore, assembling them in the theatre, we instruct them publicly through comedies and tragedies, in which they behold both the virtues and the vices of the ancients, in order that they may recoil from the vices and emulate the virtues."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Solon outlines the state's use of theater as a formal, public educational tool for the citizenry (specifically young men entering political life) to instill moral values.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Comic ridicule of base citizens",
+      "group": "Citizens",
+      "resource": "Protection from public ridicule",
+      "directionality": "LESS",
+      "verbatim": [
+        "The comedians, indeed, we allow to abuse and ridicule any citizens whom they perceive to be following practices that are base and unworthy of the city, not only for the sake of those men themselves, since they are made better by chiding, but for the sake of the general public, that they may shun castigation for similar offences."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule (specifically an allowance or legal permission) where citizens can be publicly shamed in theater as a form of social and moral correction.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Education"
+      ],
+      "rule": "Citizen training in communal laws",
+      "group": "Citizens",
+      "resource": "Access to legal education",
+      "directionality": "MORE",
+      "verbatim": [
+        "We harmonize their minds by causing them to learn by heart the laws of the community, which are exposed in public for everyone to read, written in large letters, and tell what one should do and what one should refrain from doing"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The Athenian state requires its youth/prospective citizens to memorize the public laws, which are displayed openly to ensure the population is regulated and educated correctly.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen cavalry service obligation",
+      "group": "Citizens",
+      "resource": "Eligibility for the cavalry",
+      "directionality": "MORE",
+      "verbatim": [
+        "But you would see it, Anacharsis, if you should stop with us longer, and also arms for every man in great quantity, which we use when it is necessary, and crests and trappings and horses, and cavalrymen amounting to nearly a fourth of our citizens."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Solon describes the military organization of the Athenian state, noting that a significant portion of the citizenry (the fourth part) serves as cavalrymen, indicating this as a structured resource/role for the citizen group.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public weapon prohibition",
+      "group": "Citizens",
+      "resource": "Right to bear arms in public",
+      "directionality": "LESS",
+      "verbatim": [
+        "But to bear arms always and carry a dirk at one’s belt is, we think, superfluous in time of peace; in fact, there is a penalty prescribed for anyone who carries weapons unnecessarily within the city limits or brings armour out into a public place."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions a legal penalty for individuals who carry weapons or armor in public spaces during peacetime, demonstrating a regulated restriction on this resource within the city.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female exclusion from gymnasiums",
+      "group": "Women",
+      "resource": "Access to the gymnasium",
+      "directionality": "LESS",
+      "verbatim": [
+        "They show no white and ineffective corpulence or pallid leanness, as if they were women’s bodies bleached out in the shade, quivering and streaming with profuse sweat at once and panting beneath the helmet, especially if the sun, as at present, blazes with the heat of noon."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author contrasts the sun-darkened athletes with women who are 'bleached out in the shade,' implying that women are environmentally restricted from the outdoor physical training (gymnasia) provided to men.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "group": "Minors",
+      "resource": "Eligibility for public athletic honors",
+      "directionality": "MORE",
+      "rule": "Youth eligibility for athletic games",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "We think, Anacharsis, that their zeal for the athletic exercises will be increased if they see those who excel in them receiving honours and having their names proclaimed before the assembled Greeks. For this reason, expecting to appear unclothed before so many people, they try to attain good physical condition so that they may not be ashamed of themselves when they are stripped, and each makes himself as fit to win as he can. Furthermore, the prizes, as I said before, are not trivial—to be praised by the spectators, to become a man of mark, and to be pointed at with the finger as the best of one’s class."
+      ],
+      "reasoning": "Solon describes the institutionalized system where young men are encouraged to compete in public games (Olympic, Pythian, etc.) to receive material and immaterial honors funded or recognized by the state/society, intended to cultivate military readiness.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age",
+        "Occupation"
+      ],
+      "group": "Soldiers",
+      "resource": "Right to personal safety in training",
+      "directionality": "MORE",
+      "rule": "Exemption from lethal combat training",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "As for testing them under arms, and watching them get wounded—no! It is bestial and terribly cruel and, more than that, unprofitable to kill off the most efficient men who can be used to better advantage against the enemy."
+      ],
+      "reasoning": "Solon explicitly states that Athenian law/custom forbids testing young men (those of military age) with lethal weapons during peace-time training to preserve their lives for actual warfare, contrasting this with the brutal physical training they do undergo.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age",
+        "Citizenship"
+      ],
+      "group": "Minors",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "rule": "Spartan youth ritual flogging",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "Above all, do not laugh if you see them getting flogged at the altar and dripping blood while their fathers and mothers stand by and are so far from being distressed by what is going on that they actually threaten to punish them if they should not bear up under the stripes, and beseech them to endure the pain as long as possible and be staunch under the torture. As a matter of fact, many have died in the competition, not deigning to give in before the eyes of their kinsmen while they still had life in them, or even to move a muscle of their bodies; you will see honours paid to their statues, which have been set up at public cost by the state of Sparta."
+      ],
+      "reasoning": "The text describes a specific Spartan legal/social institution (the Diamastigosis) where young citizens are subjected to severe, sometimes fatal, physical torture at the altar as a form of endurance training, overseen by the state and their families.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "group": "Soldiers",
+      "resource": "Right to observe training models",
+      "directionality": "MORE",
+      "rule": "Mandatory attendance at cock-fights",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "You would laugh, of course, particularly if you discovered that we do it in compliance with law, and that all those of military age are required to present themselves and watch the birds spar to the uttermost limit of exhaustion. Yet this is not laughable, either: their souls are gradually penetrated by an appetite for dangers, in order that they may not seem baser and more cowardly than the cocks"
+      ],
+      "reasoning": "Solon identifies a specific law requiring men of military age to attend bird fights. This is a clear social rule where a specific group (military-age citizens) is given access to (and required to use) a specific pedagogical resource (observing combat) to instill psychological traits.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0062.tlg034.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "Anacharsis, or Athletics",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 4,
+  "_input_tokens": 24177,
+  "_output_tokens": 3690,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,128 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "If, therefore, you take the servant-girl who goes to market and waits on you, and torture her, you will learn all.",
+        "So it is open to you, I said, to choose as you please between two things,—either to be whipped and thrown into a mill, and to be irrevocably immersed in that sort of misery, or else to speak out the whole truth"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text demonstrates that under Athenian law and custom, a master or the state could legally use torture (basanos) or corporal punishment like whipping to extract information from slaves regarding legal matters.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Justifiable homicide for adultery",
+      "group": "Husbands",
+      "resource": "Right to exercise lethal vengeance",
+      "directionality": "MORE",
+      "verbatim": [
+        "You hear, sirs, how the Court of the Areopagus itself, to which has been assigned, in our own as in our fathers’ time, the trial of suits for murder, has expressly stated that whoever takes this vengeance on an adulterer caught in the act with his spouse shall not be convicted of murder."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites a specific Athenian law from the Areopagus that grants husbands the legal right to kill an adulterer caught in the act without facing a murder conviction.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Punishment for debauching free persons",
+      "group": "Free persons",
+      "resource": "Protection from sexual violation",
+      "directionality": "MORE",
+      "verbatim": [
+        "You hear, sirs, how it directs that, if anyone forcibly debauches a free adult or child, he shall be liable to doublei.e., double the amount laid down for violating a slave."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law cited distinguishes between free persons and slaves in matters of sexual violation, providing free persons with a higher level of protection through significantly higher financial damages (double) compared to slaves.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Penalties for sexual persuasion versus force",
+      "group": "Wives",
+      "resource": "Protection of domestic integrity",
+      "directionality": "MORE",
+      "verbatim": [
+        "Thus the lawgiver, sirs, considered that those who use force deserve a less penalty than those who use persuasion; for the latter he condemned to death, whereas for the former he doubled the damages,"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law prioritized the 'corruption of the soul' of a wife via persuasion over physical force, assigning the death penalty for seduction to protect the husband's certainty of lineage and domestic control.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Justifiable homicide for adultery",
+      "group": "Citizens",
+      "resource": "Right to punish adulterers",
+      "directionality": "MORE",
+      "verbatim": [
+        "these may bid a man, on catching an adulterer, to deal with him in whatever way he pleases, but the trials are found to be more dangerous to the wronged parties than to those who, in defiance of the laws, dishonor the wives of others. For I am now risking the loss of life, property and all else that I have, because I obeyed the city’s laws."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly references 'established laws' that grant a citizen (husbands) the right to deal with an adulterer caught in the act 'in whatever way he pleases,' including execution. The speaker is defending himself in court specifically because he exercised this legal right.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Protection from arbitrary expulsion",
+      "group": "Citizens",
+      "resource": "Protection from expulsion",
+      "directionality": "MORE",
+      "verbatim": [
+        "I say you will discover none. For he had neither subjected me to slanderous impeachment, nor attempted to expel me from the city, nor brought any private suit against me, nor was he privy to any wrongdoing which I was so afraid of being divulged that I was intent on his destruction"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author lists 'attempt to expel me from the city' alongside legal actions like private suits and impeachments. This indicates that a citizen's residence in the city was protected by law, and removal was a formal process rather than a private whim.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen access to private suits",
+      "group": "Citizens",
+      "resource": "Right to bring private suits",
+      "directionality": "MORE",
+      "verbatim": [
+        "For he had neither subjected me to slanderous impeachment, nor attempted to expel me from the city, nor brought any private suit against me, nor was he privy to any wrongdoing which I was so afraid of being divulged"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text lists 'bringing a private suit' (dike) as a standard legal interaction between Athenian citizens. It frames this as a legitimate material resource (legal recourse) available to the group to resolve grievances.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0540.tlg001.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "On the Murder of Eratosthenes",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 2,
+  "_input_tokens": 10123,
+  "_output_tokens": 1488,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

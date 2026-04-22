@@ -1,0 +1,77 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Athenians",
+      "resource": "Right to vote in the jury",
+      "directionality": "MORE",
+      "verbatim": [
+        "The laws have given you the right, Athenians, to acquit or punish men on trial. A doctor cannot treat his patients skilfully if he has not discerned the cause of the disease, nor can a member of a jury give a fair vote unless he has followed intelligently the rights and wrongs of the case."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that the laws of Athens grant the citizens (Athenians) the specific legal power to decide the outcome of trials through voting in a jury, a core political and judicial resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Public platform free speech",
+      "group": "Orators",
+      "resource": "Right to speak freely from the platform",
+      "directionality": "MORE",
+      "verbatim": [
+        "When I entered public life I did not concentrate on lawsuits or the perquisites to be derived from writing speeches but on speaking freely from the platform, a practice which makes the lives of orators dangerous but holds out the clearest opportunities of success"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demades identifies a specific professional practice available to those in public life (orators): the right to address the assembly freely. While he notes the inherent risks, it is presented as a standard political resource for individuals in that group.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Legal procedure differentiation",
+      "group": "Athenians",
+      "resource": "Access to specific judicial venues",
+      "directionality": "MORE",
+      "verbatim": [
+        "Each offence is dealt with in its own particular way some call for the council of the Areopagus, some for lesser courts, others for the Heliaea. All these are distinguished in name, circumstance, time, penalty, procedure, and in the number of the jury."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the established legal system where different types of offenses are assigned to specific courts (Areopagus, Heliaea), ensuring that the accused (citizens) are processed according to defined jurisdictional rules.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Jury oath requirement",
+      "group": "Athenians",
+      "resource": "Protection via sworn jury judgment",
+      "directionality": "MORE",
+      "verbatim": [
+        "They do not charge me with plotting, for their villainy is bound by no oath. But the jury’s judgement is governed by an oath."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author contrasts the behavior of accusers with the formal requirement that Athenian jurors must have their judgment governed by an oath, which serves as a procedural protection for the person on trial.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0535.tlg001.perseus-eng2",
+  "_perseus_author": "Demades",
+  "_perseus_title": "On the Twelve Years",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6530,
+  "_output_tokens": 802,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

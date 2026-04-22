@@ -1,0 +1,110 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Trierarchy obligation for wealthy citizens",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "As for myself, men of the jury, a large property was left me by my father, and this was in the possession of Phormio, who furthermore had married my mother while I was out of the country on public business, serving as your trierarch."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Apollodorus notes he was serving as a trierarch because of the large property left to him. The trierarchy was a liturgy (public service) imposed on the wealthiest citizens in Athens to fund and command a warship.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "For instance, a man may not be put to torture in your presence—for this it is necessary that there be a challenge; again, if anything has been transacted and has taken place somewhere out of the country, it is necessary that for this too there should be a challenge"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explains the legal procedure of the 'challenge' (proklesis), which was the standard method to demand that a slave's testimony be taken via torture (basanos) to be admissible in court.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Naturalized citizen performance of liturgies",
+      "group": "Naturalized citizens",
+      "resource": "Exemption from public service",
+      "directionality": "LESS",
+      "verbatim": [
+        "For I am well aware that for you who are citizens by birth it is sufficient to perform public services as the laws require; we on the contrary who are created citizens ought to show that we perform them as a grateful payment of a debt."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author distinguishes between citizens by birth and those 'created' (naturalized), stating that the latter have a higher social or norm-based obligation to perform public services (liturgies) beyond the strict legal minimum.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right of free speech",
+      "group": "Citizens",
+      "resource": "Right of free speech",
+      "directionality": "MORE",
+      "verbatim": [
+        "Whom have I deprived of the citizenship of which I was deemed worthy, and of the right of free speech in the city, as you did in the case of the man whom you dishonored?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly links citizenship with 'the right of free speech' (parrhesia), which is a characteristic right of Athenian citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Epibole fine for court loss",
+      "group": "Litigants",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "I was fined one-sixth of the amount claimed, was denied the right of a hearing, and was treated with such contumely as I doubt if any other man ever was"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker mentions being fined 'one-sixth of the amount claimed' (the epibole), a standard penalty in certain Athenian legal actions when the prosecutor failed to obtain a specific portion of the jury's votes.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Master's right to Retain Slave Earnings",
+      "group": "Slaves",
+      "resource": "Right to retain one's own earnings",
+      "directionality": "LESS",
+      "verbatim": [
+        "Instead, he would have said at once, How do we know if there is any will of Pasio’s?—and he would have demanded that Phormio write, as in the beginning of the challenge... For it will be found, not like that of a father writing in the interest of his sons, but like that of a slave who has shamefully misused what belonged to his master."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text emphasizes that a slave’s acquisitions or management are legally the property of the master. Phormio’s possession of wealth is framed as a violation of the rule that what a slave manages belongs to the master.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0014.tlg045.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Apollodorus Against Stephanus I",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 14764,
+  "_output_tokens": 1244,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

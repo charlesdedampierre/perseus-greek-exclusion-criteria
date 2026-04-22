@@ -1,0 +1,351 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Scientist exclusion from poet status",
+      "group": "Scientists",
+      "resource": "Eligibility for the title of poet",
+      "directionality": "LESS",
+      "verbatim": [
+        "For if people publish medical or scientific treatises in metre the custom is to call them poets. But Homer and Empedocles have nothing in common except the metre, so that it would be proper to call the one a poet and the other not a poet but a scientist."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Aristotle argues that in Greek intellectual life, despite common linguistic usage that labels anyone writing in meter a 'poet', the professional definition of a poet should exclude those writing scientific or medical treatises (like Empedocles), reserving the title for those who engage in 'representation'.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Archon grant of comic chorus",
+      "group": "Comic poets",
+      "resource": "Right to public financing",
+      "directionality": "MORE",
+      "verbatim": [
+        "Indeed it is only quite late in its history that the archon granted a chorus for a comic poet; before that they were volunteers. In the fifth century dramatists submitted their plays to the archon in charge of the festival at which they wished them to be performed. He selected the number required by the particular festival, and to the poets thus selected granted a chorus, i.e., provided a choregus who paid the expenses of the chorus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle describes the institutional shift from comic poets being 'volunteers' (self-funded) to receiving a chorus from the state (archon), which provided a choregus to cover expenses. This is a clear administrative rule governing access to public/material resources for a specific occupational group.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Poet control over scenic design",
+      "group": "Poets",
+      "resource": "Authority over spectacular effects",
+      "directionality": "LESS",
+      "verbatim": [
+        "Indeed the effect of tragedy does not depend on its performance by actors, and, moreover, for achieving the spectacular effects the art of the costumier is more authoritative than that of the poet."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle describes the contemporary professional division of labor in the Athenian theater, noting that the poet (playwright) lacks technical authority over the visual spectacle/costume, which belongs to a different professional group.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Water clock regulation of performances",
+      "group": "Poets",
+      "resource": "Length of performance time",
+      "directionality": "LESS",
+      "verbatim": [
+        "The limit of length considered in relation to competitions and production before an audience does not concern this treatise. Had it been the rule to produce a hundred tragedies, the performance would have been regulated by the water clock, as it is said they did once in other days."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Aristotle references a historical legal or administrative rule where the duration of dramatic or oratorical performances was strictly limited by a klepsydra (water clock) during public competitions.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Bad plot construction for actors",
+      "group": "Actors",
+      "resource": "Access to high-quality plot structures",
+      "directionality": "LESS",
+      "verbatim": [
+        "Bad poets write such plays because they cannot help it, and good poets write them to please the actors. Writing as they do for competition, they often strain a plot beyond its capacity and are thus obliged to sacrifice continuity."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle describes a contemporary systemic practice in the Greek theater where the needs of a specific professional group (actors) or the desire to please them during competitions leads to the deliberate creation of 'episodic' or inferior plots, depriving the performance of logical continuity.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Poetic focus on general truths",
+      "group": "Poets",
+      "resource": "Right to represent general truths",
+      "directionality": "MORE",
+      "verbatim": [
+        "For this reason poetry is something more scientific and serious than history, because poetry tends to give general truths while history gives particular facts. By a general truth I mean the sort of thing that a certain type of man will do or say either probably or necessarily."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle defines the professional boundary and functional rule for poets in his society: unlike historians who are restricted to particular facts, poets have the resource/capacity to represent universal human types and probable actions.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Poetic use of real names",
+      "group": "Tragedians",
+      "resource": "Right to use historical names",
+      "directionality": "MORE",
+      "verbatim": [
+        "In tragedy, on the other hand, they keep to real names. The reason is that what is possible carries conviction. If a thing has not happened, we do not yet believe in its possibility, but what has happened is obviously possible."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle identifies a convention/rule of the occupation where writers of tragedy, as a group, utilize the names of historical figures to provide verisimilitude to their stories, a resource not typically used in the New Comedy of his time.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Appropriate female characterization",
+      "group": "Women",
+      "resource": "Right to be portrayed as manly or clever",
+      "directionality": "LESS",
+      "verbatim": [
+        "The second point is that the characters should be appropriate. A character may be manly, but it is not appropriate for a woman to be manly or clever. Third, it should be like. . . Fourthly, it should be consistent. . . An example of character that is unfitting and inappropriate the lament of Odysseus in the Scylla and Melanippe’s speech; Euripides seems to have given her a knowledge of science and philosophy inappropriate to a woman."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle describes the normative standards for poetic representation in his time, explicitly stating that certain traits like manliness or philosophical cleverness are 'inappropriate' for the category of women, reflecting societal gender norms of the Classical period.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Freedom"
+      ],
+      "rule": "Relative goodness of social classes",
+      "group": "Women",
+      "resource": "Recognition of moral worth",
+      "directionality": "LESS",
+      "verbatim": [
+        "The first and most important is that the character should be good. The play will show character if, as we said above, either the dialogue or the actions reveal some choice; and the character will be good, if the choice is good. But this is relative to each class of people. Even a woman is good and so is a slave, although it may be said that a woman is an inferior thing and a slave beneath consideration."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle notes that while individuals in these groups can technically be 'good' within their own spheres, the society views the group 'woman' as naturally inferior and the group 'slave' as practically worthless in a moral/social hierarchy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Relative goodness of social classes",
+      "group": "Slaves",
+      "resource": "Recognition of moral worth",
+      "directionality": "LESS",
+      "verbatim": [
+        "The first and most important is that the character should be good. . . But this is relative to each class of people. Even a woman is good and so is a slave, although it may be said that a woman is an inferior thing and a slave beneath consideration."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly categorizes slaves as a group 'beneath consideration' regarding the standard of human excellence or 'goodness' compared to the default (free male citizens).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Poetic composition through emotional simulation",
+      "group": "Poets",
+      "resource": "Capacity for convincing representation",
+      "directionality": "MORE",
+      "verbatim": [
+        "The poet should also, as far as possible, complete the effect by using the gestures. For, if their natural powers are equal, those who are actually in the emotions are the most convincing; he who is agitated blusters and the angry man rages with the maximum of conviction. Sir Joshua Reynolds used thus to simulate emotion before a mirror. In his Preface to the Lyrical Ballads Wordsworth says that the Poet will wish to bring his feelings near to those of the persons whose feelings he describes . . . and even confound and identify his own feelings with theirs. See also Burke, On the Sublime and Beautiful, 4. 4. And that is why poetry needs either a sympathetic nature or a madman, the former being impressionable and the latter inspired."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Aristotle describes a professional norm for poets in his time, asserting that effective dramatic writing requires the author to physically or mentally simulate the emotions of the characters to achieve 'conviction.' This identifies a specific group (poets) and their access to a professional resource (artistic conviction/persuasion).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Chorus integration in drama",
+      "group": "Chorus members",
+      "resource": "Participation in dramatic action",
+      "directionality": "MORE",
+      "verbatim": [
+        "The chorus too must be regarded as one of the actors. It must be part of the whole and share in the action, not as in Euripides but as in Sophocles. In the others the choral odes have no more to do with the plot than with any other tragedy. And so they sing interludes, a practice begun by Agathon. And yet to sing interludes is quite as bad as transferring a whole speech or scene from one play to another."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Aristotle defines the structural rule for the Chorus in Greek tragedy, stating they should be treated as actors and participants in the plot rather than merely providing musical interludes. This distinguishes the role and 'resource' (participation) of the Chorus group within the festival and play structure.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Poetic exemption from grammatical censure",
+      "group": "Poets",
+      "resource": "Protection from legal or social censure",
+      "directionality": "MORE",
+      "verbatim": [
+        "The knowledge or ignorance of such matters brings upon the poet no censure worth serious consideration. For who could suppose that there is any fault in the passage which Protagoras censures, because Homer, intending to utter a prayer, gives a command when he says, Sing, goddess, the wrath? To order something to be done or not is, he points out, a command. So we may leave this topic as one that belongs not to poetry but to another art."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle asserts that in his contemporary intellectual landscape, a poet is not subject to serious criticism (censure) for failing to understand the technical classifications of speech (like commands vs. prayers), as these belong to the art of elocution/rhetoric rather than poetry.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Poetic license for word alteration",
+      "group": "Poets",
+      "resource": "Right to alter standard language",
+      "directionality": "MORE",
+      "verbatim": [
+        "A considerable aid to clarity and distinction are the lengthening and abbreviation and alteration of words. Being otherwise than in the ordinary form and thus unusual, these will produce the effect of distinction, and clarity will be preserved by retaining part of the usual form. Those critics are therefore wrong who censure this manner of idiom and poke fun at the poet, as did the elder Eucleides who said it was easy to write poetry, granted the right to lengthen syllables at will."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle defends the specific professional entitlement of poets to use non-standard linguistic forms (lengthening, abbreviation, etc.) to achieve 'distinction' in their work, explicitly rejecting critics who would deny them this right.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Epic scope for simultaneous action",
+      "group": "Epic poets",
+      "resource": "Right to portray simultaneous events",
+      "directionality": "MORE",
+      "verbatim": [
+        "Epic has a special advantage which enables the length to be increased, because in tragedy it is not possible to represent several parts of the story as going on simultaneously, but only to show what is on the stage, that part of the story which the actors are performing; whereas, in the epic, because it is narrative, several parts can be portrayed as being enacted at the same time."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle describes the structural rules of the epic genre which grant epic poets a resource (representing simultaneous actions) that is denied to tragedians due to the physical constraints of the stage.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Epic use of rare words",
+      "group": "Epic poets",
+      "resource": "Right to use rare words",
+      "directionality": "MORE",
+      "verbatim": [
+        "The hexameter is the most sedate and stately of all metres and therefore admits of rare words and metaphors more than others, and narrative poetry is itself elaborate above all others."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that the epic genre (narrative poetry) allows for a higher frequency of 'rare words' compared to other forms of writing/poetry, granting these authors more linguistic freedom.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Metrical restriction on epic narrative",
+      "group": "Epic poets",
+      "resource": "Right to choose narrative metre",
+      "directionality": "LESS",
+      "verbatim": [
+        "Experience has shown that the heroic hexameter is the right metre. Were anyone to write a narrative poem in any other metre or in several metres, the effect would be wrong. ... So no one has composed a long poem in any metre other than the heroic hexameter. As we said above, Nature shows that this is the right metre to choose."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle defines a rigid professional convention for epic poets: they are restricted to the heroic hexameter. Using other meters is categorized as 'wrong,' effectively removing the resource of metrical choice for this specific group.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Poetic license for technical error",
+      "group": "Poets",
+      "resource": "Right to deviate from technical accuracy",
+      "directionality": "MORE",
+      "verbatim": [
+        "Moreover, the standard of what is correct is not the same in the art of poetry as it is in the art of social conduct or any other art. In the actual art of poetry there are two kinds of errors, essential and accidental. If a man meant to represent something and failed through incapacity, that is an essential error. But if his error is due to his original conception being wrong and his portraying, for example, a horse advancing both its right legs, that is then a technical error in some special branch of knowledge, in medicine, say, or whatever it may be; or else some sort of impossibility has been portrayed, but that is not an essential error."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Aristotle defines a specific normative standard for the occupation of poets, granting them a unique resource—the right to commit technical errors in other fields (like biology or medicine) without it negating the validity of their own art, provided the poetic goal is achieved.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Representation of ideal human types",
+      "group": "Poets",
+      "resource": "Right to represent idealized humans",
+      "directionality": "MORE",
+      "verbatim": [
+        "Next, supposing the charge is That is not true, one can meet it by saying But perhaps it ought to be, just as Sophocles said that he portrayed people as they ought to be and Euripides portrayed them as they are. . . It may be impossible that there should be such people as Zeuxis used to paint, but it would be better if there were; for the type should improve on the actual."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle identifies a convention in the Greek literary and artistic tradition where creators (poets and painters) are permitted and even encouraged to represent people not as they are, but as an improved 'ideal' type.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Poetic use of rare diction",
+      "group": "Poets",
+      "resource": "Access to non-standard diction",
+      "directionality": "MORE",
+      "verbatim": [
+        "These are expressed in diction with or without rare words and metaphors, there being many modifications of diction, all of which we allow the poet to use. . . Some objections may be met by reference to the diction, for example, by pleading rare word, e.g. οὐρῆας μὲν πρῶτον, for perhaps he means not mules but sentinels."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that society/critics 'allow' poets the specific resource of using modifications of language, rare words, and metaphors that would be incorrect in standard social conduct or prose.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Nobility"
+      ],
+      "rule": "Female restriction on vulgar representation",
+      "group": "Women",
+      "resource": "Protection from vulgar representation",
+      "directionality": "LESS",
+      "verbatim": [
+        "That was the objection to Callippides; and modern actors are similarly criticized for representing women who are not ladies."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristotle notes a specific social and artistic criticism regarding the portrayal of women on stage. The distinction between 'ladies' (implied noble or free women) and 'women who are not ladies' indicates that certain classes of women were expected to be represented with specific decorum, and the failure of actors to do so was a breach of contemporary norms regarding the public image and dignity of the group.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0086.tlg034.perseus-eng2",
+  "_perseus_author": "Aristotle",
+  "_perseus_title": "Poetics",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 10,
+  "_input_tokens": 54172,
+  "_output_tokens": 4950,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

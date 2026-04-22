@@ -1,0 +1,93 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to private suit",
+      "group": "Citizens",
+      "resource": "Right to bring a private suit for battery",
+      "directionality": "MORE",
+      "verbatim": [
+        "I took this course, therefore, and, in deference to their advice, have instituted a private suit, although I should have been very glad, men of Athens, to prosecute the defendant on a capital charge. ... No man in the world has ever seen us drunken or committing outrages, and I hold that I am doing nothing unfeeling in demanding to receive satisfaction according to the law for the wrongs I have suffered. ... Again, there are actions for battery; and these, I hear, exist for this reason—that a man, finding himself the weaker party, may not defend himself with a stone or anything of that sort, but may await legal redress."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker, an Athenian citizen, describes his legal standing to bring a 'dike aikeias' (private suit for battery) against another citizen for physical assault, framed as the proper legal alternative to private retaliation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from physical torture during legal inquiry",
+      "directionality": "LESS",
+      "verbatim": [
+        "Be that as it may, when they had had their fill and were tired of acting thus, they put in a challenge with a view to gaining time and preventing the boxes from being sealed, offering to deliver up certain slaves, whose names they wrote down, to be examined as to the assault. ... I think, however, that you should all note one thing—that if these men tendered the challenge in order that the inquiry by the torture should take place, and had confidence in this method of proof, they would not have tendered it when the award was now just being announced"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text discusses the 'proklesis' or challenge to hand over slaves for examination by torture (basanos) to provide evidence in a legal dispute, confirming that slaves were subject to torture for judicial proof.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy obligation for naval funding",
+      "group": "Wealthy citizens",
+      "resource": "Freedom from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "I might have much to say, men of the jury, about the services we have rendered you, I, and my father while he lived, both as trierarchs and in the army, and in performing whatever duty was laid upon us, and I could show that neither the defendant nor any of his sons have rendered any service"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of serving as 'trierarchs' refers to the liturgy system in Athens where the wealthiest citizens were legally required to fund and command triremes for the state navy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen eligibility for jury service",
+      "group": "Citizens",
+      "resource": "Right to serve on a jury",
+      "directionality": "MORE",
+      "verbatim": [
+        "With gross outrage I have met, men of the jury, at the hands of the defendant, Conon, and have suffered such bodily injury that for a very long time neither my relatives nor any of the attending physicians thought that I should survive. ... And for this you will all pardon me, I am sure, when you hear what I have suffered."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Throughout the speech, Ariston addresses the 'men of the jury' (dikastai), who are Athenian citizens empowered by law to hear cases and render verdicts.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public indictment for criminal outrage",
+      "group": "Citizens",
+      "resource": "Right to bring public indictments",
+      "directionality": "MORE",
+      "verbatim": [
+        "All my friends and relatives, whose advice I asked, declared that for what he had done the defendant was liable to summary seizure as a highwayman, or to public indictments for criminal outrage... the gravity of his assault would have justified a public indictment for criminal outrage (ὕβρεως γραφή)"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions the 'graphe hybreos' (public indictment for criminal outrage), a legal mechanism available for serious physical or social violations, which results in a heavy penalty to the state.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg054.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Against Conon",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 9916,
+  "_output_tokens": 1203,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

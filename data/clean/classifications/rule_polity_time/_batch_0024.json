@@ -1,0 +1,171 @@
+{
+  "batch_idx": 24,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0007.tlg121.perseus-eng3::5",
+    "tlg0007.tlg121.perseus-eng3::6",
+    "tlg0010.tlg029.perseus-eng2::0",
+    "tlg0010.tlg029.perseus-eng2::1",
+    "tlg0014.tlg022.perseus-eng2::0",
+    "tlg0014.tlg022.perseus-eng2::1",
+    "tlg0014.tlg022.perseus-eng2::2",
+    "tlg0014.tlg022.perseus-eng2::3",
+    "tlg0014.tlg022.perseus-eng2::4",
+    "tlg0014.tlg035.perseus-eng2::0",
+    "tlg0014.tlg035.perseus-eng2::1",
+    "tlg0014.tlg035.perseus-eng2::2",
+    "tlg0014.tlg035.perseus-eng2::3",
+    "tlg0014.tlg035.perseus-eng2::4",
+    "tlg0014.tlg049.perseus-eng2::0",
+    "tlg0014.tlg049.perseus-eng2::1",
+    "tlg0014.tlg049.perseus-eng2::2",
+    "tlg0014.tlg049.perseus-eng2::3",
+    "tlg0014.tlg049.perseus-eng2::4",
+    "tlg0017.tlg006.perseus-eng2::0"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Plutarch describes a decree from the archonship of Anaxicrates in Athens (307-306 BCE) regarding the Prytaneum, a central Athenian civic building.",
+      "rule_date": -307,
+      "rule_time_reasoning": "The text explicitly dates the decree and the granting of the maintenance to the archonship of Anaxicrates, which corresponds to 307 BCE."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule describes the legal disability of a Corinthian (metic) regarding the right to address the Athenian popular assembly.",
+      "rule_date": -324,
+      "rule_time_reasoning": "Deinarchus was active as a logographos in Athens during the late 4th century BCE; 324 BCE represents his floruit during the Harpalus affair."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Macedonian Empire",
+      "rule_polity_reasoning": "Isocrates is writing to Antipater, the regent of Macedonia, regarding the treatment of advisors within a monarchical court system.",
+      "rule_date": -340,
+      "rule_time_reasoning": "Isocrates wrote his letters to Macedonian figures in the years preceding his death in 338 BCE; -340 is a representative date for this correspondence."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Macedonian Empire",
+      "rule_polity_reasoning": "The context is a letter to Antipater concerning the requirements and perceived barriers for serving the Macedonian monarchy.",
+      "rule_date": -340,
+      "rule_time_reasoning": "Isocrates' correspondence with the Macedonian court occurred in the late 340s BCE, shortly before the end of his career."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The law concerns the duties of the Athenian Council (Boule) and the Assembly (Ekklesia) regarding the navy.",
+      "rule_date": -355,
+      "rule_time_reasoning": "Demosthenes' 'Against Androtion' is dated to approximately 355 BCE, describing current Athenian legal constraints."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The orator cites a law concerning the eligibility of citizens to address the Athenian Assembly based on moral conduct.",
+      "rule_date": -355,
+      "rule_time_reasoning": "This speech was delivered by Demosthenes around 355 BCE; the rule is treated as a currently enforceable statute in Athens."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule involves 'atimia' and debt to the Athenian public treasury (the exchequer), a core part of Athenian civic law.",
+      "rule_date": -355,
+      "rule_time_reasoning": "The speech 'Against Androtion' was delivered in 355 BCE, and the law of debt-based disqualification was active at that time."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text contrasts the legal status of Athenian freemen/citizens against slaves regarding physical liability for debt.",
+      "rule_date": -355,
+      "rule_time_reasoning": "Demosthenes' speech 'Against Androtion' (355 BCE) describes the contemporary legal protections afforded to Athenian citizens."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text refers to the 'eisphora' tax and the specific obligations of metics (resident aliens) in Athens.",
+      "rule_date": -355,
+      "rule_time_reasoning": "The rule is cited as current Athenian fiscal law during the prosecution of Androtion in 355 BCE."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The law regulates maritime grain trade specifically for residents and citizens of Athens.",
+      "rule_date": -340,
+      "rule_time_reasoning": "Demosthenes' speech 'Against Lacritus' is generally dated to the period around 340 BCE."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The legal argument concerns inheritance and debt liability within the jurisdiction of Athenian civil courts.",
+      "rule_date": -340,
+      "rule_time_reasoning": "The speech 'Against Lacritus' dates to roughly 340 BCE, reflecting contemporary Athenian inheritance norms."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text describes the 'dikai emporikai' (mercantile suits) which were a specific institution of the Athenian legal system.",
+      "rule_date": -340,
+      "rule_time_reasoning": "The speech 'Against Lacritus' (c. 340 BCE) describes the operation of Athenian commercial courts during this era."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The requirement for a 'prostates' (patron) and the jurisdiction of the Polemarch are specific to the Athenian treatment of metics.",
+      "rule_date": -340,
+      "rule_time_reasoning": "Cited as a functional legal requirement in Athens around 340 BCE in the speech 'Against Lacritus'."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule describes the contents of a maritime loan contract enforceable under Athenian law.",
+      "rule_date": -340,
+      "rule_time_reasoning": "The speech 'Against Lacritus' (c. 340 BCE) quotes contemporary maritime contracts and the laws governing them."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The passage describes the professional norms and record-keeping practices of bankers in 4th-century BCE Athens.",
+      "rule_date": -349,
+      "rule_time_reasoning": "Demosthenes' speech 'Against Timotheus' is traditionally dated to 349 BCE."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule mentions the 'arbitrator' and specific court fees (drachma deposit) characteristic of Athenian legal procedure.",
+      "rule_date": -349,
+      "rule_time_reasoning": "The speech 'Against Timotheus' describes legal actions and laws active in Athens around 349 BCE."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The practice of 'basanos' (torture of slaves for evidence) was a well-documented feature of the Classical Athenian legal system.",
+      "rule_date": -349,
+      "rule_time_reasoning": "Dated to 349 BCE, the year of the speech 'Against Timotheus', where this procedure is treated as the norm."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The law regarding 'deceiving the people' (eisangelia) is a specific political crime in the Athenian democracy.",
+      "rule_date": -349,
+      "rule_time_reasoning": "This rule was invoked by the orator in 349 BCE as a contemporary threat to those addressing the Athenian Assembly."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The distinction between free and slave testimony (deposition vs torture) defines the status of persons in Athenian law.",
+      "rule_date": -349,
+      "rule_time_reasoning": "The rule is presented as the current legal operative framework in Athens in 349 BCE."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The restriction on illegitimate children (nothoi) inheriting property is a famous tenet of Periclean-era Athenian law that continued into the 4th century.",
+      "rule_date": -364,
+      "rule_time_reasoning": "Isaeus' speech 'On the Estate of Philoctemon' is dated to approximately 364 BCE, reflecting the law of that time."
+    }
+  ],
+  "input_tokens": 4589,
+  "output_tokens": 2263,
+  "status": "ok"
+}

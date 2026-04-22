@@ -1,0 +1,77 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public claim filing for estates",
+      "group": "Non-citizens",
+      "resource": "Right to file a legal claim for an estate",
+      "directionality": "LESS",
+      "verbatim": [
+        "Foreseeing all these contingencies, we drew up our articles of agreement and swore our oaths in order that neither of us might have the opportunity of doing anything whatever independently, whether he should wish to do so or not, but that we should do everything by mutual agreement. [...] for the laws ordain that anyone who chooses may put in a claim."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While the speaker says 'anyone' may claim, in the context of Athenian inheritance law and the specific case of Comon of Halae (an Athenian deme), this refers to those with legal standing. The text highlights that the process is governed by the archon and specific laws, which historically restricted these rights to citizens or those with specific legal status, excluding those without the requisite citizenship/lineage link from the 'anyone' category in practice.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from torture during legal proceedings",
+      "directionality": "LESS",
+      "verbatim": [
+        "Soon after we had divided the shares between us, men of the jury, we became suspicious, and found out something about this money; and as a result of this suspicion Olympiodorus here and I decided to put the man to the torture. And the fellow, men of the jury, before he was put to the torture, voluntarily confessed that he had stolen a thousand drachmae from Comon."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes the 'basanos'—the standard practice where the testimony of a slave was only admissible or sought via physical torture. The masters decide to apply it based only on 'suspicion', showing slaves lacked protection from such violence in the context of legal/financial inquiries.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female exclusion from court",
+      "group": "Women",
+      "resource": "Right to speak in court",
+      "directionality": "LESS",
+      "verbatim": [
+        "I entreat you—and not I only, but my wife also, the sister of this Olympiodorus, and my daughter, his niece,—we all beg and implore you, men of the jury, (for I would have you imagine that these women are here present before you), if it be possible, to prevail upon this fellow Olympiodorus not to do us wrong."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker asks the jury to 'imagine' the women are present, implying they are not and cannot be legally present or speak for themselves in the heliastic courts. He acts as their representative (kyrios), confirming women's lack of direct access to legal proceedings.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Invalidation of acts under female influence",
+      "group": "Men",
+      "resource": "Right to have legal acts recognized",
+      "directionality": "LESS",
+      "verbatim": [
+        "And Solon established a law that all acts shall be null and void which are done by anyone under the influence of a woman, especially of a woman of her stamp. In this matter the lawgiver made wise provision."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker cites a specific law attributed to Solon stating that a man's legal actions (like breaking a contract or oath) can be invalidated if it is proven he was under the influence of a woman. This limits the autonomy/validity of a man's legal standing based on gendered interpersonal influence.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg048.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Against Olympiodorus",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 9026,
+  "_output_tokens": 979,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

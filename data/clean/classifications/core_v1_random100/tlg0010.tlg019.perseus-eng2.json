@@ -1,0 +1,93 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy obligation for naval financing",
+      "group": "The wealthy",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "Then when my career was near its close, having been challenged to an exchange of property on the question of a trierarchy, and subjected to a trial on that issue, I came to realize that even outside of my profession there were those who were not disposed towards me as I had thought. . . they imposed the trierarchy upon me."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates describes the trierarchy (trierarchia) as a mandatory public service (liturgy) imposed on the richest citizens to finance and command warships. His personal trial over the 'exchange of property' (antidosis) confirms that those identified as wealthy were legally obligated to provide this resource to the state.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Equal hearing for legal defense",
+      "group": "Citizens",
+      "resource": "Right to impartial legal hearing",
+      "directionality": "MORE",
+      "verbatim": [
+        "I beg you, then, neither to credit nor to discredit what has been said to you until you have heard to the end what I also have to say, bearing it in mind that there would have been no need of granting to the accused the right of making a defense, had it been possible to reach a just verdict from the arguments of the accuser. . . while we take our solemn oath at the beginning of each year that we will hear impartially both accusers and accused."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references the Heliastic Oath taken by Athenian jurors, which legally guarantees the right of the accused to represent themselves and be heard with equal weight to the accuser in court proceedings.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "War tax for the wealthy",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from war-tax (eisphora)",
+      "directionality": "LESS",
+      "verbatim": [
+        "I have enrolled not only yourself but your son among the twelve hundred who pay the war-taxes and bear the liturgies, and you and he have three times discharged the trierarchy, besides having performed the other services more generously and handsomely than the laws require."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The 'Twelve Hundred' refers to the wealthiest citizens categorized into symmories (tax groups) who were legally mandated to pay the eisphora (war tax) and perform other financial liturgies for the city.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen access to public doles",
+      "group": "Citizens",
+      "resource": "Access to state-funded distributions",
+      "directionality": "MORE",
+      "verbatim": [
+        "And if I have refrained from accepting the bounties which are distributed by the city it was because I thought it outrageous if I, who am able to maintain myself from my private resources, should stand in the way of any of those who have been compelled to get their livelihood from the city, and if because of my presence anyone should be deprived of the necessities of existence."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates refers to the 'bounties' (such as the theoricon or jury pay) which were distributed by the Athenian state to its citizens. He notes that while as a citizen he has the right to these resources, he chooses to leave them to poorer citizens who depend on them for survival.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to request arbitrator",
+      "group": "Citizens",
+      "resource": "Right to private dispute arbitration",
+      "directionality": "MORE",
+      "verbatim": [
+        "nor will any man be found to have sat either as arbitrator or as judge upon my actions. For I have schooled myself to avoid giving any offense to others, and, when I have been wronged by others, not to seek revenge in court but to adjust the matter in dispute by conferring with their friends."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms the existence of public and private arbitrators available to citizens to settle legal disputes outside of the formal jury-court system, provided both parties agree or the law necessitates it.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0010.tlg019.perseus-eng2",
+  "_perseus_author": "Isocrates",
+  "_perseus_title": "Antidosis",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 39358,
+  "_output_tokens": 1161,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

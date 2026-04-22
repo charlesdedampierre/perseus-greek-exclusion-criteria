@@ -1,0 +1,171 @@
+{
+  "batch_idx": 22,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0017.tlg002.perseus-eng2::8",
+    "tlg0017.tlg008.perseus-eng2::0",
+    "tlg0017.tlg008.perseus-eng2::1",
+    "tlg0017.tlg008.perseus-eng2::2",
+    "tlg0017.tlg008.perseus-eng2::3",
+    "tlg0017.tlg008.perseus-eng2::4",
+    "tlg0017.tlg008.perseus-eng2::5",
+    "tlg0017.tlg008.perseus-eng2::6",
+    "tlg0017.tlg008.perseus-eng2::7",
+    "tlg0017.tlg012.perseus-eng2::0",
+    "tlg0017.tlg012.perseus-eng2::1",
+    "tlg0017.tlg012.perseus-eng2::2",
+    "tlg0017.tlg012.perseus-eng2::3",
+    "tlg0017.tlg012.perseus-eng2::4",
+    "tlg0019.tlg008.perseus-eng1::0",
+    "tlg0019.tlg008.perseus-eng1::1",
+    "tlg0019.tlg008.perseus-eng1::2",
+    "tlg0019.tlg008.perseus-eng1::3",
+    "tlg0019.tlg008.perseus-eng1::4",
+    "tlg0019.tlg008.perseus-eng1::5"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Isaeus was an Athenian orator whose speeches exclusively concern Athenian inheritance and civic law.",
+      "rule_date": -370,
+      "rule_time_reasoning": "The speech 'On the Estate of Menecles' is dated to approximately 370-360 BCE during the author's career."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim refers to a specific Athenian law regarding inheritance through male vs. female lines.",
+      "rule_date": -360,
+      "rule_time_reasoning": "The speech 'On the Estate of Ciron' is dated for the purpose of this analysis to -360, mid-way through Isaeus's activity."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Isaeus describes Athenian social and legal customs regarding dowries and citizen status.",
+      "rule_date": -360,
+      "rule_time_reasoning": "Derived from the likely date of the speech 'On the Estate of Ciron' produced during the mid-4th century BCE."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The use of 'basanos' (torture of slaves for evidence) was a characteristic feature of the Athenian legal system.",
+      "rule_date": -360,
+      "rule_time_reasoning": "Standard date for the trial documented in 'On the Estate of Ciron'."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The Dionysia was the primary civic and religious festival of the Athenian state.",
+      "rule_date": -360,
+      "rule_time_reasoning": "Date refers to the period of the legal contest over Ciron's estate."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The Thesmophoria was a Panhellenic but specifically local festival in Athens where the 'demesmen's wives' held specific duties.",
+      "rule_date": -360,
+      "rule_time_reasoning": "Date refers to the period of the legal contest described by Isaeus."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The speech distinguishes between lineal and collateral kinsmen according to Athenian probate law.",
+      "rule_date": -360,
+      "rule_time_reasoning": "Standard dating for the floruit of Isaeus and this specific litigation."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim cites the Athenian law on the support of parents (Geraphoskia), which mandated care for ancestors.",
+      "rule_date": -360,
+      "rule_time_reasoning": "As a rule of living law in Isaeus's time, it is dated to his floruit or the specific case date."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim explicitly mentions the archonship of Eucleides, a turning point for Athenian citizenship rules.",
+      "rule_date": -403,
+      "rule_time_reasoning": "The speaker explicitly anchors the rule to the archonship of Eucleides in 403 BCE."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "This describes the procedure of the 'diapsephisis' (revision of citizen rolls) occurring specifically in the Athenian demes.",
+      "rule_date": -346,
+      "rule_time_reasoning": "The speech 'On Behalf of Euphiletus' relates to the general revision of Athenian citizen lists in 346/5 BCE."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The penalty of enslavement for failed citizenship claims was a draconian feature of 4th-century Athenian law.",
+      "rule_date": -346,
+      "rule_time_reasoning": "Date reflects the general revision of the citizen registers in Athens."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Confiscation of property (demiosion) was a standard Athenian penalty for those convicted of usurping citizen rights.",
+      "rule_date": -346,
+      "rule_time_reasoning": "Date reflects the general revision of the citizen registers in Athens."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The double-descent requirement (Pericles' citizenship law) was the fundamental status rule in Athens.",
+      "rule_date": -346,
+      "rule_time_reasoning": "The rule is argued within the context of the 346 BCE citizen list revision."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The enrollment in the phratry (ward) was an Athenian institution for validating legitimate male descent.",
+      "rule_date": -346,
+      "rule_time_reasoning": "Date corresponds to the legal proceedings regarding the status of Euphiletus."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "While the festival was common to Greeks, the play specifically satirizes the female-only assembly of the Athenian Thesmophoria.",
+      "rule_date": -411,
+      "rule_time_reasoning": "The play Thesmophoriazusae was first produced in Athens in 411 BCE."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The play depicts the internal self-governance of Athenian women during their exclusive religious festival.",
+      "rule_date": -411,
+      "rule_time_reasoning": "Production year of Aristophanes' comedy."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The exclusionary rules for Athenian religious rites frequently distinguished between free citizens and slaves.",
+      "rule_date": -411,
+      "rule_time_reasoning": "Production year of Aristophanes' comedy."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The comedy parodies the official terminology (decree, senate, president) of the Athenian democratic state.",
+      "rule_date": -411,
+      "rule_time_reasoning": "Production year of Aristophanes' comedy."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The domestic management of stores was a traditional domain of the Athenian 'oikos' female head.",
+      "rule_date": -411,
+      "rule_time_reasoning": "Production year of Aristophanes' comedy."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The restriction of citizen women to the 'gynaikonitis' is a well-documented ideal/norm of 5th-4th century Athens.",
+      "rule_date": -411,
+      "rule_time_reasoning": "Production year of Aristophanes' comedy."
+    }
+  ],
+  "input_tokens": 5242,
+  "output_tokens": 2008,
+  "status": "ok"
+}

@@ -1,0 +1,242 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen management of state affairs",
+      "group": "Men",
+      "resource": "Right to govern the city",
+      "directionality": "MORE",
+      "verbatim": [
+        "First of all, if you take the virtue of a man, it is easily stated that a man’s virtue is this—that he be competent to manage the affairs of his city, and to manage them so as to benefit his friends and harm his enemies, and to take care to avoid suffering harm himself."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Meno describes the standard expectation of a free male citizen's role in the Greek polis. The 'virtue' (arete) here is defined as the active capacity and right to manage political affairs, contrasting with the domestic role assigned to women.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female domestic property management",
+      "group": "Women",
+      "resource": "Right to manage household property",
+      "directionality": "MORE",
+      "verbatim": [
+        "Or take a woman’s virtue: there is no difficulty in describing it as the duty of ordering the house well, looking after the property indoors, and obeying her husband."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This passage defines the socially mandated sphere of influence for women in classical society, granting them authority over the domestic interior and property while explicitly subordinating them to their husbands.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave exclusion from governance",
+      "group": "Slaves",
+      "resource": "Right to govern others",
+      "directionality": "LESS",
+      "verbatim": [
+        "But is virtue the same in a child, Meno, and in a slave—an ability to govern each his master? And do you think he who governed would still be a slave? Men. I should say certainly not, Socrates."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue establishes that the condition of slavery is fundamentally incompatible with the resource of 'governance' or political power. If a slave were to govern, they would by definition no longer be a slave, confirming their total exclusion from this resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Gender"
+      ],
+      "rule": "Noble male access to offices",
+      "group": "Noble men",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§154] Men. I do. [§155] Soc. And do you not mean by goods such things as health and wealth? [§156] Men. Yes, and I include the acquisition of gold and silver, and of state honors and offices. [§157] Soc. Are there any things besides this sort, that you class as goods? [§158] Men. No, I refer only to everything of that sort. [§159] Soc. Very well: procuring gold and silver is virtue, according to Meno, the ancestral friend of the Great King."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the context of the dialogue, Meno (a noble Thessalian) defines virtue as the ability to procure 'goods', which he explicitly identifies as wealth and the attainment of state offices/honors. This reflects the real-world social expectation and legal capacity for men of high status and wealth to hold political power in Classical Greece.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Stranger vulnerability to arrest",
+      "group": "Foreigners",
+      "resource": "Protection from arbitrary arrest",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§182] ...You are well advised, I consider, in not voyaging or taking a trip away from home; for if you went on like this as a stranger in any other city you would very likely be taken up for a wizard."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Meno notes that Socrates' behavior (causing doubt and 'bewitching' others) would lead to him being physically detained ('taken up') if he were a 'stranger' in another city. This indicates that non-citizens traveling abroad (foreigners/strangers) lacked the legal protections against summary arrest or prosecution for social deviance that they might enjoy in their home city.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Master's right to command slaves",
+      "group": "Slaves",
+      "resource": "Right to personal autonomy",
+      "directionality": "LESS",
+      "verbatim": [
+        "Soc. Just call one of your own troop of attendants there, whichever one you please, that he may serve for my demonstration. Men. Certainly. You, I say, come here."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the dialogue, Meno's immediate command to his 'attendant' (slave) to move and participate in Socrates' experiment illustrates the master's absolute right to demand labor and presence without consent. It is presented as a normal social transaction between free men involving a slave.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Lineage"
+      ],
+      "rule": "Perpetuation of slave status (born in the house)",
+      "group": "Slaves",
+      "resource": "Right to freedom by birth",
+      "directionality": "LESS",
+      "verbatim": [
+        "Soc. He is a Greek, I suppose, and speaks Greek? Men. Oh yes, to be sure—born in the house."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of being 'born in the house' (*oikogenes*) indicates the legal and social reality of the time where children born to slaves within a household automatically inherited slave status, regardless of ethnicity (being Greek) or language proficiency.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Exclusion of slaves from formal education",
+      "group": "Slaves",
+      "resource": "Access to formal academic instruction",
+      "directionality": "LESS",
+      "verbatim": [
+        "Now, can anyone have taught him all this? You ought surely to know, especially as he was born and bred in your house. Men. Well, I know that no one has ever taught him."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Meno's certainty that 'no one has ever taught' the slave geometry or other branches of knowledge reflects the social norm where household slaves were typically not provided with formal intellectual or academic education (like geometry), which was reserved for free citizens.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Professional instructor fee collection",
+      "group": "Doctors",
+      "resource": "Right to charge a fee",
+      "directionality": "MORE",
+      "verbatim": [
+        "When we say this, do we mean that we should be wise in sending him to those who profess the art rather than those who do not, and to those who charge a fee for the particular thing they do, as avowed teachers of anyone who wishes to come and learn of them? If these were our reasons, should we not be right in sending him? An. Yes."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates and Anytus discuss the standard practice of professional training in Athens, noting that recognized practitioners of arts like medicine or cobbling have the accepted right to charge fees for providing instruction to pupils.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Sophist professional instruction",
+      "group": "Sophists",
+      "resource": "Right to charge a fee",
+      "directionality": "MORE",
+      "verbatim": [
+        "Or is it clear enough, from our argument just now, that he should go to these men who profess to be teachers of virtue and advertise themselves as the common teachers of the Greeks, and are ready to instruct anyone who chooses in return for fees charged on a fixed scale? ... Soc. Surely you know as well as anyone; they are the men whom people call sophists."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific class of teachers (Sophists) who commercially provide education in exchange for fixed monetary fees, a recognized social practice in 5th-century Greece.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Citizen eligibility for high office",
+      "group": "Citizens",
+      "resource": "Eligibility for the highest offices",
+      "directionality": "MORE",
+      "verbatim": [
+        "And further, he gave his son a good upbringing and education, as the Athenian people think, for they choose him for the highest offices."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates refers to Anytus, an Athenian citizen and son of a wealthy citizen, as someone the people select for top political magistracies, reflecting the legal eligibility of citizens for governance.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Citizenship"
+      ],
+      "rule": "Elite selection of private tutors",
+      "group": "The wealthy",
+      "resource": "Access to private specialized education",
+      "directionality": "MORE",
+      "verbatim": [
+        "Well, is it not obvious that this father would never have spent his money on having his children taught all those things, and then have omitted to teach them at no expense the others that would have made them good men, if virtue was to be taught? Will you say that perhaps Thucydides was one of the meaner sort, and had no great number of friends among the Athenians and allies? He, who was of a great house and had much influence in our city and all over Greece, so that if virtue were to be taught he would have found out the man who was likely to make his sons good, whether one of our own people or a foreigner, were he himself too busy owing to the cares of state!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes how wealthy and influential Athenian citizens like Thucydides (son of Melesias) used their financial resources and social networks to hire the best specialized masters (wrestling exponents, etc.) for their children, distinguishing the wealthy from the 'meaner sort' in their access to elite education.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Retention of runaway slaves",
+      "group": "Slaves",
+      "resource": "Right to self-determination",
+      "directionality": "LESS",
+      "verbatim": [
+        "To possess one of his works which is let loose does not count for much in value; it will not stay with you any more than a runaway slave: but when fastened up it is worth a great deal, for his productions are very fine things And to what am I referring in all this? To true opinion. For these, so long as they stay with us, are a fine possession, and effect all that is good; but they do not care to stay for long, and run away out of the human soul."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates uses the 'runaway slave' as a standard cultural metaphor for something that lacks value because it does not stay with its owner. This implies a legal and social reality where slaves are considered property that can be 'fastened' or 'let loose,' and that escaping (running away) is a violation of the owner's property rights.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Statesman direction through right opinion",
+      "group": "Statesmen",
+      "resource": "Political decision-making power",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§559] Soc. Therefore it was not by any wisdom, nor because they were wise, that the sort of men we spoke of controlled their states—Themistocles and the rest of them, to whom our friend Anytus was referring a moment ago. For this reason it was that they were unable to make others like unto themselves—because their qualities were not an effect of knowledge. [§560] Men. The case is probably as you say, Socrates. [§561] Soc. And if not by knowledge, as the only alternative it must have been by good opinion. This is the means which statesmen employ for their direction of states, and they have nothing more to do with wisdom than soothsayers and diviners; for these people utter many a true thing when inspired, but have no knowledge of anything they say."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes how established Athenian leaders like Themistocles guided the state. He identifies that their ability to lead (the resource of political power/direction) is not based on scientific knowledge or teachable wisdom, but on 'right opinion' or divine inspiration, which explains why they cannot train successors.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0059.tlg024.perseus-eng2",
+  "_perseus_author": "Plato",
+  "_perseus_title": "Meno",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 6,
+  "_input_tokens": 38429,
+  "_output_tokens": 3378,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

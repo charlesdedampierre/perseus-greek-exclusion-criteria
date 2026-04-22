@@ -1,0 +1,346 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Ethnicity"
+      ],
+      "rule": "Foreigner exclusion from dialectical sparing",
+      "group": "Foreigners",
+      "resource": "Protection from verbal harassment",
+      "directionality": "LESS",
+      "verbatim": [
+        "he spares neither father nor mother nor any other human being who can hear, and hardly even the lower animals, for he would certainly not spare a foreigner, if he could get an interpreter anywhere."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text describes the behavioral norms of young men in Athens engaging in dialectics. Foreigners (barbaroi) are explicitly mentioned as being subject to the same relentless questioning as family members and even animals, suggesting they lack any special protection from being targeted in intellectual disputes, provided a language bridge exists.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Grammarian status through phonetic categorization",
+      "group": "Educated persons",
+      "resource": "Right to be called a grammarian",
+      "directionality": "MORE",
+      "verbatim": [
+        "And one of us is no wiser than the other merely for knowing that it is infinite or that it is one; but that which makes each of us a grammarian is the knowledge of the number and nature of sounds."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates defines the specific technical knowledge required by social convention to claim the professional/educational title of 'grammarian'. It is not the general recognition of sound, but the mastery of its specific limits and numbers that confers this status.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Musical knowledge for social status",
+      "group": "The educated",
+      "resource": "Status as a musician",
+      "directionality": "MORE",
+      "verbatim": [
+        "But knowledge of these facts would not suffice to make you a musician, although ignorance of them would make you, if I may say so, quite worthless in respect to music. . . when you have grasped the number and quality of the intervals of the voice in respect to high and low pitch, and the limits of the intervals, and all the combinations derived from them . . . when you have thus grasped the facts, you have become a musician"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes a social and technical standard in 4th-century BCE Athens where becoming a 'musician' (a status of some account) requires specific mastery of harmonic intervals and theory; without it, one is considered 'worthless' in that domain.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Methodological knowledge for intellectual standing",
+      "group": "The educated",
+      "resource": "Inclusion among the wise",
+      "directionality": "MORE",
+      "verbatim": [
+        "But the infinite number of individuals and the infinite number in each of them makes you in every instance indefinite in thought and of no account and not to be considered among the wise, so long as you have never fixed your eye upon any definite number in anything."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule for intellectual classification in Greek philosophical society: an individual who lacks the ability to categorize things into definite numbers/types is excluded from the category of 'the wise' (sophai) and considered of 'no account'.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Citizen participation in philosophical discourse",
+      "group": "Citizens",
+      "resource": "Right to hold speakers to promises",
+      "directionality": "MORE",
+      "verbatim": [
+        "When those two claims were made and an argument arose, we playfully threatened that we would not let you go home until the discussion was brought to some satisfactory conclusion. You agreed and put yourself at our disposal for that purpose. Now, we say that, as children put it, you cannot take back a gift once fairly given. So cease this way of meeting all that we say. . . Let us not imagine that the end of our present discussion is a mere puzzling of us all, but if we cannot answer, you must do so; for you gave us a promise."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage reflects the social convention of 'dialogue' among free Athenian men (the son of Callias and Socrates), where a verbal agreement to finish a discussion creates a social obligation that the participants can enforce by 'not letting them go home'.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Education"
+      ],
+      "rule": "Philosophical inquiry through dialectical cooperation",
+      "group": "Education",
+      "resource": "Right to continued participation in discourse",
+      "directionality": "MORE",
+      "verbatim": [
+        "Not only that, but because you do not understand that not one of us will let you go yet until you have finished the argument about these matters.",
+        "However, if we do need a fifth, you will pardon me for going after it. Pro. Of course."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the context of the Socratic dialogue, the participants establish a normative rule of discourse where the 'inquirer' or 'philosopher' is not permitted to abandon a topic until a conclusion is reached. This reflects the social expectation and right among educated peers to hold an interlocutor to the rigor of the investigation.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Divine governance of universal order",
+      "group": "Religion",
+      "resource": "Power to establish law and order",
+      "directionality": "MORE",
+      "verbatim": [
+        "This goddess my fair Philebus, beholding the violence and universal wickedness which prevailed, since there was no limit of pleasures or of indulgence in them, established law and order, which contain a limit."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates describes a rule where the 'goddess' (referring to the principle of limit/measure) intervenes in human affairs to impose legal and orderly boundaries over infinite pleasure. This illustrates a perceived divine right to regulate social and physical behavior through the imposition of 'limit'.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Education",
+        "Occupation"
+      ],
+      "rule": "Philosopher consensus on mind's authority",
+      "group": "Education",
+      "resource": "Political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "Yet the answer is easy; for all philosophers agree—whereby they really exalt themselves—that mind is king of heaven and earth. Perhaps they are right."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific professional/intellectual group (philosophers) and a rule they uphold: the assignment of supreme authority ('king') to Mind/Intelligence. While metaphysical, it describes the consensus-driven status of the 'Mind' within that group's framework of world-governance.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Divine exemption from pleasure and pain",
+      "group": "Deities",
+      "resource": "Exemption from emotional and physical suffering",
+      "directionality": "MORE",
+      "verbatim": [
+        "Such a man, then, would have such a life; and perhaps it is not unreasonable, if that is the most divine of lives. Pro. Certainly it is not likely that gods feel either joy or its opposite. Soc. No, it is very unlikely; for either is unseemly for them."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates and Protarchus discuss the nature of the divine as an established cultural and philosophical premise, concluding that gods, by their nature, do not experience the disruptions of pain or the restorations of pleasure that characterize mortal living beings.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Divine favor for the pious",
+      "group": "The pious",
+      "resource": "Divine favor",
+      "directionality": "MORE",
+      "verbatim": [
+        "Soc. A just, pious, and good man is surely a friend of the gods, is he not? Pro. Certainly. Soc. And an unjust and thoroughly bad man is the reverse? Pro. Of course."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates describes a social and religious norm in Greek society where individuals who are characterized by piety and goodness are considered 'friends of the gods,' implying they have access to divine favor, whereas the unjust do not. This is presented as an agreed-upon premise of human condition/status.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Pious access to true premonitions",
+      "group": "The pious",
+      "resource": "Access to true mental images",
+      "directionality": "MORE",
+      "verbatim": [
+        "Soc. Shall we or shall we not say that of these pictures those are for the most part true which are presented to the good, because they are friends of the gods, whereas those presented to the bad are for the most part false? Pro. Surely we must say that. Soc. Then the bad also, no less than the good, have pleasures painted in their souls, but they are false pleasures. Pro. Yes, surely. Soc. Then the bad rejoice for the most part in the false, and the good in true pleasures."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text establishes a rule linking ethical/religious standing (the good/pious) to the nature of their internal 'pictures' (hopes/anticipations). The pious are granted 'true' pleasures/images because of their relationship with the gods, while the bad are restricted to 'false' ones. This is treated as a general rule of human psychology governed by divine relationship.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Health"
+      ],
+      "rule": "Increased pleasure intensity in diseased states",
+      "group": "The sick",
+      "resource": "Intensity of physical pleasure",
+      "directionality": "MORE",
+      "verbatim": [
+        "But do not people who are in a fever, or in similar diseases, feel more intensely thirst and cold and other bodily sufferings which they usually have; and do they not feel greater want, followed by greater pleasure when their want is satisfied? Is this true, or not? Now that you have said it, it certainly appears to be true. Then should we appear to be right in saying that if we wished to discover the greatest pleasures we should have to look, not at health, but at disease?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates argues that people suffering from illnesses experience bodily needs and the subsequent pleasure of their satisfaction (like quenching thirst in a fever) with greater intensity than healthy people. This identifies the sick as a group possessing more of the resource of pleasure-intensity.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Intense pleasure sway over the foolish",
+      "group": "The foolish and dissolute",
+      "resource": "Susceptibility to intense pleasure",
+      "directionality": "MORE",
+      "verbatim": [
+        "For the self-restrained are always held in check by the advice of the proverbial expression nothing too much, which guides their actions; but intense pleasure holds sway over the foolish and dissolute even to the point of madness and makes them notorious. Good; and if that is true, it is clear that the greatest pleasures and the greatest pains originate in some depravity of soul and body, not in virtue."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text contrasts 'the self-restrained' (guided by wisdom/virtue) with 'the foolish and dissolute,' stating that the latter group is governed by more intense pleasures (described as 'holding sway'). While 'dissolute' is behavioral, 'foolish' maps to the criterion of Education/Wisdom.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Access to unmixed intellectual pleasures",
+      "group": "The educated",
+      "resource": "Access to pleasures of knowledge",
+      "directionality": "MORE",
+      "verbatim": [
+        "Soc. Then we may say that these pleasures of knowledge are unmixed with pain and are felt not by the many but only by very few.  Pro. Yes, certainly."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates distinguishes a specific class of 'unmixed' pleasures—those derived from knowledge—and explicitly states they are not accessible to the general population ('the many') but only to a select few, implying that the possession of knowledge/education is the boundary for this specific resource.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Powerful ignorance protection from ridicule",
+      "group": "The powerful",
+      "resource": "Exemption from being considered ridiculous",
+      "directionality": "MORE",
+      "verbatim": [
+        "those of them who have this false conceit and are weak and unable to revenge themselves when they are laughed at you may truly call ridiculous, but those who are strong and able to revenge themselves you will define most correctly to yourself by calling them powerful, terrible, and hateful, for ignorance in the powerful is hateful and infamous—since whether real or feigned it injures their neighbors—but ignorance in the weak appears to us as naturally ridiculous."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text establishes a rule of social classification: when individuals possess a false conceit of themselves (e.g., regarding wealth or wisdom), their social status (strength/power) determines the reaction. The weak are granted the status of being 'ridiculous,' while the strong/powerful are viewed as 'hateful' or 'terrible' because they can inflict harm, effectively exempting them from the 'ridiculous' category.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Education"
+      ],
+      "rule": "Philosophical arithmetic's superior accuracy",
+      "group": "Philosophers",
+      "resource": "Access to exact knowledge",
+      "directionality": "MORE",
+      "verbatim": [
+        "Soc. Are there not two kinds of arithmetic, that of the people and that of philosophers?",
+        "Pro. How can one kind of arithmetic be distinguished from the other?",
+        "Soc. The distinction is no small one, Protarchus. For some arithmeticians reckon unequal units, for instance, two armies and two oxen and two very small or incomparably large units; whereas others refuse to agree with them unless each of countless units is declared to differ not at all from each and every other unit.",
+        "Pro. Socrates, we have found a marvelously great difference in the clearness of different kinds of knowledge. [...] let our reply be this, that the arithmetical and metrical arts far surpass the others and that of these the arts which are stirred by the impulse of the true philosophers are immeasurably superior in accuracy and truth about measures and numbers."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates distinguishes between the practical arithmetic used by 'the people' (merchants/manual laborers) and the theoretical arithmetic of 'philosophers'. He establishes a rule of intellectual hierarchy where the philosophical version of the group's activity provides access to a higher tier of 'accuracy' and 'truth', which are treated here as measurable cognitive resources.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Building trade's superior scientific accuracy",
+      "group": "Builders",
+      "resource": "Science-based technical accuracy",
+      "directionality": "MORE",
+      "verbatim": [
+        "Soc. But the art of building, I believe, employs the greatest number of measures and instruments which give it great accuracy and make it more scientific than most arts.",
+        "Pro. In what way?",
+        "Soc. In shipbuilding and house-building, and many other branches of wood-working. For the artisan uses a rule, I imagine, a lathe, compasses, a chalk-line, and an ingenious instrument called a vice.",
+        "Soc. Let us, then, divide the arts, as they are called, into two kinds, those which resemble music, and have less accuracy in their works, and those which, like building, are more exact."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates classifies manual occupations based on their use of instruments. Builders (shipbuilders and house-builders) are granted a higher status of 'accuracy' and 'scientific' method compared to other craftsmen like musicians or physicians, because their specific trade uses standardized measuring tools.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Music and medicine guesswork dependency",
+      "group": "Musicians",
+      "resource": "Methodological certainty",
+      "directionality": "LESS",
+      "verbatim": [
+        "Soc. Take music first; it is full of this; it attains harmony by guesswork based on practice, not by measurement; and flute music throughout tries to find the pitch of each note as it is produced by guess, so that the amount of uncertainty mixed up in it is great, and the amount of certainty small.",
+        "Pro. Very true.",
+        "Soc. And we shall find that medicine and agriculture and piloting and generalship are all in the same case."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that certain professions (musicians, doctors, farmers, pilots, generals) operate with less 'certainty' and 'measurement,' relying instead on 'guesswork' and 'toil.' This identifies a specific group-based lack of a resource (methodological certainty) compared to more 'exact' arts like building.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Practical artisan knowledge inclusion",
+      "group": "Artisans",
+      "resource": "Right to exercise craft with imperfect tools",
+      "directionality": "MORE",
+      "verbatim": [
+        "Soc. Now will this man have sufficient knowledge, if he is master of the theory of the divine circle and sphere, but is ignorant of our human sphere and human circles, even when he uses these and other kinds of rules or patterns in building houses? Pro. We call that a ridiculous state of intellect in a man, Socrates, which is concerned only with divine knowledge. Soc. What? Do you mean to say that the uncertain and impure art of the false rule and circle is to be put into our mixture? Pro. Yes, that is inevitable, if any man is ever to find his own way home."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage establishes that for real-world application (like building houses), artisans must use imperfect/human tools (the 'false rule and circle'). Plato acknowledges that even in an ideal life, the practical knowledge required by builders and craftsmen to function in human society must be accepted and included.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Perjury pardon for lovers",
+      "group": "The enamoured",
+      "resource": "Protection from divine punishment for perjury",
+      "directionality": "MORE",
+      "verbatim": [
+        "For pleasure is the greatest of impostors, and the story goes that in the pleasures of love, which are said to be the greatest, perjury is even pardoned by the gods, as if the pleasures were like children, utterly devoid of all sense."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text describes a specific cultural and religious norm (or 'story') where the gods grant exception from the usual punishment for perjury to those acting under the influence of sexual pleasure. This functions as a rule of divine law or social expectation regarding a specific behavioral group (lovers).",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0059.tlg010.perseus-eng2",
+  "_perseus_author": "Plato",
+  "_perseus_title": "Philebus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 10,
+  "_input_tokens": 60306,
+  "_output_tokens": 5072,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

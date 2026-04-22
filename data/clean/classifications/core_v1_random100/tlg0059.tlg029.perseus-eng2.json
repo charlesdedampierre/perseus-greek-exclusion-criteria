@@ -1,0 +1,29 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Subjection of the uneducated",
+      "group": "The uneducated",
+      "resource": "Right to self-governance",
+      "directionality": "LESS",
+      "verbatim": [
+        "Moreover, the conclusion of this argument of yours is a fine one,—how that for every man who knows not how to make use of his soul it is better to have his soul at rest and not to live, than to live acting according to his own caprice; but if it is necessary for him to live, it is better after all for such an one to spend his life as a slave rather than a free man, handing over the rudder of his will, as it were of a ship, to another man who has learnt the art of steering men—which is the name that you, Socrates, frequently give to politics, when you declare that this very same art is that of judging and justice."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Cleitophon summarizes a rule attributed to Socrates: that those who lack the 'art' of using their soul (education/justice) should be deprived of their autonomy (self-governance) and placed in a state of slavery to a knowledgeable ruler. This defines a relationship where lack of education justifies a loss of freedom.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0059.tlg029.perseus-eng2",
+  "_perseus_author": "Plato",
+  "_perseus_title": "Cleitophon",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5784,
+  "_output_tokens": 330,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

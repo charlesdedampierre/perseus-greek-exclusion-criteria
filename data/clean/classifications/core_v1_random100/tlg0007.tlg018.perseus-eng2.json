@@ -1,0 +1,94 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Colonial military assistance",
+      "group": "Colonial citizens",
+      "resource": "Right to military protection from the mother-city",
+      "directionality": "MORE",
+      "verbatim": [
+        "But when the embassy arrived, the Corinthians, since they were wont to be ever solicitous for their colonial cities and for Syracuse in particular, and since by good fortune there was nothing in Greece at that time to disturb them, but they were enjoying peace and leisure, voted readily to give the assistance desired. And while they were seeking for a commander, and the magistrates were writing down the names of those in the city who were eager for the honour and proposing them for election, one of the common people rose to his feet and nominated Timoleon the son of Timodemus."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a customary rule/norm where Corinthian citizens feel obligated to provide military and administrative support to their daughter-cities (colonies) when requested, treating it as a standard political relationship.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Foreigner exclusion from land ownership",
+      "group": "Sicilian Greeks",
+      "resource": "Right to own land",
+      "directionality": "MORE",
+      "verbatim": [
+        "the Corinthians had overthrown the tyranny in Syracuse, and driven out the tyrant, and now invited Syracusans, and any other Sicilian Greeks who wished, to people the city with free and independent citizens, allotting the land among them on equal and just terms. In the second place, they sent messengers to Asia and the islands, where they learned that most of the scattered exiles were residing, and invited them all to come to Corinth, assuring them that the Corinthians, at their own expense, would furnish them with leaders and transports and a safe convoy to Syracuse."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The redistribution of land is explicitly restricted to 'Syracusans' and 'Sicilian Greeks,' excluding the 'Barbarians' (Carthaginians/mixed races) mentioned elsewhere in the text. This establishes citizenship/ethnicity as the barrier for the resource of land allotment.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Right of free speech",
+      "group": "Syracusans",
+      "resource": "Right of free speech",
+      "directionality": "MORE",
+      "verbatim": [
+        "and Timoleon would not suffer the citizens to stop the man by their turbulent disapproval; for he himself, he said, had of his own accord endured all his toils and dangers in order that any Syracusan who wished might avail himself of the laws. And when the other, Demaenetus, brought many denunciations in open assembly against his conduct in the field, to him, indeed, Timoleon made no answer, but said he owed thanks to the gods, for he had prayed them that he might live to see the Syracusans gain the right of free speech."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Timoleon establishes the legal right for any Syracusan citizen to speak freely in the assembly and to bring legal actions (even against the leader), defining this as a core component of the restored democracy.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Corinthian generalship requirement",
+      "group": "Syracusans",
+      "resource": "Right to choose non-Corinthian generals",
+      "directionality": "LESS",
+      "verbatim": [
+        "And of the many great things decreed and done in his honour, nothing surpassed the vote passed by the people of Syracuse that whenever they went to war against alien peoples, they would employ a Corinthian as their general. Moreover, the proceedings in their assemblies afforded a noble spectacle in his honour, since, while they decided other matters by themselves, for the more important deliberations they summoned him."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The Syracusan assembly passed a formal decree (a legal rule) mandating that for future wars against foreigners, the commander must be chosen specifically from their mother-city, Corinth.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public funeral and burial",
+      "group": "Public benefactors",
+      "resource": "Right to public burial in the market place",
+      "directionality": "MORE",
+      "verbatim": [
+        "By the people of Syracuse, Timoleon, son of Timodemus, from Corinth, is here buried at a public cost of two hundred minas, and is honoured for all time with annual contests, musical, equestrian, and gymnastic... Furthermore, they buried his ashes in the market place, and afterwards, when they had surrounded it with porticoes and built palaestras in it, they set it apart as a gymnasium for their young men, and named it Timoleonteum."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text records a formal decree granting a specific individual based on his status as 'savior' and 'founder' the resource of a state-funded funeral and burial within the sacred/civic space of the market place (agora).",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg018.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Timoleon",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 20575,
+  "_output_tokens": 1315,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

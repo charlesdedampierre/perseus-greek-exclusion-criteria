@@ -1,0 +1,141 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Private citizen freedom of speech",
+      "group": "Private citizens",
+      "resource": "Freedom of speech",
+      "directionality": "MORE",
+      "verbatim": [
+        "For when men are in private life, many things contribute to their education: first and foremost, the absence of luxury among them, and the necessity they are under to take thought each day for their livelihood; next, the laws by which in each case their civic life is governed; furthermore, freedom of speech and the privilege which is openly granted to friends to rebuke and to enemies to attack each other’s faults; besides, a number of the poets of earlier times especially the “gnomic” poets mentioned in 43. have left precepts which direct them how to live; so that, from all these influences, they may reasonably be expected to become better men."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates contrasts the educational environment of private citizens with that of kings, noting that private citizens possess the 'freedom of speech' (parrhesia) to rebuke one another, a resource he claims kings lack because people only speak to flatter them.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "King exclusion from admonition",
+      "group": "Kings",
+      "resource": "Access to honest admonition",
+      "directionality": "LESS",
+      "verbatim": [
+        "Kings, however, have no such help; on the contrary, they, who more than other men should be thoroughly trained, live all their lives, from the time when they are placed in authority, without admonition; for the great majority of people do not come in contact with them, and those who are of their society consort with them to gain their favor."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a systemic structural isolation inherent in the station of kingship where the resource of 'admonition' or critical feedback is effectively denied due to the social distance of the masses and the sycophancy of associates.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Mass entitlement to mild government",
+      "group": "The masses",
+      "resource": "Milder government",
+      "directionality": "MORE",
+      "verbatim": [
+        "for those who educate men in private stations benefit them alone, but if one can turn those who rule over the multitude toward a life of virtue, he will help both classes, both those who hold positions of authority and their subjects; for he will give to kings a greater security in office and to the people a milder government."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates states a principle of governance where the virtuous education of a ruler results in the subjects (the people/multitude) receiving the resource of a 'milder government.'",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Meritocratic honor for subjects",
+      "group": "The best among the multitude",
+      "resource": "Access to public honors",
+      "directionality": "MORE",
+      "verbatim": [
+        "You will be a wise leader of the people if you do not allow the multitude either to do or to suffer outrage, but see to it that the best among them shall have the honors, while the rest shall suffer no impairment of their rights; for these are the first and most important elements of good government."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text defines a rule for good government where 'the best' (defined by merit/virtue) are granted access to 'honors' as a specific resource, distinguishing them from the general multitude.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Protection of citizen rights",
+      "group": "Citizens",
+      "resource": "Protection of rights",
+      "directionality": "MORE",
+      "verbatim": [
+        "You will be a wise leader of the people if you do not allow the multitude either to do or to suffer outrage, but see to it that the best among them shall have the honors, while the rest shall suffer no impairment of their rights; for these are the first and most important elements of good government."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage establishes that the general body of citizens ('the rest') are entitled to the preservation of their existing rights without impairment as a core function of the state.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Royal ownership of state property",
+      "group": "Kings",
+      "resource": "Right to state property",
+      "directionality": "MORE",
+      "verbatim": [
+        "Watch over the estates of your citizens, and consider that the spenders are paying from your pocket, and the workers are adding to your wealth; for all the property of those who live in the state belongs to kings who rule them well."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates describes a contemporary legal or political conception of absolute monarchy where the king is viewed as the ultimate owner of all property within the state.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Ethnicity"
+      ],
+      "rule": "Foreigner security in the city",
+      "group": "Foreigners",
+      "resource": "Security and good faith",
+      "directionality": "MORE",
+      "verbatim": [
+        "To all foreigners, see that the city offers security and good faith in its engagements; and in your treatment of those who come from abroad, make the most, not of those who bring you gifts, but of those who expect to receive gifts from you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author outlines a rule of conduct for the state toward non-citizens ('foreigners'), prescribing that they must be granted 'security' and fair dealing.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "King exclusion from license",
+      "group": "Kings",
+      "resource": "Right to live with license",
+      "directionality": "LESS",
+      "verbatim": [
+        "Do not think that while all other people should live with sobriety, kings may live with license; on the contrary, let your own self-control stand as an example to the rest, realizing that the manners of the whole state are copied from its rulers."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While kings have power, the social rule described here restricts their 'license' (the freedom to act without restraint) more than commoners, as their behavior serves as a mandatory social template.",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0010.tlg013.perseus-eng2",
+  "_perseus_author": "Isocrates",
+  "_perseus_title": "To Nicocles",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 9637,
+  "_output_tokens": 1707,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

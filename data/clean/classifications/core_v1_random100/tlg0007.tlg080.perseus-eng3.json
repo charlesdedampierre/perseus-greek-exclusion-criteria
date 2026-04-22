@@ -1,0 +1,77 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave master exchange demand",
+      "group": "Slaves",
+      "resource": "Right to change masters",
+      "directionality": "MORE",
+      "verbatim": [
+        "There is a law even for slaves who have given up all hope of freedom, that they may demand a sale, and thus exchange their present master for one more mild."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a specific legal mechanism available to slaves in his contemporary Roman/Greek world, allowing them to escape abuse by requesting to be sold to a different owner.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Sanctuary for fugitives and robbers",
+      "group": "Robbers",
+      "resource": "Protection from capture in shrines",
+      "directionality": "MORE",
+      "verbatim": [
+        "For a slave there is an altar to which he can flee, and there are many of our shrines where even robbers may find sanctuary, and men who are fleeing from the enemy, if once they lay hold upon a statue of a god, or a temple, take courage again."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies that specific locations (shrines and altars) provide a concrete legal/social protection from pursuit or violence for those categorized as robbers or enemies.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Poor exemption from blackmail",
+      "group": "The poor",
+      "resource": "Protection from blackmailers",
+      "directionality": "MORE",
+      "verbatim": [
+        "No fear of the sea has he who does not sail upon it, nor of war he who does not serve in the army, nor of highwaymen he who stays at home, nor of a blackmailer he who is poor, nor of envy he who holds no office"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch notes a social reality where the lack of material wealth functions as a practical protection (resource) against the specific threat of sycophancy or blackmail.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Non-office holder envy exemption",
+      "group": "Private individuals",
+      "resource": "Protection from political envy",
+      "directionality": "MORE",
+      "verbatim": [
+        "nor of envy he who holds no office, nor of earthquake he who is in Gaul"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Holding no office (occupational status) correlates with protection from the specific social 'resource' of being targeted by political envy/prosecution common in the Greek city-state context.",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0007.tlg080.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Superstition",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 12090,
+  "_output_tokens": 739,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,98 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Inventory submission deadline after oath",
+      "group": "Wealthy citizens",
+      "resource": "Right to specific legal deadlines",
+      "directionality": "LESS",
+      "verbatim": [
+        "instead of giving me the inventory of his property as the law prescribes within three days after he took the oath, or if he did not wish to do so then, giving it at least on the sixth day of the month Boedromion... he did neither the one thing nor the other."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific procedural law in the 'antidosis' (exchange of property) process where a wealthy individual challenged to an exchange must provide an inventory of assets within a fixed timeframe (3 days). Failure to do so is a legal transgression.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Property sealing during exchange proceedings",
+      "group": "Wealthy citizens",
+      "resource": "Protection of property integrity",
+      "directionality": "MORE",
+      "verbatim": [
+        "instead of leaving untouched the seals which I had put upon the buildings, he went into the country, opened the buildings, and carried off the barley and other things, just as if the law had granted him the privilege of doing whatever he pleases",
+        "I sealed the buildings, as the law permitted me; he opened them."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the context of the antidosis, the law permitted the challenger to place seals on the buildings of the person challenged to ensure the assets remained intact for potential exchange. Breaking these seals is cited as a violation of existing law.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy obligation for the Three Hundred",
+      "group": "The wealthiest citizens",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "remaining in the group of the Three Hundred... these groups, being made up of the richest citizens, naturally bore the heaviest burdens, and in times of crisis might be called upon to advance the entire amount of money required.",
+        "appoint him in the list of the Three Hundred in my stead; for it is on this account that the laws every year provide for the tendering of exchanges"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Athenian law grouped the 300 wealthiest citizens to bear the financial burdens of the state (liturgies). The lawsuit itself is a mechanism for a member of this group to substitute himself with a wealthier individual through an 'exchange' (antidosis).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Wealth / Properties"
+      ],
+      "rule": "Mining property tax exemption",
+      "group": "Mining concessionaires",
+      "resource": "Exemption from metic tax or liturgies",
+      "directionality": "MORE",
+      "verbatim": [
+        "I will give a true and honest inventory of my property except that in the silver mines, all of which the laws have made exempt from taxes.",
+        "Read me first that law which declares that no mining property shall be included in the inventory"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Athenian law explicitly excluded wealth invested in the state silver mines from the calculation of property for the purpose of public service obligations (liturgies).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage",
+        "Wealth / Properties"
+      ],
+      "rule": "Dowry absorption by adult sons",
+      "group": "Adult sons of widowed mothers",
+      "resource": "Right to retain property",
+      "directionality": "MORE",
+      "verbatim": [
+        "He declares that a debt is owing to her for her marriage portion, but of this the laws make him the owner. After the death of her husband... In this case the marriage portion became the property of her son. In return he was bound to give his mother maintenance, but the portion could not be counted a lien upon his property."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explains a legal rule where a mother’s dowry becomes the legal property of the son once he reaches adulthood/the father dies, provided she lives with him. This means it cannot be listed as a 'debt' (lien) against his estate during a property assessment.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg042.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Against Phaenippus",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 7446,
+  "_output_tokens": 1143,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

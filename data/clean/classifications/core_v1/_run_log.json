@@ -1,0 +1,90 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "core_prompt_V1.md",
+  "sample": "final_dataset_for_criteria_sample.tsv",
+  "n_works": 10,
+  "ok": 10,
+  "errors": 0,
+  "rules_total": 426,
+  "input_tokens": 548449,
+  "output_tokens": 90941,
+  "price_in_per_1M": 0.5,
+  "price_out_per_1M": 3.0,
+  "cost_usd": 0.547,
+  "elapsed_sec": 295.1,
+  "results": [
+    {
+      "file_id": "tlg0007.tlg119.perseus-eng3",
+      "status": "cached",
+      "input_tokens": 4120,
+      "output_tokens": 705,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0007.tlg118.perseus-eng3",
+      "status": "cached",
+      "input_tokens": 33391,
+      "output_tokens": 1403,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0062.tlg034.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 24177,
+      "output_tokens": 3690,
+      "n_rules": 16
+    },
+    {
+      "file_id": "tlg0062.tlg047.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 6046,
+      "output_tokens": 999,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0032.tlg015.perseus-eng1",
+      "status": "cached",
+      "input_tokens": 20708,
+      "output_tokens": 3769,
+      "n_rules": 16
+    },
+    {
+      "file_id": "tlg0014.tlg059.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 22487,
+      "output_tokens": 2951,
+      "n_rules": 13
+    },
+    {
+      "file_id": "tlg0540.tlg012.perseus-eng2",
+      "status": "cached",
+      "input_tokens": 18270,
+      "output_tokens": 3520,
+      "n_rules": 16
+    },
+    {
+      "file_id": "tlg0059.tlg008.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 11,
+      "input_tokens": 70002,
+      "output_tokens": 8138,
+      "n_rules": 33
+    },
+    {
+      "file_id": "tlg0086.tlg003.perseus-eng1",
+      "status": "ok",
+      "n_chunks": 14,
+      "input_tokens": 85039,
+      "output_tokens": 16846,
+      "n_rules": 84
+    },
+    {
+      "file_id": "tlg0086.tlg035.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 49,
+      "input_tokens": 264209,
+      "output_tokens": 48920,
+      "n_rules": 235
+    }
+  ]
+}

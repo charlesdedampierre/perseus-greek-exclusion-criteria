@@ -1,0 +1,126 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Military training for young men",
+      "group": "Minors",
+      "resource": "Access to military education",
+      "directionality": "MORE",
+      "verbatim": [
+        "From his earliest years he was trained in the arts of war, since at that time Rome was carrying on many great contests and her young men from the very outset were taught by service as soldiers how to command soldiers."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a general societal practice during the Roman Republic (specifically during the Second Punic War) where young men were systematically integrated into military service as part of their education and social development.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Age requirements for Roman magistracies",
+      "group": "Minors",
+      "resource": "Eligibility for the consulship",
+      "directionality": "LESS",
+      "verbatim": [
+        "But the tribunes Fulvius and Manius opposed his course, and said that it was a monstrous thing for a young man to force his way into the highest office contrary to the laws, before he had been initiated, as it were, into the first rites and mysteries of government. The senate, however, referred the matter to the votes of the people, and the people elected him consul along with Sextus Aelius, although he was not yet thirty years old."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions laws that restricted the consulship to men who had reached a certain age and completed a sequence of lower offices (cursus honorum). Flamininus' election was contested precisely because it violated these age-based legal restrictions.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Alien tax for non-citizen residents",
+      "group": "Metics",
+      "resource": "Exemption from metic tax",
+      "directionality": "LESS",
+      "verbatim": [
+        "Xenocrates the philosopher, as the story runs, was once being haled away to prison by the tax-collectors for not having paid the alien’s tax, but was rescued out of their hands by Lycurgus the orator, who also visited the officials with punishment for their impudence."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch cites a historical anecdote regarding an 'alien's tax' (the metoikion in Athens) that applied to non-citizens. Failure to pay this specific tax resulted in imprisonment, demonstrating a legal difference in fiscal obligation based on citizenship status.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave manumission ceremony",
+      "group": "Slaves",
+      "resource": "Right to wear the felt cap",
+      "directionality": "MORE",
+      "verbatim": [
+        "This appears to have furnished his triumph with its most glorious feature. For these men shaved their heads and wore felt caps, as it is customary for slaves to do when they are set free, and in this habit followed the triumphal car of Titus."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a specific customary ritual (shaving heads and wearing the pilleus) that signifies the transition from slavery to freedom, indicating a legal and social norm regarding the transformation of status.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Magisrate ejection from Senate",
+      "group": "Nobility",
+      "resource": "Right to retain senatorial rank",
+      "directionality": "LESS",
+      "verbatim": [
+        "In view of this, when Cato became censor and was purging the senate of its unworthy members, he expelled from it Lucius Flamininus, although he was a man of consular dignity, and although his brother Titus was thought to be involved in his disgrace."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes the power of the Censor to remove individuals from the Senate for perceived moral or behavioral failures, affecting their access to political power and high social status.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Priority seating in theaters",
+      "group": "Nobility",
+      "resource": "Right to seats of honor",
+      "directionality": "MORE",
+      "verbatim": [
+        "However, as the Roman people was once enjoying a spectacle in the theatre, and the senate, according to custom, had seats of honour in the foremost rows, Lucius was seen sitting somewhere in the rear among the poor and lowly, and excited men’s pity."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text identifies a formal social rule ('according to custom') where the Senate (a high-status wealth/lineage group) is granted physical priority in public spaces, contrasted with the 'poor and lowly' who sit in the rear.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Citizenship grant based on parentage",
+      "group": "Foreigners",
+      "resource": "Right to Roman citizenship",
+      "directionality": "MORE",
+      "verbatim": [
+        "Titus had as colleague in this office a son of the Marcellus who had been five times consul, and the two censors ejected from the senate four men of lesser note, and received into citizenship all who offered themselves for enrolment, provided they were born of free parents."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "During his censorship, Flamininus enrolled new citizens, but the eligibility was explicitly tied to the criterion of being 'born of free parents,' a lineage-based boundary.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg028.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Titus Flamininus",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 14878,
+  "_output_tokens": 1481,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

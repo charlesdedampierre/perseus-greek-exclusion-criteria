@@ -1,0 +1,128 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Magistrate mandatory audit submission",
+      "group": "Magistrates",
+      "resource": "Exemption from financial audit",
+      "directionality": "LESS",
+      "verbatim": [
+        "Everyone else, with each new presidency, renders an account of his office; but you, Nicomachus, have not deigned to show your accounts for as much as four years; you, alone of the citizens, claim licence to hold office for a lengthy period, without either submitting to an audit, or obeying the decrees, or respecting the laws"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that all public officials (magistrates) are required to render an account of their office at the end of every presidency. Nicomachus is being prosecuted specifically because he is an exception to this general rule.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Under-clerk term limits",
+      "group": "Under-clerks",
+      "resource": "Right to hold repeat office",
+      "directionality": "LESS",
+      "verbatim": [
+        "Most extraordinary of all, though it is not permissible for the same man to act twice as under-clerk to the same magistracy, you authorize the same persons to have control over the most important affairs for a long period."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly mentions a legal prohibition (it is not permissible) against an individual serving as an under-clerk for the same office more than once, highlighting a rule of rotation or term limits for this specific occupational group.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Lineage"
+      ],
+      "rule": "Public slave property ownership prohibition",
+      "group": "Public slaves",
+      "resource": "Right to own property",
+      "directionality": "LESS",
+      "verbatim": [
+        "you insert this, and erase that, and carry insolence to such a pitch that you regard the State’s property as yours, who are yourself its slave!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author uses the status of 'public slave' to argue that the individual has no right to treat state resources as his own property. This reflects the legal reality that slaves (even public ones) were considered property themselves and lacked the right to claim ownership over the resources of their masters (the State).",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to ancestral sacrifices",
+      "group": "Citizens",
+      "resource": "Right to perform ancestral sacrifices",
+      "directionality": "MORE",
+      "verbatim": [
+        "And how could a man show greater piety than mine, when I demand, first that our sacrifices be performed according to our ancestral rules, and second that they be those which tend to promote the interests of the city, and finally those which the people have decreed and which we shall be able to afford out of the public revenue?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text indicates that the performance of specific sacrifices according to ancestral rules is a right/duty protected by law and funded by public revenue for the benefit of the citizen body.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Lineage"
+      ],
+      "rule": "Sale of persons of servile birth",
+      "group": "Children of slaves",
+      "resource": "Protection from being sold",
+      "directionality": "LESS",
+      "verbatim": [
+        "But if this man deserves to be put to death on his own account, he ought to be sold on account of his ancestors. Being of servile birth, he has no right to the citizenship, and should be sold in the slave-market."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author references a norm/rule where individuals found to be of servile lineage (descended from slaves) who illegally claim citizenship can be sold back into slavery, indicating a lack of protection from sale for this group.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to punish lawbreakers",
+      "group": "Citizens",
+      "resource": "Right to exercise judicial punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "You reprobate the guilty in private: do not acquit them when you are free to punish them. . . instead of merely detesting wickedness before it is brought to trial, to make this trial your means of punishing those who nullify your legislation."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text addresses the jury of citizens (the 'people') and affirms their legal power and right to punish individuals who violate the city's laws, contrasting their private opinions with their public judicial authority.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Occupation"
+      ],
+      "rule": "Citizen eligibility for judicial intercession",
+      "group": "Citizens",
+      "resource": "Right to intercede in legal proceedings",
+      "directionality": "MORE",
+      "verbatim": [
+        "Some of his friends and some members of the government have arranged to intercede for him . . . those who will plead for him has done as much service as this man has done wrong to the State."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a common Athenian practice where citizens (friends or officials) have the right to stand before the jury to plead for a defendant's acquittal based on their own services to the state.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0540.tlg030.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "Against Nicomachus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 2,
+  "_input_tokens": 9494,
+  "_output_tokens": 1464,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

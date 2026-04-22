@@ -1,0 +1,583 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Youth toward elder obedience",
+      "group": "Young men",
+      "resource": "Right to refuse instructions",
+      "directionality": "LESS",
+      "verbatim": [
+        "Well, Theaetetus, you hear what Theodorus says, and I think you will not wish to disobey him, nor is it right for a young person to disobey a wise man when he gives instructions about such matters. Come, speak up well and nobly."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates identifies a social norm (it is not 'right') based on the age gap between the youth Theaetetus and the elder/wise man Theodorus, specifically regarding the obligation to follow instructions in a pedagogical or social setting.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen access to gymnasia",
+      "group": "Citizens",
+      "resource": "Access to the gymnasium",
+      "directionality": "MORE",
+      "verbatim": [
+        "I have heard the name, but do not remember it. However, it does not matter, for the youth is the middle one of those who are now coming toward us. He and those friends of his were anointing themselves in the outer course, The scene is evidently laid in a gymnasium; the young men have been exercising. and now they seem to have finished and to be coming here."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the specific group (the sons of citizens like Euphronius) utilizing the gymnasium and anointing themselves, a resource reserved for the citizen class in this society as a component of their upbringing and physical culture.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Inheritance of paternal property",
+      "group": "Sons of citizens",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "He is the son of Euphronius of Sunium, who is a man of just the sort you describe, and of good repute in other respects; moreover he left a very large property. But the youth’s name I do not know. Theaetetus is his name, Socrates; but I believe the property was squandered by trustees."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of Euphronius leaving a 'very large property' and its subsequent loss through 'trustees' confirms that sons had a legal right to inherit their father's estate, even if that estate was managed by others during their minority.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Age"
+      ],
+      "rule": "Post-menopausal requirement for midwives",
+      "group": "Women",
+      "resource": "Right to practice midwifery",
+      "directionality": "LESS",
+      "verbatim": [
+        "For you know, I suppose, that no one of them attends other women while she is still capable of conceiving and bearing but only those do so who have become too old to bear. . . . Now it would seem she [Artemis] did not allow barren women to be midwives, because human nature is too weak to acquire an art which deals with matters of which it has no experience, but she gave the office to those who on account of age were not bearing children, honoring them for their likeness to herself."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes a general social and religious norm in Athens where the professional practice of midwifery is restricted to women who have previously borne children but are now past childbearing age due to their stage in the life cycle.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Midwife avoidance of matchmaking",
+      "group": "Women",
+      "resource": "Right to practice matchmaking",
+      "directionality": "LESS",
+      "verbatim": [
+        "No; but because there is a wrongful and unscientific way of bringing men and women together, which is called pandering, the midwives, since they are women of dignity and worth, avoid matchmaking, through fear of falling under the charge of pandering. And yet the true midwife is the only proper match-maker."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explains a social convention where midwives, despite having the expertise for matchmaking, refrain from it to avoid the legal or social stigma of being accused of 'pandering' (prostitution procurement).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age",
+        "Education"
+      ],
+      "rule": "Learning preserves the soul's habit",
+      "group": "Minors",
+      "resource": "Protection of cognitive function",
+      "directionality": "MORE",
+      "verbatim": [
+        "And what of the habit of the soul? Does not the soul acquire information and is it not preserved and made better through learning and practice, which are motions, whereas through rest, which is want of practice and of study, it learns nothing and forgets what it has learned?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes a general pedagogical and psychological rule of his time: that the soul's health and 'habit' are maintained specifically through the motion of study. While applied to Theaetetus (a youth), it is framed as a general rule regarding the necessity of education for cognitive preservation.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Health"
+      ],
+      "rule": "Gymnastic preservation of the body",
+      "group": "The healthy",
+      "resource": "Access to physical training",
+      "directionality": "MORE",
+      "verbatim": [
+        "Well, then, is not the bodily habit destroyed by rest and idleness, and preserved, generally speaking, by gymnastic exercises and motions?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato references the established social norm and medical belief in Classical Greece that physical exercise (gymnastics) is the mechanism for preserving the 'bodily habit' or physical health, contrasting it with idleness which destroys it.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Infant presentation rite (Amphidromia)",
+      "group": "Minors",
+      "resource": "Right to be reared",
+      "directionality": "MORE",
+      "verbatim": [
+        "The rite called amphidromiatook place a few days after the birth of a child. After some ceremonies of purification the nurse, in the presence of the family, carried the infant rapidly about the family hearth, thereby introducing him, as it were, to the family and the family deities. At this time the father decided whether to bring up the child or to expose it. Sometimes, perhaps, the child was named on this occasion. In the evening relatives assembled for a feast at which shell-fish were eaten."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the Athenian social custom of the Amphidromia, where a newborn is formally introduced to the family. This rite is the mechanism through which an infant gains the resource of 'being reared' (membership in the oikos), though it also highlights the father's power to grant or withhold this resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Paternal right of exposure",
+      "group": "Minors",
+      "resource": "Right to be reared",
+      "directionality": "LESS",
+      "verbatim": [
+        "At this time the father decided whether to bring up the child or to expose it. . . But, perhaps, you think that any offspring of yours ought to be cared for and not put away; or will you bear to see it examined and not get angry if it is taken away from you, though it is your first-born?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions the legal/social reality that a father has the authority to decide if a child is 'put away' (exposed) or 'cared for' (reared). This indicates that infants lack an inherent, protected right to life/rearing until the father accepts them.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Elderly excuse from wrestling",
+      "group": "The elderly",
+      "resource": "Exemption from physical training",
+      "directionality": "MORE",
+      "verbatim": [
+        "So now I think I shall persuade you to let me be a spectator, and not to drag me into the ring, since I am old and stiff, but to take the younger and nimbler man as your antagonist. [§391] SOC. Well, Theodorus, if that pleases you, [§392] it does not displease me, as the saying is."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Theodorus claims an exemption from the physical expectations of the gymnasium/wrestling school based on his age ('old and stiff'). Socrates accepts this as a valid social convention, allowing the older man to remain a spectator while the younger man (Theaetetus) participates.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Youth exclusion from intellectual disgrace",
+      "group": "Minors",
+      "resource": "Protection from public disgrace",
+      "directionality": "MORE",
+      "verbatim": [
+        "To both of us, but let the younger answer; for he will be less disgraced if he is discomfited."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Theodorus explicitly states that in a public or formal intellectual cross-examination, a younger participant (Theaetetus) is granted a specific social protection: if he loses the argument or is proven wrong, it is not considered a significant disgrace compared to an older, established man like himself.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "State determination of legal rights",
+      "group": "Citizens",
+      "resource": "Right to define honorable conduct",
+      "directionality": "MORE",
+      "verbatim": [
+        "For I claim that whatever seems right and honorable to a state is really right and honorable to it, so long as it believes it to be so; but the wise man causes the good, instead of that which is evil to them in each instance, to be and seem right and honorable."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the Protagorean/Socratic view of the legal and moral reality of the polis. It establishes that the collective body (the state/citizens) has the absolute resource/power to determine what is 'right and honorable' within its jurisdiction, and these norms remain valid as long as the state maintains that belief.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Serious philosophical examination restricted to adults",
+      "group": "Minors",
+      "resource": "Full participation in serious dialectical examination",
+      "directionality": "LESS",
+      "verbatim": [
+        "SOC. Now you see that all those present, except you and myself are boys. So if we are to do as the man asks, you and I must question each other and make reply in order to show our serious attitude towards his doctrine; then he cannot, at any rate, find fault with us on the ground that we examined his doctrine in a spirit of levity with mere boys."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates argues that conducting a serious philosophical defense or critique with 'boys' (minors) is considered a 'spirit of levity' or a 'display of wit' rather than true investigation. To treat a doctrine with proper gravity, the interlocutors must be adult men (Socrates and Theodorus) rather than youths like Theaetetus.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "State autonomy in defining justice",
+      "group": "Metics",
+      "resource": "Right to define communal justice",
+      "directionality": "LESS",
+      "verbatim": [
+        "SOC. And likewise in affairs of state, the honorable and disgraceful, the just and unjust, the pious and its opposite, are in truth to each state such as it thinks they are and as it enacts into law for itself, and in these matters no citizen and no state is wiser than another; but in making laws that are advantageous to the state, or the reverse, Protagoras again will agree that one counsellor is better than another, and the opinion of one state better than that of another as regards the truth"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that the definition of what is 'just' or 'pious' is determined solely by the collective opinion of the state as enacted into law. This excludes non-citizens or outsiders from having a say in these foundational moral-legal categories of a particular city-state.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Education"
+      ],
+      "rule": "Philosopher exclusion from legal proficiency",
+      "group": "Philosophers",
+      "resource": "Ability to participate effectively in courts",
+      "directionality": "LESS",
+      "verbatim": [
+        "SOC. And that makes me think, my friend, as I have often done before, how natural it is that those who have spent a long time in the study of philosophy appear ridiculous when they enter the courts of law as speakers. [...] Those who have knocked about in courts and the like from their youth up seem to me, when compared with those who have been brought up in philosophy and similar pursuits, to be as slaves in breeding compared with freemen."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates identifies a specific social divide where those dedicated to philosophy are rendered 'ridiculous' and incompetent in the legal sphere (the courts) compared to those trained in litigation, framing it as a lack of a specific social resource (legal effectiveness).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Legal time limits for litigants",
+      "group": "Litigants",
+      "resource": "Right to unlimited speech",
+      "directionality": "LESS",
+      "verbatim": [
+        "But the men of the other sort are always in a hurry—for the water flowing through the water-clock urges them on—and the other party in the suit does not permit them to talk about anything they please, but stands over them exercising the law’s compulsion by reading the brief, from which no deviation is allowed (this is called the affidavit)"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes the reality of the Athenian court system where the 'clepsydra' (water-clock) and the specific legal documents (affidavits) strictly limited the time and scope of a speaker's discourse, unlike the leisure permitted to philosophers.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Philosopher exclusion from political life",
+      "group": "Philosophers",
+      "resource": "Participation in political institutions",
+      "directionality": "LESS",
+      "verbatim": [
+        "The leaders, in the first place, from their youth up, remain ignorant of the way to the agora, do not even know where the court-room is, or the senate-house, or any other public place of assembly; as for laws and decrees, they neither hear the debates upon them nor see them when they are published; and the strivings of political clubs after public offices, and meetings, and banquets, and revellings with chorus girls—it never occurs to them even in their dreams to indulge in such things."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato describes a social reality where the class of 'leading' philosophers is characterized by a complete lack of participation in and knowledge of the city's political and legal infrastructure (agora, senate-house, decrees).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education",
+        "Freedom"
+      ],
+      "rule": "Freedom of discourse for philosophers",
+      "group": "Philosophers",
+      "resource": "Leisure in speech",
+      "directionality": "MORE",
+      "verbatim": [
+        "the latter always have that which you just spoke of, leisure, and they talk at their leisure in peace; just as we are now taking up argument after argument, already beginning a third, so can they, if as in our case, the new one pleases them better than that in which they are engaged; and they do not care at all whether their talk is long or short, if only they attain the truth."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates contrasts the 'free' man/philosopher with the litigant; the philosopher possesses the resource of 'leisure' (schole), allowing them to pursue arguments without the external compulsions of a judge or a clock.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Status-based dress codes",
+      "group": "Free men",
+      "resource": "Right to wear a draped cloak",
+      "directionality": "MORE",
+      "verbatim": [
+        "and of the other, who can perform all such services smartly and quickly, but does not know how to wear his cloak as a freeman should, properly draped, still less to acquire the true harmony of speech and hymn aright the praises of the true life of gods and blessed men."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific social convention in Athens where the manner of draping one's cloak serves as a visual marker of being a 'freeman' (eleutheros) as opposed to a person with a 'slavish' or menial disposition.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Expert priority in future prediction",
+      "group": "Physicians",
+      "resource": "Right to valid professional opinion",
+      "directionality": "MORE",
+      "verbatim": [
+        "Take, for instance, heat; if some ordinary man thinks he is going to take a fever, that is to say, that this particular heat will be, and some other man, who is a physician, thinks the contrary, whose opinion shall we expect the future to prove right? Or perhaps the opinion of both, and the man will become, not hot or feverish to the physician, but to himself both? THEO. No, that would be ridiculous."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that in matters of medical prognosis, the specialized knowledge of the physician is granted superior validity over the subjective sensation or opinion of a layperson. This is presented as a general social and logical rule regarding expertise.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Expert priority in future prediction",
+      "group": "Husbandmen",
+      "resource": "Right to valid professional opinion",
+      "directionality": "MORE",
+      "verbatim": [
+        "But, I imagine, in regard to the sweetness or dryness which will be in a wine, the opinion of the husbandman, not that of the lyre-player, will be valid. THEO. Of course."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates uses the husbandman (farmer) as a category of worker whose professional judgment regarding the future state of their product (wine) is socially and rationally recognized as superior to that of a non-expert (the lyre-player).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Expert priority in future prediction",
+      "group": "Musicians",
+      "resource": "Right to valid professional opinion",
+      "directionality": "MORE",
+      "verbatim": [
+        "And again, in a matter of discord or tunefulness in music that has never been played, a gymnastic teacher could not judge better than a musician what will, when performed, seem tuneful even to a gymnastic teacher himself."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies the musician as the specific group whose training grants them the right to judge musical harmony in the future, even overriding the judgment of other professionals like gymnastic teachers.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Expert priority in future prediction",
+      "group": "Cooks",
+      "resource": "Right to valid professional opinion",
+      "directionality": "MORE",
+      "verbatim": [
+        "Then, too, when a banquet is in preparation the opinion of him who is to be a guest, unless he has training in cookery, is of less value concerning the pleasure that will be derived from the viands than that of the cook."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the context of preparing a meal, the professional cook's judgment of the future outcome (the quality of the food) is explicitly rated as more valuable than the subjective opinion of the consumer/guest.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Education"
+      ],
+      "rule": "Expert priority in future prediction",
+      "group": "Sophists",
+      "resource": "Right to valid professional opinion",
+      "directionality": "MORE",
+      "verbatim": [
+        "but concerning that which will in the future seem and be pleasant to each one, is he himself the best judge for himself, or would you, Protagoras—at least as regards the arguments which will be persuasive in court to each of us—be able to give an opinion beforehand better than anyone whatsoever who has no especial training? THEO. Certainly, Socrates, in this, at any rate, he used to declare emphatically that he himself excelled everyone. SOC. Yes, my friend, he certainly did; otherwise nobody would have paid him a high fee"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text highlights that Sophists like Protagoras were recognized (and paid) for their superior ability to predict which arguments would be effective in a legal setting, granting them professional authority over the 'untrained' citizenry.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education",
+        "Age"
+      ],
+      "rule": "Education-based acquisition of reasoning",
+      "group": "Human beings",
+      "resource": "Capacity for abstract reasoning",
+      "directionality": "MORE",
+      "verbatim": [
+        "Is it not true, then, that all sensations which reach the soul through the body, can be perceived by human beings, and also by animals, from the moment of birth; whereas reflections about these, with reference to their being and usefulness, are acquired, if at all, with difficulty and slowly, through many troubles, in other words, through education?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates establishes a rule of human development and social structure where basic sensation is innate, but the higher-order resource of 'reflection' (reasoning about being/utility) is only accessible through the social process of education over time.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Gentlemanly avoidance of verbal precision",
+      "group": "Educated men",
+      "resource": "Right to imprecise speech",
+      "directionality": "MORE",
+      "verbatim": [
+        "The easy use of words and phrases and the avoidance of strict precision is in general a sign of good breeding; indeed, the opposite is hardly worthy of a gentleman, but sometimes it is necessary, as now it is necessary to object to your answer, in so far as it is incorrect."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates describes a social norm/convention where 'good breeding' and 'gentlemanly' status are marked by a lack of pedantic precision in speech, framing easy use of language as a resource/marker of that social group.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Health"
+      ],
+      "rule": "Exclusion of insane from valid opinion",
+      "group": "The insane",
+      "resource": "Capacity to form valid personal opinion",
+      "directionality": "LESS",
+      "verbatim": [
+        "SOC. Do you imagine that anyone else, sane or insane, ever ventured to say to himself seriously and try to persuade himself that the ox must necessarily be a horse, or two one?\nTHEAET. No, by Zeus, I do not.\nSOC. Then if forming opinion is talking to oneself, no one who talks and forms opinion of two objects and apprehends them both with his soul, could say and have the opinion that one is the other."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates identifies 'the insane' as a group and excludes them (along with the sane) from the capacity to hold certain contradictory opinions. Within the logic of the dialogue, the capacity to form an 'opinion' (defined here as silent discourse with oneself) is a cognitive resource, and being identified as 'insane' marks a boundary of human cognitive reliability, even if in this specific philosophical experiment, Socrates argues even they cannot think 'two is one'.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "group": "Property owners",
+      "resource": "Right to control possessions",
+      "directionality": "MORE",
+      "rule": "Owner control over purchased goods",
+      "contemporary": 1,
+      "factuality": 1,
+      "verbatim": [
+        "For instance, if a man bought a cloak and had it under his control, but did not wear it, we should certainly say, not that he had it, but that he possessed it. . . Now see whether it is possible in the same way for one who possesses knowledge not to have it, as, for instance, if a man should catch wild birds—pigeons or the like—and should arrange an aviary at home and keep them in it, we might in a way assert that he always has them because he possesses them, might we not?"
+      ],
+      "reasoning": "Socrates uses the legal and social reality of property ownership (specifically of cloaks and captured animals) to illustrate a philosophical point. The text confirms that in Greek society, purchasing an item or capturing wild animals and putting them in an enclosure grants the individual the resource of control and possession over those material goods.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Orator persuasion without teaching",
+      "group": "Orators and lawyers",
+      "resource": "Permission to influence through persuasion",
+      "directionality": "MORE",
+      "verbatim": [
+        "The profession of those who are greatest in wisdom, who are called orators and lawyers; for they persuade men by the art which they possess, not teaching them, but making them have whatever opinion they like."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates identifies a specific professional group (orators/lawyers) that possesses the social resource/power to manipulate public opinion through 'persuasion' rather than through 'teaching' or knowledge-sharing (which they lack the time for).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Judicial decision-making by hearsay",
+      "group": "Judges",
+      "resource": "Right to judge without eyewitness knowledge",
+      "directionality": "MORE",
+      "verbatim": [
+        "Then when judges are justly persuaded about matters which one can know only by having seen them and in no other way, in such a case, judging of them from hearsay, having acquired a true opinion of them, they have judged without knowledge, though they are rightly persuaded, if the judgement they have passed is correct, have they not?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes the function of the Athenian judicial group; they are legally permitted and socially required to render judgments based on 'hearsay' (persuasion by orators) even when they lack direct knowledge of the facts.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Legal speech time limits",
+      "group": "Orators and lawyers",
+      "resource": "Access to time for teaching",
+      "directionality": "LESS",
+      "verbatim": [
+        "Or do you think there are any teachers so clever as to be able, in the short time allowed by the water-clock, satisfactorily to teach the judges the truth about what happened to people who have been robbed of their money or have suffered other acts of violence, when there were no eyewitnesses?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references the historical reality of the 'klepsydra' (water-clock) in Athenian courts, which restricted the resource of 'time' available to legal speakers, thereby preventing them from providing full instruction/teaching to the jury.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Education",
+        "Age"
+      ],
+      "rule": "Music school attendance and training",
+      "group": "Minors",
+      "resource": "Access to the music school",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§1269] SOC. And in the music school was not perfect attainment [§1270] the ability to follow each note and tell which string produced it; and everyone would agree that the notes are the elements of music? [§1271] THEAET. Yes, that is all true."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates refers to the 'music school' (mousike) as a standard contemporary educational institution where students (minors of a certain class) are trained to identify musical notes and strings. This reflects a regular social practice in classical Athens for the education of free-born youth.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education",
+        "Occupation"
+      ],
+      "rule": "Grammarian identification by element enumeration",
+      "group": "Education",
+      "resource": "Right to be recognized as a grammarian",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§1290] SOC. But he, perhaps, would think we were ridiculous, just as he would if, on being asked about your name, we should reply by telling the syllables, [§1291] holding a right opinion and expressing correctly what we have to say, but should think we were grammarians and as such both possessed and were expressing as grammarians would the rational explanation of the name Theaetetus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies 'grammarians' (grammatikos) as a specialized group defined by their education/occupation who possess a specific 'rational explanation' (the ability to enumerate elements/letters). It distinguishes them from ordinary people who can merely provide syllables.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Ethnicity"
+      ],
+      "rule": "Mysian exclusion from social esteem",
+      "group": "Mysians",
+      "resource": "Fame",
+      "directionality": "LESS",
+      "verbatim": [
+        "Suppose that I thought That is Theaetetus which is a man and has nose and eyes and mouth and so forth, mentioning all the parts. Can this thought make me think of Theaetetus any more than of Theodorus or of the meanest of the Mysians, The Mysians were despised as especially effeminate and worthless as the saying is?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references a contemporary Athenian social norm/convention ('the saying is') where Mysians as an ethnic group were systematically denied social standing or 'fame' (defined in the prompt as a resource) due to being characterized as 'worthless'.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Age",
+        "Nobility"
+      ],
+      "rule": "Socratic dialectic for noble youths",
+      "group": "Young and noble men",
+      "resource": "Access to the gymnasium and physical training",
+      "directionality": "MORE",
+      "verbatim": [
+        "This art, however, both my mother and I received from God, she for women and I for young and noble men and for all who are fair."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates defines the specific group (young, noble, and fair men) that has access to his specific immaterial resource (the 'art' of intellectual midwifery/dialectic), which functions similarly to the training found in a gymnasium to improve human development.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0059.tlg006.perseus-eng2",
+  "_perseus_author": "Plato",
+  "_perseus_title": "Theaetetus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 14,
+  "_input_tokens": 93033,
+  "_output_tokens": 8340,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,93 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Warship construction requirement for Council reward",
+      "group": "Councillors",
+      "resource": "Eligibility for honorary reward",
+      "directionality": "LESS",
+      "verbatim": [
+        "Coming now to the law which explicitly denies to the Council the right to ask a reward, if they have not built the warships, it is worth while to hear the defence that he will set up, and to get a clear view of the shamelessness of his behavior from the arguments that he attempts to use. The law, he says, forbids the Council to ask for the reward, if they have not built the ships. But, he adds, the law nowhere prohibits the Assembly from giving it."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal constraint where the Athenian Council (Boule) is prohibited from receiving a crown or reward if they fail their technical duty of overseeing ship construction.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Health"
+      ],
+      "rule": "Prostitution disability for public speech",
+      "group": "Men who have prostituted themselves",
+      "resource": "Right to address the Assembly",
+      "directionality": "LESS",
+      "verbatim": [
+        "This may be seen in many ways, but especially from this law, which forbids persons guilty of prostitution to make speeches or to propose measures. For he saw that the majority of you do not avail yourselves of your right to speak, so that the prohibition seemed no great hardship, and he could have laid down many harsher penalties, if his object had been the chastisement of these offenders."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes cites a law attributed to Solon that creates a legal disability for men who have engaged in prostitution, barring them from the political rights of speech and making proposals in the democracy.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "State debtor disqualification from politics",
+      "group": "Debtors to the state",
+      "resource": "Right to propose resolutions",
+      "directionality": "LESS",
+      "verbatim": [
+        "Again, with regard to the law which forbids him to speak or move resolutions, because his father owed money to the exchequer and has never paid it... Prove, therefore, that your father was not a defaulter, or that he left the prison, not by running away, but by paying his debts. If you cannot prove that, then you had no right to move your resolution; for the law makes you a partner in the disqualification of your father, and being disqualified you had no right either to speak or move."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Athenian law imposed 'atimia' (loss of rights) on those who owed money to the public treasury, a disqualification that inherited from father to son until the debt was paid.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Protection of freemen from corporal liability",
+      "group": "Citizens",
+      "resource": "Protection of person from seizure for debt",
+      "directionality": "MORE",
+      "verbatim": [
+        "Indeed, if you wanted to contrast the slave and the freeman, you would find the most important distinction in the fact that slaves are responsible in person for all offences, while freemen, even in the most unfortunate circumstances, can protect their persons. For it is in the shape of money that in the majority of cases the law must obtain satisfaction from them; but Androtion on the contrary exacted vengeance from their persons, as if they had been bond-slaves."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author contrasts the status of slaves and freemen, noting that the law protects the physical person of a freeman from seizure or corporal punishment for financial obligations, unlike slaves who are liable in person.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic property tax rate",
+      "group": "Resident aliens",
+      "resource": "Right to equal tax rates",
+      "directionality": "LESS",
+      "verbatim": [
+        "Is it not rather because he said of one of them, in the hearing of all of you in the Assembly, that he was a slave and born of slaves and ought by rights to pay the contribution of one-sixth with the resident aliens; and of another that he had children by a harlot"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the 'eisphora' or tax obligations where metics (resident aliens) were required to pay a higher proportion (the sixth) than citizens, marking a clear group boundary based on citizenship status.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0014.tlg022.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Against Androtion",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 12851,
+  "_output_tokens": 1198,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

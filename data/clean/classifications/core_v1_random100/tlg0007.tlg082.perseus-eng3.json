@@ -1,0 +1,162 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Metic exclusion from land ownership",
+      "group": "Foreigners",
+      "resource": "Right to own land",
+      "directionality": "LESS",
+      "verbatim": [
+        "Tissaphernes, at the outset, in fear of Agesilaus, made a treaty, agreeing that the king should leave him the Greek cities free and independent... invasive Phrygia; and having taken very many cities and a wealth of spoil, he said to his friends, To do wrong after making a treaty is impious, but to outwit the enemy is not only right and reputable, but also pleasant and profitable."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "While the passage discusses the conquest of territory, the structural constraint in Spartan society (and wider Greek contexts mentioned) frequently linked the right to hold land specifically to citizenship status; here, the conquest of cities and fields is framed as a transfer of resource access between sovereign groups.",
+      "confidence": 5
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Freedom"
+      ],
+      "rule": "Slave distribution of luxury goods",
+      "group": "Helots",
+      "resource": "Access to luxury foods",
+      "directionality": "MORE",
+      "verbatim": [
+        "The Thasians... sent to him flour, geese, sweetmeats, honey-cakes, and other costly foods and drinks of all kinds. The flour alone he accepted, but the rest of the things he bade those who had brought them to carry back because these were of no use to the Spartans. But when the Thasians importuned him and begged him by all means to take all, he gave orders to distribute them among the Helots."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agesilaus explicitly orders the distribution of high-value food resources to the Helots, though he frames it as a negative regarding the 'servile' nature of the food, it results in a material gain for the group which they otherwise lacked.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Occupation"
+      ],
+      "rule": "Citizen exemption from menial labor",
+      "group": "Spartans",
+      "resource": "Exemption from menial calling",
+      "directionality": "MORE",
+      "verbatim": [
+        "As a result, pretty nearly all of the allies stood up, but of the Spartans not a single one; for there was a prohibition against their practising or learning any menial calling."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions a legal or social prohibition that prevents Spartan citizens from engaging in trades (potters, smiths, etc.), effectively granting them a resource of total devotion to military life while the work is assigned to others.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Occupation"
+      ],
+      "rule": "Helot agricultural labor obligation",
+      "group": "Helots",
+      "resource": "Exemption from agricultural labor",
+      "directionality": "LESS",
+      "verbatim": [
+        "When someone inquired why they put their fields in the hands of the Helots, and did not take care of them themselves, he said, It was by not taking care of the fields, but of ourselves, that we acquired those fields."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage confirms that agricultural production was systematically offloaded onto the Helot class, depriving them of the choice to seek other labor while freeing the Spartan citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Elderly preference for seating",
+      "group": "The elderly",
+      "resource": "Right to yielded seating",
+      "directionality": "MORE",
+      "verbatim": [
+        "Being asked why it was the custom among them for the younger men to rise up and give place to the elder, he said, So that, having this attitude regarding honour toward those who are not related to them, they may pay greater honour to their parents."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Teleclus describes a general Spartan custom (a rule of etiquette/norm) where age serves as the criterion for receiving the material resource of a seat in public spaces.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female exercise requirement",
+      "group": "Women",
+      "resource": "Access to physical training",
+      "directionality": "MORE",
+      "verbatim": [
+        "When someone else desired to know why he instituted strenuous exercise for the bodies of the maidens in races and wrestling and throwing the discus and javelin, he said, So that the implanted stock of their offspring... may attain a noble growth."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lycurgus is stated to have created a rule granting Spartan women (maidens) access to the gymnasium and athletic training, a resource often restricted to men in other Greek societies.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Abolition of noble metal currency",
+      "group": "Spartans",
+      "resource": "Right to hold gold and silver",
+      "directionality": "LESS",
+      "verbatim": [
+        "he decreed that gold and silver coin should in future have no value, and ordained that the people should use iron money only. He also limited the time within which it was lawful to exchange their present holdings for this money."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal reform by Lycurgus that stripped all citizens of the right to use or hold precious metal currency, replacing it with iron to prevent corruption.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Lineage"
+      ],
+      "rule": "Royal lineage succession",
+      "group": "Agiads and Eurypontids",
+      "resource": "Exclusive eligibility for kingship",
+      "directionality": "MORE",
+      "verbatim": [
+        "that the citizens should take away the kingship from the Eurypontids and the Agiads and put it up for election, and make their choice from the best men, so that this high honour should belong not to those who were descended from Heracles, but to men like Heracles."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text discusses a secret plan by Lysander to abolish the rule that gave two specific noble lineages (descendants of Heracles) exclusive access to the political resource of kingship.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Equal land distribution",
+      "group": "Citizens",
+      "resource": "Right to an equal land allotment",
+      "directionality": "MORE",
+      "verbatim": [
+        "He made a redistribution of the land, and assigned an equal share to all the citizens."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This describes the fundamental Lycurgan rule regarding the distribution of material resources (land) among the citizen body to ensure equality.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0007.tlg082.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Sayings of Spartans",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 43319,
+  "_output_tokens": 1838,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

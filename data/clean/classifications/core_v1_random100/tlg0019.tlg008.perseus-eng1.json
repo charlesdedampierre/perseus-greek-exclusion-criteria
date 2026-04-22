@@ -1,0 +1,411 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Male exclusion from the Thesmophoria",
+      "group": "Men",
+      "resource": "Right to attend the Thesmophoria",
+      "directionality": "LESS",
+      "verbatim": [
+        "The play has more of a proper intrigue and formal dénouement than is general with our Author's pieces, which, like modern extravaganzas and musical comedies, are often strung on a very slender thread of plot. The idea of the 'Thesmophoriazusae' is as follows. Euripides is summoned as a notorious woman-hater and detractor of the female sex to appear for trial and judgment before the women of Athens assembled to celebrate the Thesmophoria, a festival held in honour of the goddesses Demeter and Persephone, from which men were rigidly excluded."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that the Thesmophoria was a festival from which men were 'rigidly excluded'. This established a clear boundary based on gender regarding access to the religious and social space of the festival.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female gathering for judicial decisions",
+      "group": "Women",
+      "resource": "Right to assemble for collective judgment",
+      "directionality": "MORE",
+      "verbatim": [
+        "That is precisely what makes me tremble; the women have plotted my ruin, and to-day they are to gather in the Temple of Demeter to execute their decision. Why are they against you? Because I mishandle them in my tragedies. By Posidon, you would seem to have thoroughly deserved your fate. But how are you going to get out of the mess? I am going to beg Agathon, the tragic poet, to go to the Thesmophoria."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue describes a social reality where Athenian women, during the Thesmophoria, have the recognized capacity to gather and collectively decide on actions (even if framed comedically as a 'trial') within their exclusive religious space.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Gender"
+      ],
+      "rule": "Slave exclusion from Thesmophoria",
+      "group": "Slaves",
+      "resource": "Right to attend the Thesmophoria",
+      "directionality": "LESS",
+      "verbatim": [
+        "Be off, Thratta, be off; slaves have no right to be present at this gathering."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The character Mnesilochus, disguised as a woman, explicitly dismisses his slave Thratta from the religious gathering on the grounds that slaves are legally or traditionally prohibited from participating in the secret rites of the Thesmophoria.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female right to hold assemblies",
+      "group": "Women",
+      "resource": "Right to legislative assembly",
+      "directionality": "MORE",
+      "verbatim": [
+        "Hearken, all of you! this is the decree passed by the Senate of the Women under the presidency of Timoclea and at the suggestion of Sostrata; it is signed by Lysilla, the secretary: \"There will be a gathering of the people on the morning of the third day of the Thesmophoria, which is a day of rest for us; the principal business there shall be the punishment that it is meet to inflict upon Euripides for the insults with which he has loaded us.\""
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a formal legislative structure specific to women during the Thesmophoria, including a 'Senate of the Women', a president, a secretary, and the power to pass decrees and hold assembly for judicial-like purposes.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female household food management",
+      "group": "Women",
+      "resource": "Right to manage household stores",
+      "directionality": "LESS",
+      "verbatim": [
+        "Let that pass; but formerly it was we who had the care of the food, who fetched the flour from the storeroom, the oil and the wine; we can do it no more. Our husbands now carry little Spartan keys on their persons, made with three notches and full of malice and spite."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker complains that a traditional resource—the management and physical access to the household food supply (flour, oil, wine)—has been taken away from women because husbands have started using complex ‘Spartan keys’ to lock the storerooms themselves.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Wife confinement to home",
+      "group": "Women",
+      "resource": "Freedom of movement",
+      "directionality": "LESS",
+      "verbatim": [
+        "Again, it is because of Euripides that we are incessantly watched, that we are shut up behind bolts and bars, and that dogs are kept to frighten off the gallants."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The character describes the social reality where wives are physically restricted ('shut up behind bolts and bars') and monitored with guard dogs, indicating a lack of freedom of movement outside the home.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female exclusion from secret rites",
+      "group": "Men",
+      "resource": "Access to the Thesmophoria",
+      "directionality": "LESS",
+      "verbatim": [
+        "I should run more risk than you would. ... I should look as if I were wanting to trespass on secret nightly pleasures of the women and to ravish their Aphrodité."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agathon explains the risk of a man entering the female-only religious space, identifying it as a 'trespass' on 'secret' nightly pleasures reserved for women, confirming men are strictly excluded from these religious resources.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Exclusion of men from the Thesmophoria",
+      "group": "Men",
+      "resource": "Right to attend the Thesmophoria",
+      "directionality": "LESS",
+      "verbatim": [
+        "Euripides has sent an old man here to-day, one of his relations ... so that he may hear your speeches and inform him of your deliberations and intentions.",
+        "But how would a man fail to be recognized amongst women?",
+        "Euripides singed and depilated him and disguised him as a woman.",
+        "Take off his clothes, I can get nothing out of him. ... Stand up straight. Hullo! what do I see there? Why, a penis sticking out behind."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes an elaborate disguise (depilation and women's clothing) necessary for a man to infiltrate the Thesmophoria, a religious assembly reserved exclusively for women. The discovery of the man's biological sex leads to immediate calls for the magistrates (Prytanes), confirming that male presence was a legal or sacred violation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Privacy of female religious proceedings",
+      "group": "Men",
+      "resource": "Right to hear sacred mysteries",
+      "directionality": "LESS",
+      "verbatim": [
+        "Withdraw, all of you; I am going to examine her thoroughly about last year's mysteries. But move away, Clisthenes, for no man may hear what is going to be said."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "During the examination of the suspected infiltrator, the Fifth Woman explicitly bars Clisthenes (a man, though effeminate) from hearing the details of the 'mysteries' (the ritual proceedings), establishing a rule of gender-based secrecy regarding these religious rites.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female speech at the Thesmophoria",
+      "group": "Women",
+      "resource": "Right to speak frankly in assembly",
+      "directionality": "MORE",
+      "verbatim": [
+        "Oh! no! have mercy, friends. Have we not the right to speak frankly at this gathering? And because I have uttered what I thought right in favour of Euripides, do you want to depilate me for my trouble?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Mnesilochus (disguised as a woman) invokes the established norm of the 'gathering' (the assembly of women at the festival) which permits 'parrhesia' or frank speech among the participants, similar to the rights held by men in the political Ekklesia.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Magisterial oversight of religious gatherings",
+      "group": "Women",
+      "resource": "Protection from magisterial intervention",
+      "directionality": "LESS",
+      "verbatim": [
+        "Watch him closely, so that he does not escape. As for me, I go to report the matter to the magistrates, the Prytanes."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "When a crime (sacrilege by a man) is discovered within the women's festival, the matter is referred to the Prytanes (the executive committee of the Council), showing that while the festival is female-only, it is ultimately subject to the legal authority and enforcement of the male-run city magistrates.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Marital confinement of women",
+      "group": "Women",
+      "resource": "Freedom of movement",
+      "directionality": "LESS",
+      "verbatim": [
+        "If the men are to be believed, we are a plague to them; through us come all their troubles, quarrels, disputes, sedition, griefs and wars. But if we are truly such a pest, why marry us? Why forbid us to go out or show ourselves at the window? You want to keep this pest, and take a thousand cares to do it. If your wife goes out and you meet her away from the house, you fly into a fury."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The Chorus of women explicitly describes the social norm where husbands restrict their wives' movement, forbidding them from leaving the house or appearing at windows, reflecting the gendered separation of space in classical Athens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female exclusion from public office",
+      "group": "Women",
+      "resource": "Eligibility for the Senate",
+      "directionality": "LESS",
+      "verbatim": [
+        "Among the last year's Senators, who have just yielded their office to other citizens, is there one who equals Eubulé? Therefore we maintain that men are greatly our inferiors."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text contrasts male Senators with a woman (Eubulé), implying that despite being superior in merit, women do not hold seats in the Boule (Senate) which is reserved for male citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Honorary seating for mothers",
+      "group": "Women",
+      "resource": "Reserved seating at festivals",
+      "directionality": "MORE",
+      "verbatim": [
+        "The most serious is this, that the woman, who has given birth to a useful citizen, whether taxiarch or strategus should receive some distinction; a place of honour should be reserved for her at the Sthenia, the Scirophoria, and the other festivals that we keep."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The Chorus argues for a rule (or asserts a normative claim for one) where status/resources (proedria or reserved seating) are allocated to women based on the civic utility of the sons they bear.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Seating penalties for mothers of cowards",
+      "group": "Women",
+      "resource": "Right to retain head hair",
+      "directionality": "LESS",
+      "verbatim": [
+        "On the other hand, she of whom a coward was born or a worthless man, a bad trierarch or an unskilful pilot, should sit with shaven head, behind her sister who had borne a brave man."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text describes a normative social penalty where a woman's physical appearance (head shaving) and social status (seating position) are tied to the military/civic performance of her male offspring.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public exposure for criminals",
+      "group": "Citizens",
+      "resource": "Protection from public degradation",
+      "directionality": "LESS",
+      "verbatim": [
+        "'Tis in that gear that you must be exposed by order of the Senate, so that your crime may be patent to the passers-by."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Prytanis (a public official) enforces a rule where those convicted or accused of specific crimes are publicly displayed (fastened to a post) to shame them before the citizenry.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Citizens",
+      "resource": "Political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "I go to call the Prytanes."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of calling the Prytanes refers to the executive committee of the Athenian Council (Boule). While part of a comedic scene involving a Scythian guard, it references the actual functioning of the Athenian democratic administration where citizens (via the Prytanes) hold the power to oversee legal and public order.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Nobility",
+        "Religion"
+      ],
+      "rule": "Exclusive female religious festivals",
+      "group": "Women",
+      "resource": "Right to hold religious festivals",
+      "directionality": "MORE",
+      "verbatim": [
+        "The womenfolk are calling thee; hasten hither at their bidding along with Peace, who shall restore the festivals. And ye, august goddesses, display a smiling and propitious countenance to our gaze; come into your sacred grove, the entry to which is forbidden to men; 'tis there in the midst of sacred orgies that we contemplate your divine features."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the Thesmophoria, a real Athenian religious festival dedicated to Demeter and Persephone. It explicitly states that the grove and the rites are 'forbidden to men,' establishing a rule where women have the exclusive right to this religious resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Religion"
+      ],
+      "rule": "Male exclusion from Thesmophoria",
+      "group": "Men",
+      "resource": "Access to sacred groves",
+      "directionality": "LESS",
+      "verbatim": [
+        "And ye, august goddesses, display a smiling and propitious countenance to our gaze; come into your sacred grove, the entry to which is forbidden to men; 'tis there in the midst of sacred orgies that we contemplate your divine features."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage confirms that specific sacred spaces (groves) used during the Thesmophoria were legally and religiously off-limits to men, which is a documented real-world practice in Classical Athens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Ethnicity"
+      ],
+      "rule": "Scythian archer police jurisdiction",
+      "group": "Scythian archers",
+      "resource": "Right to exercise physical restraint",
+      "directionality": "MORE",
+      "verbatim": [
+        "This Scythian does not take his eye off me and he has exposed me as food for the crows. Alas! what is to become of me, alone here and without friends! I am not seen mingling in the dances nor in the games of my companions, but heavily loaded with fetters I am given over to the voracity of a Glaucetes."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Classical Athens, a corps of Scythian archers served as the public police force. The text reflects the rule that these state-owned slaves had the authority to guard, chain, and execute legal restraint over individuals (even if the character being restrained is a citizen in disguise).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Religion",
+        "Gender"
+      ],
+      "rule": "Slave exclusion from Thesmophoria",
+      "group": "Women slaves",
+      "resource": "Right to attend the Thesmophoria",
+      "directionality": "LESS",
+      "verbatim": [
+        "Women slaves were forbidden by law to be present at the Thesmophoria; they remained at the door of the temple and there waited for the orders of their mistresses."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that there was a legal prohibition (forbidden by law) preventing female slaves from entering the religious festival of the Thesmophoria, contrasting their status with that of free women (mistresses).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Gender"
+      ],
+      "rule": "Female domestic weaving",
+      "group": "Women",
+      "resource": "Right to perform professional weaving",
+      "directionality": "MORE",
+      "verbatim": [
+        "The cylinder and the beams were the chief tools of the weaver. It was the women who did this work."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies weaving tools and explicitly attributes this labor/occupation to women, indicating it was their social and economic domain in contemporary Athens.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy obligation for naval maintenance",
+      "group": "Rich citizens",
+      "resource": "Exemption from trierarchies",
+      "directionality": "LESS",
+      "verbatim": [
+        "The trierarchs were rich citizens, whose duty it was to maintain the galleys or triremes of the fleet."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the liturgy of the trierarchy, where the most affluent citizens had the compulsory duty to finance the navy, meaning they lacked exemption from this significant material burden.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Ethnicity",
+        "Occupation"
+      ],
+      "rule": "Scythian police service",
+      "group": "Scythians",
+      "resource": "Right to serve as police officers",
+      "directionality": "MORE",
+      "verbatim": [
+        "The archers, or the police officers, at Athens were mostly Scythians. If not from that country always, they were known generally by that name."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text notes that the public security forces (archers/police) in Athens were drawn from the Scythian group, establishing a specific relationship between this ethnic category and a civic resource/role.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0019.tlg008.perseus-eng1",
+  "_perseus_author": "Aristophanes",
+  "_perseus_title": "Thesmophoriazusae",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 6,
+  "_input_tokens": 43747,
+  "_output_tokens": 5115,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

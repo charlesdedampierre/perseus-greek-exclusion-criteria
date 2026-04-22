@@ -1,0 +1,19 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "prompt_polity_time.md",
+  "source": "data/processed_data/rules_all_scored.tsv",
+  "batch_size": 20,
+  "max_parallel": 10,
+  "n_rules": 662,
+  "n_batches": 34,
+  "ok_batches": 34,
+  "errored_batches": 0,
+  "rules_scored": 662,
+  "rules_missing": 0,
+  "input_tokens": 138647,
+  "output_tokens": 71048,
+  "price_in_per_1M": 0.5,
+  "price_out_per_1M": 3.0,
+  "cost_usd": 0.2825,
+  "elapsed_sec": 50.7
+}

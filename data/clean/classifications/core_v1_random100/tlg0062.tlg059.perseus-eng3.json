@@ -1,0 +1,62 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Salary for imperial administration",
+      "group": "Administrators",
+      "resource": "Right to receive public salary",
+      "directionality": "MORE",
+      "verbatim": [
+        "there is a very great difference between entering a rich man’s house as a hireling, where one is a slave and endures what my essay describes, and entering public service, where one administers affairs as well as possible and is paid by the Emperor for doing it.",
+        "Consider every detail and examine it for yourself. You will find the two lives two octaves apart, to use a musical phrase, and as like each other as lead and silver, bronze and gold, anemone and rose, monkey and man. You are paid in both cases and are under a master’s orders, but there is a world of difference. In the one case the slavery is obvious, and those who enter on these conditions are not much different from slaves, whether bought or bred at home, while those who handle public business and make themselves of service to states and whole provinces cannot rightly be criticised merely because they are paid, or be brought down to the same level of general denunciation. Otherwise you must post-haste abolish all offices of this kind: neither administrators of all the provinces nor governors of cities nor commanders of corps or whole armies will please since they are paid for their work."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian distinguishes between domestic service and imperial service (public business), noting that those in the latter (governors, commanders, administrators) are legally and socially entitled to receive a salary from the Emperor, which does not diminish their status as it would a domestic hireling.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Remuneration for public rhetoric",
+      "group": "Sophists",
+      "resource": "Right to collect fees",
+      "directionality": "MORE",
+      "verbatim": [
+        "However I should be surprised if you were to condemn me for my present life—you knew me long ago when I was commanding the highest fees for the public practice of rhetoric, at the time when you went to see the Western Ocean and the lands of the Celts and met me: my fees were as high as those of any professor."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian describes the established practice of professional rhetoricians (sophists) receiving significant fees for their teaching and public displays, treating it as a standard economic right for that specific occupational group.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Imperial reward for Emperors",
+      "group": "Emperors",
+      "resource": "Right to receive public honors",
+      "directionality": "MORE",
+      "verbatim": [
+        "I do not mean tributes and taxes that come in every year from his subjects; no, the king’s most important reward is praise, universal fame, reverence for his benefactions, statues and temples and shrines bestowed on him by his subjects—all these are payment for the thought and care which such men evidence in their continual watch over the common weal and its improvement."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian identifies the specific resources (cultic honors, temples, statues) that the highest group in the hierarchy (the Emperor) is entitled to receive from the populace as payment for governance work.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0062.tlg059.perseus-eng3",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "Harmonides",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6319,
+  "_output_tokens": 847,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

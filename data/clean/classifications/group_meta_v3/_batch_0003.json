@@ -1,0 +1,423 @@
+{
+  "batch_idx": 3,
+  "n_items": 40,
+  "items": [
+    {
+      "i": 0,
+      "value": "Eupatridae"
+    },
+    {
+      "i": 1,
+      "value": "Eurypontidae"
+    },
+    {
+      "i": 2,
+      "value": "Exiled nobles"
+    },
+    {
+      "i": 3,
+      "value": "Exiles"
+    },
+    {
+      "i": 4,
+      "value": "Family of outstanding excellence"
+    },
+    {
+      "i": 5,
+      "value": "Farmers"
+    },
+    {
+      "i": 6,
+      "value": "Fathers"
+    },
+    {
+      "i": 7,
+      "value": "Fellow-citizens"
+    },
+    {
+      "i": 8,
+      "value": "Female musicians"
+    },
+    {
+      "i": 9,
+      "value": "Ferrymen"
+    },
+    {
+      "i": 10,
+      "value": "Fetial priests"
+    },
+    {
+      "i": 11,
+      "value": "Flutegirls"
+    },
+    {
+      "i": 12,
+      "value": "Foreign rulers"
+    },
+    {
+      "i": 13,
+      "value": "Foreigners"
+    },
+    {
+      "i": 14,
+      "value": "Former officials under the oligarchy"
+    },
+    {
+      "i": 15,
+      "value": "Free men"
+    },
+    {
+      "i": 16,
+      "value": "Free non-citizens"
+    },
+    {
+      "i": 17,
+      "value": "Free persons"
+    },
+    {
+      "i": 18,
+      "value": "Free-born individuals"
+    },
+    {
+      "i": 19,
+      "value": "Freeborn gentlemen"
+    },
+    {
+      "i": 20,
+      "value": "Freedmen"
+    },
+    {
+      "i": 21,
+      "value": "Freedom claimants"
+    },
+    {
+      "i": 22,
+      "value": "Freemen"
+    },
+    {
+      "i": 23,
+      "value": "Friends of the people"
+    },
+    {
+      "i": 24,
+      "value": "Frontier landowners"
+    },
+    {
+      "i": 25,
+      "value": "Galli"
+    },
+    {
+      "i": 26,
+      "value": "Generals"
+    },
+    {
+      "i": 27,
+      "value": "Governors"
+    },
+    {
+      "i": 28,
+      "value": "Greeks"
+    },
+    {
+      "i": 29,
+      "value": "Guardians"
+    },
+    {
+      "i": 30,
+      "value": "Health-impaired infants"
+    },
+    {
+      "i": 31,
+      "value": "Heiresses"
+    },
+    {
+      "i": 32,
+      "value": "Heirs"
+    },
+    {
+      "i": 33,
+      "value": "Heirs of magistrates"
+    },
+    {
+      "i": 34,
+      "value": "Helots"
+    },
+    {
+      "i": 35,
+      "value": "Heralds"
+    },
+    {
+      "i": 36,
+      "value": "Herdsman"
+    },
+    {
+      "i": 37,
+      "value": "Herdsmen"
+    },
+    {
+      "i": 38,
+      "value": "Heretics"
+    },
+    {
+      "i": 39,
+      "value": "Hierophants"
+    }
+  ],
+  "parsed": [
+    {
+      "i": 0,
+      "group_meta": [
+        "Nobles"
+      ]
+    },
+    {
+      "i": 1,
+      "group_meta": [
+        "Nobles"
+      ]
+    },
+    {
+      "i": 2,
+      "group_meta": [
+        "Exiles",
+        "Nobles"
+      ]
+    },
+    {
+      "i": 3,
+      "group_meta": [
+        "Exiles"
+      ]
+    },
+    {
+      "i": 4,
+      "group_meta": [
+        "Nobles"
+      ]
+    },
+    {
+      "i": 5,
+      "group_meta": [
+        "Artisans"
+      ]
+    },
+    {
+      "i": 6,
+      "group_meta": [
+        "Men"
+      ]
+    },
+    {
+      "i": 7,
+      "group_meta": [
+        "Citizens"
+      ]
+    },
+    {
+      "i": 8,
+      "group_meta": [
+        "Women",
+        "Artisans"
+      ]
+    },
+    {
+      "i": 9,
+      "group_meta": [
+        "Sailors"
+      ]
+    },
+    {
+      "i": 10,
+      "group_meta": [
+        "Priests"
+      ]
+    },
+    {
+      "i": 11,
+      "group_meta": [
+        "Women",
+        "Minors",
+        "Artisans"
+      ]
+    },
+    {
+      "i": 12,
+      "group_meta": [
+        "Foreigners",
+        "Kings"
+      ]
+    },
+    {
+      "i": 13,
+      "group_meta": [
+        "Foreigners"
+      ]
+    },
+    {
+      "i": 14,
+      "group_meta": [
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 15,
+      "group_meta": [
+        "Men",
+        "Citizens"
+      ]
+    },
+    {
+      "i": 16,
+      "group_meta": [
+        "Foreigners"
+      ]
+    },
+    {
+      "i": 17,
+      "group_meta": [
+        "Citizens"
+      ]
+    },
+    {
+      "i": 18,
+      "group_meta": [
+        "Citizens"
+      ]
+    },
+    {
+      "i": 19,
+      "group_meta": [
+        "Men",
+        "Nobles"
+      ]
+    },
+    {
+      "i": 20,
+      "group_meta": [
+        "Foreigners"
+      ]
+    },
+    {
+      "i": 21,
+      "group_meta": [
+        "Slaves"
+      ]
+    },
+    {
+      "i": 22,
+      "group_meta": [
+        "Men",
+        "Citizens"
+      ]
+    },
+    {
+      "i": 23,
+      "group_meta": [
+        "The multitude"
+      ]
+    },
+    {
+      "i": 24,
+      "group_meta": [
+        "The wealthy"
+      ]
+    },
+    {
+      "i": 25,
+      "group_meta": [
+        "Priests"
+      ]
+    },
+    {
+      "i": 26,
+      "group_meta": [
+        "Soldiers",
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 27,
+      "group_meta": [
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 28,
+      "group_meta": [
+        "Greeks"
+      ]
+    },
+    {
+      "i": 29,
+      "group_meta": [
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 30,
+      "group_meta": [
+        "Minors",
+        "Sick"
+      ]
+    },
+    {
+      "i": 31,
+      "group_meta": [
+        "Women",
+        "Heirs"
+      ]
+    },
+    {
+      "i": 32,
+      "group_meta": [
+        "Heirs"
+      ]
+    },
+    {
+      "i": 33,
+      "group_meta": [
+        "Heirs",
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 34,
+      "group_meta": [
+        "Slaves"
+      ]
+    },
+    {
+      "i": 35,
+      "group_meta": [
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 36,
+      "group_meta": [
+        "Artisans"
+      ]
+    },
+    {
+      "i": 37,
+      "group_meta": [
+        "Artisans"
+      ]
+    },
+    {
+      "i": 38,
+      "group_meta": [
+        "Christians"
+      ]
+    },
+    {
+      "i": 39,
+      "group_meta": [
+        "Priests"
+      ]
+    }
+  ],
+  "input_tokens": 1696,
+  "output_tokens": 763,
+  "status": "ok"
+}

@@ -1,0 +1,110 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to address assembly",
+      "group": "Citizens",
+      "resource": "Right to provide political counsel",
+      "directionality": "MORE",
+      "verbatim": [
+        "I have come before you to give my counsels on the war against the barbarians and on concord among ourselves. [...] so long as conditions go on as before, and what has been said about them is inadequate, is it not our duty to scan and study this question, the right decision of which will deliver us from our mutual warfare, our present confusion, and our greatest ills?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates is exercising the established right of Athenian citizens (isegoria) to address the public on matters of state policy, specifically regarding war and domestic peace.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "rule": "Citizen distribution of public funds",
+      "group": "Citizens",
+      "resource": "Access to public subsidies",
+      "directionality": "MORE",
+      "verbatim": [
+        "it adapts itself both to those who lack means and to those who wish to enjoy the means which they possess, and that it fails to be of service neither to those who are prosperous nor to those who are unfortunate in their own cities; nay, both classes find with us what they desire, the former the most delightful pastimes, the latter the securest refuge."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the Athenian polity as providing services and material safety (refuge) for the poor and entertainment for the rich, reflecting the system of theorika and social support for citizens.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "it is disgraceful for us, who in our private life think the barbarians are fit only to be used as household slaves, to permit by our public policy so many of our allies to be enslaved by them"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author contrasts the status of free allies with 'household slaves' (oiketai), implying that slaves are inherently subject to the mastery and physical coercion of others as a standard societal rule.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic exclusion from government",
+      "group": "Metics",
+      "resource": "Right to hold public office",
+      "directionality": "LESS",
+      "verbatim": [
+        "considering it an outrage that the many should be subject to the few, [...] that, furthermore, in a fatherland which belongs to all in common some should hold the place of masters, others of aliens, and that men who are citizens by birth should be robbed by law of their share in the government."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates criticizes oligarchies for making some residents feel like 'aliens' (metoikoi) in their own land, which confirms the standard rule that actual aliens (Metics) are legally barred from participating in the government.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Religious exclusion of barbarians",
+      "group": "Foreigners",
+      "resource": "Access to sacred rites",
+      "directionality": "LESS",
+      "verbatim": [
+        "at the celebration of the Mysteries, the Eumolpidae and the Kerykes, because of our hatred of the Persians, give solemn warning to the other barbarians also, even as to men guilty of murder, that they are for ever banned from the sacred rites."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly describes a formal religious rule enforced by the priestly families (Eumolpidae/Kerykes) at the Eleusinian Mysteries banning barbarians from participation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Social status through eloquence",
+      "group": "Educated men",
+      "resource": "Political power and honor",
+      "directionality": "MORE",
+      "verbatim": [
+        "that those who are skilled in speech are not only men of power in their own cities but are also held in honor in other states."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates defines a rule of social and political advancement where the resource of education (eloquence) grants the possessor political influence and international prestige.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0010.tlg011.perseus-eng2",
+  "_perseus_author": "Isocrates",
+  "_perseus_title": "Panegyricus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 34632,
+  "_output_tokens": 1211,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

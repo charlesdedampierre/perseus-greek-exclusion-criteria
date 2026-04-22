@@ -1,0 +1,45 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen and foreigner social conduct",
+      "group": "Citizens",
+      "resource": "Right to social harmony",
+      "directionality": "MORE",
+      "verbatim": [
+        "For this reason, he who writes Pindar’s elegy gives him this encomium, To foreigners agreeable, to citizens a friend; Ἄρμενος ἦν ξείνοισιν ἀνὴρ ὅδε, καὶ φίλος ἀστοῖς the poet plainly inferring complacency of humor and the aptitude of a person to fit himself to all tempers to be an excellency aspiring to virtue itself."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The author quotes an elegy characterizing the ideal behavior of a prominent individual (Pindar) toward two distinct groups: citizens (astoi) and foreigners (xeinoi). It establishes a social norm/rule where virtue is defined by providing friendship/harmony specifically to these categorized groups.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Youth attendance at theatres",
+      "directionality": "MORE",
+      "group": "Youth",
+      "resource": "Access to theatrical education",
+      "verbatim": [
+        "And for this reason it was that Zeno of Citium encouraged and persuaded youth to frequent the theatres, there to observe the variety of melodious sounds that proceeded from horns or cornets, wooden hautboys, flutes and reeds, or any other musical instruments to which the contrivance of art had rightly applied the reason of number and proportion."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage describes a pedagogical rule or strong convention promoted by Zeno of Citium specifically for the group 'youth', encouraging them to access the theatre for the purpose of learning proportion and harmony through music.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg134.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Concerning the procreation of the soul as discoursed in Timaeus",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 20033,
+  "_output_tokens": 476,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,94 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Athlete statue size restrictions",
+      "group": "Athletes",
+      "resource": "Right to oversized commemorative statues",
+      "directionality": "LESS",
+      "verbatim": [
+        "“I hear many say (whether it is true or not, you men know) that even at the Olympic games the victors are not allowed to set up statues greater than life-size, but the Hellanodicae take care that not one of them shall exceed the truth, and the scrutiny of the statues is more strict than the examination of the athletes. So be on your guard for fear we incur the imputation of falsifying in the matter of height, and then the Hellanodicae overturn our statue.”"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific regulation at the Olympic games enforced by the Hellanodicae (judges) where victors are prohibited from erecting statues larger than their actual physical dimensions to prevent vanity and falsification.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female exclusion from Olympic attendance",
+      "group": "Women",
+      "resource": "Right to attend Olympic games",
+      "directionality": "LESS",
+      "verbatim": [
+        "“I hear many say (whether it is true or not, you men know) that even at the Olympic games the victors are not allowed to set up statues greater than life-size”",
+        "Women did not attend the Olympic games."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text (and its explicit gloss/contextual note) confirms that women were not permitted to attend the Olympic games, as indicated by Panthea's need to ask men to verify what happens there.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Eulogist freedom of comparison",
+      "group": "Eulogists",
+      "resource": "Exemption from liability for hyperbole",
+      "directionality": "MORE",
+      "verbatim": [
+        "It is an ancient saying, however, that poets and painters are not to be held accountable; still less, I think, eulogists, even if they fare humbly afoot like me, instead of being borne on the wings of song. For praise is an unshackled thing, and has no limit, whether upper or lower, prescribed for it."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author asserts a normative rule in his society where those performing formal praise (eulogists) are granted wide literary license to use comparisons, even divine ones, without being held legally or morally accountable for 'sacrilege' or inaccuracy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Poet and painter creative license",
+      "group": "Poets",
+      "resource": "Freedom of artistic expression",
+      "directionality": "MORE",
+      "verbatim": [
+        "It is an ancient saying, however, that poets and painters are not to be held accountable; still less, I think, eulogists, even if they fare humbly afoot like me, instead of being borne on the wings of song. For praise is an unshackled thing, and has no limit, whether upper or lower, prescribed for it."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian cites a contemporary cultural and literary convention (noted as an 'ancient saying' but still active in his defense) that protects artists and writers from accountability for the content of their artistic works.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Ethnicity"
+      ],
+      "rule": "Egyptian use of divine names",
+      "group": "Egyptians",
+      "resource": "Right to use theophoric names",
+      "directionality": "MORE",
+      "verbatim": [
+        "The Egyptians I forbear to mention, who, though the most superstitious people in the world, yet use the names of the gods to their hearts’ content; in fact, most of their names are derived from Heaven."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian observes a specific cultural practice among Egyptians where individuals are permitted to take names derived from or belonging to deities without it being considered impious or causing divine retribution.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0062.tlg040.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "Essays in Portraiture Defended",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 3,
+  "_input_tokens": 16644,
+  "_output_tokens": 1127,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

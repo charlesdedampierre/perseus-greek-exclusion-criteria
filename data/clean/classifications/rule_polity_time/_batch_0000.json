@@ -1,0 +1,171 @@
+{
+  "batch_idx": 0,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0007.tlg118.perseus-eng3::0",
+    "tlg0007.tlg118.perseus-eng3::1",
+    "tlg0007.tlg118.perseus-eng3::2",
+    "tlg0007.tlg118.perseus-eng3::3",
+    "tlg0007.tlg118.perseus-eng3::4",
+    "tlg0007.tlg118.perseus-eng3::5",
+    "tlg0007.tlg119.perseus-eng3::0",
+    "tlg0007.tlg119.perseus-eng3::1",
+    "tlg0007.tlg119.perseus-eng3::2",
+    "tlg0014.tlg059.perseus-eng2::0",
+    "tlg0014.tlg059.perseus-eng2::1",
+    "tlg0014.tlg059.perseus-eng2::2",
+    "tlg0014.tlg059.perseus-eng2::3",
+    "tlg0014.tlg059.perseus-eng2::4",
+    "tlg0014.tlg059.perseus-eng2::5",
+    "tlg0014.tlg059.perseus-eng2::6",
+    "tlg0014.tlg059.perseus-eng2::7",
+    "tlg0014.tlg059.perseus-eng2::8",
+    "tlg0014.tlg059.perseus-eng2::9",
+    "tlg0014.tlg059.perseus-eng2::10"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Plutarch writes about the contemporary reality where Greeks are subjects of the Roman Empire and excluded from imperial governance.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch wrote 'Precepts of Statecraft' around 100 CE, during the peak of his literary and public career."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The text describes the specific administrative autonomy granted to Greek cities while under the authority of the Roman proconsul.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Dated to Plutarch's floruit around 100 CE, reflecting the administrative status of Greek cities in his time."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Plutarch discusses the civic duties of a contemporary Greek aristocrat (Menemachus) within the Roman provincial system.",
+      "rule_date": 100,
+      "rule_time_reasoning": "The text is an address to a contemporary of Plutarch, written circa 100 CE."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The author addresses the governance of contemporary Athenian citizens subject to Roman proconsuls and 'the boots of Roman soldiers'.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch writes this advice to a contemporary politician around 100 CE."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Plutarch critiques the contemporary tendency of Greek city councils to refer all local decisions to Roman authorities.",
+      "rule_date": 100,
+      "rule_time_reasoning": "This reflects the real-time political habits of Greek cities toward Rome during Plutarch's life, circa 100 CE."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "This describes the legal hierarchy where a Roman proconsul's edict overrides local Greek political decisions.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Dated to Plutarch's career around 100 CE, describing the contemporary relationship between Roman power and Greek local rule."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Hellenistic Greece",
+      "rule_polity_reasoning": "The author cites an anecdote about the Megarians granting citizenship to Alexander the Great to define the concept of citizenship.",
+      "rule_date": -330,
+      "rule_time_reasoning": "The rule describes a specific historical action taken by Megara during the career of Alexander the Great, circa -330."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Plutarch uses historical examples to define citizenship and 'politeia' for his contemporary audience under Roman rule.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Stated as a contemporary political definition by Plutarch at his floruit circa 100 CE."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "The text explicitly discusses the oligarchy established by Lycurgus at Sparta and the power sharing among peers.",
+      "rule_date": -348,
+      "rule_time_reasoning": "Though written later, it describes the traditional Spartan constitution viewed as an operative historical model; -348 is a representative classical date."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Demosthenes describes a specific legislative action taken by a member of the Athenian senate.",
+      "rule_date": -340,
+      "rule_time_reasoning": "The speech 'Against Neaera' was delivered in the mid-4th century BCE, approximately -340."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "This refers to the legal procedures for state funds and war taxes (eisphora) in 4th-century Athens.",
+      "rule_date": -340,
+      "rule_time_reasoning": "These statutes were invoked in a trial occurring around -340."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule describes 'atimia' (disfranchisement) for debtors to the Athenian treasury.",
+      "rule_date": -340,
+      "rule_time_reasoning": "This is a contemporary legal consequence described in Demosthenes’ speech around -340."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text explicitly cites an Athenian statute regarding marriage between aliens and citizens.",
+      "rule_date": -340,
+      "rule_time_reasoning": "This law was in effect and cited during the prosecution of Neaera around -340."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The speaker describes the purchase and ownership of individuals as chattel within the Athenian legal context.",
+      "rule_date": -340,
+      "rule_time_reasoning": "Reflects the contemporary Athenian institution of slavery described in court around -340."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text refers to the legal requirement for aliens (metics) to have an Athenian 'prostates' (patron).",
+      "rule_date": -340,
+      "rule_time_reasoning": "This was a standard legal requirement for metics in Athens during the mid-4th century BCE."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text describes the specific Athenian legal procedure of 'aphairesis eis eleutherian' for claiming freedom.",
+      "rule_date": -340,
+      "rule_time_reasoning": "This Athenian legal remedy was being actively utilized in the case described circa -340."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text cites an Athenian law regarding the return of the 'proix' (dowry) upon divorce.",
+      "rule_date": -340,
+      "rule_time_reasoning": "This represents a contemporary civil law of the orators' period around -340."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text describes Athenian penalties for misrepresenting the status of a bride in a citizen marriage.",
+      "rule_date": -340,
+      "rule_time_reasoning": "Reflects the mid-4th century Athenian laws on citizenship and marriage purity."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text outlines the requirements for the Basilissa, a central religious office in the Athenian state religion.",
+      "rule_date": -340,
+      "rule_time_reasoning": "The speech describes this as a contemporary religious law in force at the time of the trial, circa -340."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule describes the exclusion of certain women from Athenian public sacrifices and festivals.",
+      "rule_date": -340,
+      "rule_time_reasoning": "This law was a standing part of Athenian religious hygiene and domestic law cited around -340."
+    }
+  ],
+  "input_tokens": 4561,
+  "output_tokens": 2094,
+  "status": "ok"
+}

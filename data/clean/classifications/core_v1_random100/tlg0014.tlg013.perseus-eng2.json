@@ -1,0 +1,78 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Age"
+      ],
+      "rule": "Citizen right to public doles",
+      "group": "Citizens",
+      "resource": "Right to receive public funds",
+      "directionality": "MORE",
+      "verbatim": [
+        "The total revenues of the State, including your own resources, now squandered on unnecessary objects, and the contributions of your allies, must be shared by each citizen equally, as pay by those of military age and as overseers’ fees, or whatever you like to call it, by those beyond the age-limit; and you must serve in person and not resign that duty to others."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes describes an existing system where public funds (theoric funds/doles) are distributed to the citizenry. While he proposes linking them to service, he confirms the current 'right to receive these doles' for the citizen body, categorized by age for either military or civil roles.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen sovereignty in law courts",
+      "group": "Citizens",
+      "resource": "Right to adjudicate legal rights",
+      "directionality": "MORE",
+      "verbatim": [
+        "I know that these courts are sovereign to uphold the rights of citizen against citizen, but it is by arms that you must conquer the enemy, and upon arms depends the safety of the State."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a fundamental rule of the Athenian state where the citizen-run courts have the final authority (sovereignty) to resolve disputes and uphold legal rights among the citizenry.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Ethnicity"
+      ],
+      "rule": "Tax immunity for distinguished foreigners",
+      "group": "Foreigners",
+      "resource": "Exemption from taxes",
+      "directionality": "MORE",
+      "verbatim": [
+        "When Meno of Pharsalus gave twelve talents of silver towards the war at Eion near Amphipolis and supported us with two hundred cavalry of his own vassals, our ancestors did not vote him the citizenship, but only gave him immunity from taxes. On an earlier occasion, when Perdiccas, who was king of Macedonia at the time of the Persian invasions... they did not vote him the citizenship, but only gave him immunity from taxes."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Demosthenes cites historical legal precedents where the Athenian state granted 'ateleia' (tax immunity) to foreign benefactors as a specific resource, distinguishing it from the higher resource of citizenship.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Sale of Athenian citizenship",
+      "group": "Foreigners",
+      "resource": "Eligibility for citizenship",
+      "directionality": "MORE",
+      "verbatim": [
+        "But now, Athenians, you make citizens of the scum of mankind, menial sons of menial fathers, charging a price for it as for any other commodity."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a contemporary practice/rule where citizenship, which was previously guarded strictly based on lineage, is now being granted to non-citizens in exchange for payment.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0014.tlg013.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "On Organization",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6866,
+  "_output_tokens": 849,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

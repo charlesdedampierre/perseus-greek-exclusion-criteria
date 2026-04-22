@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Resource meta/type — 30-item check</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='13'>R</text></svg>">
+<style>
+  :root { --bg:#fafaf7; --fg:#1a1a1a; --muted:#666; --good:#166534; --bad:#991b1b; --card:#fff; --border:#e5e3db; --accent:#1f3b4d; --chip-meta:#eaf1f6; --chip-type:#f0ead8; }
+  * { box-sizing: border-box; }
+  body { font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; background: var(--bg); color: var(--fg); margin: 0; padding: 24px; }
+  header { max-width: 860px; margin: 0 auto 16px; display: flex; justify-content: space-between; align-items: baseline; }
+  header h1 { font-size: 18px; font-weight: 600; margin: 0; }
+  header .counters { color: var(--muted); font-size: 13px; }
+  .card { max-width: 860px; margin: 0 auto 14px; background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 18px 22px; }
+  .index { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 4px; }
+  .resource { font-size: 17px; font-weight: 600; margin-bottom: 8px; }
+  .level-row { display: flex; align-items: center; gap: 10px; margin: 6px 0; font-size: 14px; }
+  .level-label { color: var(--muted); font-weight: 500; min-width: 110px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; }
+  .chip { background: var(--chip-meta); color: var(--accent); padding: 3px 10px; border-radius: 12px; font-size: 13px; font-weight: 500; }
+  .chip.type { background: var(--chip-type); color: #4a3a16; }
+  .mini-btn { border: 1px solid var(--border); background: #fff; padding: 2px 10px; font-size: 12px; border-radius: 4px; cursor: pointer; font-family: inherit; }
+  .mini-btn:hover { background: #f2f0e8; }
+  .mini-btn.ok.selected { background: var(--good); color: #fff; border-color: var(--good); }
+  .mini-btn.bad.selected { background: var(--bad); color: #fff; border-color: var(--bad); }
+  .rule-box { background: #f7f6f0; border: 1px solid var(--border); border-radius: 6px; padding: 8px 12px; margin-top: 10px; font-size: 14px; }
+  .rule-title { font-weight: 500; color: #333; }
+  .rule-detail { color: var(--muted); font-size: 13px; margin-top: 3px; }
+  .source { color: var(--muted); font-size: 12px; margin-top: 4px; font-style: italic; }
+  .dir-more { color: var(--good); font-weight: 600; }
+  .dir-less { color: var(--bad); font-weight: 600; }
+  textarea { width: 100%; margin-top: 8px; padding: 8px; font-family: inherit; font-size: 13px; border: 1px solid var(--border); border-radius: 6px; min-height: 36px; resize: vertical; }
+  .footer { max-width: 860px; margin: 24px auto 0; display: flex; gap: 12px; justify-content: center; }
+  .footer button { padding: 10px 18px; font-weight: 500; border: 1px solid var(--border); background: #fff; border-radius: 6px; cursor: pointer; font-family: inherit; font-size: 14px; }
+  .footer button:hover { background: #f2f0e8; }
+  .footer button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <h1>Resource → resource_meta / resource_type — 30-item check</h1>
+  <span class="counters" id="counters"></span>
+</header>
+<div id="cards"></div>
+<div class="footer">
+  <button class="primary" id="download">Download JSON</button>
+  <button id="summary">Show wrongs</button>
+</div>
+
+<script>
+const DATA = [{"resource": "Right to propose resolutions", "resource_meta": "Political power", "resource_type": "Political Power", "rule": "State debtor disqualification from politics", "directionality": "LESS", "group": "Debtors to the state", "author": "Demosthenes", "title": "Against Androtion"}, {"resource": "Right to appeal to the court", "resource_meta": "Right to a legal trial", "resource_type": "Legal Standing", "rule": "Citizen right to appeal disfranchisement", "directionality": "MORE", "group": "Citizens", "author": "Isaeus", "title": "On Behalf of Euphiletus"}, {"resource": "Right to free speech", "resource_meta": "Right to free speech", "resource_type": "Political Power", "rule": "Slave slander against free men", "directionality": "LESS", "group": "Slaves", "author": "Aristotle", "title": "Athenian Constitution"}, {"resource": "Exemption from war-tax (eisphora)", "resource_meta": "Exemption from taxes", "resource_type": "Material Wealth", "rule": "War tax for the wealthy", "directionality": "LESS", "group": "Wealthy citizens", "author": "Isocrates", "title": "Antidosis"}, {"resource": "Access to common meals", "resource_meta": "Access to public honors", "resource_type": "Honor", "rule": "Public mess-table participation", "directionality": "MORE", "group": "Citizens", "author": "Aristotle", "title": "Politics"}, {"resource": "Protection from slander", "resource_meta": "Protection from public libel", "resource_type": "Honor", "rule": "Slander penalty for specific terms", "directionality": "MORE", "group": "Citizens", "author": "Lysias", "title": "Against Theomnestus 1"}, {"resource": "Exemption from religious initiation", "resource_meta": "Access to religious rites", "resource_type": "Religious Standing", "rule": "Citizen participation in civic mysteries", "directionality": "LESS", "group": "Citizens", "author": "Lucian of Samosata", "title": "Demonax"}, {"resource": "Right to introduce legal amendments", "resource_meta": "Political power", "resource_type": "Political Power", "rule": "Magistrate right to amend established code", "directionality": "MORE", "group": "Magistrates", "author": "Aristotle", "title": "Politics"}, {"resource": "Right to independent legal action", "resource_meta": "Right to a legal trial", "resource_type": "Legal Standing", "rule": "Metic requirement for legal patrons", "directionality": "LESS", "group": "Metics", "author": "Aristotle", "title": "Politics"}, {"resource": "Protection from degrading treatment", "resource_meta": "Protection from corporal punishment", "resource_type": "Bodily Autonomy", "rule": "Slave suicide to prevent degradation", "directionality": "LESS", "group": "Slaves", "author": "Plutarch", "title": "Sayings of Spartan Women"}, {"resource": "Protection from capital punishment", "resource_meta": "Protection from capital punishment", "resource_type": "Bodily Autonomy", "rule": "Citizen protection from execution", "directionality": "MORE", "group": "Citizens", "author": "Andocides", "title": "On the Mysteries"}, {"resource": "Right to participate in trade", "resource_meta": "Right to retain own earnings", "resource_type": "Material Wealth", "rule": "Barter among primitive tribes", "directionality": "MORE", "group": "Foreigners", "author": "Aristotle", "title": "Politics"}, {"resource": "Protection from sexual exploitation", "resource_meta": "Right to bodily autonomy", "resource_type": "Bodily Autonomy", "rule": "Marital fidelity of wives", "directionality": "LESS", "group": "Wives", "author": "Plutarch", "title": "Aratus"}, {"resource": "Right to adopt a son", "resource_meta": "Right to adopt", "resource_type": "Legal Standing; Household Authority", "rule": "Citizen right of adoption", "directionality": "MORE", "group": "Citizens", "author": "Isaeus", "title": "On the Estate of Menecles"}, {"resource": "Protection from legal inquiry into income", "resource_meta": "Exemption from legal audit", "resource_type": "Legal Standing", "rule": "Investigation of livelihood for the able-bodied", "directionality": "LESS", "group": "The poor", "author": "Diogenes Laertius", "title": "Lives of Eminent Philosophers"}, {"resource": "Right to receive public salary", "resource_meta": "Right to remuneration for office", "resource_type": "Political Power; Material Wealth", "rule": "Salary for imperial administration", "directionality": "MORE", "group": "Administrators", "author": "Lucian of Samosata", "title": "Harmonides"}, {"resource": "Right to leisure", "resource_meta": "Exemption from manual labor", "resource_type": "Bodily Autonomy", "rule": "Laborer restriction to holidays", "directionality": "LESS", "group": "Artisans", "author": "Lucian of Samosata", "title": "The Parasite Tychiades"}, {"resource": "Exemption from manual labor", "resource_meta": "Exemption from manual labor", "resource_type": "Bodily Autonomy", "rule": "Aristocratic distance from mechanic arts", "directionality": "MORE", "group": "The rich", "author": "Aristotle", "title": "Politics"}, {"resource": "Eligibility for the gymnasiarchy", "resource_meta": "Eligibility for public office", "resource_type": "Political Power", "rule": "Citizen duty of gymnasiarchy", "directionality": "MORE", "group": "Wealthy citizens", "author": "Isaeus", "title": "On the Estate of Menecles"}, {"resource": "Right to reside in Attica", "resource_meta": "Right to reside in the city", "resource_type": "Bodily Autonomy", "rule": "Family-based exclusion from the city", "directionality": "LESS", "group": "Athenians of 'polluted' lineage", "author": "Aristotle", "title": "Athenian Constitution"}, {"resource": "Right to public financing", "resource_meta": "Right to remuneration for office", "resource_type": "Political Power; Material Wealth", "rule": "Archon grant of comic chorus", "directionality": "MORE", "group": "Comic poets", "author": "Aristotle", "title": "Poetics"}, {"resource": "Eligibility for the judiciary", "resource_meta": "Eligibility for public office", "resource_type": "Political Power", "rule": "Citizen access to judicial service", "directionality": "MORE", "group": "Citizens", "author": "Aristotle", "title": "Politics"}, {"resource": "Right to receive a dowry", "resource_meta": "Right to a dowry", "resource_type": "Material Wealth; Household Authority", "rule": "Dowry provision for sisters", "directionality": "MORE", "group": "Women", "author": "Isaeus", "title": "On the Estate of Menecles"}, {"resource": "Right to hold common meals and study-circles", "resource_meta": "Access to religious rites", "resource_type": "Religious Standing", "rule": "Restriction on common assembly", "directionality": "LESS", "group": "Citizens", "author": "Aristotle", "title": "Politics"}, {"resource": "Exemption from public service financing", "resource_meta": "Exemption from compulsory public financing", "resource_type": "Material Wealth", "rule": "Liturgy obligation for the wealthy", "directionality": "LESS", "group": "The wealthy", "author": "Andocides", "title": "On the Mysteries"}, {"resource": "Access to non-practical books and treatises", "resource_meta": "Access to the gymnasium", "resource_type": "Education", "rule": "Higher education ban", "directionality": "LESS", "group": "The Spartans", "author": "Plutarch", "title": "Instituta Laconica"}, {"resource": "Right to civic rights", "resource_meta": "Right to citizenship", "resource_type": "Legal Standing; Political Power", "rule": "Citizenship requirement for maternal lineage", "directionality": "LESS", "group": "Children of non-citizen mothers", "author": "Isaeus", "title": "On The Estate of Ciron"}, {"resource": "Right to local trial in Athens", "resource_meta": "Right to a legal trial", "resource_type": "Legal Standing", "rule": "Foreigner exclusion from Areopagus jurisdiction", "directionality": "LESS", "group": "Outsiders", "author": "Lucian", "title": "The Double Indictment"}, {"resource": "Right to act as a juryman", "resource_meta": "Eligibility for public office", "resource_type": "Political Power", "rule": "Citizen jury duty selection", "directionality": "MORE", "group": "Citizens", "author": "Aristophanes", "title": "Plutus"}, {"resource": "Right to retain dowry upon divorce", "resource_meta": "Right to retain property", "resource_type": "Material Wealth", "rule": "Wife's limited control of ornaments", "directionality": "LESS", "group": "Women", "author": "Plutarch", "title": "Aratus"}];
+const state = {};
+DATA.forEach((r, i) => { state[i] = { meta_verdict: null, type_verdict: null, note: "" }; });
+
+function esc(s) {
+  return String(s || "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[c]));
+}
+
+function render() {
+  const root = document.getElementById("cards");
+  root.innerHTML = "";
+  DATA.forEach((r, i) => {
+    const s = state[i];
+    const dirClass = r.directionality === "MORE" ? "dir-more" : "dir-less";
+    const types = (r.resource_type || "").split(/\s*;\s*/).map(t => `<span class="chip type">${esc(t)}</span>`).join(" ");
+    const div = document.createElement("div");
+    div.className = "card";
+    div.innerHTML = `
+      <div class="index">${i+1} / ${DATA.length}</div>
+      <div class="resource">${esc(r.resource)}</div>
+      <div class="level-row">
+        <span class="level-label">meta</span>
+        <span class="chip">${esc(r.resource_meta)}</span>
+        <button class="mini-btn ok ${s.meta_verdict === "ok" ? "selected" : ""}" data-i="${i}" data-axis="meta" data-v="ok">✓</button>
+        <button class="mini-btn bad ${s.meta_verdict === "bad" ? "selected" : ""}" data-i="${i}" data-axis="meta" data-v="bad">✗</button>
+      </div>
+      <div class="level-row">
+        <span class="level-label">type</span>
+        ${types}
+        <button class="mini-btn ok ${s.type_verdict === "ok" ? "selected" : ""}" data-i="${i}" data-axis="type" data-v="ok">✓</button>
+        <button class="mini-btn bad ${s.type_verdict === "bad" ? "selected" : ""}" data-i="${i}" data-axis="type" data-v="bad">✗</button>
+      </div>
+      <div class="rule-box">
+        <div class="rule-title">${esc(r.rule)}</div>
+        <div class="rule-detail"><span class="${dirClass}">${esc(r.directionality)}</span> · ${esc(r.group)}</div>
+      </div>
+      <div class="source">${esc(r.author)} — ${esc(r.title)}</div>
+      <textarea placeholder="Suggested fix for meta or type…" data-i="${i}">${esc(s.note)}</textarea>
+    `;
+    root.appendChild(div);
+  });
+  updateCounters();
+}
+
+function updateCounters() {
+  const items = Object.values(state);
+  const mok = items.filter(s => s.meta_verdict === "ok").length;
+  const mbad = items.filter(s => s.meta_verdict === "bad").length;
+  const tok = items.filter(s => s.type_verdict === "ok").length;
+  const tbad = items.filter(s => s.type_verdict === "bad").length;
+  document.getElementById("counters").textContent =
+    `meta: ${mok}✓ ${mbad}✗ · type: ${tok}✓ ${tbad}✗`;
+}
+
+document.addEventListener("click", e => {
+  const btn = e.target.closest("button[data-v]");
+  if (!btn) return;
+  const i = btn.dataset.i, axis = btn.dataset.axis, v = btn.dataset.v;
+  const key = axis + "_verdict";
+  state[i][key] = state[i][key] === v ? null : v;
+  render();
+});
+
+document.addEventListener("input", e => {
+  if (e.target.tagName === "TEXTAREA" && e.target.dataset.i !== undefined) {
+    state[e.target.dataset.i].note = e.target.value;
+  }
+});
+
+document.getElementById("download").addEventListener("click", () => {
+  const out = DATA.map((r, i) => ({
+    resource: r.resource,
+    resource_meta: r.resource_meta,
+    resource_type: r.resource_type,
+    meta_verdict: state[i].meta_verdict,
+    type_verdict: state[i].type_verdict,
+    note: state[i].note,
+  }));
+  const blob = new Blob([JSON.stringify(out, null, 2)], {type: "application/json"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "resource_type_check_30_feedback.json";
+  a.click();
+});
+
+document.getElementById("summary").addEventListener("click", () => {
+  const lines = [];
+  DATA.forEach((r, i) => {
+    const s = state[i];
+    const parts = [];
+    if (s.meta_verdict === "bad") parts.push(`meta (${r.resource_meta})`);
+    if (s.type_verdict === "bad") parts.push(`type (${r.resource_type})`);
+    if (parts.length) {
+      lines.push(`• ${r.resource}\n    wrong: ${parts.join(", ")}` + (s.note ? `\n    note: ${s.note}` : ""));
+    }
+  });
+  alert(`${lines.length} items flagged:\n\n` + (lines.join("\n") || "(none yet)"));
+});
+
+render();
+</script>
+</body>
+</html>

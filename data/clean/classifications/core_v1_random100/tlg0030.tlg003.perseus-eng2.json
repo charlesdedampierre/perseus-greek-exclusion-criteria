@@ -1,0 +1,94 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave defect disclosure during sale",
+      "group": "Slaves",
+      "resource": "Right to be returned if defective",
+      "directionality": "MORE",
+      "verbatim": [
+        "After this there is a second law, covering agreements between individuals, which states that whenever anyone sells a slave, he must declare in advance any physical disability from which the man suffers. Otherwise the slave in question can be returned to the vendor."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Hyperides cites a specific Athenian law that mandates sellers disclose physical ailments (disabilities) of slaves at the point of sale. If this is not done, the transaction can be reversed (the resource being the legal mechanism for return).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Lineage"
+      ],
+      "rule": "Legitimacy through lawful betrothal",
+      "group": "Women",
+      "resource": "Right to produce legitimate offspring",
+      "directionality": "MORE",
+      "verbatim": [
+        "On the contrary, he wrote expressly in the law: whomsoever any man has lawfully betrothed as wife, her children shall be legitimate; not: if any man has betrothed some other woman on the pretence that she is his daughter. He lays it down that just betrothals shall be valid and unjust ones invalid."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text quotes a law regarding the status of children based on the mother's betrothal status. A woman's children only gain the resource of legitimacy if she was 'lawfully betrothed' by a male relative (father or brother).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Testamentary freedom restrictions",
+      "group": "Wealthy",
+      "resource": "Right to bequeath property",
+      "directionality": "LESS",
+      "verbatim": [
+        "Moreover the law dealing with wills is very similar to this. It allows a man to bequeath his property as he wishes unless he is affected by old age, illness or insanity, and provided he is not influenced by a woman or imprisoned or otherwise coerced."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Solonian law on wills (diathekai) is cited, showing that while individuals have the right to bequeath, this resource is restricted if the testator is deemed influenced by specific external factors like illness or the influence of a woman.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Master responsibility for slave crimes",
+      "group": "Slaves",
+      "resource": "Protection from legal liability",
+      "directionality": "MORE",
+      "verbatim": [
+        "He knew that sales are constantly taking place in the city and passed a law, which everyone admits to be just, stating that any offences or crimes committed by a slave shall be the responsibility of the master who owns him at the time."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage cites a law attributed to Solon stating that masters are legally liable for the torts/crimes of their slaves. This effectively grants the group 'Slaves' protection from direct legal liability for their actions, shifting it to the owner.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic wartime travel restriction",
+      "group": "Metics",
+      "resource": "Freedom of movement during war",
+      "directionality": "LESS",
+      "verbatim": [
+        "To prove that what I say is true the clerk will read you first the law, which forbids metics to move in war time, then the evidence of the Troezenians and also the Troezenians’ decree passed by them in honor of your city."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references a specific Athenian law that restricted the movement/emigration of resident aliens (metics) during times of war, such as the conflict with Philip of Macedon.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0030.tlg003.perseus-eng2",
+  "_perseus_author": "Hyperides",
+  "_perseus_title": "Against Athenogenes",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 8091,
+  "_output_tokens": 1054,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

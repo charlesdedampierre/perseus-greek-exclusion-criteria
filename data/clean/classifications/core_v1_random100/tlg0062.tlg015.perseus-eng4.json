@@ -1,0 +1,146 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Segregated seating at formal banquets",
+      "group": "Women",
+      "resource": "Right to integrate with male guests",
+      "directionality": "LESS",
+      "verbatim": [
+        "When nearly all the guests had arrived, and we were to take our places, the ladies occupied the whole of the table to the right of the entrance; there were a good many of them, surrounding the closely veiled bride. The table at the far end accommodated the general company, in due precedence."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a standard seating arrangement at a high-society wedding feast where the female guests are strictly grouped together at a specific table separate from the male 'general company'.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage",
+        "Religion"
+      ],
+      "rule": "Precedence based on priesthood and nobility",
+      "group": "Priests",
+      "resource": "Priority in seating precedence",
+      "directionality": "MORE",
+      "verbatim": [
+        "Then a doubt arose whether the next was Zenothemis the Stoic’s, in virtue of his years, or Hermon the Epicurean’s, who is priest of the Twin Gods Castor and Pollux, and also of the noblest blood in the land.",
+        "‘Have your way, Zenothemis,’ said Hermon, ‘though, whatever your contempt for Epicurus, etiquette would have suggested your giving way to my priesthood, if I had no other claims.’"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly discusses the criteria for seating precedence at a formal dinner, noting that religious office (priesthood) and 'noble blood' are valid social claims to higher-ranking seats.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy eligibility for marriage alliances",
+      "group": "The wealthy",
+      "resource": "Eligibility for advantageous marriage alliances",
+      "directionality": "MORE",
+      "verbatim": [
+        "He is a well-behaved youngster, has taken up philosophy, and is sole heir to a rich father; so he was the selected bridegroom.",
+        "Ah, no doubt Eucritus’s money is a consideration."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue confirms that being the heir of a wealthy father (Eucritus the banker) is a primary selection criterion for a bridegroom in upper-class Roman-Greek society.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Seniority in seating precedence",
+      "group": "The elderly",
+      "resource": "Priority in seating precedence",
+      "directionality": "MORE",
+      "verbatim": [
+        "Then a doubt arose whether the next was Zenothemis the Stoic’s, in virtue of his years, or Hermon the Epicurean’s..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage identifies age ('in virtue of his years') as a standard social criterion used to determine the order of precedence and seating at a formal banquet.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Teacher right to collect fees",
+      "group": "Teachers",
+      "resource": "Right to take legal action for unpaid fees",
+      "directionality": "MORE",
+      "verbatim": [
+        "‘Who trades in his own wife’s favours?” retorted Cleodemus; ‘I do not do that, and I do not undertake to keep my foreign pupil’s purse and then swear by Polias the deposit was never made; I do not lend money at fifty per cent, and I do not hale my pupils into court if fees are not paid to the day.’"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Cleodemus’s insult toward Zenothemis involves accusing him of ‘hal[ing] pupils into court’ for unpaid fees. While Cleodemus presents himself as not doing this, the insult confirms that professional teachers (philosophers) had the legal standing to sue for their teaching pay, which was a recognized material resource.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy and banquet entitlements",
+      "group": "Dinner guests",
+      "resource": "Right to take food home (apophoreta)",
+      "directionality": "MORE",
+      "verbatim": [
+        "The ‘repast,’ as they call it, had just made its appearance; each guest was served with a bird, a slice of wild boar, a portion of hare, a fried fish, some sesame cakes and sweet-meats—all these to be taken home if the guest chose."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific convention at high-status banquets where guests are entitled to carry away their portion (apophoreta). This is a material resource provided to the group of invited guests by the host.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Freedom"
+      ],
+      "rule": "Double portion for absent pupils",
+      "group": "Teachers",
+      "resource": "Right to surplus food portions",
+      "directionality": "MORE",
+      "verbatim": [
+        "Cleodemus and Ion had the third table, the bridegroom and I the next; Diphilus had a double portion, by the absence of Zeno. Remember these details, Philo; you will find they bear on the story. [...] As I told you, Hermon and Zenothemis were neighbours, the latter having the upper place. Their portions were equal enough except in one respect"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a rule in this social setting where a teacher (Diphilus) is entitled to the portion of his absent pupil (Zeno), effectively doubling his material resource for the evening. This is treated as a standard expectation that others acknowledge.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Gender"
+      ],
+      "rule": "Slave girl exposure to sexual violence",
+      "group": "Flutegirls",
+      "resource": "Protection from sexual assault",
+      "directionality": "LESS",
+      "verbatim": [
+        "When some one came at last with a lamp, Alcidamas was discovered stripping and applying compulsion to the flutegirl, and Dionysodorus proved to have been as incongruously engaged"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes an assault on a flutegirl (typically a slave or low-status hireling) by a guest during a public disorder. The lack of intervention or legal consequence described in this social setting illustrates the lack of protection such a group had regarding bodily autonomy.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0062.tlg015.perseus-eng4",
+  "_perseus_author": "Lucian",
+  "_perseus_title": "A Feast of Lapithae",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 3,
+  "_input_tokens": 16575,
+  "_output_tokens": 1780,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

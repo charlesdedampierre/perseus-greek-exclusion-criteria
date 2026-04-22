@@ -1,0 +1,63 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Nobility",
+        "Wealth / Properties"
+      ],
+      "rule": "Aristocratic use of wealth for charitable sustenance",
+      "group": "Nobles",
+      "resource": "Right to distribute private wealth as public charity",
+      "directionality": "MORE",
+      "verbatim": [
+        "Nor can the table of Cimon be likened to that of Lucullus; the one was democratic and charitable, the other sumptuous and oriental. The one, at slight outlay, gave daily sustenance to many; the other, at large cost, was prepared for a few luxurious livers. It may be said, indeed, that the difference in state was due to the difference in time."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a historical norm in Cimon's Athens where wealthy aristocrats used their private fortunes to provide daily meals/sustenance to the many (the 'democratic' table), contrasting this with the private luxury of later Roman generals.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right of ostracism",
+      "group": "Citizens",
+      "resource": "Power to exile political leaders",
+      "directionality": "MORE",
+      "verbatim": [
+        "Or perhaps this has its counterpart in the life of Cimon, for he was brought to trial by his fellow citizens and finally ostracised, in order that for ten years, as Plato says, they might not hear his voice. For aristocratic natures are little in accord with the multitude, and seldom please it, but by so often using force to rectify its aberrations, they vex and annoy it."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text refers to the legal mechanism of ostracism in Athens, which allowed the citizen body to vote a prominent individual into exile for ten years, effectively removing their political influence.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Citizenship"
+      ],
+      "rule": "Elite eligibility for imperial command",
+      "group": "Nobles",
+      "resource": "Eligibility for the supreme military command",
+      "directionality": "MORE",
+      "verbatim": [
+        "And further, it was his country which conferred imperial power upon Lucullus, whereas Cimon conferred it upon his. The one added his foreign conquests to a country which already ruled her allies; the other found his country obeying others, and gave her command over her allies and victory over her foreign foes."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text identifies that both societies (Rome and Athens) had formal processes where the state ('his country') conferred 'imperial power' or supreme military command (imperium/strategia) upon specific elite individuals like Lucullus and Cimon.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg037.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Comparison of Lucullus and Cimon",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4668,
+  "_output_tokens": 708,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

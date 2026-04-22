@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Work polity/time — 20-item check</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='13'>H</text></svg>">
+<style>
+  :root { --bg:#fafaf7; --fg:#1a1a1a; --muted:#666; --accent:#4a4a4a; --good:#166534; --bad:#991b1b; --card:#fff; --border:#e5e3db; }
+  * { box-sizing: border-box; }
+  body { font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; background: var(--bg); color: var(--fg); margin: 0; padding: 24px; }
+  header { max-width: 900px; margin: 0 auto 16px; display: flex; justify-content: space-between; align-items: baseline; }
+  header h1 { font-size: 18px; font-weight: 600; margin: 0; }
+  header .counters { color: var(--muted); font-size: 13px; }
+  .card { max-width: 900px; margin: 0 auto 16px; background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 20px 24px; }
+  .meta { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; margin-bottom: 4px; }
+  .title { font-size: 17px; font-weight: 600; margin: 0 0 2px; }
+  .author { color: var(--muted); margin-bottom: 16px; }
+  .fields { display: grid; grid-template-columns: 140px 1fr; gap: 6px 16px; margin: 12px 0; font-size: 14px; }
+  .fields dt { color: var(--muted); font-weight: 500; }
+  .fields dd { margin: 0; }
+  .reasoning { color: #444; font-size: 13px; font-style: italic; }
+  .buttons { display: flex; gap: 8px; margin-top: 16px; }
+  button { border: 1px solid var(--border); background: #fff; padding: 6px 14px; font-size: 14px; border-radius: 6px; cursor: pointer; font-family: inherit; }
+  button:hover { background: #f2f0e8; }
+  button.ok.selected { background: var(--good); color: #fff; border-color: var(--good); }
+  button.bad.selected { background: var(--bad); color: #fff; border-color: var(--bad); }
+  textarea { width: 100%; margin-top: 10px; padding: 8px; font-family: inherit; font-size: 13px; border: 1px solid var(--border); border-radius: 6px; min-height: 44px; resize: vertical; }
+  .footer { max-width: 900px; margin: 24px auto 0; display: flex; gap: 12px; }
+  .footer button { padding: 10px 18px; font-weight: 500; }
+  .pill { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; background: #ecebe4; color: #333; }
+  .pill.past { background: #fde68a; }
+  .pill.contemporary { background: #bbf7d0; }
+  .pill.mixed { background: #c7d2fe; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Work polity / time — 20-item check</h1>
+  <span class="counters" id="counters"></span>
+</header>
+<div id="cards"></div>
+<div class="footer">
+  <button id="download">Download feedback JSON</button>
+  <button id="summary">Show summary</button>
+</div>
+
+<script>
+const DATA = [{"file_id": "tlg0007.tlg002.perseus-eng2", "perseus_author": "Plutarch", "perseus_title": "Romulus", "genre": "biography", "form_of_creative_work": "", "mentioned_polity_in_work": "Early Roman Kingdom", "mentioned_polity_reasoning": "The work documents the life of Romulus, the legendary founder and first king of Rome.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-753", "mentioned_time_reasoning": "Plutarch uses the traditional date for the founding of Rome as the primary anchor for Romulus's life."}, {"file_id": "tlg0543.tlg001.perseus-eng2", "perseus_author": "Polybius", "perseus_title": "The Histories", "genre": "", "form_of_creative_work": "", "mentioned_polity_in_work": "Mediterranean (Rome, Carthage, Hellenistic kingdoms)", "mentioned_polity_reasoning": "Covers the rise of Rome to Mediterranean hegemony and its conflicts with Carthage and the Hellenistic East.", "mentioned_time_reference": "mixed", "mentioned_time_in_work": "-264", "mentioned_time_reasoning": "Begins with the First Punic War (-264) and continues through Polybius's own lifetime and diplomatic career."}, {"file_id": "tlg0007.tlg100.perseus-eng3", "perseus_author": "Plutarch", "perseus_title": "Whether the Affections of the Soul are Worse Than Those of the Body", "genre": "biography", "form_of_creative_work": "", "mentioned_polity_in_work": "Roman Empire (Imperial Greek culture)", "mentioned_polity_reasoning": "A philosophical comparison of mental and physical ailments within the context of contemporary medical and ethical thought.", "mentioned_time_reference": "contemporary", "mentioned_time_in_work": "75", "mentioned_time_reasoning": "The discourse addresses the author's contemporaries using the medical and philosophical paradigms of the 1st century CE."}, {"file_id": "tlg0032.tlg013.perseus-eng2", "perseus_author": "Xenophon", "perseus_title": "On the Art of Horsemanship", "genre": "", "form_of_creative_work": "", "mentioned_polity_in_work": "Classical Greece", "mentioned_polity_reasoning": "A technical manual on horse care and riding for the Greek cavalry class.", "mentioned_time_reference": "contemporary", "mentioned_time_in_work": "-394", "mentioned_time_reasoning": "Xenophon writes from his own experience as a cavalry officer during his floruit in the early 4th century BCE."}, {"file_id": "tlg0007.tlg003.perseus-eng2", "perseus_author": "Plutarch", "perseus_title": "Comparison of Theseus and Romulus", "genre": "", "form_of_creative_work": "", "mentioned_polity_in_work": "Archaic Athens and Early Rome", "mentioned_polity_reasoning": "This comparison evaluates the legendary founders of Athens and Rome, Theseus and Romulus.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-1250", "mentioned_time_reasoning": "The work compares figures from the legendary/heroic age, using the traditional Trojan War era as the earliest anchor."}, {"file_id": "tlg0526.tlg003.perseus-eng2", "perseus_author": "Flavius Josephus", "perseus_title": "Against Apion", "genre": "", "form_of_creative_work": "", "mentioned_polity_in_work": "Ancient Israel / Hellenistic Judaism", "mentioned_polity_reasoning": "A polemical defense of Judaism against Hellenistic detractors, focusing on the antiquity of the Jewish people.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-1500", "mentioned_time_reasoning": "The work argues for the extreme antiquity of Jewish law and history, citing events from the Exodus onwards."}, {"file_id": "tlg0007.tlg011.perseus-eng2", "perseus_author": "Plutarch", "perseus_title": "Camillus", "genre": "biography", "form_of_creative_work": "", "mentioned_polity_in_work": "Early Roman Republic", "mentioned_polity_reasoning": "Documents the life of Marcus Furius Camillus, the 'Second Founder of Rome', during the Gallic invasions.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-446", "mentioned_time_reasoning": "Plutarch reconstructs events from the 5th and 4th centuries BCE, specifically Camillus's birth c. -446."}, {"file_id": "tlg0551.tlg009.perseus-eng2", "perseus_author": "Appian of Alexandria", "perseus_title": "The Roman History: The Punic Wars", "genre": "", "form_of_creative_work": "", "mentioned_polity_in_work": "Rome and Carthage", "mentioned_polity_reasoning": "Focuses on the three Punic Wars between the Roman Republic and the Carthaginian Empire.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-264", "mentioned_time_reasoning": "Appian (writing in the 2nd century CE) reconstructs the wars starting from the mid-3rd century BCE."}, {"file_id": "tlg0007.tlg110.perseus-eng2", "perseus_author": "Plutarch", "perseus_title": "Of Banishment, or Flying One's Country.", "genre": "biography", "form_of_creative_work": "", "mentioned_polity_in_work": "Greco-Roman world", "mentioned_polity_reasoning": "A consolatory essay for a friend in exile, drawing on examples from across Greek and Roman history.", "mentioned_time_reference": "mixed", "mentioned_time_in_work": "-500", "mentioned_time_reasoning": "While addressed to a contemporary, it relies heavily on historical examples of exile from the Classical period onwards."}, {"file_id": "tlg0004.tlg001.perseus-eng2", "perseus_author": "Diogenes Laertius", "perseus_title": "Lives of Eminent Philosophers", "genre": "", "form_of_creative_work": "", "mentioned_polity_in_work": "Greek philosophical tradition (pan-Hellenic)", "mentioned_polity_reasoning": "The work documents the lives and doctrines of major Greek philosophers across various city-states and schools.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-600", "mentioned_time_reasoning": "Diogenes Laertius (floruit 210) reconstructs centuries of history starting with the Seven Sages and Thales around -600."}, {"file_id": "tlg0526.tlg001.perseus-eng2", "perseus_author": "Flavius Josephus", "perseus_title": "Antiquities of the Jews", "genre": "historiography", "form_of_creative_work": "", "mentioned_polity_in_work": "Ancient Israel / Second Temple Judaism", "mentioned_polity_reasoning": "A comprehensive history of the Jewish people from creation through the outbreak of the war with Rome.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-2000", "mentioned_time_reasoning": "Josephus reconstructs the biblical narrative starting from the patriarchal era, long before his own time."}, {"file_id": "tlg0003.tlg001.1st1K-eng1", "perseus_author": "Thucydides", "perseus_title": "The Peloponnesian War", "genre": "historiography", "form_of_creative_work": "", "mentioned_polity_in_work": "Classical Greece (Peloponnesian War)", "mentioned_polity_reasoning": "Thucydides documents the 27-year war between the Athenian and Peloponnesian alliances, centered on Athens and Sparta.", "mentioned_time_reference": "contemporary", "mentioned_time_in_work": "-431", "mentioned_time_reasoning": "Thucydides was an Athenian general during the war; the narrative begins at the war's outbreak in -431."}, {"file_id": "tlg0551.tlg002.perseus-eng2", "perseus_author": "Appian of Alexandria", "perseus_title": "The Roman History: Concerning the Kings", "genre": "", "form_of_creative_work": "", "mentioned_polity_in_work": "Roman Kingdom", "mentioned_polity_reasoning": "This book covers the legendary and historical period of the seven kings of Rome.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-753", "mentioned_time_reasoning": "The work begins with the traditional founding of Rome by Romulus in -753."}, {"file_id": "tlg0551.tlg004.perseus-eng2", "perseus_author": "Appian of Alexandria", "perseus_title": "The Roman History: The Samnite History", "genre": "", "form_of_creative_work": "", "mentioned_polity_in_work": "Roman Republic and Samnium", "mentioned_polity_reasoning": "Appian narrates the Samnite Wars and Rome's struggle for dominance in central Italy.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-343", "mentioned_time_reasoning": "The narrative begins with the First Samnite War in -343, long before Appian's 2nd-century CE floruit."}, {"file_id": "tlg0032.tlg007.perseus-eng2", "perseus_author": "Xenophon", "perseus_title": "Cyropaedia", "genre": "historical fiction, biographical novel", "form_of_creative_work": "novel, prose", "mentioned_polity_in_work": "Achaemenid Empire (Cyrus the Great)", "mentioned_polity_reasoning": "A fictionalized biography of Cyrus the Great, the founder of the Persian Empire.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-559", "mentioned_time_reasoning": "Xenophon reconstructs the life of Cyrus the Great, who reigned in the 6th century BCE, long before Xenophon's time."}, {"file_id": "tlg0526.tlg004.perseus-eng2", "perseus_author": "Flavius Josephus", "perseus_title": "The Wars of the Jews", "genre": "historiography", "form_of_creative_work": "", "mentioned_polity_in_work": "Judea under Rome (First Jewish-Roman War)", "mentioned_polity_reasoning": "Documents the Jewish revolt against Rome, in which Josephus was a participant and eyewitness.", "mentioned_time_reference": "contemporary", "mentioned_time_in_work": "66", "mentioned_time_reasoning": "The main narrative of the conflict begins with the outbreak of the revolt in 66 CE."}, {"file_id": "tlg0016.tlg001.perseus-eng2", "perseus_author": "Herodotus", "perseus_title": "The Histories", "genre": "historiography, travel book", "form_of_creative_work": "", "mentioned_polity_in_work": "Greco-Persian world / Achaemenid Empire", "mentioned_polity_reasoning": "Herodotus documents the rise of Persia and the conflict between the Greek city-states and the Achaemenid Empire.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-560", "mentioned_time_reasoning": "The narrative begins with the rise of Croesus of Lydia around -560, predating Herodotus's own era."}, {"file_id": "tlg0099.tlg001.perseus-eng3", "perseus_author": "Strabo", "perseus_title": "Geography (Books 6-14)", "genre": "treatise", "form_of_creative_work": "", "mentioned_polity_in_work": "Roman Empire / Hellenistic Mediterranean", "mentioned_polity_reasoning": "Books 6-14 cover Italy, Sicily, Northern/Eastern Europe, and Greece under the early Roman Principate.", "mentioned_time_reference": "contemporary", "mentioned_time_in_work": "14", "mentioned_time_reasoning": "Strabo describes the geography and political state of the world as it existed during his life under Augustus and Tiberius."}, {"file_id": "tlg0032.tlg012.perseus-eng2", "perseus_author": "Xenophon", "perseus_title": "On the Cavalry Commander", "genre": "historiography", "form_of_creative_work": "prose", "mentioned_polity_in_work": "Classical Athens", "mentioned_polity_reasoning": "A technical manual on the duties of a hipparch (cavalry commander) in the Athenian military system.", "mentioned_time_reference": "contemporary", "mentioned_time_in_work": "-365", "mentioned_time_reasoning": "Written by Xenophon to provide practical advice for contemporary Athenian military officers during his own era."}, {"file_id": "tlg0007.tlg056.perseus-eng2", "perseus_author": "Plutarch", "perseus_title": "Comparison of Demosthenes with Cicero", "genre": "", "form_of_creative_work": "", "mentioned_polity_in_work": "Classical Athens and Late Roman Republic", "mentioned_polity_reasoning": "Compares the greatest Greek orator, Demosthenes, with the greatest Roman orator, Cicero.", "mentioned_time_reference": "past", "mentioned_time_in_work": "-384", "mentioned_time_reasoning": "Demosthenes was born in -384; the work spans the 4th century BCE and the 1st century BCE."}];
+const state = {};
+DATA.forEach(r => { state[r.file_id] = { verdict: null, note: "" }; });
+
+function render() {
+  const root = document.getElementById("cards");
+  root.innerHTML = "";
+  DATA.forEach((r, i) => {
+    const s = state[r.file_id];
+    const div = document.createElement("div");
+    div.className = "card";
+    div.innerHTML = `
+      <div class="meta">${i+1} / ${DATA.length} · ${r.file_id}</div>
+      <h2 class="title">${escape(r.perseus_title || "(untitled)")}</h2>
+      <div class="author">${escape(r.perseus_author || "")} ${r.genre ? "· " + escape(r.genre) : ""}</div>
+      <dl class="fields">
+        <dt>Polity</dt><dd><strong>${escape(r.mentioned_polity_in_work)}</strong><div class="reasoning">${escape(r.mentioned_polity_reasoning)}</div></dd>
+        <dt>Time ref</dt><dd><span class="pill ${r.mentioned_time_reference}">${escape(r.mentioned_time_reference)}</span></dd>
+        <dt>Year</dt><dd><strong>${escape(r.mentioned_time_in_work)}</strong><div class="reasoning">${escape(r.mentioned_time_reasoning)}</div></dd>
+      </dl>
+      <div class="buttons">
+        <button class="ok ${s.verdict === "ok" ? "selected" : ""}" data-id="${r.file_id}" data-v="ok">Looks right</button>
+        <button class="bad ${s.verdict === "bad" ? "selected" : ""}" data-id="${r.file_id}" data-v="bad">Wrong / off</button>
+      </div>
+      <textarea placeholder="Optional note (what's wrong, corrected value)…" data-id="${r.file_id}">${escape(s.note)}</textarea>
+    `;
+    root.appendChild(div);
+  });
+  updateCounters();
+}
+
+function updateCounters() {
+  const ok = Object.values(state).filter(s => s.verdict === "ok").length;
+  const bad = Object.values(state).filter(s => s.verdict === "bad").length;
+  document.getElementById("counters").textContent = `${ok} ok · ${bad} wrong · ${DATA.length - ok - bad} pending`;
+}
+
+function escape(s) {
+  return (s == null ? "" : String(s)).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+document.addEventListener("click", e => {
+  const b = e.target.closest("button[data-v]");
+  if (!b) return;
+  const id = b.dataset.id;
+  state[id].verdict = state[id].verdict === b.dataset.v ? null : b.dataset.v;
+  render();
+});
+document.addEventListener("input", e => {
+  if (e.target.tagName === "TEXTAREA" && e.target.dataset.id) {
+    state[e.target.dataset.id].note = e.target.value;
+  }
+});
+
+document.getElementById("download").addEventListener("click", () => {
+  const rows = DATA.map(r => ({
+    file_id: r.file_id,
+    perseus_author: r.perseus_author,
+    perseus_title: r.perseus_title,
+    mentioned_polity_in_work: r.mentioned_polity_in_work,
+    mentioned_time_reference: r.mentioned_time_reference,
+    mentioned_time_in_work: r.mentioned_time_in_work,
+    verdict: state[r.file_id].verdict,
+    note: state[r.file_id].note,
+  }));
+  const blob = new Blob([JSON.stringify(rows, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url; a.download = "works_polity_time_check_20.json"; a.click();
+  URL.revokeObjectURL(url);
+});
+
+document.getElementById("summary").addEventListener("click", () => {
+  const ok = Object.values(state).filter(s => s.verdict === "ok").length;
+  const bad = Object.values(state).filter(s => s.verdict === "bad").length;
+  const pending = DATA.length - ok - bad;
+  alert(`✓ ${ok} looks right\n✗ ${bad} wrong\n· ${pending} pending\n\nAccuracy on answered: ${ok + bad ? Math.round(100 * ok / (ok + bad)) + "%" : "—"}`);
+});
+
+render();
+</script>
+</body>
+</html>

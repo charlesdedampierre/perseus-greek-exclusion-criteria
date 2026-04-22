@@ -1,0 +1,79 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from torture during legal proceedings",
+      "directionality": "LESS",
+      "verbatim": [
+        "yet although it was open to him to procure his proof by having the woman tortured, he refused. She would first have informed you whether she was shared by us or belonged only to him, whether I contributed half the money or he gave it all, and whether we had been reconciled or were still enemies"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker explicitly mentions that a woman's slave status allows for the possibility of using 'the test of torture' to extract evidence for a court case, a standard procedure in Athenian law for slave witnesses.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Right to sell slaves for ransom",
+      "group": "Slaves",
+      "resource": "Right to bodily autonomy",
+      "directionality": "LESS",
+      "verbatim": [
+        "To ransom my person from the enemy, I could make what use of her I pleased; but when I am in danger of losing my native land, I am not to be permitted even to ask her for a true statement on the matters for which I have been brought to this trial. Nay, it would be far more just to have her tortured for the purpose of this charge than to have her sold for my ransom from the enemy"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms that owners had the legal right to sell their slaves to raise funds for their own ransom if captured by an enemy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to native land",
+      "group": "Citizens",
+      "resource": "Right to reside in native land",
+      "directionality": "MORE",
+      "verbatim": [
+        "but when I am in danger of losing my native land, I am not to be permitted even to ask her for a true statement on the matters for which I have been brought to this trial.",
+        "For they are not set on gaining money, but make it their business to expel one from one’s native land.",
+        "For it is equally unfair that I should be banished from my own country"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker, an Athenian citizen, identifies the right to live in his native land and not be banished/expelled as a fundamental resource protected by the court unless a crime of premeditation is proven.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Property exchange liturgy obligation",
+      "group": "Wealthy",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "while he cannot deny his having restored the yoke of oxen, the slaves, amid all the goods on the estate that he received under the exchange, he denies, in face of the settlement clearly made on every point, that we agreed to share the woman between us."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to an 'exchange' (antidosis) related to a liturgy (public service), a rule where a wealthy citizen challenged to a liturgy could offer to exchange estates with another they deemed wealthier.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0540.tlg004.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "On A Wound By Premeditation",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4829,
+  "_output_tokens": 874,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

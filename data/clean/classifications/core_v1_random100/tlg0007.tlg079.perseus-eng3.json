@@ -1,0 +1,93 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "group": "Women",
+      "resource": "Right to short-notice invitations",
+      "directionality": "LESS",
+      "rule": "Year-advance invitation for women",
+      "verbatim": [
+        "People in Sybaris, as it appears, have their invitations to women presented a year in advance so as to afford them plenty of time to provide themselves with clothes and jewellery to wear when they come to dinner"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Thales describes a specific social convention in Sybaris where women are explicitly distinguished from men by requiring a one-year notice for dinner invitations to allow for aesthetic preparation.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "group": "Slaves",
+      "resource": "Right to consume alcohol",
+      "directionality": "LESS",
+      "rule": "Prohibition of slave drunkenness",
+      "verbatim": [
+        "Yes, said Aesop, that is because you have not yet written a law that slaves shall not get drunk, which would be a similar law to fit this case, as at Athens you wrote a law that slaves shall not have any love-affair and shall not rub down like athletes."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aesop refers to specific Athenian legal prohibitions targeting the group of slaves, specifically denying them the right to exercise like athletes or engage in recognized love affairs, while implying a normative prohibition on their drunkenness.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "group": "Slaves",
+      "resource": "Right to athletic training",
+      "directionality": "LESS",
+      "rule": "Slave exclusion from gymnasiums",
+      "verbatim": [
+        "as at Athens you wrote a law that slaves shall not have any love-affair and shall not rub down like athletes. A reason for the prohibition is given in Plutarch’s Life of Solon, chap. i. (p. 79 A)."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions an Athenian law enacted by Solon that prevents slaves from performing the actions of athletes ('rub down'), which was a hallmark of free citizen education and status.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "group": "Rulers",
+      "resource": "Exemption from legal compliance",
+      "directionality": "LESS",
+      "rule": "Ruler conformity to law",
+      "verbatim": [
+        "Next Bias said, If he should be the very first to conform to his country’s laws."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In a discussion on the best form of government, Bias defines a rule of conduct for the group of rulers (kings/despots), asserting they must follow the laws of the state themselves rather than being above them.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "group": "Citizens",
+      "resource": "Right to prosecute criminals",
+      "directionality": "MORE",
+      "rule": "Universal right of prosecution",
+      "verbatim": [
+        "I think that a State succeeds best, and most effectively perpetuates democracy, in which persons uninjured by a crime, no less than the injured person, prosecute the criminal and get him punished."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Solon describes the fundamental legal principle of his Athenian democracy where the right to bring a legal action is granted to any citizen, not just the direct victim of a crime, to ensure communal protection.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg079.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "The Dinner of the Seven Wise Men",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 24012,
+  "_output_tokens": 949,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

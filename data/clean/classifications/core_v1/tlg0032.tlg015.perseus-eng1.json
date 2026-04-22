@@ -1,0 +1,272 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "rule": "Universal access to magistracies",
+      "group": "The poor",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "This being the case, it seems only just that offices of state should be thrown open to every one both in the ballot and the show of hands, and that the right of speech should belong to any one who likes, without restriction. For, observe, there are many of these offices which, according according as they are in good or in bad hands, are a source of safety or of danger to the People, and in these the People prudently abstains from sharing; as, for instance, it does not think it incumbent on itself to share in the functions of the general or of the commander of cavalry. The sovereign People recognises the fact that in forgoing the personal exercise of these offices, and leaving them to the control of the more powerful citizens, it secures the balance of advantage to itself."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes the Athenian democratic practice where even the 'baser sort' or poor citizens have the right to hold offices determined by lot or election, though they choose to leave high-risk military roles to the wealthy.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Universal right of speech",
+      "group": "The poor",
+      "resource": "Right of speech in assembly",
+      "directionality": "MORE",
+      "verbatim": [
+        "The objection may be raised that it was a mistake to allow the universal right of speech and a seat in council. These should have been reserved for the cleverest, the flower of the community. But here, again, it will be found that they are acting with wise deliberation in granting to even the baser sort the right of speech, for supposing only the better people might speak, or sit in council, blessings would fall to the lot of those like themselves, but to the commonalty the reverse of blessings."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly confirms that the 'baser sort' (poor citizens) possess the right to speak and sit in the council, a key immaterial resource in Athenian democracy.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave protection from assault",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "Another point is the extraordinary amount of license granted to slaves and resident aliens at Athens, where a blow is illegal, and a slave will not step aside to let you pass him in the street. I will explain the reason of this peculiar custom. Supposing it were legal for a slave to be beaten by a free citizen, or for a resident alien or freedman to be beaten by a citizen, it would frequently happen that an Athenian might be mistaken for a slave or an alien and receive a beating."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes a specific Athenian legal norm where it is illegal for a citizen to strike a slave, providing them a level of physical security not found in other Greek states like Lacedaemon.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic protection from assault",
+      "group": "Resident aliens",
+      "resource": "Protection from corporal punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "Supposing it were legal for a slave to be beaten by a free citizen, or for a resident alien or freedman to be beaten by a citizen, it would frequently happen that an Athenian might be mistaken for a slave or an alien and receive a beating; since the Athenian People is no better clothed than the slave or alien, nor in personal appearance is there any superiority."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text states that resident aliens (meticians) are protected from being beaten by citizens, effectively establishing a right to bodily integrity.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "The wealthy",
+      "resource": "Right to retain own earnings",
+      "directionality": "LESS",
+      "verbatim": [
+        "On the same principle, in the case of the coregia, the gymnasiarchy, and the trierarchy, the fact is recognised that it is the rich man who trains the chorus, and the People for whom the chorus is trained; it is the rich man who is trierarch or gymnasiarch, and the People that profits by their labours. In fact, what the People looks upon as its right is to pocket the money. To sing and run and dance and man the vessels is well enough, but only in order that the People may be the gainer, while the rich are made poorer."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes the system of liturgies (choregia, trierarchy) where wealthy individuals are compelled to fund public services, which he characterizes as a transfer of wealth from the rich to the people.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Wealth / Properties"
+      ],
+      "rule": "Elite disenfranchisement in allied cities",
+      "group": "The wealthy in allied cities",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "This explains why the better people are punished with infamy, robbed of their money, driven from their homes, and put to death, while the baser sort are promoted to honour. On the other hand, the better Athenians throw their aegis over the better class in the allied cities. And why? Because they recognise that it is to the interest of their own class at all times to protect the best element in the cities."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a systematic policy where Athens targets the 'better' (wealthy/noble) classes in subject cities of the empire, stripping them of wealth and rights to preserve democratic control.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Allied litigation in Athenian courts",
+      "group": "Foreigners",
+      "resource": "Right to local adjudication",
+      "directionality": "LESS",
+      "verbatim": [
+        "it is looked upon as a mistaken policy on the part of the Athenian democracy to compel her allies to voyage to Athens in order to have their cases tried. [...] Whereas now every single individual among the allies is forced to pay flattery to the People of Athens because he knows that he must betake himself to Athens and win or lose his case at the bar, not of any stray set of judges, but of the sovereign People itself, such being the law and custom at Athens."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a legal requirement where citizens of allied states (non-Athenian citizens) are forced by Athenian law and custom to travel to Athens for legal trials rather than having them heard in their home territories.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Public funding of festivals",
+      "group": "The poor",
+      "resource": "Access to religious festivals",
+      "directionality": "MORE",
+      "verbatim": [
+        "the People sees that it is not possible for every poor citizen to do sacrifice and hold festival, or to set up temples and to inhabit a large and beautiful city. But it has hit upon a means of meeting the difficulty. They sacrifice--that is, the whole state sacrifices--at the public cost a large number of victims; but it is the People that keeps holiday and distributes the victims by lot amongst its members."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author contrasts the private ability of the rich to sacrifice with a state rule that uses public funds to ensure poor citizens can participate in sacrifices and holiday distributions.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Public provision of athletic facilities",
+      "group": "The poor",
+      "resource": "Access to the gymnasium",
+      "directionality": "MORE",
+      "verbatim": [
+        "Rich men have in some cases private gymnasia and baths with dressing-rooms, but the People takes care to have built at the public cost a number of palaestras, dressing-rooms, and bathing establishments for its own special use, and the mob gets the benefit of the majority of these, rather than the select few or the well-to-do."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a social arrangement where the state builds athletic and bathing facilities specifically so the 'mob' (the poorer citizens) can access resources that would otherwise be the private preserve of the wealthy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Maritime trade monopoly controls",
+      "group": "Foreigners",
+      "resource": "Right to export raw materials",
+      "directionality": "LESS",
+      "verbatim": [
+        "Suppose the wealth of some state or other to consist of iron, or may be of bronze, or of linen yarn, where will it find a market except by permission of the supreme maritime power? [...] Besides which they will not suffer their antagonists in those parts to carry these products elsewhither, or they will cease to use the sea."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes an Athenian policy/rule of the sea where allied or subject states are prohibited from exporting crucial shipbuilding materials to anyone other than Athens without Athenian permission.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy obligation to land defense",
+      "group": "The wealthy",
+      "resource": "Protection from property damage",
+      "directionality": "LESS",
+      "verbatim": [
+        "the farming portion of the community and the wealthy landowners are ready to cringe before the enemy overmuch, whilst the People, knowing full well that, come what may, not one stock or stone of their property will suffer, nothing will be cut down, nothing burnt, lives in freedom from alarm, without fawning at the enemy's approach."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text highlights a structural difference in exposure to risk based on wealth: the poor (the 'People') possess no land to be ravaged, while the landowners bear the material loss of enemy invasions, affecting their political behavior.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Collective immunity from contract liability",
+      "group": "The People",
+      "resource": "Protection from individual liability",
+      "directionality": "MORE",
+      "verbatim": [
+        "But in the case of engagements entered into by a democracy it is open to the People to throw the blame on the single individual who spoke in favour of some measure, or put it to the vote, and to maintain to the rest of the world, 'I was not present, nor do I approve of the terms of the agreement.' Inquiries are made in a full meeting of the People, and should any of these things be disapproved of, it can at once discover ten thousand excuses to avoid doing whatever they do not wish."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a structural legal practice in Athens where the collective 'People' (Demos) can avoid the consequences of failed treaties or contracts by shifting legal and moral blame onto the individual proposer, a right not available to oligarchs.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Nobility"
+      ],
+      "rule": "Comic stage satire vulnerability",
+      "group": "Wealthy or well-born persons",
+      "resource": "Protection from public libel",
+      "directionality": "LESS",
+      "verbatim": [
+        "In the same spirit it is not allowed to caricature on the comic stage or otherwise libel the People, because they do not care to hear themselves ill spoken of. But if any one has a desire to satirise his neighbour he has full leave to do so. And this because they are well aware that, as a general rule, this person caricatured does not belong to the People, or the masses. He is more likely to be some wealthy or well-born person, or man of means and influence."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "There is a bifurcated rule regarding libel: the collective 'People' (the masses) are legally protected from being caricatured, whereas the elite (wealthy/noble) are explicitly permitted targets for comic satire.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public libel protection",
+      "group": "The People",
+      "resource": "Protection from public libel",
+      "directionality": "MORE",
+      "verbatim": [
+        "In the same spirit it is not allowed to caricature on the comic stage or otherwise libel the People, because they do not care to hear themselves ill spoken of."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific prohibition against satirizing the collective body of citizens (the People) on stage, preserving their public reputation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgical adjudication requirements",
+      "group": "Choragi and Trierarchs",
+      "resource": "Right to legal adjudication",
+      "directionality": "MORE",
+      "verbatim": [
+        "adjudication has to be made between the choragi for the Dionysia, the Thargelia, the Panathenaea, year after year... Also as between the trierarchs, four hundred of whom are appointed each year, of these, too, any who choose must have their cases adjudicated on, year after year."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Wealthy citizens serving in expensive public roles (liturgies) like choragi or trierarchs have the right/requirement to have their financial and service disputes settled annually by the courts.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Loss of civil rights for misconduct",
+      "group": "Citizens",
+      "resource": "Retention of civil rights",
+      "directionality": "LESS",
+      "verbatim": [
+        "It is from iniquitous exercise of office, from iniquity exhibited either in speech or action, and the like circumstances, that citizens are punished with deprivation of civil rights in Athens."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes the legal mechanism of 'atimia' (disenfranchisement), where citizens lose their rights as a specific punishment for official or personal misconduct.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0032.tlg015.perseus-eng1",
+  "_perseus_author": "Xenophon",
+  "_perseus_title": "Constitution of the Athenians",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 3,
+  "_input_tokens": 20708,
+  "_output_tokens": 3769,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

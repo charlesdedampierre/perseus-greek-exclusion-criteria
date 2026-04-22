@@ -1,0 +1,77 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Educated vs ordinary perception law",
+      "group": "Ordinary men",
+      "resource": "Access to intellectual appreciation",
+      "directionality": "LESS",
+      "verbatim": [
+        "No, for the former it is enough to do the usual thing—just to see, to look about, to cast their eyes everywhere, to crane their necks at the ceiling, to gesticulate and to take their joy in silence for fear of not being able to say anything adequate to what they see. But when a man’ of culture beholds beautiful things, he will not be content, I am sure, to harvest their charm with his eyes alone, and will not endure to be a silent spectator of their beauty; he will do all he can to linger there and make some return for the spectacle in speech."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Lucian identifies a normative social division between the 'ordinary' and the 'educated' (men of culture). He establishes a rule of behavior where the uneducated are restricted to passive, silent viewing, while the educated possess the 'resource' of intellectual engagement and verbal response.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Courtesan dress code extravagance",
+      "group": "Courtesans",
+      "resource": "Right to modest adornment",
+      "directionality": "LESS",
+      "verbatim": [
+        "It is courtesans, especially the less attractive of them, who have clothing all purple and necks all gold, trying to secure seductiveness by extravagance and to make up for their lack of beauty by the addition of extraneous charms; they think that their arms will look whiter when they are bright with gold, and that the unshapeliness of their feet will escape notice in golden sandals, and that their very faces will be lovelier when seen together with something very bright. This is the course they follow; but a modest girl uses only what gold is sufficient and necessary, and would not be ashamed of her beauty, I am sure, if she were to show it unadorned."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a sharp social distinction in dress based on the group 'courtesans' versus 'modest girls'. Courtesans are associated with more/excessive material resources (gold, purple) in pursuit of seduction, while losing the 'resource' of being perceived as naturally/modestly beautiful.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Cultured man visual judgment",
+      "group": "The poor",
+      "resource": "Right to intellectual judgment",
+      "directionality": "LESS",
+      "verbatim": [
+        "On the contrary, the beauty of this hall has nothing to do with barbarian eyes, Persian flattery, or Sultanic vainglory. Instead of just a poor man, it wants a cultured man for a spectator, who, instead of judging with his eyes, applies thought to what he sees."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Lucian explicitly contrasts the 'poor man' (implied as uneducated) with the 'cultured man'. He suggests a social rule where the capacity for 'applying thought' to visual stimuli is a resource held by the cultured, while the poor man is limited to superficial 'judging with his eyes'.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Juror obligation to visual attention",
+      "group": "Jurors",
+      "resource": "Right to visual focus",
+      "directionality": "MORE",
+      "verbatim": [
+        "You yourselves, gentlemen of the jury, have been regarding the roof as we spoke, admiring the walls and examining the pictures, turning toward each of them. Do not be ashamed! It is excusable if you have felt a touch of human nature, especially in the presence of pictures so beautiful and so varied."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author addresses the jury (dikastai) in a rhetorical display, acknowledging that their attention is naturally drawn to the physical beauty of the hall rather than the speech. He treats this as an acceptable 'human nature' rather than a violation of duty, indicating a norm where the sensory environment of the court holds a valid claim on the participants' attention.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0062.tlg009.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "The Hall",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 2,
+  "_input_tokens": 11722,
+  "_output_tokens": 1091,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

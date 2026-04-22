@@ -1,0 +1,95 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Wills drawn per local law",
+      "group": "Resident aliens",
+      "resource": "Right to execute valid wills",
+      "directionality": "MORE",
+      "verbatim": [
+        "Read to me also the law of Aegina; for it was necessary that the will be drawn in accordance with this law, since we were alien residents of this island."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker explicitly states that as alien residents (metically-equivalent status) in Aegina, they were required and permitted to draw up their testaments according to the specific laws of that city-state to ensure validity.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Adoption limited to same status",
+      "group": "Fellow-citizens",
+      "resource": "Eligibility for adoption",
+      "directionality": "MORE",
+      "verbatim": [
+        "It was in accordance with this law, citizens of Aegina, that Thrasylochus adopted me as his son, for I was his fellow-citizen and friend... I therefore do not see how he could have acted more consistently with the law, since the law insists that persons of the same status may be adopted."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text cites a specific legal requirement from the Aeginetan code (shared by Siphnos/Ceos) that for an adoption to be valid, the parties involved must share the same civic status (in this case, both being Siphnians).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Testamentary adoption for childless men",
+      "group": "Childless men",
+      "resource": "Right to appoint heirs",
+      "directionality": "MORE",
+      "verbatim": [
+        "It is expedient, to, that you should uphold the law which permits us to adopt children and to dispose wisely of our property, reflecting that for men who are childless this law takes the place of children; for it is owing this law that both kinsmen and those who are not related take greater care of each other."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker describes a general Greek legal norm (specifically applicable in Aegina and Siphnos) that allows men without biological children to adopt an heir to preserve their household and transfer their estate.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage",
+        "Gender"
+      ],
+      "rule": "Inheritance for legitimate children",
+      "group": "Legitimate children",
+      "resource": "Right to inherit property",
+      "directionality": "MORE",
+      "verbatim": [
+        "Of this marriage were born Sopolis, Thrasylochus, and a daughter, who is my wife. These were the only legitimate children left by Thrasyllus and he made these his heirs when he died."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that legitimate offspring (born of a recognized marriage) are the recognized legal heirs to their father's estate, contrasting them with children from informal unions.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Illegitimate child inheritance exclusion",
+      "group": "Illegitimate children",
+      "resource": "Right to inherit property",
+      "directionality": "LESS",
+      "verbatim": [
+        "He became an itinerant soothsayer, lived in many cities, and was intimate with several women, some of whom had children whom he never even recognized as legitimate... When he had acquired a large fortune and yearned for his fatherland, he left this woman and the others as well."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text indicates that children born out of wedlock (not recognized as legitimate) had no claim to the father's fortune or lineage, as Thrasyllus was able to abandon them and their mothers without legal obligation to include them in his estate.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0010.tlg006.perseus-eng2",
+  "_perseus_author": "Isocrates",
+  "_perseus_title": "Aegineticus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 8989,
+  "_output_tokens": 1052,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

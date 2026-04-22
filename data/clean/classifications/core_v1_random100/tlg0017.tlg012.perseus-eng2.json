@@ -1,0 +1,96 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to appeal disfranchisement",
+      "group": "Citizens",
+      "resource": "Right to appeal to the court",
+      "directionality": "MORE",
+      "verbatim": [
+        "those, however, who were unjustly rejected had the right to appeal to the court by summoning the members of the deme, and, if they were again excluded, they were to be sold as slaves and their property confiscated. It is under this law that Euphiletus, having summoned the demesmen of Erchia on the ground that they had unjustly rejected him, instituted the present case."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal procedure during a revision of citizen lists where individuals excluded by their deme could challenge the decision in court. While the penalty for failure is severe, the initial resource is the legal standing to summon the deme and seek a judicial remedy.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Enslavement for failed citizenship appeal",
+      "group": "Foreigners",
+      "resource": "Protection from enslavement",
+      "directionality": "LESS",
+      "verbatim": [
+        "those, however, who were unjustly rejected had the right to appeal to the court by summoning the members of the deme, and, if they were again excluded, they were to be sold as slaves and their property confiscated."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Under Athenian law described here, if a person claims citizenship but is rejected by the court (implying the state views them as an alien/non-citizen attempting to usurp rights), they lose their liberty and are sold into slavery. The group here is the category of people deemed non-citizens by the court.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Property confiscation for alien residents",
+      "group": "Foreigners",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "those, however, who were unjustly rejected had the right to appeal to the court by summoning the members of the deme, and, if they were again excluded, they were to be sold as slaves and their property confiscated."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law mandates that if an appeal for citizenship fails, the individual is treated as a criminal alien, resulting in the state seizing all their material assets.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage",
+        "Gender"
+      ],
+      "rule": "Double-descent citizenship requirement",
+      "group": "Citizens",
+      "resource": "Right to Athenian citizenship",
+      "directionality": "MORE",
+      "verbatim": [
+        "I do not think he could urge any plea except that his mother was a citizen and a married woman and his father a citizen, and he would produce his kinsmen to bear witness that he was speaking the truth."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author defines the standard proof of citizenship as having both a citizen father and a citizen mother who were legally married. This establishes the criteria for membership in the out-group vs in-group in Athens during this period.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Paternal introduction to the ward",
+      "group": "Citizens",
+      "resource": "Eligibility for ward enrollment",
+      "directionality": "MORE",
+      "verbatim": [
+        "further evidence has been given you that he brought up Euphiletus and educated him from childhood and introduced him to the members of his ward—all of which represents a considerable outlay."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Athens, a father was required to introduce his legitimate son to the members of his phratry (ward) to establish the son's civil status. This was a prerequisite for full citizenship rights.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0017.tlg012.perseus-eng2",
+  "_perseus_author": "Isaeus",
+  "_perseus_title": "On Behalf of Euphiletus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4476,
+  "_output_tokens": 1044,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

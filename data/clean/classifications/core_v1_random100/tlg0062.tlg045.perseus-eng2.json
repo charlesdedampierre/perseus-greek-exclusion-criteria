@@ -1,0 +1,290 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Freedom",
+        "Nobility"
+      ],
+      "rule": "Freeborn gentleman's exclusion from pantomime",
+      "group": "Freeborn gentlemen",
+      "resource": "Right to perform pantomime",
+      "directionality": "LESS",
+      "verbatim": [
+        "watching a girlish fellow play the wanton with dainty clothing and bawdy songs and imitate love-sick minxes... a ridiculous business in all truth, which does not in the least become a freeborn gentleman of your sort. So for my part, when I learned that you give your time to such spectacles, I was not only ashamed on your account but sorely distressed that you should sit there oblivious of Plato and Chrysippus and Aristotle."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Crato, representing the traditionalist/Cynic view of Lucian's time, argues that participating in or even watching pantomime is incompatible with the status and education of a freeborn man (eleutheros). It is framed as a normative social restriction based on freedom and elite status.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Tragedy and comedy competition eligibility",
+      "group": "Actors and musicians",
+      "resource": "Eligibility for public competitions",
+      "directionality": "MORE",
+      "verbatim": [
+        "flute-players who accompany cyclic choruses, singers of conventional compositions for the lyre, and in especial, grand tragedy and comedy, the gayest of the gay; all these have even been held worthy to figure in competitions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Crato contrasts the 'unworthy' pantomime with established artistic professions like tragic acting and flute-playing, which held the legal/cultural right to compete for prizes in formal festivals, a resource pantomime dancers initially lacked or were criticized for seeking.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Elderly exclusion from theatrical enthusiasm",
+      "group": "Elderly men",
+      "resource": "Right to public displays of enthusiasm",
+      "directionality": "LESS",
+      "verbatim": [
+        "Why, is that what was still in store for me—with beard so long and hair so grey, to sit in the midst of a parcel of hussies and a frantic audience like that, clapping my hands, moreover, and shouting very unbecoming words of praise to a noxious fellow who doubles himself up for no useful purpose?"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text establishes a social norm where elderly men (defined by grey hair/beard) are expected to refrain from the active, vocal participation (clapping, shouting) typical of theater audiences, as it is seen as 'unbecoming' of their age group.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Age"
+      ],
+      "rule": "Spartan youth military dance training",
+      "group": "Spartans",
+      "resource": "Access to the gymnasium and physical training",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§52] Even now you may see their young men studying dancing quite as much as fighting under arms. When they have stopped sparring and exchanging blow for blow with each other, their contest ends in dancing, and a flute-player sits in the middle, playing them a tune and marking time with his foot, while they, following one another in line, perform figures of all sorts in rhythmic step, now those of [§55] war and presently those of the choral dance, that are dear to Dionysus and Aphrodite."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a contemporary and general practice where Spartan youths receive formal training in dance as a component of their military and physical education.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Salii priesthood dance privilege",
+      "group": "Nobility",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§87] Next in order, it is proper that we should not forget that Roman dance which the best-born among them, called Salii (which is the name of a priesthood), perform in honour of Ares, the most bellicose of the gods—a dance which is at once very majestic and very sacred."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific religious and political office (Salii) that is reserved for the 'best-born' (nobility) and involves specific ritual rights (the dance).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Mystery cult secrecy obligation",
+      "group": "Education",
+      "resource": "Protection from legal proceedings",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§71] ...although it behoves me to observe silence about the rites on account of the uninitiate, nevertheless there is one thing that everybody has heard; namely, that those who let out the mysteries in conversation are commonly said to 'dance them out.'"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the general social and religious rule that initiates of mystery cults are prohibited from speaking about the rites, characterizing disclosure as a violation ('dancing them out').",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Delian choir selection",
+      "group": "Citizenship",
+      "resource": "Right to participate in religious ceremonies",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§73] At Delos, indeed, even the sacrifices were not without dancing, but were performed with that and with music. Choirs of boys came together, and while they moved and sang to the accompaniment of flute and lyre, those who had been selected from among them as the best performed an interpretative dance."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a systematic selection process where local boys (implied citizens) are chosen for the resource of performing prestigious interpretative dances at state sacrifices.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Tragic actor vocal performance requirement",
+      "group": "Tragic actors",
+      "resource": "Right to remain silent during performance",
+      "directionality": "LESS",
+      "verbatim": [
+        "Then too, inside all this, you have the man himself bawling out, bending forward and backward, sometimes actually singing his lines, and (what is surely the height of unseemliness) melodising his calamities, holding himself answerable for nothing but his voice, as everything else has been attended to by the poets, who lived at some time in the distant past."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian describes the contemporary practice of tragedy where the actor is legally or conventionally 'answerable' for their voice, requiring them to sing and speak lines themselves, unlike the dancer who has others to shout for him.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Tragic actor facial expression restriction",
+      "group": "Tragic actors",
+      "resource": "Visibility of facial expressions",
+      "directionality": "LESS",
+      "verbatim": [
+        "His mask itself is most beautiful, and suited to the drama that forms the theme; its mouth is not wide open, as with tragedy and comedy, but closed, for he has many people who do the shouting in his stead."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that actors in tragedy and comedy are required to wear masks with 'wide open' mouths to facilitate shouting/singing, which limits the aesthetic beauty and natural facial representation compared to the dancer.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Pantomime dancer vocal exemption",
+      "group": "Pantomime dancers",
+      "resource": "Protection from vocal exertion",
+      "directionality": "MORE",
+      "verbatim": [
+        "In the past, to be sure, they themselves both danced and sang; but afterwards, since the panting that came of their movement disturbed their singing, it seemed better that others should accompany them with song."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian explains a standard rule of the contemporary pantomime stage: because physical movement hinders singing, the dancer is exempted from vocal duties, which are performed by others.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Education"
+      ],
+      "rule": "Dancer comprehensive mythological knowledge mandate",
+      "group": "Pantomime dancers",
+      "resource": "Access to professional certification",
+      "directionality": "LESS",
+      "verbatim": [
+        "Beginning with Chaos and the primal origin of the world, he must know everything down to the story of Cleopatra the Egyptian. ... Let this be the range we prescribe for the dancer’s learning, and let him know thoroughly all that lies within it: the castration of Uranus, the begetting of Aphrodite, the battle of the Titans..."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian outlines the 'prescribed' intellectual requirements for a professional dancer, establishing a rule that the practitioner must possess an exhaustive memory of classical mythology from the origin of the world to the end of the Ptolemaic era.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Dancer mastery of poetic mythology",
+      "group": "Dancers",
+      "resource": "Access to professional legitimacy",
+      "directionality": "MORE",
+      "verbatim": [
+        "To sum it up, he will not be ignorant of anything that is told by Homer and Hesiod and the best poets, and above all by tragedy. These are a very few themes that I have selected out of many, or rather out of an infinite number, and set down as the more important, leaving the rest for the poets to sing of, for the dancers themselves to present, and for you to add, finding them by their likeness to those already mentioned, all of which must lie ready, provided and stored by the dancer in advance to meet every occasion."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Lucian defines the professional standard for pantomime dancers in his era. To be a legitimate and successful practitioner of the 'dance,' the individual must possess an exhaustive knowledge of classical mythology and literature to translate these themes into movement.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Dancer intelligibility through mimicry",
+      "group": "Dancers",
+      "resource": "Right to perform without accompaniment",
+      "directionality": "MORE",
+      "verbatim": [
+        "Since he is imitative and undertakes to present by means of movements all that is being sung, it is essential for him, as for the orators, to cultivate clearness, so that everything which he presents will be intelligible, requiring no interpreter. . . . thereat the dancer at that time, under Nero, in high repute, who was no fool, they say, and excelled, if ever a man did, in remembrance of legends and beauty of movement, made a request of Demetrius that was very reasonable, I think—to see him dancing and then accuse him; he promised, indeed, to perform for him without flute or songs."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text establishes that a skilled dancer has the capacity (and professional right) to convey complex narratives solely through gesture. This serves as a rule of the craft where the movement must replace the spoken or sung word to remain valid as 'art'.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage",
+        "Nobility"
+      ],
+      "rule": "Noble participation in Bacchic dance",
+      "group": "High-born men",
+      "resource": "Right to perform in public spectacles",
+      "directionality": "MORE",
+      "verbatim": [
+        "And certainly the Bacchic dance that is especially cultivated in Ionia and in Pontus, although it is a satyr-show, nevertheless has so enthralled the people of those countries that when the appointed time comes round they each and all forget everything else and sit the whole day looking at titans, corybantes, satyrs, and rustics. \n\nIndeed, these parts in the dance are performed by the men of the best birth and first rank in every one of their cities, not only without shame but with greater pride in the thing than in family trees and public services and ancestral distinctions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a specific contemporary social norm in Ionia and Pontus where high-status men (best birth/first rank) are permitted and encouraged to perform as dancers in public Bacchic festivals, a role that might otherwise be seen as low-status, framing it as a source of pride and a recognized right of their class.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Dancer adherence to rhythmic canon",
+      "group": "Dancers",
+      "resource": "Right to professional recognition",
+      "directionality": "LESS",
+      "verbatim": [
+        "Many of them, through ignorance—for it is impossible that they should all be clever—exhibit dreadful solecisms, so to speak, in their dancing. Some of them make senseless movements that have nothing to do with the harpstring, as the saying goes; for the foot says one thing and the music another. Others suit their movements to the music, but bring in their themes too late or too soon... But we should not condemn the dance itself, I take it, or find fault with the activity itself on account of such dancers; we should consider them ignorant, as indeed they are, and should praise those who do everything satisfactorily, in accordance with the regulations and the rhythm of the art."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that dancers are subject to strict professional 'regulations' of their art. Failing to align movements with music (solecisms) results in being characterized as 'ignorant' and losing the resource of professional praise/recognition, which is reserved for those following the specific laws of rhythm.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Health"
+      ],
+      "rule": "Audience regulation of dancer physique",
+      "group": "Physically unfit dancers",
+      "resource": "Exemption from public mockery",
+      "directionality": "LESS",
+      "verbatim": [
+        "The people of Antioch, a very talented city which especially honours the dance, keep such an eye upon everything that is done and said that nothing ever escapes a man of them. When a diminutive dancer made his entrance and began to play Hector, they all cried out in a single voice, ‘Ho there, Astyanax! where is Hector?’... And in the case of the plump and heavy dancer who tried to make great leaps, they said, ‘We beg you, spare the stage!’ On the other hand, to one who was very thin they called out: ‘Good health to you,’ as if he were ill. It is not for the joke’s sake that I have mentioned these comments, but to let you see that entire peoples have taken a great interest in the art of dancing, so that they could regulate its good and bad points."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian describes a social convention in cities like Antioch where the public 'regulates' the profession through vocal mockery (cat-calls) if a dancer's physical body (height, weight, health) does not match the heroic 'canon' required for the role.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Occupation"
+      ],
+      "rule": "Senatorial seating priority in theaters",
+      "group": "Senators",
+      "resource": "Assigned seating in theater front ranks",
+      "directionality": "MORE",
+      "verbatim": [
+        "For, not content with all this, our hero did something else that was far more laughable. Coming down among the public, he seated himself among the senators, between two ex-consuls, who were very much afraid that he would seize one of them and drub him, taking him for a wether!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian describes a specific incident where a dancer breaches the spatial and social boundaries of the theater. The mention of the actor moving from the stage specifically 'among the senators' and 'between two ex-consuls' reflects the Roman social reality where senators (and specifically those of consular rank) occupied distinct, high-prestige seating areas separate from the general public.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0062.tlg045.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "The Dance",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 6,
+  "_input_tokens": 37247,
+  "_output_tokens": 4238,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

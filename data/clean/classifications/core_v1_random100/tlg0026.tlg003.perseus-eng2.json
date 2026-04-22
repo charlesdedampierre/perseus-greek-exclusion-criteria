@@ -1,0 +1,579 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Eldest citizen platform priority",
+      "group": "Elderly citizens",
+      "resource": "Priority in public speaking",
+      "directionality": "MORE",
+      "verbatim": [
+        "for then it would be permitted to the oldest citizen, as the law prescribes, to come forward to the platform first, with dignity, and, uninterrupted by shouting and tumult, out of his experience to advise for the good of the state"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines cites a law enacted by Solon that established a specific order of speech in the assembly based on age, giving seniority to the oldest citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Speaker priority for men over fifty",
+      "group": "Men above fifty years of age",
+      "resource": "Priority in public speaking",
+      "directionality": "MORE",
+      "verbatim": [
+        "The result of all this is that we have ceased to hear that wisest and most judicious of all the proclamations to which the city was once accustomed, Who of the men above fifty years of age wishes to address the people, and then who of the other Athenians in turn."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific herald's proclamation used in the assembly that officially prioritized citizens over the age of fifty to speak before younger citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Mandatory audit for public officers",
+      "group": "Public officers",
+      "resource": "Exemption from legal audit",
+      "directionality": "LESS",
+      "verbatim": [
+        "In this city, so ancient and so great, no man is free from the audit who has held any public trust. . . and to submit their accounts before the clerk and board of auditors, precisely as other officers are required to do."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes a fundamental legal requirement in Athens that any individual holding a public trust or office must undergo an official accounting (audit) of their actions and finances.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Mandatory audit for priests and priestesses",
+      "group": "Priests and priestesses",
+      "resource": "Exemption from legal audit",
+      "directionality": "LESS",
+      "verbatim": [
+        "For example, the law directs that priests and priestesses be subject to audit, all collectively, and each severally and individually—persons who receive perquisites only, and whose occupation is to pray to heaven for you"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Religious officials are explicitly included in the general rule of accounting for public trust, despite the nature of their work being distinct from civil magistrates.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Wealth / Properties"
+      ],
+      "rule": "Audit of trierarchs",
+      "group": "Trierarchs",
+      "resource": "Exemption from legal audit",
+      "directionality": "LESS",
+      "verbatim": [
+        "Again, the law directs that the trierarchs be subject to audit, though they have had no public funds in their hands... but men who are acknowledged by all to have spent their family fortunes in their ambition to serve you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Even citizens who spent their own money on the state (trierarchs) were legally required to pass an audit, preventing even the wealthiest contributors from escaping oversight.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Prohibition of crowning before audit",
+      "group": "Public officers",
+      "resource": "Eligibility for honorary crown",
+      "directionality": "LESS",
+      "verbatim": [
+        "Now some statesman who had observed this situation caused a law to be passed—and a most excellent law it is—which expressly forbids crowning men before they have passed their final accounting."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This is the central rule in Aeschines' argument; the law strictly prohibits the state from conferring an honorary crown upon an official until they have finished their term and cleared their financial audit.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Travel restrictions on unaudited officers",
+      "group": "Public officers",
+      "resource": "Right to leave the country",
+      "directionality": "LESS",
+      "verbatim": [
+        "And so deep is his distrust of those who are subject to audit, that he says at the very beginning of the laws, The officer who has not yet submitted his accounts shall not leave the country"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Officials who had not yet completed their accounts were legally barred from traveling abroad to prevent them from fleeing with public funds.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Unaudited officer property restrictions",
+      "group": "Public officers",
+      "resource": "Right to dispose of property",
+      "directionality": "LESS",
+      "verbatim": [
+        "Furthermore, the man who is subject to audit is not allowed to consecrate his property, or to make a votive offering, or to receive adoption, or to dispose of his property by will and he is under many other prohibitions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law placed an attachment on the private property of officials pending their audit, preventing them from transferring assets to avoid potential fines.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Proclamation of public crowns locale",
+      "group": "Citizens",
+      "resource": "Right to theater proclamation",
+      "directionality": "LESS",
+      "verbatim": [
+        "For the law expressly commands that if the Senate confer a crown, the crown shall be proclaimed in the senate-house, and if the people confer it, in the assembly, and nowhere else."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law limited where honors given by the Athenian state could be publicized, specifically excluding the theater for internal citizen honors.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Prohibition of theater manumission",
+      "group": "Slaves",
+      "resource": "Public manumission in the theater",
+      "directionality": "LESS",
+      "verbatim": [
+        "He expressly forbids the manumission of a slave in the theater... and the herald who disobeys shall lose his civic rights."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "To prevent disruption of the dramatic festivals and unauthorized displays of wealth or status, the law barred the practice of freeing slaves during the theatrical performances.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Dedication of foreign golden crowns",
+      "group": "Citizens",
+      "resource": "Right to retain honorary gifts",
+      "directionality": "LESS",
+      "verbatim": [
+        "For the golden crown itself which is proclaimed in the city theater the law takes from the man who is crowned, and commands that it be dedicated to Athena... lest any one set a higher value upon the gratitude of a foreign state"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Athenian citizens who received golden crowns from foreign states were required by law to dedicate the physical crown to the goddess Athena rather than keeping it as personal property.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Assembly right of speech",
+      "group": "Citizens",
+      "resource": "Right to address the assembly",
+      "directionality": "MORE",
+      "verbatim": [
+        "Callias, depending no longer on messengers, came himself to you,In the spring of 340 b.c. and coming forward in your assembly repeated a speech that Demosthenes had prepared for him.",
+        "Demosthenes came forward with a most solemn air, praised Callias above measure, and pretended to know the secret business; but he said that he wished to report to you his own recent mission to the Peloponnesus and Acarnania."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes Callias and Demosthenes exercising the standard right of Athenian citizens to stand before the Ekklesia (assembly) and propose motions or report on diplomatic missions. This is a characteristic resource of the citizen group in Athens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Assembly voting on ambassadors",
+      "group": "Citizens",
+      "resource": "Right to elect ambassadors",
+      "directionality": "MORE",
+      "verbatim": [
+        "And leading you off out of sight of his fraud, and suspending you on hopes, at last he gathers all up in a motion that you choose ambassadors to go to Eretria and beg the Eretrians—of course it was necessary to beg!—no longer to pay their contribution of five talents to you, but to Callias; and further, that you choose other ambassadors to go to Oreus"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes the procedure where the citizen assembly votes to select specific individuals (ambassadors) to represent the state in foreign negotiations, illustrating the political power held by the citizen group.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Democratic legislative voting",
+      "group": "Citizens",
+      "resource": "Right to vote on public decrees",
+      "directionality": "MORE",
+      "verbatim": [
+        "And it was this last by means of which he was found out; for the government of Oreus is a democracy, and everything is done there by popular vote. ... This was done by vote of the people. To prove that what I am telling you is true, please take the decree of the people of Oreus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines explicitly identifies that in a democracy like Oreus, the citizen group holds the resource of making government decisions through a 'popular vote', leading to the creation of public decrees.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Sacred land cultivation ban",
+      "group": "All people",
+      "resource": "Right to till dedicated land",
+      "directionality": "LESS",
+      "verbatim": [
+        "The Pythia replied that they must fight against the Cirrhaeans and the Cragalidae day and night, bitterly ravage their country, enslave the inhabitants, and dedicate the land to the Pythian Apollo and Artemis and Leto and Athena Pronaea, that for the future it lie entirely uncultivated; that they must not till this land themselves nor permit another."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The author cites a historical/religious rule (the Amphictyonic oath following the Oracle) that explicitly forbids any person or group from using specific land for agriculture because it has been dedicated to the gods.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Magistrate selection and voting rights",
+      "group": "Citizens",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "It was in the archonship of Theophrastus; 340/39 b.c. Diognetus of Anaphlystus was our hieromnemon; as pylagori you elected Meidias of Anagyrus, whom you all remember—I wish for many reasons he were still living—and Thrasycles of Oeum; I was the third."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies specific Athenian citizens by their demes (Anaphlystus, Anagyrus, Oeum) who were elected by the citizen body to high offices (Archon, Hieromnemon, Pylagori). This demonstrates that the resource of holding high political and religious office was reserved for citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Hieromnemon voting privilege",
+      "group": "Citizens",
+      "resource": "Political power over the Amphictyonic Council",
+      "directionality": "MORE",
+      "verbatim": [
+        "The hieromnemon, selected annually by lot, was the official representative of the state in the Amphictyonic Council; the three pylagori were selected by vote as his advisors. The pylagori had the privilege of taking part in the debates of the Amphictyonic Council, but the vote of the state was cast by the hieromnemon."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text defines a specific hierarchy of political rights within the Council: while advisors (pylagori) may debate, the actual vote of the state is restricted to a single official, the hieromnemon, representing the state's political authority.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Compulsory labor for sacred property",
+      "group": "Men of Delphi",
+      "resource": "Exemption from compulsory public labor",
+      "directionality": "LESS",
+      "verbatim": [
+        "the herald came forward and made proclamation that all the men of Delphi who were of full age, slaves and free men alike, should come at daybreak on the morrow with shovels and mattocks to the place that is there called the Thyteion.",
+        "And whatever city shall fail to appear, shall he debarred from the shrine and shall be impure and under the curse."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes an emergency rule where all adult male residents of Delphi, regardless of their status as free citizens or slaves, were legally compelled to provide physical labor (using shovels and mattocks) to maintain/defend sacred land. Failure to provide this labor resulted in religious and political exclusion for their city.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Sacred assembly participation",
+      "group": "Sacrificers and consultants",
+      "resource": "Right to participate in the Amphictyonic assembly",
+      "directionality": "MORE",
+      "verbatim": [
+        "Now on the next day Cottyphus, the presiding officer, called an assembly of the Amphictyons (they call it an assembly when not only the pylagori and hieromnemons are called together, but with them those who are sacrificing and consulting the god)."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes between a standard council and a broader 'assembly' (oikoumene). In this specific religious-political context, individuals who are currently performing sacrifices or consulting the oracle are granted access to a deliberative assembly alongside the official state deputies.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Double parent citizenship requirement",
+      "group": "Athenians",
+      "resource": "Right to citizenship",
+      "directionality": "LESS",
+      "verbatim": [
+        "one he married to a man whom I will not name—for I do not care to incur the enmity of many persons,—the other, in contempt of the laws of the city, Demosthenes of Paeania took to wife. She it was who bore your busy-body and informer. From his grandfather, therefore, he would inherit enmity toward the people, for you condemned his ancestors to death and by his mother’s blood he would be a Scythian, a Greek-tongued barbarian—so that his knavery, too, is no product of our soil."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines cites the law regarding parentage to question Demosthenes' legitimacy and loyalty. This reflects the Athenian legal requirement that a citizen must be born of two citizen parents to possess full legal status/rights.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Ferryman license revocation for accidents",
+      "group": "Ferrymen",
+      "resource": "Right to conduct trade",
+      "directionality": "LESS",
+      "verbatim": [
+        "You have passed a law, fellow citizens, governing the men who steer the boats across the strait to Salamis; if one of them by accident overturns a boat in the strait, your law permits him no longer to be a ferryman, in order that no man may be careless of Greek lives"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly describes a specific professional regulation where a single negligent act (overturning a boat) leads to the permanent loss of the right to practice that occupation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "State support for war orphans",
+      "group": "Orphans of fallen soldiers",
+      "resource": "Public maintenance and armor",
+      "directionality": "MORE",
+      "verbatim": [
+        "These young men, whose fathers showed themselves brave men and died in war, have been supported by the state until they have come of age and now, clad thus in full armour by their fellow citizens, they are sent out with the prayers of the city, to go each his way"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a formal Athenian custom and legal obligation where the state provides material resources (food, upbringing, and a panoply of armor) to the children of citizens who died in battle.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Theater honors for war orphans",
+      "group": "Orphans of fallen soldiers",
+      "resource": "Seats of honor in theater",
+      "directionality": "MORE",
+      "verbatim": [
+        "and they are invited to seats of honor in the theater. This was the proclamation then, but not today."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines notes that part of the state's compensation for the loss of a father in war was the social resource of proedria (honorary seating) at public festivals.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage",
+        "Citizenship"
+      ],
+      "rule": "Democracy leadership qualifications",
+      "group": "Friends of the people",
+      "resource": "Eligibility for political leadership",
+      "directionality": "MORE",
+      "verbatim": [
+        "I think you would all acknowledge that the following qualities ought to he found in the friend of the people: in the first place, he should be free-born, on both his father’s and his mother’s side, lest because of misfortune of birth he be disloyal to the laws that preserve the democracy. In the second place, he should have as a legacy from his ancestors some service which they have done to the democracy"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "While framed as 'qualities' (opinions), Aeschines is appealing to established societal norms and legal expectations regarding who should be permitted to exercise influence and political rights as a 'prostanes' (leader) in the democracy.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Coward exclusion from the Agora",
+      "group": "Citizens",
+      "resource": "Access to the Agora",
+      "directionality": "LESS",
+      "verbatim": [
+        "Therefore the man who fails to take the field, and the coward, and the man who has deserted his post are excluded by the lawgiver from the purified precincts of the Agora, and may not be crowned, nor take part in the sacred rites of the people."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines cites the laws of Solon, which remain in force in his contemporary Athens, specifically identifying that citizens categorized as cowards or deserters lose the right to enter the Agora and participate in sacred rites.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Coward exclusion from public honors",
+      "group": "Citizens",
+      "resource": "Eligibility for crowning",
+      "directionality": "LESS",
+      "verbatim": [
+        "Therefore the man who fails to take the field, and the coward, and the man who has deserted his post are excluded by the lawgiver from the purified precincts of the Agora, and may not be crowned, nor take part in the sacred rites of the people."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that legal statutes forbid the crowning of individuals who have failed in their military duties or shown cowardice, treating the crown as a resource protected by law.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Coward exclusion from sacred rites",
+      "group": "Citizens",
+      "resource": "Participation in sacred rites",
+      "directionality": "LESS",
+      "verbatim": [
+        "Therefore the man who fails to take the field, and the coward, and the man who has deserted his post are excluded by the lawgiver from the purified precincts of the Agora, and may not be crowned, nor take part in the sacred rites of the people."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The lawgiver (Solon) established that specific groups of citizens designated by their failure in battle are barred from communal religious participation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Coward exclusion from the theater",
+      "group": "Citizens",
+      "resource": "Access to the orchestra",
+      "directionality": "LESS",
+      "verbatim": [
+        "But you, Ctesiphon, command us to crown the man who by command of the laws is uncrowned; and by your decree you invite into the orchestra at the time of the tragedies the man who has no right to enter, and into the shrine of Dionysus the man who has betrayed all our shrines through cowardice."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines argues that Ctesiphon's decree is illegal because the law prohibits those guilty of cowardice from entering the orchestra (theater) or the shrine of Dionysus.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Merit-based Senate review for honors",
+      "group": "Citizens",
+      "resource": "Eligibility for olive crowns",
+      "directionality": "MORE",
+      "verbatim": [
+        "And not even this will he allow to be done carelessly, but only after careful examination by the Senate, to determine who of them actually stood siege at Phyle when the Lacedaemonians and the Thirty made their attack, not those who deserted their post—as at Chaeroneia—in the face of the advancing enemy."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "While describing a historical resolution (the men of Phyle), Aeschines describes a specific legal rule/procedure where the Senate must verify military service before granting the resource of a ceremonial olive crown.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Mandatory audit for office holders",
+      "group": "Citizens",
+      "resource": "Eligibility for public honors",
+      "directionality": "LESS",
+      "verbatim": [
+        "but first I exhibited the laws which forbid crowning men who have not yet rendered their accounts, and then I convicted the orator of having moved to crown Demosthenes before he had rendered account, and that too without inserting the qualifying proviso, When he shall have rendered account, but in utter contempt of you and of your laws."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines cites a specific law requiring that any citizen holding state office must submit to a financial and performance audit (rendering accounts) before being eligible for a crown or honorary recognition. This reflects a general administrative rule in Athens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Assembly proclamation of honors",
+      "group": "Citizens",
+      "resource": "Right to public proclamation location",
+      "directionality": "LESS",
+      "verbatim": [
+        "Secondly, I recited to you the laws which govern proclamations, in which it is expressly forbidden that when one is crowned by the people the proclamation shall be made in any other place than in the assembly. But the politician who is the defendant in this case has not only transgressed the laws, but the time of proclamation, and the place of it; for he orders the proclamation to be made, not in the assembly, but in the theater."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines references a law that mandates crowns awarded by the people must be proclaimed specifically in the Pnyx (the assembly), limiting the visibility of the honor to the political body rather than the broader theatrical audience unless specific exceptions apply.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Political participation of any citizen",
+      "group": "Citizens",
+      "resource": "Right to address the assembly",
+      "directionality": "MORE",
+      "verbatim": [
+        "For in oligarchies it is not he who wishes, but he who is in authority, that addresses the people; whereas in democracies he speaks who chooses, and whenever it seems to him good. And the fact that a man speaks only at intervals marks him as a man who takes part in politics because of the call of the hour, and for the common good."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a fundamental democratic rule where any citizen has the right to step forward and speak at their own discretion, contrasting it with oligarchic systems where only officials have that resource.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Trierarchic naval contributions",
+      "group": "The wealthy",
+      "resource": "Protection from disproportionate taxation",
+      "directionality": "LESS",
+      "verbatim": [
+        "For when you had carried constitutional amendments as to the Three Hundred, and had persuaded the Athenians to make you Commissioner of the Navy, you were convicted by me of having stolen away trierarchs from sixty-five swift ships, making away with a greater naval force of the city than that with which the Athenians once defeated Pollis and the Lacedaemonians at Naxos."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage discusses the 'Three Hundred' (the wealthiest citizens) and the trierarchic system. It describes the legal framework where specific wealthy groups are responsible for financing and commanding warships, a burden that is adjusted by law.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Disfranchisement for bribery conviction",
+      "group": "Wealthy citizens",
+      "resource": "Right to retain citizenship",
+      "directionality": "LESS",
+      "verbatim": [
+        "And—strangest of all—in the same court-rooms do you disfranchise those who are convicted of receiving bribes, and then yourselves propose to crown a man who, to your own knowledge, has always been in politics for pay?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aeschines refers to a standard legal penalty in Athens where citizens convicted of receiving bribes (corruption or taking pay for political service) lose their civic rights (disfranchisement/atimia).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Death penalty for desertion",
+      "group": "Citizens",
+      "resource": "Protection from execution",
+      "directionality": "LESS",
+      "verbatim": [
+        "At that time a certain private citizen who merely undertook to sail to Samos was on the same day punished with death by the Senate of the Areopagus, as a traitor to his country. Another private citizen, who sailed away to Rhodes, was only the other day prosecuted, because he was a coward in the face of danger."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text highlights the legal consequences for citizens who desert the city during a military crisis. It establishes that fleeing during danger can be prosecuted as treason, resulting in the loss of life or civic status.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0026.tlg003.perseus-eng2",
+  "_perseus_author": "Aeschines",
+  "_perseus_title": "Against Ctesiphon",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 6,
+  "_input_tokens": 55562,
+  "_output_tokens": 7377,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

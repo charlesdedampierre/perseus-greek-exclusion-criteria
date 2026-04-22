@@ -1,0 +1,45 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Artist control over work display",
+      "group": "Artists",
+      "resource": "Right to retain property",
+      "directionality": "MORE",
+      "verbatim": [
+        "So when Zeuxis saw that the novelty of the subject was taking their attention and distracting them from the technique of the work, and that the accuracy of detail was taking second place, he said to his pupil: “Come on, Micio, cover up the picture and all of you pick it up and take it home. These spectators are praising only the mere clay of my work, but as to the effects of light, they do not worry much whether they are beautiful and skilfully executed, and the novelty of the subject goes for more than the accuracy of its parts.”"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Lucian describes a historical anecdote of the painter Zeuxis. The text demonstrates that the artist possessed the authority and physical control to withdraw his work from public viewing and command his subordinates to return it to his private residence if the audience's appreciation did not meet his standards.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Macedonian soldier victory proclamation",
+      "group": "Soldiers",
+      "resource": "Political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "Antiochus’s Macedonian contingent raised the Paean and gathering round him crowned him “king of glorious victory” with acclamation. Antiochus is said to have wept as he addressed his troops. “Men,” he said, “we owe our lives to these sixteen animals; so let us rather feel shame.\""
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage describes the specific role of the Macedonian soldiers (the 'contingent') in the ritual of crowning and acclaiming their leader as a victorious king. This reflects the military's role in the symbolic and political legitimization of Hellenistic monarchs.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0062.tlg057.perseus-eng3",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "Zeuxis or Antiochus",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5282,
+  "_output_tokens": 509,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

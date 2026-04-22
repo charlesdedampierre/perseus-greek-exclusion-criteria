@@ -1,0 +1,409 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation",
+        "Freedom"
+      ],
+      "rule": "Servant exclusion from social discourse",
+      "group": "Servants",
+      "resource": "Participation in banquet conversation",
+      "directionality": "LESS",
+      "verbatim": [
+        "Come, boys, he called to the servants, serve the feast for the rest of us.  You are to set on just whatever you please, now that you have no one to direct you (a method I have never tried before). This clause is probably an asideto his guests.  Today you are to imagine that I and all the company here have come on your invitation so look after us, and earn our compliments.",
+        "I next propose that the flute-girl who came in just now be dismissed: let her pipe to herself or, if she likes, to the women-folk within, but let us seek our entertainment today in conversation."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text depicts a clear boundary between the guests (citizens/philosophers) and the household staff (servants and flute-girls). The servants are relegated to labor and the flute-girl is explicitly dismissed to allow the 'company' to engage in their primary resource: high-level intellectual conversation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female exclusion from the symposium",
+      "group": "Women",
+      "resource": "Access to intellectual banquets",
+      "directionality": "LESS",
+      "verbatim": [
+        "I next propose that the flute-girl who came in just now be dismissed: let her pipe to herself or, if she likes, to the women-folk within, but let us seek our entertainment today in conversation."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms that the sympotic space where speeches and philosophy occur is gender-segregated. Women are referred to as being 'within' (the inner parts of the house) and are excluded from the specific resource of the evening's conversation.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy exclusion from philosophical circles",
+      "group": "The wealthy",
+      "resource": "Access to philosophical discourse",
+      "directionality": "LESS",
+      "verbatim": [
+        "whereas in the case of other sorts of talk—especially that of your wealthy, money-bag friends—I am not only annoyed myself but sorry for dear intimiates like you, who think you are doing a great deal when you really do nothing at all."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Apollodorus describes a social norm/convention where 'money-bag' individuals are viewed as intellectually unproductive and are socially distanced from the serious 'philosophic discourses' valued by the circle of Socrates.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Lover protection of freeborn women",
+      "group": "Women",
+      "resource": "Protection from pursuit by popular lovers",
+      "directionality": "MORE",
+      "verbatim": [
+        "Good men, however, voluntarily make this law for themselves, and it is a rule which those popular lovers ought to be forced to obey, just as we force them, so far as we can, to refrain from loving our freeborn women."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Pausanias refers to a social compulsion or 'rule' in Athens that forces men to refrain from pursuing freeborn women, contrasting this established protection with the lack of similar legal protections for boys.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Lover immunity for courtship acts",
+      "group": "Citizens",
+      "resource": "Protection from oral reproach during courtship",
+      "directionality": "MORE",
+      "verbatim": [
+        "But in a lover all such doings only win him favor: by free grant of our law he may behave thus without reproach, as compassing a most honorable end. ... So true it is that both gods and men have given absolute licence to the lover, as our Athenian law provides."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that Athenian law and custom grant a 'free grant' or 'absolute licence' to lovers to perform actions (like sleeping on doorsteps) that would otherwise bring sharp reproach or be seen as shameful 'slavery' if done for money or office.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Divine indulgence for lover's perjury",
+      "group": "Citizens",
+      "resource": "Right to forsake oaths without divine penalty",
+      "directionality": "MORE",
+      "verbatim": [
+        "Strangest of all, he alone in the vulgar opinion has indulgence from the gods when he forsakes the vow he has sworn; for the vow of love-passion, they say, is no vow."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a specific cultural and religious rule in Athens where lovers are uniquely permitted to break oaths (specifically vows of love) without the usual spiritual or social consequences associated with perjury.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Tutor supervision of beloved boys",
+      "group": "Minors",
+      "resource": "Freedom of movement and conversation",
+      "directionality": "LESS",
+      "verbatim": [
+        "But it happens that fathers put tutors in charge of their boys when they are beloved, to prevent them from conversing with their lovers: the tutor has strict injunctions on the matter, and when they observe a boy to be guilty of such a thing his playmates and fellows reproach him"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a general social practice in Athens where fathers use tutors to restrict the freedom of boys to talk to lovers, backed by social reproach from their peers.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Social disapproval of quick capitulation",
+      "group": "Minors",
+      "resource": "Right to immediate gratification of desire",
+      "directionality": "LESS",
+      "verbatim": [
+        "And so it is for this reason that our convention regards a quick capitulation as a disgrace: for there ought, first, to be a certain interval—the generally approved touchstone—of time"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Athenian 'convention' (a social rule) dictates that youths/favorites lose social standing (face disgrace) if they yield to a lover too quickly, requiring a time delay as a test of the relationship's nature.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Nobility",
+        "Gender"
+      ],
+      "rule": "Public career access for men",
+      "group": "Men",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "Sure evidence of this is the fact that on reaching maturity these alone prove in a public career to be men. So when they come to man’s estate they are boy-lovers, and have no natural interest in wiving and getting children, but only do these things under stress of custom; they are quite contented to live together unwedded all their days."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aristophanes observes that specifically the 'manly' males—those who in youth were attracted to men—are those who go on to lead public careers (political or civic offices) in adulthood. While the frame is mythological, it reflects the social reality of Classical Athens where public political participation was a resource exclusive to adult male citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Legal validity of voluntary agreements",
+      "group": "Citizens",
+      "resource": "Right to enforce voluntary contracts",
+      "directionality": "MORE",
+      "verbatim": [
+        "For neither is the usage he himself gets a violent usage, since violence takes not hold of Love; nor is there violence in his dealings, since Love wins all men’s willing service; and agreements on both sides willingly made are held to be just by our city’s sovereign, the law."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Agathon explicitly mentions that the 'city's sovereign, the law' (referring to Athenian law) recognizes and protects agreements made between parties voluntarily. This reflects the legal protection of contracts and mutual consent in the Athenian polis.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Mandatory marriage and procreation",
+      "group": "Men",
+      "resource": "Freedom from compulsory marriage",
+      "directionality": "LESS",
+      "verbatim": [
+        "So when they come to man’s estate they are boy-lovers, and have no natural interest in wiving and getting children, but only do these things under stress of custom; they are quite contented to live together unwedded all their days."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text states that even men who prefer the company of other men are compelled into marriage and begetting children 'under stress of custom' (nomos/tradition), showing that society imposed a lack of choice regarding domestic life to ensure the continuity of the oikos/citizen body.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Intermediary status of correct opinion",
+      "group": "The unlearned with correct opinion",
+      "resource": "Status as knowledgeable",
+      "directionality": "LESS",
+      "verbatim": [
+        "You know, of course, that to have correct opinion, if you can give no reason for it, is neither full knowledge—how can an unreasoned thing be knowledge?—nor yet ignorance; for what hits on the truth cannot be ignorance. So correct opinion, I take it, is just in that position, between understanding and ignorance. Quite true, I said."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates and Diotima define a specific epistemic group—those who hold correct views but cannot provide a rational 'account' (logos). They are systematically denied the status/resource of being 'knowledgeable' (sophia/episteme), instead being placed in a defined middle ground.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Spiritual status of ritual experts",
+      "group": "Religious practitioners",
+      "resource": "Access to divine communication",
+      "directionality": "MORE",
+      "verbatim": [
+        "Through it are conveyed all divination and priestcraft concerning sacrifice and ritual and incantations, and all soothsaying and sorcery. God with man does not mingle: but the spiritual is the means of all society and converse of men with gods and of gods with men, whether waking or asleep. Whosoever has skill in these affairs is a spiritual man to have it in other matters, as in common arts and crafts, is for the mechanical."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a categorical divide based on professional skill. Those with 'skill in these affairs' (priests, diviners, etc.) are granted the resource of being 'spiritual' (daimonios), which allows them to facilitate communication between the human and divine spheres, a resource denied to the 'mechanical' (banausos) laborers.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Exclusion of artisans from spiritual status",
+      "group": "Artisans and craftsmen",
+      "resource": "Status as spiritual man",
+      "directionality": "LESS",
+      "verbatim": [
+        "Whosoever has skill in these affairs is a spiritual man to have it in other matters, as in common arts and crafts, is for the mechanical."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plato explicitly contrasts the 'spiritual man' (daimonios) with the 'mechanical' (banausos). Those engaged in common manual arts are denied the immaterial resource of spiritual standing or the prestige associated with divine mediation.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Age requirement for procreation",
+      "group": "Minors",
+      "resource": "Capacity to procreate",
+      "directionality": "LESS",
+      "verbatim": [
+        "All men are pregnant, Socrates, both in body and in soul: on reaching a certain age our nature yearns to beget. This it cannot do upon an ugly person, but only on the beautiful: the conjunction of man and woman is a begetting for both."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific biological and social boundary based on age, stating that the drive and capacity to 'beget' (procreate) only occurs once a certain age threshold is reached, implying younger individuals lack this resource.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation",
+        "Nobility"
+      ],
+      "rule": "Poetic and legislative immortal renown",
+      "group": "Poets and Legislators",
+      "resource": "Right to public shrines and cult honors",
+      "directionality": "MORE",
+      "verbatim": [
+        "Or only look, she said, at the fine children whom Lycurgus left behind him in Lacedaemon to deliver his country and—I may almost say—the whole of Greece; while Solon is highly esteemed among you for begetting his laws; and so are diverse men in diverse other regions, whether among the Greeks or among foreign peoples, for the number of goodly deeds shown forth in them, the manifold virtues they begot. In their name has many a shrine been reared because of their fine children; whereas for the human sort never any man obtained this honor."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text contrasts ordinary parents with those who 'beget' laws or poems (like Solon or Lycurgus). It explicitly states that these specific 'procreators of the soul' receive material and immaterial resources (shrines and divine honors) that those who only produce biological children never obtain.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Philosophical ascent to universal beauty",
+      "group": "The uninstructed",
+      "resource": "Access to the vision of absolute beauty",
+      "directionality": "LESS",
+      "verbatim": [
+        "Into these love-matters even you, Socrates, might haply be initiated; but I doubt if you could approach the rites and revelations to which these, for the properly instructed, are merely the avenue. . . . He who would proceed rightly in this business must not merely begin from his youth to encounter beautiful bodies. . . . finally he may be constrained to contemplate the beautiful as appearing in our observances and our laws."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a rigorous educational and initiatory progression. Those who are not 'properly instructed' or have not followed the 'regular ascent' are barred from the 'revelations' and the final 'wondrous vision' of beauty, which is treated as a specific immaterial resource/attainment.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Age",
+        "Gender"
+      ],
+      "rule": "Boy-loving as a method for higher learning",
+      "group": "Boys",
+      "resource": "Access to educational mentorship",
+      "directionality": "MORE",
+      "verbatim": [
+        "So when a man by the right method of boy-loving ascends from these particulars and begins to descry that beauty, he is almost able to lay hold of the final secret. Such is the right approach or induction to love-matters. Beginning from obvious beauties he must for the sake of that highest beauty be ever climbing aloft, as on the rungs of a ladder, from one to two, and from two to all beautiful bodies; from personal beauty he proceeds to beautiful observances, from observance to beautiful learning, and from learning at last to that particular study which is concerned with the beautiful itself and that alone"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text describes the practice of pederasty (boy-loving) not just as a behavior, but as a structured social and educational 'method' or 'induction' where beautiful boys serving as the object of love allows them to be the starting point for a man's (the lover's) ascent to higher learning and virtue, implying the boy's inclusion in this educational social dynamic.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Guest admission to symposium",
+      "group": "Intimates",
+      "resource": "Right of entry to private gatherings",
+      "directionality": "MORE",
+      "verbatim": [
+        "Go and see to it, said Agathon to the servants; and if it be one of our intimates, invite him in: otherwise, say we are not drinking, but just about to retire."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage establishes a rule for social exclusion/inclusion at a symposium: access is granted to 'intimates' (friends and social peers) while strangers or non-intimates are excluded via a polite refusal (claiming the party is over).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age",
+        "Freedom"
+      ],
+      "rule": "Child attendant for young elite",
+      "group": "Minors",
+      "resource": "Protection by personal attendant",
+      "directionality": "MORE",
+      "verbatim": [
+        "And believing he had a serious affection for my youthful bloom, I supposed I had here a godsend and a rare stroke of luck, thinking myself free at any time by gratifying his desires to hear all that our Socrates knew; for I was enormously proud of my youthful charms. So with this design I dismissed the attendant whom till then I invariably brought to my meetings with Socrates, and I would go and meet him alone"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Alcibiades describes the standard practice of the time where a well-born youth ('youthful bloom') was expected to be accompanied by a 'paidagogos' or attendant during social interactions to ensure propriety and protection.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave service at symposia",
+      "group": "Slaves",
+      "resource": "Right to personal autonomy",
+      "directionality": "LESS",
+      "verbatim": [
+        "Then Agathon said to the servants, Take off Alcibiades’ shoes, so that he can recline here with us two.",
+        "Agathon, let the boy bring me as large a goblet as you have.",
+        "Socrates drank as soon as the boy had filled"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text depicts slaves ('servants', 'boy') as living tools with no autonomy over their bodies or time, being commanded to perform manual grooming and beverage service for the leisure of the citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Occupation"
+      ],
+      "rule": "Servant exclusion from philosophical discourse",
+      "group": "Slaves",
+      "resource": "Right to participate in intellectual gatherings",
+      "directionality": "LESS",
+      "verbatim": [
+        "But the domestics, and all else profane and clownish, must clap the heaviest of doors upon their ears. Well, gentlemen, when the lamp had been put out and the servants had withdrawn, I determined not to mince matters with him, but to speak out freely what I intended."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Alcibiades explicitly identifies 'domestics' (servants/slaves) as a group that must be excluded from hearing the 'philosophic frenzy' and private conversations of the elite. This demonstrates a normative boundary where individuals of the slave class are physically removed and barred from participating in or witnessing the intellectual and social life of free citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy control over personal property",
+      "group": "The wealthy",
+      "resource": "Right to dispose of property",
+      "directionality": "MORE",
+      "verbatim": [
+        "I count it sheer folly not to gratify you in this as in any other need you may have of either my property or that of my friends. To me nothing is more important than the attainment of the highest possible excellence, and in this aim I believe I can find no abler ally than you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Alcibiades, a member of the Athenian elite, describes his absolute right to offer his own property and influence the property of his circle to achieve his personal goals (in this case, securing a teacher). This reflects the legal and social reality that wealthy citizens had the freedom to use their material resources as leverage in social and educational exchanges.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Wealth / Properties"
+      ],
+      "rule": "High status influence on military awards",
+      "group": "The elite",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "I lost no time, Socrates, in urging the generals to award the prize for valor to you; and here I think you will neither rebuke me nor give me the lie. For when the generals, out of regard for my consequence, were inclined to award the prize to me, you outdid them in urging that I should have it rather than you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Alcibiades explains that the military generals were inclined to give him the prize for valor specifically because of his 'consequence' (his high social standing, lineage, and wealth) rather than his actual performance relative to Socrates. In Athenian society, military honors were significant immaterial resources that led to further political eligibility and power.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0059.tlg011.perseus-eng2",
+  "_perseus_author": "Plato",
+  "_perseus_title": "Symposium",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 10,
+  "_input_tokens": 60739,
+  "_output_tokens": 5686,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,171 @@
+{
+  "batch_idx": 14,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0007.tlg134.perseus-eng2::0",
+    "tlg0007.tlg134.perseus-eng2::1",
+    "tlg0007.tlg139.perseus-eng2::0",
+    "tlg0007.tlg139.perseus-eng2::1",
+    "tlg0007.tlg139.perseus-eng2::2",
+    "tlg0007.tlg139.perseus-eng2::3",
+    "tlg0008.tlg001.perseus-eng2::0",
+    "tlg0008.tlg001.perseus-eng2::1",
+    "tlg0008.tlg001.perseus-eng2::2",
+    "tlg0008.tlg001.perseus-eng2::3",
+    "tlg0008.tlg001.perseus-eng2::4",
+    "tlg0008.tlg001.perseus-eng2::5",
+    "tlg0008.tlg001.perseus-eng2::6",
+    "tlg0008.tlg001.perseus-eng2::7",
+    "tlg0008.tlg001.perseus-eng2::8",
+    "tlg0008.tlg001.perseus-eng2::9",
+    "tlg0010.tlg004.perseus-eng2::0",
+    "tlg0010.tlg004.perseus-eng2::1",
+    "tlg0010.tlg004.perseus-eng2::2",
+    "tlg0010.tlg004.perseus-eng2::3"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Plutarch is commenting on Plato's 4th-century BCE Athenian dialogue, using norms of conduct between citizens and foreigners discussed therein.",
+      "rule_date": -353,
+      "rule_time_reasoning": "The work analyzes Plato's Timaeus (c. -360 to -347); the date -353 is the midpoint of this work-level span."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim refers to Zeno of Citium's pedagogical advice within the context of Athenian intellectual history and theatre culture.",
+      "rule_date": -353,
+      "rule_time_reasoning": "The work focuses on the mid-4th century BCE Athenian philosophical milieu; -353 is the midpoint of the work's span."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Hellenistic Athens",
+      "rule_polity_reasoning": "This polemic documents the schools of Epicurus and Metrodorus, focusing on their 4th/3rd-century BCE Athenian context.",
+      "rule_date": -306,
+      "rule_time_reasoning": "Epicurus established his school in Athens in -306, initiating the era of Epicurean doctrine discussed by Plutarch."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Hellenistic Athens",
+      "rule_polity_reasoning": "The text discusses the social practices of Greek-born men and the manumission of slaves in the context of Hellenistic philosophical debates.",
+      "rule_date": -120,
+      "rule_time_reasoning": "Midpoint of the work's past-referring span (-341 to 100), covering the historical development of the Epicurean school."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Hellenistic Greek states",
+      "rule_polity_reasoning": "The rule involves eligibility for public office (magistracy) as debated by Epicurus and Democritus in the Greek world.",
+      "rule_date": -306,
+      "rule_time_reasoning": "Dated to the arrival of Epicurus in Athens (-306), whose rejection of public office is the subject of the polemic."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Hellenistic Greek states",
+      "rule_polity_reasoning": "The rule describes the liturgical and social expectations of the wealthy in Greek cities, particularly centered on Athenian and Hellenistic practice.",
+      "rule_date": -120,
+      "rule_time_reasoning": "Midpoint of the work's span (-341 to 100), representing the long-standing Hellenistic tradition of elite public financing."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim specifically highlights the act of Ion of Chios distributing wine to every Athenian citizen after his victory.",
+      "rule_date": -450,
+      "rule_time_reasoning": "Ion of Chios was active in the 5th century BCE; -450 represents a central date for his floruit and victories in Athens."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Archaic Athens",
+      "rule_polity_reasoning": "The rule cites the injunctions of Solon regarding the dining rights in the Prytaneum.",
+      "rule_date": -594,
+      "rule_time_reasoning": "Solon's archonship and his era of legislative reform are traditionally dated to -594."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Naucratis",
+      "rule_polity_reasoning": "The text explicitly describes the local laws and customs of the Prytaneum in the city of Naucratis.",
+      "rule_date": 200,
+      "rule_time_reasoning": "Athenaeus is documenting contemporary or slightly earlier practices of his own era and native region around 200 CE."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Classical Cos",
+      "rule_polity_reasoning": "The rule cites Macareus's third book on Coan Affairs regarding the exclusion of slaves from Juno's temple.",
+      "rule_date": -350,
+      "rule_time_reasoning": "Macareus of Cos likely wrote in the 4th or 3rd century BCE; -350 represents the midpoint of the Classical/early Hellenistic era for Cos."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Classical Rhodes",
+      "rule_polity_reasoning": "The rule concerns a cult custom in Rhodes regarding the sacrifice of Phorbas.",
+      "rule_date": -400,
+      "rule_time_reasoning": "This represents a traditional cult practice from the classical period of the Rhodian poleis."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Archaic Rome",
+      "rule_polity_reasoning": "The verbatim refers to an ancient Roman law prohibiting wine consumption for slaves, women, and the young.",
+      "rule_date": -450,
+      "rule_time_reasoning": "Refers to the quasi-legendary and early Republican legal period of Rome, such as the era of the Twelve Tables (c. -450)."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Republican Rome",
+      "rule_polity_reasoning": "The text cites Polybius (2nd c. BCE) regarding the prohibition of wine for Roman women.",
+      "rule_date": -150,
+      "rule_time_reasoning": "Polybius's floruit and his description of Roman social institutions peak around -150."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Archaic Rome",
+      "rule_polity_reasoning": "The rule describes an ancient Roman restriction on youth until age thirty, as documented by antiquarian sources.",
+      "rule_date": -450,
+      "rule_time_reasoning": "Anchored to the era of early Republican Roman law and traditional social discipline."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "The rule describes the mandatory contributions for the Phiditium (syssitia) in Laconia.",
+      "rule_date": -450,
+      "rule_time_reasoning": "Reflects the peak period of the classical Spartan 'Lycurgan' constitution and communal dining system."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Hellenistic Athens",
+      "rule_polity_reasoning": "The rule describes the decree of Sophocles to banish philosophers from Attica in -307 BCE.",
+      "rule_date": -307,
+      "rule_time_reasoning": "The Decree of Sophocles was passed in 307 BCE during the restoration of democracy under Demetrius Poliorcetes."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Isocrates' work concerns the legal defense of Alcibiades and Athenian judicial procedure.",
+      "rule_date": -397,
+      "rule_time_reasoning": "The speech was written by Isocrates for Alcibiades' son shortly after his coming of age, roughly 397 BCE."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim describes the performance of liturgies (public financial duties) by a prominent Athenian citizen.",
+      "rule_date": -415,
+      "rule_time_reasoning": "Alcibiades was at the height of his influence and liturgical contributions before the Sicilian Expedition in -415."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Specifically refers to the Amnesty of 403 BCE following the expulsion of the Thirty Tyrants.",
+      "rule_date": -403,
+      "rule_time_reasoning": "The Amnesty was a specific historical agreement ratified in -403 to end the Athenian civil war."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule describes the Athenian legal status of 'atimia' (disfranchisement) for citizens unable to pay debts to the state.",
+      "rule_date": -397,
+      "rule_time_reasoning": "The speech 'Concerning the Team of Horses' is dated to approximately -397 BCE, reflecting contemporary law."
+    }
+  ],
+  "input_tokens": 6760,
+  "output_tokens": 2234,
+  "status": "ok"
+}

@@ -1,0 +1,171 @@
+{
+  "batch_idx": 4,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0004.tlg001.perseus-eng2::80",
+    "tlg0004.tlg001.perseus-eng2::81",
+    "tlg0004.tlg001.perseus-eng2::82",
+    "tlg0004.tlg001.perseus-eng2::83",
+    "tlg0004.tlg001.perseus-eng2::84",
+    "tlg0004.tlg001.perseus-eng2::85",
+    "tlg0004.tlg001.perseus-eng2::86",
+    "tlg0004.tlg001.perseus-eng2::87",
+    "tlg0004.tlg001.perseus-eng2::88",
+    "tlg0004.tlg001.perseus-eng2::89",
+    "tlg0004.tlg001.perseus-eng2::90",
+    "tlg0004.tlg001.perseus-eng2::91",
+    "tlg0004.tlg001.perseus-eng2::92",
+    "tlg0004.tlg001.perseus-eng2::93",
+    "tlg0004.tlg001.perseus-eng2::94",
+    "tlg0004.tlg001.perseus-eng2::95",
+    "tlg0004.tlg001.perseus-eng2::96",
+    "tlg0004.tlg001.perseus-eng2::97",
+    "tlg0004.tlg001.perseus-eng2::98",
+    "tlg0004.tlg001.perseus-eng2::99"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Classical Greece",
+      "rule_polity_reasoning": "The rule describes a philosophical doctrine of Antisthenes, founder of the Cynic school in Athens.",
+      "rule_date": -390,
+      "rule_time_reasoning": "Antisthenes flourished around -390; this doctrine was part of his contemporary teaching in Athens."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Sinope",
+      "rule_polity_reasoning": "The verbatim explicitly names Sinope as the location where Diogenes and his father Hicesius managed the state coinage.",
+      "rule_date": -350,
+      "rule_time_reasoning": "Diogenes' father was a banker in Sinope in the mid-4th century BCE; he was exiled for this act around -350."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Sinope",
+      "rule_polity_reasoning": "The event refers to the legal consequences of debasing currency in Diogenes' home city of Sinope.",
+      "rule_date": -350,
+      "rule_time_reasoning": "This matches the historical date of Diogenes' exile from Sinope for the currency scandal."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Corinth",
+      "rule_polity_reasoning": "The verbatim specifies that the slave Diogenes was purchased by Xeniades and resided in Xeniades' house, which was in Corinth.",
+      "rule_date": -340,
+      "rule_time_reasoning": "Diogenes was captured by pirates and sold to Xeniades in Corinth during the mid-4th century BCE."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Corinth",
+      "rule_polity_reasoning": "The training is performed by Diogenes in the household of Xeniades, located in Corinth.",
+      "rule_date": -340,
+      "rule_time_reasoning": "This reflects the period of Diogenes' life as a slave and tutor in Corinth."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Classical Greece",
+      "rule_polity_reasoning": "This is a general social observation by Diogenes of Sinope regarding Greek social stratification.",
+      "rule_date": -350,
+      "rule_time_reasoning": "Dated to the floruit of Diogenes of Sinope, who used this anecdote to critique contemporary social norms."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim refers to Athenians urging Diogenes to be initiated, clearly referencing the Eleusinian Mysteries in Athens.",
+      "rule_date": -340,
+      "rule_time_reasoning": "Diogenes visited Athens frequently during the mid-4th century BCE when these initiation beliefs were a standard civic norm."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Classical Greece",
+      "rule_polity_reasoning": "The context refers to a general Greek legal system involving disputing lawyers, as observed by Diogenes.",
+      "rule_date": -350,
+      "rule_time_reasoning": "Dated to Diogenes' active philosophical life in Athens and Corinth."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Classical Greece",
+      "rule_polity_reasoning": "This is a Cynic philosophical proposal meant as a critique of existing Greek marriage and property laws.",
+      "rule_date": -350,
+      "rule_time_reasoning": "Dated to the midpoint of Diogenes of Sinope's philosophical career."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Corinth",
+      "rule_polity_reasoning": "The verbatim explicitly places this household administration in Corinth in the house of Xeniades.",
+      "rule_date": -340,
+      "rule_time_reasoning": "Diogenes' service to Xeniades in Corinth is historically placed in the mid-4th century BCE."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Corinth",
+      "rule_polity_reasoning": "The verbatim identifies Monimus's master as a Corinthian banker.",
+      "rule_date": -330,
+      "rule_time_reasoning": "Monimus became a pupil of Diogenes and Crates in the late 4th century BCE."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Thebes",
+      "rule_polity_reasoning": "Crates of Thebes distributed his wealth among his fellow citizens of Thebes before adopting Cynicism.",
+      "rule_date": -325,
+      "rule_time_reasoning": "Crates renounced his fortune and turned to philosophy in roughly -325."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Thebes",
+      "rule_polity_reasoning": "The mention of 'cadet service' (ephebeia) for Crates' son refers to the citizen obligations in a Greek polis, likely Thebes or Athens where he lived.",
+      "rule_date": -300,
+      "rule_time_reasoning": "Dated to the time Crates' son would have reached adulthood in the late 4th/early 3rd century BCE."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Hellenistic Thrace",
+      "rule_polity_reasoning": "The verbatim specifies the banquet was given by Lysimachus, a successor of Alexander who ruled Thrace and parts of Asia Minor.",
+      "rule_date": -300,
+      "rule_time_reasoning": "Lysimachus reigned as king between -306 and -281; this event occurs during his rule."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Thebes",
+      "rule_polity_reasoning": "The verbatim explicitly states that Menippus 'succeeded in becoming a Theban' despite his slave origin.",
+      "rule_date": -270,
+      "rule_time_reasoning": "Menippus flourished in the early 3rd century BCE."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Thebes",
+      "rule_polity_reasoning": "The passage describes Menippus's activities (lending) and status in his adopted city, Thebes.",
+      "rule_date": -270,
+      "rule_time_reasoning": "Menippus practiced his particular brand of philosophical cynicism and money-lending in the early 3rd century BCE."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Hellenistic Athens",
+      "rule_polity_reasoning": "The verbatim explicitly names the 'people of Athens' and their award of the city keys to Zeno.",
+      "rule_date": -262,
+      "rule_time_reasoning": "The decree honoring Zeno of Citium was passed by the Athenians shortly before his death in -262."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Hellenistic Athens",
+      "rule_polity_reasoning": "The decree is a specific legislative act of the Athenian people following the death of Zeno.",
+      "rule_date": -262,
+      "rule_time_reasoning": "The public funeral and decree following Zeno's death in Athens are dated to -262."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Hellenistic Athens",
+      "rule_polity_reasoning": "Zeno of Citium lived and taught in Athens, where this household interaction occurred.",
+      "rule_date": -300,
+      "rule_time_reasoning": "Dated to the early period of Zeno's establishment of the Stoic school in Athens."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Hellenistic Greece",
+      "rule_polity_reasoning": "This is a core political precept of the Stoic school, formulated by Chrysippus.",
+      "rule_date": -230,
+      "rule_time_reasoning": "Chrysippus, the third head of the Stoa, flourished around -230."
+    }
+  ],
+  "input_tokens": 7739,
+  "output_tokens": 2092,
+  "status": "ok"
+}

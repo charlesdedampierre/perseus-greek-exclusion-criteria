@@ -1,0 +1,141 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to impartial hearing",
+      "group": "Litigants",
+      "resource": "Right to an impartial hearing",
+      "directionality": "MORE",
+      "verbatim": [
+        "May the gods so inspire you that the temper with which you listen to my words shall be guided, not by my adversary— that would be monstrous indeed!— but by the laws and by the judicial oath, by whose terms among other obligations you are sworn to give to both sides an impartial hearing. The purpose of that oath is, not only that you shall discard all prejudice, not only that you shall show equal favor, but also that you shall permit every litigant to dispose and arrange his topics of defence according to his own discretion and judgement."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes refers to the standard judicial oath and laws of Athens which mandate that the jury provides an equal and impartial hearing to both sides in a trial, allowing the defendant to arrange their own defense.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Prohibition of crowning during audit",
+      "group": "Magistrates",
+      "resource": "Eligibility for public honors during audit",
+      "directionality": "LESS",
+      "verbatim": [
+        "all these proposals being false and unconstitutional, inasmuch as the laws forbid, first, the entry of false statements in the public records; secondly, the crowning of one liable to audit (now Demosthenes is Commissioner of Fortifications and a trustee of the Theatrical Fund); thirdly, the proclamation of the crown in the Theatre at the Dionysia the day of the new tragedies"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text cites the specific Athenian law that prohibits a citizen holding office (and thus liable to a financial audit or 'euthynai') from being awarded a crown until the audit is completed.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Regulation of crown proclamations",
+      "group": "Citizens",
+      "resource": "Right to theater proclamation of honors",
+      "directionality": "LESS",
+      "verbatim": [
+        "In cases where crowns are bestowed by any of the townships, the proclamation of the crown shall be made within the respective townships, unless the crown is bestowed by the People of Athens or by the Council, in which case it shall be lawful to proclaim it in the Theatre at the Dionysia."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law distinguishes where public honors can be announced; local township honors are restricted to the township, while state-level honors have the privilege of being proclaimed in the Great Theatre.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Proportional naval service assessment",
+      "group": "The wealthy",
+      "resource": "Exemption from excessive naval costs",
+      "directionality": "LESS",
+      "verbatim": [
+        "The trierarchs to be chosen according to the assessment of their property at ten talents to a trireme; if the property be assessed above that sum, the public service shall be fixed proportionately up to three triremes and a tender. The same proportion shall be observed where those whose property is under ten talents form a syndicate to make up that sum."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This describes the 'Trierarchic Law' introduced by Demosthenes, which changed the resource allocation for naval defense from fixed groups to a system where the wealthy paid in direct proportion to their property assessment.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Poor relief from trierarchy",
+      "group": "The poor",
+      "resource": "Protection from naval financing burdens",
+      "directionality": "MORE",
+      "verbatim": [
+        "I made a statute under which I compelled the wealthy to take their fair share of expense, stopped the oppression of the poor, and, by a measure of great public benefit, caused your naval preparations to be made in good time. ... Under the former statutes they might discharge their public services in groups of sixteen, spending little or nothing themselves, but grinding down the needy citizens"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law reformed the trierarchy to ensure that citizens with moderate or small means were no longer financially ruined by sharing the same burden as the very wealthy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Mandatory urban relocation during war",
+      "group": "Citizens",
+      "resource": "Right to reside in the countryside",
+      "directionality": "LESS",
+      "verbatim": [
+        "Callisthenes, son of Eteonicus of Phalerum, proposed that no Athenian be allowed upon any pretext whatsoever to pass the night in the country, but only in the City and Peiraeus, except those stationed in the garrison; ... All property in the country shall be immediately removed, if within a radius of 120 furlongs, to the City and Peiraeus; if outside this radius, to Eleusis, Phyle, Aphidna, Rhamnus, or Sunium."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Following the Phocian crisis, a decree was passed forcing all citizens to abandon their rural estates and move within the city walls or designated fortresses for security.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Enslavement of conquered populations",
+      "group": "Conquered foreigners",
+      "resource": "Protection from enslavement",
+      "directionality": "LESS",
+      "verbatim": [
+        "Those that did not obey we have stormed and razed to the ground, selling the inhabitants into slavery. ... seeing Greek states outraged or wiped out, they consider it a scandal and unworthy of the reputation of their ancestors to suffer the Greeks to be enslaved"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text documents the practice of Macedonian and Greek warfare where the inhabitants of conquered cities (specifically Phocians and other Greeks) were sold into slavery as a consequence of military defeat.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Immunity for private donations",
+      "group": "Public benefactors",
+      "resource": "Protection from audit for gifts",
+      "directionality": "MORE",
+      "verbatim": [
+        "but for the donations that I promised and gave at my own expense I do say that I am not accountable at any time— you hear that, Aeschines—nor is any other man, though he be one of the nine archons. Is there any law so compact of iniquity and illiberality that, when a man out of sheer generosity has given away his own money, it defrauds him of the gratitude he has earned, drags him before a set of prying informers, and gives them authority to hold an audit of his free donations? There is no such law."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes argues that while official funds are subject to audit (euthynai), a citizen's private donations to the state are legally exempt from such prying and do not require a formal accounting before receiving thanks.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg018.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "On the Crown",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 42189,
+  "_output_tokens": 1852,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

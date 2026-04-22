@@ -1,0 +1,77 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Citizens",
+      "resource": "Right to vote in the Ekklesia",
+      "directionality": "MORE",
+      "verbatim": [
+        "For they have found by experiment that, whenever they and their speeches seem likely to induce you to give your votes against justice, they easily obtain money from the guilty parties."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the Athenian citizens' (addressed as men of Athens/jurymen) power to cast votes in judicial and state matters, a core right of citizenship in this period.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Juryman daily stipend",
+      "group": "Citizens",
+      "resource": "Right to receive state stipends",
+      "directionality": "MORE",
+      "verbatim": [
+        "that, unless you make the convictions that they demand, your stipends will not be forthcoming. The allusion is to the three obols paid daily to each juryman."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage highlights the contemporary practice of paying Athenian citizens a daily wage (the triobolon) for serving as jurors, presented as a material resource they depend on.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Public official accountability",
+      "group": "Public officials",
+      "resource": "Protection from capital punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "Hence if you acquit these men, they will think that there is nothing to fear from deceiving you and making a profit at your expense; but if you condemn them, and sentence them to death, by that same vote you will make the rest more orderly than they are now"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes the legal reality where envoys and administrators (envoys and state administrators) are subject to trials and can be sentenced to death for corruption (taking bribes), meaning they lack absolute immunity/protection.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "The wealthy",
+      "resource": "Exemption from public financing of spectacles",
+      "directionality": "LESS",
+      "verbatim": [
+        "And here we have come to such a pass that those who formerly, in the period of peace, were unable even to support themselves, are now contributing to your special levies, producing dramas and dwelling in great houses."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the 'production of dramas' (choregia), a specific liturgy or public service that wealthy inhabitants were legally required to fund in Athens.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0540.tlg027.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "Against Epicrates and his Fellow-envoys",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4318,
+  "_output_tokens": 755,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

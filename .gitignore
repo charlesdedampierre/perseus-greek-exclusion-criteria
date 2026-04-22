@@ -3,6 +3,16 @@
 .env.*
 !.env.example
 
+# Personal helper
+/exploring_interface
+gemini_api.md
+run_explorer.py
+MODEL.md
+science_repo.md
+legacy_data/
+canonical-greekLit/
+
+
 # Python
 __pycache__/
 *.pyc
@@ -29,6 +39,7 @@ data/llm_results/classify_work_polity_run.log
 
 # Heavy raw corpus (reproducible from extract_perseus.py on Perseus XML)
 data/full_text/
+data/full-text-data/
 
 # Third-party Perseus Digital Library repository (774 MB, clone separately
 # from https://github.com/PerseusDL/canonical-greekLit)

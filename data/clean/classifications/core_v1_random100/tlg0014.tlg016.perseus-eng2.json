@@ -1,0 +1,45 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Citizens",
+      "resource": "Right to vote in the Ekklesia",
+      "directionality": "MORE",
+      "verbatim": [
+        "that is the task of men who claim to offer advice in this Assembly. As it is, apart from the fact that they were known persons and spoke Attic, I think myself that many would have taken them for Arcadians or Laconians. But I see how difficult it is to recommend the wisest course, because, when you share the delusions of your advisers, some wanting this and others that, anyone who attempts to suggest a middle course and finds you too impatient to be instructed, will please neither party and will be discredited with both."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes is addressing the Athenian Assembly (Ekklesia), where the right to offer advice and vote on policy is a fundamental resource reserved for citizens. He contrasts the speakers (who are citizens) with the foreign ambassadors (Arcadians and Laconians) to whom the right of deliberative participation in the assembly does not belong.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Diplomatic representation of the state",
+      "group": "Citizens",
+      "resource": "Access to political influence",
+      "directionality": "MORE",
+      "verbatim": [
+        "Both sides seem to be in error, men of Athens, both those who have spoken in favor of the Arcadians and those who have done the same for the Lacedaemonians; for, just as though they had come from one or other of those states and were not citizens of Athens, to which both embassies are addressed, they are indulging in mutual abuse and recrimination."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that the privilege of speaking as a representative or advisor to the Athenian people is restricted to citizens. Foreigners (the embassies) are the recipients of the address or the objects of the debate, but only citizens can take the floor to argue for the interest of the city.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg016.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "For the People of Megalopolis",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6449,
+  "_output_tokens": 538,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

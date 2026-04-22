@@ -1,0 +1,171 @@
+{
+  "batch_idx": 12,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0007.tlg080.perseus-eng3::2",
+    "tlg0007.tlg080.perseus-eng3::3",
+    "tlg0007.tlg082.perseus-eng3::0",
+    "tlg0007.tlg082.perseus-eng3::1",
+    "tlg0007.tlg082.perseus-eng3::2",
+    "tlg0007.tlg082.perseus-eng3::3",
+    "tlg0007.tlg082.perseus-eng3::4",
+    "tlg0007.tlg082.perseus-eng3::5",
+    "tlg0007.tlg082.perseus-eng3::6",
+    "tlg0007.tlg082.perseus-eng3::7",
+    "tlg0007.tlg082.perseus-eng3::8",
+    "tlg0007.tlg082b.perseus-eng2::0",
+    "tlg0007.tlg082b.perseus-eng2::1",
+    "tlg0007.tlg082b.perseus-eng2::2",
+    "tlg0007.tlg082b.perseus-eng2::3",
+    "tlg0007.tlg082b.perseus-eng2::4",
+    "tlg0007.tlg082b.perseus-eng2::5",
+    "tlg0007.tlg088.perseus-eng3::0",
+    "tlg0007.tlg088.perseus-eng3::1",
+    "tlg0007.tlg088.perseus-eng3::2"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Plutarch writes from the context of the Roman Empire, using social categories like 'the poor' and 'office holders' applicable to his contemporary society.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Dated to Plutarch's floruit (c. 100 CE), as the work is an ethical essay reflecting his contemporary social observations."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The reference to Gaul as a place of earthquakes suggests a Roman imperial geographical perspective and social observation.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Dated to Plutarch's floruit (c. 100 CE), reflecting contemporary philosophical and social discourse."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "The verbatim names Agesilaus, a 4th-century BCE Spartan king, placing the rule within the Classical Spartan polity.",
+      "rule_date": -396,
+      "rule_time_reasoning": "Agesilaus II began his Persian campaign in -396, which is the specific historical anchor for this negotiation with Tissaphernes."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "The rule describes the interaction between a Spartan king (Agesilaus) and Helots (Spartan state slaves).",
+      "rule_date": -394,
+      "rule_time_reasoning": "Agesilaus II reigned from c. -400 to -360; -394 represents a midpoint of his most active military career when such interactions occurred."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "Describes the specific Spartan legal prohibition against citizens practicing crafts, a hallmark of the Spartan 'homoioi' system.",
+      "rule_date": -500,
+      "rule_time_reasoning": "Midpoint of the work's past-referring span and the height of the classical Lycurgan system."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "References the dependence of the Spartan economy and military freedom on Helot agricultural labor.",
+      "rule_date": -500,
+      "rule_time_reasoning": "Representing the height of the classical Spartan social order where Helot labor was the economic foundation."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Archaic Sparta",
+      "rule_polity_reasoning": "Teleclus was an early Agid king of Sparta, making this an Archaic-era rule.",
+      "rule_date": -750,
+      "rule_time_reasoning": "Teleclus is traditionally dated to the mid-8th century BCE; -750 serves as a representative year for his reign."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Archaic Sparta",
+      "rule_polity_reasoning": "The verbatim attributes the institution of female physical training to Lycurgus, the legendary Spartan lawgiver.",
+      "rule_date": -800,
+      "rule_time_reasoning": "Lycurgus's reforms are traditionally dated to the early 8th or 9th century BCE; -800 is the start of the work's span."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Archaic Sparta",
+      "rule_polity_reasoning": "The abolition of gold and silver in favor of iron is a specific reform attributed to Lycurgus.",
+      "rule_date": -800,
+      "rule_time_reasoning": "Anchored to the traditional date of the Lycurgan reforms at the start of the work's chronological span."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "Lysander was a prominent Spartan general at the end of the Peloponnesian War, operating within the Classical Spartan polity.",
+      "rule_date": -403,
+      "rule_time_reasoning": "Lysander's political influence and schemes for reform peaked following the defeat of Athens in -404."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Archaic Sparta",
+      "rule_polity_reasoning": "Land redistribution is a core component of the Lycurgan reforms within the Archaic Spartan system.",
+      "rule_date": -800,
+      "rule_time_reasoning": "Consistent with the legendary founding of the Spartan constitution by Lycurgus."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Archaic Sparta",
+      "rule_polity_reasoning": "Gorgo and King Cleomenes I (her father) belong to the late Archaic period (around the time of the Persian Wars).",
+      "rule_date": -499,
+      "rule_time_reasoning": "The visit of Aristagoras to Sparta to request aid for the Ionian Revolt occurred in approximately -499."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "The dialogue concerns the unique social status of Spartan women compared to Attic (Athenian) women during the Classical period.",
+      "rule_date": -450,
+      "rule_time_reasoning": "Reflects the midpoint of the classical era when the contrast between Spartan and Athenian gender norms was most cited."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "The event involves Leonidas I and Gorgo immediately preceding the Battle of Thermopylae.",
+      "rule_date": -480,
+      "rule_time_reasoning": "-480 is the year Leonidas departed for and died at Thermopylae."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "The rule describes the enforcement of Spartan military honor codes (cowardice laws) by family members.",
+      "rule_date": -450,
+      "rule_time_reasoning": "Midpoint of the work's span, representing the peak period of documented rigorous Spartan traditionalism."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "Describes the patriarchal guardianship system (kyrieia) characteristic of Spartan social structure.",
+      "rule_date": -450,
+      "rule_time_reasoning": "Midpoint of the work's timeframe documenting traditional Spartan social norms."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Classical Sparta",
+      "rule_polity_reasoning": "The verbatim refers to a woman being sold as a slave (likely during a period of war or upheaval involving Spartans).",
+      "rule_date": -450,
+      "rule_time_reasoning": "Midpoint of the work's timeframe for Spartan women's sayings."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim explicitly names the Athenians and the Areopagus, a central political body of Athens.",
+      "rule_date": -406,
+      "rule_time_reasoning": "Midpoint of the work's span which focuses on the 5th and 4th centuries BCE."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The choregia was a specific religious and social liturgy (tax) unique to democratic Athens.",
+      "rule_date": -406,
+      "rule_time_reasoning": "Midpoint of the work's focus period on the golden age and military history of Athens."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Public burial was a specific honor in Athens (the Demosion Sema) for those who died for the city.",
+      "rule_date": -406,
+      "rule_time_reasoning": "Midpoint of the period -490 to -322 specified for the work's historical focus."
+    }
+  ],
+  "input_tokens": 7719,
+  "output_tokens": 2148,
+  "status": "ok"
+}

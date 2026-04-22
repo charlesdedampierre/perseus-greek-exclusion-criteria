@@ -1,0 +1,229 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to propose legislation",
+      "group": "Citizens",
+      "resource": "Right to bring bills to the senate",
+      "directionality": "MORE",
+      "verbatim": [
+        "Apollodorus, being one of its members, brought forward in the senate a bill, and carried it as a preliminary decree to the assembly, proposing that the people should decide whether the funds remaining over from the state’s expenditure should be used for military purposes or for public spectacles."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes Apollodorus, a citizen and senator, exercising the legal right to propose a decree. This was a specific political resource tied to citizen status and selection for the senate.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy and war tax obligation",
+      "group": "The wealthy",
+      "resource": "Exemption from state military financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "For the laws prescribed that, when there was war, the funds remaining over from state expenditures should be devoted to military purposes, and Apollodorus believed that the people ought to have power to do what they pleased with their own."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explains the legal requirement that state surplus (theoric funds) be diverted to military needs during war, which directly relates to how the wealthy/state managed financial resources for public defense.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Disfranchisement for state debt",
+      "group": "State debtors",
+      "resource": "Possession of civic rights",
+      "directionality": "LESS",
+      "verbatim": [
+        "He would not listen to us, but fixed the fine at fifteen talents in order to deprive Apollodorus and his children of their civic rights, and to bring my sister and all of us into extremest distress and utter destitution. For the property of Apollodorus did not amount to as much as three talents to enable him to pay in full a fine of such magnitude, yet if it were not paid by the ninth prytany the fine would have been doubled and Apollodorus would have been inscribed as owing thirty talents to the treasury, all the property that he has would have been scheduled as belonging to the state."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Under Athenian law, a person who owed a debt to the treasury was stripped of their 'atimia' (civic rights) and their property was liable for confiscation. This is a clear legal rule where the resource of civic standing is lost based on the criterion of debt status.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Illegal marriage of aliens",
+      "group": "Aliens",
+      "resource": "Right to marry Athenian citizens",
+      "directionality": "LESS",
+      "verbatim": [
+        "If an alien shall live as husband with an Athenian woman in any way or manner whatsoever, he may be indicted before the Thesmothetae by anyone who chooses to do so from among the Athenians having the right to bring charges. And if he be convicted, he shall be sold, himself and his property, and the third part shall belong to the one securing his conviction. The same principle shall hold also if an alien woman shall live as wife with an Athenian, and the Athenian who lives as husband with the alien woman so convicted shall be fined one thousand drachmae."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The verbatim explicitly cites the statute (The Law) forbidding 'sunoikein' (living as husband/wife) between aliens and citizens, providing for the enslavement of the alien and a fine for the citizen.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender",
+        "Freedom"
+      ],
+      "rule": "Slave status of children",
+      "group": "Slaves",
+      "resource": "Right to personal freedom",
+      "directionality": "LESS",
+      "verbatim": [
+        "There were these seven girls who were purchased while they were small children by Nicaretê, who was the freedwoman of Charisius the Elean and the wife of his cook Hippias. ... She called them by the name of daughters in order that, by giving out that they were free women, she might exact the largest fees from those who wished to enjoy them. When she had reaped the profit of the youthful prime of each, she sold them, all seven, without omitting one"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that individuals born or purchased into slavery (the girls) are treated as property (chattel) and have no right to freedom or self-determination, contrasted with the 'lie' of being free daughters.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Requirement for alien patron",
+      "group": "Aliens",
+      "resource": "Right to legal personhood",
+      "directionality": "LESS",
+      "verbatim": [
+        "as she was eager to live at Athens, but was afraid of Phrynion because she had wronged him and he was bitter against her, and she knew he was a man of violent and reckless temper, she took Stephanus here for her patron."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Aliens in Athens (Metics) were legally required to have a 'prostates' (citizen patron) to act on their behalf in legal matters, demonstrating that non-citizens did not have independent access to judicial resources.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "rule": "Protection from unlawful citizen claims",
+      "group": "Freedom claimants",
+      "resource": "Protection from arbitrary enslavement",
+      "directionality": "MORE",
+      "verbatim": [
+        "When Stephanus took her away from him, as the law allowed, declaring her to be a free woman, Phrynion required her to post bonds with the polemarch. ... the sureties of Neaera were Stephanus of Eroeadae, Glaucetes of Cephisia, and Aristocrates of Phalerum."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law of 'aphairesis eis eleutherian' allowed a citizen to assert that someone was free; the claimant then had to post bond with the polemarch. This provided a legal resource to protect individuals from being seized as slaves without trial.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Dowry return upon divorce",
+      "group": "Wives",
+      "resource": "Right to return of dowry",
+      "directionality": "MORE",
+      "verbatim": [
+        "in accordance with the law which enacts that, if a man puts away his wife, he must pay back the marriage portion or else pay interest on it at the rate of nine obols a month for each mina; and that on the woman’s behalf her guardian may sue him for alimony in the Odeum."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This is a standard civil law in Athens: a husband who divorces his wife must return her dowry to her guardian (kurios) or pay a high interest rate, protecting the woman's family's assets.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Fraudulent marriage of aliens",
+      "group": "Aliens",
+      "resource": "Access to citizen marriage",
+      "directionality": "LESS",
+      "verbatim": [
+        "If anyone shall give an alien woman in marriage to an Athenian man, representing her as being related to himself, he shall lose his civic rights and his property shall be confiscated, and a third part of it shall belong to the one who secures his conviction. And anyone entitled to do so may indict such a person before the Thesmothetae."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This specific law serves to protect the purity of the citizen body by heavily penalizing anyone who attempts to introduce an alien woman into a citizen marriage under false pretenses of lineage.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Queenly requirement for Athenian birth",
+      "group": "Wife of the King-Archon",
+      "resource": "Eligibility for priestly office (Basilissa)",
+      "directionality": "MORE",
+      "verbatim": [
+        "they established a law that his wife should be of Athenian birth, and that he should marry a virgin who had never known another man, to the end that after the custom of our fathers the sacred rites that none may name may be celebrated on the city’s behalf"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The most sacred religious rites performed by the Basilissa (wife of the King-Archon) were strictly reserved for women who were both citizens by birth and virgins at marriage.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Exclusion of adulteresses from sacrifice",
+      "group": "Adulterous women",
+      "resource": "Access to public sacrifices",
+      "directionality": "LESS",
+      "verbatim": [
+        "it shall not be lawful for the woman who is taken in adultery to attend public sacrifices; and if she does attend them, she may be made to suffer any punishment whatsoever, short of death, and that with impunity."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law explicitly strips women convicted of adultery of the right to attend public religious festivals, even allowing for summary physical punishment if they violate the ban.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Restricted office for new citizens",
+      "group": "Naturalized citizens",
+      "resource": "Eligibility for archonship and priesthoods",
+      "directionality": "LESS",
+      "verbatim": [
+        "For in the case of all those whom the Athenian people may make citizens, the law expressly forbids that they should be eligible to the office of the nine archons or to hold any priesthood; but their descendants are allowed by the people to share in all civic rights, though the proviso is added: if they are born from an Athenian woman who was betrothed according to the law."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Even when citizenship is granted by decree (naturalization), the first-generation recipient is legally barred from high magistracies and priesthoods, which are reserved for those of citizen lineage.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Judicial torture of slaves",
+      "group": "Slaves",
+      "resource": "Protection from corporal torture",
+      "directionality": "LESS",
+      "verbatim": [
+        "I proposed that he should deliver up for the torture the women-servants, Thratta and Coccalinê... Apollodorus is ready to receive for examination by the torture the women-servants of Neaera... if the women had been injured in any way as a result of the torture, to pay for the injuries sustained."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The 'basanos' rule in Athenian law allowed (and often required) slaves to be tortured as a method of extracting legal testimony, demonstrating that slaves lacked protection from physical violence in judicial contexts.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0014.tlg059.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Apollodorus Against Neaera",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 22487,
+  "_output_tokens": 2951,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

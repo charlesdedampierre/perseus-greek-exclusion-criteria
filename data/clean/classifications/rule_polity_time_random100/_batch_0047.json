@@ -1,0 +1,59 @@
+{
+  "batch_idx": 47,
+  "n_rules": 6,
+  "rule_uids": [
+    "tlg1271.tlg001.perseus-eng1::25",
+    "tlg1622.tlg001.perseus-eng1::0",
+    "tlg1622.tlg001.perseus-eng1::1",
+    "tlg1622.tlg001.perseus-eng1::2",
+    "tlg1622.tlg001.perseus-eng1::3",
+    "tlg1622.tlg001.perseus-eng1::4"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Clement of Rome writes from the city of Rome, and while the claim is universal/religious, it reflects the social and legal hierarchy of the early Roman Christian community under the Empire.",
+      "rule_date": 96,
+      "rule_time_reasoning": "Dated to the traditionally accepted date of Clement's letter near the end of the reign of Domitian, around 96 CE."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Early Christian Community",
+      "rule_polity_reasoning": "The rule governs the social and moral conduct of members within the specific proto-ecclesiastical community addressed by Polycarp.",
+      "rule_date": 110,
+      "rule_time_reasoning": "Polycarp's letter to the Philippians is generally dated to the early 2nd century, approximately 110 CE, during his floruit."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Early Christian Community",
+      "rule_polity_reasoning": "The rule establishes an internal ecclesiastical hierarchy between age groups and church offices within the Christian polity.",
+      "rule_date": 110,
+      "rule_time_reasoning": "Dated to the floruit of Polycarp and the estimated composition of his letter to the Philippians, circa 110 CE."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Early Christian Community",
+      "rule_polity_reasoning": "As an instruction for church officers (presbyters), this is an internal administrative and moral rule for the Christian community.",
+      "rule_date": 110,
+      "rule_time_reasoning": "Stated by Polycarp in his correspondence with the Philippians, dated to approximately 110 CE."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Early Christian Community",
+      "rule_polity_reasoning": "This rule defines the ethical and financial restrictions placed on the office of deacon within the early church structure.",
+      "rule_date": 110,
+      "rule_time_reasoning": "Written during Polycarp's active leadership in the early 2nd century, commonly assigned to 110 CE."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Early Christian Community",
+      "rule_polity_reasoning": "The rule defines the boundaries of communal belonging and identifies those to be excluded based on doctrinal deviation.",
+      "rule_date": 110,
+      "rule_time_reasoning": "Anchored to the date of Polycarp's letter to the Philippians (c. 110 CE) where he defines these criteria for exclusion."
+    }
+  ],
+  "input_tokens": 2802,
+  "output_tokens": 684,
+  "status": "ok"
+}

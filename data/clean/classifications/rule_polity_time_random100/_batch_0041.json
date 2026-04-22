@@ -1,0 +1,191 @@
+{
+  "batch_idx": 41,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0062.tlg045.perseus-eng2::16",
+    "tlg0062.tlg046.perseus-eng2::0",
+    "tlg0062.tlg046.perseus-eng2::1",
+    "tlg0062.tlg046.perseus-eng2::2",
+    "tlg0062.tlg046.perseus-eng2::3",
+    "tlg0062.tlg046.perseus-eng2::4",
+    "tlg0062.tlg046.perseus-eng2::5",
+    "tlg0062.tlg046.perseus-eng2::6",
+    "tlg0062.tlg046.perseus-eng2::7",
+    "tlg0062.tlg057.perseus-eng3::0",
+    "tlg0062.tlg057.perseus-eng3::1",
+    "tlg0062.tlg059.perseus-eng3::0",
+    "tlg0062.tlg059.perseus-eng3::1",
+    "tlg0062.tlg059.perseus-eng3::2",
+    "tlg0062.tlg062.perseus-eng3::0",
+    "tlg0062.tlg062.perseus-eng3::1",
+    "tlg0062.tlg062.perseus-eng3::2",
+    "tlg0062.tlg062.perseus-eng3::3",
+    "tlg0535.tlg001.perseus-eng2::0",
+    "tlg0535.tlg001.perseus-eng2::1"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Lucian describes a social environment with senators and ex-consuls, which are distinctive institutions of the Roman imperial state during his lifetime.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Dated to the floruit of Lucian (c. 125–180 CE), who writes about contemporary social breaches in Roman elite spaces.",
+      "rule": "Senatorial seating priority in theaters"
+    },
+    {
+      "i": 1,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The mention of strigils, bath-houses, and obols (as a unit of account) reflects the Greco-Roman urban culture of the 2nd century CE.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian is satirizing contemporary social affectations and slave-master dynamics during his floruit in the mid-2nd century CE.",
+      "rule": "Slave transport of bathing equipment"
+    },
+    {
+      "i": 2,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The Eleusinian Mysteries continued as a major religious institution of the Roman Empire, specifically within the province of Achaea.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian refers to the contemporary practice and legal protections surrounding the sacred anonymity of Eleusinian officials in the 2nd century CE.",
+      "rule": "Anonymity of Eleusinian initiates"
+    },
+    {
+      "i": 3,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The physical punishment of laborers and artisans is a characteristic feature of the stratified slave-holding society of the Roman East described by Lucian.",
+      "rule_date": 165,
+      "rule_time_reasoning": "The text reflects contemporary 2nd-century CE social conditions where low-status workers were subject to corporal discipline.",
+      "rule": "Slave retainment of physical integrity"
+    },
+    {
+      "i": 4,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The exercise of summary justice and physical restraint by local magistrates is consistent with provincial administration in the Roman Empire.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian describes the contemporary powers of local officials to detain and fine individuals during his own lifetime.",
+      "rule": "Magisterial punishment of suspects"
+    },
+    {
+      "i": 5,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The practice of erecting statues for athletic victors in city squares was a persistent feature of Greek civic life under Roman rule.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian mentions a specific statue in a contemporary square as a reference point for his audience in the 2nd century CE.",
+      "rule": "Champion commemorative statues"
+    },
+    {
+      "i": 6,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The curriculum of 'Second Sophistic' education (Thucydides, Plato, etc.) was the standard for elite social recognition in Lucian's world.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian is advising on contemporary 2nd-century CE educational standards required for elite literary status.",
+      "rule": "Elite literacy requirements"
+    },
+    {
+      "i": 7,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The description reflects the domestic and social norms of the Hellenized upper classes in the Roman Empire.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian describes the contemporary social treatment of women within elite households during his floruit.",
+      "rule": "Female seclusion during illness"
+    },
+    {
+      "i": 8,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "Linguistic and gendered social stigmas are described as features of the contemporary Greek-speaking society of the Roman East.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian critiques contemporary usage of derogatory gendered terms in the mid-2nd century CE.",
+      "rule": "Slatttern designation restricted to women"
+    },
+    {
+      "i": 9,
+      "rule_polity": "Classical Greece",
+      "rule_polity_reasoning": "Zeuxis was a famous Greek painter of the late 5th/early 4th century BCE; the rule describes norms of that era.",
+      "rule_date": -400,
+      "rule_time_reasoning": "The anecdote concerns the historical Zeuxis, active around 400 BCE, rather than Lucian's own time.",
+      "rule": "Artist control over work display"
+    },
+    {
+      "i": 10,
+      "rule_polity": "Seleucid Empire",
+      "rule_polity_reasoning": "The text explicitly names Antiochus and his Macedonian contingent, referring to the Hellenistic Seleucid state.",
+      "rule_date": -275,
+      "rule_time_reasoning": "The event refers to the 'Elephant Victory' of Antiochus I Soter, occurring around 275 BCE.",
+      "rule": "Macedonian soldier victory proclamation"
+    },
+    {
+      "i": 11,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The mention of an 'Emperor' paying salaries for provincial and military administrators clearly identifies the Roman imperial system.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian is discussing the contemporary 2nd-century CE reality of the Roman imperial civil service.",
+      "rule": "Salary for imperial administration"
+    },
+    {
+      "i": 12,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The professional practice of the Second Sophistic (sophists traveling to Gaul/the West for high fees) is a 2nd-century CE phenomenon.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian refers to his own professional career and the fees he commanded during the mid-2nd century CE.",
+      "rule": "Remuneration for public rhetoric"
+    },
+    {
+      "i": 13,
+      "rule_polity": "Roman Empire",
+      "rule_polity_reasoning": "The description of the Imperial cult (statues, temples, and shrines for the ruler) characterizes the Roman Empire.",
+      "rule_date": 165,
+      "rule_time_reasoning": "Lucian describes the contemporary mechanism of honoring a Roman Emperor during his lifetime.",
+      "rule": "Imperial reward for Emperors"
+    },
+    {
+      "i": 14,
+      "rule_polity": "Archaic Athens (Solonic)",
+      "rule_polity_reasoning": "The text refers to the era of Solon and the Scythian philosopher Anacharsis in ancient Athens.",
+      "rule_date": -594,
+      "rule_time_reasoning": "The verbatim anchors the rule to the life of Solon, who was Archon in -594 and associated with these legislative norms.",
+      "rule": "Barbarian exclusion from sacred mysteries"
+    },
+    {
+      "i": 15,
+      "rule_polity": "Archaic Athens (Solonic)",
+      "rule_polity_reasoning": "The narrative concerns Toxaris and the treatment of foreigners in Athens during the early 6th century BCE.",
+      "rule_date": -594,
+      "rule_time_reasoning": "Lucian describes an archaic Athenian setting contemporary with Solon (-594).",
+      "rule": "Foreigner exclusion from land ownership"
+    },
+    {
+      "i": 16,
+      "rule_polity": "Archaic Athens (Solonic)",
+      "rule_polity_reasoning": "Solon is explicitly mentioned as being employed to frame laws for the city of Athens.",
+      "rule_date": -594,
+      "rule_time_reasoning": "Refers to the legislative reforms of Solon in -594.",
+      "rule": "Citizen right to frame laws"
+    },
+    {
+      "i": 17,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text cites the examples of Solon, Pericles, and Aristides as the models for Athenian public oratory and nobility.",
+      "rule_date": -450,
+      "rule_time_reasoning": "The verbatim evokes the height of the Athenian democracy, taking a representative midpoint of the lives of Pericles and Aristides.",
+      "rule": "Aristocratic access to public oratory"
+    },
+    {
+      "i": 18,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Demades is an Athenian orator addressing the Athenian citizens during the late classical period.",
+      "rule_date": -330,
+      "rule_time_reasoning": "The rules are articulated by Demades during his political career in the late 4th century BCE, specifically around the era of Macedonian ascendancy.",
+      "rule": "Citizen assembly voting"
+    },
+    {
+      "i": 19,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Demades describes the norms of the Athenian platform (bema) and the practice of public orators in the assembly.",
+      "rule_date": -330,
+      "rule_time_reasoning": "Demades is documenting his own entry into and practice within Athenian public life in the late 4th century BCE.",
+      "rule": "Public platform free speech"
+    }
+  ],
+  "input_tokens": 5334,
+  "output_tokens": 2438,
+  "status": "ok"
+}

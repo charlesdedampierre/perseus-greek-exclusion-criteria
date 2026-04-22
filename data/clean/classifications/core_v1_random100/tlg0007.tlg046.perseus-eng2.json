@@ -1,0 +1,77 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Legitimate birth for Spartan kingship",
+      "group": "Eurypontidae",
+      "resource": "Eligibility for the kingship",
+      "directionality": "MORE",
+      "verbatim": [
+        "For even if Leotychides had been ten thousand times convicted of being bastard and alien, the family of the Eurypontidae could easily have furnished Sparta with a king who was of legitimate birth and sound of limb, had not Lysander darkened the meaning of the oracle in the interests of Agesilaüs."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific lineage group (Eurypontidae) and the requirement of legitimate birth to access the resource of the kingship, contrasting this with the 'bastardy' of Leotychides.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Health"
+      ],
+      "rule": "Physical soundness for Spartan kingship",
+      "group": "Eurypontidae",
+      "resource": "Eligibility for the kingship",
+      "directionality": "MORE",
+      "verbatim": [
+        "For even if Leotychides had been ten thousand times convicted of being bastard and alien, the family of the Eurypontidae could easily have furnished Sparta with a king who was of legitimate birth and sound of limb, had not Lysander darkened the meaning of the oracle in the interests of Agesilaüs."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch refers to a known Spartan religious/legal constraint (the 'lame sovereignty' oracle) requiring kings to be 'sound of limb' as a condition for the resource of kingship.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Protection from legal penalties (cowardice)",
+      "group": "Spartan citizens",
+      "resource": "Protection from legal consequences of cowardice",
+      "directionality": "MORE",
+      "verbatim": [
+        "On the other hand, when we consider the remedy which Agesilaüs applied to the perplexity of the state in dealing with those who had played the coward, after the disaster at Leuctra, when he urged that the laws should slumber for that day... But Agesilaüs, when he confronted the necessity of abrogating the laws in order to save his fellow-citizens, devised a way by which the citizens should not be harmed by the laws, nor the laws be abrogated to avoid such harm."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage describes a specific legal suspension (the laws 'slumbering') applied to the group of citizens who fled at Leuctra, granting them temporary protection from the standard legal penalties for cowardice.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen immunity from capture by fellow-citizens",
+      "group": "Roman citizens",
+      "resource": "Protection from treatment as prisoners of war",
+      "directionality": "LESS",
+      "verbatim": [
+        "But as it was, to the man for whom he thought it a terrible thing to prolong a term of military command or vote a consulship, to this man he gave the power of capturing the city and saying to Metellus that he considered him and all the rest of the citizens as his prisoners of war."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text highlights a breach of standard Roman norms where citizens (like Metellus) were treated as 'prisoners of war' by a fellow citizen (Caesar) due to Pompey's abandonment of the city.",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0007.tlg046.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Comparison of Agesilaus and Pompey",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5117,
+  "_output_tokens": 916,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

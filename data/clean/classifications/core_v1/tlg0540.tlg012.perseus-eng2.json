@@ -1,0 +1,273 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Resident alien property seizure",
+      "group": "Metics",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "Theognis and Peison stated before the Thirty that among the resident aliens that there might be some who were embittered against their administration, and that therefore they had an excellent pretext for appearing to punish while in reality making money; in any case, the State was impoverished, and the government needed funds. They had no difficulty in persuading their hearers, for those men thought nothing of putting people to death, but a great deal of getting money. So they resolved to seize ten, of whom two should be poor men, that they might face the rest with the excuse that the thing had not been done for the sake of money, but had been brought about in the interest of the State, just as if they had taken some ordinary reasonable action."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a policy decision by the ruling body (the Thirty) to systematically target resident aliens (metoiokoi) for arrest and property confiscation to fund the state, showing that this group lacked standard protections for their assets.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Resident alien execution without trial",
+      "group": "Metics",
+      "resource": "Right to a legal defense",
+      "directionality": "LESS",
+      "verbatim": [
+        "Polemarchus received from the Thirty their accustomed order to drink hemlock, with no statement made as to the reason for his execution: still less was he allowed to be tried and defend himself. . . Such was their reward to us for behaving as resident aliens far otherwise than they did as citizens!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lysias explicitly contrasts the treatment of his brother (a resident alien) with the expected standards for citizens, noting that the 'accustomed' practice under this regime for this group was summary execution without a trial or formal defense.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Resident alien burial restriction",
+      "group": "Metics",
+      "resource": "Right to funeral from home",
+      "directionality": "LESS",
+      "verbatim": [
+        "And when he was being brought away dead from the prison, although we had three houses amongst us, they did not permit his funeral to be conducted from any of them, but they hired a small hut in which to lay him out. We had plenty of cloaks, yet they refused our request of one for the funeral; but our friends gave either a cloak, or a pillow, or whatever each had to spare, for his interment."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text demonstrates that even when the group (resident aliens) owned property, they were denied the right to conduct a funeral from their own homes after execution, a significant loss of a religious/social resource.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Resident alien exclusion from council",
+      "group": "Metics",
+      "resource": "Right to attend council meetings",
+      "directionality": "LESS",
+      "verbatim": [
+        "For we were restricted, not merely from attending their councils, but even from staying at home; and thus they have the licence, after doing all possible evil to the city, to say all possible good about themselves."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lysias notes that as resident aliens, they were prohibited from participating in or even observing the councils where decisions regarding their lives and property were made.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen protection from burial denial",
+      "group": "Citizens",
+      "resource": "Right to burial",
+      "directionality": "MORE",
+      "verbatim": [
+        "For they sent many of the citizens into exile with the enemy; they unjustly put many of them to death, and then deprived them of burial; many who had full civic rights they excluded from the citizenship; and the daughters of many they debarred from in tended marriage."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "By listing 'deprivation of burial' as an 'unjust' and 'audacious' offense against citizens, the text implies a standard rule that citizens are normally entitled to burial rights.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Citizen daughter marriage rights",
+      "group": "Daughters of citizens",
+      "resource": "Right to intended marriage",
+      "directionality": "MORE",
+      "verbatim": [
+        "For they sent many of the citizens into exile with the enemy; they unjustly put many of them to death, and then deprived them of burial; many who had full civic rights they excluded from the citizenship; and the daughters of many they debarred from in tended marriage."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text lists debarring daughters of citizens from marriage as a violation of established norms/rules, implying that such a group normally possesses the right to complete their intended marriages.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen protection from execution without trial",
+      "group": "Citizens",
+      "resource": "Right to a legal trial",
+      "directionality": "MORE",
+      "verbatim": [
+        "and then, once established in power, admit that of their own free will they put to death many of the citizens without a trial,—if these men, I say, and their children are not to be visited by you with the extreme penalty of the law!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies the execution of citizens without a trial as a monstrous violation of established law and norms, implying that under the standard Athenian constitution, citizens possess the right to a legal trial before execution.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to defense arguments",
+      "group": "Citizens",
+      "resource": "Right to present character evidence in court",
+      "directionality": "MORE",
+      "verbatim": [
+        "And note that he cannot even resort to the expedient, so habitual among our citizens, of saying nothing to answer the counts of the accusation, but making other statements about themselves which at times deceive you; they represent to you that they are good soldiers, or have taken many vessels of the enemy while in command of war-ships"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lysias describes a standard legal practice ('habitual among our citizens') where defendants have the right to present their public services and military record as part of their defense in court to influence the jury.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "rule": "Collective execution of the wealthy",
+      "group": "Citizens",
+      "resource": "Protection from arbitrary mass execution",
+      "directionality": "LESS",
+      "verbatim": [
+        "But, instead of offering or bringing some aid to the men at Phyle, he went with his partners in power to Salamis and Eleusis, and haled to prison three hundred of the citizens, and by a single resolution condemned them all to death."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes an event where 300 citizens were executed by a single resolution under the Thirty. This highlights a break from the rule that individuals must be tried and sentenced separately, indicating that under this specific regime, the resource of individualized legal protection was removed.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to assembly deliberation",
+      "group": "Citizens",
+      "resource": "Right to participate in the Assembly",
+      "directionality": "LESS",
+      "verbatim": [
+        "Finally, gentlemen, he kept the Assembly from meeting until the moment mentioned by the enemy had been carefully watched for by him, and he had sent for Lysander’s ships from Samos, and the enemy’s forces were quartered in the town. And now, with matters thus arranged, and in the presence of Lysander, Philochares and Miltiades, they called the Assembly to a debate on the constitution, when no orator could either oppose them or awe them with threats, while you, instead of choosing the course most advantageous to the city, could only vote in favour of their views."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lysias describes how the historical reality of the Thirty Tyrants' rise involved the suspension of free assembly meetings and the coercion of voters, indicating that under this regime, citizens lost their standard right to free deliberation and choice in the Assembly.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen protection from execution without trial",
+      "group": "Citizens",
+      "resource": "Protection from execution without trial",
+      "directionality": "LESS",
+      "verbatim": [
+        "And whereas these men put people to death untried who were guilty of no wrong, you think fit to try according to law the persons who destroyed the city, and whose punishment by you, even if unlawfully devised, would still be inadequate to the wrongs that they have committed against the city. For what would they have to suffer, if their punishment should be adequate to their actions? If you put them and their children to death, should we sufficiently punish them for the murder of our fathers, sons and brothers whom they put to death untried?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text contrasts the standard legal expectation (trial according to law) with the practices of the Thirty, who executed citizens without any judicial process, thereby removing a fundamental protection of citizenship.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Citizen right to retain property",
+      "group": "Citizens",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "Or again, if you confiscated their material property, would this be compensation either to the city for all that they have taken from her, or to individuals for the houses that they pillaged?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lysias mentions the pillaging of houses as a general act of the regime, showing that the security of private property for citizens was suspended.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Religion"
+      ],
+      "rule": "Citizen right to customary burial",
+      "group": "Citizens",
+      "resource": "Right to customary burial",
+      "directionality": "LESS",
+      "verbatim": [
+        "and next, that you were formally banished from the city which your fathers bequeathed to you, and when you were in exile they demanded your persons from the various cities. In return you should feel the same anger as when you were exiles, and remember besides the other injuries that you suffered from these men, who with violent hands snatched some from the market-place, and some from the temples, and put them to death; while others they tore from their children, their parents and their wives, and compelled to self-slaughter, and then did not even allow them to be given the customary burial"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly states that the ruling power denied the dead the right to a customary burial, a standard religious and civic resource for citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to residency in the city",
+      "group": "Citizens",
+      "resource": "Right to reside in the city",
+      "directionality": "LESS",
+      "verbatim": [
+        "and next, that you were formally banished from the city which your fathers bequeathed to you, and when you were in exile they demanded your persons from the various cities."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the formal banishment of a large group of citizens (the Peiraeus party), indicating that their right to reside in their native city was revoked.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to bear arms",
+      "group": "Citizens",
+      "resource": "Right to possess and bear arms",
+      "directionality": "LESS",
+      "verbatim": [
+        "And all you of the Peiraeus party, remember first the matter of the arms,—how after fighting many battles on foreign soil you were deprived of your arms, not by the enemy, but by these men, in a time of peace"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The disarmament of the citizenry by the Thirty is highlighted as a specific deprivation of a resource (arms) usually held by the citizen body.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Children's protection from debt slavery",
+      "group": "Citizens",
+      "resource": "Protection from enslavement for debt",
+      "directionality": "LESS",
+      "verbatim": [
+        "Of your children, as many as were here would have been foully assaulted by these men, while those in foreign parts would have been enslaved for petty debts, cut off from all possible assistance."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text notes that in the absence of the city's protection (during exile or under the tyranny), the children of citizens were vulnerable to being enslaved for even small debts, a condition normally prevented by the city's laws.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0540.tlg012.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "Against Eratosthenes",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 3,
+  "_input_tokens": 18270,
+  "_output_tokens": 3520,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

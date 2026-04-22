@@ -1,0 +1,61 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Cultural exclusivity of Menander's theater",
+      "group": "The educated",
+      "resource": "Access to the gymnasium and physical training",
+      "directionality": "MORE",
+      "verbatim": [
+        "For what reason, in fact, is it truly worth while for an educated man to go to the theatre, except to enjoy Menander? And when else are theatres filled with men of learning, if a comic character has been brought upon the stage? i.e. when comedies are given only those of Menander draw the crowds of men of culture."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Plutarch describes a social norm where Menander’s plays serve as a specific resource (intellectual entertainment/theatrical access) reserved for or preferred by the educated class, establishing a boundary where this cultural resource is specifically for them.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Scholarly rest through Menander's works",
+      "group": "Philosophers",
+      "resource": "Access to mental recreation",
+      "directionality": "MORE",
+      "verbatim": [
+        "And just as painters, when their eyes are tired, turn to the colours of flowers and grass, so to philosophers and men of learning Menander is a rest from their concentrated and intense studies, inviting the mind, as it were, to a meadow flowery, shady, and full of breezes."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific intellectual group (philosophers/men of learning) and attributes to them a particular resource (rest/recreation from studies) provided specifically by the works of Menander, used as a convention in their circles.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Banquet entertainment for the learned",
+      "group": "The educated",
+      "resource": "Right to banquet entertainment",
+      "directionality": "MORE",
+      "verbatim": [
+        "He has made his poetry, of all the beautiful works Greece has produced, the most generally accepted subject in theatres, in discussions, and at banquets, for readings, for instruction, and for dramatic competitions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch notes that Menander's work is the 'most generally accepted' resource for instruction and formal social gatherings (banquets) among the educated elite, indicating a standard social practice for this group.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg122.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Summary of a Comparison Between Aristophanes and Menander",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5033,
+  "_output_tokens": 651,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

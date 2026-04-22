@@ -1,0 +1,46 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Nobility",
+        "Lineage"
+      ],
+      "rule": "Posthumous honor preservation for noble enemies",
+      "group": "Nobility",
+      "resource": "Protection of posthumous honors",
+      "directionality": "MORE",
+      "verbatim": [
+        "Further, no one arose to avenge Dion’s death; but in the case of Brutus, Antony, an enemy, gave him illustrious burial, and Octavius, an enemy, actually took care to preserve his honours. For a bronze statue of him stood in Mediolanum in Cisalpine Gaul. This statue, at a later time, Octavius noticed as he passed by... But Octavius, with a smile, praised the Gauls because they were true to their friends even in adversity, and gave orders that the statue should remain where it was."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch records that even the enemies of Brutus (Antony and Octavius) respected his status and virtue by providing burial and protecting his statues. This indicates a norm in Roman society where members of the high nobility, even if leaders of a lost civil war, could retain certain immaterial resources (honors/statues) after death due to their rank and character.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to execute tyrants",
+      "group": "Citizens",
+      "resource": "Right to engage in lawful war against tyrants",
+      "directionality": "MORE",
+      "verbatim": [
+        "but when he had been banished from his country, wronged as a husband, and deprived of his property, he openly resorted to a war that was lawful and just. Or does this argument reverse itself at once? For that which redounds to the praise of both men is their hostility to tyrants and hatred of their baseness, and this is disinterested and sincere in the case of Brutus, since without any private grievance against Caesar he risked his life for the common liberty"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text explicitly describes the resort to war against an established tyrant (Dionysius or Caesar) as 'lawful and just' when done in the interest of common liberty or in response to the violation of property/marital rights. This establishes a recognized right for citizens (particularly those of high standing) to use force to restore the ancient form of government.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0007.tlg062.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Comparison of Dion and Brutus",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4634,
+  "_output_tokens": 598,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

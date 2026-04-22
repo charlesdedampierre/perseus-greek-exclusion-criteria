@@ -1,0 +1,467 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Master's ownership of slave body",
+      "group": "Slaves",
+      "resource": "Right to bodily autonomy",
+      "directionality": "LESS",
+      "verbatim": [
+        "A servant may give the best of advice, but if his master does not follow it, the poor slave must inevitably have his share in the disaster; for fortune does not allow him to dispose of his own body, it belongs to his master who has bought it."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that a slave's body belongs to the master who purchased them, meaning the slave lacks the right to self-disposal or autonomy.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave exposure to corporal punishment",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "CHREMYLUS. No, but if you worry me I will take off your chaplet, and then you will only get a sounder thrashing.",
+        "CARIO. That's an old song! I am going to leave you no peace till you have told me who this man is; and if I ask it, 'tis entirely because of my interest in you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue establishes that masters have the legal and social right to physically beat (thrash) their slaves, and a slave's protection (like the laurel chaplet) can be removed at the master's discretion.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Citizens",
+      "resource": "Right to vote in the Assembly",
+      "directionality": "MORE",
+      "verbatim": [
+        "CHREMYLUS. Is it not he who draws the citizens to the Assembly?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies participation in the Assembly as a specific role for citizens, noting that wealth/Plutus is what motivates or enables them to attend.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "The wealthy",
+      "resource": "Freedom from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "CARIO. And tell me, is it not you who equip the triremes?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of equipping triremes refers to the Athenian 'trierarchy', a liturgy where wealthy citizens were legally required to fund and maintain a warship.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Assembly attendance fee for citizens",
+      "group": "Citizens",
+      "resource": "Right to attendance fee",
+      "directionality": "MORE",
+      "verbatim": [
+        "What! we jostle each other at the Assembly for three obols, and am I going to let Plutus in person be stolen from me?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Chorus, representing the common Athenian citizens, refers to the 'three obols' (triobolon) paid for attending the Ekklesia (Assembly). This was a standard democratic resource in 4th-century Athens to ensure poor citizens could afford to participate in political life.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Orator silence through bribery",
+      "group": "The wealthy",
+      "resource": "Protection from legal prosecution",
+      "directionality": "MORE",
+      "verbatim": [
+        "Listen, friend, no doubt the matter can yet be hushed up, before it gets noised abroad, at trifling expense; I will buy the orators' silence."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Blepsidemus suggests that a person with money can avoid legal trouble or public scandal by paying off professional orators/prosecutors. This represents an immaterial resource (immunity/legal protection) accessible to those with material wealth.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Supplicant privilege for the wealthy",
+      "group": "The wealthy",
+      "resource": "Right to legal clemency",
+      "directionality": "MORE",
+      "verbatim": [
+        "I know someone who will come and seat himself at the foot of the tribunal, holding a supplicant's bough in his hand and surrounded by his wife and children, for all the world like the Heraclidae of Pamphilus."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal maneuver used in courts where a defendant uses their family and the status of a 'supplicant' to gain sympathy and avoid punishment, a tactic associated with those who have the means to organize such a display.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave corporal punishment and restraint",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "Look! his legs are already shrieking, \"oh! oh!\" they are asking for the shackles and wedges."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Chorus threatens the slave Cario with 'shackles and wedges,' specific tools of torture and restraint used on slaves in Athens. This indicates that slaves lacked the resource of bodily protection from their superiors and the community.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave labor for manual trades",
+      "group": "Slaves",
+      "resource": "Protection from hard labor",
+      "directionality": "LESS",
+      "verbatim": [
+        "All these trades which you just mention will be plied by our slaves."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Chremylus explicitly identifies the slave class as the population responsible for manual labor and trades in Athenian society, contrasting them with citizens who seek idleness and wealth.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Poor citizen access to public food",
+      "group": "The poor",
+      "resource": "Access to public meals",
+      "directionality": "MORE",
+      "verbatim": [
+        "Oh! you old fellows, who used to dip out the broth served to the poor at the festival of Theseus with little pieces of bread hollowed like a spoon, how worthy of envy is your fate!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references a specific historical/religious norm where the poor (represented by the 'old fellows') were provided with broth during the festival of Theseus.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Orator access to public funds",
+      "group": "The poor",
+      "resource": "Access to public funds",
+      "directionality": "LESS",
+      "verbatim": [
+        "Look at the orators in our republics; as long as they are poor, both State and people can only praise their uprightness; but once they are fattened on the public funds, they conceive a hatred for justice, plan intrigues against the people and attack the democracy."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Poverty argues that the change in the orators' status (from poor to rich) is due to gaining access to public funds, implying that poor citizens (before their enrichment) do not yet have/use this resource.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Commercial trade in human beings",
+      "group": "Slaves",
+      "resource": "Freedom from being sold",
+      "directionality": "LESS",
+      "verbatim": [
+        "POVERTY. Your slaves! And by what means will these slaves be got? CHREMYLUS. We will buy them. POVERTY. But first say, who will sell them, if everyone is rich?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue acknowledges the existence of a commercial market where slaves are treated as commodities to be bought and sold by dealers.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Universal right to prosecute",
+      "group": "Citizens",
+      "resource": "Right to act as prosecutor",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§476] INFORMER. It is served by watching that the established law is observed--by allowing no one to violate it. [§477] CHREMYLUS. That's the duty of the tribunals; they are established to that end. [§478] INFORMER. And who is the prosecutor before the dicasts? [§479] CHREMYLUS. Whoever wishes to be."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions the legal principle of 'ho boulomenos' (whoever wishes), which allowed any citizen in good standing to bring a public prosecution (graphe) before the courts, a cornerstone of the Athenian legal system described here by the characters.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from corporal torture",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§443] INFORMER. 'Tis rather you yourselves who were such wretches; I am certain you have got my money. [§444] CHREMYLUS. Ha! by Demeter! 'tis an informer. What impudence! [§445] CARIO. He's ravenously hungry, that's certain. [§446] INFORMER. You shall follow me this very instant to the marketplace, where the torture of the wheel shall force the confession of your misdeeds from you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The informer threatens Cario, who is identified as a slave in the text, with the 'torture of the wheel' to extract a confession. This reflects the historical legal reality (basanos) where slave testimony was often only admissible or sought through physical torture.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public business oversight",
+      "group": "Citizens",
+      "resource": "Right to superintend public business",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§470] INFORMER. I superintend public and private business. [§471] CHREMYLUS. You! And by what right, pray? [§472] INFORMER. Because it pleases me to do so. [...] [§474] INFORMER. What, you fool? I have not the right to dedicate myself entirely to my country's service?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The 'Informer' (Sykophantes) justifies his actions based on the democratic right of a citizen to involve himself in public affairs and ensure the law is observed, reflecting the broad participation rights in the Athenian polis.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Juryman tribunal eligibility",
+      "group": "Jurymen",
+      "resource": "Access to multiple paid tribunals",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§643] CARIO. How useful 'tis to have so many names! Here you have found the means of earning your bread. I don't wonder the jurymen so eagerly try to get entered for many tribunals."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the Athenian practice where citizens serving as jurymen sought to increase their income by enrolling in multiple courts.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Priestly share of sacrifices",
+      "group": "Priests",
+      "resource": "Right to share in sacrificial offerings",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§652] PRIEST. ...another would sacrifice for the success of some wish and the priest joined in at the feast; but now there is not the smallest victim...",
+        "[§653] CHREMYLUS. Don't you take your share of those offerings?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The dialogue establishes that under normal social conditions, the priest had a recognized entitlement to a portion of the food and resources offered during public sacrifices.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Master-slave liability distribution",
+      "group": "Slaves",
+      "resource": "Exemption from master's corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "[§627] CARIO. But then you did not share the blows when I was caught."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Cario, a slave, refers to the physical punishment ('blows') that is the standard consequence for a slave caught in a transgression, highlighting a lack of protection from corporal violence.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen jury duty selection",
+      "group": "Citizens",
+      "resource": "Right to act as a juryman",
+      "directionality": "MORE",
+      "verbatim": [
+        "The citizens appointed to act as dicasts, or jurymen, drew lots each year to decide in which Court they should sit. There were ten Courts, each of which was indicated by one of the first ten letters of the alphabet, and the urn contained as many tickets marked with these letters as there were dicasts."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a systematic legal procedure in Athens where citizens are appointed as jurymen (dicasts) and assigned to courts via a lottery system, representing a clear political right/resource tied to citizenship.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Merchant exemption from military service",
+      "group": "Merchants",
+      "resource": "Exemption from military service",
+      "directionality": "MORE",
+      "verbatim": [
+        "The merchants engaged in maritime commerce were absolved from military service; the Scholiast even declares, though it seems highly unlikely, that all merchants were exempt from imposts on their possessions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author notes a specific legal exemption for the occupational group of merchants, specifically those in maritime commerce, granting them relief from the burden of military service.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public prosecution rights for citizens",
+      "group": "Citizens",
+      "resource": "Right to prosecute state wrongs",
+      "directionality": "MORE",
+      "verbatim": [
+        "At Athens 'twas only the injured person who could prosecute in private disputes; everyone, however, had this right where wrongs against the State were involved; but if the prosecutor only obtained one-fifth of the votes, he was condemned to a fine of 1000 drachmae or banished the country."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text outlines the standing required for legal action; while private suits are limited to the injured party, any citizen ('everyone' in the context of the Athenian polity) has the resource/right to bring a public prosecution for crimes against the state.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy provision of Hecate meals",
+      "group": "The wealthy",
+      "resource": "Exemption from providing public meals",
+      "directionality": "LESS",
+      "verbatim": [
+        "On the first day of the month the rich had meals served before these statues and invited the poor to them."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This describes a socio-religious norm/convention in Athens where the wealthy were expected to provide resources (meals) to the community (the poor) at specific intervals.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy female luxury at Eleusis",
+      "group": "Wealthy women",
+      "resource": "Right to use carriages for travel",
+      "directionality": "MORE",
+      "verbatim": [
+        "Eleusis was some distance from Athens, about seven and a half miles, and the wealthy women drove there. It was an occasion when they vied with each other in the display of luxury."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific privilege (driving/using carriages) for a group defined by both gender and wealth during religious processions, contrasted with those who would have to walk.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Taxation of slave property",
+      "group": "Slaves",
+      "resource": "Right to retain own earnings",
+      "directionality": "LESS",
+      "verbatim": [
+        "Taxes on slaves"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The index mentions 'Taxes on slaves', which in the context of Athenian law refers to the andrapodon tax or taxes on their earnings/person. This implies that the state or masters extracted material resources from the group defined by the criterion of Freedom.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Alien service as sunshade carrier",
+      "group": "Metics",
+      "resource": "Protection from compulsory public service",
+      "directionality": "LESS",
+      "verbatim": [
+        "Hydriaphoros, the alien",
+        "Sunshade carrier"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies the 'Hydriaphoros' (water-carrier) and 'Sunshade carrier' (Skiadephoros) as roles specifically assigned to aliens (metics) during Athenian processions like the Panathenaia. This represents a lack of the resource of 'protection from compulsory/menial public ritual service' based on citizenship status.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave exclusion from Thesmophoria",
+      "group": "Slaves",
+      "resource": "Access to the Thesmophoria festival",
+      "directionality": "LESS",
+      "verbatim": [
+        "THESMOPHORIA... women slaves forbidden"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that female slaves were forbidden from participating in the Thesmophoria, a religious festival reserved for free citizen women.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Wholesale merchant exemption from military service",
+      "group": "Merchants",
+      "resource": "Exemption from military service",
+      "directionality": "MORE",
+      "verbatim": [
+        "Merchants, exemption of",
+        "Military service (see Merchants)"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The index points to a rule regarding the exemption of merchants (Emporoi) from military service during certain periods to ensure grain supply, a privilege linked to their occupation.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to state fees",
+      "group": "Citizens",
+      "resource": "Access to public fees",
+      "directionality": "MORE",
+      "verbatim": [
+        "Fees to citizens",
+        "Heliasts... daily salary",
+        "Jurymen, fees of"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The entry 'Fees to citizens' refers to the misthos (attendance fees) for the assembly or courts, which were a material resource restricted to those with the criterion of citizenship.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0019.tlg011.perseus-eng1",
+  "_perseus_author": "Aristophanes",
+  "_perseus_title": "Plutus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 7,
+  "_input_tokens": 51948,
+  "_output_tokens": 5555,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

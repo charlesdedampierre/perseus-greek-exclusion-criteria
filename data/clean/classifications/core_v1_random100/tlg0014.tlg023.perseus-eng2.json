@@ -1,0 +1,128 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Freedom",
+        "Citizenship"
+      ],
+      "rule": "Magisterial custody for homicidal exiles",
+      "group": "Exiles",
+      "resource": "Protection from private detention",
+      "directionality": "MORE",
+      "verbatim": [
+        "It is to the archons, then, that the murderer is to be taken on arrest; and that differs from being taken to the house of the prosecutor in this respect, men of Athens,—that the captor who carries a man to the judges gives control of the malefactor to the laws, while the captor who takes him home gives such control to himself. In the former case punishment is suffered as the law enjoins; in the latter, as the captor pleases; and of course it makes a vast difference whether the retribution is controlled by the law or by a private enemy."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes explains that under Athenian law, even a convicted murderer or an exile returning illegally must be handed over to public magistrates (archons) rather than being held in private custody by the prosecutor, ensuring they are not maltreated at the whim of an enemy.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Homicide victim immunity outside frontiers",
+      "group": "Exiles",
+      "resource": "Protection from extra-territorial seizure",
+      "directionality": "MORE",
+      "verbatim": [
+        "If any man, it begins, and then, any homicide who has quitted the country and whose goods are not confiscate, meaning any man who has migrated by reason of involuntary manslaughter. . . If they are pursued or violently seized, he says, outside the frontier. What is the significance of outside the frontier? For all homicides alike the frontier implies exclusion from the country of the person slain. From that country he permits them to be pursued and seized; but outside of it he permits neither seizure nor pursuit."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific statute protecting those who have committed involuntary manslaughter and left the country; they are protected from pursuit or seizure once they are beyond the 'frontier' of the territory where the act occurred.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Lineage"
+      ],
+      "rule": "Justifiable homicide for sexual violation",
+      "group": "Women",
+      "resource": "Protection of physical integrity",
+      "directionality": "MORE",
+      "verbatim": [
+        "Or in intercourse with his wife, or mother, or sister, or daughter, or concubine kept for the procreation of legitimate children. He lets the man who slays one so treating any of these women go scot-free; and that acquittal, men of Athens, is the most righteous of all. Why? Because in the defence of those for whose sake we fight our enemies, to save them from indignity and licentiousness, he permitted us to slay even our friends, if they insult them and defile them in defiance of law."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law permits the killing of an individual caught in the act of violating a female relative (wife, mother, sister, daughter, or concubine), effectively providing these women with a extreme form of legal protection through the sanctioned violence of their male guardians.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Citizenship"
+      ],
+      "rule": "Involuntary homicide exile reconciliation",
+      "group": "Exiles",
+      "resource": "Right of return after reconciliation",
+      "directionality": "MORE",
+      "verbatim": [
+        "That the man who is convicted of involuntary homicide shall, on certain appointed days, leave the country by a prescribed route, and remain in exile until he is reconciled to one of the relatives of the deceased. Then the law permits him to return, not casually, but in a certain manner; it instructs him to make sacrifice and to purify himself, and gives other directions for his conduct."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law of the Palladium court specifies that someone guilty of involuntary homicide has a path to legally regain their status and return to the city provided they reconcile with the victim's family and perform necessary rites.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Hostage limitation for violent deaths",
+      "group": "Citizens",
+      "resource": "Protection from excessive hostage-taking",
+      "directionality": "MORE",
+      "verbatim": [
+        "If any man die a violent death, his kinsmen may take and hold hostages in respect of such death, until they either submit to trial for bloodguiltiness, or surrender the actual manslayers. This right is limited to three hostages and no more."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This statute regulates the 'androlepsia' (seizure of men) following a violent death abroad. It limits the number of people a family can seize to force a trial to three, protecting the wider group from indiscriminate kidnapping.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Prohibition of non-universal laws",
+      "group": "Citizens",
+      "resource": "Right to equal legal application",
+      "directionality": "MORE",
+      "verbatim": [
+        "And it shall not be lawful to propose a statute directed against an individual, unless the same apply to all Athenians. . . The man who introduced it was of opinion that, as every citizen has an equal share in civil rights, so everybody should have an equal share in the laws."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "A fundamental rule in Athenian law cited by Demosthenes prohibits 'privilegium'—laws targeting or benefiting specifically named individuals—ensuring that all legal statutes are general and applicable to the whole body of citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Droit de suite for murderers",
+      "group": "Exiles",
+      "resource": "Protection from extra-judicial killing",
+      "directionality": "MORE",
+      "verbatim": [
+        "If any man, he says, shall kill a murderer, or shall cause him to be killed, so long as he absents himself from the frontier-market, the games, and the Amphictyonic sacrifices, he shall be liable to the same penalty as if he killed an Athenian citizen; and the Criminal Court shall adjudicate."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This law protects even convicted murderers who have gone into exile; as long as they stay away from specific prohibited areas (like frontier markets and Panhellenic games), anyone who kills them is prosecuted as if they had killed a full Athenian citizen.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg023.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Against Aristocrates",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 30950,
+  "_output_tokens": 1703,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

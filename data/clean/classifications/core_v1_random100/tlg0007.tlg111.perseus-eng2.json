@@ -1,0 +1,45 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Infant funeral sacrifice exemption",
+      "group": "Infants",
+      "resource": "Protection from standard funerary rites",
+      "directionality": "LESS",
+      "verbatim": [
+        "But the truth of this will appear in the laws and traditions received from our ancestors. For when children die, no libations nor sacrifices are made for them, nor any other of those ceremonies which are wont to be performed for the dead. For infants have no part of earth or earthly affections. Nor do we hover or tarry about their sepulchres or monuments, or sit by when their dead bodies are exposed. The laws of our country forbid this, and teach us that it is an impious thing to lament for those whose souls pass immediately into a better and more divine state."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch cites the ancestral laws and traditions of his own country (Greece/Boeotia) to explain that infants are excluded from the standard funerary sacrifices and libations mandated for adult deaths. The rule identifies a specific group based on age and their exclusion from a religious/social resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Infant lamentation prohibition",
+      "group": "Infants",
+      "resource": "Right to public mourning",
+      "directionality": "LESS",
+      "verbatim": [
+        "Nor do we hover or tarry about their sepulchres or monuments, or sit by when their dead bodies are exposed. The laws of our country forbid this, and teach us that it is an impious thing to lament for those whose souls pass immediately into a better and more divine state. Wherefore, since it is safer to give credit to our traditions than to call them in question, let us comply with the custom in outward and public behavior, and let our interior be more unpolluted, pure, and holy."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author describes a legal/customary prohibition against the typical public displays of mourning (sitting by bodies, hovering at monuments) when the deceased is a child, contrasting it with adult funeral practices.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg111.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Plutarch's Consolatory Letter to His Wife",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6284,
+  "_output_tokens": 550,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

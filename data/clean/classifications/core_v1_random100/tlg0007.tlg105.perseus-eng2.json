@@ -1,0 +1,45 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Magis' mouse-killing obligation",
+      "group": "Magi",
+      "resource": "Exemption from mouse-killing duties",
+      "directionality": "LESS",
+      "verbatim": [
+        "Germanicus could endure neither the crowing nor the sight of a cock; and the Persian Magi were killers of mice, as creatures which they both hated themselves and accounted odious to God. In like manner also all the Arabians and Ethiopians abhor them."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch identifies the Persian Magi as a specific functional/religious group defined by their occupation and status, and notes their systematic role in killing mice as a religious requirement. This indicates a lack of freedom or exemption regarding this task due to their social/religious identity.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Sycophant social exclusion",
+      "group": "Sycophants",
+      "resource": "Access to shared social spaces",
+      "directionality": "LESS",
+      "verbatim": [
+        "The Athenians therefore had so utter an abhorrence of those who accused Socrates, that they would neither lend them fire, nor answer them any question, nor wash with them in the same water, but commanded the servants to pour it out as polluted; till these sycophants, no longer able to bear up under the pressure of this hatred, put an end to their own lives."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes the social and legal consequences for the group defined by their conduct as accusers/sycophants in Athens. They were denied essential social resources like communication, fire, and shared bathing, which were standard for other free residents.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg105.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Of Envy and Hatred",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4628,
+  "_output_tokens": 464,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

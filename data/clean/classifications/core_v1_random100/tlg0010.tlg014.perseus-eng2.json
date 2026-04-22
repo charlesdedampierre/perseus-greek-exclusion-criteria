@@ -1,0 +1,110 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Nobility",
+        "Lineage"
+      ],
+      "rule": "Monarchic award based on merit",
+      "group": "The noble",
+      "resource": "Highest awards and privileges",
+      "directionality": "MORE",
+      "verbatim": [
+        "Monarchies, on the other hand, make the highest award to the best man, the next highest to the next best, and in the same proportion to the third and the fourth and so on. Even if this practice does not obtain everywhere, such at least is the intention of the polity."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Isocrates (speaking as Nicocles) describes the distributive principle of monarchy, contrasting it with the 'arithmetic' equality of democracies. It establishes that in this regime, those with higher 'desert' (virtue/nobility) are granted greater resources by the ruler.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen protection from arbitrary confiscation",
+      "group": "Citizens",
+      "resource": "Protection of property and person",
+      "directionality": "MORE",
+      "verbatim": [
+        "and toward the citizens of the state I behaved with such mildness that no one has suffered exile or death or confiscation of property or any such misfortune during my reign."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Nicocles lists the avoidance of property confiscation and execution as a rule of his just conduct toward the citizen group, framing these as rights they have enjoyed under his administration.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Marital fidelity of the king",
+      "group": "Wives",
+      "resource": "Exclusive sexual access to husband",
+      "directionality": "MORE",
+      "verbatim": [
+        "I so strictly avoided all these grounds of offense that, from the time when I became king, no one can charge me with having approached any woman but my own wife."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While describing his own 'temperance', the author establishes a norm where the queen/wife is granted exclusive status and protection from the 'wantonness' that typically saw kings take other women.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Prohibition of unauthorized political associations",
+      "group": "Citizens",
+      "resource": "Right of free association",
+      "directionality": "LESS",
+      "verbatim": [
+        "Do not form political societies or unions without my sanction; for such associations may be an advantage in the other forms of government, but in monarchies they are a danger."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly forbids citizens from forming political groups or 'clubs' without the king's permission, marking a reduction in their freedom of assembly compared to other polities.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Legitimate children's exclusive inheritance",
+      "group": "Legitimate children",
+      "resource": "Right to noble lineage and status",
+      "directionality": "MORE",
+      "verbatim": [
+        "I did not think I should have some children by a woman of humbler station and others by one of higher degree, nor that I should leave after me bastard progeny, as well as progeny of legitimate birth; but that all my children should be able to trace their lineage back through the same father and the same mother to Evagoras... and that not one of the children sprung from my loins should be cheated of this noble origin."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The king defines a rule for his household where only children born of a high-status wife (the queen) are granted the resources of noble status and lineage, explicitly excluding 'bastard progeny'.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Subject obedience to royal law",
+      "group": "Subjects",
+      "resource": "Freedom from royal command",
+      "directionality": "LESS",
+      "verbatim": [
+        "Regard my words as your law, and try to abide by them, knowing that those of you who most faithfully do what I desire will most quickly be able to live as they themselves desire."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In a monarchy, the commands of the ruler function as law for the subjects. This demonstrates that the group 'subjects' (the rank and file) lacks the resource of legal autonomy and must follow the ruler's desires.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0010.tlg014.perseus-eng2",
+  "_perseus_author": "Isocrates",
+  "_perseus_title": "Nicocles or the Cyprians",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 10888,
+  "_output_tokens": 1202,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

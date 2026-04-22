@@ -1,0 +1,29 @@
+{
+  "batch_idx": 33,
+  "n_rules": 2,
+  "rule_uids": [
+    "tlg0540.tlg031.perseus-eng2::2",
+    "tlg0540.tlg031.perseus-eng2::3"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Lysias is an orator writing for the Athenian courts; the rule concerns Athenian civic status and punishments.",
+      "rule_date": -390,
+      "rule_time_reasoning": "The speech 'Against Philon' was delivered in Athens around -390, during the scrutiny of Philon.",
+      "rule_time_reasoning_detail": "Lysias' active career and this specific litigation fall in the early 4th century BCE."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text describes norms of leniency and exemption within the Athenian judicial and social system as argued by Lysias.",
+      "rule_date": -390,
+      "rule_time_reasoning": "Stated by Lysias during his floruit; the speech 'Against Philon' is conventionally dated to approximately -390.",
+      "rule_time_reasoning_detail": "Lysias' active career and this specific litigation fall in the early 4th century BCE."
+    }
+  ],
+  "input_tokens": 958,
+  "output_tokens": 297,
+  "status": "ok"
+}

@@ -1,0 +1,174 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen wine distribution",
+      "group": "Athenian citizens",
+      "resource": "Free distribution of wine",
+      "directionality": "MORE",
+      "verbatim": [
+        "And Alcibiades, who conquered in the chariot race at the Olympic games, getting the first, and second, and fourth prizes, (for which victories Euripides wrote a triumphal ode,) having sacrificed to Olympian Jupiter, feasted the whole assembly. And Leophron did the same at the Olympic games, Simonides of Ceos writing a triumphal ode for him. And Empedocles of Agrigentum, having gained the victory in the horse race at the Olympic games, as he was himself a Pythagorean, and as such one who abstained from meat, made an image of an ox of myrrh, and frankincense, and the most expensive spices, and distributed it among all who came to that festival. And Ion of Chios, having gained the tragic crown at Athens, gave a pot of Chian wine to every Athenian citizen."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text documents a specific rule/convention where victors of major games or contests provided mass distributions of resources (wine, food) specifically to the citizen body or the assembly, identifying a resource access right based on citizenship status.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic exclusion from public banquets",
+      "group": "Metics",
+      "resource": "Right to feast in the Prytaneum",
+      "directionality": "LESS",
+      "verbatim": [
+        "But the author, whoever he was, of the play called The Beggars, which is ascribed to Chionides, says that the Athenians, when they place a banquet for Castor and Pollux in their Prytaneum, serve up on the tables cheese and barley-cakes, and olives which have fallen, and leeks, for the sake of reminding people of the ancient manner of living. And Solon enjoins them to serve up barley-cakes to those who eat in the prytaneum: and besides that, to place bread on the table at festivals, in imitation of Homer . . . And Ctesicles, in the third book of his Chronicles, says that in the hundred and fifteenth Olympiad, there was an investigation at Athens conducted by Demetrius Phalereus into the number of the inhabitants of Attica, and the Athenians were found to amount to twenty-one thousand, and the Metics to ten thousand, and the slaves to four hundred thousand."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Solon's laws restricted the right to feast at the public expense (in the Prytaneum) to specific citizens and officials, excluding the resident alien (metic) population despite their significant number in the census mentioned.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female exclusion from public halls",
+      "group": "Women",
+      "resource": "Access to the prytaneum",
+      "directionality": "LESS",
+      "verbatim": [
+        "And on all the other days of the year it is lawful for any one who pleases of those who are fed at the prytaneum to go into the prytaneum to sup, having prepared at his own home some vegetable, or some pulse, or some salt meat, or some fish, or a very little bit of pork; and when he eats this, he may also have a cotyla of wine. But no woman is allowed to go into the prytaneum excepting the woman alone who plays the flute. And no spoon may be brought into the prytaneum."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a contemporary rule in Naucratis where women are strictly barred from entering the communal dining hall (prytaneum), with a single narrow exception for a musician, who is likely not considered a guest.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave exclusion from sacred banquets",
+      "group": "Slaves",
+      "resource": "Participation in sacred sacrifices",
+      "directionality": "LESS",
+      "verbatim": [
+        "And I have always, O my friends, marvelled at the race of slaves, considering how abstemious they are, though placed in the middle of such numbers of dainties; for they pass them by, not only out of fear, but also because they are taught to do so . . . as in the island of Cos, when the citizens sacrifice to Juno. For Macareus says, in his third book of his treatise on Coan Affairs, that, when the Coans sacrifice to Juno, no slave is allowed to enter the temple, nor does any slave taste any one of the things which are prepared for the sacrifice."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Coan society, religious law specifically prohibits slaves from entering temples during certain sacrifices or consuming the sacred food, a resource reserved for citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave exclusion from Phorbas sacrifice",
+      "group": "Slaves",
+      "resource": "Ministry at sacred rites",
+      "directionality": "LESS",
+      "verbatim": [
+        "And Phorbas was so delighted with this hospitality, that when he was dying himself he charged his friends to take care that his funeral rites should be performed by free men. And so this custom continued to prevail in the sacrifice of Phorbas, for none but free men minister at this sacrifice. And it is accounted profanation for any slave to approach it."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific cult rule in Rhodes where slaves are deemed a source of profanation and are legally barred from participating in or even approaching the sacrifice honoring the hero Phorbas.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave prohibition of wine",
+      "group": "Slaves",
+      "resource": "Right to drink wine",
+      "directionality": "LESS",
+      "verbatim": [
+        "And among the Romans no slave ever drank wine, nor any free woman, nor any youth born of free parents till he was thirty years of age."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes an ancient Roman sumptuary and social law that restricted access to wine based on both freedom and age criteria.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Roman female wine prohibition",
+      "group": "Women",
+      "resource": "Right to drink wine",
+      "directionality": "LESS",
+      "verbatim": [
+        "But among the Romans, as Polybius says, in his sixth book, it was forbidden to women to drink wine at all. However, they drink what is called Passum; and that is made of raisins . . . And it is impossible for a woman to drink wine without being detected: for, first of all, she has not the key of the cellar; and, in the next place, she is bound to kiss her relations, and those of her husband, down to cousins, and do this every day when she first sees them . . . for if she has merely tasted wine, it needs no informer, but is sure to betray itself."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text details a Roman law (and the biological/social checks used to enforce it) that prohibited women from consuming wine, though they were allowed a raisin-based alternative.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Roman youth wine restriction",
+      "group": "Youths",
+      "resource": "Right to drink wine",
+      "directionality": "LESS",
+      "verbatim": [
+        "And among the Romans no slave ever drank wine, nor any free woman, nor any youth born of free parents till he was thirty years of age."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Historical Roman law established a specific age barrier (thirty years) before which freeborn males were prohibited from accessing wine.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Phiditia contribution obligation",
+      "group": "Spartan citizens",
+      "resource": "Communal dining (Syssitia)",
+      "directionality": "MORE",
+      "verbatim": [
+        "And every one contributes to the phiditium about three Attic semimedimni of meal, and about eleven or twelve choes of wine; and in addition to this they contributed a certain weight of cheese and figs; and moreover, for purchasing meat, they gave ten Aeginetan obols."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Spartan citizens were granted the right to participate in the 'phiditia' (communal meals) contingent upon a mandatory contribution of specific material resources (grain, wine, money).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Philosopher banishment decree",
+      "group": "Philosophers",
+      "resource": "Right of residence in Attica",
+      "directionality": "LESS",
+      "verbatim": [
+        "And a certain man named Sophocles, passed a decree to banish all the philosophers from Attica. And Philo, the friend of Aristotle, wrote an oration against him; and Demochares, on the other hand, who was the cousin of Demosthenes, composed a defence for Sophocles."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text records a specific Athenian legal decree that targeted individuals based on their occupation (philosophers) and revoked their right to inhabit the territory.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0008.tlg001.perseus-eng2",
+  "_perseus_author": "Athenaeus",
+  "_perseus_title": "The Deipnosophists",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 690357,
+  "_output_tokens": 2452,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

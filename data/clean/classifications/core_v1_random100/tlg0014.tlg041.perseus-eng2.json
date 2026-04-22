@@ -1,0 +1,95 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Gender",
+        "Lineage"
+      ],
+      "rule": "Wife's right to receive dowry",
+      "group": "Women",
+      "resource": "Right to marriage portion",
+      "directionality": "MORE",
+      "verbatim": [
+        "This Polyeuctus, since he had no male children, adopted Leocrates, the brother of his own wife; but since he had two daughters by the sister of Leocrates, he gave the elder to me in marriage with a portion of forty minae, and the younger to Leocrates."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that daughters in Athens were provided with a marriage portion (dowry) by their father. The dispute centers on the specific amount and fulfillment of this portion, confirming it as a standard resource for women of this class.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Paternal right of daughter's divorce",
+      "group": "Women",
+      "resource": "Freedom of choice in marriage",
+      "directionality": "LESS",
+      "verbatim": [
+        "So matters stood, when a quarrel came about between Polyeuctus and Leocrates, as to the nature of which I know of nothing which it is incumbent upon me to relate, and Polyeuctus took away his daughter and gave her in marriage to this man Spudias."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a father 'taking away' his daughter from her first husband to give her to another man following a quarrel. This demonstrates the legal power of the father (kyrios) over his daughter's marital status, regardless of her own choice.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Mortgagee right of property possession",
+      "group": "Creditors",
+      "resource": "Protection from legal action by debtors",
+      "directionality": "MORE",
+      "verbatim": [
+        "And in this matter what stronger or more solid ground could I have in coming before you than the law which expressly ordains that, in all cases where men have given a mortgage, there shall be no right of action for them or for their heirs?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker cites a specific law protecting holders of a mortgage. Once a property is mortgaged to secure a debt, the debtor or their heirs lose the right of action against the creditor regarding that property.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender",
+        "Freedom"
+      ],
+      "rule": "Wife's right to own items",
+      "group": "Women",
+      "resource": "Right to personal property",
+      "directionality": "MORE",
+      "verbatim": [
+        "He had borrowed the money from the wife of Polyeuctus, and there are papers which that lady left behind at her death... They received from the wife of Polyeuctus a bowl, which they pawned together with some pieces of jewelry"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text indicates that the wife of Polyeuctus had her own money to lend and personal items like bowls and jewelry which she could transfer or leave behind as assets, showing she had access to personal moveables.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Mortgage status signage requirement",
+      "group": "Property owners",
+      "resource": "Right to publicize property claims",
+      "directionality": "MORE",
+      "verbatim": [
+        "and that at his death he directed by his will that pillars should be set up on the house in my favor for a thousand drachmae due on account of my wife’s portion."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Athens, horoi (mortgage pillars) were set up on property to signal a lien. This rule allowed creditors to mark property to protect their claim to a debt (in this case, an unpaid dowry).",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg041.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Against Spudias",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6872,
+  "_output_tokens": 1052,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

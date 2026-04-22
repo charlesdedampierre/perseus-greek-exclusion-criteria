@@ -1,0 +1,501 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Nobility",
+        "Lineage"
+      ],
+      "rule": "Noble access to magistracies",
+      "group": "Aristocrats",
+      "resource": "Eligibility for the chief magistracy",
+      "directionality": "MORE",
+      "verbatim": [
+        "The city of Sicyon, as soon as it had fallen away from its pure Doric form of aristocracy (which was now like a harmony dissolved)... Timocleides and Cleinias were chosen chief magistrates, men of the highest repute and influence among the citizens."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes the traditional Doric aristocratic system of Sicyon where men of high repute and noble lineage (like Cleinias) were the ones selected for the highest magisterial offices before the period of tyrants.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave participation in private militias",
+      "group": "Slaves",
+      "resource": "Right to bear arms",
+      "directionality": "MORE",
+      "verbatim": [
+        "As for men, each of the friends of Aratus in Argos furnished him with ten out of the few they had, and he himself equipped thirty of his own servants with arms."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the context of private political enterprise and 'robbery forays' described as common at the time, domestic slaves (servants) were equipped with arms by their masters to serve as a private military force.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female provision of banquet music",
+      "group": "Women",
+      "resource": "Right to provide professional musical services",
+      "directionality": "MORE",
+      "verbatim": [
+        "and another talking with the women that regularly furnished music of harp and flute at banquets."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text mentions a specific class of women whose regular social/economic role was to provide musical entertainment (harp and flute) at banquets, a recognized occupation in Sicyonian/Argive society.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Citizens",
+      "resource": "Right to vote in the assembly",
+      "directionality": "MORE",
+      "verbatim": [
+        "Day was now breaking, and the theatre was thronged with people... until the herald came forward and made proclamation that Aratus the son of Cleinias invited the citizens to secure their freedom."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The restoration of 'freedom' after the tyranny is contextually represented by the herald summoning the 'citizens' to the theatre (the standard meeting place for the assembly) to resume their political rights.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Exile property restitution claims",
+      "group": "Foreigners",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "Aratus restored eighty exiles who had been banished by Nicocles, and those also who had fled the city during the reign of former tyrants, to the number of five hundred. These had long been wanderers, yes, for close to fifty years. And now that they had come back, most of them in poverty, they laid claim to the property which they had formerly held, and by going to their farms and houses threw Aratus into great perplexity."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a legal and social conflict where returning citizens (former exiles) claim land currently held by others (the 'possessors'). This indicates that those who had acquired the property during the exile's absence lacked secure, permanent rights to retain it once the original citizen-owner was restored.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Macedonian garrison control of Greece",
+      "group": "Greeks",
+      "resource": "Political power",
+      "directionality": "LESS",
+      "verbatim": [
+        "For the Isthmus of Corinth, forming a barrier between the seas, brings together the two regions, and thus unites our continent; and when Acrocorinthus, which is a lofty hill springing up at this centre of Greece, is held by a garrison, it hinders and cuts off all the country south of the Isthmus from intercourse, transits, and the carrying on of military expeditions by land and sea, and makes him who controls the place with a garrison sole lord of Greece."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage describes a systemic geopolitical rule where the presence of a foreign garrison at Acrocorinthus strips the Greek city-states of their autonomy and ability to conduct independent military or commercial policy south of the Isthmus.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "State-funded prisoner ransoming",
+      "group": "The poor",
+      "resource": "Protection from enslavement",
+      "directionality": "MORE",
+      "verbatim": [
+        "And there came to him also a gift of money from the king of Egypt, five-and-twenty talents. These Aratus accepted, but gave them at once to his fellow-citizens, who were in want of money, especially for the ransoming of such as had been taken prisoners."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "This describes a societal practice where public funds (or donated diplomatic wealth) are allocated specifically to the resource of freedom for citizens who have been captured in war and cannot afford their own ransom.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Independent arbitration for property disputes",
+      "group": "Citizens",
+      "resource": "Right to property settlement",
+      "directionality": "MORE",
+      "verbatim": [
+        "For when he was appointed independent arbiter, with absolute powers for settling the money affairs of the exiles, he would not accept the office alone, but associated with himself fifteen of his fellow-citizens, by whose aid, after much toil and great trouble, he established peace and friendship among his fellow-citizens."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The Sicyonians established a rule/mechanism of using an independent arbiter with absolute powers to resolve internal property and financial conflicts between returning exiles and current residents to avoid civil strife.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Wife's limited control of ornaments",
+      "group": "Women",
+      "resource": "Right to retain dowry upon divorce",
+      "directionality": "LESS",
+      "verbatim": [
+        "he took most of his plate and his wife’s golden ornaments and deposited them with Aegias as security for the money. For he was so exalted in spirit and had so great a passion for noble deeds that, knowing as he did that Phocion and Epaminondas were reputed to have been the justest and best of Greeks because they spurned great gifts and would not betray their honour for money, he elected to expend his own substance secretly, as an advance, on an enterprise in which he alone was risking his life for the whole body of citizens, who did not even know what was going on."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes Aratus taking his wife's personal golden ornaments to use as collateral for a military loan without her involvement or knowledge being mentioned as necessary. This implies a lack of independent property rights or protection of the woman's personal assets against her husband's strategic expenditures.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to gate keys",
+      "group": "Citizens",
+      "resource": "Political power",
+      "directionality": "MORE",
+      "verbatim": [
+        "he summoned his strength and in behalf of the Achaeans made a speech which befitted their exploit, and persuaded the Corinthians to join the Achaean League. He also gave them back the keys to their gates, of which they then became possessed for the first time since the time of Philip of Macedon."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch notes that the restoration of physical keys to the local population (the Corinthians) was a restoration of their autonomous political power and control over their own city-state, contrasting this with their status under foreign Macedonian occupation.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen prisoner ransom exemption",
+      "group": "Athenian citizens",
+      "resource": "Right to be released without ransom",
+      "directionality": "MORE",
+      "verbatim": [
+        "But the freemen among his prisoners he sent back to the Athenians without ransom, thus laying a foundation for their revolt from Antigonus."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text demonstrates a specific legal/political exception where free Athenian citizens, when captured as prisoners of war, were granted the resource of freedom without the usual requirement of ransom, distinguishing them from other categories of captives.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Generalship eligibility frequency",
+      "group": "Achaean citizens",
+      "resource": "Annual eligibility for the generalship",
+      "directionality": "LESS",
+      "verbatim": [
+        "And he was so influential among the Achaeans that, since it was not permissible every year, they chose him general every other year, though, in fact, his wisdom made him their leader all the time."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a constitutional rule of the Achaean League that prevented any individual from holding the highest office (the generalship) in consecutive years, limiting the frequency of their political power.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Weapon possession prohibition for subjects",
+      "group": "Argive subjects under tyranny",
+      "resource": "Right to possess weapons",
+      "directionality": "LESS",
+      "verbatim": [
+        "Accordingly, men were found to dare the deed, of whom Aeschylus and Charimenes the seer were the chief. They had no swords, however, the tyrant having prohibited the possession of them under heavy penalties."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The tyrant Aristomachus established a rule for his subjects in Argos prohibiting the possession of swords, enforced by heavy penalties, effectively removing the resource of self-armament.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Sacred games safe-conduct",
+      "group": "Athletic contestants",
+      "resource": "Protection from capture and enslavement",
+      "directionality": "MORE",
+      "verbatim": [
+        "But the games were also celebrated at Argos, and then for the first time the privilege of asylum and safe-conduct which had been granted to contestants in the games was violated, since the Achaeans treated as enemies and sold into slavery all contestants in the games at Argos whom they caught travelling through their territory."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text identifies a long-standing Panhellenic rule (norm/convention) providing safe-conduct and asylum to specific groups (contestants in the games), protecting them from being treated as enemies or enslaved during travel. Aratus's violation of this proves the existence of the rule.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Gender"
+      ],
+      "rule": "Capture of women as booty",
+      "group": "Women",
+      "resource": "Protection from abduction in war",
+      "directionality": "LESS",
+      "verbatim": [
+        "For as soon as they had entered the city, the common soldiers had scattered themselves among the houses, jostling and fighting with one another over the booty, while the leaders and captains were going about and seizing the wives and daughters of the Pellenians, on whose heads they put their own helmets, that no one else might seize them, but that the helmet might show to whom each woman belonged."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a standard military practice of the time where women of a captured city were treated as material booty (chattel) and marked for ownership by victorious soldiers, indicating a total lack of legal protection for their personhood or freedom during conquest.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Alien resident grant of citizenship",
+      "group": "Metics",
+      "resource": "Full citizenship rights",
+      "directionality": "MORE",
+      "verbatim": [
+        "But he escaped alive and rallied his soldiers, and then was not content to come off safely, but making the best use of his opportunity, when no one expected or had any idea of what was to happen, he suddenly made an assault upon Mantineia, which was in alliance with Cleomenes; and having taken the city, he set a garrison there, and made its alien residents full citizens, thus acquiring single-handed for the conquered Achaeans what they could not easily have obtained as conquerors."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Aratus uses his authority as a conqueror to alter the legal status of the 'alien residents' (metics) in Mantineia, granting them the resource of full citizenship to secure the city's loyalty to the Achaean League.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Public funding for mercenaries",
+      "group": "Generals",
+      "resource": "Public financing for military forces",
+      "directionality": "LESS",
+      "verbatim": [
+        "Aratus was severely blamed for this, being thought to have betrayed Lydiades; and when the Achaeans left the field in anger, they forced him to accompany them to Aegium. Here they held an assembly, and voted not to give him money and not to maintain mercenaries for him; if he wanted to wage war, he must provide the means himself."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The Achaean assembly's vote demonstrates that the right of a general to receive state funds for hiring and maintaining mercenary troops was a resource that could be revoked by the political body as a form of censure.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Resident alien advancement to citizenship",
+      "group": "Resident aliens",
+      "resource": "Right to citizenship",
+      "directionality": "MORE",
+      "verbatim": [
+        "but after he had killed the ephors, divided up the land, advanced many resident aliens to the citizenship, and thus got an irresponsible power, he immediately pressed the Achaeans hard, and demanded the supreme leadership for himself."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes Cleomenes' specific political reforms in Sparta where he elevated the status of resident aliens by granting them citizenship to consolidate his power.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy and property redistribution",
+      "group": "Landowners",
+      "resource": "Right to retain land",
+      "directionality": "LESS",
+      "verbatim": [
+        "but after he had killed the ephors, divided up the land, advanced many resident aliens to the citizenship, and thus got an irresponsible power, he immediately pressed the Achaeans hard, and demanded the supreme leadership for himself."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Cleomenes implemented a radical land redistribution policy, which involved the state seizing land from existing owners to reallocate it, effectively removing the right to retain property.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Spartan eligibility for Greek leadership",
+      "group": "Spartans",
+      "resource": "Eligibility for supreme leadership",
+      "directionality": "MORE",
+      "verbatim": [
+        "And if Cleomenes was, as must be granted, lawless and arbitrary, still, Heracleidae were his ancestors, and Sparta was his native land, the meanest citizen of which was more worthy than the foremost Macedonian to be made their leader by those who had any regard for Greek nobility of birth."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author reflects a contemporary Greek norm/opinion that Spartan lineage and citizenship granted a superior right to lead Greek leagues compared to foreign Macedonians.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "General absolute power for punishment",
+      "group": "Generals",
+      "resource": "Right to exercise summary execution",
+      "directionality": "MORE",
+      "verbatim": [
+        "For the punishment of these men Aratus was clothed with absolute power, and seizing those in Sicyon who were thus corrupted he put them to death; but when he tried to seek out and chastise those in Corinth, he roused the resentment of the populace there"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "During times of civil unrest and suspected treason, the Achaean League granted Aratus absolute power (autokrator), which legally allowed him to execute citizens suspected of siding with the enemy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage",
+        "Occupation"
+      ],
+      "rule": "Confiscation of tyrant property",
+      "group": "Tyrants",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "and Aratus, having been chosen general by the Argives, persuaded them to make a present to Antigonus of the property of the tyrants and of the traitors."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "It was a standard political and legal rule in the Achaean League that the property of deposed tyrants or those labeled as traitors was confiscated by the state (and in this case, gifted to an ally).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "POW enslavement during war",
+      "group": "Mantineians",
+      "resource": "Protection from enslavement",
+      "directionality": "LESS",
+      "verbatim": [
+        "For after mastering that city with the aid of Antigonus, they put to death the leading and most noted citizens, and of the rest, some they sold into slavery, while others they sent off into Macedonia in chains, and made slaves of their wives and children, dividing a third of the money thus raised among themselves, and giving the remaining two-thirds to the Macedonians. It is true that this came under the law of reprisal; for though it is a terrible thing to treat men of the same race and blood in this way, out of anger, still in dire stress even cruelty is sweet, as Simonides says"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal or quasi-legal 'law of reprisal' exercised by the Achaeans against the inhabitants of Mantineia, where defeat in war resulted in the systematic loss of freedom and the selling of non-combatants (wives and children) into slavery.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Distribution of slave sale proceeds",
+      "group": "Soldiers",
+      "resource": "Right to retain war booty",
+      "directionality": "MORE",
+      "verbatim": [
+        "they put to death the leading and most noted citizens, and of the rest, some they sold into slavery, while others they sent off into Macedonia in chains, and made slaves of their wives and children, dividing a third of the money thus raised among themselves, and giving the remaining two-thirds to the Macedonians."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage details the rule of distribution for the proceeds of the sale of enslaved people after the fall of Mantineia, establishing how material resources (money from slave sales) were divided between the allied forces (Achaeans and Macedonians).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Occupation"
+      ],
+      "rule": "General's authority to rename cities",
+      "group": "Generals",
+      "resource": "Power to name settlements",
+      "directionality": "MORE",
+      "verbatim": [
+        "Aratus himself was chosen to be the founder of the new settlement, and being then general, got a decree passed that the city should no longer be called Mantineia, but Antigoneia, and this is its name down to the present time."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "As the elected general and designated founder, Aratus possessed the political power to issue decrees altering the identity and name of a city, which is a significant immaterial resource involving political influence.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Marital fidelity of wives",
+      "group": "Wives",
+      "resource": "Protection from sexual exploitation",
+      "directionality": "LESS",
+      "verbatim": [
+        "In the first place he inflicted a private wrong upon the younger Aratus by corrupting his wife, and was for a long time undetected, since he was a housemate and a guest of the family"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While framed as a wrong against the husband, the context of Hellenistic social rules implies that the status of an elite wife did not protect her from being 'corrupted' or exploited by a superior political guest (the king), representing a lack of protection for her direct person and the household's integrity.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Courtier immunity from summary punishment",
+      "group": "Royal courtiers",
+      "resource": "Protection from arbitrary execution",
+      "directionality": "LESS",
+      "verbatim": [
+        "At this Philip was enraged, and for the nonce fined them twenty talents; afterwards, however, regarding them as a noxious and confusing element in his affairs, he put them to death."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text demonstrates that even high-ranking courtiers (Apelles, Megaleas) served at the pleasure of the king and could be executed for 'wantonness' or for becoming a 'noxious element,' showing they lacked secure protection from capital punishment.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Prohibition of intramural burial",
+      "group": "Citizens",
+      "resource": "Right to burial within city walls",
+      "directionality": "LESS",
+      "verbatim": [
+        "They had, however, an ancient law that no one should be buried inside the city walls, and the law was supported by strong feelings of superstition."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes an ancient law in Sicyon that prohibited anyone, presumably including citizens, from being buried within the city limits. This was an established legal and religious norm that Aratus's burial eventually served as an exception to.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Age"
+      ],
+      "rule": "Gymnasiarch leadership in public processions",
+      "group": "The young men of military age",
+      "resource": "Right to participate in civic processions",
+      "directionality": "MORE",
+      "verbatim": [
+        "and the gymnasiarch took part in the procession, at the head of the boys and young men of military age; then followed the councillors wearing garlands, and all other citizens who desired."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch describes the structure of the Soteria festival in Sicyon, which was still observed in 'slight traces' in his time. The rule mandates that young men of military age (the ephebes under the gymnasiarch) and councillors have a specific, prioritized role in the ritual procession of the city.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Illegitimate exclusion from royal succession",
+      "group": "Illegitimate sons",
+      "resource": "Right to legitimate royal succession",
+      "directionality": "LESS",
+      "verbatim": [
+        "and left his kingdom to his other son, Perseus, who was not legitimate, as we are told, but supposititious, the child of a sempstress, Gnathaenion."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch highlights the illegitimacy of Perseus to emphasize the decline of the Antigonid line, reflecting the norm that legitimate lineage was the standard requirement for royal inheritance; Perseus's succession is framed as an anomaly or a sign of the kingdom's degradation.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0007.tlg063.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Aratus",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 8,
+  "_input_tokens": 46015,
+  "_output_tokens": 6500,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

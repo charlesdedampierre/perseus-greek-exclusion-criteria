@@ -1,0 +1,191 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen jury service",
+      "group": "Athenians",
+      "resource": "Right to serve on a jury",
+      "directionality": "MORE",
+      "verbatim": [
+        "All litigant parties to assemble this day on Areopagus: Justice to assign them their juries from the whole body of the Athenians, the number of the jury to be in proportion to the amount of damages claimed; any party doubting the justice of his sentence to have the right of appeal to me.",
+        "Be it known to all men that we purpose on this seventh day of March to hold a court of justice... The juries to be taken from the whole Athenian people; the pay to be sixpence for each case; the number of jurors to vary with the nature of the accusation."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the standard judicial procedure in Athens where the 'whole body of Athenians' (citizens) are summoned to serve as jurors in exchange for pay, establishing jury service as a specific right and duty of the citizen group.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Naturalized foreigner tax obligation",
+      "group": "Naturalized foreigners",
+      "resource": "Exemption from taxes",
+      "directionality": "LESS",
+      "verbatim": [
+        "Why, you must know Pan, most festive of all Dionysus’s followers? He used to live on Mount Parthenius: but at the time of the Persian expedition under Datis, when the barbarians landed at Marathon, he volunteered in the Athenian service; and ever since then he has had the cave yonder at the foot of the Acropolis, a little past the Pelasgicum, and pays his taxes like any other naturalized foreigner."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Lucian uses the mythological figure of Pan to describe the real legal status of 'naturalized foreigners' (metics) in Athens, who are specifically noted as being required to pay taxes to the state.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Litigant right of appeal",
+      "group": "Athenians",
+      "resource": "Right of appeal to higher authority",
+      "directionality": "MORE",
+      "verbatim": [
+        "All litigant parties to assemble this day on Areopagus: Justice to assign them their juries from the whole body of the Athenians, the number of the jury to be in proportion to the amount of damages claimed; any party doubting the justice of his sentence to have the right of appeal to me."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The proclamation establishes that any person involved in a legal dispute (litigants) has the specific right to appeal a jury's sentence to a higher authority (in this satirical context, Zeus, reflecting real legal avenues of appeal).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Juror compensation for case hearing",
+      "group": "Athenians",
+      "resource": "Right to receive juror pay",
+      "directionality": "MORE",
+      "verbatim": [
+        "The juries to be taken from the whole Athenian people; the pay to be sixpence for each case; the number of jurors to vary with the nature of the accusation."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions 'the pay to be sixpence for each case' for the jurors drawn from the Athenian people, identifying a material resource (money) granted to the group in exchange for judicial service.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Freedom of movement for citizens",
+      "group": "Citizens",
+      "resource": "Right to choose intellectual or life path",
+      "directionality": "MORE",
+      "verbatim": [
+        "On the other hand, if a free citizen of a free state, deciding for himself in a matter where the law is silent, takes a violent aversion to this lady’s person, concludes that the blessedness with which she promises to crown his labours is neither more nor less than moonshine, and accordingly makes the best of his way out of her labyrinthine maze of argument into the attractive arms of Pleasure, bursts the bonds of verbal subtlety, exchanges credulity for common sense, and pronounces, with great justice, that toil is toilsome, and that pleasure is pleasant,—I ask, is this shipwrecked mariner to be excluded from the calm haven of his desire, and hurled back headlong into a sea of toil?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Epicurus argues that as a free citizen, Dionysius has the legal right to choose his own philosophy and lifestyle where the law is silent, contrasting his status with a slave who would be bound to a master's will.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Jury fee payment for service",
+      "group": "Jurors",
+      "resource": "Right to financial compensation for public service",
+      "directionality": "LESS",
+      "verbatim": [
+        "Justice\nPeace! This suit must stand over, until Zeus has decided the appeal re Dionysius. The cases are similar. If Porch wins her appeal, Aristippus shall be adjudged to Virtue: if not, Luxury must have him. Bring the next case. By the way, those jurors must not have their fee; they have not earned it.\nHermes\nSo the poor old gentlemen have climbed up all this way for nothing!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text demonstrates a standard administrative rule where jurors are paid for cases completed, but the resource (the fee) is withheld by Justice because the specific case was suspended, showing the link between actual labor and the right to the state-provided resource.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Ethnicity"
+      ],
+      "rule": "Foreigner exclusion from Areopagus jurisdiction",
+      "group": "Outsiders",
+      "resource": "Right to local trial in Athens",
+      "directionality": "LESS",
+      "verbatim": [
+        "Justice\nSo! here on Areopagus I am to give juries to outsiders, who ought to be tried on the other side of the Euphrates? Well, give him eleven, and they can hear both cases."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Justice notes that 'outsiders' (non-Athenians/foreigners) generally do not have the right to be tried at the Areopagus in Athens, suggesting their legal resources are located in their place of origin (e.g., across the Euphrates).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Citizens",
+      "resource": "Right to vote in the Ekklesia",
+      "directionality": "MORE",
+      "verbatim": [
+        "Before all things, men of Athens, I pray the Gods that you may listen to me throughout this trial with feelings not less warm than those that I have ever entertained towards my country and towards each one of you, my countrymen."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text situates the legal proceedings within the Athenian civic framework, addressing the jury as 'men of Athens' and 'countrymen,' confirming the right of citizens to act as jurors and cast votes in trials.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen access to lawcourts",
+      "group": "Citizens",
+      "resource": "Eligibility for jury service",
+      "directionality": "MORE",
+      "verbatim": [
+        "Gentlemen, you will remain and hear this second case, and will receive a double fee."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the standard practice of compensating citizens for jury service with a fee, confirming their exclusive right to participate in the judicial process of the polis.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Wife's dowry protection",
+      "group": "Women",
+      "resource": "Right to retain dowry upon divorce",
+      "directionality": "MORE",
+      "verbatim": [
+        "upon this obscure pauper boy I bestowed the rich dowry of my surpassing eloquence... such things were not to be endured: I was loth to bring her into the divorce-court"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Syrian (husband) mentions his reluctance to take Rhetoric (his metaphorical wife) to the divorce court despite her alleged infidelity, referencing the legal framework involving dowries and the formal procedure of ending a marriage.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Juror compensation for trials",
+      "group": "Citizens",
+      "resource": "Right to receive jury fees",
+      "directionality": "MORE",
+      "verbatim": [
+        "Dialogue will now address the same jury. Gentlemen, you will remain and hear this second case, and will receive a double fee."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Justice explicitly states that the jurors (citizens) are entitled to a fee for each case heard, which is a material resource provided by the state to those performing this civic occupation.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0062.tlg026.perseus-eng4",
+  "_perseus_author": "Lucian",
+  "_perseus_title": "The Double Indictment",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 3,
+  "_input_tokens": 18306,
+  "_output_tokens": 2431,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

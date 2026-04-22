@@ -1,0 +1,93 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Citizen risk for malicious indictment",
+      "group": "Wealthy",
+      "resource": "Right to indict on own behalf",
+      "directionality": "LESS",
+      "verbatim": [
+        "For, I take it, if I had wished to bring a malicious suit, I should not have listed slaves worth two minae and a half, the sum at which the claimant himself has fixed their value, and myself have run the risk of losing a thousand drachmae, and forfeiting the right ever again to indict anyone on my own behalf."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author refers to a standard legal penalty in the Athenian court system where a prosecutor who fails to obtain a minimum of one-fifth of the votes (implying a malicious or baseless suit) faces a fine and the loss of future right to bring similar indictments.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen reward for filing information",
+      "group": "Citizens",
+      "resource": "Right to share of confiscated property",
+      "directionality": "MORE",
+      "verbatim": [
+        "And now that I have done so, if I can prove that the slaves belong to Arethusius, to whom they are stated in the information to belong, I relinquish to the state the three fourths which under the law are given to the private citizen filing the information; for myself it is enough to have taken vengeance."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions a law that rewards a private citizen who successfully provides information (phasis) leading to the confiscation of property with three-fourths of the value of that property.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Ransomed captive status as property",
+      "group": "Free non-citizens",
+      "resource": "Right to personal liberty",
+      "directionality": "LESS",
+      "verbatim": [
+        "You know, he said, that the laws enact that a person ransomed from the enemy shall be the property of the ransomer, if he fail to pay the redemption money."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text cites a specific law regarding citizens or individuals captured in war: if they are ransomed and fail to repay the ransomer, they become the legal property (a form of debt-bondage or slave-like status) of the person who paid for their release.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture",
+      "group": "Slaves",
+      "resource": "Protection from torture during legal proceedings",
+      "directionality": "LESS",
+      "verbatim": [
+        "I told them that, if my suit against them had been a private one, I should have accepted the slaves for the torture, if they had offered them, but that, as it was, both the slaves and the information belonged to the state; and therefore the examination by the torture should be conducted by a public official."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author discusses the standard procedure of 'basanos', where slaves are subjected to physical torture to provide evidence in Greek legal cases, specifically noting that for state-owned slaves, the process must be conducted by public officials.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Property confiscation for unpaid guarantees",
+      "group": "Wealthy",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "And yet the laws enact that any man’s estate shall be confiscated who, after guaranteeing any sum due to the state, does not make good his guarantee; so that, even if the slaves belonged to them, they ought to be state-property, if the laws are of any use."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a legal rule where a citizen who acts as a guarantor for a debt to the treasury (the state) faces the total confiscation of their own estate if the debt is not repaid.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg053.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Apollodorus Against Nicostratus",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6785,
+  "_output_tokens": 1081,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

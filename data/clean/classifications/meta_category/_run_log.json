@@ -1,0 +1,18 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "prompt_meta_category.md",
+  "batch_size": 40,
+  "max_parallel": 10,
+  "n_items": 1680,
+  "n_groups": 466,
+  "n_resources": 1214,
+  "mapped": 1679,
+  "n_distinct_group_metas": 28,
+  "n_distinct_resource_metas": 125,
+  "ok_batches": 42,
+  "errored_batches": 0,
+  "input_tokens": 89918,
+  "output_tokens": 32251,
+  "cost_usd": 0.1417,
+  "elapsed_sec": 20.7
+}

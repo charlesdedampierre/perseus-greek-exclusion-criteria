@@ -1,0 +1,95 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Banker record keeping of loans",
+      "group": "Bankers",
+      "resource": "Right to maintain official financial records",
+      "directionality": "MORE",
+      "verbatim": [
+        "And let no one of you wonder that I have accurate knowledge of these matters; for bankers are accustomed to write out memoranda of the sums which they lend, the purposes for which funds are desired, and the payments which a borrower makes, in order that his receipts and his payments may be known to them for their accounts."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a standard practice and norm for bankers in 4th-century Athens to maintain detailed written accounts of transactions to ensure the accuracy of their business and legal claims.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to request individual testimony",
+      "group": "Citizens",
+      "resource": "Right to summon witnesses to court",
+      "directionality": "MORE",
+      "verbatim": [
+        "On my depositing a drachma in his name on a charge of failing to appear, as the law prescribes, the arbitrator did not make an award against the defendant, but decided in his favor, and then went off, for it was already late.",
+        "Now, however, I have entered suit on my own account for damages against Antiphanes because he neither gave testimony for me, nor asked under oath for a postponement, as the law provides."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references several specific laws regarding the summoning of witnesses, the fine for failing to appear (the drachma deposit), and the right to sue a witness for damages if they fail to testify without a legal excuse.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave testimony under torture (Basanos)",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment during legal proceedings",
+      "directionality": "LESS",
+      "verbatim": [
+        "For, if slaves brought it, he ought to have delivered them up for the torture, but if hired men, he ought to have demanded for the torture the slave of ours who received and weighed the copper; for, I fancy, neither would the one taking the copper in pledge accept it, nor the one offering it give it over, without weighing; nor was my father likely to carry the copper and weigh it himself, since he had slaves who were accustomed to receive the articles given as security for loans."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Standard Athenian legal procedure dictated that the testimony of a slave was only admissible if obtained through 'basanos' (torture). The passage treats this as the expected method of verification for facts known by slaves.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Prosecution for deceiving the assembly",
+      "group": "Citizens",
+      "resource": "Right to statehood and assembly honors",
+      "directionality": "LESS",
+      "verbatim": [
+        "When a man, then, felt no shame in deceiving you to whom he had pledged his word, though there are laws which declare that, if a man deceive the people by a promise, he shall be liable to impeachment,—when, after swearing and imprecating destruction upon himself, he had no fear of the gods in whose name he had perjured himself—was it strange that I was unwilling to allow him to take an oath?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites a specific Athenian law that makes citizens liable to impeachment (eisangelia) if they deceive the People (the Assembly) by making false promises.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave status prevents direct legal testimony",
+      "group": "Slaves",
+      "resource": "Right to give voluntary legal testimony",
+      "directionality": "LESS",
+      "verbatim": [
+        "He answered that Aeschrion was free, so I desisted from my demand; but I required him to put in a deposition made by Aeschrion as being a free man.",
+        "He, however, neither provided a deposition from Aeschrion, as being free, nor would he deliver him up as a slave that proof might be had from his body"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text highlights the binary choice in Athenian law: a witness is either free (must provide a written deposition and is liable for perjury) or a slave (must be tortured for their evidence). Slaves were denied the right to offer voluntary, un-coerced testimony.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0014.tlg049.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Apollodorus Against Timotheus",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 11111,
+  "_output_tokens": 1189,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

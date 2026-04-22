@@ -1,0 +1,820 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "core_prompt_V1.md",
+  "sample": "final_dataset_for_criteria_random100.tsv",
+  "parallelism": "chunk-level",
+  "max_parallel": 10,
+  "n_works": 100,
+  "ok": 100,
+  "errors": 0,
+  "chunk_errors": 0,
+  "rules_total": 946,
+  "input_tokens": 2830777,
+  "output_tokens": 210493,
+  "price_in_per_1M": 0.5,
+  "price_out_per_1M": 3.0,
+  "cost_usd": 2.0469,
+  "elapsed_sec": 148.4,
+  "results": [
+    {
+      "file_id": "tlg1271.tlg001.perseus-eng1",
+      "status": "ok",
+      "n_chunks": 6,
+      "input_tokens": 34771,
+      "output_tokens": 5250,
+      "n_rules": 26
+    },
+    {
+      "file_id": "tlg0014.tlg032.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6601,
+      "output_tokens": 639,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg1216.tlg001.perseus-eng1",
+      "status": "ok",
+      "n_chunks": 4,
+      "input_tokens": 22904,
+      "output_tokens": 4163,
+      "n_rules": 18
+    },
+    {
+      "file_id": "tlg0535.tlg001.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6530,
+      "output_tokens": 802,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0062.tlg062.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6052,
+      "output_tokens": 1012,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0010.tlg006.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 8989,
+      "output_tokens": 1052,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0014.tlg013.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6866,
+      "output_tokens": 849,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0014.tlg042.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 7446,
+      "output_tokens": 1143,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0007.tlg093.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5090,
+      "output_tokens": 1029,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0007.tlg139.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 22368,
+      "output_tokens": 1091,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0540.tlg027.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4318,
+      "output_tokens": 755,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0059.tlg029.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5784,
+      "output_tokens": 330,
+      "n_rules": 1
+    },
+    {
+      "file_id": "tlg0010.tlg013.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 9637,
+      "output_tokens": 1707,
+      "n_rules": 8
+    },
+    {
+      "file_id": "tlg0007.tlg062.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4634,
+      "output_tokens": 598,
+      "n_rules": 2
+    },
+    {
+      "file_id": "tlg0028.tlg003.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 8424,
+      "output_tokens": 674,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0059.tlg024.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 6,
+      "input_tokens": 38429,
+      "output_tokens": 3378,
+      "n_rules": 14
+    },
+    {
+      "file_id": "tlg0010.tlg010.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 8971,
+      "output_tokens": 1167,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0014.tlg041.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6872,
+      "output_tokens": 1052,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0007.tlg037.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4668,
+      "output_tokens": 708,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0062.tlg046.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 3,
+      "input_tokens": 17297,
+      "output_tokens": 1655,
+      "n_rules": 8
+    },
+    {
+      "file_id": "tlg0004.tlg001.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 44,
+      "input_tokens": 369265,
+      "output_tokens": 31581,
+      "n_rules": 151
+    },
+    {
+      "file_id": "tlg0014.tlg060.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 9835,
+      "output_tokens": 1183,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0059.tlg036.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 11,
+      "input_tokens": 68028,
+      "output_tokens": 7464,
+      "n_rules": 29
+    },
+    {
+      "file_id": "tlg0062.tlg009.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 11722,
+      "output_tokens": 1091,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0540.tlg008.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4837,
+      "output_tokens": 729,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0017.tlg012.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4476,
+      "output_tokens": 1044,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0540.tlg022.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5067,
+      "output_tokens": 1114,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0014.tlg045.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 14764,
+      "output_tokens": 1244,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0010.tlg014.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 10888,
+      "output_tokens": 1202,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0062.tlg059.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6319,
+      "output_tokens": 847,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0019.tlg011.perseus-eng1",
+      "status": "ok",
+      "n_chunks": 7,
+      "input_tokens": 51948,
+      "output_tokens": 5555,
+      "n_rules": 28
+    },
+    {
+      "file_id": "tlg0014.tlg001.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6088,
+      "output_tokens": 920,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0007.tlg018.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 20575,
+      "output_tokens": 1315,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0032.tlg009.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 18799,
+      "output_tokens": 1386,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0540.tlg001.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 10123,
+      "output_tokens": 1488,
+      "n_rules": 7
+    },
+    {
+      "file_id": "tlg0014.tlg016.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6449,
+      "output_tokens": 538,
+      "n_rules": 2
+    },
+    {
+      "file_id": "tlg0030.tlg003.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 8091,
+      "output_tokens": 1054,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0062.tlg015.perseus-eng4",
+      "status": "ok",
+      "n_chunks": 3,
+      "input_tokens": 16575,
+      "output_tokens": 1780,
+      "n_rules": 8
+    },
+    {
+      "file_id": "tlg0010.tlg011.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 34632,
+      "output_tokens": 1211,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0014.tlg051.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5497,
+      "output_tokens": 1049,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0007.tlg122.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5033,
+      "output_tokens": 651,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0007.tlg088.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 10502,
+      "output_tokens": 878,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0007.tlg014.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4221,
+      "output_tokens": 659,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0059.tlg011.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 10,
+      "input_tokens": 60739,
+      "output_tokens": 5686,
+      "n_rules": 24
+    },
+    {
+      "file_id": "tlg0007.tlg069.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 13864,
+      "output_tokens": 1024,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0010.tlg019.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 39358,
+      "output_tokens": 1161,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0007.tlg126.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 81523,
+      "output_tokens": 689,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0014.tlg019.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 44980,
+      "output_tokens": 1651,
+      "n_rules": 7
+    },
+    {
+      "file_id": "tlg0007.tlg111.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6284,
+      "output_tokens": 550,
+      "n_rules": 2
+    },
+    {
+      "file_id": "tlg0062.tlg057.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5282,
+      "output_tokens": 509,
+      "n_rules": 2
+    },
+    {
+      "file_id": "tlg0540.tlg004.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4829,
+      "output_tokens": 874,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0062.tlg026.perseus-eng4",
+      "status": "ok",
+      "n_chunks": 3,
+      "input_tokens": 18306,
+      "output_tokens": 2431,
+      "n_rules": 11
+    },
+    {
+      "file_id": "tlg0007.tlg017.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5167,
+      "output_tokens": 676,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0007.tlg024.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 18807,
+      "output_tokens": 1363,
+      "n_rules": 7
+    },
+    {
+      "file_id": "tlg0540.tlg030.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 9494,
+      "output_tokens": 1464,
+      "n_rules": 7
+    },
+    {
+      "file_id": "tlg0014.tlg048.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 9026,
+      "output_tokens": 979,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg1622.tlg001.perseus-eng1",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5793,
+      "output_tokens": 1160,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0014.tlg061.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 10427,
+      "output_tokens": 630,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0007.tlg082b.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6241,
+      "output_tokens": 1373,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0007.tlg005.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 5,
+      "input_tokens": 28805,
+      "output_tokens": 4341,
+      "n_rules": 20
+    },
+    {
+      "file_id": "tlg0014.tlg054.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 9916,
+      "output_tokens": 1203,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0014.tlg010.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 11029,
+      "output_tokens": 1156,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0027.tlg004.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 3,
+      "input_tokens": 15363,
+      "output_tokens": 2494,
+      "n_rules": 12
+    },
+    {
+      "file_id": "tlg0062.tlg045.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 6,
+      "input_tokens": 37247,
+      "output_tokens": 4238,
+      "n_rules": 17
+    },
+    {
+      "file_id": "tlg0059.tlg010.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 10,
+      "input_tokens": 60306,
+      "output_tokens": 5072,
+      "n_rules": 20
+    },
+    {
+      "file_id": "tlg0014.tlg017.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6401,
+      "output_tokens": 1311,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0007.tlg134.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 20033,
+      "output_tokens": 476,
+      "n_rules": 2
+    },
+    {
+      "file_id": "tlg0059.tlg006.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 14,
+      "input_tokens": 93033,
+      "output_tokens": 8340,
+      "n_rules": 35
+    },
+    {
+      "file_id": "tlg0007.tlg080.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 12090,
+      "output_tokens": 739,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0540.tlg010.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5631,
+      "output_tokens": 1080,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0540.tlg029.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4084,
+      "output_tokens": 787,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0007.tlg013.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 5,
+      "input_tokens": 29313,
+      "output_tokens": 3294,
+      "n_rules": 15
+    },
+    {
+      "file_id": "tlg0017.tlg008.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 11853,
+      "output_tokens": 1928,
+      "n_rules": 8
+    },
+    {
+      "file_id": "tlg0062.tlg030.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 4,
+      "input_tokens": 26621,
+      "output_tokens": 2858,
+      "n_rules": 13
+    },
+    {
+      "file_id": "tlg0010.tlg004.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 10293,
+      "output_tokens": 1120,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0026.tlg001.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 9,
+      "input_tokens": 55276,
+      "output_tokens": 9953,
+      "n_rules": 45
+    },
+    {
+      "file_id": "tlg0014.tlg023.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 30950,
+      "output_tokens": 1703,
+      "n_rules": 7
+    },
+    {
+      "file_id": "tlg0019.tlg008.perseus-eng1",
+      "status": "ok",
+      "n_chunks": 6,
+      "input_tokens": 43747,
+      "output_tokens": 5115,
+      "n_rules": 24
+    },
+    {
+      "file_id": "tlg0008.tlg001.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 690357,
+      "output_tokens": 2452,
+      "n_rules": 10
+    },
+    {
+      "file_id": "tlg0540.tlg016.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5090,
+      "output_tokens": 1226,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0062.tlg011.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 10131,
+      "output_tokens": 701,
+      "n_rules": 3
+    },
+    {
+      "file_id": "tlg0027.tlg002.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 9336,
+      "output_tokens": 1218,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0007.tlg046.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5117,
+      "output_tokens": 916,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0007.tlg105.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4628,
+      "output_tokens": 464,
+      "n_rules": 2
+    },
+    {
+      "file_id": "tlg0007.tlg109.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 22299,
+      "output_tokens": 1263,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0062.tlg008.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 12393,
+      "output_tokens": 1818,
+      "n_rules": 8
+    },
+    {
+      "file_id": "tlg0007.tlg034.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 5258,
+      "output_tokens": 1009,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0007.tlg082.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 43319,
+      "output_tokens": 1838,
+      "n_rules": 9
+    },
+    {
+      "file_id": "tlg0007.tlg028.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 14878,
+      "output_tokens": 1481,
+      "n_rules": 7
+    },
+    {
+      "file_id": "tlg0540.tlg020.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 9314,
+      "output_tokens": 1575,
+      "n_rules": 7
+    },
+    {
+      "file_id": "tlg0062.tlg001.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 11295,
+      "output_tokens": 1546,
+      "n_rules": 6
+    },
+    {
+      "file_id": "tlg0007.tlg068.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 26956,
+      "output_tokens": 973,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0014.tlg052.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 7000,
+      "output_tokens": 1175,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0007.tlg079.perseus-eng3",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 24012,
+      "output_tokens": 949,
+      "n_rules": 5
+    },
+    {
+      "file_id": "tlg0059.tlg027.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 3,
+      "input_tokens": 16766,
+      "output_tokens": 2386,
+      "n_rules": 10
+    },
+    {
+      "file_id": "tlg0540.tlg009.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 4907,
+      "output_tokens": 689,
+      "n_rules": 4
+    },
+    {
+      "file_id": "tlg0017.tlg002.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 2,
+      "input_tokens": 10689,
+      "output_tokens": 2039,
+      "n_rules": 9
+    },
+    {
+      "file_id": "tlg0014.tlg018.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 42189,
+      "output_tokens": 1852,
+      "n_rules": 8
+    },
+    {
+      "file_id": "tlg0026.tlg003.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 6,
+      "input_tokens": 55562,
+      "output_tokens": 7377,
+      "n_rules": 35
+    },
+    {
+      "file_id": "tlg0014.tlg053.perseus-eng2",
+      "status": "ok",
+      "n_chunks": 1,
+      "input_tokens": 6785,
+      "output_tokens": 1081,
+      "n_rules": 5
+    }
+  ]
+}

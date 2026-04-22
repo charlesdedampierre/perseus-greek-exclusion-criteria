@@ -1,0 +1,142 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Religion"
+      ],
+      "rule": "Citizen participation in civic mysteries",
+      "group": "Citizens",
+      "resource": "Exemption from religious initiation",
+      "directionality": "LESS",
+      "verbatim": [
+        "Anytus and his Meletus who combined against him and brought the same charges that their predecessors brought against Socrates, asserting that he had never been known to sacrifice and was the only man in the community uninitiated in the Eleusinian mysteries. In reply to this, with right good courage he wreathed his head, put on a clean cloak, went to the assembly and made his defence... Regarding the other charge, the matter of the mysteries, he said that he had never joined them in the rite because if the mysteries were bad, he would not hold his tongue before the uninitiate but would turn them away from the cult, while if they were good, he would reveal them to everybody out of his love for humanity. So the Athenians, who already had stones in both hands to throw at him, became good-natured and friendly toward him at once."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a formal legal or quasi-legal charge brought against Demonax in the Athenian assembly. The charge—being the 'only man' uninitiated—implies a strong social and legal norm that male citizens were expected to participate in the Eleusinian mysteries, and failure to do so was a punishable offense comparable to the charges against Socrates.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Citizen obligation to public sacrifice",
+      "group": "Citizens",
+      "resource": "Exemption from public sacrifice",
+      "directionality": "LESS",
+      "verbatim": [
+        "Anytus and his Meletus who combined against him and brought the same charges that their predecessors brought against Socrates, asserting that he had never been known to sacrifice and was the only man in the community uninitiated in the Eleusinian mysteries. ... Regarding his never having offered sacrifice to Athena, he said: 'Do not be surprised, men of Athens, that I have not hitherto sacrificed to her: I did not suppose that she had any need of my offerings.'"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Athenian public brought charges against Demonax specifically for failing to sacrifice to Athena. This indicates a general rule where residents/citizens were required to participate in the city's religious life through sacrifice, and omission was treated as a crime or serious social breach.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Freedom from hope and fear",
+      "group": "Free men",
+      "resource": "Access to true happiness",
+      "directionality": "MORE",
+      "verbatim": [
+        "When a man asked him what he thought was the definition of happiness, he replied that none but a free man is happy; and when the other said that free men were numerous, he rejoined: 'But I have in mind the man who neither hopes nor fears anything.'"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Lucian records Demonax's philosophical definition where happiness is a resource restricted only to those who are 'free'. While the second part of the quote adds a philosophical condition, the primary rule stated is that 'none but a free man is happy', linking the status of 'Free' to the resource of 'Happiness'.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Foreigner exclusion from mysteries",
+      "group": "Foreigners",
+      "resource": "Right to participate in religious mysteries",
+      "directionality": "LESS",
+      "verbatim": [
+        "Once, on hearing the proclamation which precedes the mysteries, he made bold to ask the Athenians publicly why they exclude foreigners, particularly as the founder of the rite, Eumolpus, was a foreigner and a Thracian to boot!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that Athenians have a rule or practice of excluding foreigners from participating in the Eleusinian mysteries, noting the irony given the founder's origins.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Roman citizenship conferral by Emperor",
+      "group": "Uneducated individuals",
+      "resource": "Roman citizenship",
+      "directionality": "MORE",
+      "verbatim": [
+        "A man named Polybius, quite uneducated and ungrammatical, said: “The emperor has honoured ‘me with the Roman citizenslfip.” “Oh, why didn’t he make you a Greek instead of a Roman?” said he."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage confirms that the Emperor has the authority to grant Roman citizenship to individuals, even those lacking in education or Greek culture.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Cynic freedom of speech",
+      "group": "Cynic philosophers",
+      "resource": "Right to speak one's mind (parrhesia)",
+      "directionality": "MORE",
+      "verbatim": [
+        "But Demonax, who was passing by, begged him to pardon the man for making bold to speak his mind in the traditional Cynic way. The proconsul said: “Well, I will let him off for you this time, but if he ever dares to do such a thing again, what shall be done to him?”"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a convention where Cynics are expected and often allowed to speak their minds boldly (parrhesia) to figures of authority, a behavior the proconsul acknowledges as 'traditional'.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Magistrate deference to honored elders",
+      "group": "Aged philosophers",
+      "resource": "Public signs of respect from magistrates",
+      "directionality": "MORE",
+      "verbatim": [
+        "Not only the Athenians but all Greece conceived such affection for him that when he passed by the magistrates rose up in his honour and there was silence everywhere. Toward the end, when he was very old, he used to eat and sleep uninvited in any house which he chanced to be passing, and the inmates thought that it was almost a divine visitation, and that good fortune had entered their doors."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a social norm in Athens and Greece where high-ranking magistrates were expected to rise in respect for highly esteemed individuals like Demonax.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Public funeral for honored citizens",
+      "group": "Distinguished philosophers",
+      "resource": "Right to a public funeral",
+      "directionality": "MORE",
+      "verbatim": [
+        "But the Athenians gave him a magnificent public funeral and mourned him Jong."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Athenians granted Demonax a public funeral, a resource provided by the state to individuals of exceptional merit or service.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0062.tlg008.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "Demonax",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 2,
+  "_input_tokens": 12393,
+  "_output_tokens": 1818,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

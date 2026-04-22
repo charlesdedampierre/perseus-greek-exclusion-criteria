@@ -1,0 +1,171 @@
+{
+  "batch_idx": 21,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0540.tlg012.perseus-eng2::10",
+    "tlg0540.tlg012.perseus-eng2::11",
+    "tlg0540.tlg012.perseus-eng2::12",
+    "tlg0540.tlg012.perseus-eng2::13",
+    "tlg0540.tlg012.perseus-eng2::14",
+    "tlg0540.tlg012.perseus-eng2::15",
+    "tlg0007.tlg056.perseus-eng2::0",
+    "tlg0007.tlg056.perseus-eng2::1",
+    "tlg0007.tlg059.perseus-eng2::0",
+    "tlg0007.tlg059.perseus-eng2::1",
+    "tlg0007.tlg063.perseus-eng2::0",
+    "tlg0007.tlg063.perseus-eng2::1",
+    "tlg0007.tlg063.perseus-eng2::2",
+    "tlg0007.tlg063.perseus-eng2::3",
+    "tlg0007.tlg063.perseus-eng2::4",
+    "tlg0007.tlg063.perseus-eng2::5",
+    "tlg0007.tlg063.perseus-eng2::6",
+    "tlg0007.tlg063.perseus-eng2::7",
+    "tlg0007.tlg063.perseus-eng2::8",
+    "tlg0007.tlg063.perseus-eng2::9"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Lysias is an Athenian orator documenting the legal norms and violations in Athens during and after the reign of the Thirty Tyrants.",
+      "rule_date": -403,
+      "rule_time_reasoning": "The speech 'Against Eratosthenes' was delivered in -403, immediately following the restoration of the Athenian democracy."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Lysias's speech pertains to the Athenian context, specifically the seizure of property by the Thirty Tyrants.",
+      "rule_date": -403,
+      "rule_time_reasoning": "The speech was delivered in -403 to prosecute a member of the recently fallen oligarchy for his actions during their rule."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text describes the violation of Athenian religious and civic burial customs during the political strife of -404 to -403.",
+      "rule_date": -403,
+      "rule_time_reasoning": "Lysias delivered this speech in -403, referencing the contemporary trauma of the preceding year's tyranny."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The rule concerns the right of Athenian citizens to reside in their city, contrasted with their illegal banishment by the Thirty.",
+      "rule_date": -403,
+      "rule_time_reasoning": "The speech dates to the immediate aftermath of the restoration of the democracy in -403."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "Disarmament of the citizen body was a specific political act within the Athenian state during the oligarchic coup.",
+      "rule_date": -403,
+      "rule_time_reasoning": "Lysias recounts these recent events in his -403 prosecution of Eratosthenes."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The text references Solonian laws against debt slavery which were standard in Athens but ignored during the rule of the Thirty.",
+      "rule_date": -403,
+      "rule_time_reasoning": "The author refers to these threats as contemporary dangers faced by the children of exiles in -403."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Roman Republic",
+      "rule_polity_reasoning": "Plutarch is describing the administrative norms and corruption of Roman provincial governors during the 1st century BCE.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch wrote his 'Parallel Lives' around 100, treating the history of the late Republic from a retrospective but contemporary-adjacent stance."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Roman Republic",
+      "rule_polity_reasoning": "The 'lex annalis' was a fundamental constitutional law of the Roman Republic regulating age requirements for high office.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Stated by Plutarch in his floruit around 100; although describing the late Republic, he is the primary source for this rule in his time."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Roman Republic",
+      "rule_polity_reasoning": "Plutarch explicitly contrasts Roman legal monogamy with the practices of foreign kings.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch is writing at his floruit in approximately 100 about Roman legal standards that persisted into his own era."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Macedonian Empire",
+      "rule_polity_reasoning": "The rule is specifically identified as a custom of the Macedonian kings, distinct from the laws of other states.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch describes these customs in his biography written around 100, though they refer to the 4th and 3rd centuries BCE."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Sicyon",
+      "rule_polity_reasoning": "The text describes the specific aristocratic constitution and magisterial traditions of the Greek polis of Sicyon.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Written by Plutarch around 100, documenting the historical constitutional history of Sicyon."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Hellenistic Greece",
+      "rule_polity_reasoning": "The rule describes the paramiltiary practices in the 3rd-century BCE Peloponnese where private individuals armed their servants.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch documents this social practice in his biography of Aratus, written during his literary peak around 100."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Hellenistic Greece",
+      "rule_polity_reasoning": "The presence of female musicians at banquets is a standard social custom described within the Greek context of Sicyon.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch chronicles this as a regular social fixture in his biography of Aratus written around 100."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Sicyon",
+      "rule_polity_reasoning": "The use of the theater for citizen assembly and voting is a characteristic feature of Sicyon’s civic life.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch, writing around 100, describes the restoration of democratic procedures in Sicyon circa -251."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Sicyon",
+      "rule_polity_reasoning": "The text deals with the legal claims for property restitution following a change of government in Sicyon.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch details these 3rd-century BCE property disputes in his biography of Aratus, composed around 100."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Hellenistic Greece",
+      "rule_polity_reasoning": "The 'Fetter of Greece' (Acrocorinth) and the impact of Macedonian garrisons concern the geopolitical status of Greek city-states.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch outlines this strategic reality in his 'Life of Aratus' written around 100."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Sicyon",
+      "rule_polity_reasoning": "The use of public or philanthropic funds to ransom citizens is a practice described as occurring within the Sicyonian community.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Recorded by Plutarch around 100, describing the acts of Aratus in the mid-3rd century BCE."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Sicyon",
+      "rule_polity_reasoning": "Independent arbitration was a specific legal mechanism used in Sicyon to resolve internal civil disputes regarding property.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch describes the institution of this commission in his 3rd-century BCE historical narrative written around 100."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Hellenistic Greece",
+      "rule_polity_reasoning": "The rule describes husbandly control over a wife's property (ornaments/dowry) within a Greek domestic context.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch describes the lifestyle and legal habits of 3rd-century BCE Greeks in his work written around 100."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Corinth",
+      "rule_polity_reasoning": "The restoration of city keys to the Corinthians symbolizes the return of local sovereignty to that specific polity.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch records the liberation of Corinth by Aratus (-243) in his biography written around 100."
+    }
+  ],
+  "input_tokens": 4237,
+  "output_tokens": 2257,
+  "status": "ok"
+}

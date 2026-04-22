@@ -1,0 +1,171 @@
+{
+  "batch_idx": 22,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0007.tlg063.perseus-eng2::10",
+    "tlg0007.tlg063.perseus-eng2::11",
+    "tlg0007.tlg063.perseus-eng2::12",
+    "tlg0007.tlg063.perseus-eng2::13",
+    "tlg0007.tlg063.perseus-eng2::14",
+    "tlg0007.tlg063.perseus-eng2::15",
+    "tlg0007.tlg063.perseus-eng2::16",
+    "tlg0007.tlg063.perseus-eng2::17",
+    "tlg0007.tlg063.perseus-eng2::18",
+    "tlg0007.tlg063.perseus-eng2::19",
+    "tlg0007.tlg063.perseus-eng2::20",
+    "tlg0007.tlg063.perseus-eng2::21",
+    "tlg0007.tlg063.perseus-eng2::22",
+    "tlg0007.tlg063.perseus-eng2::23",
+    "tlg0007.tlg063.perseus-eng2::24",
+    "tlg0007.tlg063.perseus-eng2::25",
+    "tlg0007.tlg063.perseus-eng2::26",
+    "tlg0007.tlg063.perseus-eng2::27",
+    "tlg0007.tlg063.perseus-eng2::28",
+    "tlg0007.tlg063.perseus-eng2::29"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Hellenistic Macedon",
+      "rule_polity_reasoning": "The rule concerns the specific dispensation granted by King Philip V (the Macedonian ruler) to his Athenian captives during the Social War.",
+      "rule_date": -218,
+      "rule_time_reasoning": "The event described by Plutarch occurred during Philip V's campaign against the Achaean and Aetolian leagues in 218 BCE."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Achaean League",
+      "rule_polity_reasoning": "The rule describes the constitutional term limits (the inability to serve consecutive years) for the strategos (general) of the Achaean League.",
+      "rule_date": -245,
+      "rule_time_reasoning": "This rule was in effect throughout Aratus's career; -245 marks his first year as general."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Argos",
+      "rule_polity_reasoning": "The rule explicitly refers to the disarmament of the residents of Argos by the tyrant Aristomachus.",
+      "rule_date": -240,
+      "rule_time_reasoning": "Aristomachus the Elder ruled Argos as a tyrant during the middle of the 3rd century BCE; -240 is used as a representative year of his reign."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Ancient Greece",
+      "rule_polity_reasoning": "The rule refers to the Panhellenic convention of 'asylia' (asylum) granted to contestants traveling to the sacred Nemean or Isthmian games.",
+      "rule_date": -235,
+      "rule_time_reasoning": "Plutarch notes Aratus's specific violation of this Greek-wide custom during his attack on Argos in -235."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Hellenistic Greece",
+      "rule_polity_reasoning": "The rule describes the customary military law (ius belli) regarding booty and captives practiced by the Achaean and allied forces during the 3rd century BCE.",
+      "rule_date": -241,
+      "rule_time_reasoning": "Plutarch describes these customs specifically in the context of the capture of Pellene in -241."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Mantineia",
+      "rule_polity_reasoning": "The rule describes the enfranchisement of resident aliens specifically within the city of Mantineia after its capture.",
+      "rule_date": -226,
+      "rule_time_reasoning": "Aratus captured Mantineia and reorganized its citizenship structure in -226."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Achaean League",
+      "rule_polity_reasoning": "The rule describes the power of the Achaean Federal Assembly over the financial resources of its elected generals.",
+      "rule_date": -227,
+      "rule_time_reasoning": "The assembly at Aegium that stripped Aratus of funding followed the Battle of Mount Lycaeum in -227."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Sparta",
+      "rule_polity_reasoning": "The rule concerns the enfranchisement of 'perioikoi' or resident aliens specifically as part of Cleomenes III's Spartan reforms.",
+      "rule_date": -227,
+      "rule_time_reasoning": "Cleomenes III carried out his revolution in Sparta, including these citizenship grants, in -227."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Sparta",
+      "rule_polity_reasoning": "The rule concerns the abolition of existing property rights and the redistribution of land (ges anadasmos) in Sparta.",
+      "rule_date": -227,
+      "rule_time_reasoning": "Cleomenes III implemented the redistribution of land after his coup in -227."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Hellenistic Greece",
+      "rule_polity_reasoning": "Plutarch is reflecting on the ethno-political norms of Greek leadership versus Macedonian 'barbarian' hegemony.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch is applying his own 1st/2nd-century CE moral judgment to the 3rd-century BCE political landscape."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Achaean League",
+      "rule_polity_reasoning": "The absolute power (autokrator) was a specific legal status granted by the Achaean federal government during emergencies.",
+      "rule_date": -224,
+      "rule_time_reasoning": "Aratus was given these extraordinary powers to deal with internal dissent and the Cleomenean War in -224."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Argos",
+      "rule_polity_reasoning": "The rule specifies the treatment of the private property of tyrants within the city-state of Argos under Achaean influence.",
+      "rule_date": -224,
+      "rule_time_reasoning": "This confiscation and gift to Antigonus Doson occurred after the recovery of Argos in -224."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Mantineia",
+      "rule_polity_reasoning": "The 'law of reprisal' described refers to the specific fate of the people of Mantineia under Achaean law.",
+      "rule_date": -223,
+      "rule_time_reasoning": "The sack of Mantineia and the mass enslavement of its population occurred in -223."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Hellenistic Greece",
+      "rule_polity_reasoning": "Plutarch describes the customary division of spoils between allied powers (Achaeans and Macedonians).",
+      "rule_date": -223,
+      "rule_time_reasoning": "This specific 1/3-to-2/3 division of slave proceeds was applied after the fall of Mantineia in -223."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Mantineia",
+      "rule_polity_reasoning": "The rule concerns the renaming of this specific city, which was an act of political foundation/re-foundation.",
+      "rule_date": -223,
+      "rule_time_reasoning": "Mantineia was renamed Antigoneia in honor of Antigonus Doson in -223."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Hellenistic Macedon",
+      "rule_polity_reasoning": "The scenario concerns the social power dynamics and lack of protections for women at the court of the Macedonian king.",
+      "rule_date": -214,
+      "rule_time_reasoning": "Philip V's corruption of the wife of Aratus the Younger took place around -214 during his stay in Sicyon."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Hellenistic Macedon",
+      "rule_polity_reasoning": "The rule describes the absolute power of the Antigonid king over his immediate court and subordinates.",
+      "rule_date": -218,
+      "rule_time_reasoning": "Philip V executed his former favorites Apelles and Megaleas for sedition in -218."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Sicyon",
+      "rule_polity_reasoning": "Plutarch describes an 'ancient law' and local superstition specific to the city of Sicyon.",
+      "rule_date": -213,
+      "rule_time_reasoning": "The law was discussed and an exception granted upon the death of Aratus in -213."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Sicyon",
+      "rule_polity_reasoning": "The rule details the civic and religious order of a public festival (the Soteria) in the city-state of Sicyon.",
+      "rule_date": 100,
+      "rule_time_reasoning": "Plutarch notes that 'slight traces' of these rituals were still performed in his own day around 100 CE."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Hellenistic Macedon",
+      "rule_polity_reasoning": "The rule reflects the legitimacy norms of the Antigonid dynasty in Macedonia regarding royal succession.",
+      "rule_date": -179,
+      "rule_time_reasoning": "This refers to the succession of Perseus to the throne of Macedon upon the death of Philip V in -179."
+    }
+  ],
+  "input_tokens": 4118,
+  "output_tokens": 2245,
+  "status": "ok"
+}

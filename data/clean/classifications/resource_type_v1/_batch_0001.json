@@ -1,0 +1,61 @@
+{
+  "batch_idx": 1,
+  "n_items": 5,
+  "items": [
+    {
+      "i": 0,
+      "value": "Right to retain own earnings"
+    },
+    {
+      "i": 1,
+      "value": "Right to retain property"
+    },
+    {
+      "i": 2,
+      "value": "Right to speak first in assembly"
+    },
+    {
+      "i": 3,
+      "value": "Right to valid professional opinion"
+    },
+    {
+      "i": 4,
+      "value": "Right to vote in the Ekklesia"
+    }
+  ],
+  "parsed": [
+    {
+      "i": 0,
+      "resource_type": [
+        "Material Wealth"
+      ]
+    },
+    {
+      "i": 1,
+      "resource_type": [
+        "Material Wealth"
+      ]
+    },
+    {
+      "i": 2,
+      "resource_type": [
+        "Political Power"
+      ]
+    },
+    {
+      "i": 3,
+      "resource_type": [
+        "UNCLASSIFIABLE"
+      ]
+    },
+    {
+      "i": 4,
+      "resource_type": [
+        "Political Power"
+      ]
+    }
+  ],
+  "input_tokens": 1231,
+  "output_tokens": 135,
+  "status": "ok"
+}

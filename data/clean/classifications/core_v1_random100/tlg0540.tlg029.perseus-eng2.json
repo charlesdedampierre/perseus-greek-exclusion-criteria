@@ -1,0 +1,77 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Citizens",
+      "resource": "Right to vote in court",
+      "directionality": "MORE",
+      "verbatim": [
+        "But I expect, gentlemen, that you are all aware that the reason why you voted for the death-sentence upon Ergocles was because his misappropriation of public funds had procured him a fortune of more than thirty talents."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text refers to the jury (citizens) having exercising their right to vote in a capital case against a public official, a standard feature of the Athenian legal system.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "The wealthy",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "How very strange that, whereas men of property lament that they have to equip warships, this man, who was previously possessed of nothing, at that time volunteered this public service!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage highlights that 'men of property' are regularly required to equip warships (trierarchies), which is a form of liturgy (compulsory public service for the rich).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Special levy contributions",
+      "group": "The wealthy",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "And indeed it would be strange, gentlemen of the jury, that you should be incensed with those who are unable to pay their contributions to the special levies from their own means, and should confiscate their estates on the ground of default"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a rule where failure to pay the eisphora (special tax/levy) results in the confiscation of the citizen's estate, linking wealth status to a specific loss of property rights.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Accomplice liability for public theft",
+      "group": "Citizens",
+      "resource": "Protection from capital punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "For it would be a strange thing, when those who connive with the thieves in a private larceny are to be subject to the same penalty... that this man, conniving with Ergocles in a theft of the city’s property and receiving bribes at your expense, should not incur the same punishment"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author invokes the legal principle that accomplices or those who connive with thieves are subject to the same penalties as the primary offender, which in cases of high-level embezzlement of state funds can include the death penalty.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0540.tlg029.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "Against Philocrates",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4084,
+  "_output_tokens": 787,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

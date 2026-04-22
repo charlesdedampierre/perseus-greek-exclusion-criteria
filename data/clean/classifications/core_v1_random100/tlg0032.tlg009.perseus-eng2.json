@@ -1,0 +1,110 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Lineage",
+        "Nobility"
+      ],
+      "rule": "Hereditary succession to kingship",
+      "group": "Kings and sons of kings",
+      "resource": "Eligibility for the throne",
+      "directionality": "MORE",
+      "verbatim": [
+        "Now concerning his high birth what greater and nobler could be said than this, that even to-day the line of his descent from Heracles is traced through the roll of his ancestors, and those no simple citizens, but kings and sons of kings? ... On the death of King Agis there was a struggle for the throne between Leotychidas, as the son of Agis, and Agesilaus, as the son of Archidamus. The state decided in favour of Agesilaus, judging him to be the more eligible in point of birth and character alike."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text establishes that the Spartan throne is reserved for a specific lineage (descendants of Heracles) and that when a vacancy occurs, candidates are selected from within that family based on leur ancestry and character.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgical immunity for horse provision",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from personal military service",
+      "directionality": "MORE",
+      "verbatim": [
+        "He therefore enrolled the wealthiest men in all the cities thereabouts as breeders of horses, and issued a proclamation that anyone who supplied a horse and arms and an efficient man should be exempt from personal service. In this way he brought it about that every one of them carried out these requirements with the zeal of a man in quest of someone to die in his stead."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes a formal administrative rule where wealthy individuals could trade the material resource of a horse and equipment for the immaterial resource of legal exemption from fighting in person.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Protection of prisoners from abuse",
+      "group": "Prisoners of war",
+      "resource": "Protection from criminal punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "He would often warn his men not to punish their prisoners as criminals, but to guard them as human beings; and often when shifting camp, if he noticed little children... he looked after them too, and had them conveyed to some place of refuge. Again, he arranged that prisoners of war who were too old to accompany the army were to be looked after, that they might not fall a prey to dogs or wolves."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text outlines a specific command-driven policy or norm in the Spartan army under Agesilaus that treated captured enemies as protected persons rather than criminals subject to execution or abandonment.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen rights for conquered peoples",
+      "group": "Freemen",
+      "resource": "Exemption from servile duties",
+      "directionality": "MORE",
+      "verbatim": [
+        "In his settlement with the cities that he won over, he invariably excused them from all servile duties and required only such obedience as freemen owe to their rules; and by his clemency he made himself master of fortresses impregnable to assault."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This describes a general policy applied to conquered Greek cities: their population was granted the status of 'freemen', which protected them from the 'servile duties' usually imposed on the vanquished.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Sanctuary for religious suppliants",
+      "group": "Suppliants",
+      "resource": "Protection from physical harm",
+      "directionality": "MORE",
+      "verbatim": [
+        "Though wounded in every part of his body with every sort of weapon, he did not forget his duty towards the gods, but gave orders that these men [eighty of the enemy] should be suffered to go whithersoever they wished, and would not suffer them to be harmed... To suppliants of the gods, even if his foes, he did no violence, believing it unreasonable to call robbers of temples sacrilegious and yet to consider those who dragged suppliants from altars pious men."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage confirms a religious-legal norm where individuals who take refuge in a temple (suppliants) are granted immunity from violence, regardless of their status as enemies.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "King's double ration allocation",
+      "group": "Kings",
+      "resource": "Right to distribute extra food",
+      "directionality": "MORE",
+      "verbatim": [
+        "Moreover, he received a double ration at the public meals, but instead of consuming both portions himself, he distributed both and left neither for himself, holding that the purpose of this double allowance to the king was not to provide him with a heavy meal, but to give him the opportunity of honouring whomsoever he would."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Spartan law/custom provided the king with twice the standard food portion (a material resource) specifically for the purpose of exercising political influence through distribution (immaterial resource).",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0032.tlg009.perseus-eng2",
+  "_perseus_author": "Xenophon",
+  "_perseus_title": "Agesilaus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 18799,
+  "_output_tokens": 1386,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

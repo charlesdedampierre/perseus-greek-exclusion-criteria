@@ -1,0 +1,171 @@
+{
+  "batch_idx": 5,
+  "n_rules": 20,
+  "rule_uids": [
+    "tlg0004.tlg001.perseus-eng2::100",
+    "tlg0004.tlg001.perseus-eng2::101",
+    "tlg0004.tlg001.perseus-eng2::102",
+    "tlg0004.tlg001.perseus-eng2::103",
+    "tlg0004.tlg001.perseus-eng2::104",
+    "tlg0004.tlg001.perseus-eng2::105",
+    "tlg0004.tlg001.perseus-eng2::106",
+    "tlg0004.tlg001.perseus-eng2::107",
+    "tlg0004.tlg001.perseus-eng2::108",
+    "tlg0004.tlg001.perseus-eng2::109",
+    "tlg0004.tlg001.perseus-eng2::110",
+    "tlg0004.tlg001.perseus-eng2::111",
+    "tlg0004.tlg001.perseus-eng2::112",
+    "tlg0004.tlg001.perseus-eng2::113",
+    "tlg0004.tlg001.perseus-eng2::114",
+    "tlg0004.tlg001.perseus-eng2::115",
+    "tlg0004.tlg001.perseus-eng2::116",
+    "tlg0004.tlg001.perseus-eng2::117",
+    "tlg0004.tlg001.perseus-eng2::118",
+    "tlg0004.tlg001.perseus-eng2::119"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "rule_polity": "Stoic Philosophy",
+      "rule_polity_reasoning": "The verbatim refers to Zeno of Citium's 'Republic', which outlines the laws of an ideal Stoic city-state.",
+      "rule_date": -300,
+      "rule_time_reasoning": "Zeno of Citium, the founder of Stoicism, wrote his Republic around 300 BCE."
+    },
+    {
+      "i": 1,
+      "rule_polity": "Stoic Philosophy",
+      "rule_polity_reasoning": "This is a core doctrine of the Stoic school regarding the nature of freedom and the wise man.",
+      "rule_date": -150,
+      "rule_time_reasoning": "The midpoint of the Hellenistic period (-300 to -31) represents the peak of Stoic doctrinal development before Roman influence."
+    },
+    {
+      "i": 2,
+      "rule_polity": "Stoic Philosophy",
+      "rule_polity_reasoning": "The verbatim cites the specific views of Cleanthes and Chrysippus, leaders of the Stoic school.",
+      "rule_date": -232,
+      "rule_time_reasoning": "Chrysippus, the primary figure cited here, died around 206 BCE; his floruit is dated to his headship of the school starting in 232 BCE."
+    },
+    {
+      "i": 3,
+      "rule_polity": "Stoic Philosophy",
+      "rule_polity_reasoning": "The verbatim cites Sphaerus, a Stoic philosopher, defining a biological/physical rule within that tradition.",
+      "rule_date": -220,
+      "rule_time_reasoning": "Sphaerus of Borysthenes was a pupil of Zeno and Cleanthes, active in the late 3rd century BCE."
+    },
+    {
+      "i": 4,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The verbatim explicitly references 'Attic law' (Athens) regarding the apophora payment from workers to masters.",
+      "rule_date": -330,
+      "rule_time_reasoning": "Cleanthes lived c. -330 to -230; the rule describes the Attic legal environment he navigated as a laborer in Athens."
+    },
+    {
+      "i": 5,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The mention of the Areopagites clearly locates this legal inquiry and donation within the Athenian judicial system.",
+      "rule_date": -320,
+      "rule_time_reasoning": "Cleanthes was prosecuted in the Areopagus during his early years in Athens, roughly -320 BCE."
+    },
+    {
+      "i": 6,
+      "rule_polity": "Hellenistic Rhodes",
+      "rule_polity_reasoning": "Hecato of Rhodes was a philosopher from Rhodes; the mention of a 'king's treasury' reflects the Hellenistic monarchical context he or his ancestors inhabited.",
+      "rule_date": -100,
+      "rule_time_reasoning": "Hecato of Rhodes was active around 100 BCE."
+    },
+    {
+      "i": 7,
+      "rule_polity": "Ptolemaic Egypt",
+      "rule_polity_reasoning": "The verbatim identifies the subject as a 'court-physician to Ptolemy', placing the rule within the Ptolemaic kingdom.",
+      "rule_date": -246,
+      "rule_time_reasoning": "The mention refers to Erasistratus or his contemporaries serving the early Ptolemies (Ptolemy II or III); -246 is the start of Ptolemy III's reign."
+    },
+    {
+      "i": 8,
+      "rule_polity": "Classical Athens",
+      "rule_polity_reasoning": "The terminology of 'hierophant' and 'mysteries' refers to the Eleusinian Mysteries, an Athenian religious institution.",
+      "rule_date": -330,
+      "rule_time_reasoning": "The debate regarding the revelation of mysteries was a common legal/philosophical theme in 4th-century BCE Athens."
+    },
+    {
+      "i": 9,
+      "rule_polity": "Archaic Greece",
+      "rule_polity_reasoning": "The verbatim follows Pythagoras leaving Samos and travels during the Archaic period.",
+      "rule_date": -530,
+      "rule_time_reasoning": "Pythagoras left Samos for Italy around 530 BCE during the tyranny of Polycrates."
+    },
+    {
+      "i": 10,
+      "rule_polity": "Croton",
+      "rule_polity_reasoning": "The event described occurs in the assembly of the Italian Greeks (Magna Graecia), specifically associated with Pythagoras's arrival in Croton.",
+      "rule_date": -525,
+      "rule_time_reasoning": "Pythagoras arrived and influenced the assembly of Croton shortly after leaving Samos in c. -530 BCE."
+    },
+    {
+      "i": 11,
+      "rule_polity": "Croton",
+      "rule_polity_reasoning": "The rule regarding female exclusion from the assembly belongs to the social structure of the Italiote poleis like Croton.",
+      "rule_date": -525,
+      "rule_time_reasoning": "This reflects the gender boundaries in Magna Graecia during Pythagoras's residence (c. -530 to -500 BCE)."
+    },
+    {
+      "i": 12,
+      "rule_polity": "Archaic Greece",
+      "rule_polity_reasoning": "The distinction between slave and free man punishment is a pervasive feature of Archaic and Classical Greek law.",
+      "rule_date": -520,
+      "rule_time_reasoning": "This guidance is attributed specifically to Pythagoras during his leadership of the school in Croton."
+    },
+    {
+      "i": 13,
+      "rule_polity": "Archaic Greece",
+      "rule_polity_reasoning": "The rule is presented as a Pythagorean principle, emphasizing elder respect in a Greek social context.",
+      "rule_date": -520,
+      "rule_time_reasoning": "Central to the Pythagorean 'Precepts' taught during Pythagoras's floruit in the late 6th century BCE."
+    },
+    {
+      "i": 14,
+      "rule_polity": "Archaic Greece",
+      "rule_polity_reasoning": "The passage discusses the social status and household management of Pythagoras’s daughter.",
+      "rule_date": -500,
+      "rule_time_reasoning": "Damo would have been active following her father's death, around the start of the 5th century BCE."
+    },
+    {
+      "i": 15,
+      "rule_polity": "Ancient Olympia",
+      "rule_polity_reasoning": "The verbatim specifies the 48th Olympiad and athletic contests (boys' vs men's) occurring in the Panhellenic sanctuary.",
+      "rule_date": -588,
+      "rule_time_reasoning": "The 48th Olympiad corresponds to the year -588 BCE."
+    },
+    {
+      "i": 16,
+      "rule_polity": "Pythagorean School",
+      "rule_polity_reasoning": "The rule is specific to the internal discipline and exclusion protocols of the Pythagorean sect.",
+      "rule_date": -450,
+      "rule_time_reasoning": "Timaeus refers here to the era of Empedocles and late disciples, mid-5th century BCE."
+    },
+    {
+      "i": 17,
+      "rule_polity": "Pythagorean School",
+      "rule_polity_reasoning": "The verbatim states the school 'made a law' to exclude poets from their teachings.",
+      "rule_date": -450,
+      "rule_time_reasoning": "Empedocles was active in the mid-5th century BCE; the law followed his publication of 'On Nature'."
+    },
+    {
+      "i": 18,
+      "rule_polity": "Classical Agrigentum",
+      "rule_polity_reasoning": "Empedocles was a citizen of Akragas (Agrigentum), and the maidens were residents of that city.",
+      "rule_date": -444,
+      "rule_time_reasoning": "Empedocles flourished in the middle of the 5th century BCE; -444 is a conventional date for his prominence."
+    },
+    {
+      "i": 19,
+      "rule_polity": "Classical Tarentum",
+      "rule_polity_reasoning": "The verbatim explicitly notes the law existed in Archytas's city, which is Tarentum (Taras).",
+      "rule_date": -367,
+      "rule_time_reasoning": "Archytas was elected general multiple times in the 360s BCE; -367 represents his peak political influence."
+    }
+  ],
+  "input_tokens": 7828,
+  "output_tokens": 2224,
+  "status": "ok"
+}

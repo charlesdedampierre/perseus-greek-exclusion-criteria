@@ -1,0 +1,93 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to public trial",
+      "group": "Citizens",
+      "resource": "Protection from condemnation in absentia",
+      "directionality": "MORE",
+      "verbatim": [
+        "But when he had learned the power of his enemies and the misfortunes of his friends, although he was of opinion that he was being grossly wronged because they would not try him when he was in Athens but were for condemning him in his absence, not even in these circumstances did my father see fit to desert to the enemy;"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the condemnation of Alcibiades in his absence as a 'gross wrong' and 'illegal,' implying a standard procedural rule in Athens that citizens have a right to be present at their own trial for such serious charges.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgical obligations for the wealthy",
+      "group": "The wealthy",
+      "resource": "Exemption from public service costs",
+      "directionality": "LESS",
+      "verbatim": [
+        "With regard to my father’s services here in Athens as choregus and gymnasiarch and trierarch—I am ashamed to speak; for so greatly did he excel in all the other public duties that, although those who have served the state in less splendid fashion sing their own praises therefor, if anyone should on my father’s behalf ask for a vote of thanks even in recognition of services as great as his, he would seem to be talking about petty things."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of roles like choregus, gymnasiarch, and trierarch refers to the 'liturgies'—mandatory public services funded by the wealthiest citizens in Athens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Amnesty for past political crimes",
+      "group": "Citizens",
+      "resource": "Protection from prosecution for past political acts",
+      "directionality": "MORE",
+      "verbatim": [
+        "And then do you, Teisias, his brother-in-law and a member of the Council in the time of the Thirty Tyrants, have the hardihood to rake up old grudges against those of the other side, and are you not ashamed to be violating the terms of the amnesty which permits you to reside in the city"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "This refers to the historical Amnesty of 403 BCE following the civil war between the democrats and the Thirty Tyrants, which legally prevented citizens from being prosecuted for actions taken during the conflict to ensure social stability.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Disfranchisement for insolvent debtors",
+      "group": "The poor",
+      "resource": "Right to retain citizenship",
+      "directionality": "LESS",
+      "verbatim": [
+        "For although the same penalties are prescribed for all by our laws, yet the legal risk is not the same for all; on the contrary, the wealthy risk a fine, but those who are in straitened circumstances, as is the case with me, are in danger of disfranchisement, and this is a misfortune greater, in my opinion, than exile"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Athenian law, a citizen who could not pay a court-mandated fine (like the 5 talents mentioned) became a state debtor and suffered 'atimia' (loss of civic rights or disfranchisement).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Compensation for confiscated property",
+      "group": "Citizens",
+      "resource": "Right to property compensation",
+      "directionality": "MORE",
+      "verbatim": [
+        "And when the men of the Piraeus were restored, and all the rest recovered their possessions, I alone by the influence of my personal enemies was deprived of the of the land which the people gave us as compensation for the confiscated property."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker notes that after the restoration of the democracy, it was standard for citizens (except him, by exception) to recover possessions or receive land as compensation for property seized during the era of the Thirty Tyrants.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0010.tlg004.perseus-eng2",
+  "_perseus_author": "Isocrates",
+  "_perseus_title": "Concerning the Team of Horses",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 10293,
+  "_output_tokens": 1120,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,208 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Freedom from summary punishment",
+      "group": "Citizens",
+      "resource": "Protection from imprisonment without trial",
+      "directionality": "MORE",
+      "verbatim": [
+        "Under the terms of that oath you swear to exile no one, to imprison no one, to put no one to death, without trial; whereas on this present occasion, when the person ostracized is to be cut off from his country for so long, no accusation has been made, no defence allowed, and the voting is secret."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text cites the 'oath of the People and Council' as a formal rule guaranteeing that no citizen can be imprisoned or executed without a trial, though it notes that the process of ostracism bypasses these typical protections.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Ostracism procedure at Athens",
+      "group": "Citizens",
+      "resource": "Protection from ten-year exile",
+      "directionality": "LESS",
+      "verbatim": [
+        "is to decide whether one who has done the state no wrong is to spend ten years in exile. The competitors for that prize are Alcibiades, Nicias, and myself. Upon one of us the blow must fall. [...] when the person ostracized is to be cut off from his country for so long, no accusation has been made, no defence allowed, and the voting is secret."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes the legal mechanism of ostracism, which allows the citizen body to exile a person for ten years without a formal accusation or defense, effectively reducing their protection from displacement.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female right of divorce",
+      "group": "Women",
+      "resource": "Right to initiate divorce",
+      "directionality": "MORE",
+      "verbatim": [
+        "he behaved in so profligate a fashion, bringing mistresses, slave and free, into the bridal house, that he drove his wife, who was a decent woman, to present herself before the Archon, as she was legally entitled to do, and divorce him."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that a wife is 'legally entitled' to present herself before the Archon to initiate a divorce, identifying a specific legal resource available to women in Athens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Freedom from summary arrest",
+      "group": "Free men",
+      "resource": "Protection from arbitrary imprisonment",
+      "directionality": "MORE",
+      "verbatim": [
+        "In our treaties with other states we make it a condition that no free man shall be imprisoned or placed in durance, and a heavy fine is prescribed as the penalty for so doing."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author refers to international treaties (symbola) that provide legal protection specifically to 'free men' against being imprisoned without cause, contrasting this with the illegal actions of Alcibiades.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Penalty for frivolous prosecution",
+      "group": "Citizens",
+      "resource": "Protection from failed prosecution costs",
+      "directionality": "LESS",
+      "verbatim": [
+        "It makes me angry to think that while you yourselves cannot place even malefactors under arrest without risk, because it is enacted that anyone who fails to gain one-fifth of the votes shall be liable to a fine of a thousand drachmae"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker cites an enacted law where a prosecutor who fails to secure at least one-fifth of the jury's votes is fined 1,000 drachmae, which acts as a check on the group's ability to arrest or prosecute others.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Protection against double jeopardy",
+      "group": "Citizens",
+      "resource": "Protection from re-trial on same charges",
+      "directionality": "MORE",
+      "verbatim": [
+        "especially as the laws forbid the same charge to be brought twice against the same defendant, and you have sworn to observe those laws."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author identifies a specific legal prohibition against bringing the same charge twice against a defendant once they have been acquitted or convicted.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic exclusion from choruses",
+      "group": "Foreigners",
+      "resource": "Right to participate in competing choruses",
+      "directionality": "LESS",
+      "verbatim": [
+        "The law allows the ejection of any member whatsoever of a competing chorus who is not of Athenian birth, and it is forbidden to resist any attempt at such ejection."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly mentions a standing law in Athens that restricts participation in ceremonial competition (choruses) to those of Athenian birth, allowing for the forcible removal of non-citizens (metoikoi).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave parentage through capture",
+      "group": "Slaves",
+      "resource": "Protection from enslavement after conquest",
+      "directionality": "LESS",
+      "verbatim": [
+        "after recommending that the people of Melos be sold into slavery, he purchased a woman from among the prisoners and has since had a son by her",
+        "He got himself a child by the very woman whom he had turned from a free citizen into a slave, whose father and kinsfolk he had put to death and whose city he had made a waste"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes the legal and factual condition of the people of Melos following their defeat: the women were sold as property (slaves), losing their previous status as free citizens.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "The wealthy",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "Taureas, who had spent so vast a sum, was being subjected to insults, while his rival, who showed such contempt for the law, was all-powerful.",
+        "remember Taureas who competed against Alcibiades as Choregus of a chorus of boys."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Being a Choregus (liturgy) was a compulsory and very expensive public service imposed on wealthy Athenian citizens, as evidenced by the mention of the 'vast sum' spent by Taureas.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public feeding for victors",
+      "group": "Citizens",
+      "resource": "Right to free public meals",
+      "directionality": "MORE",
+      "verbatim": [
+        "he was rewarded with free entertainment in the Prytaneum; and not content with that, he is for ever taking credit for his victory"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In Athens, winners of major games (like the Olympic victory mentioned) were legally granted 'sitesis'—the right to eat for free in the Prytaneum at public expense.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Banishment through ostracism",
+      "group": "Citizens",
+      "resource": "Right to reside in the city",
+      "directionality": "LESS",
+      "verbatim": [
+        "Observing that whenever members of the community are more powerful than the magistrates and the laws, it is impossible for an individual to obtain redress from them, he arranged that punishment for their misdeeds should be exacted by the state.",
+        "in ostracizing Callias, son of Didymius, who won victories at all the great games by his personal prowess, you took no account whatsoever of his achievement"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the specific Athenian legal mechanism of ostracism, where the community can vote to exile an influential citizen for ten years to protect the democracy.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy citizen liturgy obligation",
+      "group": "Wealthy citizens",
+      "resource": "Right to retain own earnings",
+      "directionality": "LESS",
+      "verbatim": [
+        "Of my public services I do not intend to speak. I will say only this: the expenditure required of me I meet, not from monies belonging to the state, but from my own pocket. And yet I have in fact gained victories in the contest of physique, in the torch-race, and at the tragic competitions without striking rival Choregi, and without feeling shame at my possessing less power than the laws."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author refers to 'public services' (liturgies) and 'expenditure required of me' which he must pay from his 'own pocket' (private wealth). This describes the Athenian system where wealthy citizens were legally mandated to fund state competitions and festivals, thereby losing a portion of their private wealth to the state.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0027.tlg004.perseus-eng2",
+  "_perseus_author": "Andocides",
+  "_perseus_title": "Against Alcibiades",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 3,
+  "_input_tokens": 15363,
+  "_output_tokens": 2494,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

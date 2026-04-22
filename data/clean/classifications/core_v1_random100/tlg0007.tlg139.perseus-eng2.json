@@ -1,0 +1,79 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Citizen and free non-citizen protection from corporal punishment",
+      "group": "Free men",
+      "resource": "Protection from corporal punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "Besides, there is no part of us proof against fire, sword, teeth, or scourges, or insensible of dolors and aches; yea, heats, colds, and fevers sink into all our parts alike. . . . For where are there any that are so long solaced with the conversation of friends as tyrants are racking and tormenting? . . . But now they tell us, nothing else can be so much as imagined, and nature hath no other place to bestow her good in but only that out of which her evil hath been driven; as Metrodorus speaks in his book against the Sophists. . . . Thus do Epicurus and Metrodorus, while they make avoiding of evil to be the very essence and consummation of good, and so receive but as it were the satisfaction of slaves or of rogues newly discharged the gaol, who are well enough contented if they may but wash and supple their sores and the stripes they received by whipping."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch distinguishes the 'generous' joy of the philosopher or free citizen from the 'satisfaction of slaves' who are merely relieved at the cessation of whipping. This reflects the legal reality that free status conferred protection from judicial scourging, a resource lack by slaves.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave retainment of earnings",
+      "group": "Slaves",
+      "resource": "Right to retain personal earnings",
+      "directionality": "LESS",
+      "verbatim": [
+        "For I see that even common sword-players, if they are not utter brutes and savages, but Greek born, when they are to enter the list, though there be many and very costly dishes set before them, yet take more content in employing their time in commending their poor wives to some of their friends, yea, and in conferring freedom on their slaves, than in gratifying their stomachs."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text mentions masters 'conferring freedom on their slaves' as a virtuous action. This implies a rule where slaves are property and cannot self-liberate without the master's legal intervention, demonstrating that the resource of their own personhood and the products of their labor (which could buy freedom) are legally held by the master.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Male citizen access to public office",
+      "group": "Male citizens",
+      "resource": "Eligibility for the archonship and public offices",
+      "directionality": "MORE",
+      "verbatim": [
+        "And do not they then that stand so well affected towards applause and fame themselves own they cast away very extraordinary pleasures, when they decline magistrature, public offices, and the favor and confidences of princes, from whom Democritus once said the grandest blessings of human life are derived?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch criticizes Epicureans for voluntarily abstaining from magistracies and public offices. This presupposes a rule in contemporary Greek/Roman society where such roles are a resource available to the elite group (citizens of appropriate status and gender).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy obligation for public liturgy",
+      "group": "The wealthy",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "Rich men as well as princes are used at certain times to make public entertainments and to keep open houses; but the feasts they make at the solemnities and sacrifices, when they now apprehend their minds to approach nearest the Divinity, have conjoined with the honor and veneration which they pay him a much more transcending pleasure and satisfaction."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage refers to the social and religious expectation (legalized through liturgies) that rich men and rulers provide public banquets and entertainments for the community, a drain on material resources in exchange for the immaterial resource of public honor.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0007.tlg139.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "That it is Not Possible to Live Pleasurably According to the Doctrine of Epicurus",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 22368,
+  "_output_tokens": 1091,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

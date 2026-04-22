@@ -1,0 +1,93 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic exclusion from Boeotian interests",
+      "group": "Metics",
+      "resource": "Freedom of political association",
+      "directionality": "LESS",
+      "verbatim": [
+        "Suppose us to be of this sort, and give us an account of the whole design, how from the very beginning it was carried on, what company you kept, and what particular discourse you had that day;—a thing so much desired, that I protest I would willingly go to Thebes to be informed, did not the Athenians already suspect me to lean too much to the Boeotian interest."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The speaker Archidamus, an Athenian, expresses that his political movements and interests are restricted by the suspicion of his fellow citizens regarding his 'Boeotian interest'. This reflects a norm where citizens of one polis are restricted from acting in the political interest of another, essentially limiting their freedom of political choice and association based on their primary citizenship.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Military officer knowledge of sacred sites",
+      "group": "Captains of the horse",
+      "resource": "Access to religious secrets",
+      "directionality": "MORE",
+      "verbatim": [
+        "And as soon as he returns, he must endeavor to find the sepulchre of Dirce, which not one of the Thebans themselves, besides the captains of the horse, knows; for he that goes out of his office leads his successor to the place alone, and in the dark; there they offer some sacrifices, but without fire, and leaving no mark behind them, they separate from one another, and come home again in the dark."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific institutional rule in Thebes where only individuals holding a specific military rank (captains of the horse) are permitted to know the location of and perform sacrifices at the tomb of Dirce. This is an immaterial resource (knowledge/religious right) granted exclusively based on occupation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Magistrate right to carry a spear",
+      "group": "Governors",
+      "resource": "Right to carry ceremonial weaponry",
+      "directionality": "MORE",
+      "verbatim": [
+        "But when being drunk he would not harken to reason, but grew high, began to bustle, and turned the point of his spear upon us (for our governors always carry a spear with them), I catching it in the midst, and raising it higher than my head, desired him to let it go and consult his own safety, for else he would be killed."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly states as a general rule that governors in Thebes ('our governors') always carry a spear as a symbol or tool of their office, distinguishing them from the general citizenry who do not carry such arms in civil settings.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female exclusion from public spaces",
+      "group": "Women",
+      "resource": "Freedom of movement in public",
+      "directionality": "LESS",
+      "verbatim": [
+        "The women too, as soon as they were acquainted with the flying report, unmindful of the Boeotian strictness, ran out to one another, and enquired of every one they met how things went. Those that found their fathers or their husbands followed them; for the tears and prayers of the modest women were a very great incitement to all they met."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of 'Boeotian strictness' being ignored when women ran out into the streets during the revolt indicates a social and legal norm (a rule) that generally restricted women's presence in the public sphere or their interaction with the general public.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen protection from summary execution",
+      "group": "Citizens",
+      "resource": "Right to a trial at law",
+      "directionality": "MORE",
+      "verbatim": [
+        "What, said Theocritus, doth he not approve of our method No, I replied, he would have no citizens put to death without a trial at law; but if we would endeavor to free our country without slaughter and bloodshed, none would more readily comply; but since we slight his reasons and follow our own course, he desires to be excused, to be guiltless of the blood and slaughter of his citizens, and to be permitted to watch an opportunity when he may deliver his country according to equity and right."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Epaminondas's refusal to participate in the plot is based on the established legal principle/rule that citizens possess the right to a trial before the state can legally put them to death. This identifies 'Citizens' as the group and 'Right to a trial' as the resource they are entitled to.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg109.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "A Discourse Concerning Socrates's Daemon",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 22299,
+  "_output_tokens": 1263,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,80 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Age",
+        "Education"
+      ],
+      "rule": "Tutor responsibility for child conduct",
+      "group": "Minors",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "Diogenes, when he saw a child eating sweet-meats, gave the boy’s tutor a cuff, rightly judging the fault to be, not that of him who had not learned, but of him who had not taught."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage describes a social norm where the tutor (the educator) is held legally or physically accountable for the behavioral failings of the child under their care. This implies that while the child might be the actor, the adult responsible for their 'Education' (the tutor) is the one subject to the punishment or 'cuff'.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Age",
+        "Education"
+      ],
+      "rule": "Childhood training in public decorum",
+      "group": "Minors",
+      "resource": "Access to social acceptance",
+      "directionality": "LESS",
+      "verbatim": [
+        "Then, when it is impossible to eat and drink politely in company if one has not learned from childhood, as Aristophanes says, Not to laugh like a clown, nor dainties gulp down, nor to cross one leg on the other; yet can men enter without censure the fellowship of a household, a city, a marriage, a way of life, a magistracy, if they have not learned how they should get along with fellow-beings?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch notes that without specific childhood training in manners and etiquette (eating, sitting, walking), individuals are excluded from 'censure-free' participation in civic and social life. The 'resource' is the ability to participate in the 'fellowship' of the city or a marriage without being socially ostracized.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Enforced slave blinding in Scythia",
+      "group": "Slaves",
+      "resource": "Protection from physical mutilation",
+      "directionality": "LESS",
+      "verbatim": [
+        "For the Scythians, as Herodotus says, blind their slaves that these may hand over the cream to themselves; but such a man as this gives Reason, like an eye, as it were, to the subservient and ancillary arts, while denying it to virtue."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "While referencing Herodotus (historical), Plutarch cites this as a known rule/practice of a specific society (the Scythians) where slaves are systematically blinded to serve a domestic function (preventing them from stealing cream). This highlights the lack of physical protection for the slave group.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Education",
+        "Occupation"
+      ],
+      "rule": "Training requirement for high office",
+      "group": "Minors",
+      "resource": "Access to magistracies",
+      "directionality": "LESS",
+      "verbatim": [
+        "And yet what do tutors teach? To walk in the public streets with lowered head; to touch salt-fish with but one finger, but fresh fish, bread, and meat with two; to sit in such and such a posture; in such and such a way to wear their cloaks. ... but everyone thinks that without instruction he will handle successfully a home, a marriage, a commonwealth, a magistracy - though he has not learned how to get along with wife, or servant, or fellow-citizen, or subject, or ruler!"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Plutarch points out the contradiction in his society where children are taught minor etiquettes, yet many believe they can access high resources like 'a magistracy' or 'a commonwealth' without formal instruction in 'virtue.' By arguing it *should* be taught, he identifies that proper civic participation is a resource tied to the group that has received 'instruction.'",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0007.tlg093.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Can Virtue Be Taught?",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5090,
+  "_output_tokens": 1029,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

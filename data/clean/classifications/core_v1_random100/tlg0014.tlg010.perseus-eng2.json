@@ -1,0 +1,94 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to liberty and equality",
+      "group": "Citizens",
+      "resource": "Right to enjoy liberty and equality",
+      "directionality": "MORE",
+      "verbatim": [
+        "Therefore, as the Greeks in every city are divided into these two parties—the one desiring neither to rule others by force nor to be slaves to any man, but to enjoy liberty and equality under a free constitution; the other eager to rule their fellow-countrymen, but to take their orders from some third person, who they think will enable them to compass their ends—Philip’s faction, those who hanker after tyrannies and oligarchies, have everywhere gained the supremacy, and I doubt whether of all the states there is any stable democracy left except our own."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes describes the foundational principle of the Athenian democratic group as the right to liberty and equality under a constitution, contrasting it with the factions seeking tyranny elsewhere.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Slave protection from bodily outrage",
+      "group": "Slaves",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "But what any free man would call necessity is not merely present now, but is long ago past, and from the necessity that constrains a slave we must surely pray to be delivered. Do you ask the difference? The strongest necessity that a free man feels is shame for his own position, and I know not if we could name a stronger; but for a slave necessity means stripes and bodily outrage, unfit to name here, from which Heaven defend us!"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author distinguishes the social reality of the slave group by their lack of protection from physical violence ('stripes and bodily outrage'), which constitutes the 'necessity' that governs their lives.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy share in surplus revenue",
+      "group": "Wealthy",
+      "resource": "Right to receive state distributions",
+      "directionality": "MORE",
+      "verbatim": [
+        "Since then fortune has smiled on us and increased our revenues, and the exchequer now receives four hundred instead of one hundred talents, though no property-owner suffers any loss but is rather the gainer, for all the rich citizens come up to receive their share of this increase, as indeed they have a perfect right to do."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes notes that in his time, when the state produces a surplus, the property-owning group has a recognized right to participate in the distribution of these funds alongside the poor.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Child obligation to support parents",
+      "group": "Wealthy",
+      "resource": "Right to receive parental support",
+      "directionality": "MORE",
+      "verbatim": [
+        "and indeed such a case would be covered by the laws for ill-usage, for I suppose the contribution assessed by both authorities, by nature and by law, ought to be brought honestly and paid cheerfully to the parents. Therefore, just as each one of us has a parent, so ought we to regard the collective citizens as the common parents of the whole State"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage references the 'dike kakoseos', a legal rule requiring children to provide for their parents, which Demosthenes uses as an analogy for the relationship between the state and its citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Health",
+        "Freedom"
+      ],
+      "rule": "Prisoner exclusion from public honors",
+      "group": "The sick/Prisoners",
+      "resource": "Eligibility for high public status",
+      "directionality": "LESS",
+      "verbatim": [
+        "for how is it fair that some of these men, just released from jail, should be ignorant of their own worth, while that state, which was once the champion of the rest and maintained the pre-eminence, should now be sunk in all dishonour and humiliation?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes complains that individuals recently released from jail (a status here related to the criterion of freedom/health) are attaining influence, implying a traditional social rule that such men should not hold the same 'worth' or power as unstained citizens.",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0014.tlg010.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Fourth Philippic",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 11029,
+  "_output_tokens": 1156,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,126 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen protection from arbitrary disfranchisement",
+      "group": "Citizens",
+      "resource": "Protection from disfranchisement",
+      "directionality": "MORE",
+      "verbatim": [
+        "And yet we find, gentlemen, that when someone puts forward his children with sobs and lamentations you take pity on the children for the disfranchisement that they will owe to him; and you overlook the fathers’ transgressions on account of the children, of whom you cannot yet tell whether they will grow up to be good citizens or bad."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a standard legal practice in Athenian courts where the jury avoids disfranchising children (a loss of citizen rights) by pardoning the father, indicating a social and legal protection of the citizen status across generations.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "The wealthy",
+      "resource": "Right to retain own wealth",
+      "directionality": "LESS",
+      "verbatim": [
+        "Then, when he might well have put his fortune away out of sight and refused to help you, he preferred that you should have cognizance of it, in order that, even if he chose to play the knave, he could have no chance, but must contribute to the special levies and perform his public services."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage highlights the requirement for wealthy citizens (those whose fortunes are known to the state) to fund special levies (eisphora) and perform public services (liturgies), effectively reducing their private resources for public benefit.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to hold magistracies",
+      "group": "Citizens",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "They do accuse him of having held many magistracies, but nobody is able to show that he was a bad magistrate. My own opinion is that it is not men of his character who are guilty of wrong in such situations... For our city was not betrayed by her good magistrates, but by her dishonest ones."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The discussion of Polystratus's past roles as a magistrate and the general context of holding office (magistracies) presupposes the right of citizens to be appointed to these positions.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to trial",
+      "group": "Citizens",
+      "resource": "Protection from summary punishment",
+      "directionality": "MORE",
+      "verbatim": [
+        "The defendant, having done you no wrong, has submitted himself to justice immediately after those events, when your memory of what occurred was freshest, and he could best be put to the proof: he trusted in his own innocence and in the success which justice would award him in his trial."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms that citizens have a right to a jury trial where they can argue their innocence and 'submit to justice' rather than being punished without process.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Registrar expansion of citizenship",
+      "group": "The people",
+      "resource": "Right to be recorded as a citizen",
+      "directionality": "MORE",
+      "verbatim": [
+        "after you had decreed that the government be entrusted to Five Thousand, proceeded as Registrar to make a list of nine thousand, his purpose being to risk no quarrel with any of his townsmen, but to enter the names of anyone who wished to be included; and then, if in some cases there was a disability, to do it as a favour."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The passage describes the legal process of registration (by a Registrar) which determines who is included in the body of citizens with political rights.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to legal residency",
+      "group": "Citizens",
+      "resource": "Right to remain in the city",
+      "directionality": "MORE",
+      "verbatim": [
+        "And our position is the contrary of that of other people: for others seek your indulgence by producing their children; but we seek it by producing our father here and ourselves, begging you not to deprive us of the rights that we now enjoy, and so leave us, your fellow-citizens, without a city."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker identifies as a fellow-citizen and appeals to the jury to not strip them of their existing rights which would result in being 'without a city' (exile or loss of status), confirming that citizenship grants a right to inhabit and belong to the state.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Judicial leniency for elderly defendants",
+      "group": "Elderly men",
+      "resource": "Protection from harsh sentencing",
+      "directionality": "MORE",
+      "verbatim": [
+        "Nay, pity both our father in his old age, and us. If you ruin us unjustly, what pleasure will there be for him in our society, or for us in company with each other, when we are unworthy both of you and of the city ?",
+        "We beseech you, then, in the name of all that each of you holds dear,—if any have sons, pity us for their sake; if any is our equal, or our father’s, in age, pity us and acquit us."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly links the 'old age' of the father and the 'equal age' of the jurors as a legitimate basis for seeking 'pity' and acquittal in a court of law, indicating a social norm where advanced age is a resource for judicial leniency.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0540.tlg020.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "For Polystratus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 2,
+  "_input_tokens": 9314,
+  "_output_tokens": 1575,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

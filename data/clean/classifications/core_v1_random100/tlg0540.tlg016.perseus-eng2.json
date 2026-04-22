@@ -1,0 +1,97 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "rule": "Cavalry equipment allowance recovery",
+      "group": "Cavalrymen",
+      "resource": "Right to retain state equipment allowances",
+      "directionality": "LESS",
+      "verbatim": [
+        "But the strongest proof lies in the fact that, after you had returned, you voted that the tribal officers should make out a list of those who had served in the cavalry, so that you might recover the allowances from them. Well, nobody will be able to show that I was either put on the list by the tribal officers or reported to the Revenue Commission or made to refund an allowance: yet it is within the knowledge of all that the tribal officers were under the necessity, if they failed to show who had the allowances, of bearing the loss themselves."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal decree passed by the Athenian democracy after the restoration (403 BC) to reclaim funds (katastasis) given to those who served as cavalry under the Thirty Tyrants. This shows that while cavalrymen normally received these funds, those associated with the oligarchy lost the right to retain them.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Magistracy candidacy scrutiny (dokimasia)",
+      "group": "Citizens",
+      "resource": "Eligibility for the Council",
+      "directionality": "MORE",
+      "verbatim": [
+        "in the case of scrutinies one has a right to render an account of one’s whole life. I request you, therefore, to give me a favorable hearing: I will make my defence as briefly as I can. ... And I see that you also take this view, and that many of those who served then in the cavalry are on the Council, while many others have been elected generals and brigadiers."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The entire speech is situated within a 'dokimasia' (scrutiny), a mandatory legal process where citizen candidates for office (like the Council) must have their character and past conduct approved by current officials or a court to secure the right to serve.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage",
+        "Wealth / Properties"
+      ],
+      "rule": "Daughter's right to marriage dowry",
+      "group": "Daughters",
+      "resource": "Right to a marriage dowry",
+      "directionality": "MORE",
+      "verbatim": [
+        "In the first place, although but little property had been bequeathed to me, owing to the disasters that had befallen both my father and the city, I bestowed two sisters in marriage with a dowry of thirty minae apiece; to my brother I allowed such a portion as made him acknowledge that he had got a larger share of our patrimony than I had"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Under Athenian social and legal norms, the male head of the family is expected to provide dowries for female relatives from the paternal estate to ensure their marriageability and maintenance, even if the estate is diminished.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Citizenship"
+      ],
+      "rule": "Wealthy provision for needy soldiers",
+      "group": "The poor",
+      "resource": "Financial support for military service",
+      "directionality": "MORE",
+      "verbatim": [
+        "I knew that some among them, though true and ardent patriots, lacked means for expenses of service, I said that the well-to-do ought to provide what was necessary for those in needy circumstances. Not only did I recommend this to the others, but I myself gave thirty drachmae each to two men"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a social convention/norm where the wealthy (liturgical class or well-to-do) are expected to provide 'travel money' or equipment funds for poorer fellow citizens to enable them to fulfill their military duties.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Age",
+        "Citizenship"
+      ],
+      "rule": "Young citizen public speaking right",
+      "group": "Minors",
+      "resource": "Right to address the assembly",
+      "directionality": "LESS",
+      "verbatim": [
+        "I have had occasion to observe, gentlemen, that some people are annoyed with me merely for attempting at too early an age to speak before the people. But, in the first place, I was compelled to speak in public to protect my own interests"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "While technically legal for any citizen to speak,social norms and potential legal prejudices (as shown by the 'annoyance' and need for defense) restricted the participation of younger citizens in the ekklesia/public forum until a more mature age.",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0540.tlg016.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "In Defense of Mantitheus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5090,
+  "_output_tokens": 1226,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

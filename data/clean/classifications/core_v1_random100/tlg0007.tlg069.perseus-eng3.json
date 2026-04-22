@@ -1,0 +1,95 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Age",
+        "Freedom"
+      ],
+      "rule": "Release from tutor care",
+      "group": "Young men of good family",
+      "resource": "Freedom from adult oversight",
+      "directionality": "MORE",
+      "verbatim": [
+        "One can see in Terence, Andria, i. 1. 24, for example, how the young men of good family, suddenly released from the care of tutors by assuming the toga virilis, conventionally took up a more or less serious avocation."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a standard societal transition where attaining a certain age and status (toga virilis) results in the removal of constant supervision by pedagogues/tutors.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Formal transition to manhood",
+      "group": "Young men",
+      "resource": "Right to self-governance",
+      "directionality": "MORE",
+      "verbatim": [
+        "The discourse which I gave on the subject of listening to lectures I have written out and sent to you, my dear Nicander, so that you may know how rightly to listen to the voice of persuasion, now that you are no longer subject to authority, having assumed the garb of a man."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch notes that the assumption of adult clothing (garb of a man) legally/socially ends the period where the youth is 'subject to authority' of handlers.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Naturalized citizen legal compliance",
+      "group": "Resident aliens",
+      "resource": "Right to naturalized citizenship",
+      "directionality": "MORE",
+      "verbatim": [
+        "We may find a comparison in the case of newly naturalized citizens; those among them who were alien born and perfect strangers find fault with many of the things that are done, and are discontented; whereas those who come from the class of resident aliens, having been brought up under our laws and grown to be well acquainted with them, have no difficulty in accepting what devolves upon them and are content."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific class (resident aliens) who transition into a new group (naturalized citizens) and notes their specific relationship with the laws of the state compared to foreign-born naturalized citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Youthful silence in discourse",
+      "group": "Young men",
+      "resource": "Right to speak in public",
+      "directionality": "LESS",
+      "verbatim": [
+        "In all cases, then, silence is a safe adornment for the young man, and especially so, when in listening to another he does not get excited or bawl out every minute, but even if the remarks be none too agreeable, puts up with them, and waits for the speaker to pause"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a social norm where young men are expected to refrain from interjecting or leading discourse, establishing silence as the appropriate behavior for their age group.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility",
+        "Freedom"
+      ],
+      "rule": "Free man's moderation in praise",
+      "group": "Free men",
+      "resource": "Right to bestow public commendation",
+      "directionality": "LESS",
+      "verbatim": [
+        "The proprieties in regard to bestowing commendation also require some caution and moderation, for the reason that neither deficiency nor excess therein befits the free man."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Social standing as a free man (in contrast to a parasite or slave) dictates a specific restricted way of giving praise to avoid looking like a flatterer.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0007.tlg069.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "On Listening to Lectures",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 13864,
+  "_output_tokens": 1024,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

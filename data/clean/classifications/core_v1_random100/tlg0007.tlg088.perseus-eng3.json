@@ -1,0 +1,78 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Member exclusion from comedy writing",
+      "group": "Members of the Areopagus",
+      "resource": "Right to write comedies",
+      "directionality": "LESS",
+      "verbatim": [
+        "And for the dramatic poets, the Athenians considered the writing of comedy so undignified and vulgar a business that there was a law forbidding any member of the Areopagus to write comedies."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch cites a specific Athenian law that restricted the creative output of high-ranking officials in the Areopagus based on the perceived social indignity of the medium.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Choregoi obligation for festival funding",
+      "group": "Wealthy citizens",
+      "resource": "Right to retain private wealth",
+      "directionality": "LESS",
+      "verbatim": [
+        "The result for the defeated choregoi was to be held in contumely and ridicule; but to the victors belonged a tripod, which was, as Demetrius says, not a votive offering to commemorate their victory, but a last oblation of their wasted livelihood, an empty memorial of their vanished estates.",
+        "It was in reference to all this that a Spartan not ineptly remarked that the Athenians were making a great mistake in wasting their energies on amusements, that is to say, in lavishing on the theatre what would pay for great fleets and would support armies in the field."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes the 'choregia' system where wealthy individuals were required to spend their private fortunes (estates) on public dramatic productions, often leading to the exhaustion of their resources.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public burial for war heroes",
+      "group": "Citizens",
+      "resource": "Right to public burial",
+      "directionality": "MORE",
+      "verbatim": [
+        "Wherefore the State has given public burial not to men like Isocrates, Antiphon, and Isaeus, but to these men, whose remains she has taken in her embrace; and these men it was that the orator deified in his oath when he swore by men whose example he was not following."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The author notes a distinction in Athenian state honors, where public burial was a specific resource granted to those who died in military service compared to those who were merely orators or teachers.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Equal suffrage for liberated Greeks",
+      "group": "Liberated Greek allies",
+      "resource": "Right to equal suffrage",
+      "directionality": "MORE",
+      "verbatim": [
+        "But while Timotheüs was freeing Euboea, and Chabrias with his fleet was fighting at Naxos, and Iphicrates near Lechaeum was cutting to pieces the Spartan division, and the Athenian people, having liberated every city, bestowed upon Greece equal suffrage with themselves, Isocrates sat at home remodelling a book with mere words."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch records that after specific military victories, the Athenian state extended political rights (suffrage) to the inhabitants of the cities they had liberated.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0007.tlg088.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Were the Athenians More Famous in War or in Wisdom?",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 10502,
+  "_output_tokens": 878,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,109 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Ethnicity"
+      ],
+      "rule": "Greek exclusion from large-scale statecraft",
+      "group": "Greeks",
+      "resource": "Access to high-level imperial governance",
+      "directionality": "LESS",
+      "verbatim": [
+        "The exercise of statecraft on a large scale was virtually limited to Romans. The ancient Greek city-states retained, however, their local self-government, subject to the supervision of the proconsul; they could enter into agreements with each other, and could send envoys to Rome if occasion arose. A man could, therefore, find useful and honourable occupation in public life, as Plutarch himself did."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a systematic restriction where 'large scale' statecraft is reserved for Romans, while Greeks (the group to which the author and the recipient belong) are limited to local administrative roles under Roman supervision (the proconsul).",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "City-state local self-government",
+      "group": "Citizens of Greek city-states",
+      "resource": "Right to local self-government",
+      "directionality": "MORE",
+      "verbatim": [
+        "The ancient Greek city-states retained, however, their local self-government, subject to the supervision of the proconsul; they could enter into agreements with each other, and could send envoys to Rome if occasion arose."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Under Roman rule, Greek citizens retained specific legal rights to manage local affairs, enter treaties with other cities, and petition the central Roman authority through envoys.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Noble access to magistracies",
+      "group": "Nobles",
+      "resource": "Eligibility for the archonship",
+      "directionality": "MORE",
+      "verbatim": [
+        "Therefore, seeing that the desire has been aroused in you a Speaker of speeches to be, and also a doer of actions in your native State, as befits your noble birth, since you have not time to gain an understanding of a philosopher’s life in the open among affairs of State and public conflicts or to be a spectator of examples worked out in deed, not merely in word, and since you ask for some precepts of statecraft, I think it is not at all fitting that I should refuse"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch addresses Menemachus, stating that public leadership and political action are appropriate specifically due to his 'noble birth', indicating that high lineage grants the right and expectation to participate in statecraft.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Citizens",
+      "resource": "Right to vote in the Ekklesia",
+      "directionality": "MORE",
+      "verbatim": [
+        "Take care, Pericles; you are ruling free men, you are ruling Greeks, Athenian citizens, but you must also say to yourself: You who rule are a subject, ruling a State controlled by proconsuls, the agents of Caesar; these are not the spearmen of the plain, nor is this ancient Sardis, nor the famed Lydian power. You should arrange your cloak more carefully and from the office of the generals keep your eyes upon the orators’ platform, and not have great pride or confidence in your crown, since you see the boots of Roman soldiers just above your head."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch reminds the statesman that he deals with 'Athenian citizens' who are 'free men', implying their inherent right to be governed as a collective with political participation, even under the shadow of Roman authority.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Roman oversight of local decrees",
+      "group": "Citizens",
+      "resource": "Autonomy in local government",
+      "directionality": "LESS",
+      "verbatim": [
+        "For just as those who have become accustomed neither to dine nor to bathe except by the physician’s orders do not even enjoy that degree of health which nature grants them, so those who invite the sovereign’s decision on every decree, meeting of a council, granting of a privilege, or administrative measure, force their sovereign to be their master more than he desires."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a contemporary reality where local Greek cities frequently refer their own decrees and administrative measures to the Roman 'sovereigns', thereby losing their practical autonomy.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Proconsular annulment of local power",
+      "group": "Citizens",
+      "resource": "Legislative finality",
+      "directionality": "LESS",
+      "verbatim": [
+        "For what dominion, what glory is there for those who are victorious? What sort of power is it which a small edict of a proconsul may annul or transfer to another man and which, even if it last, has nothing in it seriously worth while?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Plutarch explains that any local political power or decision gained by citizens can be immediately annulled by a Roman proconsul's edict, showing a lack of final legislative resource for the local group.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0007.tlg118.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Precepts of Statecraft",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 2,
+  "_input_tokens": 33391,
+  "_output_tokens": 1403,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

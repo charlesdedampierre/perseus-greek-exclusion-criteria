@@ -1,0 +1,61 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Commercial maritime court admissibility",
+      "group": "Shipowners",
+      "resource": "Access to specialized maritime courts",
+      "directionality": "MORE",
+      "verbatim": [
+        "The laws, men of the jury, ordain that actions for shipowners and merchants shall be upon loans for shipments to or from Athens, concerning which there shall be written agreements; and if anyone brings suit in violation of this provision, the action shall not be maintainable."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly cites an Athenian law stating that legal actions (dikai emporikai) are specifically reserved for shipowners and merchants provided they have written contracts for maritime loans.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Commercial maritime court admissibility",
+      "group": "Merchants",
+      "resource": "Access to specialized maritime courts",
+      "directionality": "MORE",
+      "verbatim": [
+        "The laws, men of the jury, ordain that actions for shipowners and merchants shall be upon loans for shipments to or from Athens, concerning which there shall be written agreements; and if anyone brings suit in violation of this provision, the action shall not be maintainable."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law mentioned provides a specific legal venue and procedure for merchants involved in the Athenian import/export trade, restricted by the requirement of a written agreement.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Bail requirement for non-citizens",
+      "group": "Non-residents",
+      "resource": "Freedom from pre-trial detention",
+      "directionality": "LESS",
+      "verbatim": [
+        "For if the judgement by default had not been of your own contriving, you would at the same time have called him before the Polemarch, and have had him put under bail; and, if he had appointed sureties, he would have been forced to remain, or you would have had persons from whom you could recover damages; if he had not given bail, he would have gone to prison."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker describes the standard legal process for a defendant brought before the Polemarch (the magistrate for non-citizens/metics). Such defendants must provide sureties (bail) to remain free until trial; failure to do so results in imprisonment.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg032.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Against Zenothemis",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6601,
+  "_output_tokens": 639,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

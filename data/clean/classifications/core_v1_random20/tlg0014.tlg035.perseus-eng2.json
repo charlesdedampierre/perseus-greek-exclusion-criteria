@@ -1,0 +1,95 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Commercial grain transport restriction",
+      "group": "Athenians and resident aliens",
+      "resource": "Right to transport grain to non-Athenian ports",
+      "directionality": "LESS",
+      "verbatim": [
+        "It shall be unlawful for any Athenian or any alien residing at Athens or for any person over whom they have control, to lend money on any vessel which is not going to bring to Athens grain or the other articles specifically mentioned. [...] And he shall have no right to bring action for the money which he has lent for a voyage to any other place than to Athens, and no magistrate shall bring any such suit to trial."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text explicitly cites a law prohibiting Athenians and metics (resident aliens) from financing or transporting grain to ports other than Athens, reflecting a protectionist maritime policy to ensure the city's food supply.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Heir liability for debts",
+      "group": "Heirs",
+      "resource": "Right to retain inherited property without debt liability",
+      "directionality": "LESS",
+      "verbatim": [
+        "since he is the brother of Artemo and has possession of all his property, both all that he left here and all that he had at Phaselis, and is the heir to his whole estate; and since he can show no law which gives him the right to hold his brother’s property and to have administered it as he pleased, and yet to refuse to pay back money which belongs to others"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The orator argues based on the established legal norm that taking possession of an estate (acting as heir) obligates the individual to settle the debts associated with that estate.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Ethnicity",
+        "Citizenship"
+      ],
+      "rule": "Alien access to maritime courts",
+      "group": "Foreigners",
+      "resource": "Access to special commercial courts (dikai emporikai)",
+      "directionality": "MORE",
+      "verbatim": [
+        "Do not the same laws stand written for us all? And have we not all the same rights in regard to mercantile suits? [...] those who have lent money in your port for an adventure overseas, and have been defrauded of it, should be led off to prison by those who borrowed and are seeking to evade payment? [...] Out of the hosts of people, both Greeks and barbarians, who frequent your exchange, the Phaselites alone have more lawsuits, whenever the courts sit, than all others put together."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text confirms that foreign merchants (Phaselites, Greeks, and 'barbarians') had the right to bring and defend lawsuits in Athenian commercial courts regarding maritime contracts.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic requirement for a patron",
+      "group": "Resident aliens",
+      "resource": "Right to reside without a patron (prostates)",
+      "directionality": "LESS",
+      "verbatim": [
+        "Or will the Polemarch bring us into court? Yes, for disregard of a patron, or for having no patron."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author references the legal requirement for aliens in Athens to have a citizen patron (prostates), noting that cases regarding the lack of one are heard by the Polemarch.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Lender control of security",
+      "group": "Commercial lenders",
+      "resource": "Right to control pledged cargo",
+      "directionality": "MORE",
+      "verbatim": [
+        "And they shall deliver to the lenders in their entirety the goods offered as security to be under their absolute control until such time as they shall themselves have paid the money due in accordance with the agreement. And, if they shall not pay it within the time agreed upon, it shall be lawful for the lenders to pledge the goods or even to sell them for such price as they can get"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The legal contract (which the text claims is binding above all else in maritime law) grants lenders the right to physically control and sell the security if the debt is defaulted upon.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0014.tlg035.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "Against Lacritus",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 10677,
+  "_output_tokens": 1134,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

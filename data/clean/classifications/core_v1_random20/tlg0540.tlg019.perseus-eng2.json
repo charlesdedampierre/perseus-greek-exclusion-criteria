@@ -1,0 +1,182 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Confiscated property sale for Treasury",
+      "group": "Citizens",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "whereas we, as soon as the confiscation was declared and my sister had left the place, posted a guard in the deserted house, in order that neither door-timber nor utensils nor anything else might be lost. Personal effects were realized to the value of over a thousand drachmae, [§31] —more than you had received in any previous instance."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the standard practice of the Athenian Treasury seizing and selling the private property (including household furniture and fixtures like doors) of individuals convicted of certain crimes.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Wife's dowry return upon death",
+      "group": "Women",
+      "resource": "Right to retain dowry",
+      "directionality": "MORE",
+      "verbatim": [
+        "Moreover we, bereft of our kinsfolk, bereft of the dowry, and compelled to rear three small children, are attacked besides by base informers, and are in danger of losing what our ancestors bequeathed to us... we now repeat our former offer to pledge ourselves to the Commissioners... that we hold no part of Aristophanes’ estate, but are owed from it the dowry of my sister."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker argues that his sister is legally 'owed' her dowry back from the confiscated estate of her deceased husband, indicating a rule where the dowry is a protected resource for the woman's natal family after the husband's death/forfeiture.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy citizen liturgy obligations",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "and in four or five years it was a difficult thing, gentlemen, when he had no wealth to start with, to be twice a producer of tragedies, on his father’s account as well as his own; to equip a warship for three years in succession; to have been a contributor to special levies on many occasions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text details the specific social and legal expectations (liturgies) placed on wealthy individuals to fund the navy (trierarchy) and arts (tragedies), which functioned as a mandatory distribution of wealth to the State.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Orphan maintenance by maternal family",
+      "group": "Minors",
+      "resource": "Right to be reared by kin",
+      "directionality": "MORE",
+      "verbatim": [
+        "And the greatest hardship of all for us will be that, having taken charge of my sister and her many children, we must rear them with no means available even for ourselves, if you deprive us of what we now have."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Following the death of their father and the confiscation of his estate, the law/custom mandates that the children be taken in and reared by their maternal uncle and grandfather, establishing a right to kinship support.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to public burial",
+      "group": "Citizens",
+      "resource": "Right to burial",
+      "directionality": "LESS",
+      "verbatim": [
+        "Reflect therefore that Nicophemus and Aristophanes were put to death without trial... before anyone could come to their aid... For nobody even saw them again after their arrest, since their bodies were not even delivered for burial: so awful has their calamity been that, in addition to the rest, they have suffered this privation also."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker notes that the refusal to deliver the bodies for burial was an additional 'privation' beyond the death penalty, implying that under normal legal circumstances, even executed citizens retained the right to be buried by their families.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "rule": "Warship equipment liturgy (trierarchy)",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from public service costs",
+      "directionality": "LESS",
+      "verbatim": [
+        "Aristophanes had acquired a house with land for more than five talents, had produced dramas on his own account and on his father’s at a cost of five thousand drachmae, and had spent eighty minae on equipping warships;",
+        "For as many as fifty years my father performed services to the State, both with his purse and with his person. In all that time, with his reputation for ancestral wealth, he is not likely to have shunned any expense. However, I will strengthen the case for you with witnesses. . . In addition, he also joined privately in portioning daughters and sisters of certain needy citizens; there were men whom he ransomed from the enemy, and others for whose funerals he provided money."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the trierarchy (equipping warships) and other liturgies as expected public services for wealthy citizens in Athens. The speaker lists specific expenditures by Aristophanes and his own father to prove their loyalty and the depletion of their estates, confirming that being a wealthy citizen entailed a obligation to fund the navy and state festivals.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "rule": "Special property tax (eisphora)",
+      "group": "Wealthy citizens",
+      "resource": "Right to retain full property value",
+      "directionality": "LESS",
+      "verbatim": [
+        "on account of the two, no less than forty minae have been contributed to special levies; for the Sicilian expedition he spent a hundred minae, and for commissioning the warships, when the Cypriots came and you gave them the ten vessels, he supplied thirty thousand drachmae to pay the light infantry and purchase their arms."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The mention of 'special levies' (eisphora) refers to the taxes imposed on property owners in Athens to fund military expeditions. This rule required citizens with sufficient property to contribute capital directly to the state's military needs.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Wealth / Properties"
+      ],
+      "rule": "State confiscation of private property",
+      "group": "Citizens",
+      "resource": "Right to own land in Attica",
+      "directionality": "LESS",
+      "verbatim": [
+        "So, in this case, if you should confiscate the property of Timotheus,—which Heaven forbid, unless some great benefit is to accrue to the State,—and you should receive a less amount from it than has been derived from that of Aristophanes, would this give you any good reason for thinking that his relatives should lose what belongs to them?",
+        "If he had been of another stamp, he would not have left but a small remnant of his estate; for if you should now be utterly deceived by these people, and should confiscate our property, you would receive less than two talents."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The legal mechanism of confiscation (demio-prata) allowed the Athenian state to seize the entire estate of a citizen convicted of certain crimes or state debts. The speaker is defending himself against such a proceeding, which would deprive him and his relatives of their inherited and acquired property.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Right of children to inherit",
+      "group": "Citizens",
+      "resource": "Right to inherit property directly",
+      "directionality": "MORE",
+      "verbatim": [
+        "For Conon had a son and a wife in Cyprus, and Nicophemus a wife and a daughter, and they also felt that their property there was just as safe as their property here.",
+        "even if a man had distributed among his sons what he had not acquired but inherited from his father, he would have reserved a goodly share for himself; for everyone would rather be courted by his children as a man of means than beg of them as a needy person.",
+        "to his son he left the rest,—seventeen talents."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text assumes as a general rule that Athenian citizens (like Conon, Nicophemus, and the speaker's father) leave their property to their sons and children. The speaker explicitly mentions the distribution of inheritance as a standard social and legal expectation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Gender"
+      ],
+      "rule": "Dowry provision for female relatives",
+      "group": "Women",
+      "resource": "Right to a marriage dowry",
+      "directionality": "MORE",
+      "verbatim": [
+        "In addition, he also joined privately in portioning daughters and sisters of certain needy citizens: there were men whom he ransomed from the enemy, and others for whose funerals he provided money."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The act of 'portioning' (providing a dowry) for daughters and sisters of needy citizens highlights a societal rule/norm where women required a dowry to marry. Without it, they lacked the resource of a valid marriage. Providing these portions was seen as a high act of public and private virtue.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0540.tlg019.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "On the Property of Aristophanes",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 2,
+  "_input_tokens": 12170,
+  "_output_tokens": 2478,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,110 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to common benefits",
+      "group": "Citizens",
+      "resource": "Common benefits of the state",
+      "directionality": "MORE",
+      "verbatim": [
+        "for if the state is common to all who enjoy civic rights, the benefits which the state receives are likewise, I presume, common benefits."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Andocides identifies a foundational rule of the Athenian polis: those holding civic rights (citizens) are entitled to share in the collective benefits or successes of the state, using this as a premise for his legal argument.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Protection for hearth suppliants",
+      "group": "Suppliants",
+      "resource": "Protection from summary execution",
+      "directionality": "MORE",
+      "verbatim": [
+        "I saw the uproar into which the meeting was breaking, and knew that I was lost; so I sprang at once to the hearth and laid hold of the sacred emblems. That act, and that alone, was my salvation at the time; for although I stood disgraced in the eyes of the gods, they, it seems, had more pity on me than did men; when men were desirous of putting to death, it was the gods who saved my life."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes the religious and legal norm where an individual facing immediate death can claim sanctuary by grasping sacred emblems at a hearth, which prevents their captors from killing them instantly.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Council accountability to the assembly",
+      "group": "The Council",
+      "resource": "Protection from public censure",
+      "directionality": "LESS",
+      "verbatim": [
+        "Those five hundred are considering at leisure the proposal placed before them, and they are liable to be called to account and censured by the rest of you for any mistake which they may make; whereas you have none to hold you to blame, as you very rightly have the power of ordering your affairs wisely or foolishly at will."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Andocides describes the institutional rule where the Council of Five Hundred is legally and politically accountable to the general assembly of citizens, whereas the assembly itself holds supreme power and is not accountable to a higher body.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom",
+        "Citizenship"
+      ],
+      "rule": "Civic rights for state benefactors",
+      "group": "Slaves and foreigners",
+      "resource": "Right to civic rights",
+      "directionality": "MORE",
+      "verbatim": [
+        "I often see you bestowing civic rights and substantial grants of money upon both slaves and foreigners from every part of the world, if they prove to have done you some service. And you are acting wisely in making such gifts; they engender the greatest possible willingness to serve you."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites the common Athenian practice/rule of rewarding non-citizens (slaves or metics/foreigners) with citizenship or financial grants as a specific incentive for service to the state.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to grant pardon",
+      "group": "Citizens",
+      "resource": "Right to grant legal pardon",
+      "directionality": "MORE",
+      "verbatim": [
+        "The fact that you deprived me of the pardon which you had given me has never, I assure you, caused me to feel aggrieved."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author is addressing the Athenian assembly (citizens), acknowledging their legal authority to both grant and revoke pardons. This reflects the sovereign political power held by the citizen body in legal matters.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen right to democratic governance",
+      "group": "Citizens",
+      "resource": "Right to democratic government",
+      "directionality": "LESS",
+      "verbatim": [
+        "After those scoundrels had induced you to wrong your own selves so grossly as to change empire for slavery, and to replace democracy by despotism,i.e. the Four Hundred."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes an event where the citizen body was deprived of its democratic rights by a specific political faction (the Four Hundred), framing the loss of democracy as a loss of a fundamental resource for that group.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0027.tlg002.perseus-eng2",
+  "_perseus_author": "Andocides",
+  "_perseus_title": "On His Return",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 2,
+  "_input_tokens": 9336,
+  "_output_tokens": 1218,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

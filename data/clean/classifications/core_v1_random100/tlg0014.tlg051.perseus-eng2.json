@@ -1,0 +1,95 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Trierarchic crown for earliest ship preparation",
+      "group": "Wealthy citizens",
+      "resource": "Right to receive a honorary crown",
+      "directionality": "MORE",
+      "verbatim": [
+        "But the fact is, the people appointed that the treasurer should give the crown to the one who first got his trireme ready for sea; and this I have done; so I declare that it is I who should be crowned."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific decree (rule) where trierarchs, a group defined by their wealth and obligation to man ships, are eligible for a state honor (crown) based on the speed of their performance.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Citizenship"
+      ],
+      "rule": "Imprisonment for late ship launch",
+      "group": "Trierarchs",
+      "resource": "Protection from imprisonment",
+      "directionality": "LESS",
+      "verbatim": [
+        "When you had passed a decree and confirmed it, to the effect that whoever did not bring his ship around to the pier before the last day of the month should be placed under arrest and handed over to the court"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The Athenian assembly passed a decree establishing a legal penalty (imprisonment/arrest) for trierarchs who failed to meet a specific deadline for naval preparation.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Freedom"
+      ],
+      "rule": "Punishment for deserters",
+      "group": "Sailors",
+      "resource": "Protection from corporal punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "I for my part wonder why in the world these men should imprison and punish those of the sailors who desert their ships—men who receive only thirty drachmae apiece,—while you do not deal in the same manner with those of the trierarchs who do not sail with their ships"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker contrasts the treatment of low-status sailors with wealthy trierarchs, noting as a factual matter of practice that sailors are imprisoned and punished for desertion.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Penalty for letting out trierarchies",
+      "group": "Trierarchs",
+      "resource": "Right to personal freedom",
+      "directionality": "LESS",
+      "verbatim": [
+        "For, when you were worsted in the sea-fight against Alexander, you thought that the trierarchs who had let out their trierarchies were chiefly responsible for what had happened, and you gave them over for imprisonment, having decided by show of hands that they had betrayed their ships and deserted their post."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Although the specific example provided is historical (361 BC), the author describes it as a precedent for the current case, establishing that trierarchs who subcontract their duty (let out trierarchies) are legally liable to imprisonment for desertion.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Partial disenfranchisement for illegal speech",
+      "group": "Citizens",
+      "resource": "Right to full personal rights",
+      "directionality": "LESS",
+      "verbatim": [
+        "More than this, it seems to me to be absurd that, when a man says anything contrary to law, he should, if he is convicted, be deprived of one third of his personal rights, while those guilty not of words but of acts that are illegal should pay no penalty."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text references a legal rule where a citizen convicted of making an illegal proposal (graphe paranomon) or similar oratory offenses loses a portion of their civic rights (partial atimia).",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg051.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "On The Trierarchic Crown",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5497,
+  "_output_tokens": 1049,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

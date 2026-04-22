@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Group meta — 30-item check</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='13'>G</text></svg>">
+<style>
+  :root { --bg:#fafaf7; --fg:#1a1a1a; --muted:#666; --good:#166534; --bad:#991b1b; --card:#fff; --border:#e5e3db; --accent:#1f3b4d; }
+  * { box-sizing: border-box; }
+  body { font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; background: var(--bg); color: var(--fg); margin: 0; padding: 24px; }
+  header { max-width: 820px; margin: 0 auto 16px; display: flex; justify-content: space-between; align-items: baseline; }
+  header h1 { font-size: 18px; font-weight: 600; margin: 0; }
+  header .counters { color: var(--muted); font-size: 13px; }
+  .card { max-width: 820px; margin: 0 auto 14px; background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 18px 22px; }
+  .top { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; margin-bottom: 10px; }
+  .group { font-size: 17px; font-weight: 600; color: var(--fg); }
+  .meta { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.04em; }
+  .meta-chip { display: inline-block; background: #eaf1f6; color: var(--accent); padding: 3px 10px; border-radius: 12px; font-size: 13px; font-weight: 500; margin-left: 6px; }
+  .rule-box { background: #f7f6f0; border: 1px solid var(--border); border-radius: 6px; padding: 8px 12px; margin: 8px 0; font-size: 14px; }
+  .rule-title { font-weight: 500; color: #333; }
+  .rule-detail { color: var(--muted); font-size: 13px; margin-top: 3px; }
+  .source { color: var(--muted); font-size: 12px; margin-top: 4px; font-style: italic; }
+  .dir-more { color: var(--good); font-weight: 600; }
+  .dir-less { color: var(--bad); font-weight: 600; }
+  .buttons { display: flex; gap: 8px; margin-top: 12px; }
+  button { border: 1px solid var(--border); background: #fff; padding: 6px 14px; font-size: 14px; border-radius: 6px; cursor: pointer; font-family: inherit; }
+  button:hover { background: #f2f0e8; }
+  button.ok.selected { background: var(--good); color: #fff; border-color: var(--good); }
+  button.bad.selected { background: var(--bad); color: #fff; border-color: var(--bad); }
+  textarea { width: 100%; margin-top: 8px; padding: 8px; font-family: inherit; font-size: 13px; border: 1px solid var(--border); border-radius: 6px; min-height: 38px; resize: vertical; }
+  .footer { max-width: 820px; margin: 24px auto 0; display: flex; gap: 12px; justify-content: center; }
+  .footer button { padding: 10px 18px; font-weight: 500; }
+  .footer button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <h1>Group → group_meta — 30-item check</h1>
+  <span class="counters" id="counters"></span>
+</header>
+<div id="cards"></div>
+<div class="footer">
+  <button class="primary" id="download">Download JSON</button>
+  <button id="summary">Show summary</button>
+</div>
+
+<script>
+const DATA = [{"group": "Bachelors and Maidens", "group_meta": "Men;Women", "rule": "Pre-marital hair sacrifice", "directionality": "LESS", "resource": "Right to keep hair before marriage", "author": "Lucian of Samosata", "title": "The Goddesse of Surrye"}, {"group": "Priests", "group_meta": "Priests", "rule": "Priestly eligibility for kingship", "directionality": "MORE", "resource": "Eligibility for the kingship", "author": "Plato", "title": "Statesman"}, {"group": "Old men", "group_meta": "Men;Elders", "rule": "Aged citizen discharge from duties", "directionality": "LESS", "resource": "Right to participate in office", "author": "Aristotle", "title": "Politics"}, {"group": "Scythians", "group_meta": "Scythians", "rule": "Scythian festival drinking restriction", "directionality": "LESS", "resource": "Access to communal drinking cups", "author": "Aristotle", "title": "Politics"}, {"group": "Soldiers", "group_meta": "Soldiers", "rule": "Exemption from lethal combat training", "directionality": "MORE", "resource": "Right to personal safety in training", "author": "Lucian of Samosata", "title": "Anacharsis, or Athletics"}, {"group": "Resident aliens", "group_meta": "Foreigners", "rule": "Metic protection from assault", "directionality": "MORE", "resource": "Protection from corporal punishment", "author": "Xenophon", "title": "Constitution of the Athenians"}, {"group": "Younger brothers", "group_meta": "Minors;Heirs", "rule": "Magistracy exclusion by age", "directionality": "LESS", "resource": "Eligibility for the magistracy", "author": "Aristotle", "title": "Politics"}, {"group": "The notables", "group_meta": "Nobles", "rule": "Tyrannical elimination of notables", "directionality": "LESS", "resource": "Protection from arbitrary execution", "author": "Aristotle", "title": "Politics"}, {"group": "Wealthy or well-born persons", "group_meta": "The wealthy;Nobles", "rule": "Comic stage satire vulnerability", "directionality": "LESS", "resource": "Protection from public libel", "author": "Xenophon", "title": "Constitution of the Athenians"}, {"group": "Eupatridae", "group_meta": "Nobles", "rule": "Archonship reserved for specific classes", "directionality": "MORE", "resource": "Eligibility for the archonship", "author": "Aristotle", "title": "Athenian Constitution"}, {"group": "Herdsman", "group_meta": "Artisans", "rule": "Herdsman provision of animal music", "directionality": "MORE", "resource": "Right to perform music for herds", "author": "Plato", "title": "Statesman"}, {"group": "The well-to-do", "group_meta": "The wealthy", "rule": "Wealth-based office distribution in republics", "directionality": "MORE", "resource": "Eligibility for the magistracy", "author": "Aristotle", "title": "Politics"}, {"group": "Choragi and Trierarchs", "group_meta": "Magistrates", "rule": "Liturgical adjudication requirements", "directionality": "MORE", "resource": "Right to legal adjudication", "author": "Xenophon", "title": "Constitution of the Athenians"}, {"group": "60-year-old men", "group_meta": "Men;Elders", "rule": "Compulsory arbitration service for seniors", "directionality": "LESS", "resource": "Exemption from judicial labor", "author": "Aristotle", "title": "Athenian Constitution"}, {"group": "The multitude (freemen)", "group_meta": "The multitude;Citizens", "rule": "Collective judicial authority of the multitude", "directionality": "MORE", "resource": "Right to judge lawsuits", "author": "Aristotle", "title": "Politics"}, {"group": "The dishonored", "group_meta": "The multitude", "rule": "Exclusion from public honors", "directionality": "LESS", "resource": "Access to public honors", "author": "Aristotle", "title": "Politics"}, {"group": "Free-born individuals", "group_meta": "Citizens", "rule": "Protection of free-born from enslavement", "directionality": "MORE", "resource": "Protection from enslavement", "author": "Plutarch", "title": "The Lives of the Ten Orators"}, {"group": "The distinguished", "group_meta": "Nobles", "rule": "Noble access to royal appointment", "directionality": "MORE", "resource": "Eligibility for the kingship", "author": "Aristotle", "title": "Politics"}, {"group": "Hired laborers", "group_meta": "The poor;Artisans", "rule": "Hired laborer exclusion from oligarchy", "directionality": "LESS", "resource": "Right to share office in the government", "author": "Aristotle", "title": "Politics"}, {"group": "Children of those who died in war", "group_meta": "Minors;Orphans", "rule": "State maintenance for war orphans", "directionality": "MORE", "resource": "Right to state maintenance", "author": "Aristotle", "title": "Politics"}, {"group": "The Zeugites", "group_meta": "Citizens", "rule": "Zeugites eligibility for archonship", "directionality": "MORE", "resource": "Eligibility for the archonship", "author": "Aristotle", "title": "Athenian Constitution"}, {"group": "Bastards", "group_meta": "Heirs", "rule": "Bastard exclusion from family property", "directionality": "LESS", "resource": "Right to inherit property", "author": "Isaeus", "title": "On the Estate of Philoctemon"}, {"group": "Illegitimate sons", "group_meta": "Men;Minors", "rule": "Illegitimate exclusion from royal succession", "directionality": "LESS", "resource": "Right to legitimate royal succession", "author": "Plutarch", "title": "Aratus"}, {"group": "Fathers", "group_meta": "Men", "rule": "Citizen registration of legitimate children", "directionality": "MORE", "resource": "Right to register legitimate children", "author": "Andocides", "title": "On the Mysteries"}, {"group": "Tax farmers and sureties", "group_meta": "Magistrates", "rule": "State debtor property distraint", "directionality": "LESS", "resource": "Right to retain property", "author": "Andocides", "title": "On the Mysteries"}, {"group": "Freedom claimants", "group_meta": "Slaves", "rule": "Protection from unlawful citizen claims", "directionality": "MORE", "resource": "Protection from arbitrary enslavement", "author": "Demosthenes", "title": "Apollodorus Against Neaera"}, {"group": "The common people", "group_meta": "The multitude", "rule": "Commoner eligibility for the Ephorate", "directionality": "MORE", "resource": "Eligibility for the ephorate", "author": "Aristotle", "title": "Politics"}, {"group": "Epic poets", "group_meta": "Poets", "rule": "Epic scope for simultaneous action", "directionality": "MORE", "resource": "Right to portray simultaneous events", "author": "Aristotle", "title": "Poetics"}, {"group": "Macedonian kings", "group_meta": "Macedonians;Kings", "rule": "Macedonian royal polygamy custom", "directionality": "MORE", "resource": "Right to marry multiple wives", "author": "Plutarch", "title": "Comparison of Demetrius and Antony"}, {"group": "Virgins", "group_meta": "Women", "rule": "Virginity and female virtue alignment", "directionality": "MORE", "resource": "Association with the goddess Artemis", "author": "Plato", "title": "Cratylus"}];
+const state = {};
+DATA.forEach((r, i) => { state[i] = { verdict: null, note: "" }; });
+
+function esc(s) {
+  return String(s || "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[c]));
+}
+
+function render() {
+  const root = document.getElementById("cards");
+  root.innerHTML = "";
+  DATA.forEach((r, i) => {
+    const s = state[i];
+    const div = document.createElement("div");
+    div.className = "card";
+    const dirClass = r.directionality === "MORE" ? "dir-more" : "dir-less";
+    div.innerHTML = `
+      <div class="top">
+        <div>
+          <div class="meta">${i+1} / ${DATA.length}</div>
+          <span class="group">${esc(r.group)}</span>
+          <span class="meta-chip">${esc(r.group_meta)}</span>
+        </div>
+      </div>
+      <div class="rule-box">
+        <div class="rule-title">${esc(r.rule)}</div>
+        <div class="rule-detail"><span class="${dirClass}">${esc(r.directionality)}</span> · ${esc(r.resource)}</div>
+      </div>
+      <div class="source">${esc(r.author)} — ${esc(r.title)}</div>
+      <div class="buttons">
+        <button class="ok ${s.verdict === "ok" ? "selected" : ""}" data-i="${i}" data-v="ok">✓ Correct</button>
+        <button class="bad ${s.verdict === "bad" ? "selected" : ""}" data-i="${i}" data-v="bad">✗ Wrong</button>
+      </div>
+      <textarea placeholder="Suggested fix (e.g. Men + Elders)…" data-i="${i}">${esc(s.note)}</textarea>
+    `;
+    root.appendChild(div);
+  });
+  updateCounters();
+}
+
+function updateCounters() {
+  const ok = Object.values(state).filter(s => s.verdict === "ok").length;
+  const bad = Object.values(state).filter(s => s.verdict === "bad").length;
+  const rem = DATA.length - ok - bad;
+  document.getElementById("counters").textContent =
+    `${ok} ok · ${bad} wrong · ${rem} remaining`;
+}
+
+document.addEventListener("click", e => {
+  const btn = e.target.closest("button[data-v]");
+  if (!btn) return;
+  const i = btn.dataset.i;
+  state[i].verdict = state[i].verdict === btn.dataset.v ? null : btn.dataset.v;
+  render();
+});
+
+document.addEventListener("input", e => {
+  if (e.target.tagName === "TEXTAREA" && e.target.dataset.i !== undefined) {
+    state[e.target.dataset.i].note = e.target.value;
+  }
+});
+
+document.getElementById("download").addEventListener("click", () => {
+  const out = DATA.map((r, i) => ({
+    group: r.group,
+    group_meta: r.group_meta,
+    verdict: state[i].verdict,
+    note: state[i].note,
+  }));
+  const blob = new Blob([JSON.stringify(out, null, 2)], {type: "application/json"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "groups_meta_check_30_feedback.json";
+  a.click();
+});
+
+document.getElementById("summary").addEventListener("click", () => {
+  const bad = DATA.map((r, i) => ({ ...r, note: state[i].note }))
+                 .filter((_, i) => state[i].verdict === "bad");
+  alert(`${bad.length} marked wrong:\n\n` +
+        bad.map(r => `• ${r.group} → ${r.group_meta}` + (r.note ? `\n    ${r.note}` : "")).join("\n"));
+});
+
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Royal counselor frankness in monarchies",
+      "group": "Advisors",
+      "resource": "Right to speak frankly",
+      "directionality": "LESS",
+      "verbatim": [
+        "This is the sort of frankness which princes, if they have worthy and fitting greatness of soul, honor as being useful, while those whose natural gifts are weaker than the powers they possess take such frankness ill, as if it forced them to act in some degree contrary to their desires... because of his frankness of speech in matters involving their best interests he has been both deprived of honors he had at home and cheated of many hopes elsewhere, and the flattery of men of no consequence had greater weight than his own good services."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Isocrates describes a real-world pattern where counselors (like Diodotus) who exercise frankness ('parrhesia') are penalized or deprived of material rewards and honors by certain monarchs, establishing a rule of negative consequences for this professional behavior in court settings.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Health"
+      ],
+      "rule": "Physical infirmity exclusion from service",
+      "group": "The infirm",
+      "resource": "Eligibility for royal honors",
+      "directionality": "LESS",
+      "verbatim": [
+        "Similarly, while he longed to obtain the honors it is yours to bestow, yet he did not expect to attain them; for he is appalled not only by his own inexperience but also by the splendor of your position; furthermore, he believes that his poor body, not being sound but somewhat defective, will impede him in many activities."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies that a 'defective' body (poor health) serves as a barrier to pursuing or obtaining high-level political honors and activities in the service of a monarch, framing physical soundness as a prerequisite for such resources.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0010.tlg029.perseus-eng2",
+  "_perseus_author": "Isocrates",
+  "_perseus_title": "Letter 4. To Antipater",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4421,
+  "_output_tokens": 500,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

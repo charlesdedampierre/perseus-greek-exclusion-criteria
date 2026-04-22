@@ -1,0 +1,110 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public funeral for fallen soldiers",
+      "group": "Citizens",
+      "resource": "Public funeral rites",
+      "directionality": "MORE",
+      "verbatim": [
+        "After the State decreed that those who repose in this tomb, having acquitted themselves as brave men in the war, should have a public funeral, and appointed me to the duty of delivering over them the customary speech, I began straightway to study how they might receive their due tribute of praise"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a specific legal decree and 'customary' practice in Athens where citizens who died in war are granted a public burial and a formal eulogy by a state-appointed speaker.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen selection of funeral speaker",
+      "group": "Citizens",
+      "resource": "Right to choose public orators",
+      "directionality": "MORE",
+      "verbatim": [
+        "That the State seriously concerns itself with those who die in battle it is possible to infer both from these rites in general and, in particular, from this law in accordance with which it chooses the speaker at our public funerals."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author explicitly mentions a 'law' by which the citizen body (the State) selects the person responsible for delivering the funeral oration, which is a political right/resource.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Native citizen land inheritance",
+      "group": "Citizens",
+      "resource": "Right to ancestral land",
+      "directionality": "MORE",
+      "verbatim": [
+        "For alone of all mankind they settled the very land from which they were born and handed it down to their descendants, so that justly one may assume that those who came as migrants into their cities and are denominated citizens of the same are comparable to adopted children; but these men are citizens of their native land by right of legitimate birth."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text distinguishes between 'indigenous' citizens and 'migrant' citizens (metis or naturalized). It establishes that lineage-based citizens have a primary right to the land as an ancestral inheritance, a specific material and status resource.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Democratic freedom of speech",
+      "group": "Citizens",
+      "resource": "Freedom of speech",
+      "directionality": "MORE",
+      "verbatim": [
+        "Democracies, however, possess many other just and noble features, to which right-minded men should hold fast, and in particular it is impossible to deter freedom of speech, which depends upon speaking the truth, from exposing the truth."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The author describes 'freedom of speech' (parrhesia) as a specific institutional feature of the Athenian democracy available to the group of citizens, contrasted with the silence imposed by oligarchies.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "State maintenance for war orphans",
+      "group": "Minors",
+      "resource": "Public upbringing and honor",
+      "directionality": "MORE",
+      "verbatim": [
+        "In which the children of these men shall be reared in honor and the parents of these men shall enjoy distinction and tender care in their old age, cherishing the fame of these men as an assuagement of their sorrow."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "In the context of the funeral speech, this refers to the Athenian law where the state provided for the maintenance and 'honorable' upbringing of the children of those who fell in battle.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Posthumous state honors and games",
+      "group": "Citizens",
+      "resource": "Right to state-funded sacrifices",
+      "directionality": "MORE",
+      "verbatim": [
+        "Yes, but it is a proud privilege to behold them possessors of deathless honors and a memorial of their valor erected by the State, and deemed deserving of sacrifices and games for all future time."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies that the state provides material resources (memorials) and immaterial resources (religious sacrifices and games) specifically for citizens who died for the city.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0014.tlg060.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "The Funeral Speech",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 9835,
+  "_output_tokens": 1183,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

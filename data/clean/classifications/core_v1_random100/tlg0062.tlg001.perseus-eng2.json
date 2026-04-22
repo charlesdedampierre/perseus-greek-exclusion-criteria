@@ -1,0 +1,109 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Execution of temple robbers",
+      "group": "Temple robbers",
+      "resource": "Protection from capital punishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "It is as if someone among yourselves should see a temple-robber thrown over the cliff, and should not take into account what he had dared to do—how he had entered the temple at night, had pulled down the offerings, and had laid hands on the image—but should accuse you of great barbarity on the ground that you, who call yourselves Greeks and priests, countenanced the infliction of such a punishment on a fellow-Greek hard by the temple (for they say that the cliff is not very far from the city)."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a standard legal practice in Delphi (and Greek society) where those who commit sacrilege against a temple are executed by being thrown from a cliff, identifying a specific group defined by their religious crime and the loss of their right to life.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Foreigner access to hospitable reception",
+      "group": "Foreigners",
+      "resource": "Right to hospitable reception",
+      "directionality": "MORE",
+      "verbatim": [
+        "When you wish to know my side, ask the strangers who visit Acragas how I am with them, and whether I treat visitors kindly. Why, I even have watchmen at the ports, and agents to enquire who people are and where they come from, so that I may speed them on their way with fitting honours."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Phalaris describes a systematic administrative practice in Acragas where foreigners (strangers/visitors) are identified at ports and provided with specific honors and assistance, establishing a rule of state-sponsored hospitality for non-citizens.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Sanctuary access for foreign rulers",
+      "group": "Foreign rulers",
+      "resource": "Right of access to the sanctuary",
+      "directionality": "MORE",
+      "verbatim": [
+        "But if it is necessary to resort to entreaty on behalf of a man who has been wrongly thought wicked and has been compelled to punish people against his will, then we, the people of Acragas, Greeks of Dorian stock, beseech you to grant him access to the sanctuary, for he wishes to be your friend and is moved to confer many benefits on each and all of yon, both public and private."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The ambassadors request formal recognition of Phalaris's right to access the pan-Hellenic sanctuary at Delphi and dedicate offerings, a specific resource (religious/diplomatic access) linked to his status as a ruler and Greek.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Delphic citizen temple revenue right",
+      "group": "People of Delphi",
+      "resource": "Access to temple revenues",
+      "directionality": "MORE",
+      "verbatim": [
+        "As far as the land is concerned, we should always be cheek by jowl with starvation: the temple, the god, the oracle, the sacrificers and the worshippers—these are the grain-lands of Delphi, these are our revenue, these are the sources of our prosperity and of our subsistence. We should speak the truth among ourselves, at any rate! Everything is grown for us with the god for our husbandman. Not only does he vouchsafe us the good things found among the Greeks, but every product of the Phrygians, the Lydians, the Persians, the Assyrians, the Phoenicians, the Italians and even the Hyperboreans comes to Delphi."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The speaker identifies the citizens of Delphi as a group whose material subsistence is legally and traditionally tied to the temple's income and offerings rather than agriculture. This is presented as an established economic fact of their society.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Unrestricted worshipper access to dedication",
+      "group": "Worshippers",
+      "resource": "Right to dedicate gifts",
+      "directionality": "MORE",
+      "verbatim": [
+        "Never in the memory of any man have we taken a vote on a gift, or prevented anyone from sacrificing or giving. For this very reason, I think, the temple has prospered extraordinarily and is excessively rich in gifts. Therefore we ought not to make any innovation in the present case and break precedents by setting up the practice of censoring gifts and looking into the pedigree of things that are sent here, to see where they come from and from whom, and what they are: we should receive them and dedicate them without officiousness."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a long-standing norm or 'precedent' in Delphi where any individual, regardless of their background or the 'pedigree' of the item, has the right to make an offering to the god without undergoing a jury trial or censorship.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Monarchic right to sanctuary access",
+      "group": "Monarchs",
+      "resource": "Right to sanctuary access",
+      "directionality": "MORE",
+      "verbatim": [
+        "By this it is clear that he accepts the monarch’s worship. You must cast the same vote as he, and add this bull to the other attractions of the temple: for it would be most preposterous that a man who has sent so magnificent a present to our god should get the sentence of exclusion from the sanctuary and should be paid for his piety by being pronounced unworthy even to make an oblation."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The speaker argues against the 'sentence of exclusion from the sanctuary' for the monarch Phalaris, implying that under normal circumstances and religious custom, a ruler who provides a dedication is entitled to access and recognition within the sacred space.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0062.tlg001.perseus-eng2",
+  "_perseus_author": "Lucian of Samosata",
+  "_perseus_title": "Phalaris",
+  "_period": "High Roman Empire (135–205 CE)",
+  "_n_chunks": 2,
+  "_input_tokens": 11295,
+  "_output_tokens": 1546,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

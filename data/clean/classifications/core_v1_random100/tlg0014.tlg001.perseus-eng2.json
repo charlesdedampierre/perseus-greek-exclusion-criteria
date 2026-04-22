@@ -1,0 +1,81 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Liturgy obligation for the wealthy",
+      "group": "The wealthy",
+      "resource": "Right to retain personal wealth",
+      "directionality": "LESS",
+      "verbatim": [
+        "Pay your contributions cheerfully; serve in person; leave nothing to chance. You have no longer the shadow of an excuse for shirking your duty.",
+        "It is the duty of all of you to grasp the significance of these facts... it is the duty of the well-to-do, that spending but a fraction of the wealth they so happily possess, they may enjoy the residue in security."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes refers to the 'eisphora' (war tax) and liturgies which were legal obligations in Athens for the wealthy to fund military expeditions. He frames it as a duty where they must spend a fraction of their wealth to protect the rest.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen assembly voting",
+      "group": "Citizens",
+      "resource": "Right to vote in the Ekklesia",
+      "directionality": "MORE",
+      "verbatim": [
+        "For not only if someone comes forward with a well-considered plan, could you hear and accept it, but also I count it part of your good fortune that more than one speaker may be inspired with suitable suggestions on the spur of the moment, so that out of the multitude of proposals the choice of the best should not be difficult.",
+        "My own idea would be to vote an expedition at once, to make instant preparation for its dispatch, thus avoiding our previous blunder, and to send ambassadors to state our intentions and watch events."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text is an address to the Athenian assembly where citizens exercise their right to hear advice, deliberate on policy, and vote on military expeditions and the dispatch of ambassadors.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Statesman accountability for policy",
+      "group": "Statesmen",
+      "resource": "Exemption from public prosecution",
+      "directionality": "LESS",
+      "verbatim": [
+        "it is the duty... of the statesmen, that they may give a ready account of their stewardship, for as is the issue of these events, so will be your judgement of their policy."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Athenian statesmen (rhetores) were legally and politically accountable for the outcomes of the policies they proposed. The 'account of stewardship' refers to the formal and informal review of their political actions by the citizen body.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Citizenship"
+      ],
+      "rule": "Theoric Fund distributions for festivals",
+      "group": "Citizens",
+      "resource": "Access to public festival funds",
+      "directionality": "MORE",
+      "verbatim": [
+        "With regard to the supply of money, you have money, men of Athens; you have more than any other nation has for military purposes. But you appropriate it yourselves, to suit your own pleasure.",
+        "Your opinion, however, is that you should, without any trouble, just appropriate the money for your festivals."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Demosthenes criticizes the contemporary law (supported by Eubulus) that diverted surplus state revenue to the Theoric Fund (for festivals) rather than the military fund, treating it as an established entitlement for the citizens.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0014.tlg001.perseus-eng2",
+  "_perseus_author": "Demosthenes",
+  "_perseus_title": "First Olynthiac",
+  "_period": "Late Classical (354–165 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 6088,
+  "_output_tokens": 920,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

@@ -1,0 +1,61 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "group": "The poor",
+      "resource": "Protection from creditor harassment",
+      "directionality": "LESS",
+      "rule": "Insolence towards poor debtors",
+      "verbatim": [
+        "And for this reason he was especially odious to the multitude in the disputes with the people concerning debts, because they saw that it was not for gain, but out of insolence and scorn, that he acted despitefully towards the poor."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific historical legal and social tension in Rome regarding debt laws. It highlights that the poor, as a group defined by their economic status, were subject to 'despiteful' treatment and 'insolence' during legal disputes over debts, particularly from aristocratic leaders like Marcius who used the law to express class-based scorn.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "group": "The multitude",
+      "resource": "Right to elect officials",
+      "directionality": "MORE",
+      "rule": "People's power in elections",
+      "verbatim": [
+        "Certainly there was no tendency to importune or court the favour of the multitude in men like Metellus, Aristides, and Epaminondas; but owing to their genuine contempt for what a people has the power to give and take away, though they were repeatedly ostracised, defeated at elections, and condemned in courts of justice..."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch references the established practice in both Greek and Roman contexts where 'the multitude' (the citizenry) held the concrete power to grant or deny office through elections and to exile individuals through ostracism. This identifies a political resource (electoral power) held by the non-noble/non-elite group.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "group": "The multitude",
+      "resource": "Right to adjudicate in courts",
+      "directionality": "MORE",
+      "rule": "People's power in justice",
+      "verbatim": [
+        "but owing to their genuine contempt for what a people has the power to give and take away, though they were repeatedly ostracised, defeated at elections, and condemned in courts of justice, they cherished no anger against their countrymen for their ingratitude..."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage confirms that the collective 'people' had the legal authority to condemn high-ranking individuals in courts of justice, representing a significant immaterial resource (political/legal influence over leaders).",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0007.tlg017.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Comparison of Alcibiades and Coriolanus",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5167,
+  "_output_tokens": 676,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

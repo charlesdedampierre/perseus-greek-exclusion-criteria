@@ -1,0 +1,256 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Occupation",
+        "Citizenship"
+      ],
+      "rule": "Dictator horse-use restriction",
+      "group": "Dictators",
+      "resource": "Right to use a horse",
+      "directionality": "LESS",
+      "verbatim": [
+        "He himself appointed Marcus Minucius to be his Master of Horse, and then at once asked permission of the senate to use a horse himself when in the field. For this was not his right, but was forbidden by an ancient law, either because the Romans placed their greatest strength in their infantry, and for this reason thought that their commander ought to be with the phalanx and not leave it; or because they wished, since the power of the office in all other respects is as great as that of a tyrant, that in this point at least the dictator should be plainly dependent on the people."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a specific legal restriction where the highest magistrate (Dictator) is barred from using a horse in the field without specific Senate permission, highlighting a limitation on the resources of movement and prestige.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Dictator precedence over consuls",
+      "group": "Dictators",
+      "resource": "Precedence over other magistrates",
+      "directionality": "MORE",
+      "verbatim": [
+        "He therefore appeared in public attended by a united band of twenty-four lictors with their fasces, and when the remaining consul was coming to meet him, sent his adjutant to him with orders to dismiss his lictors, lay aside the insignia of his office, and meet him as a private person."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a rule of Roman constitutional hierarchy where the Dictator outranks the Consul, requiring the latter to yield their symbols of authority (lictors and insignia).",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Lictor escort for high magistrates",
+      "group": "Dictators",
+      "resource": "Right to a ceremonial lictor escort",
+      "directionality": "MORE",
+      "verbatim": [
+        "He therefore appeared in public attended by a united band of twenty-four lictors with their fasces. Each consul was allowed twelve."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "This establishes the resource of 'fame' and 'influence' (via lictors) as a standard rule for magistrates, with the Dictator receiving double the standard consular amount.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Tribune immunity from dictator's authority",
+      "group": "Tribunes of the people",
+      "resource": "Protection from summary punishment by the dictator",
+      "directionality": "MORE",
+      "verbatim": [
+        "He enjoyed immunity of person as tribune of the people (for this is the only magistracy which is not robbed of its power by the election of a dictator; it abides when the rest are abolished), and vehemently charged and prayed the people not to abandon Minucius, nor permit him to suffer the fate which Manlius Torquatus inflicted upon his son, whom he beheaded although crowned with laurel for the greatest prowess, but to strip Fabius of his tyrant’s power and entrust the state to one who was able and willing to save it."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text explicitly states that the office of the Tribune is unique because it retains its power and 'immunity of person' even when a Dictator is appointed, whereas other magistracies are abolished or subordinated. This grants the holder protection from the Dictator's absolute power to punish.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Dictator authority over life and death",
+      "group": "Dictators",
+      "resource": "Power to imprison and execute without trial",
+      "directionality": "MORE",
+      "verbatim": [
+        "For the dictator has the power to imprison and put to death without trial, and they thought that the wrath of Fabius, provoked in a man of his great gentleness, would be severe and implacable."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes the legal powers inherent to the office of the Roman Dictator during the Republic, specifically the right to bypass standard judicial procedures for execution and imprisonment.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Prisoner ransom fee",
+      "group": "Prisoners of war",
+      "resource": "Right to release upon payment",
+      "directionality": "MORE",
+      "verbatim": [
+        "They had agreed between them to exchange the captives man for man, and if either party had more than the other, the one who recovered these was to pay two hundred and fifty drachmas per man."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a formal agreement (convention) between Hannibal and Fabius establishing a fixed price for the return of surplus prisoners of war, treating their freedom as a resource accessible through a specific monetary payment.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Magistrate command rotation",
+      "group": "Consuls",
+      "resource": "Right to supreme command",
+      "directionality": "LESS",
+      "verbatim": [
+        "But Terentius, insisting on his right to command a day in turn, and then encamping over against Hannibal by the river Aufidus amid the town called Cannae, at break of day put out the signal for battle,—a scarlet tunic displayed above the general’s tent."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific Roman legal/military convention where two colleagues in the consulship alternate supreme command on a daily basis. This limits the individual magistrate's access to the resource of 'supreme command' to every other day.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Patrician military service",
+      "group": "Patricians",
+      "resource": "Right to serve in the cavalry",
+      "directionality": "MORE",
+      "verbatim": [
+        "Only Cornelius Lentulus, a young man of the patrician order, saw who he was, and leaping from his horse, led him to Paulus and besought the consul to take him and save himself for the sake of his fellow-citizens, who now more than ever needed a brave commander."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch identifies the specific high-status group (Patricians) and their role as mounted soldiers (equites/cavalry) during the battle of Cannae. Historical Roman context links lineage/nobility to the ability and right to serve in this specific military capacity.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Public mourning restrictions",
+      "group": "Citizens",
+      "resource": "Right to public lamentation",
+      "directionality": "LESS",
+      "verbatim": [
+        "accordingly, he put guards at the gates, in order to keep the frightened throng from abandoning the city, and set limits of time and place to the mourning for the dead, ordering any who wished to indulge in lamentation, to do so at home for a period of thirty days; after that, all mourning must cease and the city be purified of such rites."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Fabius, exercising his authority, established a general rule for the Roman population following the disaster at Cannae. This rule restricted the timing (30 days) and location (at home) of mourning, thereby reducing the citizens' freedom of public expression.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Vestal virgin execution for unchastity",
+      "group": "Vestal virgins",
+      "resource": "Right to life",
+      "directionality": "LESS",
+      "verbatim": [
+        "and when two of the vestal virgins were found to have been corrupted, one of them was buried alive, according to the custom, and the other slew herself."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific Roman custom where Vestal Virgins who violate their vow of chastity (found to have been corrupted) lose their right to life and are executed by being buried alive.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Freedom"
+      ],
+      "rule": "Enslavement of captured enemy populations",
+      "group": "Tarentines",
+      "resource": "Protection from enslavement",
+      "directionality": "LESS",
+      "verbatim": [
+        "Many of the Tarentines also were slain, thirty thousand of them were sold into slavery, their city was plundered by the Roman army, and three thousand talents were thereby brought into the public treasury."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Upon the capture of Tarentum, the Roman army followed the standard practice of the time where the inhabitants of a captured city (the out-group) were sold into slavery to benefit the treasury of the victors.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Lictor summons for officials",
+      "group": "Consuls",
+      "resource": "Power to command superiors",
+      "directionality": "MORE",
+      "verbatim": [
+        "The young man caught sight of his father at a distance and would not suffer what he did, but sent a lictor with orders for him to dismount and come to the consul on foot if he had any need of his offices."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage illustrates that the office of Consul confers the right to command even a father (normally a superior in Roman lineage) to dismount, enforced by a lictor, demonstrating the primacy of political office over family status.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Magisterial precedence over paternal authority",
+      "group": "Consuls",
+      "resource": "Right to exercise official authority over parents",
+      "directionality": "MORE",
+      "verbatim": [
+        "My son, he said, you are right in thought and act. You understand what a people has made you its officer, and what a high office you have received from them. It was in this spirit that our fathers and we ourselves have exalted Rome, a spirit which makes parents and children ever secondary to our country’s good."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text describes a specific Roman norm where a son holding the office of consul possesses legal and ceremonial precedence over his father, despite the usual Roman 'patria potestas'. This is framed as a rule of the state that elevates the magistrate's status above family hierarchy.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Nobility"
+      ],
+      "rule": "Kinsman delivery of funeral orations",
+      "group": "Illustrious men",
+      "resource": "Right to a public funeral oration",
+      "directionality": "MORE",
+      "verbatim": [
+        "But the son of our Fabius, as it happened, died, and this affliction he bore with equanimity, like a wise man and a good father. The funeral oration, which is pronounced at the obsequies of illustrious men by some kinsman, he delivered himself from his place in the forum, and then wrote out the speech and published it."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch identifies a standard practice (a rule of Roman custom) where members of the nobility ('illustrious men') are entitled to a formal funeral oration delivered by a relative in the forum.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Religion",
+        "Occupation"
+      ],
+      "rule": "High Priest travel restrictions",
+      "group": "Pontifex Maximus",
+      "resource": "Freedom of movement for military command",
+      "directionality": "LESS",
+      "verbatim": [
+        "and as for Crassus, it was partly his nature, which was not contentious, but gentle, that kept him at home, and partly also a religious custom, for he was pontifex maximus, or High Priest."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text mentions a 'religious custom' (lex sacra) that restricted the Pontifex Maximus from leaving Italy/Rome, which in this context prevented Crassus from taking a military command abroad in Africa.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg013.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Fabius Maximus",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 5,
+  "_input_tokens": 29313,
+  "_output_tokens": 3294,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

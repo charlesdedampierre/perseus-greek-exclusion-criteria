@@ -1,0 +1,63 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship",
+        "Nobility",
+        "Lineage"
+      ],
+      "rule": "Ostracism and banishment of elites",
+      "group": "Prominent citizens",
+      "resource": "Protection from arbitrary banishment",
+      "directionality": "LESS",
+      "verbatim": [
+        "Nevertheless, the courteous and gentle conduct of Fabius towards Minucius contrasts forcibly with the factious opposition of Pericles to Cimon and Thucydides, who were both good and true men and of the highest birth, and yet were subjected by him to ostracism and banishment."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text identifies that in Pericles' Athens, even high-born, prominent citizens (Cimon and Thucydides) were subject to ostracism and banishment, indicating a systematic lack of protection for one's right to remain in the city if they were political rivals to the leading statesman.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen access to public festivals",
+      "group": "Citizens",
+      "resource": "Right to attend public festivals",
+      "directionality": "MORE",
+      "verbatim": [
+        "And besides, the victories of Cimon, and the trophies of Myronides and Leocrates, and the many great successes of Tolmides, made it the privilege of Pericles, during his administration, to enrich the city with holidays and public festivals, rather than to enlarge and protect her dominion by war."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes the provision of holidays and festivals as a characteristic output of Pericles' administration for the city's inhabitants, identifying these events as a resource provided to the group.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Ransom of captured soldiers",
+      "group": "Soldiers",
+      "resource": "Right to be ransomed from captivity",
+      "directionality": "MORE",
+      "verbatim": [
+        "And further, as regards their freedom from mercenary views, Pericles displayed it by never taking any gifts at all; Fabius by his liberality to the needy, when he ransomed at his own costs his captured soldiers."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text highlights a practice in the Roman context where soldiers captured in war could be ransomed. In this specific instance, the commander (Fabius) used personal wealth to provide this resource to the group.",
+      "confidence": 9
+    }
+  ],
+  "_file_id": "tlg0007.tlg014.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Comparison of Pericles and Fabius Maximus",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 4221,
+  "_output_tokens": 659,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

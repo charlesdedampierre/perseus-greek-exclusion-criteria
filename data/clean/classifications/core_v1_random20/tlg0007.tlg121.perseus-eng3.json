@@ -1,0 +1,127 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Wealthy citizen trierarchy obligation",
+      "group": "Wealthy citizens",
+      "resource": "Exemption from compulsory public financing",
+      "directionality": "LESS",
+      "verbatim": [
+        "In his speeches he is accurate and persuasive, clever in invention, ingenious in handling perplexing cases; he attacks unexpectedly, and he addresses his arguments to both the laws and the emotions, aiming especially at propriety. He was born at the time of the Persian wars and of the sophist Gorgias, who was somewhat older than he; and his life extended until the destruction of the democracy by the Four Hundred, in causing which he seems himself to have had a part, at one time by being trierarch of two ships, at another by being general Antiphon was a common name at Athens in the fifth century."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text identifies the trierarchy (fitting out ships) as a duty falling upon wealthy citizens, illustrating the mandatory extraction of resources from this group for state defense.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic exclusion from public office",
+      "group": "Metics",
+      "resource": "Eligibility for office",
+      "directionality": "LESS",
+      "verbatim": [
+        "And after losing his citizenship in this way, he lived the rest of his life at Athens with all the rights of citizenship except the vote and eligibility to office, and died there at the age of eighty-three years or, as some say, seventy-six or, as others say, over eighty; and he lived to see Demosthenes as a youth."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The description of Lysias' status after his temporary grant of citizenship was overturned demonstrates that non-citizens (metikos status) lacked the specific immaterial resources of voting and office-holding.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen-only legislative proposal right",
+      "group": "Metics",
+      "resource": "Right to move decrees in the assembly",
+      "directionality": "LESS",
+      "verbatim": [
+        "He also proposed decrees, several decrees moved by him are extant, e.g. I.G. ii.² 337, 338. making use of a certain Olynthian named Eucleides, who was an expert in decrees."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text notes that Lycurgus had to use an Olynthian expert to draft decrees, implying that as a non-citizen (metic), the Olynthian could not formally propose them himself in the assembly.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Protection of free-born from enslavement",
+      "group": "Free-born individuals",
+      "resource": "Protection from enslavement",
+      "directionality": "MORE",
+      "verbatim": [
+        "a third law that no Athenian or foreign resident of Athens should be permitted to buy from among captives a person of free birth to be a slave without the consent of his former master Prisoners of war were usually auctioned off into slavery regardless of their previous condition. If such a captive could prove his free birth through the testimony of the man who owned him when taken captive, he could not under this new law be purchased by any Athenian for slavery"
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The law introduced by Lycurgus established a specific protection for individuals of free birth, preventing them from being legally purchased as slaves if their status could be verified.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties",
+        "Gender"
+      ],
+      "rule": "Elite female carriage ban at Eleusis",
+      "group": "Wealthy women",
+      "resource": "Right to use carriages during festivals",
+      "directionality": "LESS",
+      "verbatim": [
+        "furthermore, that no woman should go to Eleusis This refers to the great annual procession to Eleusis in the celebration of the mysteries of Demeter and Persephonê. in a carriage, lest the women of the people appear inferior to the rich, and if any woman should be caught doing this, she should pay a fine of six thousand drachmas."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Lycurgus passed a sumptuary law specifically targeting wealthy women to prevent them from displaying their status via carriages during the sacred procession, enforced by a heavy fine.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship",
+        "Lineage"
+      ],
+      "rule": "Public maintenance for distinguished descendants",
+      "group": "Descendants of state benefactors",
+      "resource": "Maintenance in the Prytaneum",
+      "directionality": "MORE",
+      "verbatim": [
+        "a bronze statue of him stands in the Cerameicus, set up in accordance with a decree passed in the archonship of Anaxicrates, 307-306 b.c. in which year Lycurgus and his eldest descendant were granted maintenance in the Prytaneum by the same decree."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The Athenian state provided material support/maintenance (sitesis) to the eldest descendants of certain highly honored citizens, creating a hereditary resource based on lineage/merit.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Metic exclusion from public speaking",
+      "group": "Metics",
+      "resource": "Right to address the popular assembly",
+      "directionality": "LESS",
+      "verbatim": [
+        "Since he became a friend of Cassander he prospered exceedingly through the fees he charged for the speeches which he wrote for those who requested his services; and he had as his opponents the most distinguished public men, although he did not speak before the popular assembly (for he was unable to do so If he was a Corinthian by birth, he would be debarred from such speaking.); but he merely wrote speeches for their opponents."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The passage explicitly states that Deinarchus, being a Corinthian (metic) and not a citizen, was legally debarred from the right to address the Athenian assembly.",
+      "confidence": 10
+    }
+  ],
+  "_file_id": "tlg0007.tlg121.perseus-eng3",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "The Lives of the Ten Orators",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 28889,
+  "_output_tokens": 1614,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

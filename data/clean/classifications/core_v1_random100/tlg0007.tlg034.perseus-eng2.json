@@ -1,0 +1,78 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Nobility",
+        "Lineage"
+      ],
+      "rule": "Noble birth right to rule",
+      "group": "Ancient family members",
+      "resource": "Eligibility for kingship",
+      "directionality": "MORE",
+      "verbatim": [
+        "And it seemed but natural justice, in a way, that the best of the best should rule in a city which had the leadership in Hellas by virtue of his excellence, and not of his noble birth. For just as a hunter looks for a dog, and not the whelp of a certain bitch, and a horseman for a horse, and not the foal of a certain mare (for what if the foal should prove to be a mule?), so the statesman makes an utter mistake if he enquires, not what sort of a man the ruler is, but from whom he is descended. And indeed the Spartans themselves deposed some of their kings, for the reason that they were not kingly men, but insignificant nobodies. And if vice, even in one of ancient family, is dishonourable, then it must be virtue itself, and not good birth, that makes virtue honourable."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes the existing structural norm in Sparta where kingship was tied to noble birth/lineage, while arguing (through Lysander's perspective) for a shift toward meritocracy. The mention of Spartans deposing 'nobodies' confirms the rule that descent usually secured the throne.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Citizen sumptuary and marriage regulations",
+      "group": "Citizens",
+      "resource": "Freedom from lifestyle restrictions",
+      "directionality": "LESS",
+      "verbatim": [
+        "But Sulla allowed neither the poverty of his youth to set bounds to his desire; nor the years of his old age, but continued to introduce marriage and sumptuary laws for the citizens, while he himself was living in lewdness and adultery, as Sallust says."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "The text identifies Sulla's enactment of specific laws (sumptuary and marriage) that restricted the personal freedom and material expenditure of the Roman citizen body.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Confiscation of wealthy estates",
+      "group": "The wealthy",
+      "resource": "Right to retain property",
+      "directionality": "LESS",
+      "verbatim": [
+        "In these courses he so mortgaged and emptied the city of her wealth that he sold to allied and friendly cities their freedom and independence for money, although he was daily confiscating and selling at public auction the wealthiest and greatest estates."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "During Sulla's rule, the wealthy were targeted for property confiscation to fund the state or reward followers, indicating a loss of property rights based on their wealth status.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Protection from arbitrary execution",
+      "group": "Citizens",
+      "resource": "Right to life during magistracy bids",
+      "directionality": "LESS",
+      "verbatim": [
+        "And it was no wonder that Sulla held sway, when such men as Glaucia and Saturninus drove such men as Metellus from the city, when sons of consuls were butchered in assemblies, when silver and gold purchased arms and men to wield them, and laws were enacted with fire and sword in defiance of all opposition. ...when Lucretius Ofella sued for the consulship as a reward for many great services, ordered him to be slain before his eyes, causing all men to regard him with fear and horror because of his murdering his dearest friends."
+      ],
+      "contemporary": 0,
+      "factuality": 1,
+      "reasoning": "Plutarch describes a breakdown of legal protections for citizens (even prominent ones) under Sulla's regime, where political participation or seeking office could lead to summary execution.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0007.tlg034.perseus-eng2",
+  "_perseus_author": "Plutarch",
+  "_perseus_title": "Comparison of Lysander and Sulla",
+  "_period": "Hellenistic & Early Roman (165 BCE – 105 CE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5258,
+  "_output_tokens": 1009,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

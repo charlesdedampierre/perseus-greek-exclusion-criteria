@@ -1,0 +1,427 @@
+{
+  "batch_idx": 4,
+  "n_items": 40,
+  "items": [
+    {
+      "i": 0,
+      "value": "High Priests"
+    },
+    {
+      "i": 1,
+      "value": "High priests"
+    },
+    {
+      "i": 2,
+      "value": "High-born men"
+    },
+    {
+      "i": 3,
+      "value": "High-ranking priests"
+    },
+    {
+      "i": 4,
+      "value": "Hired laborers"
+    },
+    {
+      "i": 5,
+      "value": "Homicide suspects"
+    },
+    {
+      "i": 6,
+      "value": "Honored male citizens"
+    },
+    {
+      "i": 7,
+      "value": "Human beings"
+    },
+    {
+      "i": 8,
+      "value": "Husbandmen"
+    },
+    {
+      "i": 9,
+      "value": "Husbands"
+    },
+    {
+      "i": 10,
+      "value": "Illegitimate children"
+    },
+    {
+      "i": 11,
+      "value": "Illegitimate sons"
+    },
+    {
+      "i": 12,
+      "value": "Illustrious men"
+    },
+    {
+      "i": 13,
+      "value": "Individuals of outstanding excellence"
+    },
+    {
+      "i": 14,
+      "value": "Infants"
+    },
+    {
+      "i": 15,
+      "value": "Influential citizens"
+    },
+    {
+      "i": 16,
+      "value": "Initiates"
+    },
+    {
+      "i": 17,
+      "value": "Intimates"
+    },
+    {
+      "i": 18,
+      "value": "Jews"
+    },
+    {
+      "i": 19,
+      "value": "Judges"
+    },
+    {
+      "i": 20,
+      "value": "Jurors"
+    },
+    {
+      "i": 21,
+      "value": "Jurymen"
+    },
+    {
+      "i": 22,
+      "value": "Kings"
+    },
+    {
+      "i": 23,
+      "value": "Kings and sons of kings"
+    },
+    {
+      "i": 24,
+      "value": "Laborers"
+    },
+    {
+      "i": 25,
+      "value": "Laity"
+    },
+    {
+      "i": 26,
+      "value": "Landowners"
+    },
+    {
+      "i": 27,
+      "value": "Lawgivers"
+    },
+    {
+      "i": 28,
+      "value": "Leaders of sedition"
+    },
+    {
+      "i": 29,
+      "value": "Legitimate children"
+    },
+    {
+      "i": 30,
+      "value": "Legitimate daughters"
+    },
+    {
+      "i": 31,
+      "value": "Legitimate sons"
+    },
+    {
+      "i": 32,
+      "value": "Levites"
+    },
+    {
+      "i": 33,
+      "value": "Liberated Greek allies"
+    },
+    {
+      "i": 34,
+      "value": "Lineage"
+    },
+    {
+      "i": 35,
+      "value": "Lineal descendants"
+    },
+    {
+      "i": 36,
+      "value": "Litigants"
+    },
+    {
+      "i": 37,
+      "value": "Macedonian kings"
+    },
+    {
+      "i": 38,
+      "value": "Macedonians"
+    },
+    {
+      "i": 39,
+      "value": "Magi"
+    }
+  ],
+  "parsed": [
+    {
+      "i": 0,
+      "group_meta": [
+        "Priests"
+      ]
+    },
+    {
+      "i": 1,
+      "group_meta": [
+        "Priests"
+      ]
+    },
+    {
+      "i": 2,
+      "group_meta": [
+        "Nobles",
+        "Men"
+      ]
+    },
+    {
+      "i": 3,
+      "group_meta": [
+        "Priests"
+      ]
+    },
+    {
+      "i": 4,
+      "group_meta": [
+        "The poor",
+        "Artisans"
+      ]
+    },
+    {
+      "i": 5,
+      "group_meta": [
+        "Other"
+      ]
+    },
+    {
+      "i": 6,
+      "group_meta": [
+        "Men",
+        "Citizens",
+        "Nobles"
+      ]
+    },
+    {
+      "i": 7,
+      "group_meta": [
+        "Other"
+      ]
+    },
+    {
+      "i": 8,
+      "group_meta": [
+        "Artisans"
+      ]
+    },
+    {
+      "i": 9,
+      "group_meta": [
+        "Men"
+      ]
+    },
+    {
+      "i": 10,
+      "group_meta": [
+        "Minors"
+      ]
+    },
+    {
+      "i": 11,
+      "group_meta": [
+        "Men",
+        "Minors"
+      ]
+    },
+    {
+      "i": 12,
+      "group_meta": [
+        "Nobles",
+        "Men"
+      ]
+    },
+    {
+      "i": 13,
+      "group_meta": [
+        "Nobles"
+      ]
+    },
+    {
+      "i": 14,
+      "group_meta": [
+        "Minors"
+      ]
+    },
+    {
+      "i": 15,
+      "group_meta": [
+        "Citizens",
+        "Nobles"
+      ]
+    },
+    {
+      "i": 16,
+      "group_meta": [
+        "Priests"
+      ]
+    },
+    {
+      "i": 17,
+      "group_meta": [
+        "Other"
+      ]
+    },
+    {
+      "i": 18,
+      "group_meta": [
+        "Jews"
+      ]
+    },
+    {
+      "i": 19,
+      "group_meta": [
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 20,
+      "group_meta": [
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 21,
+      "group_meta": [
+        "Men",
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 22,
+      "group_meta": [
+        "Kings"
+      ]
+    },
+    {
+      "i": 23,
+      "group_meta": [
+        "Kings",
+        "Men",
+        "Heirs"
+      ]
+    },
+    {
+      "i": 24,
+      "group_meta": [
+        "Artisans"
+      ]
+    },
+    {
+      "i": 25,
+      "group_meta": [
+        "The multitude"
+      ]
+    },
+    {
+      "i": 26,
+      "group_meta": [
+        "The wealthy"
+      ]
+    },
+    {
+      "i": 27,
+      "group_meta": [
+        "Magistrates"
+      ]
+    },
+    {
+      "i": 28,
+      "group_meta": [
+        "Other"
+      ]
+    },
+    {
+      "i": 29,
+      "group_meta": [
+        "Heirs",
+        "Minors"
+      ]
+    },
+    {
+      "i": 30,
+      "group_meta": [
+        "Heirs",
+        "Women"
+      ]
+    },
+    {
+      "i": 31,
+      "group_meta": [
+        "Heirs",
+        "Men"
+      ]
+    },
+    {
+      "i": 32,
+      "group_meta": [
+        "Jews",
+        "Priests"
+      ]
+    },
+    {
+      "i": 33,
+      "group_meta": [
+        "Greeks",
+        "Citizens"
+      ]
+    },
+    {
+      "i": 34,
+      "group_meta": [
+        "Heirs"
+      ]
+    },
+    {
+      "i": 35,
+      "group_meta": [
+        "Heirs"
+      ]
+    },
+    {
+      "i": 36,
+      "group_meta": [
+        "Other"
+      ]
+    },
+    {
+      "i": 37,
+      "group_meta": [
+        "Macedonians",
+        "Kings"
+      ]
+    },
+    {
+      "i": 38,
+      "group_meta": [
+        "Macedonians"
+      ]
+    },
+    {
+      "i": 39,
+      "group_meta": [
+        "Priests"
+      ]
+    }
+  ],
+  "input_tokens": 1696,
+  "output_tokens": 773,
+  "status": "ok"
+}

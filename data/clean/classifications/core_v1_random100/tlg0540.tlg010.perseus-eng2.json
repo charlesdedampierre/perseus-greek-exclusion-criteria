@@ -1,0 +1,94 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Prohibition of speech for shield-deserters",
+      "group": "Citizens",
+      "resource": "Right to speak before the people",
+      "directionality": "LESS",
+      "verbatim": [
+        "I see many of you in this place of judgement who were present at the time when Lysitheus was prosecuting Theomnestus for speaking before the people, since he had lost the right to do so by having cast away his armour."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies a specific legal disability (loss of the right to address the assembly) applied to citizens who committed the act of throwing away their shield (rhipsaspia). This is a standard rule of atimia (disenfranchisement) in Athenian law.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Slander penalty for specific terms",
+      "group": "Citizens",
+      "resource": "Protection from slander",
+      "directionality": "MORE",
+      "verbatim": [
+        "if anyone asserts that a man has thrown it [his shield] away, he shall be liable to penalty",
+        "How monstrous it is, then, that when you have to avenge yourself on your enemies for slander you take the laws in the sense that I do now... you have taken proceedings yourself against Lysitheus for slander, because he said that you had cast your shield: yet there is nothing in the terms of the law about casting, whereas, if anyone says, that a man has thrown away his shield, it imposes a penalty of five hundred drachmae."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author cites a specific law (dike kakegorias) that protects citizens from certain forbidden terms (aporreta), specifically the accusation of throwing away one's shield in battle. The penalty of five hundred drachmae is explicitly mentioned as the legal resource (monetary redress) for the victim.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Freedom"
+      ],
+      "rule": "Double redress for servant injury",
+      "group": "Slaves",
+      "resource": "Legal redress for physical injury",
+      "directionality": "MORE",
+      "verbatim": [
+        "All women who ply about overtly, and for hurt to a varlet the redress shall be double. Pay attention: overtly is openly, ply about is walk about, and a varlet is a servant."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The author quotes an ancient law of Solon which specifies that if a servant (oiketes/varlet) is harmed, the legal redress or penalty is doubled. This provides a specific legal resource (protection/compensation) tied to the status of a servant.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Wealth / Properties"
+      ],
+      "rule": "Freedom of interest rates",
+      "group": "Wealthy",
+      "resource": "Right to set interest rates",
+      "directionality": "MORE",
+      "verbatim": [
+        "Money shall be placed out at whatever rate the lender may choose. Placed out here, my fine fellow, is not a case of placing in the balance, but of drawing interest to such amount as one may choose."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text quotes a law establishing that lenders (defined by their possession of capital to lend) have the absolute right to determine the interest rate on loans, a significant economic resource in Athenian society.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Citizenship"
+      ],
+      "rule": "Stocks for court-ordered confinement",
+      "group": "Citizens",
+      "resource": "Protection from extended physical restraint",
+      "directionality": "LESS",
+      "verbatim": [
+        "He shall have his foot confined in the stocks for five days, if the court shall make such addition to the sentence."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The law of Solon cited here allows for a specific corporal punishment (confinement in the stocks/wood) for five days as a secondary penalty determined by a court, showing a limitation on the resource of bodily freedom for those convicted.",
+      "confidence": 8
+    }
+  ],
+  "_file_id": "tlg0540.tlg010.perseus-eng2",
+  "_perseus_author": "Lysias",
+  "_perseus_title": "Against Theomnestus 1",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 1,
+  "_input_tokens": 5631,
+  "_output_tokens": 1080,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}

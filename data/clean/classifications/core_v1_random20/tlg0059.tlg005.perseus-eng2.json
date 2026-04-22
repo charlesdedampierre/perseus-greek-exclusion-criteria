@@ -1,0 +1,304 @@
+{
+  "extracted_rules": [
+    {
+      "criteria": [
+        "Freedom",
+        "Occupation"
+      ],
+      "rule": "Master-led servant name changes",
+      "group": "Servants",
+      "resource": "Right to a fixed name",
+      "directionality": "LESS",
+      "verbatim": [
+        "For it seems to me that whatever name you give to a thing is its right name; and if you give up that name and change it for another, the later name is no less correct than the earlier, just as we change the names of our servants; for I think no name belongs to any particular thing by nature, but only by the habit and custom of those who employ it and who established the usage."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Hermogenes uses the contemporary social practice of masters renaming their domestic servants at will to illustrate his philosophical point about the conventionality of names. This demonstrates that servants lacked the right to maintain their original or natural names against their master's preference.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Skilled artisan name-making restriction",
+      "group": "Unskilled men",
+      "resource": "Authority to establish names",
+      "directionality": "LESS",
+      "verbatim": [
+        "Then it is not for every man, Hermogenes, to give names, but for him who may be called the name-maker; and he, it appears, is the lawgiver, who is of all the artisans among men the rarest."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates argues that naming is a specialized skill (techne), identifying that the authority to establish the correct usage of names (the role of the 'nomothetes' or lawgiver) is restricted to those with specific expertise, excluding common/unskilled individuals.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Male precedence in wisdom",
+      "group": "Men",
+      "resource": "Recognition of superior wisdom",
+      "directionality": "MORE",
+      "verbatim": [
+        "Socrates. And do you think the women or the men of a city, regarded as a class in general, are the wiser? Hermogenes. The men. Socrates. And do you not know that Homer says the child of Hector was called Astyanax by the men of Troy; so he must have been called Scamandrius by the women, since the men called him Astyanax? Hermogenes. Yes, probably. Socrates. And Homer too thought the Trojan men were wiser than the women? Hermogenes. I suppose he did."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates and Hermogenes explicitly state as a general social consensus (and an interpretation of Homer) that men as a class are considered wiser than women, which is used to explain why the names given by men are 'more correct' than those given by women.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage"
+      ],
+      "rule": "Hereditary title transmission",
+      "group": "Kings",
+      "resource": "Right to transmit status to offspring",
+      "directionality": "MORE",
+      "verbatim": [
+        "Socrates. Good; but keep watch of me, and do not let me trick you; for by the same argument any offspring of a king should be called a king; and whether the same meaning is expressed in one set of syllables or another makes no difference; and if a letter is added or subtracted, that does not matter either, so long as the essence of the thing named remains in force and is made plain in the name. [...] Socrates. Does not the same reasoning apply to a king? A king’s son will probably be a king, a good man’s good, a handsome man’s handsome, and so forth; the offspring of each class will be of the same class, unless some unnatural birth takes place; so they should be called by the same names."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text describes a social and natural rule where the sons of kings inherit the status and titles (the 'name') of their fathers, establishing a rule of hereditary social class continuity.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Dialectician supervision of legislation",
+      "group": "Dialecticians",
+      "resource": "Right to supervise law-making",
+      "directionality": "MORE",
+      "verbatim": [
+        "Socrates. And who can best superintend the work of the lawgiver and judge of it when it is finished, both here and in foreign countries? The user, is it not? Hermogenes. Yes. Socrates. And is not this he who knows how to ask questions? Hermogenes. Certainly. [...] Socrates. And the man who knows how to ask and answer questions you call a dialectician? Hermogenes. Yes, that is what I call him. [...] Socrates. And the work of the lawgiver, as it seems, is to make a name, with the dialectician as his supervisor, if names are to be well given."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates argues that based on the functional relationship between users and makers (like steersmen and shipbuilders), the dialectician (the user of names) has the right/authority to supervise the lawgiver (the maker of names).",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "Customary prayer name usage",
+      "group": "Men",
+      "resource": "Right to address the divine",
+      "directionality": "MORE",
+      "verbatim": [
+        "But there is a second kind of correctness, that we call them, as is customary in prayers, by whatever names and patronymics are pleasing to them, since we know no other. Now I think that is an excellent custom."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes a standard religious practice in contemporary Greek society where humans are permitted and encouraged to address gods using customary names and patronymics in prayer, despite not knowing the gods' true internal names.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Lineage",
+        "Nobility"
+      ],
+      "rule": "Ancestral name inheritance",
+      "group": "Men",
+      "resource": "Right to bear ancestral names",
+      "directionality": "MORE",
+      "verbatim": [
+        "Now the names of heroes and men might perhaps prove deceptive; for they are often given because they were names of ancestors, and in some cases, as we said in the beginning, they are quite inappropriate; many, too, are given as the expression of a prayer, such as Eutychides (fortunate), Sosias (saviour), Theophilus (beloved of God), and many others."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates notes a common social convention in Athens where individuals are named after their ancestors, which he characterizes as a general rule of naming even when the name's meaning does not fit the individual's character.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Health",
+        "Religion"
+      ],
+      "rule": "Post-inspiration ritual purification",
+      "group": "Men",
+      "resource": "Access to purification rituals",
+      "directionality": "MORE",
+      "verbatim": [
+        "So I think this is our duty: we ought today to make use of this wisdom and finish the investigation of names, but tomorrow, if the rest of you agree, we will conjure it away and purify ourselves, when we have found some one, whether priest or sophist, who is skilled in that kind of purifying."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates refers to the normative social and religious practice of seeking out specialists (priests or sophists) to perform purification rituals after intense intellectual or spiritual experiences/possessions.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Religion"
+      ],
+      "rule": "First sacrifice to Hestia",
+      "group": "Sacrificers",
+      "resource": "Right to conduct primary sacrifice",
+      "directionality": "MORE",
+      "verbatim": [
+        "And besides, if you consider it in connection with sacrifices, you would come to the conclusion that those who established them understood the name in that way; for those who called the essence of things ἐσσία would naturally sacrifice to Hestia first of all the gods."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes a standard ritual practice in Greek religion where Hestia receives the first portion of sacrifices, linking the custom to the etymology of her name as 'essence'.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Health"
+      ],
+      "rule": "Soul purity for Hades' society",
+      "group": "The pure of soul",
+      "resource": "Right to consort with the god Hades",
+      "directionality": "MORE",
+      "verbatim": [
+        "Then, too, he refuses to consort with men while they have bodies, but only accepts their society when the soul is pure of all the evils and desires of the body. Do you not think this shows him to be a philosopher and to understand perfectly that under these conditions he could restrain them by binding them with the desire of virtue"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates explains the criteria for divine association in the afterlife; Hades is described as only accepting the society of those whose souls are healthy and free from bodily corruption.",
+      "confidence": 8
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Virginity and female virtue alignment",
+      "group": "Virgins",
+      "resource": "Association with the goddess Artemis",
+      "directionality": "MORE",
+      "verbatim": [
+        "Artemis appears to get her name from her healthy (ἀρτεμές) and well-ordered nature, and her love of virginity; or perhaps he who named her meant that she is learned in virtue (ἀρετή), or possibly, too, that she hates sexual intercourse (ἄροτον μισεῖ) of man and woman"
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "The text identifies a specific social/biological group (virgins) as being uniquely aligned with the nature and protection of the goddess Artemis, contrasted against those who partake in sexual intercourse.",
+      "confidence": 7
+    },
+    {
+      "criteria": [
+        "Ethnicity"
+      ],
+      "rule": "Etymological derivation from foreign languages",
+      "group": "Greeks",
+      "resource": "Linguistic autonomy in word derivation",
+      "directionality": "LESS",
+      "verbatim": [
+        "I know that many Greeks, especially those who are subject to the barbarians, have adopted many foreign words. [...] If we should try to demonstrate the fitness of those words in accordance with the Greek language, and not in accordance with the language from which they are derived, you know we should get into trouble. [...] Well, this word πῦρ is probably foreign; for it is difficult to connect it with the Greek language, and besides, the Phrygians have the same word, only slightly altered. The same is the case with ὕδωρ (water), κύων (dog), and many other words."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates observes a linguistic reality where Greek vocabulary, particularly for basic elements, is borrowed from non-Greek (barbarian) cultures like the Phrygians, meaning the rules of Greek etymology cannot explain these words.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Gender"
+      ],
+      "rule": "Female preservation of archaic speech",
+      "group": "Women",
+      "resource": "Influence over linguistic tradition",
+      "directionality": "MORE",
+      "verbatim": [
+        "You will tell you. You know that our ancestors made good use of the sounds of iota and delta, and that is especially true of the women, who are most addicted to preserving old forms of speech. But nowadays people change iota to eta or epsilon, and delta to zeta, thinking they have a grander sound. For instance, in the earliest times they called day ἱμέρα, others said ἑμέρα, and now they say ἡμέρα."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates identifies women as the specific social group responsible for maintaining the 'ancient' or 'original' forms of the Greek language, contrasted with the 'modern' speakers who change letters for aesthetic reasons. This identifies a specific cultural resource (preservation/control of linguistic heritage) where women have 'more' adherence to tradition than the general population.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Education"
+      ],
+      "rule": "Formal sequence of rhythmic education",
+      "group": "Students",
+      "resource": "Access to advanced rhythmic study",
+      "directionality": "MORE",
+      "verbatim": [
+        "Since the imitation of the essential nature is made with letters and syllables, would not the most correct way be for us to separate the letters first, just as those who undertake the practice of rhythms separate first the qualities of the letters, then those of the syllables, and then, but not till then, come to the study of rhythms?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates describes the established pedagogical method for learning rhythms in contemporary Greece, where students must master the phonetic elements (letters and syllables) before they are permitted to progress to the study of complex rhythms.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Health"
+      ],
+      "rule": "Non-verbal communication for the mute",
+      "group": "The mute",
+      "resource": "Right to communicate through gesture",
+      "directionality": "MORE",
+      "verbatim": [
+        "If we had no voice or tongue, and wished to make things clear to one another, should we not try, as dumb people actually do, to make signs with our hands and head and person generally?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates references the real-world social convention and practice of deaf or mute individuals using physical gestures as a recognized means of communication within society.",
+      "confidence": 10
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Lawgiver authority over naming",
+      "group": "Lawgivers",
+      "resource": "Right to establish language",
+      "directionality": "MORE",
+      "verbatim": [
+        "Socrates. Names, then, are given with a view to instruction? Cratylus. Certainly. Socrates. Shall we, then; say that this instruction is an art and has its artisans? Cratylus. Certainly. Socrates. Who are they? Cratylus. The lawgivers, as you said in the beginning. Socrates. Shall we declare that this art arises in men like the other arts, or not? What I mean is this: Some painters are better, and others worse, are they not?"
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "Socrates and Cratylus agree that the creation of names (language) is a specific art belonging to the 'lawgiver' (nomothetes). In the context of Greek political thought, the lawgiver is the foundational figure of the polis who establishes both legal and social structures, including the correct assignment of names to things.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Occupation"
+      ],
+      "rule": "Lawgiver responsibility for name creation",
+      "group": "Lawgivers",
+      "resource": "Right to establish names",
+      "directionality": "MORE",
+      "verbatim": [
+        "[§678] Socrates. Perhaps, then, one artisan of names will be good, and another bad? [§679] Cratylus. Yes. [§680] Socrates. The name of such an artisan was lawgiver? [§681] Cratylus. Yes. [§682] Socrates. Perhaps, then, by Zeus, as is the case in the other arts, one lawgiver may be good and another bad, if we accept our previous conclusions."
+      ],
+      "contemporary": 1,
+      "factuality": 1,
+      "reasoning": "The text identifies the 'lawgiver' (nomothetes) as the specific artisan responsible for the creation and assignment of names in society. This establishes a professional/legal role for the creation of language elements.",
+      "confidence": 9
+    },
+    {
+      "criteria": [
+        "Age"
+      ],
+      "rule": "Youth obligation for thorough investigation",
+      "group": "Youth",
+      "resource": "Right to defer to established authority",
+      "directionality": "LESS",
+      "verbatim": [
+        "Therefore you must consider courageously and thoroughly and not accept anything carelessly—for you are still young and in your prime; then, if after investigation you find the truth, impart it to me."
+      ],
+      "contemporary": 1,
+      "factuality": 0,
+      "reasoning": "Socrates explicitly links the state of being 'young' to a specific behavioral expectation or rule within the intellectual culture of Classical Athens: the obligation to investigate philosophical truths for oneself rather than carelessly accepting established names or doctrines. This implies that the 'resource' of simply relying on tradition or others' knowledge is less available to the young student who is tasked with active inquiry.",
+      "confidence": 7
+    }
+  ],
+  "_file_id": "tlg0059.tlg005.perseus-eng2",
+  "_perseus_author": "Plato",
+  "_perseus_title": "Cratylus",
+  "_period": "Classical (500–360 BCE)",
+  "_n_chunks": 10,
+  "_input_tokens": 66832,
+  "_output_tokens": 4392,
+  "_model": "google/gemini-3-flash-preview",
+  "_prompt": "core_prompt_V1.md"
+}
