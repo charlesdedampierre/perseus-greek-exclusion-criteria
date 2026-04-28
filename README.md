@@ -1,4 +1,4 @@
-# Rules of Exclusion in Ancient Greek Literature
+# Analysis of exckusion criteria Ancient Greek Literature
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-informational.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
@@ -19,5 +19,3 @@ scripts/
   classifiers/       LLM classifiers (Gemini via OpenRouter)
 analysis_notebooks/  Jupyter notebooks (01 – 12)
 ```
-
-Main output: `data/clean/final/rules_final_dataset_130works_april_2026.tsv`.
