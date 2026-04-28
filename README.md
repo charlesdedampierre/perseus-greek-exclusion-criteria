@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)](#)
 
-LLM extraction and annotation of social-exclusion rules from the Perseus Digital Library corpus of ancient Greek literature.
+LLM extraction and annotation of the Perseus Digital Library corpus of ancient Greek literature.
 
 ## Layout
 
