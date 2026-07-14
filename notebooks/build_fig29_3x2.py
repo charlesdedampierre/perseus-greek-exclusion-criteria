@@ -213,8 +213,12 @@ PANELS = [(None, "All rights")] + [(t, f"{t} rights") for t in TYPES]
 
 
 def fig_group_panels_3x2(node_scale=1.4, text_scale=1.9, vs=150, xs_gap=250,
-                         top=140, cols=3, gutter=70, margin=40):
+                         top=140, cols=3, gutter=70, row_gap=170, margin=40):
     """Six group Hasse panels arranged on a `cols`-wide grid (3 columns x 2 rows by default).
+
+    `gutter` is the horizontal space between columns; `row_gap` is the vertical
+    space between rows (kept larger so the two rows breathe and the lower titles
+    clear the labels of the row above).
 
     Each panel is rendered in its own coordinates, its true bounding box is
     measured, then it is translated into a grid cell sized to the widest panel
@@ -260,7 +264,7 @@ def fig_group_panels_3x2(node_scale=1.4, text_scale=1.9, vs=150, xs_gap=250,
     # panels themselves are now close to the same width and height.
     cell_w, cell_h = max(pw), max(ph)
     col_x = [margin + c * (cell_w + gutter) for c in range(cols)]
-    row_y = [margin + r * (cell_h + gutter) for r in range(rows)]
+    row_y = [margin + r * (cell_h + row_gap) for r in range(rows)]
 
     parts = []
     for i, (body, (x0, y0, x1, y1)) in enumerate(panels):
@@ -270,7 +274,7 @@ def fig_group_panels_3x2(node_scale=1.4, text_scale=1.9, vs=150, xs_gap=250,
         parts.append(f'<g transform="translate({dx:.1f} {dy:.1f})">\n{body}\n</g>')
 
     W = 2 * margin + cols * cell_w + (cols - 1) * gutter
-    H = 2 * margin + rows * cell_h + (rows - 1) * gutter
+    H = 2 * margin + rows * cell_h + (rows - 1) * row_gap
     return svg(W, H, "\n".join(parts))
 
 
