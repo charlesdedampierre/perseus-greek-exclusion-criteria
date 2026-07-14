@@ -250,7 +250,7 @@ def fig_group_panels_3x2(node_scale=1.4, text_scale=1.9, vs=150, xs_gap=250,
         return type_panel(0, top, title, GNAMES, hmap,
                           radius=lambda n: node_scale * max(9.0, 1.35 * math.sqrt(POPULATION[n])),
                           split=lambda n: GROUP_SPLIT[n], vs=vs_i, xs_gap=xs_i,
-                          hy_off=52, label_fs=17 * text_scale, title_fs=20 * text_scale,
+                          hy_off=52, label_fs=20.4 * text_scale, title_fs=20 * text_scale,
                           label_inside=False)
 
     panels = [build_panel(*s) for s in shapes]
