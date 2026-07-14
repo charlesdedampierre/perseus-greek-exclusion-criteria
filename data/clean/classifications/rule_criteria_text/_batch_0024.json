@@ -1,0 +1,691 @@
+{
+  "batch_idx": 24,
+  "n_rules": 20,
+  "rule_ids": [
+    "tlg0004.tlg001.perseus-eng2::61",
+    "tlg0004.tlg001.perseus-eng2::62",
+    "tlg0004.tlg001.perseus-eng2::63",
+    "tlg0004.tlg001.perseus-eng2::64",
+    "tlg0004.tlg001.perseus-eng2::65",
+    "tlg0004.tlg001.perseus-eng2::66",
+    "tlg0004.tlg001.perseus-eng2::67",
+    "tlg0004.tlg001.perseus-eng2::68",
+    "tlg0004.tlg001.perseus-eng2::69",
+    "tlg0004.tlg001.perseus-eng2::70",
+    "tlg0004.tlg001.perseus-eng2::71",
+    "tlg0004.tlg001.perseus-eng2::74",
+    "tlg0004.tlg001.perseus-eng2::76",
+    "tlg0004.tlg001.perseus-eng2::77",
+    "tlg0004.tlg001.perseus-eng2::78",
+    "tlg0004.tlg001.perseus-eng2::81",
+    "tlg0004.tlg001.perseus-eng2::82",
+    "tlg0004.tlg001.perseus-eng2::83",
+    "tlg0004.tlg001.perseus-eng2::89",
+    "tlg0004.tlg001.perseus-eng2::91"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "family",
+      "criterion_reasoning": "The verbatim describes being 'sold', which lexically implies a transition/state of being enslaved (ownership status)."
+    },
+    {
+      "i": 1,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "youngster",
+      "criterion_reasoning": "The speaker states they were 'bought', which lexically implies enslaved status."
+    },
+    {
+      "i": 2,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "hierophant",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "hierophant",
+      "criterion_reasoning": "The verbatim specifically names the actor as 'the hierophant', a religious occupation."
+    },
+    {
+      "i": 3,
+      "c_sex": {
+        "value": "female",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "concubine",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "concubine",
+      "criterion_reasoning": "The verbatim names the occupation 'concubine', which lexically implies female sex."
+    },
+    {
+      "i": 4,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "priest",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "priest of Deo’s mysteries",
+      "criterion_reasoning": "The verbatim names the individual 'priest of Deo’s mysteries', identifying a specific religious occupation."
+    },
+    {
+      "i": 5,
+      "c_sex": {
+        "value": "female",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "minor",
+        "evidence": "stated"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "girl",
+      "criterion_reasoning": "The verbatim uses the term 'girl', which names the age as minor/young and implies female sex."
+    },
+    {
+      "i": 6,
+      "c_sex": {
+        "value": "female",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "Herpyllis",
+      "criterion_reasoning": "The verbatim refers to Herpyllis with the pronoun 'she' and mentions her being 'married', implying female sex."
+    },
+    {
+      "i": 7,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "servant",
+      "criterion_reasoning": "The mentions of 'freedom' being given and agents being 'purchased' imply an enslaved ownership status."
+    },
+    {
+      "i": 8,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "servants",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "servants",
+      "criterion_reasoning": "The verbatim mentions 'freedom' granted to 'servants' who might be 'sold', implying enslaved ownership status and naming their occupation."
+    },
+    {
+      "i": 9,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "philosopher",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "philosopher",
+      "criterion_reasoning": "The verbatim explicitly names 'philosopher' as the category of person presiding over a school."
+    },
+    {
+      "i": 10,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "resident",
+        "evidence": "stated"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "philosophers",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "philosophers",
+      "criterion_reasoning": "The verbatim names the occupation 'philosophers' and states they 'return and live there', which constrains residence."
+    },
+    {
+      "i": 11,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "slaves",
+      "criterion_reasoning": "The verbatim uses the word 'slaves', which lexically presupposes enslaved ownership status."
+    },
+    {
+      "i": 12,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "community",
+      "criterion_reasoning": "The verbatim refers to a 'community' holding property jointly, but does not provide lexical grounds for other criteria."
+    },
+    {
+      "i": 13,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "litter-bearers",
+      "criterion_reasoning": "The verbatim describes individuals being 'set free' after 'service', implying an enslaved ownership status."
+    },
+    {
+      "i": 14,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "stated"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "stated"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "Athenian",
+      "criterion_reasoning": "The verbatim names ancestry ('pure Attic blood') and 'free-born' status as relevant social/legal factors."
+    },
+    {
+      "i": 15,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "stated"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "banker",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "native of Sinope",
+      "criterion_reasoning": "The verbatim names ancestry ('native of Sinope') and the occupation of 'banker'."
+    },
+    {
+      "i": 16,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "father",
+      "criterion_reasoning": "The verbatim does not lexically constrain the axes beyond familial relationship."
+    },
+    {
+      "i": 17,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "stated"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "physician",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "slave",
+      "criterion_reasoning": "The verbatim names ownership status ('slave') and refers to male children ('sons'), implying sex."
+    },
+    {
+      "i": 18,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "minor",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "children",
+      "criterion_reasoning": "The verbatim mentions 'children', implying minor age; being 'set over' them suggests a household management role."
+    },
+    {
+      "i": 19,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "fellow-citizens",
+      "criterion_reasoning": "'Citizen' lexically presupposes free status and 'fellow' in this context (Thebes) implies native ancestry/membership."
+    }
+  ],
+  "input_tokens": 6443,
+  "output_tokens": 4184,
+  "status": "ok"
+}

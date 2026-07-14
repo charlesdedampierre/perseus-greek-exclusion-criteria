@@ -1,0 +1,691 @@
+{
+  "batch_idx": 7,
+  "n_rules": 20,
+  "rule_ids": [
+    "tlg0086.tlg035.perseus-eng2::28",
+    "tlg0086.tlg035.perseus-eng2::29",
+    "tlg0086.tlg035.perseus-eng2::30",
+    "tlg0086.tlg035.perseus-eng2::31",
+    "tlg0086.tlg035.perseus-eng2::33",
+    "tlg0086.tlg035.perseus-eng2::36",
+    "tlg0086.tlg035.perseus-eng2::37",
+    "tlg0086.tlg035.perseus-eng2::38",
+    "tlg0086.tlg035.perseus-eng2::39",
+    "tlg0086.tlg035.perseus-eng2::40",
+    "tlg0086.tlg035.perseus-eng2::41",
+    "tlg0086.tlg035.perseus-eng2::42",
+    "tlg0086.tlg035.perseus-eng2::43",
+    "tlg0086.tlg035.perseus-eng2::44",
+    "tlg0086.tlg035.perseus-eng2::45",
+    "tlg0086.tlg035.perseus-eng2::46",
+    "tlg0086.tlg035.perseus-eng2::47",
+    "tlg0086.tlg035.perseus-eng2::48",
+    "tlg0086.tlg035.perseus-eng2::49",
+    "tlg0086.tlg035.perseus-eng2::50"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "low",
+        "evidence": "implied"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "common people",
+      "criterion_reasoning": "The term 'common people' (associated with the 'element of democracy') implies a lower wealth or status group compared to kings and oligarchy."
+    },
+    {
+      "i": 1,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "others",
+      "criterion_reasoning": "The verbatim refers only to 'others' and 'public mess-tables' without specifying criteria for those involved."
+    },
+    {
+      "i": 2,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "richer citizens",
+      "criterion_reasoning": "The verbatim explicitly names 'richer' (wealth) and 'citizens' (implied free status)."
+    },
+    {
+      "i": 3,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "magistrates",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "wealthy",
+      "criterion_reasoning": "The verbatim names 'wealthy' and 'highest of the classes assessed by wealth' (wealth) for those filling 'magistrates' positions (occupation)."
+    },
+    {
+      "i": 4,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "individual",
+      "criterion_reasoning": "The verbatim refers generally to an 'individual' or 'a man' in the context of land sale; no specific demographic criteria are named or lexically forced."
+    },
+    {
+      "i": 5,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "minor",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "children of those who died in war",
+      "criterion_reasoning": "The word 'children' lexically presupposes minor age; their parents are defined by their fate in war."
+    },
+    {
+      "i": 6,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "defendant",
+      "criterion_reasoning": "The verbatim applies to a 'defendant' in a murder trial; no demographic traits are specified."
+    },
+    {
+      "i": 7,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "serf class",
+      "criterion_reasoning": "The term 'serf class' lexically implies a status of being enslaved or bound to service."
+    },
+    {
+      "i": 8,
+      "c_sex": {
+        "value": "female",
+        "evidence": "stated"
+      },
+      "c_age": {
+        "value": "adult",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "women",
+      "criterion_reasoning": "The verbatim states 'women' (sex) and contrasts them with 'wife' or households, implying adult free status."
+    },
+    {
+      "i": 9,
+      "c_sex": {
+        "value": "female",
+        "evidence": "stated"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "implied"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "women",
+      "criterion_reasoning": "The verbatim states 'women' (sex) and references 'estates' and 'large dowries', implying high wealth."
+    },
+    {
+      "i": 10,
+      "c_sex": {
+        "value": "female",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "heiress",
+      "criterion_reasoning": "The word 'heiress' lexically presupposes female sex; no other criteria are forced by the verbatim alone."
+    },
+    {
+      "i": 11,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "adult",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "man",
+      "criterion_reasoning": "The word 'man' and 'father' implies male sex and adult age."
+    },
+    {
+      "i": 12,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "any",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "Ephors",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "entire people",
+      "criterion_reasoning": "The text states the office is from the 'entire people' including 'very poor men', indicating wealth is not a barrier (wealth=any)."
+    },
+    {
+      "i": 13,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "middle",
+        "evidence": "implied"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "citizenship",
+      "criterion_reasoning": "The verbatim ties 'citizenship' (implied free) to the ability to 'pay this tax', excluding the 'very poor' (implying a wealth threshold)."
+    },
+    {
+      "i": 14,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "elder",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "Elders",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "Elders",
+      "criterion_reasoning": "The term 'Elders' lexically presupposes an older age; their role is a specific office (occupation)."
+    },
+    {
+      "i": 15,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "middle",
+        "evidence": "implied"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "citizen",
+      "criterion_reasoning": "The verbatim ties participation in government to a 'fixed poll-tax', implies free status (citizen) and a minimum wealth level."
+    },
+    {
+      "i": 16,
+      "c_sex": {
+        "value": "any",
+        "evidence": "stated"
+      },
+      "c_age": {
+        "value": "any",
+        "evidence": "stated"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "citizens",
+      "criterion_reasoning": "The verbatim names 'all the citizens... women and children as well as men', explicitly stating all sexes and ages are included."
+    },
+    {
+      "i": 17,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "members of the Assembly",
+      "criterion_reasoning": "The verbatim refers to 'all' members of the Assembly; without further context, it does not name specific demographic criteria."
+    },
+    {
+      "i": 18,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "Cosmi",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "certain clans",
+      "criterion_reasoning": "Restriction to 'certain clans' implies an ancestry-based criterion; 'Cosmi' is the occupation (office)."
+    },
+    {
+      "i": 19,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "anybody who wishes",
+      "criterion_reasoning": "The verbatim says 'anybody who wishes' in the context of 'the people' in the Assembly; no demographic limits are stated."
+    }
+  ],
+  "input_tokens": 5893,
+  "output_tokens": 4265,
+  "status": "ok"
+}

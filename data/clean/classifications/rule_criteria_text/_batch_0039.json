@@ -1,0 +1,691 @@
+{
+  "batch_idx": 39,
+  "n_rules": 20,
+  "rule_ids": [
+    "tlg0026.tlg001.perseus-eng2::8",
+    "tlg0026.tlg001.perseus-eng2::9",
+    "tlg0026.tlg001.perseus-eng2::10",
+    "tlg0026.tlg001.perseus-eng2::11",
+    "tlg0026.tlg001.perseus-eng2::12",
+    "tlg0026.tlg001.perseus-eng2::14",
+    "tlg0026.tlg001.perseus-eng2::15",
+    "tlg0026.tlg001.perseus-eng2::16",
+    "tlg0026.tlg001.perseus-eng2::17",
+    "tlg0026.tlg001.perseus-eng2::18",
+    "tlg0026.tlg001.perseus-eng2::19",
+    "tlg0026.tlg001.perseus-eng2::21",
+    "tlg0026.tlg001.perseus-eng2::22",
+    "tlg0026.tlg001.perseus-eng2::23",
+    "tlg0026.tlg001.perseus-eng2::24",
+    "tlg0026.tlg001.perseus-eng2::25",
+    "tlg0026.tlg001.perseus-eng2::26",
+    "tlg0026.tlg001.perseus-eng2::29",
+    "tlg0026.tlg001.perseus-eng2::30",
+    "tlg0026.tlg001.perseus-eng2::32"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "man",
+      "criterion_reasoning": "The verbatim uses 'man' and 'his', implying male sex. It does not explicitly state age, ownership, or ancestry requirements."
+    },
+    {
+      "i": 1,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "man",
+      "criterion_reasoning": "The verbatim refers to 'the man' and 'his own body', implying male sex. Other axes are not lexically constrained."
+    },
+    {
+      "i": 2,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "man",
+      "criterion_reasoning": "The use of 'man' and 'his patrimony' implies male sex. No other criteria are lexically forced by the text."
+    },
+    {
+      "i": 3,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "citizen",
+      "criterion_reasoning": "The word 'citizen' lexically presupposes free status. Sex and age are not named in this specific snippet."
+    },
+    {
+      "i": 4,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "low",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "trade",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "man who earns his daily bread by working at a trade",
+      "criterion_reasoning": "The text explicitly names 'man' (implying male sex) and specifies those who work at a 'trade' for 'daily bread' (stating occupation/low wealth)."
+    },
+    {
+      "i": 5,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "minor",
+        "evidence": "stated"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "stated"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "free youth",
+      "criterion_reasoning": "The verbatim explicitly labels the subject as 'free' and a 'youth' (age=minor)."
+    },
+    {
+      "i": 6,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "stated"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "state slave",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "state slave",
+      "criterion_reasoning": "The text explicitly names the status as 'slave' and the specific category as 'state slave' (demosios)."
+    },
+    {
+      "i": 7,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "stated"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "slave belonging to the city",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "slave belonging to the city",
+      "criterion_reasoning": "The verbatim explicitly identifies the individual as a 'slave' and further as 'belonging to the city'."
+    },
+    {
+      "i": 8,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "Pittalacus",
+      "criterion_reasoning": "The verbatim mentions a specific individual (Pittalacus) and the act of 'securing his freedom', but does not lexically define a general group's criteria in this excerpt."
+    },
+    {
+      "i": 9,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "Athenian",
+      "criterion_reasoning": "The word 'Athenian' implies native ancestry and, in this context of legal liability, free status. Sex and age are not stated."
+    },
+    {
+      "i": 10,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "he",
+      "criterion_reasoning": "The pronoun 'he' implies male sex. The verbatim does not specify other criteria beyond the behavior on trial."
+    },
+    {
+      "i": 11,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "the accused",
+      "criterion_reasoning": "The text refers broadly to 'certain men' and 'the accused', but does not lexically force specific criteria for the scope of the bribery law."
+    },
+    {
+      "i": 12,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "low",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "persons who have property of less than three minas and are so infirm of body",
+      "criterion_reasoning": "The verbatim states a wealth limit ('less than three minas') and a physical condition ('infirm of body'), forcing c_wealth='low'."
+    },
+    {
+      "i": 13,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "adult",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "citizens’ list",
+      "criterion_reasoning": "Being enrolled in the 'citizens’ list' and coming into 'control of the estate' implies reaching adult age and free status; 'Timarchus' is a male name."
+    },
+    {
+      "i": 14,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "stated"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "shoemakers",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "slaves who were skilled shoemakers",
+      "criterion_reasoning": "The verbatim explicitly states ownership='enslaved' ('slaves') and their occupation ('shoemakers')."
+    },
+    {
+      "i": 15,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "rich citizens",
+      "criterion_reasoning": "The text states 'rich citizens', forcing c_wealth='high' and implying free status. 'Trierarch' and 'father' imply male sex."
+    },
+    {
+      "i": 16,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "public officers",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "public officers",
+      "criterion_reasoning": "The verbatim explicitly identifies 'public officers' as the group subject to the rule."
+    },
+    {
+      "i": 17,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "board of inspectors",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "board of inspectors",
+      "criterion_reasoning": "The verbatim specifies members of the 'board of inspectors' and uses 'him', implying male sex."
+    },
+    {
+      "i": 18,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "citizen",
+      "criterion_reasoning": "The text uses 'citizen' (implying free status) and 'him', implying male sex."
+    },
+    {
+      "i": 19,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "people",
+      "criterion_reasoning": "The verbatim refers to 'Timarchus' and 'himself', implying male sex."
+    }
+  ],
+  "input_tokens": 6332,
+  "output_tokens": 4308,
+  "status": "ok"
+}

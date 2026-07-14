@@ -1,0 +1,150 @@
+{
+  "batch_idx": 37,
+  "rule_ids": [
+    "tlg0017.tlg012.perseus-eng2::0",
+    "tlg0017.tlg012.perseus-eng2::1",
+    "tlg0017.tlg012.perseus-eng2::2",
+    "tlg0017.tlg012.perseus-eng2::4",
+    "tlg0019.tlg008.perseus-eng1::9",
+    "tlg0019.tlg008.perseus-eng1::10",
+    "tlg0019.tlg008.perseus-eng1::11",
+    "tlg0019.tlg008.perseus-eng1::12",
+    "tlg0019.tlg008.perseus-eng1::16",
+    "tlg0019.tlg008.perseus-eng1::17",
+    "tlg0019.tlg008.perseus-eng1::19",
+    "tlg0019.tlg008.perseus-eng1::21",
+    "tlg0019.tlg008.perseus-eng1::22",
+    "tlg0019.tlg008.perseus-eng1::23",
+    "tlg0019.tlg011.perseus-eng1::1",
+    "tlg0019.tlg011.perseus-eng1::2",
+    "tlg0019.tlg011.perseus-eng1::3",
+    "tlg0019.tlg011.perseus-eng1::4",
+    "tlg0019.tlg011.perseus-eng1::6",
+    "tlg0019.tlg011.perseus-eng1::7"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "The verbatim specifies the 'right to appeal to the court' when rejected from a community group."
+    },
+    {
+      "i": 1,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "The text describes being 'sold as slaves' as a penalty, indicating a loss of personal liberty."
+    },
+    {
+      "i": 2,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "reasoning": "The verbatim mentions 'property confiscated' as a specific legal consequence."
+    },
+    {
+      "i": 3,
+      "right": "Enrollment in civic sub-units",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "The source refers to being 'introduced to the members of his ward' (phratry/deme enrollment)."
+    },
+    {
+      "i": 4,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The resource is the 'right to speak frankly' (parrhesia) at a specific gathering/assembly."
+    },
+    {
+      "i": 5,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "reasoning": "The text discusses reporting a matter to the 'magistrates, the Prytanes' for legal intervention."
+    },
+    {
+      "i": 6,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "reasoning": "The verbatim lists 'forbid us to go out' and 'your wife goes out' as movement restrictions."
+    },
+    {
+      "i": 7,
+      "right": "Eligibility for the council",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The text specifically mentions the 'Senators' (the Council or Boule)."
+    },
+    {
+      "i": 8,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Refers to the Prytanes, the executive committee with deliberative and administrative authority."
+    },
+    {
+      "i": 9,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "Refers to 'sacred orgies' and 'festivals' in a 'sacred grove' reserved for certain people."
+    },
+    {
+      "i": 10,
+      "right": "Protection from arbitrary arrest",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Describes being 'heavily loaded with fetters' and watched by a guard (Scythian archer)."
+    },
+    {
+      "i": 11,
+      "right": "Right to engage in business",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "Refers to the work of the 'weaver' and tools used for production/labor."
+    },
+    {
+      "i": 12,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "The verbatim names 'trierarchs' whose duty was to 'maintain the galleys'."
+    },
+    {
+      "i": 13,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Refers to 'police officers' or 'archers' as a specific public service role."
+    },
+    {
+      "i": 14,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The verbatim mentions getting a 'sounder thrashing' from a master/private individual."
+    },
+    {
+      "i": 15,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "The verbatim specifically refers to 'citizens to the Assembly'."
+    },
+    {
+      "i": 16,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "Identifies the duty to 'equip the triremes' (the trierarchy liturgy)."
+    },
+    {
+      "i": 17,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "Specifically mentions 'three obols' received for attending the 'Assembly'."
+    },
+    {
+      "i": 18,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Describes the act of 'seating himself at the foot of the tribunal' as a legal supplicant."
+    },
+    {
+      "i": 19,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "Refers to physical restraint/punishment via 'shackles and wedges'."
+    }
+  ],
+  "input_tokens": 4217,
+  "output_tokens": 1036,
+  "status": "ok"
+}

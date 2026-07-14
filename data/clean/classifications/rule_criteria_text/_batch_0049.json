@@ -1,0 +1,691 @@
+{
+  "batch_idx": 49,
+  "n_rules": 20,
+  "rule_ids": [
+    "tlg0540.tlg020.perseus-eng2::2",
+    "tlg0540.tlg020.perseus-eng2::3",
+    "tlg0540.tlg020.perseus-eng2::4",
+    "tlg0540.tlg022.perseus-eng2::0",
+    "tlg0540.tlg022.perseus-eng2::3",
+    "tlg0540.tlg022.perseus-eng2::4",
+    "tlg0540.tlg027.perseus-eng2::0",
+    "tlg0540.tlg027.perseus-eng2::1",
+    "tlg0540.tlg027.perseus-eng2::2",
+    "tlg0540.tlg027.perseus-eng2::3",
+    "tlg0540.tlg029.perseus-eng2::0",
+    "tlg0540.tlg029.perseus-eng2::1",
+    "tlg0540.tlg029.perseus-eng2::2",
+    "tlg0540.tlg030.perseus-eng2::0",
+    "tlg0540.tlg030.perseus-eng2::4",
+    "tlg0540.tlg030.perseus-eng2::6",
+    "tlg1216.tlg001.perseus-eng1::9",
+    "tlg1216.tlg001.perseus-eng1::16",
+    "tlg1216.tlg001.perseus-eng1::17",
+    "tlg1271.tlg001.perseus-eng1::1"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "magistrate",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "magistrate",
+      "criterion_reasoning": "The verbatim uses the masculine pronoun 'him' and the term 'magistrate', implying male sex and stating a specific occupation/role."
+    },
+    {
+      "i": 1,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "defendant",
+      "criterion_reasoning": "The verbatim refers to 'The defendant' and uses the masculine pronoun 'himself' and 'he', implying male sex."
+    },
+    {
+      "i": 2,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "resident",
+        "evidence": "implied"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "townsmen",
+      "criterion_reasoning": "The term 'townsmen' lexically presupposes residency in the town."
+    },
+    {
+      "i": 3,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "foreign",
+        "evidence": "stated"
+      },
+      "c_residence": {
+        "value": "resident",
+        "evidence": "stated"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "resident alien",
+      "criterion_reasoning": "The verbatim explicitly names the subject a 'resident alien', stating both foreign ancestry and resident status."
+    },
+    {
+      "i": 4,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "corn-controllers",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "corn-controllers",
+      "criterion_reasoning": "The verbatim names the occupation 'corn-controllers' and labels them 'citizens', which lexically presupposes free ownership status."
+    },
+    {
+      "i": 5,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "they",
+      "criterion_reasoning": "The verbatim is too vague to constrain any axis; 'poverty' is mentioned as a 'pretext', but does not state the actual wealth level of the subject."
+    },
+    {
+      "i": 6,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "you",
+      "criterion_reasoning": "The verbatim addresses the audience ('you') and mentions 'votes', but contains no lexical constraints on the voters' identity."
+    },
+    {
+      "i": 7,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "juryman",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "juryman",
+      "criterion_reasoning": "The verbatim explicitly names the occupation 'juryman'."
+    },
+    {
+      "i": 8,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "these men",
+      "criterion_reasoning": "The masculine 'these men' implies male sex, but the role (official) is in the rule summary, not the verbatim."
+    },
+    {
+      "i": 9,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "those... producing dramas",
+      "criterion_reasoning": "The verbatim mentions 'producing dramas' and 'dwelling in great houses', which in this context names high wealth status."
+    },
+    {
+      "i": 10,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "gentlemen",
+      "criterion_reasoning": "The address 'gentlemen' implies male sex for the jury."
+    },
+    {
+      "i": 11,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "men of property",
+      "criterion_reasoning": "The verbatim names 'men of property', stating high wealth and implying male sex."
+    },
+    {
+      "i": 12,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "gentlemen of the jury",
+      "criterion_reasoning": "The address 'gentlemen of the jury' implies male sex; the text mentions 'estates', which implies some wealth, but is not definitive of a class."
+    },
+    {
+      "i": 13,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "office",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "citizens",
+      "criterion_reasoning": "The word 'citizens' implies ownership='free'; 'hold office' states a specific occupation/functional role."
+    },
+    {
+      "i": 14,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "man... of servile birth",
+      "criterion_reasoning": "The verbatim uses 'man' (implying male sex) and 'servile birth' (implying enslaved status in this legal context)."
+    },
+    {
+      "i": 15,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "friends",
+      "criterion_reasoning": "The verbatim uses masculine pronouns ('him', 'his'), implying male sex."
+    },
+    {
+      "i": 16,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "Israel",
+      "criterion_reasoning": "The verbatim refers to 'Israel', but in a religious/rhetorical sense that does not clearly constrain the demographic axes of the actual group being governed."
+    },
+    {
+      "i": 17,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "low",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "poor",
+      "criterion_reasoning": "The verbatim explicitly names 'the poor', stating a low wealth criterion; it also mentions 'widow and orphan', which implies sex and age constraints for subsets of the group."
+    },
+    {
+      "i": 18,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "minor",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "orphan",
+      "criterion_reasoning": "The word 'orphan' lexically presupposes a minor/child."
+    },
+    {
+      "i": 19,
+      "c_sex": {
+        "value": "female",
+        "evidence": "stated"
+      },
+      "c_age": {
+        "value": "minor",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "young... women",
+      "criterion_reasoning": "The verbatim states 'women' (sex) and 'the young' (age)."
+    }
+  ],
+  "input_tokens": 6002,
+  "output_tokens": 4230,
+  "status": "ok"
+}

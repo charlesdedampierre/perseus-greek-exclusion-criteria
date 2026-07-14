@@ -1,0 +1,152 @@
+{
+  "batch_idx": 19,
+  "rule_ids": [
+    "tlg0027.tlg001.perseus-eng2::19",
+    "tlg0027.tlg001.perseus-eng2::20",
+    "tlg0027.tlg001.perseus-eng2::21",
+    "tlg0027.tlg001.perseus-eng2::22",
+    "tlg0027.tlg001.perseus-eng2::23",
+    "tlg0027.tlg001.perseus-eng2::25",
+    "tlg0027.tlg001.perseus-eng2::27",
+    "tlg0027.tlg001.perseus-eng2::28",
+    "tlg0027.tlg001.perseus-eng2::30",
+    "tlg0027.tlg001.perseus-eng2::31",
+    "tlg0027.tlg001.perseus-eng2::32",
+    "tlg0027.tlg001.perseus-eng2::34",
+    "tlg0027.tlg001.perseus-eng2::35",
+    "tlg0028.tlg005.perseus-eng2::1",
+    "tlg0028.tlg005.perseus-eng2::2",
+    "tlg0028.tlg005.perseus-eng2::4",
+    "tlg0028.tlg005.perseus-eng2::5",
+    "tlg0028.tlg005.perseus-eng2::6",
+    "tlg0059.tlg005.perseus-eng2::6",
+    "tlg0059.tlg005.perseus-eng2::11"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Proposing legislation",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The verbatim specifies that the disfranchised 'may speak and propose measures' in the Assembly."
+    },
+    {
+      "i": 1,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "reasoning": "Refers to protection from laws 'directed against an individual' (ad hominem legislation/prosecution)."
+    },
+    {
+      "i": 2,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Constraints on magistrates enforcing un-inscribed laws ensures legal process over arbitrary action."
+    },
+    {
+      "i": 3,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "The text concerns the validity of legal decisions (private suits and arbitrators) and enforcement of contracts."
+    },
+    {
+      "i": 4,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "reasoning": "Specifically mentions allowing 'no information or arrest arising out of past events' (amnesty)."
+    },
+    {
+      "i": 5,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "Disallows the usual protections against killing for those holding office under suppressed democracy ('slain with impunity')."
+    },
+    {
+      "i": 6,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "reasoning": "Limits the application of laws to those passed after a specific date (archonship of Eucleides)."
+    },
+    {
+      "i": 7,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Involves ‘restoring’ exiles and 'giving back their rights' which included property recovery."
+    },
+    {
+      "i": 8,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "reasoning": "Directly discusses daughters becoming 'heiresses' (epikleroi) to share the estate."
+    },
+    {
+      "i": 9,
+      "right": "Enrollment in civic sub-units",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Describes the ritual and legal process of a father 'introducing his son' to the Ceryces (a civic/sacred sub-group)."
+    },
+    {
+      "i": 10,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "The text lists various 'public services' (liturgies) like Gymnasiarch and Treasurer."
+    },
+    {
+      "i": 11,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Explicitly mentions ‘extending civic rights’ to foreign groups (Thessalians/Andrians)."
+    },
+    {
+      "i": 12,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "The verbatim demands the state 'refuse to put acknowledged citizens to death'."
+    },
+    {
+      "i": 13,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "Describes the 'right given to every one of leaving the country' (voluntary exile) to avoid a death sentence."
+    },
+    {
+      "i": 14,
+      "right": "Protection from arbitrary arrest",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Discusses the right to 'furnish sureties' to avoid 'imprisonment' before trial."
+    },
+    {
+      "i": 15,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "Discusses restrictions on the 'right of inflicting the death-penalty' without central consent."
+    },
+    {
+      "i": 16,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Verbatim states the slave 'should have had a public trial, instead of being put to death... without a hearing.'"
+    },
+    {
+      "i": 17,
+      "right": "Protection from judicial torture",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "Explicitly mentions 'examined them under torture' in the context of legal evidence."
+    },
+    {
+      "i": 18,
+      "right": "Right to a name",
+      "parent_meta": "Right to citizenship",
+      "is_new": true,
+      "reasoning": "Discusses the practice and right of giving 'names of ancestors' to children."
+    },
+    {
+      "i": 19,
+      "right": "Freedom of speech",
+      "parent_meta": "Right to address the assembly",
+      "is_new": true,
+      "reasoning": "Discusses the 'demonstration of the fitness' of foreign words/language use and etymological derivation."
+    }
+  ],
+  "input_tokens": 4624,
+  "output_tokens": 1061,
+  "status": "ok"
+}

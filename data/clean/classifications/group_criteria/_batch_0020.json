@@ -1,0 +1,371 @@
+{
+  "batch_idx": 20,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Women",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "Occupation",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "Public officers",
+      "Classical Athens"
+    ],
+    [
+      "Priests and priestesses",
+      "Classical Athens"
+    ],
+    [
+      "Citizens",
+      "Oreus"
+    ],
+    [
+      "Citizens",
+      "Delphic Amphictyonic League"
+    ],
+    [
+      "Men of Delphi",
+      "Delphi"
+    ],
+    [
+      "Orphans of fallen soldiers",
+      "Classical Athens"
+    ],
+    [
+      "Suppliants",
+      "Classical Athens"
+    ],
+    [
+      "The Council",
+      "Classical Athens"
+    ],
+    [
+      "Slaves and foreigners",
+      "Classical Athens"
+    ],
+    [
+      "Homicide suspects",
+      "Classical Athens"
+    ],
+    [
+      "Accidental killers",
+      "Classical Athens"
+    ],
+    [
+      "Wealthy citizens",
+      "Classical Sparta"
+    ],
+    [
+      "Prisoners of war",
+      "Classical Sparta"
+    ],
+    [
+      "Suppliants",
+      "Classical Sparta"
+    ],
+    [
+      "Sons of citizens",
+      "Classical Athens"
+    ],
+    [
+      "The healthy",
+      "Classical Athens"
+    ],
+    [
+      "Sophists",
+      "Classical Athens"
+    ],
+    [
+      "Property owners",
+      "Classical Athens"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological females of the native population; categorized by sex and residence independently of their lack of political standing."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Referred to by vocational role; generic placeholder for persons performing specific labor or crafts."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "archontes",
+      "criterion_reasoning": "Defined by holding a public office; membership is contingent on the legal selection system (sortition or election)."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": false,
+      "emic_label": "hiereis",
+      "criterion_reasoning": "Persons performing ritual/sacrificial duties; while often state-sanctioned, the vocational/ritual role is a distinct behavioral fact."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Adult free male of native lineage in Oreus; ancestry and sex define the cell even if laws regarding their rights vary."
+    },
+    {
+      "i": 5,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Citizens of the constituent poleis of the League; defined by native ancestry in their respective member cities."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "Delphoi",
+      "criterion_reasoning": "Adult free males of Delphic ancestry; a sub-population defined by geography and lineage."
+    },
+    {
+      "i": 7,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "orphanoi",
+      "criterion_reasoning": "Children of native men killed in military service; defined by age and kinship (deceased father) rather than legal status."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "hiketēs",
+      "criterion_reasoning": "A person seeking physical protection at a sacred site; defined by the act of supplication and physical location."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "councillor",
+      "requires_rights_definition": true,
+      "emic_label": "Boulē",
+      "criterion_reasoning": "Body of 500 citizens; membership is strictly defined by legal selection and political office-holding."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Combined group of non-native ancestry, including both those owned as property and free foreign residents."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Individuals accused of killing a person; the state of being a suspect is a fact of accusation, not a defined right or office."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Persons who have caused death without intent; defined by the physical act and psychological state."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "homoioi",
+      "criterion_reasoning": "Spartan Spartiates with high material standing (ability to contribute to syssitia); defined by wealth and ancestry."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "aichmalōtos",
+      "criterion_reasoning": "Persons captured in war and held under coercion; their status is a relational fact of capture and ownership."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "hiketēs",
+      "criterion_reasoning": "Same as Athens: individuals seeking religious asylum at a temple, regardless of social status."
+    },
+    {
+      "i": 16,
+      "c_sex": "male",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Defined by male sex and kinship descent from a native male (citizen); biological/genealogical fact."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Persons possessing physical health/fitness; a biological/medical status."
+    },
+    {
+      "i": 18,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "philosopher",
+      "requires_rights_definition": false,
+      "emic_label": "sophistēs",
+      "criterion_reasoning": "Professional teachers of wisdom/rhetoric; categorized by their vocational activity."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Individuals possessing significant land or capital; based on material productive capacity."
+    }
+  ],
+  "input_tokens": 3543,
+  "output_tokens": 3080,
+  "status": "ok"
+}

@@ -1,0 +1,691 @@
+{
+  "batch_idx": 15,
+  "n_rules": 20,
+  "rule_ids": [
+    "tlg0007.tlg059.perseus-eng2::0",
+    "tlg0007.tlg059.perseus-eng2::1",
+    "tlg0007.tlg063.perseus-eng2::0",
+    "tlg0007.tlg063.perseus-eng2::1",
+    "tlg0007.tlg063.perseus-eng2::3",
+    "tlg0007.tlg063.perseus-eng2::4",
+    "tlg0007.tlg063.perseus-eng2::5",
+    "tlg0007.tlg063.perseus-eng2::6",
+    "tlg0007.tlg063.perseus-eng2::7",
+    "tlg0007.tlg063.perseus-eng2::8",
+    "tlg0007.tlg063.perseus-eng2::9",
+    "tlg0007.tlg063.perseus-eng2::10",
+    "tlg0007.tlg063.perseus-eng2::11",
+    "tlg0007.tlg063.perseus-eng2::12",
+    "tlg0007.tlg063.perseus-eng2::13",
+    "tlg0007.tlg063.perseus-eng2::14",
+    "tlg0007.tlg063.perseus-eng2::15",
+    "tlg0007.tlg063.perseus-eng2::16",
+    "tlg0007.tlg063.perseus-eng2::17",
+    "tlg0007.tlg063.perseus-eng2::18"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "Roman",
+      "criterion_reasoning": "The verbatim refers to 'Roman' status, which lexically implies native ancestry within the Roman context. The term 'wife' implies female sex for the partner, but the rule applies to the 'Roman' (Antony)."
+    },
+    {
+      "i": 1,
+      "c_sex": {
+        "value": "male",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "implied"
+      },
+      "c_occupation": {
+        "value": "kings",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "kings of Macedonia",
+      "criterion_reasoning": "'Kings' implies male sex, free status, high wealth, and the specific occupation/station of royalty; 'Macedonia' implies native ancestry."
+    },
+    {
+      "i": 2,
+      "c_sex": {
+        "value": "male",
+        "evidence": "stated"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "implied"
+      },
+      "c_occupation": {
+        "value": "chief magistrates",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "men of the highest repute and influence among the citizens",
+      "criterion_reasoning": "The verbatim explicitly names 'men'; 'citizens' implies free status and native ancestry; 'highest repute and influence' implies high social/wealth status."
+    },
+    {
+      "i": 3,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "enslaved",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "servants",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "servants",
+      "criterion_reasoning": "The word 'servants' in this context (owned by Aratus) lexically presupposes enslaved status and defines their occupation."
+    },
+    {
+      "i": 4,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "resident",
+        "evidence": "implied"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "citizens",
+      "criterion_reasoning": "'Citizens' implies free status; being invited to the theatre (assembly) in the city implies residence. Sex/age are not lexically forced by 'citizen'."
+    },
+    {
+      "i": 5,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "low",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "exiles",
+      "criterion_reasoning": "'Exiles' (who were former citizens) implies free status; 'poverty' states a low wealth level."
+    },
+    {
+      "i": 6,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "him who controls the place",
+      "criterion_reasoning": "The verbatim describes a geopolitical constraint based on military control of a location, but does not specify individual criteria for the subjects affected."
+    },
+    {
+      "i": 7,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "low",
+        "evidence": "stated"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "fellow-citizens, who were in want of money",
+      "criterion_reasoning": "'Citizens' implies free status and native ancestry; 'in want of money' directly states low wealth."
+    },
+    {
+      "i": 8,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "exiles... fellow-citizens",
+      "criterion_reasoning": "'Citizens' and 'exiles' (former citizens) implies free status."
+    },
+    {
+      "i": 9,
+      "c_sex": {
+        "value": "female",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "adult",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "implied"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "wife",
+      "criterion_reasoning": "The word 'wife' implies female sex, adult age, and free status; the possession of 'golden ornaments' implies high wealth."
+    },
+    {
+      "i": 10,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "implied"
+      },
+      "c_ancestry": {
+        "value": "native",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "Corinthians",
+      "criterion_reasoning": "'Corinthians' in a political context implies native ancestry and free status."
+    },
+    {
+      "i": 11,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "free",
+        "evidence": "stated"
+      },
+      "c_ancestry": {
+        "value": "foreign",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "freemen among his prisoners... Athenians",
+      "criterion_reasoning": "The verbatim states 'freemen'; 'Athenians' (captured by a non-Athenian) implies foreign ancestry relative to the captor."
+    },
+    {
+      "i": 12,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "general",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "general",
+      "criterion_reasoning": "The rule explicitly limits the frequency of holding the occupation of 'general'."
+    },
+    {
+      "i": 13,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "men",
+      "criterion_reasoning": "The word 'men' is used, which usually states male sex, though here it refers to those who 'dared the deed' rather than the class of all subjects restricted."
+    },
+    {
+      "i": 14,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "contestants in the games",
+        "evidence": "stated"
+      },
+      "emic_label_in_text": "contestants in the games",
+      "criterion_reasoning": "The verbatim explicitly names 'contestants in the games' as the group to whom the privilege was granted/violated."
+    },
+    {
+      "i": 15,
+      "c_sex": {
+        "value": "female",
+        "evidence": "implied"
+      },
+      "c_age": {
+        "value": "any",
+        "evidence": "implied"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "wives and daughters",
+      "criterion_reasoning": "'Wives and daughters' lexically presupposes female sex. Inclusion of 'daughters' implies age is not a restriction (any age/minor)."
+    },
+    {
+      "i": 16,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "foreign",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "resident",
+        "evidence": "stated"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "alien residents",
+      "criterion_reasoning": "'Alien' implies foreign ancestry; 'residents' states residence."
+    },
+    {
+      "i": 17,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "general",
+        "evidence": "implied"
+      },
+      "emic_label_in_text": "Aratus",
+      "criterion_reasoning": "The rules concern providing money/mercenaries for Aratus to 'wage war', implying his role/occupation as general."
+    },
+    {
+      "i": 18,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "foreign",
+        "evidence": "implied"
+      },
+      "c_residence": {
+        "value": "resident",
+        "evidence": "stated"
+      },
+      "c_wealth": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "resident aliens",
+      "criterion_reasoning": "'Aliens' implies foreign ancestry; 'resident' states residence."
+    },
+    {
+      "i": 19,
+      "c_sex": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_age": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ownership_status": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_ancestry": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_residence": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "c_wealth": {
+        "value": "high",
+        "evidence": "implied"
+      },
+      "c_occupation": {
+        "value": "unspecified",
+        "evidence": "unspecified"
+      },
+      "emic_label_in_text": "the land",
+      "criterion_reasoning": "Dividing up 'the land' to give to others implies it was taken from people with high wealth (landowners)."
+    }
+  ],
+  "input_tokens": 6350,
+  "output_tokens": 4277,
+  "status": "ok"
+}

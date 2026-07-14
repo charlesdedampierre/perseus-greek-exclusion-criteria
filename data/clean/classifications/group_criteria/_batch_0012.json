@@ -1,0 +1,371 @@
+{
+  "batch_idx": 12,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Citizens",
+      "Archaic Athens"
+    ],
+    [
+      "The wealthy and noble",
+      "Classical Athens"
+    ],
+    [
+      "Philosophers",
+      "Classical Athens"
+    ],
+    [
+      "Relations",
+      "Classical Athens"
+    ],
+    [
+      "Benefactors",
+      "Classical Athens"
+    ],
+    [
+      "Freedmen",
+      "Classical Athens"
+    ],
+    [
+      "Citizens",
+      "Aegina (Athenian Cleruchy)"
+    ],
+    [
+      "Athenians",
+      "Archaic Aegina"
+    ],
+    [
+      "Noble families",
+      "Sparta"
+    ],
+    [
+      "The wealthy",
+      "Carthage"
+    ],
+    [
+      "Slaves",
+      "Olbia"
+    ],
+    [
+      "Hierophants",
+      "Classical Athens"
+    ],
+    [
+      "Slaves",
+      "Atarneus"
+    ],
+    [
+      "Non-pure born Athenians",
+      "Classical Athens"
+    ],
+    [
+      "Bankers",
+      "Sinope"
+    ],
+    [
+      "Citizens",
+      "Sinope"
+    ],
+    [
+      "Slaves",
+      "Corinth"
+    ],
+    [
+      "Citizens",
+      "Thebes"
+    ],
+    [
+      "Minors",
+      "Thebes"
+    ],
+    [
+      "Women",
+      "Hellenistic Thrace"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "polītes",
+      "criterion_reasoning": "In pre-Periclean Athens, free adult males of Attic descent (patrilocal) belonging to a phratry; definition relies on lineage and freedom."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "kaloi kagathoi",
+      "criterion_reasoning": "Combines high material wealth with noble lineage (eupatrid ancestry); these are social and economic facts independent of specific legal offices."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "philosopher",
+      "requires_rights_definition": false,
+      "emic_label": "philosophos",
+      "criterion_reasoning": "Defined by vocational intellectual activity and lifestyle; not a legal category."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "unspecified",
+      "c_residence": "unspecified",
+      "c_wealth": "any",
+      "c_kinship_role": "heir",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "syngeneis",
+      "criterion_reasoning": "Biological or marital relation to a specific person; kinship is a genealogical fact."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": "euergetēs",
+      "criterion_reasoning": "Historically designates individuals who received honors for donating wealth; the status is an official honorific title conferred by the state."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "freed",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "apeleutheros",
+      "criterion_reasoning": "A person previously owned as property who has been manumitted; the status transition is a relational fact."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "klērouchos",
+      "criterion_reasoning": "Athenian citizens settled on seized land in Aegina; identified by Athenian ancestry/origin while resident in Aegina."
+    },
+    {
+      "i": 7,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Athēnaioi",
+      "criterion_reasoning": "Aegina context: refers to persons of Athenian descent/origin physically present in or dominating Aegina."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "hieroi",
+      "criterion_reasoning": "Lineage-based elite (such as the Gerousia-eligible families or Agiads/Eurypontids); identified by genealogical descent."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "merchant",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Carthaginian elite defined by material wealth, often derived from trade; a productive/economic descriptor."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "Persons owned as property in the Milesian colony of Olbia; relational fact of being owned."
+    },
+    {
+      "i": 11,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": true,
+      "emic_label": "hierophantēs",
+      "criterion_reasoning": "Chief priest at Eleusis; an office-holding role restricted to the Eumolpidae family, thus rights-mediated."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "Owned as property in the territory of Atarneus; status constitutive of their relational unfreedom."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "mixed",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "nothoi",
+      "criterion_reasoning": "Persons of one Athenian and one non-Athenian parent; a purely genealogical/ancestry fact."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "banker",
+      "requires_rights_definition": false,
+      "emic_label": "trapezitai",
+      "criterion_reasoning": "Defined by vocational role in money-changing and credit; an occupational category."
+    },
+    {
+      "i": 15,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free adult male of Sinopean parentage; the demographic core of the polis."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "Social status defined by being the property of another person; Corinth held vast numbers of industrial/sacred slaves."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free adult male of Beotian/Theban descent; often contingent on an absence of manual labor in some Theban periods."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "pais",
+      "criterion_reasoning": "Persons below the age of physical/social maturity; biological life-stage."
+    },
+    {
+      "i": 19,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynē",
+      "criterion_reasoning": "Biological/social sex of the individuals in the Thracian context."
+    }
+  ],
+  "input_tokens": 3309,
+  "output_tokens": 3129,
+  "status": "ok"
+}

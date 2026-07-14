@@ -1,0 +1,151 @@
+{
+  "batch_idx": 38,
+  "rule_ids": [
+    "tlg0019.tlg011.perseus-eng1::8",
+    "tlg0019.tlg011.perseus-eng1::12",
+    "tlg0019.tlg011.perseus-eng1::13",
+    "tlg0019.tlg011.perseus-eng1::14",
+    "tlg0019.tlg011.perseus-eng1::15",
+    "tlg0019.tlg011.perseus-eng1::16",
+    "tlg0019.tlg011.perseus-eng1::17",
+    "tlg0019.tlg011.perseus-eng1::18",
+    "tlg0019.tlg011.perseus-eng1::19",
+    "tlg0019.tlg011.perseus-eng1::20",
+    "tlg0019.tlg011.perseus-eng1::23",
+    "tlg0019.tlg011.perseus-eng1::26",
+    "tlg0019.tlg011.perseus-eng1::27",
+    "tlg0026.tlg001.perseus-eng2::1",
+    "tlg0026.tlg001.perseus-eng2::2",
+    "tlg0026.tlg001.perseus-eng2::3",
+    "tlg0026.tlg001.perseus-eng2::4",
+    "tlg0026.tlg001.perseus-eng2::5",
+    "tlg0026.tlg001.perseus-eng2::6",
+    "tlg0026.tlg001.perseus-eng2::7"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "The verbatim 'trades... plied by our slaves' identifies the resource as exemption from manual labor."
+    },
+    {
+      "i": 1,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "The verbatim refers to being the 'prosecutor before the dicasts', which concerns legal standing and the right to initiated a trial."
+    },
+    {
+      "i": 2,
+      "right": "Protection from judicial torture",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The verbatim describes 'torture of the wheel shall force the confession', which is judicial torture/interrogation."
+    },
+    {
+      "i": 3,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim discusses the right to 'superintend public... business' and 'country's service', indicating generic public office."
+    },
+    {
+      "i": 4,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "The verbatim mentions jurymen 'earning your bread' and being 'entered for many tribunals' for pay."
+    },
+    {
+      "i": 5,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "The verbatim refers to the priest's 'share of those offerings' and joining 'at the feast' during sacrifices."
+    },
+    {
+      "i": 6,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The verbatim concerns a slave sharing 'blows' from a master, which falls under protection from private corporal punishment."
+    },
+    {
+      "i": 7,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim describes citizens 'appointed to act as dicasts, or jurymen'."
+    },
+    {
+      "i": 8,
+      "right": "Exemption from military service",
+      "parent_meta": "Exemption from military service",
+      "reasoning": "The verbatim explicitly states 'merchants... were absolved from military service'."
+    },
+    {
+      "i": 9,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "The verbatim discusses 'the right' to 'prosecute' in disputes or wrongs against the state."
+    },
+    {
+      "i": 10,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "The mention of 'Taxes on slaves' implies the slave's capacity to hold property or earnings that are taxable."
+    },
+    {
+      "i": 11,
+      "right": "Exemption from military service",
+      "parent_meta": "Exemption from military service",
+      "reasoning": "The verbatim text explicitly lists 'Merchants, exemption of' from 'Military service'."
+    },
+    {
+      "i": 12,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "The verbatim lists 'Heliasts... daily salary' and 'Jurymen, fees'."
+    },
+    {
+      "i": 13,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "reasoning": "The verbatim 'frees a son... from all obligation to support' describes an exemption from a legally mandated civic/family duty."
+    },
+    {
+      "i": 14,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The verbatim cites a 'law against outrage' (hubris) protecting 'free or slave' from abuse of their persons."
+    },
+    {
+      "i": 15,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim explicitly mentions becoming 'one of the nine archons'."
+    },
+    {
+      "i": 16,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The verbatim prohibits one to 'ever address senate or assembly'."
+    },
+    {
+      "i": 17,
+      "right": "Eligibility for public office",
+      "is_new": false,
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim refers to holding 'any office whatsoever' and specifically 'herald or an ambassador'."
+    },
+    {
+      "i": 18,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The verbatim refers to the right of specific groups (elders) who 'address the assembly' first."
+    },
+    {
+      "i": 19,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The verbatim states the law 'forbids to speak' to those who fail to support parents."
+    }
+  ],
+  "input_tokens": 4334,
+  "output_tokens": 1081,
+  "status": "ok"
+}

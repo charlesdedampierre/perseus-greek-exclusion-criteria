@@ -1,0 +1,150 @@
+{
+  "batch_idx": 7,
+  "rule_ids": [
+    "tlg0086.tlg035.perseus-eng2::28",
+    "tlg0086.tlg035.perseus-eng2::29",
+    "tlg0086.tlg035.perseus-eng2::30",
+    "tlg0086.tlg035.perseus-eng2::31",
+    "tlg0086.tlg035.perseus-eng2::33",
+    "tlg0086.tlg035.perseus-eng2::36",
+    "tlg0086.tlg035.perseus-eng2::37",
+    "tlg0086.tlg035.perseus-eng2::38",
+    "tlg0086.tlg035.perseus-eng2::39",
+    "tlg0086.tlg035.perseus-eng2::40",
+    "tlg0086.tlg035.perseus-eng2::41",
+    "tlg0086.tlg035.perseus-eng2::42",
+    "tlg0086.tlg035.perseus-eng2::43",
+    "tlg0086.tlg035.perseus-eng2::44",
+    "tlg0086.tlg035.perseus-eng2::45",
+    "tlg0086.tlg035.perseus-eng2::46",
+    "tlg0086.tlg035.perseus-eng2::47",
+    "tlg0086.tlg035.perseus-eng2::48",
+    "tlg0086.tlg035.perseus-eng2::49",
+    "tlg0086.tlg035.perseus-eng2::50"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim refers to the 'rule of the ephors' as a highest office; in the taxonomy, this specific Lacedaemonian office fits under the top-tier magistracy/archonship."
+    },
+    {
+      "i": 1,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "reasoning": "The verbatim explicitly mentions 'public mess-tables' (syssitia)."
+    },
+    {
+      "i": 2,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "The text identifies 'attend the assembly and vote for magistrates' as the resource."
+    },
+    {
+      "i": 3,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Refers to 'magistrates' and 'highest offices' being filled by wealthy classes."
+    },
+    {
+      "i": 4,
+      "right": "Owning land",
+      "parent_meta": "Right to own land",
+      "reasoning": "Relates to the 'prohibiting the acquisition of land' and 'sale of estates'."
+    },
+    {
+      "i": 5,
+      "right": "Access to public subsidies",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Refers to children of war dead having 'maintenance from the state'."
+    },
+    {
+      "i": 6,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Concerns the procedures and evidentiary rules 'relating to trials for murder'."
+    },
+    {
+      "i": 7,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Concerns the power of cities to 'ally themselves' and the collective political status of the serf class."
+    },
+    {
+      "i": 8,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "Describes women living 'dissolutely' because the lawgiver 'neglected' to regulate their character/conduct."
+    },
+    {
+      "i": 9,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "reasoning": "Explicitly mentions 'women who inherit estates'."
+    },
+    {
+      "i": 10,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "Describes the disposal of an 'heiress in marriage' to 'whomever he likes'."
+    },
+    {
+      "i": 11,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "reasoning": "Explicitly mentions 'exempting the father of four from all taxes'."
+    },
+    {
+      "i": 12,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Identifies the Ephorate as the 'highest office of state' accessible to the 'entire people'."
+    },
+    {
+      "i": 13,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Discusses the 'ancestral regulation of the citizenship' tied to the ability to 'pay this tax'."
+    },
+    {
+      "i": 14,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "reasoning": "Explicitly says they are 'exempt from having to render an account of their office'."
+    },
+    {
+      "i": 15,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "The ability to 'take part in the government' is the general political resource described."
+    },
+    {
+      "i": 16,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Relates to the 'public mess-tables' and 'maintenance' of citizens from 'common funds'."
+    },
+    {
+      "i": 17,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "Describes the assembly function as 'confirming by vote the resolutions'."
+    },
+    {
+      "i": 18,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Discusses eligibility for specific magistracies ('Cosmi' and 'Elders') restricted to 'certain clans'."
+    },
+    {
+      "i": 19,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "Explicitly names the 'right' where 'anybody who wishes may speak against the proposals'."
+    }
+  ],
+  "input_tokens": 4371,
+  "output_tokens": 1034,
+  "status": "ok"
+}

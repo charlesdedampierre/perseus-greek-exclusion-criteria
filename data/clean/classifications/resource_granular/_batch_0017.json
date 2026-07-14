@@ -1,0 +1,170 @@
+{
+  "batch_idx": 17,
+  "rule_ids": [
+    "tlg0007.tlg121.perseus-eng3::1",
+    "tlg0007.tlg121.perseus-eng3::2",
+    "tlg0007.tlg121.perseus-eng3::3",
+    "tlg0007.tlg121.perseus-eng3::5",
+    "tlg0007.tlg121.perseus-eng3::6",
+    "tlg0014.tlg022.perseus-eng2::1",
+    "tlg0014.tlg022.perseus-eng2::2",
+    "tlg0014.tlg022.perseus-eng2::3",
+    "tlg0014.tlg022.perseus-eng2::4",
+    "tlg0014.tlg035.perseus-eng2::0",
+    "tlg0014.tlg035.perseus-eng2::1",
+    "tlg0014.tlg035.perseus-eng2::2",
+    "tlg0014.tlg035.perseus-eng2::3",
+    "tlg0014.tlg049.perseus-eng2::1",
+    "tlg0014.tlg049.perseus-eng2::2",
+    "tlg0014.tlg049.perseus-eng2::3",
+    "tlg0014.tlg049.perseus-eng2::4",
+    "tlg0017.tlg006.perseus-eng2::1",
+    "tlg0017.tlg006.perseus-eng2::2",
+    "tlg0017.tlg006.perseus-eng2::3"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "The verbatim explicitly mentions 'eligibility to office' following the loss of citizenship."
+    },
+    {
+      "i": 1,
+      "right": "Proposing legislation",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "The text describes an individual who 'proposed decrees' and was 'an expert in decrees'."
+    },
+    {
+      "i": 2,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "The law prevents buying a person of 'free birth to be a slave', protecting their status as free persons."
+    },
+    {
+      "i": 3,
+      "right": "Access to public subsidies",
+      "parent_meta": "Access to public honors",
+      "is_new": false,
+      "reasoning": "The decree granted 'maintenance in the Prytaneum', which is a state-provided resource/subsidy."
+    },
+    {
+      "i": 4,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "The text states he 'did not speak before the popular assembly' due to his status as a Corinthian."
+    },
+    {
+      "i": 5,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "The law 'forbids persons... to make speeches' in the assembly."
+    },
+    {
+      "i": 6,
+      "right": "Proposing legislation",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "The verbatim mentions a law 'which forbids him to speak or move resolutions' due to debt."
+    },
+    {
+      "i": 7,
+      "right": "Protection from enslavement for debt",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "Contrasts freemen who 'protect their persons' via money with slaves treated as 'bond-slaves' for debts."
+    },
+    {
+      "i": 8,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "is_new": false,
+      "reasoning": "Refers to the 'contribution of one-sixth' (eisphora) paid by resident aliens at a specific rate."
+    },
+    {
+      "i": 9,
+      "right": "Right to engage in business",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": false,
+      "reasoning": "Regulates lending money for maritime trade expeditions to specific ports."
+    },
+    {
+      "i": 10,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "Mentions the 'heir to his whole estate' and the right 'to hold his brother’s property'."
+    },
+    {
+      "i": 11,
+      "right": "Access to specialized courts",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Refers to 'mercantile suits' (dikai emporikai) and the specific jurisdiction of the exchange."
+    },
+    {
+      "i": 12,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "Concerns the requirement of a 'patron' (prostates) for resident aliens; lack of one is a charge."
+    },
+    {
+      "i": 13,
+      "right": "Testifying in court",
+      "parent_meta": "Right to valid professional opinion",
+      "is_new": false,
+      "reasoning": "Discusses a witness who 'neither gave testimony' nor 'asked under oath for a postponement'."
+    },
+    {
+      "i": 14,
+      "right": "Protection from judicial torture",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Concerns the delivery of slaves for 'the torture' to provide evidence/testimony."
+    },
+    {
+      "i": 15,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "is_new": false,
+      "reasoning": "The verbatim discusses legal liability for those who 'deceive the people by a promise'."
+    },
+    {
+      "i": 16,
+      "right": "Testifying in court",
+      "parent_meta": "Right to valid professional opinion",
+      "is_new": false,
+      "reasoning": "Distinguishes between a 'deposition' from a free man and 'proof from the body' (torture) of a slave."
+    },
+    {
+      "i": 17,
+      "right": "Disposing of property by will",
+      "parent_meta": "Right to dispose of property",
+      "is_new": false,
+      "reasoning": "Explicitly mentions the law 'permitting anyone to dispose of his property' by will."
+    },
+    {
+      "i": 18,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "States 'the law of itself gives his father's estate to the son'."
+    },
+    {
+      "i": 19,
+      "right": "Right to a share of an estate",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "The verbatim specifies 'all the legitimate sons have an equal right to share' in the property."
+    }
+  ],
+  "input_tokens": 4923,
+  "output_tokens": 1510,
+  "status": "ok"
+}

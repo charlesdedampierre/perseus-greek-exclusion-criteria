@@ -1,0 +1,371 @@
+{
+  "batch_idx": 8,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Citizens",
+      "Corinth"
+    ],
+    [
+      "Athenian citizens",
+      "Hellenistic Macedon"
+    ],
+    [
+      "Achaean citizens",
+      "Achaean League"
+    ],
+    [
+      "Argive subjects under tyranny",
+      "Argos"
+    ],
+    [
+      "Athletic contestants",
+      "Ancient Greece"
+    ],
+    [
+      "Metics",
+      "Mantineia"
+    ],
+    [
+      "Generals",
+      "Achaean League"
+    ],
+    [
+      "Resident aliens",
+      "Sparta"
+    ],
+    [
+      "Landowners",
+      "Sparta"
+    ],
+    [
+      "Tyrants",
+      "Argos"
+    ],
+    [
+      "Mantineians",
+      "Mantineia"
+    ],
+    [
+      "Wives",
+      "Hellenistic Macedon"
+    ],
+    [
+      "Royal courtiers",
+      "Hellenistic Macedon"
+    ],
+    [
+      "The young men",
+      "Sparta"
+    ],
+    [
+      "The Spartans",
+      "Sparta"
+    ],
+    [
+      "Men",
+      "Sparta"
+    ],
+    [
+      "Young men",
+      "Sparta"
+    ],
+    [
+      "Foreigners",
+      "Sparta"
+    ],
+    [
+      "Helots",
+      "Sparta"
+    ],
+    [
+      "Maidens and youths",
+      "Sparta"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free adult male of Corinthian descent; criteria are genealogical and biological, though the term itself carries legal implications."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "Athēnaios",
+      "criterion_reasoning": "Free adult males of Athenian ancestry residing within the Macedonian sphere; foreign ancestry relative to Macedon."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Achaioi",
+      "criterion_reasoning": "Sub-population defined by descent from constituent Achaean poleis; free adult males within the federal territory."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Argeioi",
+      "criterion_reasoning": "The general population of Argos (free residents) living under an autocratic ruler; defined by residence and lack of sovereign status."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "athlete",
+      "requires_rights_definition": false,
+      "emic_label": "athlētai",
+      "criterion_reasoning": "Free Greek males engaged in physical competition; vocational/physical role independent of specific civic rights."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikos",
+      "criterion_reasoning": "Free permanent residents of non-local ancestry; defined by residence and lack of native lineage."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "general",
+      "requires_rights_definition": true,
+      "emic_label": "stratēgos",
+      "criterion_reasoning": "Elected military leaders; the role is an office created by the Achaean League's legal framework."
+    },
+    {
+      "i": 7,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenos",
+      "criterion_reasoning": "Non-Spartiate free persons residing in Laconian territory; defined by lack of Spartan lineage."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Individuals holding significant land (klēroi); defined by wealth/material control, though property is a legal construct."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "tyrant",
+      "requires_rights_definition": true,
+      "emic_label": "tyrannos",
+      "criterion_reasoning": "An individual holding extra-legal autocratic power; the role is defined by its relation to the constitutional order."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Mantineis",
+      "criterion_reasoning": "General population belonging to the polis of Mantineia by birth and residency."
+    },
+    {
+      "i": 11,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "spouse",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "gynē",
+      "criterion_reasoning": "Adult females in a socially recognized reproductive/domestic union."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "none",
+      "c_occupation": "courtier",
+      "requires_rights_definition": false,
+      "emic_label": "philoi",
+      "criterion_reasoning": "Individuals physically present in the king's inner circle; social/vocational proximity to the monarch."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "none",
+      "c_occupation": "trainee",
+      "requires_rights_definition": false,
+      "emic_label": "neanioi",
+      "criterion_reasoning": "Young males of Spartan descent, typically in the phase of the agoge; biological and life-stage definition."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Spartiatai",
+      "criterion_reasoning": "The ethno-civic group of Spartan descent; includes men, women, and children of the native free population."
+    },
+    {
+      "i": 15,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "anēr",
+      "criterion_reasoning": "Adult free males of Spartan lineage; biological and gender criteria."
+    },
+    {
+      "i": 16,
+      "c_sex": "male",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "eirēnes",
+      "criterion_reasoning": "Specific life-stage of Spartan males (late teens/early 20s); developmental stage criteria."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Individuals of non-Laconian descent; genealogical criterion independent of legal status."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "farmer",
+      "requires_rights_definition": false,
+      "emic_label": "heilōtes",
+      "criterion_reasoning": "State-owned servile population of native Laconian/Messenian descent; defined by unfree status and lineage."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "none",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "parthenoi kai eirēnes",
+      "criterion_reasoning": "Native Spartan population in pre-adult life stages; defined by age and sex-segregated social roles."
+    }
+  ],
+  "input_tokens": 3672,
+  "output_tokens": 3094,
+  "status": "ok"
+}

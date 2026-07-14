@@ -1,0 +1,371 @@
+{
+  "batch_idx": 6,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Nobles",
+      "Classical Athens"
+    ],
+    [
+      "Nobility",
+      "Classical Athens"
+    ],
+    [
+      "Notables",
+      "Classical Athens"
+    ],
+    [
+      "The poor",
+      "Ambracia"
+    ],
+    [
+      "Metics",
+      "Thurii"
+    ],
+    [
+      "Women",
+      "Mytilene"
+    ],
+    [
+      "Notables",
+      "Megara"
+    ],
+    [
+      "Younger brothers",
+      "Classical Athens"
+    ],
+    [
+      "The poor",
+      "Thurii"
+    ],
+    [
+      "Generals",
+      "Thurii"
+    ],
+    [
+      "The distinguished",
+      "Classical Athens"
+    ],
+    [
+      "The multitude",
+      "Classical Athens"
+    ],
+    [
+      "The notables",
+      "Archaic Corinth"
+    ],
+    [
+      "Owners of estates",
+      "Classical Athens"
+    ],
+    [
+      "Noble women",
+      "Archaic Macedon"
+    ],
+    [
+      "Citizens",
+      "Mytilene"
+    ],
+    [
+      "Subjects",
+      "Archaic Athens"
+    ],
+    [
+      "The wealthy",
+      "Classical Syracuse"
+    ],
+    [
+      "Artisans",
+      "Classical Thebes"
+    ],
+    [
+      "Metics",
+      "Classical Greece"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "eupatridai",
+      "criterion_reasoning": "Descent from historically prominent or well-born families; social standing based on lineage and inherited land wealth."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "genē",
+      "criterion_reasoning": "The collective group of well-born families (genē) characterized by ancestral landholding and genealogical prestige."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "gnōrimoi",
+      "criterion_reasoning": "Socially prominent or 'notable' males distinguished by high wealth and public reputation."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "penētes",
+      "criterion_reasoning": "Persons with low material-economic position, typically those who must labor for a living; socio-economic status independent of rights."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikos",
+      "criterion_reasoning": "Free residents of non-local ancestry; identified by physical residence in a polity they were not born into."
+    },
+    {
+      "i": 5,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological/socially-assigned females within the population."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "gnōrimoi",
+      "criterion_reasoning": "Socially prominent males of high wealth, often competing with the 'multitude' for influence in Megarian politics."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "sibling",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Male siblings of a primary heir; defined by kinship role and birth order within the family unit."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "penētes",
+      "criterion_reasoning": "The demographic segment with minimal material assets or income; economic status is the primary classifier."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": true,
+      "emic_label": "stratēgos",
+      "criterion_reasoning": "Military commanders; an office-holding role attained via selection/election, making it intrinsically legal/political."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "gnōrimoi",
+      "criterion_reasoning": "Equivalent to the 'notables'; individuals distinguished by public reputation, lineage, or material wealth."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plēthos",
+      "criterion_reasoning": "The mass of the population, generally excluding the wealthy 'notables'; identified as the demographic majority."
+    },
+    {
+      "i": 12,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "gnōrimoi",
+      "criterion_reasoning": "High-standing males in Corinth, often associated with oligarchy or the Bacchiad legacy (though period is Late Classical)."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "landowner",
+      "requires_rights_definition": false,
+      "emic_label": "geōmoroi",
+      "criterion_reasoning": "Individuals possessing significant physical land assets; defined by material wealth and productive capacity in land."
+    },
+    {
+      "i": 14,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Women belonging to the dynastic or upper-tier noble families of Macedon; identified by lineage and wealth."
+    },
+    {
+      "i": 15,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free adult native males; the term is legal but the criteria (sex, age, ancestry) are law-independent facts."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": null,
+      "criterion_reasoning": "Defined by being ruled over; in Archaic terms often refers to the non-noble population under aristocrats."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Individuals at the top of the economic hierarchy in Syracuse (e.g., the Gamoroi or their successors)."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "artisan",
+      "requires_rights_definition": false,
+      "emic_label": "banausos",
+      "criterion_reasoning": "Identified by vocational role/manual labor in manufacturing or trade; economic capacity is the primary classifier."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikos",
+      "criterion_reasoning": "Foreign-born resident within a Greek city-state; status is a function of non-native ancestry and physical residency."
+    }
+  ],
+  "input_tokens": 3537,
+  "output_tokens": 3118,
+  "status": "ok"
+}

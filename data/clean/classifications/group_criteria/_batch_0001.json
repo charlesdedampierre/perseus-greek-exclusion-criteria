@@ -1,0 +1,371 @@
+{
+  "batch_idx": 1,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Education",
+      "Classical Athens"
+    ],
+    [
+      "Priests",
+      "Late Period Egypt"
+    ],
+    [
+      "The King Archon",
+      "Classical Athens"
+    ],
+    [
+      "Citizens",
+      "Classical Greece"
+    ],
+    [
+      "Rulers",
+      "Classical Athens"
+    ],
+    [
+      "The rich",
+      "Classical Greece"
+    ],
+    [
+      "Generals",
+      "Classical Athens"
+    ],
+    [
+      "Judges",
+      "Classical Athens"
+    ],
+    [
+      "Magistrates",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "Citizens",
+      "Scythia"
+    ],
+    [
+      "Citizens",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "Women",
+      "Classical Athens"
+    ],
+    [
+      "Soldiers",
+      "Classical Athens"
+    ],
+    [
+      "The poor",
+      "Archaic Athens (Pre-Solonic)"
+    ],
+    [
+      "The wealthy and noble",
+      "Archaic Athens (Pre-Solonic)"
+    ],
+    [
+      "Owners of military equipment",
+      "Archaic Athens (Draconian)"
+    ],
+    [
+      "Wealthy property owners",
+      "Archaic Athens (Draconian)"
+    ],
+    [
+      "Men over thirty",
+      "Classical Athens"
+    ],
+    [
+      "Citizens",
+      "Classical Athens (Solonic)"
+    ],
+    [
+      "Thetes",
+      "Classical Athens"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "student",
+      "requires_rights_definition": false,
+      "emic_label": "paideia",
+      "criterion_reasoning": "Refers to the demographic undergoing instruction; typically free male youths in Athens, defined by their developmental stage and activity."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": false,
+      "emic_label": "hem-netjer",
+      "criterion_reasoning": "Occupational/religious vocation involving temple service; in Egypt, this was often a hereditary lineage role independent of Greek legal categories."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "archōn basileus",
+      "criterion_reasoning": "One of the nine archons; an office-holder defined by legal selection and jurisdiction over religious matters."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Adult free males of native descent; the group can be identified by descent and status without enumerating their specific voting rights."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "archontes",
+      "criterion_reasoning": "Defined by the holding of political power/office; selection is a legal/rights-based process."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "unspecified",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Posited on material economic possession/surplus rather than legal status."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": true,
+      "emic_label": "stratēgoi",
+      "criterion_reasoning": "Elected military commanders; office-holding is inherently tied to the polity's legal system of selection."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "juror",
+      "requires_rights_definition": true,
+      "emic_label": "dikastai",
+      "criterion_reasoning": "Participants in the legal system defined by their empowerment to judge; the role exists only within the legal structure."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "archontes",
+      "criterion_reasoning": "Solonic magistrates were chosen based on specific wealth classes, but the holding of office itself is a legal definition."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "In a Scythian context, refers to the free-born native population, likely members of the tribal community/warrior class."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Solonic reforms redefined the populus, but the core identity remains free adult native males."
+    },
+    {
+      "i": 11,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological/social sex category; identifiable independent of legal standing."
+    },
+    {
+      "i": 12,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "unspecified",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "stratiōtai",
+      "criterion_reasoning": "Occupational category defined by the act of military service/bearing arms."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "penētes",
+      "criterion_reasoning": "Defined by lack of material resources and subsistence labor."
+    },
+    {
+      "i": 14,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eupatridai",
+      "criterion_reasoning": "Descent-based aristocracy ('well-born') typically possessing significant land/wealth."
+    },
+    {
+      "i": 15,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "zeugitai",
+      "criterion_reasoning": "Identified by physical possession of heavy armor (hoplite panoply), implying a specific wealth threshold."
+    },
+    {
+      "i": 16,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "pentakosiomedimnoi",
+      "criterion_reasoning": "Material possession of land/produce (the '500-bushel men') as a criterion of economic capacity."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "A demographic subgroup defined by chronological age and biological sex."
+    },
+    {
+      "i": 18,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "In the Solonic context, free native males of any of the four wealth classes."
+    },
+    {
+      "i": 19,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "thētes",
+      "criterion_reasoning": "The lowest economic class of citizens, defined by manual labor for hire or lack of land yield."
+    }
+  ],
+  "input_tokens": 3568,
+  "output_tokens": 3094,
+  "status": "ok"
+}

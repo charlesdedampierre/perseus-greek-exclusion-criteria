@@ -1,0 +1,150 @@
+{
+  "batch_idx": 41,
+  "rule_ids": [
+    "tlg0026.tlg003.perseus-eng2::16",
+    "tlg0026.tlg003.perseus-eng2::17",
+    "tlg0026.tlg003.perseus-eng2::19",
+    "tlg0026.tlg003.perseus-eng2::21",
+    "tlg0026.tlg003.perseus-eng2::24",
+    "tlg0026.tlg003.perseus-eng2::25",
+    "tlg0026.tlg003.perseus-eng2::26",
+    "tlg0026.tlg003.perseus-eng2::27",
+    "tlg0026.tlg003.perseus-eng2::29",
+    "tlg0026.tlg003.perseus-eng2::31",
+    "tlg0026.tlg003.perseus-eng2::32",
+    "tlg0026.tlg003.perseus-eng2::33",
+    "tlg0026.tlg003.perseus-eng2::34",
+    "tlg0027.tlg002.perseus-eng2::0",
+    "tlg0027.tlg002.perseus-eng2::1",
+    "tlg0027.tlg002.perseus-eng2::2",
+    "tlg0027.tlg002.perseus-eng2::3",
+    "tlg0027.tlg002.perseus-eng2::4",
+    "tlg0027.tlg004.perseus-eng2::0",
+    "tlg0027.tlg004.perseus-eng2::1"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "The verbatim refers to the privilege of taking part in 'debates' and having the 'vote of the state' cast in a council."
+    },
+    {
+      "i": 1,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "The rule describes a call for men to come with 'shovels and mattocks' for compulsory labor under threat of being 'debarred from the shrine'."
+    },
+    {
+      "i": 2,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "The verbatim discusses inheriting enmity and being a 'Greek-tongued barbarian' by blood, implying requirements for citizen status."
+    },
+    {
+      "i": 3,
+      "right": "Possession of arms",
+      "parent_meta": "Right to bear arms",
+      "reasoning": "The text describes war orphans being 'clad thus in full armour' provided by the state upon coming of age."
+    },
+    {
+      "i": 4,
+      "right": "Access to the Agora",
+      "parent_meta": "Right to reside in the city",
+      "reasoning": "The verbatim explicitly states that cowards are 'excluded by the lawgiver from the purified precincts of the Agora'."
+    },
+    {
+      "i": 5,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "The text specifies that the excluded person 'may not be crowned', which is a formal public honor."
+    },
+    {
+      "i": 6,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "The text states the individual may not 'take part in the sacred rites of the people'."
+    },
+    {
+      "i": 7,
+      "right": "Access to sacred spaces",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "The verbatim mentions the right to enter the 'orchestra at the time of the tragedies' and the 'shrine of Dionysus'."
+    },
+    {
+      "i": 8,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "The rule concerns laws which 'forbid crowning men' who have not yet passed their financial audit."
+    },
+    {
+      "i": 9,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The text states that in a democracy 'he speaks who chooses' and 'addresses the people'."
+    },
+    {
+      "i": 10,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "The verbatim mentions 'trierarchic' naval contributions and being 'Commissioner of the Navy', which are specific liturgies."
+    },
+    {
+      "i": 11,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "The text explicitly mentions how the state 'disfranchise those who are convicted of receiving bribes'."
+    },
+    {
+      "i": 12,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "The verbatim describes individuals 'punished with death' by the Areopagus for treason or cowardice."
+    },
+    {
+      "i": 13,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "The text refers to the state being 'common to all who enjoy civic rights'."
+    },
+    {
+      "i": 14,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "The speaker mentions laying hold of sacred emblems (supplication) to save his 'life' when men were 'desirous of putting to death'."
+    },
+    {
+      "i": 15,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "reasoning": "The verbatim describes a group 'liable to be called to account and censured' (the euthuna process)."
+    },
+    {
+      "i": 16,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "The text explicitly refers to 'bestowing civic rights' upon slaves and foreigners as a gift for service."
+    },
+    {
+      "i": 17,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "reasoning": "The 'pardon' mentioned refers to a legal immunity or release from penalty previously granted by the citizens."
+    },
+    {
+      "i": 18,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "The oath mentioned swears to 'exile no one, to imprison no one, to put no one to death, without trial'."
+    },
+    {
+      "i": 19,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "reasoning": "The text describes the 'person ostracized' as being 'cut off from his country' for ten years without a trial."
+    }
+  ],
+  "input_tokens": 4647,
+  "output_tokens": 1109,
+  "status": "ok"
+}

@@ -1,0 +1,371 @@
+{
+  "batch_idx": 7,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Common sailors",
+      "Classical Greece"
+    ],
+    [
+      "Frontier landowners",
+      "Classical Greece"
+    ],
+    [
+      "Farmers",
+      "Thessaly"
+    ],
+    [
+      "Health-impaired infants",
+      "Classical Greece"
+    ],
+    [
+      "Freemen",
+      "Classical Athens"
+    ],
+    [
+      "Mechanics and laborers",
+      "Classical Athens"
+    ],
+    [
+      "Metics",
+      "Athens (The Thirty Tyrants)"
+    ],
+    [
+      "Daughters of citizens",
+      "Classical Athens"
+    ],
+    [
+      "Citizens",
+      "Athens (The Thirty Tyrants)"
+    ],
+    [
+      "Roman governors",
+      "Roman Republic"
+    ],
+    [
+      "Minors",
+      "Roman Republic"
+    ],
+    [
+      "Romans",
+      "Roman Republic"
+    ],
+    [
+      "Macedonian kings",
+      "Macedonian Empire"
+    ],
+    [
+      "Aristocrats",
+      "Sicyon"
+    ],
+    [
+      "Slaves",
+      "Hellenistic Greece"
+    ],
+    [
+      "Citizens",
+      "Sicyon"
+    ],
+    [
+      "Foreigners",
+      "Sicyon"
+    ],
+    [
+      "Greeks",
+      "Hellenistic Greece"
+    ],
+    [
+      "The poor",
+      "Sicyon"
+    ],
+    [
+      "Women",
+      "Hellenistic Greece"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "sailor",
+      "requires_rights_definition": false,
+      "emic_label": "nautai",
+      "criterion_reasoning": "Occupational role focused on naval service; typically free poor (thetes) but can include others; sex is male in a military context."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "farmer",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Occupation and location based: males farming land located at the polity's territorial boundaries."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "farmer",
+      "requires_rights_definition": false,
+      "emic_label": "geōrgoi",
+      "criterion_reasoning": "Defined by the vocational act of cultivating land, spanning various social strata in Thessaly (including penestai)."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Biological developmental stage (infant) combined with physical health impairment; independent of legal status."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eleutheroi",
+      "criterion_reasoning": "The negative of the ownership relation; persons who are not the property of another."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "artisan/laborer",
+      "requires_rights_definition": false,
+      "emic_label": "banausoi",
+      "criterion_reasoning": "Defined by manual occupation and socio-economic position; includes those performing 'illiberal' physical work."
+    },
+    {
+      "i": 6,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikos",
+      "criterion_reasoning": "Free residents of foreign ancestry; specifically targeted during the rule of the Thirty regardless of specific rights."
+    },
+    {
+      "i": 7,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "astē",
+      "criterion_reasoning": "Kinship role (daughter) and genealogical fact (offspring of citizen-stratum parents)."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": true,
+      "emic_label": "Hoi Triskhilioi",
+      "criterion_reasoning": "Under the Thirty Tyrants, 'citizenship' was a restricted list (The Three Thousand); eligibility was defined by the junta's legal decree."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "non_resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "propraetor/proconsul",
+      "criterion_reasoning": "Occupational/office role (provincial governor) which is legally constituted; requires prior status in the Roman rights system."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "impuberes/minores",
+      "criterion_reasoning": "Biological age/developmental stage below the threshold of adulthood."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Romani",
+      "criterion_reasoning": "Descent from the Roman founding/citizen lineage; genealogical/ethnic fact independent of specific civil rights."
+    },
+    {
+      "i": 12,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "monarch",
+      "requires_rights_definition": true,
+      "emic_label": "basileus",
+      "criterion_reasoning": "A political office/rank (King) defined by the sovereign rights/powers it confers; requires the legal structure of the monarchy."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "aristoi",
+      "criterion_reasoning": "High material-economic position and hereditary social standing; picked out by wealth and lineage."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "A person owned as property by another; defined by the relational fact of coercion and saleability."
+    },
+    {
+      "i": 15,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "polites",
+      "criterion_reasoning": "Free adult males of Sicyonian ancestry; can be identified by descent and residence without listing specific rights."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Non-native ancestry, regardless of their legal standing or length of residence in Sicyon."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Hellēnes",
+      "criterion_reasoning": "Ethno-cultural and linguistic lineage (ancestry) common to the Greek world."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "penetes",
+      "criterion_reasoning": "Low material-economic position/income; defined by lack of productive capacity/assets."
+    },
+    {
+      "i": 19,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological/socially-assigned female sex; independent of any legal status."
+    }
+  ],
+  "input_tokens": 3615,
+  "output_tokens": 3107,
+  "status": "ok"
+}

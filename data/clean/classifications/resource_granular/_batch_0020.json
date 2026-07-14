@@ -1,0 +1,170 @@
+{
+  "batch_idx": 20,
+  "rule_ids": [
+    "tlg0059.tlg005.perseus-eng2::14",
+    "tlg0062.tlg019.perseus-eng2::1",
+    "tlg0062.tlg019.perseus-eng2::2",
+    "tlg0062.tlg019.perseus-eng2::4",
+    "tlg0062.tlg019.perseus-eng2::5",
+    "tlg0062.tlg019.perseus-eng2::7",
+    "tlg0062.tlg019.perseus-eng2::8",
+    "tlg0062.tlg019.perseus-eng2::9",
+    "tlg0062.tlg019.perseus-eng2::10",
+    "tlg0062.tlg019.perseus-eng2::11",
+    "tlg0062.tlg019.perseus-eng2::12",
+    "tlg0062.tlg019.perseus-eng2::13",
+    "tlg0062.tlg019.perseus-eng2::14",
+    "tlg0062.tlg040.perseus-eng2::1",
+    "tlg0062.tlg041.perseus-eng2::0",
+    "tlg0062.tlg041.perseus-eng2::2",
+    "tlg0062.tlg041.perseus-eng2::3",
+    "tlg0062.tlg041.perseus-eng2::4",
+    "tlg0062.tlg041.perseus-eng2::6",
+    "tlg0062.tlg041.perseus-eng2::7"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Right to communicate through gesture",
+      "parent_meta": "Right to free speech",
+      "is_new": true,
+      "reasoning": "Verbatim discusses 'make signs with our hands and head' for 'dumb people' to 'make things clear'."
+    },
+    {
+      "i": 1,
+      "right": "Exemption from social obligations",
+      "parent_meta": "Exemption from compulsory public financing",
+      "is_new": true,
+      "reasoning": "Refers to a philosopher's obligation to attend social functions ('Duty... must not be shirked')."
+    },
+    {
+      "i": 2,
+      "right": "Right to receive patronage provisions",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": true,
+      "reasoning": "Verbatim notes 'everything... would have been sent you' even if the guest stayed away."
+    },
+    {
+      "i": 3,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "is_new": false,
+      "reasoning": "Contrasts eating in 'women’s quarters' with having 'room' in the shared dining area."
+    },
+    {
+      "i": 4,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "Explicitly mentions 'making a will in which I was heir to everything' and 'possession of the property'."
+    },
+    {
+      "i": 5,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "Refers to law-based succession ('property is Simon’s by law') following the death of a relative."
+    },
+    {
+      "i": 6,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "is_new": false,
+      "reasoning": "Mentions the necessity 'to pay a special tax' specifically for a certain group."
+    },
+    {
+      "i": 7,
+      "right": "Exemption from military service",
+      "parent_meta": "Exemption from military service",
+      "is_new": false,
+      "reasoning": "Refers to the risk of life in the field 'as commanders of horse or foot' versus having 'nothing to impede flight'."
+    },
+    {
+      "i": 8,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "is_new": false,
+      "reasoning": "Explicitly mentions 'being one of the voters' and going to the 'assembly'."
+    },
+    {
+      "i": 9,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "Refers to the assembly 'sometimes without even letting them say a word for themselves'."
+    },
+    {
+      "i": 10,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "Verbatim describes the power of the assembly to 'confiscate their properties'."
+    },
+    {
+      "i": 11,
+      "right": "Access to public amenities",
+      "parent_meta": "Exemption from taxes",
+      "is_new": true,
+      "reasoning": "Verbatim describes having 'baths and shows and everything else' funded by others."
+    },
+    {
+      "i": 12,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": false,
+      "reasoning": "Discusses a slave having money for 'salt fish' or 'earring' while the master claims 'It’s my money'."
+    },
+    {
+      "i": 13,
+      "right": "Access to sacred spaces",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "Strictly states 'Women did not attend the Olympic games' and victors setting up statues."
+    },
+    {
+      "i": 14,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "Discusses women paying penance/offering to avoid being 'schaven' (shaved) for their beauty."
+    },
+    {
+      "i": 15,
+      "right": "Right to dietary choices",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": true,
+      "reasoning": "Verbatim states 'thei ne touchen fissche never' because it is a 'holy thynge'."
+    },
+    {
+      "i": 16,
+      "right": "Right to dietary choices",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": true,
+      "reasoning": "Verbatim states 'the dowve thei ne eten not' because 'sche is holy'."
+    },
+    {
+      "i": 17,
+      "reasoning": "Refers to 'Galles' (Galli) who 'gelden hem' (castrate themselves) for worship.",
+      "is_new": false,
+      "parent_meta": "Right to bodily autonomy",
+      "right": "Freedom from state supervision"
+    },
+    {
+      "i": 18,
+      "right": "Right to marry",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": true,
+      "reasoning": "Describes a wife being 'surrendered' or transferred from father to son."
+    },
+    {
+      "i": 19,
+      "right": "Eligibility for military command",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Commissioned to 'reule the hoost' (rule the army) and 'perfourme the sacrifises' in the king's name."
+    }
+  ],
+  "input_tokens": 4730,
+  "output_tokens": 1235,
+  "status": "ok"
+}

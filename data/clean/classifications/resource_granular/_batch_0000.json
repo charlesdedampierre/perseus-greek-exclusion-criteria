@@ -1,0 +1,170 @@
+{
+  "batch_idx": 0,
+  "rule_ids": [
+    "tlg0007.tlg118.perseus-eng3::0",
+    "tlg0007.tlg118.perseus-eng3::1",
+    "tlg0007.tlg118.perseus-eng3::2",
+    "tlg0007.tlg118.perseus-eng3::3",
+    "tlg0007.tlg118.perseus-eng3::5",
+    "tlg0007.tlg119.perseus-eng3::0",
+    "tlg0007.tlg119.perseus-eng3::2",
+    "tlg0014.tlg059.perseus-eng2::0",
+    "tlg0014.tlg059.perseus-eng2::1",
+    "tlg0014.tlg059.perseus-eng2::2",
+    "tlg0014.tlg059.perseus-eng2::3",
+    "tlg0014.tlg059.perseus-eng2::5",
+    "tlg0014.tlg059.perseus-eng2::6",
+    "tlg0014.tlg059.perseus-eng2::7",
+    "tlg0014.tlg059.perseus-eng2::8",
+    "tlg0014.tlg059.perseus-eng2::11",
+    "tlg0014.tlg059.perseus-eng2::12",
+    "tlg0032.tlg015.perseus-eng1::0",
+    "tlg0032.tlg015.perseus-eng1::1",
+    "tlg0032.tlg015.perseus-eng1::2"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "the exercise of statecraft on a large scale was virtually limited to Romans"
+    },
+    {
+      "i": 1,
+      "right": "Local self-governance",
+      "parent_meta": "Political power",
+      "is_new": false,
+      "reasoning": "city-states retained, however, their local self-government"
+    },
+    {
+      "i": 2,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "precepts of statecraft ... public conflicts ... befits your noble birth"
+    },
+    {
+      "i": 3,
+      "right": "Eligibility for military command",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "from the office of the generals keep your eyes upon the orators’ platform"
+    },
+    {
+      "i": 4,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "is_new": false,
+      "reasoning": "power which a small edict of a proconsul may annul or transfer"
+    },
+    {
+      "i": 5,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "Megarians voted Alexander the politeia (citizenship)"
+    },
+    {
+      "i": 6,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "is_new": false,
+      "reasoning": "adapting to himself the colleagues who have equal power and honour"
+    },
+    {
+      "i": 7,
+      "right": "Proposing legislation",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "brought forward in the senate a bill, and carried it as a preliminary decree"
+    },
+    {
+      "i": 8,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "is_new": false,
+      "reasoning": "funds remaining over from state expenditures should be devoted to military purposes"
+    },
+    {
+      "i": 9,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "deprive Apollodorus and his children of their civic rights"
+    },
+    {
+      "i": 10,
+      "right": "Right to marry a citizen",
+      "parent_meta": "Right to marry",
+      "is_new": false,
+      "reasoning": "alien shall live as husband with an Athenian woman"
+    },
+    {
+      "i": 11,
+      "right": "Right to legal personhood",
+      "parent_meta": "Right to citizenship",
+      "is_new": true,
+      "reasoning": "she took Stephanus here for her patron"
+    },
+    {
+      "i": 12,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "declaring her to be a free woman"
+    },
+    {
+      "i": 13,
+      "right": "Right to a dowry",
+      "parent_meta": "Right to a dowry",
+      "is_new": false,
+      "reasoning": "must pay back the marriage portion or else pay interest on it"
+    },
+    {
+      "i": 14,
+      "right": "Right to marry a citizen",
+      "parent_meta": "Right to marry",
+      "is_new": false,
+      "reasoning": "give an alien woman in marriage to an Athenian man"
+    },
+    {
+      "i": 15,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "law expressly forbids that they should be eligible to the office of the nine archons"
+    },
+    {
+      "i": 16,
+      "right": "Protection from judicial torture",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "deliver up for the torture the women-servants"
+    },
+    {
+      "i": 17,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "offices of state should be thrown open to every one both in the ballot and the show of hands"
+    },
+    {
+      "i": 18,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "granting to even the baser sort the right of speech"
+    },
+    {
+      "i": 19,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "extraordinary amount of license granted to slaves ... where a blow is illegal"
+    }
+  ],
+  "input_tokens": 4980,
+  "output_tokens": 1041,
+  "status": "ok"
+}

@@ -1,0 +1,170 @@
+{
+  "batch_idx": 22,
+  "rule_ids": [
+    "tlg0540.tlg019.perseus-eng2::9",
+    "tlg0540.tlg025.perseus-eng2::0",
+    "tlg0540.tlg025.perseus-eng2::2",
+    "tlg0540.tlg025.perseus-eng2::4",
+    "tlg0540.tlg025.perseus-eng2::5",
+    "tlg0540.tlg031.perseus-eng2::0",
+    "tlg0540.tlg031.perseus-eng2::1",
+    "tlg0004.tlg001.perseus-eng2::1",
+    "tlg0004.tlg001.perseus-eng2::2",
+    "tlg0004.tlg001.perseus-eng2::6",
+    "tlg0004.tlg001.perseus-eng2::7",
+    "tlg0004.tlg001.perseus-eng2::10",
+    "tlg0004.tlg001.perseus-eng2::11",
+    "tlg0004.tlg001.perseus-eng2::13",
+    "tlg0004.tlg001.perseus-eng2::14",
+    "tlg0004.tlg001.perseus-eng2::15",
+    "tlg0004.tlg001.perseus-eng2::16",
+    "tlg0004.tlg001.perseus-eng2::17",
+    "tlg0004.tlg001.perseus-eng2::20",
+    "tlg0004.tlg001.perseus-eng2::23"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Right to a dowry",
+      "parent_meta": "Right to a dowry",
+      "is_new": false,
+      "reasoning": "Thebatim mentions 'portioning daughters and sisters', which refers to the provision of a marriage dowry."
+    },
+    {
+      "i": 1,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "is_new": false,
+      "reasoning": "The speaker discusses performing 'public services' (liturgies) and seeking to be relieved of them, which concerns the obligation/exemption of liturgies."
+    },
+    {
+      "i": 2,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "is_new": false,
+      "reasoning": "Verbatim explicitly mentions 'condemn several men to death without trial'."
+    },
+    {
+      "i": 3,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "is_new": false,
+      "reasoning": "Refers to 'oaths and covenants' (the Amnesty of 403 BC) protecting individuals from punishment for past political conduct."
+    },
+    {
+      "i": 4,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "is_new": false,
+      "reasoning": "Discusses magistrates who 'hold a number of offices without rendering an account', referring to the euthynai or audit."
+    },
+    {
+      "i": 5,
+      "right": "Eligibility for the council",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Verbatim specifies the 'right to sit in Council' (boulē)."
+    },
+    {
+      "i": 6,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "is_new": false,
+      "reasoning": "Terms like 'aliens’ tax' (metoikion) identify this as a tax resource."
+    },
+    {
+      "i": 7,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "Prohibiting 'personal ornament and the wearing of gold' restricts the right to own/use specific types of property."
+    },
+    {
+      "i": 8,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "The state/customary regulation of 'food' and 'bed' restricts personal autonomy from supervision."
+    },
+    {
+      "i": 9,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "is_new": false,
+      "reasoning": "Mentions 'engaging in politics' and giving 'advice on political matters' to frustrate or propose plans."
+    },
+    {
+      "i": 10,
+      "right": "Right to engage in business",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": false,
+      "reasoning": "Records renting 'oil-mills' and creating a 'monopoly' to 'amass a fortune'."
+    },
+    {
+      "i": 11,
+      "right": "Local self-governance",
+      "parent_meta": "Political power",
+      "is_new": false,
+      "reasoning": "Concerns the ability of a city (Lebedus) to settle disputes or refer them to a mother-city."
+    },
+    {
+      "i": 12,
+      "right": "Protection from enslavement for debt",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "Directly mentions the 'Law of Release' regarding those forced by 'poverty to become serfs'."
+    },
+    {
+      "i": 13,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": false,
+      "reasoning": "Discusses a 'tithe of his property' paid to the state, affecting how much of one's earnings/wealth is retained."
+    },
+    {
+      "i": 14,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "Verbatim uses the term 'disfranchised', which in a Greek context (atimia) is the loss of citizen rights."
+    },
+    {
+      "i": 15,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "The law against 'not to have a settled occupation' is state interference in personal life choices."
+    },
+    {
+      "i": 16,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "Verbatim explicitly mentions 'depriving... of the right to speak in the Assembly'."
+    },
+    {
+      "i": 17,
+      "right": "Right to marry",
+      "parent_meta": "Right to marry",
+      "is_new": true,
+      "reasoning": "The rule restricts who a guardian can 'marry', specifically the 'mother of his ward'."
+    },
+    {
+      "i": 18,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Refers to 'privileges as belonged to the kings' and the family of Codrus."
+    },
+    {
+      "i": 19,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "is_new": false,
+      "reasoning": "The choice of 'guests' in the context of Solon's interactions often refers to public or formal hospitality."
+    }
+  ],
+  "input_tokens": 4571,
+  "output_tokens": 1230,
+  "status": "ok"
+}

@@ -1,0 +1,150 @@
+{
+  "batch_idx": 6,
+  "rule_ids": [
+    "tlg0086.tlg003.perseus-eng1::80",
+    "tlg0086.tlg003.perseus-eng1::81",
+    "tlg0086.tlg003.perseus-eng1::82",
+    "tlg0086.tlg003.perseus-eng1::83",
+    "tlg0086.tlg035.perseus-eng2::5",
+    "tlg0086.tlg035.perseus-eng2::7",
+    "tlg0086.tlg035.perseus-eng2::8",
+    "tlg0086.tlg035.perseus-eng2::10",
+    "tlg0086.tlg035.perseus-eng2::11",
+    "tlg0086.tlg035.perseus-eng2::12",
+    "tlg0086.tlg035.perseus-eng2::14",
+    "tlg0086.tlg035.perseus-eng2::15",
+    "tlg0086.tlg035.perseus-eng2::16",
+    "tlg0086.tlg035.perseus-eng2::18",
+    "tlg0086.tlg035.perseus-eng2::19",
+    "tlg0086.tlg035.perseus-eng2::20",
+    "tlg0086.tlg035.perseus-eng2::22",
+    "tlg0086.tlg035.perseus-eng2::24",
+    "tlg0086.tlg035.perseus-eng2::25",
+    "tlg0086.tlg035.perseus-eng2::27"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "The verbatim refers to the protection of heiresses and their ability to have children 'capable of inheriting the property.'"
+    },
+    {
+      "i": 1,
+      "right": "Enrollment in civic sub-units",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "The requirement for a 'patron from among the citizens' relates to the formal registration and legal standing of non-citizens within the civic framework."
+    },
+    {
+      "i": 2,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Serving as an 'Arbitrator' was a specific judicial/legal duty assigned to elder citizens in Athens."
+    },
+    {
+      "i": 3,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "Refers to the 'Antidosis' (exchange of properties) used to challenge being 'saddled with one of the burdens' like a chorus or trireme."
+    },
+    {
+      "i": 4,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "The text discusses 'ruler' vs 'subject' dynamics and natural hierarchies of authority."
+    },
+    {
+      "i": 5,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "Distinguishes between Greeks and barbarians regarding who is 'essentially' a slave versus who possesses liberty."
+    },
+    {
+      "i": 6,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "Refers to avoiding 'personal trouble' by having a steward, allowing high-status individuals to avoid domestic management labor."
+    },
+    {
+      "i": 7,
+      "right": "Right to engage in business",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "The verbatim describes 'interchanges by way of barter' and 'exchanging actual commodities.'"
+    },
+    {
+      "i": 8,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Describes the 'rule of the father' and the relationship of 'ruler' to the female/children."
+    },
+    {
+      "i": 9,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Refers to being 'better fitted to command' and exercising 'republican government.'"
+    },
+    {
+      "i": 10,
+      "right": "Right to engage in business",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "Discusses 'marketable goods' and the removal of free trade via a 'monopoly.'"
+    },
+    {
+      "i": 11,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "The verbatim explicitly names the 'deliberative part' of the soul and who lacks authority over it."
+    },
+    {
+      "i": 12,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Explicitly mentions the female has the 'deliberative part' but 'without full authority.'"
+    },
+    {
+      "i": 13,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Discusses that 'all cannot govern at once' and must 'hold office for a year at a time.'"
+    },
+    {
+      "i": 14,
+      "right": "Right of residence",
+      "parent_meta": "Right to reside in the city",
+      "reasoning": "Refers to a 'common locality' and a 'single city' occupying a 'single site' belonging to citizens."
+    },
+    {
+      "i": 15,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "Discusses the 'community of wives and sons,' a regulation of marriage and family life."
+    },
+    {
+      "i": 16,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Describes individuals 'owning their property privately' while sharing the use of slaves, horses, and produce."
+    },
+    {
+      "i": 17,
+      "right": "Possession of arms",
+      "parent_meta": "Right to bear arms",
+      "reasoning": "The verbatim explicitly forbids the 'possession of arms.'"
+    },
+    {
+      "i": 18,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "Explicitly mentions the 'exemption of the Guardians from the work of agriculture.'"
+    },
+    {
+      "i": 19,
+      "right": "Possession of arms",
+      "parent_meta": "Right to bear arms",
+      "reasoning": "States that the government is 'constituted from the class that bears arms.'"
+    }
+  ],
+  "input_tokens": 4425,
+  "output_tokens": 1062,
+  "status": "ok"
+}

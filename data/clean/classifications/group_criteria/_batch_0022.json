@@ -1,0 +1,371 @@
+{
+  "batch_idx": 22,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Exiles",
+      "Syracuse"
+    ],
+    [
+      "Foreigners",
+      "Acragas"
+    ],
+    [
+      "People of Delphi",
+      "Delphi"
+    ],
+    [
+      "Citizens",
+      "Roman Athens"
+    ],
+    [
+      "Uneducated individuals",
+      "Roman Empire"
+    ],
+    [
+      "Tarsians",
+      "Tarsus"
+    ],
+    [
+      "Elderly fathers",
+      "Classical Athens"
+    ],
+    [
+      "Priests",
+      "Roman Empire"
+    ],
+    [
+      "The wealthy",
+      "Roman Empire"
+    ],
+    [
+      "The elderly",
+      "Roman Empire"
+    ],
+    [
+      "Teachers",
+      "Roman Empire"
+    ],
+    [
+      "Flutegirls",
+      "Roman Empire"
+    ],
+    [
+      "Naturalized foreigners",
+      "Classical Athens"
+    ],
+    [
+      "Outsiders",
+      "Classical Athens"
+    ],
+    [
+      "Free men",
+      "Roman Empire"
+    ],
+    [
+      "Education students",
+      "Roman Empire"
+    ],
+    [
+      "Artisans",
+      "Roman Empire"
+    ],
+    [
+      "Men of military age",
+      "High Empire Athens"
+    ],
+    [
+      "Parasites",
+      "Roman Empire"
+    ],
+    [
+      "Actors and musicians",
+      "Roman Empire"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "non_resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "phygas",
+      "criterion_reasoning": "Persons of native ancestry physically removed or living outside the territory of the polity; the physical location and genealogical link are rights-independent."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenos",
+      "criterion_reasoning": "Free persons living in the territory who do not descend from the local citizen lineage; defined by residence and ancestry."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Delphoi",
+      "criterion_reasoning": "Inhabitants of the city of Delphi; a geographical and ancestral designation regardless of their status within the Roman imperial legal framework."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free adult males of local Attic ancestry; during the Roman period, this identifies the local municipal elite and eligible residents."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "apaideutos",
+      "criterion_reasoning": "Defined by the lack of formal Greek education (paideia), a cultural-intellectual attribute independent of legal standing."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Tarseis",
+      "criterion_reasoning": "The ethnikon of persons originating from or residing in Tarsus; a fact of geographic origin and ancestry."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "elder",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "parent",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gerontes",
+      "criterion_reasoning": "A combination of biological age (elderly), sex (male), and the relational fact of having offspring (fathers)."
+    },
+    {
+      "i": 7,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": true,
+      "emic_label": "sacerdos",
+      "criterion_reasoning": "Defined by their ritual/vocational role; however, in Rome, high priesthoods are offices within the state apparatus, making them rights-mediated."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "divites",
+      "criterion_reasoning": "Individuals with high material-economic resources, whether derived from land, trade, or capital."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "elder",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "senes",
+      "criterion_reasoning": "Defined solely by biological life-stage; the advanced age of the individual."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "teacher",
+      "requires_rights_definition": false,
+      "emic_label": "grammaticus",
+      "criterion_reasoning": "A vocational role involving the transmission of knowledge and literacy for compensation or within a school context."
+    },
+    {
+      "i": 11,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "none",
+      "c_occupation": "flute-player",
+      "requires_rights_definition": false,
+      "emic_label": "auletrīs",
+      "criterion_reasoning": "Female musicians/entertainers, often associated with low social standing but defined by their specific occupational performance."
+    },
+    {
+      "i": 12,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": "dōpētos",
+      "criterion_reasoning": "Foreigners who received local citizenship via a legal act; the status is intrinsically rights-defined despite the foreign ancestry."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "exōtikos",
+      "criterion_reasoning": "Persons not belonging to the specific community or kinship group; defined by lack of local ancestry or connection."
+    },
+    {
+      "i": 14,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "liberi",
+      "criterion_reasoning": "Adult males who are not legally owned as property by another person; the status is the negation of slavery."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "student",
+      "requires_rights_definition": false,
+      "emic_label": "discipulus",
+      "criterion_reasoning": "Young individuals engaged in formal learning under an instructor; defined by life-stage and activity."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "artisan",
+      "requires_rights_definition": false,
+      "emic_label": "artifex",
+      "criterion_reasoning": "Defined by productive role; skilled manual laborers or craftsmen."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "ephēbos",
+      "criterion_reasoning": "Males within the age range of physical maturity (roughly 18-60) capable of manual/martial activity."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "none",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "parasitus",
+      "criterion_reasoning": "Individuals who live at the table of the wealthy in exchange for social services/flattery; defined by economic dependency and lack of profession."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "actor",
+      "requires_rights_definition": false,
+      "emic_label": "scenici",
+      "criterion_reasoning": "Defined by vocational performance in theatre and music; a socially distinct group regardless of legal infamia."
+    }
+  ],
+  "input_tokens": 3559,
+  "output_tokens": 3136,
+  "status": "ok"
+}

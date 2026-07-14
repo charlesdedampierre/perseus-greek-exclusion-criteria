@@ -1,0 +1,19 @@
+{
+  "model": "google/gemini-3-flash-preview",
+  "prompt": "prompt_group_criteria.md",
+  "source": "data/rules_dataset_april_2026.tsv",
+  "batch_size": 20,
+  "max_parallel": 10,
+  "n_pairs": 491,
+  "n_batches": 25,
+  "ok_batches": 25,
+  "errored_batches": 0,
+  "pairs_scored": 491,
+  "pairs_missing": 0,
+  "input_tokens": 88425,
+  "output_tokens": 75826,
+  "price_in_per_1M": 0.5,
+  "price_out_per_1M": 3.0,
+  "cost_usd": 0.2717,
+  "elapsed_sec": 48.3
+}

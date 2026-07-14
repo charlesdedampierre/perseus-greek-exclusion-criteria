@@ -1,0 +1,150 @@
+{
+  "batch_idx": 30,
+  "rule_ids": [
+    "tlg0007.tlg082.perseus-eng3::0",
+    "tlg0007.tlg082.perseus-eng3::2",
+    "tlg0007.tlg082.perseus-eng3::3",
+    "tlg0007.tlg082.perseus-eng3::5",
+    "tlg0007.tlg082.perseus-eng3::6",
+    "tlg0007.tlg082.perseus-eng3::7",
+    "tlg0007.tlg082.perseus-eng3::8",
+    "tlg0007.tlg082b.perseus-eng2::0",
+    "tlg0007.tlg082b.perseus-eng2::1",
+    "tlg0007.tlg082b.perseus-eng2::3",
+    "tlg0007.tlg082b.perseus-eng2::4",
+    "tlg0007.tlg082b.perseus-eng2::5",
+    "tlg0007.tlg088.perseus-eng3::1",
+    "tlg0007.tlg088.perseus-eng3::3",
+    "tlg0007.tlg093.perseus-eng3::2",
+    "tlg0007.tlg109.perseus-eng2::0",
+    "tlg0007.tlg109.perseus-eng2::3",
+    "tlg0007.tlg109.perseus-eng2::4",
+    "tlg0007.tlg122.perseus-eng3::2",
+    "tlg0007.tlg126.perseus-eng3::1"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Owning land",
+      "parent_meta": "Right to own land",
+      "reasoning": "The verbatim discusses a treaty regarding 'Greek cities' and 'invasive Phrygia' in the context of territorial control/land ownership."
+    },
+    {
+      "i": 1,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "The text explicitly mentions a 'prohibition against their practising or learning any menial calling.'"
+    },
+    {
+      "i": 2,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "The rule describes putting 'fields in the hands of the Helots' instead of citizens doing the labor themselves."
+    },
+    {
+      "i": 3,
+      "right": "Access to physical training",
+      "parent_meta": "Access to the gymnasium",
+      "reasoning": "The verbatim mentions 'strenuous exercise... in races and wrestling and throwing the discus and javelin.'"
+    },
+    {
+      "i": 4,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "The decree forbids the value of 'gold and silver coin' and regulates the use of 'iron money.'"
+    },
+    {
+      "i": 5,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The text discusses taking away the 'kingship' from specific lineages to make it elective."
+    },
+    {
+      "i": 6,
+      "right": "Owning land",
+      "parent_meta": "Right to own land",
+      "reasoning": "The verbatim refers to a 'redistribution of the land' and assigning an 'equal share.'"
+    },
+    {
+      "i": 7,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "The daughter of the king advises her father on whether to enter a war, exercising influence on state policy."
+    },
+    {
+      "i": 8,
+      "right": "Local self-governance",
+      "parent_meta": "Political power",
+      "reasoning": "The text refers to Spartan women 'lording it over' their men, specifically in the domestic/social sphere."
+    },
+    {
+      "i": 9,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "The 'sinner against our laws' (cowardice) resulted in summary justice by the mother based on civic standards of conduct."
+    },
+    {
+      "i": 10,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "The woman defers sexual/marital overtures to her husband or father, defining the mediation of choice."
+    },
+    {
+      "i": 11,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The slave refuses to do something 'not fitting for a free woman' and chooses death over degradation/abuse."
+    },
+    {
+      "i": 12,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "The text criticizes 'lavishing on the theatre' (liturgies like the choregeia) what could pay for fleets."
+    },
+    {
+      "i": 13,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "The text states the Athenian people 'bestowed upon Greece equal suffrage with themselves.'"
+    },
+    {
+      "i": 14,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The text mentions that Scythians 'blind their slaves,' a form of extreme corporal mutilation."
+    },
+    {
+      "i": 15,
+      "right": "Resident allowance for the poor",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "The speaker fears being suspected of leaning too much toward 'the Boeotian interest' while residing in Athens."
+    },
+    {
+      "i": 16,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "reasoning": "The verbatim describes women running out to meet others, breaking the usual 'Boeotian strictness' or restraint."
+    },
+    {
+      "i": 17,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "The text explicitly states the desire for 'no citizens put to death without a trial at law.'"
+    },
+    {
+      "i": 18,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "reasoning": "The works are used 'at banquets' for instruction and entertainment among the learned."
+    },
+    {
+      "i": 19,
+      "right": "Right of residence",
+      "parent_meta": "Right to reside in the city",
+      "reasoning": "The text mentions those who 'choose to settle in the spot' after their term of service."
+    }
+  ],
+  "input_tokens": 4677,
+  "output_tokens": 1078,
+  "status": "ok"
+}

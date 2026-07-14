@@ -1,0 +1,161 @@
+group	right	bit	source	p_has	n_more	n_less
+Wealthy citizen man	Voting in the assembly	1	observed	0.769	10	3
+Wealthy citizen man	Speaking in the assembly	1	inferred	0.512	12	12
+Wealthy citizen man	Eligibility for public office	1	observed	0.8	32	8
+Wealthy citizen man	Eligibility for jury service	1	observed	0.857	12	2
+Wealthy citizen man	Deliberative authority	1	observed	0.889	16	2
+Wealthy citizen man	Right to a trial	1	observed	0.895	34	4
+Wealthy citizen man	Testifying in court	1	observed	0.8	4	1
+Wealthy citizen man	Protection from judicial torture	1	observed	1.0	1	0
+Wealthy citizen man	Protection from penal corporal punishment	1	observed	0.75	6	2
+Wealthy citizen man	Protection from private assault	1	observed	1.0	3	0
+Wealthy citizen man	Personal liberty	1	observed	0.75	6	2
+Wealthy citizen man	Freedom of movement	0	observed	0.333	3	6
+Wealthy citizen man	Owning land	0	observed	0.333	2	4
+Wealthy citizen man	Owning and retaining property	1	observed	0.647	11	6
+Wealthy citizen man	Inheriting property	1	observed	0.833	10	2
+Wealthy citizen man	Right to citizenship	0	observed	0.214	3	11
+Citizen man	Voting in the assembly	1	observed	1.0	10	0
+Citizen man	Speaking in the assembly	1	observed	0.522	12	11
+Citizen man	Eligibility for public office	1	observed	0.667	14	7
+Citizen man	Eligibility for jury service	1	observed	1.0	11	0
+Citizen man	Deliberative authority	1	observed	0.846	11	2
+Citizen man	Right to a trial	1	observed	0.914	32	3
+Citizen man	Testifying in court	1	observed	0.8	4	1
+Citizen man	Protection from judicial torture	1	observed	1.0	1	0
+Citizen man	Protection from penal corporal punishment	1	observed	0.833	5	1
+Citizen man	Protection from private assault	1	observed	1.0	3	0
+Citizen man	Personal liberty	1	observed	0.857	6	1
+Citizen man	Freedom of movement	0	observed	0.375	3	5
+Citizen man	Owning land	1	observed	0.667	2	1
+Citizen man	Owning and retaining property	1	observed	0.889	8	1
+Citizen man	Inheriting property	1	observed	0.9	9	1
+Citizen man	Right to citizenship	0	observed	0.182	2	9
+Poor citizen man (thes)	Voting in the assembly	1	observed	0.846	11	2
+Poor citizen man (thes)	Speaking in the assembly	1	observed	0.542	13	11
+Poor citizen man (thes)	Eligibility for public office	1	observed	0.562	18	14
+Poor citizen man (thes)	Eligibility for jury service	1	observed	0.929	13	1
+Poor citizen man (thes)	Deliberative authority	1	observed	0.765	13	4
+Poor citizen man (thes)	Right to a trial	1	observed	0.889	32	4
+Poor citizen man (thes)	Testifying in court	1	observed	0.8	4	1
+Poor citizen man (thes)	Protection from judicial torture	1	observed	1.0	1	0
+Poor citizen man (thes)	Protection from penal corporal punishment	1	observed	0.833	5	1
+Poor citizen man (thes)	Protection from private assault	1	observed	1.0	4	0
+Poor citizen man (thes)	Personal liberty	1	observed	0.875	7	1
+Poor citizen man (thes)	Freedom of movement	0	observed	0.375	3	5
+Poor citizen man (thes)	Owning land	1	observed	0.75	3	1
+Poor citizen man (thes)	Owning and retaining property	1	observed	0.889	8	1
+Poor citizen man (thes)	Inheriting property	1	observed	0.9	9	1
+Poor citizen man (thes)	Right to citizenship	0	observed	0.133	2	13
+Citizen youth	Voting in the assembly	1	inferred	0.601	0	0
+Citizen youth	Speaking in the assembly	0	observed	0.0	0	2
+Citizen youth	Eligibility for public office	0	observed	0.25	1	3
+Citizen youth	Eligibility for jury service	1	observed	0.667	2	1
+Citizen youth	Deliberative authority	1	observed	0.667	2	1
+Citizen youth	Right to a trial	1	observed	0.8	4	1
+Citizen youth	Testifying in court	1	inferred	0.508	0	0
+Citizen youth	Protection from judicial torture	1	inferred	0.504	0	0
+Citizen youth	Protection from penal corporal punishment	0	observed	0.0	0	3
+Citizen youth	Protection from private assault	1	observed	1.0	2	0
+Citizen youth	Personal liberty	1	observed	0.667	4	2
+Citizen youth	Freedom of movement	0	observed	0.333	1	2
+Citizen youth	Owning land	0	inferred	0.343	0	0
+Citizen youth	Owning and retaining property	1	inferred	0.514	1	1
+Citizen youth	Inheriting property	1	observed	0.9	9	1
+Citizen youth	Right to citizenship	0	observed	0.0	0	2
+Citizen woman	Voting in the assembly	1	inferred	0.702	0	0
+Citizen woman	Speaking in the assembly	0	observed	0.0	0	2
+Citizen woman	Eligibility for public office	0	observed	0.429	3	4
+Citizen woman	Eligibility for jury service	1	observed	1.0	2	0
+Citizen woman	Deliberative authority	1	observed	1.0	3	0
+Citizen woman	Right to a trial	1	observed	0.8	4	1
+Citizen woman	Testifying in court	1	observed	1.0	1	0
+Citizen woman	Protection from judicial torture	1	inferred	0.599	0	0
+Citizen woman	Protection from penal corporal punishment	1	inferred	0.514	0	0
+Citizen woman	Protection from private assault	1	observed	0.667	2	1
+Citizen woman	Personal liberty	1	observed	0.75	3	1
+Citizen woman	Freedom of movement	0	observed	0.333	1	2
+Citizen woman	Owning land	0	inferred	0.35	0	0
+Citizen woman	Owning and retaining property	1	observed	1.0	3	0
+Citizen woman	Inheriting property	1	observed	0.75	6	2
+Citizen woman	Right to citizenship	0	observed	0.0	0	2
+Metic man	Voting in the assembly	1	observed	1.0	1	0
+Metic man	Speaking in the assembly	0	observed	0.0	0	1
+Metic man	Eligibility for public office	0	observed	0.375	3	5
+Metic man	Eligibility for jury service	1	inferred	0.673	0	0
+Metic man	Deliberative authority	1	observed	0.667	2	1
+Metic man	Right to a trial	1	inferred	0.764	4	4
+Metic man	Testifying in court	1	observed	1.0	3	0
+Metic man	Protection from judicial torture	1	inferred	0.59	0	0
+Metic man	Protection from penal corporal punishment	1	observed	1.0	4	0
+Metic man	Protection from private assault	1	observed	1.0	2	0
+Metic man	Personal liberty	1	observed	0.667	4	2
+Metic man	Freedom of movement	0	inferred	0.298	1	1
+Metic man	Owning land	0	observed	0.0	0	5
+Metic man	Owning and retaining property	1	observed	0.6	3	2
+Metic man	Inheriting property	1	observed	0.667	2	1
+Metic man	Right to citizenship	1	observed	0.7	7	3
+Metic woman	Voting in the assembly	1	inferred	0.585	0	0
+Metic woman	Speaking in the assembly	0	observed	0.0	0	1
+Metic woman	Eligibility for public office	0	observed	0.286	2	5
+Metic woman	Eligibility for jury service	1	inferred	0.587	0	0
+Metic woman	Deliberative authority	1	observed	0.667	2	1
+Metic woman	Right to a trial	1	inferred	0.647	3	3
+Metic woman	Testifying in court	1	observed	1.0	1	0
+Metic woman	Protection from judicial torture	1	inferred	0.538	0	0
+Metic woman	Protection from penal corporal punishment	1	inferred	0.527	0	0
+Metic woman	Protection from private assault	1	observed	0.667	2	1
+Metic woman	Personal liberty	1	inferred	0.517	2	2
+Metic woman	Freedom of movement	0	observed	0.0	0	1
+Metic woman	Owning land	0	observed	0.0	0	5
+Metic woman	Owning and retaining property	0	inferred	0.025	2	2
+Metic woman	Inheriting property	0	observed	0.0	0	1
+Metic woman	Right to citizenship	1	observed	0.7	7	3
+Freedman	Voting in the assembly	1	inferred	0.804	0	0
+Freedman	Speaking in the assembly	1	inferred	0.5	0	0
+Freedman	Eligibility for public office	1	inferred	0.64	0	0
+Freedman	Eligibility for jury service	1	inferred	0.776	0	0
+Freedman	Deliberative authority	1	inferred	0.726	0	0
+Freedman	Right to a trial	1	inferred	0.879	0	0
+Freedman	Testifying in court	1	inferred	0.652	0	0
+Freedman	Protection from judicial torture	0	inferred	0.318	0	0
+Freedman	Protection from penal corporal punishment	0	inferred	0.498	0	0
+Freedman	Protection from private assault	1	inferred	0.515	0	0
+Freedman	Personal liberty	1	inferred	0.743	0	0
+Freedman	Freedom of movement	0	inferred	0.248	0	0
+Freedman	Owning land	0	inferred	0.329	0	0
+Freedman	Owning and retaining property	1	inferred	0.699	0	0
+Freedman	Inheriting property	1	inferred	0.847	0	0
+Freedman	Right to citizenship	0	inferred	0.241	0	0
+Male slave	Voting in the assembly	1	inferred	0.622	0	0
+Male slave	Speaking in the assembly	0	inferred	0.437	0	0
+Male slave	Eligibility for public office	1	inferred	0.527	0	0
+Male slave	Eligibility for jury service	1	inferred	0.606	0	0
+Male slave	Deliberative authority	0	inferred	0.008	0	0
+Male slave	Right to a trial	1	inferred	0.94	0	0
+Male slave	Testifying in court	1	inferred	0.55	0	0
+Male slave	Protection from judicial torture	0	inferred	0.008	0	0
+Male slave	Protection from penal corporal punishment	0	inferred	0.007	0	0
+Male slave	Protection from private assault	0	inferred	0.405	0	0
+Male slave	Personal liberty	1	inferred	0.764	0	0
+Male slave	Freedom of movement	0	inferred	0.288	0	0
+Male slave	Owning land	0	inferred	0.347	0	0
+Male slave	Owning and retaining property	1	inferred	0.555	0	0
+Male slave	Inheriting property	1	inferred	0.63	0	0
+Male slave	Right to citizenship	0	inferred	0.276	0	0
+Female slave	Voting in the assembly	1	inferred	0.501	0	0
+Female slave	Speaking in the assembly	0	inferred	0.431	0	0
+Female slave	Eligibility for public office	0	inferred	0.473	0	0
+Female slave	Eligibility for jury service	1	inferred	0.504	0	0
+Female slave	Deliberative authority	0	inferred	0.006	0	0
+Female slave	Right to a trial	1	inferred	0.754	0	0
+Female slave	Testifying in court	0	inferred	0.475	0	0
+Female slave	Protection from judicial torture	0	inferred	0.007	0	0
+Female slave	Protection from penal corporal punishment	0	inferred	0.007	0	0
+Female slave	Protection from private assault	0	inferred	0.362	0	0
+Female slave	Personal liberty	1	inferred	0.563	0	0
+Female slave	Freedom of movement	0	inferred	0.004	0	0
+Female slave	Owning land	0	inferred	0.342	0	0
+Female slave	Owning and retaining property	1	inferred	0.588	0	0
+Female slave	Inheriting property	1	inferred	0.572	0	0
+Female slave	Right to citizenship	0	inferred	0.37	0	0

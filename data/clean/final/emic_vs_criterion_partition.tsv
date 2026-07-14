@@ -1,0 +1,281 @@
+group_meta	n_distinct_cells	emic_total	cell_sig	cell_long	n_rules	share_of_emic
+Citizens	16	271	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	225	0.83
+Citizens	16	271	*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	14	0.052
+Citizens	16	271	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	11	0.041
+Citizens	16	271	*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	3	0.011
+Citizens	16	271	M-A-F-M-*-*	sex=male | age=adult | ownership_status=free | ancestry=mixed | residence=any | wealth=any	3	0.011
+Citizens	16	271	M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	3	0.011
+Citizens	16	271	M-A-F-N-*-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=any	2	0.007
+Citizens	16	271	*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=unspecified	1	0.004
+Citizens	16	271	*-*-F-*-*-*	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	1	0.004
+Citizens	16	271	*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.004
+Citizens	16	271	*-A-F-*-*-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=any	1	0.004
+Citizens	16	271	*-A-F-*-*-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=middle	1	0.004
+Citizens	16	271	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.004
+Citizens	16	271	*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	1	0.004
+Citizens	16	271	M-A-F-F-*-*	sex=male | age=adult | ownership_status=free | ancestry=foreign | residence=any | wealth=any	1	0.004
+Citizens	16	271	M-A-F-F-R-*	sex=male | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	1	0.004
+Citizens	16	271	M-A-F-N-N-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	1	0.004
+Artisans	12	21	*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	4	0.19
+Artisans	12	21	*-A-*-*-R-*	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	2	0.095
+Artisans	12	21	*-A-*-*-R-L	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=low	2	0.095
+Artisans	12	21	*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	1	0.048
+Artisans	12	21	*-*-*-*-R-L	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=low	1	0.048
+Artisans	12	21	*-A-*-*-*-L	sex=any | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=low	1	0.048
+Artisans	12	21	*-A-*-*-R-*	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=unspecified	1	0.048
+Artisans	12	21	*-A-*-*-R-L	sex=any | age=adult | ownership_status=any | ancestry=any | residence=resident | wealth=low	1	0.048
+Artisans	12	21	*-A-*-*-R-M	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=middle	1	0.048
+Artisans	12	21	*-A-F-*-*-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=middle	1	0.048
+Artisans	12	21	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.048
+Artisans	12	21	*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=high	1	0.048
+Artisans	12	21	*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	1	0.048
+Artisans	12	21	*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	1	0.048
+Artisans	12	21	*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	1	0.048
+Artisans	12	21	M-*-F-N-*-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=any | wealth=any	1	0.048
+Foreigners	11	78	*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	25	0.321
+Foreigners	11	78	*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	16	0.205
+Foreigners	11	78	*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	13	0.167
+Foreigners	11	78	*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	6	0.077
+Foreigners	11	78	*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=any | wealth=any	4	0.051
+Foreigners	11	78	*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=any	3	0.038
+Foreigners	11	78	*-*-*-*-N-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=non_resident | wealth=any	2	0.026
+Foreigners	11	78	*-*-F-F-N-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=non_resident | wealth=any	2	0.026
+Foreigners	11	78	*-*-*-*-N-*	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=non_resident | wealth=any	1	0.013
+Foreigners	11	78	*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=unspecified | wealth=any	1	0.013
+Foreigners	11	78	*-*-*-F-R-L	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=low	1	0.013
+Foreigners	11	78	*-*-*-N-R-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=resident | wealth=any	1	0.013
+Foreigners	11	78	*-A-F-F-R-*	sex=any | age=adult | ownership_status=freed | ancestry=foreign | residence=resident | wealth=any	1	0.013
+Foreigners	11	78	M-A-F-F-R-*	sex=male | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	1	0.013
+Foreigners	11	78	M-A-F-N-N-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	1	0.013
+The multitude	10	15	*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	4	0.267
+The multitude	10	15	*-*-F-N-R-L	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=low	2	0.133
+The multitude	10	15	*-A-F-N-R-M	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	2	0.133
+The multitude	10	15	*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	1	0.067
+The multitude	10	15	*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.067
+The multitude	10	15	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	1	0.067
+The multitude	10	15	*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	1	0.067
+The multitude	10	15	*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	1	0.067
+The multitude	10	15	M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	1	0.067
+The multitude	10	15	M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	1	0.067
+Nobles	8	33	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	12	0.364
+Nobles	8	33	*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	10	0.303
+Nobles	8	33	*-A-F-N-*-H	sex=any | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=high	3	0.091
+Nobles	8	33	*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	0.061
+Nobles	8	33	*-A-F-N-R-H	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	2	0.061
+Nobles	8	33	M-*-F-N-R-H	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	2	0.061
+Nobles	8	33	*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	1	0.03
+Nobles	8	33	M-A-F-*-*-H	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=high	1	0.03
+The wealthy	8	86	*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	55	0.64
+The wealthy	8	86	*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	8	0.093
+The wealthy	8	86	*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=high	8	0.093
+The wealthy	8	86	*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=high	5	0.058
+The wealthy	8	86	*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=high	3	0.035
+The wealthy	8	86	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	2	0.023
+The wealthy	8	86	*-*-F-*-*-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=any | wealth=high	1	0.012
+The wealthy	8	86	*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=high	1	0.012
+The wealthy	8	86	*-A-F-*-*-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=middle	1	0.012
+The wealthy	8	86	*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	1	0.012
+The wealthy	8	86	M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	1	0.012
+Women	8	65	F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	32	0.492
+Women	8	65	F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	10	0.154
+Women	8	65	F-A-*-*-*-*	sex=female | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	4	0.062
+Women	8	65	F-*-*-*-*-*	sex=female | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	3	0.046
+Women	8	65	F-*-*-*-*-*	sex=female | age=any | ownership_status=unspecified | ancestry=any | residence=any | wealth=unspecified	3	0.046
+Women	8	65	F-*-F-*-R-*	sex=female | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	3	0.046
+Women	8	65	F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	2	0.031
+Women	8	65	F-A-F-*-*-*	sex=female | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=any	2	0.031
+Women	8	65	F-A-F-N-R-*	sex=female | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	0.031
+Women	8	65	F-*-*-*-*-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	1	0.015
+Women	8	65	F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	1	0.015
+Women	8	65	F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.015
+Women	8	65	F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	1	0.015
+Magistrates	7	33	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	18	0.545
+Magistrates	7	33	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	5	0.152
+Magistrates	7	33	M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	4	0.121
+Magistrates	7	33	M-A-F-N-*-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=any	2	0.061
+Magistrates	7	33	*-A-F-N-R-*	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	1	0.03
+Magistrates	7	33	M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	1	0.03
+Magistrates	7	33	M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	1	0.03
+Magistrates	7	33	M-E-F-N-R-H	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=high	1	0.03
+Priests	7	19	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	5	0.263
+Priests	7	19	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	3	0.158
+Priests	7	19	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	2	0.105
+Priests	7	19	*-A-F-N-R-*	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	0.105
+Priests	7	19	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	2	0.105
+Priests	7	19	*-A-*-*-*-*	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=unspecified | wealth=any	1	0.053
+Priests	7	19	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.053
+Priests	7	19	*-A-F-N-R-*	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	1	0.053
+Priests	7	19	M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	1	0.053
+Priests	7	19	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.053
+Soldiers	6	7	M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=any	1	0.143
+Soldiers	6	7	M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=any	1	0.143
+Soldiers	6	7	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.143
+Soldiers	6	7	M-A-F-F-R-M	sex=male | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=middle	1	0.143
+Soldiers	6	7	M-A-F-N-*-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=any	1	0.143
+Soldiers	6	7	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.143
+Soldiers	6	7	M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	1	0.143
+Greeks	5	9	*-*-*-N-R-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=resident | wealth=any	3	0.333
+Greeks	5	9	*-*-*-N-*-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=any | wealth=any	2	0.222
+Greeks	5	9	*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	1	0.111
+Greeks	5	9	*-*-*-F-*-*	sex=any | age=any | ownership_status=unspecified | ancestry=foreign | residence=any | wealth=any	1	0.111
+Greeks	5	9	*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=any	1	0.111
+Greeks	5	9	*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.111
+Men	5	16	M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	10	0.625
+Men	5	16	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	0.125
+Men	5	16	M-*-*-*-*-*	sex=male | age=any | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	1	0.062
+Men	5	16	M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	1	0.062
+Men	5	16	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	1	0.062
+Men	5	16	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.062
+Men;Citizens	5	9	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	4	0.444
+Men;Citizens	5	9	*-*-F-*-*-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=any | wealth=any	1	0.111
+Men;Citizens	5	9	M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.111
+Men;Citizens	5	9	M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	1	0.111
+Men;Citizens	5	9	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.111
+Men;Citizens	5	9	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.111
+Minors	5	33	*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	19	0.576
+Minors	5	33	*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	4	0.121
+Minors	5	33	*-M-*-*-*-*	sex=any | age=minor | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	2	0.061
+Minors	5	33	*-M-*-*-*-*	sex=any | age=minor | ownership_status=unspecified | ancestry=any | residence=any | wealth=unspecified	2	0.061
+Minors	5	33	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	1	0.03
+Minors	5	33	*-M-*-*-*-*	sex=any | age=minor | ownership_status=any | ancestry=any | residence=any | wealth=any	1	0.03
+Minors	5	33	*-M-*-*-*-*	sex=any | age=minor | ownership_status=any | ancestry=unspecified | residence=any | wealth=unspecified	1	0.03
+Minors	5	33	*-M-*-*-R-*	sex=any | age=minor | ownership_status=unspecified | ancestry=unspecified | residence=resident | wealth=unspecified	1	0.03
+Minors	5	33	*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=any | residence=resident | wealth=any	1	0.03
+Minors	5	33	*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.03
+Philosophers	5	13	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	5	0.385
+Philosophers	5	13	M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	2	0.154
+Philosophers	5	13	*-A-F-*-*-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	1	0.077
+Philosophers	5	13	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	1	0.077
+Philosophers	5	13	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.077
+Philosophers	5	13	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	1	0.077
+Philosophers	5	13	M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	1	0.077
+Philosophers	5	13	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.077
+The poor	5	51	*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	31	0.608
+The poor	5	51	M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	5	0.098
+The poor	5	51	*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=low	4	0.078
+The poor	5	51	*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	4	0.078
+The poor	5	51	*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	4	0.078
+The poor	5	51	*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=low	2	0.039
+The poor	5	51	*-*-*-*-*-L	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=low	1	0.02
+Kings	4	8	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	5	0.625
+Kings	4	8	*-*-F-N-*-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=any | wealth=high	1	0.125
+Kings	4	8	M-A-F-*-R-H	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	1	0.125
+Kings	4	8	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.125
+Men;Heirs	4	7	M-*-F-*-R-*	sex=male | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	4	0.571
+Men;Heirs	4	7	M-*-F-N-*-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=any	1	0.143
+Men;Heirs	4	7	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	1	0.143
+Men;Heirs	4	7	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	1	0.143
+Other	4	9	*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	2	0.222
+Other	4	9	*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	2	0.222
+Other	4	9	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	0.222
+Other	4	9	*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	1	0.111
+Other	4	9	*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=unspecified	1	0.111
+Other	4	9	*-*-*-*-R-*	sex=any | age=any | ownership_status=unspecified | ancestry=any | residence=resident | wealth=any	1	0.111
+Heirs	3	6	*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	2	0.333
+Heirs	3	6	*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=any	2	0.333
+Heirs	3	6	*-*-*-*-*-*	sex=any | age=any | ownership_status=unspecified | ancestry=unspecified | residence=unspecified | wealth=any	1	0.167
+Heirs	3	6	*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=any | wealth=any	1	0.167
+Men;Elders	3	6	M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	4	0.667
+Men;Elders	3	6	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.167
+Men;Elders	3	6	M-E-F-*-R-*	sex=male | age=elder | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	1	0.167
+Poets	3	5	M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	3	0.6
+Poets	3	5	M-A-F-*-R-L	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=low	1	0.2
+Poets	3	5	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.2
+Slaves	3	73	*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	67	0.918
+Slaves	3	73	*-*-E-N-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=native | residence=resident | wealth=low	5	0.068
+Slaves	3	73	*-*-*-*-R-*	sex=any | age=any | ownership_status=unspecified | ancestry=unspecified | residence=resident | wealth=any	1	0.014
+The educated	3	6	*-*-F-*-*-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=any | wealth=any	3	0.5
+The educated	3	6	*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	2	0.333
+The educated	3	6	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	1	0.167
+Christians	2	3	*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	2	0.667
+Christians	2	3	*-A-*-*-*-*	sex=any | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	1	0.333
+Citizens;Foreigners	2	2	*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	1	0.5
+Citizens;Foreigners	2	2	M-A-F-M-R-*	sex=male | age=adult | ownership_status=free | ancestry=mixed | residence=resident | wealth=any	1	0.5
+Exiles	2	6	*-*-F-N-N-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	5	0.833
+Exiles	2	6	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.167
+Magistrates;Kings	2	4	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	3	0.75
+Magistrates;Kings	2	4	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.25
+Minors;Heirs	2	2	*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	1	0.5
+Minors;Heirs	2	2	M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.5
+Minors;Men	2	3	M-M-F-N-R-*	sex=male | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	0.667
+Minors;Men	2	3	M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	1	0.333
+Orphans	2	2	*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=any | residence=resident | wealth=unspecified	1	0.5
+Orphans	2	2	*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.5
+Physicians	2	2	*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	1	0.5
+Physicians	2	2	M-A-F-*-R-H	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	1	0.5
+Priests;Women	2	3	F-*-F-N-R-H	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	2	0.667
+Priests;Women	2	3	F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.333
+Sailors	2	2	M-A-*-*-*-L	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=low	1	0.5
+Sailors	2	2	M-A-*-*-R-L	sex=male | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=low	1	0.5
+Scythians	2	2	*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=unspecified	1	0.5
+Scythians	2	2	*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	1	0.5
+Sick	2	2	*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	1	0.5
+Sick	2	2	*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	1	0.5
+Soldiers;Magistrates	2	4	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	0.5
+Soldiers;Magistrates	2	4	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	2	0.5
+Spartans	2	4	*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	0.5
+Spartans	2	4	M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	0.5
+Women;Heirs	2	2	F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.5
+Women;Heirs	2	2	F-*-F-N-R-H	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	1	0.5
+Women;Nobles	2	2	F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.5
+Women;Nobles	2	2	F-A-F-N-R-H	sex=female | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	1	0.5
+Women;Wives	2	4	F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	3	0.75
+Women;Wives	2	4	F-A-F-*-*-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	1	0.25
+Artisans;Soldiers	1	1	M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	1	1.0
+Cilicians	1	1	*-*-*-N-*-*	sex=any | age=any | ownership_status=unspecified | ancestry=native | residence=any | wealth=unspecified	1	1.0
+Citizens;Greeks	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Citizens;Magistrates	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Citizens;Nobles	1	2	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	2	1.0
+Citizens;Soldiers	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Elders	1	2	*-E-*-*-*-*	sex=any | age=elder | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	2	1.0
+Elders;Priests	1	1	M-E-F-*-R-*	sex=male | age=elder | ownership_status=free | ancestry=any | residence=resident | wealth=unspecified	1	1.0
+Exiles;Citizens	1	1	M-A-F-N-N-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	1	1.0
+Exiles;Nobles	1	1	M-A-F-N-N-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=non_resident | wealth=high	1	1.0
+Greeks;Citizens	1	1	M-A-F-F-R-*	sex=male | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	1	1.0
+Heirs;Magistrates	1	1	*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	1	1.0
+Heirs;Men	1	2	M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	2	1.0
+Heirs;Minors	1	1	*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=unspecified	1	1.0
+Heirs;Women	1	1	F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Jews;Priests	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	1	1.0
+Kings;Nobles	1	1	M-*-F-N-R-H	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	1	1.0
+Macedonians;Kings	1	1	M-A-F-N-*-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=high	1	1.0
+Men;Citizens;Nobles	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Men;Greeks	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Men;Magistrates	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Men;Minors	1	2	M-M-F-N-R-*	sex=male | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	0.5
+Men;Minors	1	2	M-M-F-N-R-*	sex=male | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	1	0.5
+Men;Nobles	1	1	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	1	1.0
+Men;Soldiers	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Men;Women	1	1	*-A-F-*-*-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	1	1.0
+Minors;Citizens	1	1	*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=unspecified	1	1.0
+Minors;Foreigners	1	2	*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=any	1	0.5
+Minors;Foreigners	1	2	*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=unspecified	1	0.5
+Minors;Nobles;Men	1	1	M-A-F-N-*-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=high	1	1.0
+Minors;Orphans	1	1	*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	1	1.0
+Minors;Sick	1	1	*-M-*-*-R-*	sex=any | age=minor | ownership_status=unspecified | ancestry=unspecified | residence=resident | wealth=unspecified	1	1.0
+Minors;Slaves	1	1	*-M-E-*-R-L	sex=any | age=minor | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	1	1.0
+Nobles;Heirs	1	1	*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Nobles;Men	1	1	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	1	1.0
+Orphans;Soldiers	1	1	*-M-F-N-R-L	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=low	1	1.0
+Persians	1	1	*-*-*-N-*-*	sex=any | age=any | ownership_status=unspecified | ancestry=native | residence=any | wealth=unspecified	1	1.0
+Philosophers;Magistrates	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Poets;Magistrates	1	1	M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Romans	1	1	*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=any | wealth=any	1	1.0
+Romans;Magistrates	1	1	M-A-F-N-N-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=non_resident | wealth=high	1	1.0
+Scythians;Soldiers	1	1	M-A-E-F-R-L	sex=male | age=adult | ownership_status=enslaved | ancestry=foreign | residence=resident | wealth=low	1	1.0
+Slaves;Foreigners	1	2	*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=any	1	0.5
+Slaves;Foreigners	1	2	*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=unspecified	1	0.5
+Slaves;Foreigners;Women	1	1	*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	1	1.0
+Slaves;Soldiers	1	2	*-*-E-F-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=foreign | residence=resident | wealth=low	2	1.0
+Spartans;Citizens	1	2	M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	2	1.0
+Syrians	1	4	*-*-*-N-*-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=any | wealth=any	4	1.0
+The educated;Nobles	1	1	M-A-F-*-R-H	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	1	1.0
+The multitude;Citizens	1	1	M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	1	1.0
+The poor;Artisans	1	1	*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	1	1.0
+The poor;Sick	1	2	M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	2	1.0
+The wealthy;Citizens	1	15	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	15	1.0
+The wealthy;Nobles	1	3	M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	3	1.0
+The wealthy;Women	1	1	F-A-F-*-R-H	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	1	1.0
+Women;Citizens	1	1	F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Women;Minors	1	1	F-M-F-N-R-*	sex=female | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	1	1.0
+Women;Minors;Artisans	1	1	F-A-*-*-R-L	sex=female | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=low	1	1.0

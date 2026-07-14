@@ -1,0 +1,85 @@
+right	archetype	expected	observed	verdict
+Voting in the assembly	citizen_male	1	X	corpus_contested
+Speaking in the assembly	citizen_male	1	1	agree
+Deliberative authority	citizen_male	1	1	agree
+Eligibility for public office	citizen_male	1	1	agree
+Eligibility for the archonship	citizen_male	1	X	corpus_contested
+Eligibility for jury service	citizen_male	1	X	corpus_contested
+Right to a trial	citizen_male	1	1	agree
+Testifying in court	citizen_male	1	1	agree
+Protection from execution without trial	citizen_male	1	1	agree
+Protection from judicial torture	citizen_male	1	X	corpus_contested
+Protection from penal corporal punishment	citizen_male	1	X	corpus_contested
+Protection from private assault	citizen_male	1		no_corpus_evidence
+Personal liberty	citizen_male	1	0	DISAGREE
+Freedom of movement	citizen_male	1	X	corpus_contested
+Owning land	citizen_male	1		no_corpus_evidence
+Owning and retaining property	citizen_male	1	X	corpus_contested
+Inheriting property	citizen_male	1	1	agree
+Right to engage in business	citizen_male	1	1	agree
+Right to citizenship	citizen_male	1	X	corpus_contested
+Right to marry a citizen	citizen_male	1		no_corpus_evidence
+Freedom of choice in marriage	citizen_male	1	X	corpus_contested
+Voting in the assembly	citizen_female	0		no_corpus_evidence
+Speaking in the assembly	citizen_female	0	1	DISAGREE
+Deliberative authority	citizen_female	0	0	agree
+Eligibility for public office	citizen_female	0		no_corpus_evidence
+Eligibility for the archonship	citizen_female	0		no_corpus_evidence
+Eligibility for jury service	citizen_female	0		no_corpus_evidence
+Right to a trial	citizen_female	0	0	agree
+Testifying in court	citizen_female	0		no_corpus_evidence
+Protection from execution without trial	citizen_female	1		no_corpus_evidence
+Protection from judicial torture	citizen_female	1		no_corpus_evidence
+Protection from penal corporal punishment	citizen_female	1		no_corpus_evidence
+Protection from private assault	citizen_female	1	1	agree
+Personal liberty	citizen_female	1		no_corpus_evidence
+Freedom of movement	citizen_female	1	X	corpus_contested
+Owning land	citizen_female	0		no_corpus_evidence
+Owning and retaining property	citizen_female	0	X	corpus_contested
+Inheriting property	citizen_female	0	X	corpus_contested
+Right to engage in business	citizen_female	1	X	corpus_contested
+Right to citizenship	citizen_female	1		no_corpus_evidence
+Right to marry a citizen	citizen_female	1		no_corpus_evidence
+Freedom of choice in marriage	citizen_female	0	X	corpus_contested
+Voting in the assembly	slave	0		no_corpus_evidence
+Speaking in the assembly	slave	0	0	agree
+Deliberative authority	slave	0	0	agree
+Eligibility for public office	slave	0		no_corpus_evidence
+Eligibility for the archonship	slave	0		no_corpus_evidence
+Eligibility for jury service	slave	0		no_corpus_evidence
+Right to a trial	slave	0	1	DISAGREE
+Testifying in court	slave	0	0	agree
+Protection from execution without trial	slave	0		no_corpus_evidence
+Protection from judicial torture	slave	0	X	corpus_contested
+Protection from penal corporal punishment	slave	0	X	corpus_contested
+Protection from private assault	slave	0	0	agree
+Personal liberty	slave	0	0	agree
+Freedom of movement	slave	0		no_corpus_evidence
+Owning land	slave	0	X	corpus_contested
+Owning and retaining property	slave	0	X	corpus_contested
+Inheriting property	slave	0		no_corpus_evidence
+Right to engage in business	slave	0		no_corpus_evidence
+Right to citizenship	slave	0	X	corpus_contested
+Right to marry a citizen	slave	0		no_corpus_evidence
+Freedom of choice in marriage	slave	0		no_corpus_evidence
+Voting in the assembly	metic	0	X	corpus_contested
+Speaking in the assembly	metic	0	0	agree
+Deliberative authority	metic	0		no_corpus_evidence
+Eligibility for public office	metic	0	0	agree
+Eligibility for the archonship	metic	0	X	corpus_contested
+Eligibility for jury service	metic	0		no_corpus_evidence
+Right to a trial	metic	1	X	corpus_contested
+Testifying in court	metic	1		no_corpus_evidence
+Protection from execution without trial	metic	1		no_corpus_evidence
+Protection from judicial torture	metic	1		no_corpus_evidence
+Protection from penal corporal punishment	metic	1		no_corpus_evidence
+Protection from private assault	metic	1	1	agree
+Personal liberty	metic	1	0	DISAGREE
+Freedom of movement	metic	1	X	corpus_contested
+Owning land	metic	0	X	corpus_contested
+Owning and retaining property	metic	1		no_corpus_evidence
+Inheriting property	metic	1	0	DISAGREE
+Right to engage in business	metic	1	X	corpus_contested
+Right to citizenship	metic	0	X	corpus_contested
+Right to marry a citizen	metic	0	X	corpus_contested
+Freedom of choice in marriage	metic	1		no_corpus_evidence

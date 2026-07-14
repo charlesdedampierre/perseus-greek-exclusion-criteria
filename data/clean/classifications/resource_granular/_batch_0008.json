@@ -1,0 +1,151 @@
+{
+  "batch_idx": 8,
+  "rule_ids": [
+    "tlg0086.tlg035.perseus-eng2::51",
+    "tlg0086.tlg035.perseus-eng2::52",
+    "tlg0086.tlg035.perseus-eng2::53",
+    "tlg0086.tlg035.perseus-eng2::54",
+    "tlg0086.tlg035.perseus-eng2::56",
+    "tlg0086.tlg035.perseus-eng2::57",
+    "tlg0086.tlg035.perseus-eng2::59",
+    "tlg0086.tlg035.perseus-eng2::62",
+    "tlg0086.tlg035.perseus-eng2::65",
+    "tlg0086.tlg035.perseus-eng2::66",
+    "tlg0086.tlg035.perseus-eng2::67",
+    "tlg0086.tlg035.perseus-eng2::68",
+    "tlg0086.tlg035.perseus-eng2::69",
+    "tlg0086.tlg035.perseus-eng2::70",
+    "tlg0086.tlg035.perseus-eng2::71",
+    "tlg0086.tlg035.perseus-eng2::72",
+    "tlg0086.tlg035.perseus-eng2::73",
+    "tlg0086.tlg035.perseus-eng2::75",
+    "tlg0086.tlg035.perseus-eng2::76",
+    "tlg0086.tlg035.perseus-eng2::77"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim explicitly specifies elections to the most important offices: 'those of the kings and of the generals'."
+    },
+    {
+      "i": 1,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim refers broadly to appointing 'all the offices' based on property classes (Five-hundred-bushel, etc.)."
+    },
+    {
+      "i": 2,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The text describes constituting 'jury-courts from all the citizens' and describes the 'law-court' as all-powerful."
+    },
+    {
+      "i": 3,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Refers to the 'right of legal action' and sharing in 'legal procedure', though requiring a patron."
+    },
+    {
+      "i": 4,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Refers to being 'discharged' from duties, implying attendance at assembly and law-courts."
+    },
+    {
+      "i": 5,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "reasoning": "The verbatim specifically identifies laws dealing with 'heiresses'."
+    },
+    {
+      "i": 6,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Text defines citizenship limits based on being the 'child of citizens on both sides'."
+    },
+    {
+      "i": 7,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Covers manual laborers being 'admitted to office' generically."
+    },
+    {
+      "i": 8,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim discusses 'admission to office of various grades' based on assessments."
+    },
+    {
+      "i": 9,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Refers generically to being 'admitted to office' after ten years out of trade."
+    },
+    {
+      "i": 10,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Describes the process where a state 'divests itself' of certain classes to limit citizenship to dual descent."
+    },
+    {
+      "i": 11,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Refers to 'control of the government' and 'rulers' holding power through wealth."
+    },
+    {
+      "i": 12,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Discusses poor people possessing 'control of the government' or when the 'poor rule'."
+    },
+    {
+      "i": 13,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Refers to classes laying 'claim to the government' based on 'freedom' and 'wealth'."
+    },
+    {
+      "i": 14,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Slave exclusion is based on having no 'share in well-being' or 'purposive life' within the state community."
+    },
+    {
+      "i": 15,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Discusses a 'share in the state' proportionate to 'share in the property' and 'profits'."
+    },
+    {
+      "i": 16,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "States that the mass of citizens should 'share the deliberative and judicial functions'."
+    },
+    {
+      "i": 17,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "is_new": true,
+      "reasoning": "Verbatim explicitly mentions the 'function of calling them to audit'."
+    },
+    {
+      "i": 18,
+      "right": "Election of magistrates",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "Verbatim explicitly mentions appointing citizens to the 'election of the magistrates'."
+    },
+    {
+      "i": 19,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Mentions 'treasury officials, generals and the holders of the highest magistracies' drawn from large property."
+    }
+  ],
+  "input_tokens": 4505,
+  "output_tokens": 1298,
+  "status": "ok"
+}

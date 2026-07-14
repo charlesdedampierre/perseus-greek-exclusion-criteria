@@ -1,0 +1,151 @@
+{
+  "batch_idx": 10,
+  "rule_ids": [
+    "tlg0086.tlg035.perseus-eng2::102",
+    "tlg0086.tlg035.perseus-eng2::103",
+    "tlg0086.tlg035.perseus-eng2::104",
+    "tlg0086.tlg035.perseus-eng2::105",
+    "tlg0086.tlg035.perseus-eng2::106",
+    "tlg0086.tlg035.perseus-eng2::107",
+    "tlg0086.tlg035.perseus-eng2::108",
+    "tlg0086.tlg035.perseus-eng2::109",
+    "tlg0086.tlg035.perseus-eng2::110",
+    "tlg0086.tlg035.perseus-eng2::111",
+    "tlg0086.tlg035.perseus-eng2::113",
+    "tlg0086.tlg035.perseus-eng2::114",
+    "tlg0086.tlg035.perseus-eng2::115",
+    "tlg0086.tlg035.perseus-eng2::116",
+    "tlg0086.tlg035.perseus-eng2::117",
+    "tlg0086.tlg035.perseus-eng2::118",
+    "tlg0086.tlg035.perseus-eng2::119",
+    "tlg0086.tlg035.perseus-eng2::120",
+    "tlg0086.tlg035.perseus-eng2::121",
+    "tlg0086.tlg035.perseus-eng2::122"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "The text explicitly mentions 'receiving pay' for the poor so they are 'enabled to be at leisure' to participate in government."
+    },
+    {
+      "i": 1,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim refers to 'participating in the government' and whether property levels lead to 'ruling themselves'."
+    },
+    {
+      "i": 2,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The text describes how constitutions 'elect the officials' based on wealth or goodness."
+    },
+    {
+      "i": 3,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Relates to the obligation or right to 'serve on juries'."
+    },
+    {
+      "i": 4,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "Specifically mentions assigning 'pay' for the poor for serving on juries."
+    },
+    {
+      "i": 5,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Focuses on the principle that the 'decision of the majority is supreme' in government."
+    },
+    {
+      "i": 6,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "Discusses 'membership of the assembly' based on property-qualifications."
+    },
+    {
+      "i": 7,
+      "right": "Access to formal education",
+      "parent_meta": "Access to the gymnasium",
+      "reasoning": "Refers to the 'rearing of boys' and the manner in which they are 'educated' equally."
+    },
+    {
+      "i": 8,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Explicitly mentions 'arrangements for food... at the common messes'."
+    },
+    {
+      "i": 9,
+      "right": "Election of magistrates",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "States that people 'elect the Elders' and 'elect to one [office]'."
+    },
+    {
+      "i": 10,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Mentions citizens having a 'larger share of the honors' in democracies."
+    },
+    {
+      "i": 11,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "Refers to 'the right to attend' the assembly and fines for non-attendance."
+    },
+    {
+      "i": 12,
+      "right": "Exemption from public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": true,
+      "reasoning": "Relates to the 'right to swear off serving' in magistracies."
+    },
+    {
+      "i": 13,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Discussion of the requirement to 'serve on a jury' and associated fines."
+    },
+    {
+      "i": 14,
+      "right": "Possession of arms",
+      "parent_meta": "Right to bear arms",
+      "reasoning": "Directly mentions 'owning heavy arms' and the right 'to possess arms'."
+    },
+    {
+      "i": 15,
+      "right": "Access to physical training",
+      "parent_meta": "Access to the gymnasium",
+      "reasoning": "Refers to 'engaging in gymnastic exercises' and penalties for abstaining."
+    },
+    {
+      "i": 16,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "Mentions providing 'pay for the poor for serving in the assembly and on juries'."
+    },
+    {
+      "i": 17,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The resource is identified by the condition that 'no one insults them' (hubris/outrage)."
+    },
+    {
+      "i": 18,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Refers to citizens being 'members of the deliberative body' to decide matters."
+    },
+    {
+      "i": 19,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "Contrasts 'fines' to compel attendance with 'payment for attendance'."
+    }
+  ],
+  "input_tokens": 4314,
+  "output_tokens": 1010,
+  "status": "ok"
+}

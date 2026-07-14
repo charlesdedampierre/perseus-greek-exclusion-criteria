@@ -1,0 +1,371 @@
+{
+  "batch_idx": 16,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Citizens",
+      "Late Roman Republic"
+    ],
+    [
+      "The wealthy",
+      "Late Roman Republic"
+    ],
+    [
+      "Nobles",
+      "Late Roman Republic"
+    ],
+    [
+      "Eurypontidae",
+      "Classical Sparta"
+    ],
+    [
+      "Spartan citizens",
+      "Classical Sparta"
+    ],
+    [
+      "Nobles",
+      "Achaemenid Empire"
+    ],
+    [
+      "Young men of good family",
+      "Roman Empire"
+    ],
+    [
+      "Young men",
+      "Roman Empire"
+    ],
+    [
+      "Resident aliens",
+      "Roman Empire"
+    ],
+    [
+      "Slaves",
+      "Archaic Athens"
+    ],
+    [
+      "Slaves",
+      "Roman Empire"
+    ],
+    [
+      "Private individuals",
+      "Roman Empire"
+    ],
+    [
+      "Foreigners",
+      "Classical Sparta"
+    ],
+    [
+      "Spartans",
+      "Classical Sparta"
+    ],
+    [
+      "Helots",
+      "Classical Sparta"
+    ],
+    [
+      "Women",
+      "Archaic Sparta"
+    ],
+    [
+      "Spartans",
+      "Archaic Sparta"
+    ],
+    [
+      "Agiads and Eurypontids",
+      "Classical Sparta"
+    ],
+    [
+      "Citizens",
+      "Archaic Sparta"
+    ],
+    [
+      "Women",
+      "Classical Sparta"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "civis Romanus",
+      "criterion_reasoning": "Free adult males of Roman lineage; while citizenship is a legal status, the cell is identified by birth and manumission facts independent of specific rights."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "locupletes",
+      "criterion_reasoning": "Persons possessing significant material wealth or land (e.g., census classes); defined by asset levels rather than legal privileges."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "heir",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "nobiles",
+      "criterion_reasoning": "Descendants of persons who held high office (consulate); biological descent from a specific prestige lineage."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "heir",
+      "c_occupation": "king",
+      "requires_rights_definition": false,
+      "emic_label": "Eurypontidai",
+      "criterion_reasoning": "Members of the Eurypontid patriline, one of the two royal houses of Sparta; defined by genealogical descent."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "homoioi",
+      "criterion_reasoning": "Adult males of Spartan descent who completed the agoge and contribute to syssitia; identified by ancestry and lifecycle stage."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "azata",
+      "criterion_reasoning": "The Persian landed aristocracy or 'well-born'; defined by lineage and material surplus."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "iuvenes",
+      "criterion_reasoning": "Young males (adulescentes) from equestrian or senatorial families; defined by age-stage and parental wealth/status."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "iuventus",
+      "criterion_reasoning": "Males in the developmental stage between childhood and full maturity (approx. 17–45 in military terms)."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "peregrini",
+      "criterion_reasoning": "Free persons living within Roman territory who lack Roman ancestry/citizenship; a demographic and residence fact."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "Persons owned by others as property, often via debt servitude (hektemoroi) or capture in this period."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "servi",
+      "criterion_reasoning": "Persons legally owned as property; the status is a relational fact of total coercion/ownership."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "privati",
+      "criterion_reasoning": "Persons not holding public office or military command; defined by the absence of a specific vocational role."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Non-Spartan free persons physically present in Spartan territory; defined by foreign birth and residence."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Lakedaimonioi",
+      "criterion_reasoning": "Members of the Spartan ethnic group/polity by descent, including both Homoioi and potentially Perioikoi depending on context."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "farmer",
+      "requires_rights_definition": false,
+      "emic_label": "heilōtes",
+      "criterion_reasoning": "Serf-like population owned by the Spartan state; tied to Spartan land, defined by hereditary unfree status and location."
+    },
+    {
+      "i": 15,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "Lakaiai",
+      "criterion_reasoning": "Biological females of Spartan descent; identified by sex and lineage."
+    },
+    {
+      "i": 16,
+      "c_sex": "male",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Spartiatai",
+      "criterion_reasoning": "Ethnogenetic group of Dorian Laconians; defined by ancestry and physical residence in the Eurotas valley."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "heir",
+      "c_occupation": "king",
+      "requires_rights_definition": false,
+      "emic_label": "Agidai kai Eurypontidai",
+      "criterion_reasoning": "The two specific royal lineages of Sparta; identified strictly by genealogical descent from the Heraclids."
+    },
+    {
+      "i": 18,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Spartiatai",
+      "criterion_reasoning": "Adult free males of Spartan lineage; defined by sex, age, and ancestry regardless of the evolving Lycurgan laws."
+    },
+    {
+      "i": 19,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "Lakaiai",
+      "criterion_reasoning": "Free females born to Spartan parents; categorical based on sex and descent."
+    }
+  ],
+  "input_tokens": 3668,
+  "output_tokens": 3132,
+  "status": "ok"
+}

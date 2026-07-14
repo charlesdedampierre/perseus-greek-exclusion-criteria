@@ -1,0 +1,170 @@
+{
+  "batch_idx": 31,
+  "rule_ids": [
+    "tlg0007.tlg126.perseus-eng3::2",
+    "tlg0007.tlg139.perseus-eng2::0",
+    "tlg0007.tlg139.perseus-eng2::2",
+    "tlg0007.tlg139.perseus-eng2::3",
+    "tlg0008.tlg001.perseus-eng2::2",
+    "tlg0008.tlg001.perseus-eng2::3",
+    "tlg0008.tlg001.perseus-eng2::5",
+    "tlg0008.tlg001.perseus-eng2::6",
+    "tlg0008.tlg001.perseus-eng2::7",
+    "tlg0008.tlg001.perseus-eng2::8",
+    "tlg0008.tlg001.perseus-eng2::9",
+    "tlg0010.tlg004.perseus-eng2::0",
+    "tlg0010.tlg004.perseus-eng2::1",
+    "tlg0010.tlg004.perseus-eng2::2",
+    "tlg0010.tlg004.perseus-eng2::3",
+    "tlg0010.tlg004.perseus-eng2::4",
+    "tlg0010.tlg006.perseus-eng2::0",
+    "tlg0010.tlg006.perseus-eng2::2",
+    "tlg0010.tlg010.perseus-eng2::0",
+    "tlg0010.tlg010.perseus-eng2::1"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "is_new": false,
+      "reasoning": "The verbatim refers to those allowed to 'sail off home' after their service."
+    },
+    {
+      "i": 1,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Mentions avoiding 'evil' in the context of 'stripes they received by whipping' and 'gaol'."
+    },
+    {
+      "i": 2,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "The text explicitly names 'magistrature' and 'public offices'."
+    },
+    {
+      "i": 3,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "is_new": false,
+      "reasoning": "Describes rich men making 'public entertainments' and 'feasts at solemnities' (liturgical functions)."
+    },
+    {
+      "i": 4,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "is_new": false,
+      "reasoning": "Refers to those 'fed at the prytaneum' and allowed to 'sup' there."
+    },
+    {
+      "i": 5,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "Directly mentions being allowed to 'enter the temple' and 'taste any one of the things... prepared for the sacrifice'."
+    },
+    {
+      "i": 6,
+      "right": "Right to consume wine",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": true,
+      "reasoning": "The specific resource is the consumption of wine, distinct from broader autonomy or meals."
+    },
+    {
+      "i": 7,
+      "right": "Right to consume wine",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": true,
+      "reasoning": "Explicitly forbids women to 'drink wine at all'."
+    },
+    {
+      "i": 8,
+      "right": "Right to consume wine",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": true,
+      "reasoning": "Specifies that no youth or slave 'ever drank wine'."
+    },
+    {
+      "i": 9,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "is_new": false,
+      "reasoning": "Describes contributions to the 'phiditium' (Spartan syssitia/common meals)."
+    },
+    {
+      "i": 10,
+      "right": "Right of residence",
+      "parent_meta": "Right to reside in the city",
+      "is_new": false,
+      "reasoning": "A decree to 'banish' implies the removal of the right of residence."
+    },
+    {
+      "i": 11,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "The grievance is 'condemning him in his absence' instead of a trial."
+    },
+    {
+      "i": 12,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "is_new": false,
+      "reasoning": "Lists specific liturgies: 'choregus and gymnasiarch and trierarch'."
+    },
+    {
+      "i": 13,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "is_new": false,
+      "reasoning": "Refers to the 'terms of the amnesty' preventing legal action for 'old grudges'."
+    },
+    {
+      "i": 14,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "Explicitly mentions the danger of 'disfranchisement'."
+    },
+    {
+      "i": 15,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "Concerns being 'deprived of the land' given as compensation."
+    },
+    {
+      "i": 16,
+      "right": "Disposing of property by will",
+      "parent_meta": "Right to dispose of property",
+      "is_new": false,
+      "reasoning": "Specifies the requirement for a 'will' to be 'drawn in accordance with this law'."
+    },
+    {
+      "i": 17,
+      "right": "Right to adoption",
+      "parent_meta": "Right to adopt",
+      "is_new": false,
+      "reasoning": "Explicitly mentions the law 'which permits us to adopt children'."
+    },
+    {
+      "i": 18,
+      "right": "Exemption from military service",
+      "parent_meta": "Exemption from military service",
+      "is_new": false,
+      "reasoning": "Mentions 'exemption from the hazards of fighting'."
+    },
+    {
+      "i": 19,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": false,
+      "reasoning": "Refers to priests acquiring 'affluence' from 'revenues of the sacrifices'."
+    }
+  ],
+  "input_tokens": 4894,
+  "output_tokens": 1177,
+  "status": "ok"
+}

@@ -1,0 +1,371 @@
+{
+  "batch_idx": 3,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Citizens",
+      "Classical Athens (Eleusis)"
+    ],
+    [
+      "Minors",
+      "Classical Athens"
+    ],
+    [
+      "The infirm poor",
+      "Classical Athens"
+    ],
+    [
+      "60-year-old men",
+      "Classical Athens"
+    ],
+    [
+      "Magistrates",
+      "Classical Athens"
+    ],
+    [
+      "Metics",
+      "Classical Athens"
+    ],
+    [
+      "Defendants",
+      "Classical Athens"
+    ],
+    [
+      "Thetes",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "The Zeugites",
+      "Classical Athens"
+    ],
+    [
+      "Heiresses",
+      "Classical Athens"
+    ],
+    [
+      "Men aged fifty-nine",
+      "Classical Athens"
+    ],
+    [
+      "Barbarians",
+      "Classical Athens"
+    ],
+    [
+      "Foreigners",
+      "Classical Athens"
+    ],
+    [
+      "Wealth / Properties",
+      "Classical Athens"
+    ],
+    [
+      "Guardians",
+      "Classical Athens (Platonic Republic)"
+    ],
+    [
+      "Citizens",
+      "Sparta"
+    ],
+    [
+      "Slaves",
+      "Crete"
+    ],
+    [
+      "Guardians",
+      "Sparta"
+    ],
+    [
+      "The common people",
+      "Sparta"
+    ],
+    [
+      "The rich",
+      "Classical Greece (Oligarchical)"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free adult male of Attic ancestry; identified by genealogy and physical maturity independent of their specific legal powers."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "pais",
+      "criterion_reasoning": "Individuals below the biological/developmental age of majority (18 for registration in demes)."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "adunatoi",
+      "criterion_reasoning": "Free adult males with physical disabilities and negligible wealth/property preventing self-support."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "elder",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "diaitētai",
+      "criterion_reasoning": "Native free males who have reached the 60th year of life; chronological age is the primary criterion."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "archōn",
+      "criterion_reasoning": "Holders of state offices; category is defined by the right to exercise public authority/administration."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikos",
+      "criterion_reasoning": "Free permanent residents lacking Attic ancestry; identified by foreign descent and residency."
+    },
+    {
+      "i": 6,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "unspecified",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": true,
+      "emic_label": "pheugōn",
+      "criterion_reasoning": "Individuals against whom a legal action is brought; the category is intrinsically defined by the legal proceedings."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "laborer",
+      "requires_rights_definition": false,
+      "emic_label": "thēs",
+      "criterion_reasoning": "Lowest wealth class in the Solonic system; defined by low agricultural yield (under 200 medimnoi) or manual labor status."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "farmer",
+      "requires_rights_definition": false,
+      "emic_label": "zeugitēs",
+      "criterion_reasoning": "Middling wealth class; traditionally defined by possessing a team of oxen or having a specific agricultural yield."
+    },
+    {
+      "i": 9,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "epiklēros",
+      "criterion_reasoning": "Daughter of a deceased man with no male heirs; biological female/offspring status within a specific family structure."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "elder",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "diaitetai",
+      "criterion_reasoning": "Men in the year preceding their 60th birthday; chronological age in the final year of military obligation."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "foreign",
+      "c_residence": "unspecified",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "barbaros",
+      "criterion_reasoning": "Non-Greek speaking foreigners; defined by linguistic and genealogical non-Greel origin."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "unspecified",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenos",
+      "criterion_reasoning": "Persons not originating from the local polity; ancestry/birth outside the territory."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "ousia",
+      "criterion_reasoning": "Material possessions/economic resources; an inanimate category of material objects, not a human group."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": true,
+      "emic_label": "phylakes",
+      "criterion_reasoning": "The ruling class in Plato's Republic; defined by their function and education for state governance."
+    },
+    {
+      "i": 15,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "homoios",
+      "criterion_reasoning": "Male Spartan of Dorian descent, educated in the agoge and meeting financial messes (syssitia) requirements."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "Persons owned/controlled by another individual or the community in Crete."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "elder",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": true,
+      "emic_label": "gerousia",
+      "criterion_reasoning": "Elders over 60 in the Spartan council; an office-holding class defined by political function."
+    },
+    {
+      "i": 18,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "damos",
+      "criterion_reasoning": "The mass of Spartan citizens distinct from the aristocracy or specific magistrates."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Individuals with high material wealth or land ownership in an oligarchical context."
+    }
+  ],
+  "input_tokens": 3553,
+  "output_tokens": 3074,
+  "status": "ok"
+}

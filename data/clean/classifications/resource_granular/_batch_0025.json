@@ -1,0 +1,151 @@
+{
+  "batch_idx": 25,
+  "rule_ids": [
+    "tlg0004.tlg001.perseus-eng2::92",
+    "tlg0004.tlg001.perseus-eng2::93",
+    "tlg0004.tlg001.perseus-eng2::94",
+    "tlg0004.tlg001.perseus-eng2::95",
+    "tlg0004.tlg001.perseus-eng2::97",
+    "tlg0004.tlg001.perseus-eng2::98",
+    "tlg0004.tlg001.perseus-eng2::103",
+    "tlg0004.tlg001.perseus-eng2::105",
+    "tlg0004.tlg001.perseus-eng2::106",
+    "tlg0004.tlg001.perseus-eng2::107",
+    "tlg0004.tlg001.perseus-eng2::109",
+    "tlg0004.tlg001.perseus-eng2::110",
+    "tlg0004.tlg001.perseus-eng2::111",
+    "tlg0004.tlg001.perseus-eng2::112",
+    "tlg0004.tlg001.perseus-eng2::114",
+    "tlg0004.tlg001.perseus-eng2::118",
+    "tlg0004.tlg001.perseus-eng2::119",
+    "tlg0004.tlg001.perseus-eng2::122",
+    "tlg0004.tlg001.perseus-eng2::123",
+    "tlg0004.tlg001.perseus-eng2::124"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Exemption from military service",
+      "parent_meta": "Exemption from military service",
+      "reasoning": "The verbatim specifies the son had 'ceased to be a cadet on service'"
+    },
+    {
+      "i": 1,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "reasoning": "The text describes attending 'public... dinners' and a 'banquet given by Lysimachus'"
+    },
+    {
+      "i": 2,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "The text describes a former slave who 'succeeded in becoming a Theban'"
+    },
+    {
+      "i": 3,
+      "right": "Right to engage in business",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "The verbatim focuses on 'lent out money', 'loans on bottomry', and 'accumulating a large fortune'"
+    },
+    {
+      "i": 4,
+      "right": "Right to a public funeral",
+      "parent_meta": "Right to burial",
+      "reasoning": "The decree is to 'build him a tomb... at the public cost'"
+    },
+    {
+      "i": 5,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The master was 'chastising a slave' by having him 'beaten' as a penalty for stealing"
+    },
+    {
+      "i": 6,
+      "right": "Personal liberty",
+      "is_new": true,
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "The text discusses biological 'tension' and sterility of female semen"
+    },
+    {
+      "i": 7,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "reasoning": "The verbatim describes being 'brought into court to answer the inquiry how... he made his living'"
+    },
+    {
+      "i": 8,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "reasoning": "The text states his inherited property 'had been confiscated to the king’s treasury'"
+    },
+    {
+      "i": 9,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The subject was 'castigated with the lash' following a 'false charge'"
+    },
+    {
+      "i": 10,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "The text says he 'had himself initiated into all the mysteries and rites'"
+    },
+    {
+      "i": 11,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "The text describes a person who 'went into the assembly and declared... experience' to the group"
+    },
+    {
+      "i": 12,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The text says he 'went into the assembly and declared... and even read out his experiences'"
+    },
+    {
+      "i": 13,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The text states the subject 'would punish neither slave nor free man in anger'"
+    },
+    {
+      "i": 14,
+      "right": "Disposing of property by will",
+      "parent_meta": "Right to dispose of property",
+      "reasoning": "The text mentions a father who 'entrusted his daughter... with the custody of his memoirs' and 'injunctions'"
+    },
+    {
+      "i": 15,
+      "right": "Right to a dowry",
+      "parent_meta": "Right to a dowry",
+      "reasoning": "The verbatim explicitly mentions he 'bestowed dowries upon many of the maidens'"
+    },
+    {
+      "i": 16,
+      "right": "Eligibility for military command",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The text discusses being 'generalissimo' and the 'second year of command'"
+    },
+    {
+      "i": 17,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim says he 'renounced his claim to the kingship'"
+    },
+    {
+      "i": 18,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "reasoning": "The text refers to the Ephesians 'banishing his friend' and 'driven out Hermodorus'"
+    },
+    {
+      "i": 19,
+      "right": "Eligibility for military command",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The text states he 'was elected admiral' as a result of taking part in politics"
+    }
+  ],
+  "input_tokens": 4704,
+  "output_tokens": 1035,
+  "status": "ok"
+}

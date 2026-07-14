@@ -1,0 +1,98 @@
+{
+  "batch_idx": 50,
+  "rule_ids": [
+    "tlg1271.tlg001.perseus-eng1::2",
+    "tlg1271.tlg001.perseus-eng1::3",
+    "tlg1271.tlg001.perseus-eng1::8",
+    "tlg1271.tlg001.perseus-eng1::9",
+    "tlg1271.tlg001.perseus-eng1::12",
+    "tlg1271.tlg001.perseus-eng1::13",
+    "tlg1271.tlg001.perseus-eng1::15",
+    "tlg1271.tlg001.perseus-eng1::17",
+    "tlg1271.tlg001.perseus-eng1::20",
+    "tlg1271.tlg001.perseus-eng1::21",
+    "tlg1622.tlg001.perseus-eng1::4"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to own property",
+      "is_new": false,
+      "reasoning": "The verbatim refers to the duty and capacity 'to manage their households'."
+    },
+    {
+      "i": 1,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "is_new": false,
+      "reasoning": "The verbatim restricts women 'to remain' in a state of obedience; mobility is the resource at stake."
+    },
+    {
+      "i": 2,
+      "right": "Access to formal education",
+      "parent_meta": "Access to the gymnasium",
+      "is_new": false,
+      "reasoning": "The text explicitly says 'let our children share in the instruction'."
+    },
+    {
+      "i": 3,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "The verbatim dictates 'habit of purity' and 'silence,' representing a lack of autonomy in moral conduct."
+    },
+    {
+      "i": 4,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": false,
+      "reasoning": "The text states the workman 'receives the bread of his labour' and is paid 'according to his work'."
+    },
+    {
+      "i": 5,
+      "right": "Priesthood",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "The verbatim mentions the specific office: 'from him come the priests and all the Levites'."
+    },
+    {
+      "i": 6,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "Refers to 'proper ministrations' and 'proper services' allotted to specific religious roles."
+    },
+    {
+      "i": 7,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "Discusses where 'sacrifices are offered' and 'offerings' are made at the altar."
+    },
+    {
+      "i": 8,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "is_new": false,
+      "reasoning": "Describes the 'presbyters set over' the flock, implying governing or deliberative power."
+    },
+    {
+      "i": 9,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "The text describes individuals who 'given themselves to bondage' or 'slavery', forfeiting personal liberty."
+    },
+    {
+      "i": 10,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "Defines the boundaries of the community based on confession; those who 'pervert the oracles' are excluded."
+    }
+  ],
+  "input_tokens": 3587,
+  "output_tokens": 638,
+  "status": "ok"
+}

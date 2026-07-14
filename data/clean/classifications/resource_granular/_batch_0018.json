@@ -1,0 +1,170 @@
+{
+  "batch_idx": 18,
+  "rule_ids": [
+    "tlg0017.tlg006.perseus-eng2::4",
+    "tlg0017.tlg006.perseus-eng2::5",
+    "tlg0017.tlg006.perseus-eng2::8",
+    "tlg0017.tlg006.perseus-eng2::9",
+    "tlg0017.tlg006.perseus-eng2::10",
+    "tlg0027.tlg001.perseus-eng2::0",
+    "tlg0027.tlg001.perseus-eng2::1",
+    "tlg0027.tlg001.perseus-eng2::2",
+    "tlg0027.tlg001.perseus-eng2::3",
+    "tlg0027.tlg001.perseus-eng2::4",
+    "tlg0027.tlg001.perseus-eng2::5",
+    "tlg0027.tlg001.perseus-eng2::7",
+    "tlg0027.tlg001.perseus-eng2::9",
+    "tlg0027.tlg001.perseus-eng2::10",
+    "tlg0027.tlg001.perseus-eng2::11",
+    "tlg0027.tlg001.perseus-eng2::14",
+    "tlg0027.tlg001.perseus-eng2::15",
+    "tlg0027.tlg001.perseus-eng2::16",
+    "tlg0027.tlg001.perseus-eng2::17",
+    "tlg0027.tlg001.perseus-eng2::18"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Right to adoption",
+      "parent_meta": "Right to adopt",
+      "is_new": false,
+      "reasoning": "the law does not allow the return of an adopted son to his original family"
+    },
+    {
+      "i": 1,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "daughter could not be heiress or the estate adjudicable"
+    },
+    {
+      "i": 2,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "married to anyone they choose or else be allowed to grow old in widowhood"
+    },
+    {
+      "i": 3,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "law gives the right of inheritance just as much as to children of his own body"
+    },
+    {
+      "i": 4,
+      "right": "Right to a share of an estate",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "each child takes his share of the estate and both classes of children alike inherit"
+    },
+    {
+      "i": 5,
+      "right": "Protection from arbitrary arrest",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "choice of furnishing sureties (ἐγγυηταί) or suffering imprisonment until the case came into court"
+    },
+    {
+      "i": 6,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "debarred from addressing them without special permission"
+    },
+    {
+      "i": 7,
+      "right": "Access to assembly proceedings",
+      "parent_meta": "Right to address the assembly",
+      "is_new": true,
+      "reasoning": "clear the meeting of non-initiates"
+    },
+    {
+      "i": 8,
+      "right": "Proposing legislation",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "action against Speusippus for making an illegal proposal"
+    },
+    {
+      "i": 9,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "is_new": false,
+      "reasoning": "informer’s claim to immunity should be allowed if his information were true"
+    },
+    {
+      "i": 10,
+      "right": "Protection from judicial torture",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "examining his slaves under torture"
+    },
+    {
+      "i": 11,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "lose his rights as a citizen... debarred from bringing a similar action"
+    },
+    {
+      "i": 12,
+      "right": "Protection from judicial torture",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "appealed to be allowed to furnish sureties... instead of being racked"
+    },
+    {
+      "i": 13,
+      "right": "Protection from arbitrary arrest",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "allowed to furnish sureties and stand trial, instead of being racked"
+    },
+    {
+      "i": 14,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "put to death and their goods are confiscated"
+    },
+    {
+      "i": 15,
+      "right": "Access to sacred spaces",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "exclude from temples all who had committed an act of impiety"
+    },
+    {
+      "i": 16,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "delinquent’s property distrained upon"
+    },
+    {
+      "i": 17,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "deprived of their personal rights, while retaining possession of their property"
+    },
+    {
+      "i": 18,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "deprived of their personal rights, while retaining possession of their property"
+    },
+    {
+      "i": 19,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "forbidden to speak in the Assembly or become members of the Council"
+    }
+  ],
+  "input_tokens": 4465,
+  "output_tokens": 1049,
+  "status": "ok"
+}

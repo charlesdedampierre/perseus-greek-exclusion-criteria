@@ -1,0 +1,371 @@
+{
+  "batch_idx": 18,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Artisans and soldiers",
+      "Ancient Egypt"
+    ],
+    [
+      "Older men",
+      "Ancient Egypt"
+    ],
+    [
+      "Private citizens",
+      "Classical Athens"
+    ],
+    [
+      "Citizens",
+      "Salamis (Cyprus)"
+    ],
+    [
+      "Legitimate children",
+      "Salamis (Cyprus)"
+    ],
+    [
+      "Statesmen",
+      "Classical Athens"
+    ],
+    [
+      "Wealthy",
+      "Classical Athens"
+    ],
+    [
+      "Citizens",
+      "League of Corinth"
+    ],
+    [
+      "Property owners",
+      "League of Corinth"
+    ],
+    [
+      "Slave owners",
+      "League of Corinth"
+    ],
+    [
+      "Litigants",
+      "Classical Athens"
+    ],
+    [
+      "Conquered foreigners",
+      "Macedonia"
+    ],
+    [
+      "Ambassadors",
+      "Classical Athens"
+    ],
+    [
+      "Public officials",
+      "Classical Athens"
+    ],
+    [
+      "Exiles",
+      "Classical Athens"
+    ],
+    [
+      "Shipowners",
+      "Classical Athens"
+    ],
+    [
+      "Merchants",
+      "Classical Athens"
+    ],
+    [
+      "Non-residents",
+      "Classical Athens"
+    ],
+    [
+      "The wealthiest citizens",
+      "Classical Athens"
+    ],
+    [
+      "Mining concessionaires",
+      "Classical Athens"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "artisan or soldier",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Defined by productive and protective vocational roles in Late Period Egypt; generally free males of modest to middle material standing."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "elder",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Identified by developmental life-stage (advanced age) and sex; biological facts independent of legal status."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "idiōtēs",
+      "criterion_reasoning": "A person acting in a non-official/private capacity. While contrasted with magistrates, the underlying human is an adult free native male."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Adult free male of local ancestry; criteria are genealogical and biological, common to Greek poleis in Cyprus."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "unspecified",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "gnēsios",
+      "criterion_reasoning": "Offspring born of parents in a recognized union; kinship and biological descent are law-presupposing but rights-independent."
+    },
+    {
+      "i": 5,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "politician",
+      "requires_rights_definition": true,
+      "emic_label": "rhētōr",
+      "criterion_reasoning": "Defined by active participation in political assembly and speech; requires rights of speech (isēgoria) and status to participate."
+    },
+    {
+      "i": 6,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Possession of significant material resources/surplus; a fact of economic capacity rather than a specific legal grant."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free native males of the respective Greek member-states; ancestry and sex are the independent identifiers."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "unspecified",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "kektemenoi",
+      "criterion_reasoning": "Relational fact of physical control and use of land or capital; presupposes a concept of property but is an economic relation."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "unspecified",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "despotēs",
+      "criterion_reasoning": "Relational fact of exercising ownership over another person; constitutive of the master-slave economic relationship."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": "dikazomenos",
+      "criterion_reasoning": "Specifically those exercising the right to sue or being sued in court; defined by the procedural legal action itself."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "barbaroi",
+      "criterion_reasoning": "Foreign ancestry population brought under control through military conquest; identified by origin and physical location."
+    },
+    {
+      "i": 12,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "ambassador",
+      "requires_rights_definition": true,
+      "emic_label": "presbeutēs",
+      "criterion_reasoning": "Persons appointed by a specific legal decree to represent the state; role is entirely created by legal/diplomatic commission."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "archōn",
+      "criterion_reasoning": "Office-holders whose identity is defined by the holding of a legal title/authority granted by the polity."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "non_resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "phugas",
+      "criterion_reasoning": "Individuals of native ancestry physically located outside the territory due to compulsion/proscription."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "unspecified",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "naukleros",
+      "requires_rights_definition": false,
+      "emic_label": "naukleros",
+      "criterion_reasoning": "Material ownership and management of maritime vessels; an economic and vocational role independent of legal status."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "merchant",
+      "requires_rights_definition": false,
+      "emic_label": "emporos",
+      "criterion_reasoning": "Vocation involving the wholesale trade of goods; economic role identifiable by activity regardless of citizenship."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "non_resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Physical absence from the territory of the polity; a spatial-geographical fact."
+    },
+    {
+      "i": 18,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "pentakosiomedimnoi",
+      "criterion_reasoning": "The subset of native free males with the highest material wealth/yield; economic standing within the native group."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "mining",
+      "requires_rights_definition": true,
+      "emic_label": "misthoutai",
+      "criterion_reasoning": "Holders of state leases for mines; the category is defined by the legal contract/concession from the state."
+    }
+  ],
+  "input_tokens": 3538,
+  "output_tokens": 3135,
+  "status": "ok"
+}

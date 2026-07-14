@@ -1,0 +1,371 @@
+{
+  "batch_idx": 14,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "The poor",
+      "Classical Abdera"
+    ],
+    [
+      "Atheists",
+      "Classical Athens"
+    ],
+    [
+      "Educated elite",
+      "Classical Athens"
+    ],
+    [
+      "Philosophers",
+      "Hellenistic Elis"
+    ],
+    [
+      "Persians",
+      "Achaemenid Empire"
+    ],
+    [
+      "Massagetae",
+      "Scythia"
+    ],
+    [
+      "Cilicians",
+      "Cilicia"
+    ],
+    [
+      "Minors",
+      "Hellenistic Athens"
+    ],
+    [
+      "Women",
+      "Hellenistic Athens"
+    ],
+    [
+      "Citizens",
+      "Hellenistic Athens"
+    ],
+    [
+      "Patricians",
+      "Early Roman Kingdom"
+    ],
+    [
+      "Vestal Virgins",
+      "Early Roman Kingdom"
+    ],
+    [
+      "Widows",
+      "Early Roman Kingdom"
+    ],
+    [
+      "Fetial priests",
+      "Early Roman Kingdom"
+    ],
+    [
+      "Manual laborers",
+      "Early Roman Kingdom"
+    ],
+    [
+      "The poor",
+      "Early Roman Kingdom"
+    ],
+    [
+      "Farmers",
+      "Early Roman Kingdom"
+    ],
+    [
+      "Married sons",
+      "Early Roman Kingdom"
+    ],
+    [
+      "Foreigners",
+      "Early Roman Kingdom"
+    ],
+    [
+      "Senators",
+      "Roman Republic"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "penetes",
+      "criterion_reasoning": "Persons with low material-economic position; defined by lack of surplus wealth or productive resources regardless of legal status."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "atheoi",
+      "criterion_reasoning": "Persons holding a specific intellectual or ideological stance regarding the gods; a psychological/social fact independent of law."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "kaloi kagathoi",
+      "criterion_reasoning": "Group defined by high wealth and attained level of education (paideia); social/cultural standing not defined by office."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "philosopher",
+      "requires_rights_definition": false,
+      "emic_label": "philosophoi",
+      "criterion_reasoning": "Vocational role centered on intellectual inquiry; exists as a social category independent of legal recognition."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Parsa",
+      "criterion_reasoning": "Ethno-linguistic group defined by descent from the Persian core territory; a genealogical fact."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Massagetai",
+      "criterion_reasoning": "Tribal/ethnic group in the Scythian region defined by shared descent and semi-nomadic lifestyle."
+    },
+    {
+      "i": 6,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Kilikes",
+      "criterion_reasoning": "Regional/ethnic group from the Cilician territory; a geographical and genealogical fact."
+    },
+    {
+      "i": 7,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "paides",
+      "criterion_reasoning": "Developmental life-stage (under physiological maturity); a biological/age-based fact."
+    },
+    {
+      "i": 8,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological/socially-assigned female sex; exists independently of any legal capacity."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "polites",
+      "criterion_reasoning": "Free adult male of native parentage; criteria are genealogical and biological."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "patricii",
+      "criterion_reasoning": "Descent from the original gentes (clans) of Rome; a genealogical/kinship fact."
+    },
+    {
+      "i": 11,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "none",
+      "c_occupation": "priestess",
+      "requires_rights_definition": true,
+      "emic_label": "Virgines Vestales",
+      "criterion_reasoning": "A socio-religious office; while criteria include sex and virginity, the group is defined by its ritual role in the state cult."
+    },
+    {
+      "i": 12,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "spouse",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "viduae",
+      "criterion_reasoning": "Kinship fact: a woman whose husband has died; a biological/relational status."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": true,
+      "emic_label": "fetiales",
+      "criterion_reasoning": "College of priests for international law rituals; definition is intrinsically tied to a formal religious/state office."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "laborer",
+      "requires_rights_definition": false,
+      "emic_label": "operarii",
+      "criterion_reasoning": "Productive vocational role involving physical labor; defined by economic activity."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "pauperes",
+      "criterion_reasoning": "Material-economic standing; lack of property and subsistence level resources."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "farmer",
+      "requires_rights_definition": false,
+      "emic_label": "agricolae",
+      "criterion_reasoning": "Vocational role defined by the cultivation of soil and agriculture."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "filii familias",
+      "criterion_reasoning": "Descent fact (son) combined with marital status, relative to a living pater familias."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "peregrini",
+      "criterion_reasoning": "Persons of non-Roman/foreign ancestry residing in Roman territory."
+    },
+    {
+      "i": 19,
+      "c_sex": "male",
+      "c_age": "elder",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "legislator",
+      "requires_rights_definition": true,
+      "emic_label": "senatores",
+      "criterion_reasoning": "Defined by membership in a legislative body; requires referring to the state's institutional structure."
+    }
+  ],
+  "input_tokens": 3495,
+  "output_tokens": 3078,
+  "status": "ok"
+}

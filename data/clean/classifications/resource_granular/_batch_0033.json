@@ -1,0 +1,150 @@
+{
+  "batch_idx": 33,
+  "rule_ids": [
+    "tlg0014.tlg010.perseus-eng2::2",
+    "tlg0014.tlg010.perseus-eng2::3",
+    "tlg0014.tlg013.perseus-eng2::0",
+    "tlg0014.tlg013.perseus-eng2::1",
+    "tlg0014.tlg013.perseus-eng2::2",
+    "tlg0014.tlg016.perseus-eng2::0",
+    "tlg0014.tlg016.perseus-eng2::1",
+    "tlg0014.tlg017.perseus-eng2::0",
+    "tlg0014.tlg017.perseus-eng2::1",
+    "tlg0014.tlg017.perseus-eng2::2",
+    "tlg0014.tlg017.perseus-eng2::3",
+    "tlg0014.tlg017.perseus-eng2::4",
+    "tlg0014.tlg017.perseus-eng2::5",
+    "tlg0014.tlg018.perseus-eng2::0",
+    "tlg0014.tlg018.perseus-eng2::3",
+    "tlg0014.tlg018.perseus-eng2::4",
+    "tlg0014.tlg018.perseus-eng2::5",
+    "tlg0014.tlg018.perseus-eng2::6",
+    "tlg0014.tlg019.perseus-eng2::0",
+    "tlg0014.tlg019.perseus-eng2::2"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Access to public subsidies",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "The verbatim refers to 'rich citizens' receiving a 'share of this increase' in state revenues."
+    },
+    {
+      "i": 1,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "reasoning": "Refers to contributions 'paid cheerfully to the parents' and legal coverage for 'ill-usage' of parental support obligations."
+    },
+    {
+      "i": 2,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "States that revenues must be shared 'as pay' by those of military age and 'overseers’ fees' for those older."
+    },
+    {
+      "i": 3,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim identifies 'these courts' as sovereign to 'uphold the rights of citizen against citizen'."
+    },
+    {
+      "i": 4,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "reasoning": "Explicitly mentions giving 'immunity from taxes' as an alternative to citizenship."
+    },
+    {
+      "i": 5,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "Refers to the 'task of men who claim to offer advice in this Assembly' and individuals who 'spoke Attic'."
+    },
+    {
+      "i": 6,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Discusses embassies addressed to Athens and the role of speakers representing specific interests in a diplomatic/deliberative capacity."
+    },
+    {
+      "i": 7,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "reasoning": "Explicitly prohibits 'banishments contrary to the laws established'."
+    },
+    {
+      "i": 8,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Prohibits the 'confiscation of property' and 'partition of lands'."
+    },
+    {
+      "i": 9,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Prohibits the 'emancipation of slaves' (as property) for revolutionary purposes."
+    },
+    {
+      "i": 10,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "reasoning": "The compact provides that all parties 'may sail the seas' and none may 'hinder them'."
+    },
+    {
+      "i": 11,
+      "right": "Right to engage in business",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "Discusses the right to 'build their ships here' and 'furnish them with crews' in a specific harbor."
+    },
+    {
+      "i": 12,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "reasoning": "Refers to laws regarding 'exiles' setting out with 'hostile intent'."
+    },
+    {
+      "i": 13,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Refers to the 'judicial oath' and the right of 'every litigant' to an 'impartial hearing'."
+    },
+    {
+      "i": 14,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "Describes the assessment of 'trierarchs' based on property for the trireme liturgy."
+    },
+    {
+      "i": 15,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "Discusses statutes compelling the wealthy to pay and relief for 'needy citizens' from 'grinding' public services."
+    },
+    {
+      "i": 16,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "reasoning": "Restricts the right to 'pass the night in the country' and mandates relocation to the city."
+    },
+    {
+      "i": 17,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "Discusses 'selling the inhabitants into slavery' and the scandal of Greeks being 'enslaved'."
+    },
+    {
+      "i": 18,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Refers to a 'vote of thanks' or an 'invitation to the public dinner in the Town Hall' for ambassadors."
+    },
+    {
+      "i": 19,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "States that the 'law visits such conduct with death' for unauthorized diplomatic activity."
+    }
+  ],
+  "input_tokens": 4933,
+  "output_tokens": 1069,
+  "status": "ok"
+}

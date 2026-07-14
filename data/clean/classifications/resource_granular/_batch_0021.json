@@ -1,0 +1,170 @@
+{
+  "batch_idx": 21,
+  "rule_ids": [
+    "tlg0062.tlg041.perseus-eng2::8",
+    "tlg0062.tlg041.perseus-eng2::14",
+    "tlg0062.tlg041.perseus-eng2::19",
+    "tlg0062.tlg041.perseus-eng2::22",
+    "tlg0062.tlg041.perseus-eng2::23",
+    "tlg0062.tlg041.perseus-eng2::26",
+    "tlg0086.tlg034.perseus-eng2::1",
+    "tlg0086.tlg034.perseus-eng2::3",
+    "tlg0086.tlg034.perseus-eng2::12",
+    "tlg0086.tlg034.perseus-eng2::17",
+    "tlg0086.tlg034.perseus-eng2::20",
+    "tlg0540.tlg019.perseus-eng2::0",
+    "tlg0540.tlg019.perseus-eng2::1",
+    "tlg0540.tlg019.perseus-eng2::2",
+    "tlg0540.tlg019.perseus-eng2::3",
+    "tlg0540.tlg019.perseus-eng2::4",
+    "tlg0540.tlg019.perseus-eng2::5",
+    "tlg0540.tlg019.perseus-eng2::6",
+    "tlg0540.tlg019.perseus-eng2::7",
+    "tlg0540.tlg019.perseus-eng2::8"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "Verbatim discusses performing sacrifices and ruling the host/work in the temple/holy work."
+    },
+    {
+      "i": 1,
+      "right": "Access to sacred spaces",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "Verbatim distinguishes who may come 'into the great temple' versus the 'little chamber'."
+    },
+    {
+      "i": 2,
+      "right": "Right to a public funeral",
+      "parent_meta": "Right to burial",
+      "is_new": false,
+      "reasoning": "Refers to the manner in which specific groups (Galli) are 'interred' vs. other men."
+    },
+    {
+      "i": 3,
+      "right": "Dietary practices",
+      "parent_meta": "Access to religious rites",
+      "is_new": true,
+      "reasoning": "Verbatim concerns the prohibition on eating ('eten') swine due to religious uncleanness."
+    },
+    {
+      "i": 4,
+      "right": "Access to sacred spaces",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "Concerns the 'holy' status of doves and the prohibition on 'touchen' (touching) them."
+    },
+    {
+      "i": 5,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "Concerns state-mandated ritual grooming ('scheren here lokkes') before marriage."
+    },
+    {
+      "i": 6,
+      "right": "Access to public subsidies",
+      "parent_meta": "Access to public honors",
+      "is_new": false,
+      "reasoning": "Verbatim describes the state providing a 'choregus who paid the expenses' for dramatists."
+    },
+    {
+      "i": 7,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Refers to the 'water clock' used to regulate timing in 'competitions' and legal performance."
+    },
+    {
+      "i": 8,
+      "right": "Protection from slander",
+      "parent_meta": "Protection from public libel",
+      "is_new": false,
+      "reasoning": "Specifically mentions 'censure' regarding the content of speech or poetry."
+    },
+    {
+      "i": 9,
+      "right": "Testifying in court",
+      "parent_meta": "Right to valid professional opinion",
+      "is_new": false,
+      "reasoning": "Concerns the 'standard of what is correct' and 'technical error' in professional arts like medicine."
+    },
+    {
+      "i": 10,
+      "right": "Protection from slander",
+      "parent_meta": "Protection from public libel",
+      "is_new": false,
+      "reasoning": "Relates to how groups are 'criticized' or represented poorly in public theater."
+    },
+    {
+      "i": 11,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "Refers to 'confiscation' of estate and the subsequent sale for the Treasury."
+    },
+    {
+      "i": 12,
+      "right": "Right to a dowry",
+      "parent_meta": "Right to a dowry",
+      "is_new": false,
+      "reasoning": "Verbatim explicitly mentions being 'bereft of the dowry' and the right to claim it from an estate."
+    },
+    {
+      "i": 13,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "is_new": false,
+      "reasoning": "Lists duties like 'producer of tragedies' and 'equip a warship' (liturgies)."
+    },
+    {
+      "i": 14,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "Concerns rearing children with means 'ancestors bequeathed' vs. state deprivation."
+    },
+    {
+      "i": 15,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "is_new": false,
+      "reasoning": "Verbatim states individuals were 'put to death without trial' and denied burial."
+    },
+    {
+      "i": 16,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "is_new": false,
+      "reasoning": "Refers to 'equipping warships' and performing 'services to the State' with one's purse."
+    },
+    {
+      "i": 17,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "is_new": false,
+      "reasoning": "Describes 'special levies' (eisphora) and payments to the state for military supplies."
+    },
+    {
+      "i": 18,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "Discusses the threat to 'confiscate our property' and relatives losing what belongs to them."
+    },
+    {
+      "i": 19,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "Verbatim describes leaving a 'goodly share' to a son and 'inherited from his father'."
+    }
+  ],
+  "input_tokens": 5034,
+  "output_tokens": 1483,
+  "status": "ok"
+}

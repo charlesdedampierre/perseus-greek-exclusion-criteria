@@ -1,0 +1,150 @@
+{
+  "batch_idx": 1,
+  "rule_ids": [
+    "tlg0032.tlg015.perseus-eng1::3",
+    "tlg0032.tlg015.perseus-eng1::4",
+    "tlg0032.tlg015.perseus-eng1::6",
+    "tlg0032.tlg015.perseus-eng1::9",
+    "tlg0032.tlg015.perseus-eng1::10",
+    "tlg0032.tlg015.perseus-eng1::14",
+    "tlg0032.tlg015.perseus-eng1::15",
+    "tlg0059.tlg008.perseus-eng2::7",
+    "tlg0059.tlg008.perseus-eng2::8",
+    "tlg0059.tlg008.perseus-eng2::12",
+    "tlg0059.tlg008.perseus-eng2::13",
+    "tlg0059.tlg008.perseus-eng2::14",
+    "tlg0059.tlg008.perseus-eng2::17",
+    "tlg0059.tlg008.perseus-eng2::18",
+    "tlg0059.tlg008.perseus-eng2::19",
+    "tlg0059.tlg008.perseus-eng2::20",
+    "tlg0059.tlg008.perseus-eng2::23",
+    "tlg0059.tlg008.perseus-eng2::26",
+    "tlg0059.tlg008.perseus-eng2::27",
+    "tlg0059.tlg008.perseus-eng2::31"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "Verbatim discusses resident aliens and freedmen being 'beaten by a citizen' and mistaking Athenians for slaves in domestic contexts."
+    },
+    {
+      "i": 1,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "Relates to the state 'pocketing the money' and making the rich 'poorer' through compulsory trierarchy and gymnasiarchy expenses."
+    },
+    {
+      "i": 2,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Allies are 'compelled' to have their cases 'tried' in Athens and lose or win at the bar."
+    },
+    {
+      "i": 3,
+      "right": "Disposing of property",
+      "parent_meta": "Right to dispose of property",
+      "reasoning": "The resource involves permission to 'find a market' and whether one can carry products 'elsewhither'."
+    },
+    {
+      "i": 4,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Verbatim mentions property being 'cut down' or 'burnt' during enemy approach/state defense."
+    },
+    {
+      "i": 5,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Refers to the process where trierarchs and choragi 'must have their cases adjudicated on' regarding liturgical disputes."
+    },
+    {
+      "i": 6,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "The verbatim refers to 'deprivation of civil rights' as a punishment for citizens."
+    },
+    {
+      "i": 7,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim discusses tokens (semeia) providing 'testimony to the right of Atreus' to rule as king."
+    },
+    {
+      "i": 8,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Discusses 'statesmen' and their nature, breeding, and education relative to their subjects."
+    },
+    {
+      "i": 9,
+      "right": "Access to formal education",
+      "parent_meta": "Access to the gymnasium",
+      "reasoning": "Focuses on 'pupils learning their letters' and 'dialectical' method to make them better thinkers."
+    },
+    {
+      "i": 10,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Explicitly states 'no king can rule without being a priest' regarding eligibility requirements."
+    },
+    {
+      "i": 11,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "Describes 'holiest and most national of the ancient sacrifices' performed by the King archon."
+    },
+    {
+      "i": 12,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "Mentions that those doing anything contrary to laws 'shall be punished by death'."
+    },
+    {
+      "i": 13,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "reasoning": "Describes rulers being 'brought before these courts and examined as to their conduct in office'."
+    },
+    {
+      "i": 14,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Discusses how 'rulers of the people are set up' and the selection by lot from 'the rich or from the whole people'."
+    },
+    {
+      "i": 15,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Verbatim describes 'judges are chosen by lot' to serve in sessions of courts."
+    },
+    {
+      "i": 16,
+      "right": "Proposing legislation",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "Mentions laws made after commissioners 'persuaded the people to pass them'."
+    },
+    {
+      "i": 17,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Relates to the power to 'deliberate and decide whether to make war or peace'."
+    },
+    {
+      "i": 18,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Discusses the power of 'judging men’s contracts' and deciding 'lawsuits' according to law."
+    },
+    {
+      "i": 19,
+      "right": "Right to marry a citizen",
+      "parent_meta": "Right to marry",
+      "reasoning": "Describes 'the pursuit of wealth or power in connection with matrimony'."
+    }
+  ],
+  "input_tokens": 4954,
+  "output_tokens": 1063,
+  "status": "ok"
+}

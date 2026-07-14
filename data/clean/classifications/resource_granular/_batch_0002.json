@@ -1,0 +1,170 @@
+{
+  "batch_idx": 2,
+  "rule_ids": [
+    "tlg0062.tlg034.perseus-eng2::1",
+    "tlg0062.tlg034.perseus-eng2::3",
+    "tlg0062.tlg034.perseus-eng2::4",
+    "tlg0062.tlg034.perseus-eng2::5",
+    "tlg0062.tlg034.perseus-eng2::6",
+    "tlg0062.tlg034.perseus-eng2::8",
+    "tlg0062.tlg034.perseus-eng2::9",
+    "tlg0062.tlg034.perseus-eng2::10",
+    "tlg0062.tlg034.perseus-eng2::11",
+    "tlg0062.tlg034.perseus-eng2::13",
+    "tlg0086.tlg003.perseus-eng1::0",
+    "tlg0086.tlg003.perseus-eng1::1",
+    "tlg0086.tlg003.perseus-eng1::2",
+    "tlg0086.tlg003.perseus-eng1::3",
+    "tlg0086.tlg003.perseus-eng1::4",
+    "tlg0086.tlg003.perseus-eng1::6",
+    "tlg0086.tlg003.perseus-eng1::7",
+    "tlg0086.tlg003.perseus-eng1::8",
+    "tlg0086.tlg003.perseus-eng1::9",
+    "tlg0086.tlg003.perseus-eng1::10"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "The verbatim mentions an 'official' identified by his 'purple cloak' having authority over athletes."
+    },
+    {
+      "i": 1,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Refers to penalties for anyone who 'strikes a citizen, or assaults him'."
+    },
+    {
+      "i": 2,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Discusses parties pleading 'either in person or through professional speakers' before a court."
+    },
+    {
+      "i": 3,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Concerns court procedures preventing 'rhetoric to influence the judges' to ensure they 'see the facts bare'."
+    },
+    {
+      "i": 4,
+      "right": "Access to formal education",
+      "parent_meta": "Access to the gymnasium",
+      "is_new": false,
+      "reasoning": "Describes instructing the public 'through comedies and tragedies' to learn virtue and vice."
+    },
+    {
+      "i": 5,
+      "right": "Access to formal education",
+      "parent_meta": "Access to the gymnasium",
+      "is_new": false,
+      "reasoning": "Describes causing citizens to 'learn by heart the laws of the community'."
+    },
+    {
+      "i": 6,
+      "right": "Eligibility for military command",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Refers to 'cavalrymen' as a specific military role/rank for citizens."
+    },
+    {
+      "i": 7,
+      "right": "Possession of arms",
+      "parent_meta": "Right to bear arms",
+      "is_new": false,
+      "reasoning": "Discusses a penalty for anyone who 'carries weapons' or 'brings armour' into a public place."
+    },
+    {
+      "i": 8,
+      "right": "Access to physical training",
+      "parent_meta": "Access to the gymnasium",
+      "is_new": false,
+      "reasoning": "Implies training in the sun for men, contrasting them with 'women's bodies bleached out in the shade'."
+    },
+    {
+      "i": 9,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Refers to the prohibition of wounding or killing efficient men during training as it is 'bestial and terribly cruel'."
+    },
+    {
+      "i": 10,
+      "right": "Protection from enslavement for debt",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "Mentions tenants being 'liable to be haled into slavery' for failing to pay rent/loans."
+    },
+    {
+      "i": 11,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Specifically mentions 'Archons' and 'Areopagus' being elected by birth and wealth."
+    },
+    {
+      "i": 12,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "is_new": false,
+      "reasoning": "Refers to the 'franchise' given to those who could furnish military equipment."
+    },
+    {
+      "i": 13,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Combined list including Archons, Treasurers, Generals, and commanders of cavalry based on property."
+    },
+    {
+      "i": 14,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Sets an age requirement ('over thirty') for 'magistracies' selected by lot."
+    },
+    {
+      "i": 15,
+      "right": "Protection from enslavement for debt",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "Explicitly prohibits 'loans on the security of the debtor’s person'."
+    },
+    {
+      "i": 16,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Lists several offices (Archons, Treasurers, Poletae, etc.) assigned by property class."
+    },
+    {
+      "i": 17,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Specifically names the 'Treasurers' and their property qualification."
+    },
+    {
+      "i": 18,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "States that those who do not take a side in civil strife 'should lose his rights as a citizen'."
+    },
+    {
+      "i": 19,
+      "right": "Protection from enslavement for debt",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "Discusses the prohibition of loans on the person and setting free those in slavery."
+    }
+  ],
+  "input_tokens": 4768,
+  "output_tokens": 1167,
+  "status": "ok"
+}

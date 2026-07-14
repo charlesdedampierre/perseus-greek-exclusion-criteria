@@ -1,0 +1,170 @@
+{
+  "batch_idx": 29,
+  "rule_ids": [
+    "tlg0007.tlg028.perseus-eng2::2",
+    "tlg0007.tlg028.perseus-eng2::4",
+    "tlg0007.tlg028.perseus-eng2::6",
+    "tlg0007.tlg034.perseus-eng2::0",
+    "tlg0007.tlg034.perseus-eng2::1",
+    "tlg0007.tlg034.perseus-eng2::2",
+    "tlg0007.tlg034.perseus-eng2::3",
+    "tlg0007.tlg037.perseus-eng2::0",
+    "tlg0007.tlg037.perseus-eng2::1",
+    "tlg0007.tlg037.perseus-eng2::2",
+    "tlg0007.tlg046.perseus-eng2::0",
+    "tlg0007.tlg046.perseus-eng2::1",
+    "tlg0007.tlg046.perseus-eng2::2",
+    "tlg0007.tlg068.perseus-eng3::3",
+    "tlg0007.tlg069.perseus-eng3::0",
+    "tlg0007.tlg069.perseus-eng3::1",
+    "tlg0007.tlg069.perseus-eng3::2",
+    "tlg0007.tlg079.perseus-eng3::1",
+    "tlg0007.tlg080.perseus-eng3::0",
+    "tlg0007.tlg080.perseus-eng3::3"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "is_new": false,
+      "reasoning": "The verbatim mentions tax-collectors haling someone away for not having paid the 'alien’s tax'."
+    },
+    {
+      "i": 1,
+      "right": "Eligibility for the council",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Refers to the senate (council) and the expulsion of members from it."
+    },
+    {
+      "i": 2,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "Explicitly mentions receiving into citizenship and enrolment based on being born of free parents."
+    },
+    {
+      "i": 3,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "The text discusses natural justice in who should rule and the Spartan practice of deposing kings."
+    },
+    {
+      "i": 4,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "Refers to marriage and sumptuary laws which regulate private lifestyle and expenses."
+    },
+    {
+      "i": 5,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "Describes the act of 'confiscating and selling at public auction the wealthiest and greatest estates.'"
+    },
+    {
+      "i": 6,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "is_new": false,
+      "reasoning": "Describes a candidate for consul being 'slain before his eyes' and sons of consuls 'butchered' without process."
+    },
+    {
+      "i": 7,
+      "right": "Disposing of property by will",
+      "parent_meta": "Right to dispose of property",
+      "is_new": false,
+      "reasoning": "Refers to the democratic and charitable use of private wealth/sustenance (tables of Cimon)."
+    },
+    {
+      "i": 8,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "is_new": false,
+      "reasoning": "Discusses the use of ostracism by the 'multitude' to remove political leaders and their 'voice'."
+    },
+    {
+      "i": 9,
+      "right": "Eligibility for military command",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Mentions the country conferring 'imperial power' and 'command over her allies'."
+    },
+    {
+      "i": 10,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Discusses whether a claimant to the family of Eurypontidae was of legitimate birth to be king."
+    },
+    {
+      "i": 11,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Specifies that a king should be 'of legitimate birth and sound of limb'."
+    },
+    {
+      "i": 12,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "is_new": false,
+      "reasoning": "Discusses allowing 'laws to slumber' so citizens would not be 'harmed by the laws' for cowardice."
+    },
+    {
+      "i": 13,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Describes scouring clothes 'instead of their bodies' as a state-ordained punishment."
+    },
+    {
+      "i": 14,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "Describes young men being 'released from the care of tutors' upon reaching a certain age."
+    },
+    {
+      "i": 15,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "Refers to no longer being 'subject to authority' after assuming the 'garb of a man'."
+    },
+    {
+      "i": 16,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "is_new": false,
+      "reasoning": "Discusses 'newly naturalized citizens' and their relationship to the law."
+    },
+    {
+      "i": 17,
+      "right": "Right to bodily autonomy",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": true,
+      "reasoning": "Refers to laws prohibiting slaves from getting drunk, having love-affairs, or rubbing down like athletes."
+    },
+    {
+      "i": 18,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "Concerns the right of slaves to 'demand a sale' to change masters, a form of limited labor autonomy."
+    },
+    {
+      "i": 19,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "is_new": false,
+      "reasoning": "Mentions that one who 'holds no office' is exempt from 'envy' (social/legal hostility)."
+    }
+  ],
+  "input_tokens": 4730,
+  "output_tokens": 1171,
+  "status": "ok"
+}

@@ -1,0 +1,371 @@
+{
+  "batch_idx": 11,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Wives",
+      "Seleucid Empire"
+    ],
+    [
+      "Nobles",
+      "Hierapolis (Syria)"
+    ],
+    [
+      "Women",
+      "Hellenistic Hierapolis"
+    ],
+    [
+      "Men",
+      "Hellenistic Hierapolis"
+    ],
+    [
+      "Galli",
+      "Hellenistic Hierapolis"
+    ],
+    [
+      "Syrians",
+      "Hellenistic Hierapolis"
+    ],
+    [
+      "Bachelors and Maidens",
+      "Hellenistic Hierapolis"
+    ],
+    [
+      "Comic poets",
+      "Classical Athens"
+    ],
+    [
+      "Poets",
+      "Classical Athens"
+    ],
+    [
+      "Metics",
+      "Oropus"
+    ],
+    [
+      "Magi",
+      "Achaemenid Empire"
+    ],
+    [
+      "Citizens",
+      "Archaic Miletus"
+    ],
+    [
+      "The wealthy",
+      "Archaic Miletus"
+    ],
+    [
+      "Colonists",
+      "Archaic Miletus"
+    ],
+    [
+      "Citizens",
+      "Archaic Athens (Peisistratid)"
+    ],
+    [
+      "Children",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "Guardians",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "Kings",
+      "Archaic Athens"
+    ],
+    [
+      "Foreigners",
+      "Archaic Athens"
+    ],
+    [
+      "Foreigners",
+      "Classical Greece"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "spouse",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "gynē",
+      "criterion_reasoning": "A female in a kinship/marital relation to another person; biological/social status independent of the empire's legal code."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eugeneis",
+      "criterion_reasoning": "Persons of high material wealth and ancestral lineage; identifiable through social hierarchy and lineage rather than specific legal rights."
+    },
+    {
+      "i": 2,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Identified by biological/socially-assigned sex; exists prior to any Hellenistic legal status."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "andres",
+      "criterion_reasoning": "Identified by biological/socially-assigned sex; exists prior to any Hellenistic legal status."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "none",
+      "c_occupation": "priest",
+      "requires_rights_definition": false,
+      "emic_label": "Galli",
+      "criterion_reasoning": "Castrated priests of Cybele/Atargatis; defined by biological modification and vocational role independent of civil rights."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Syri",
+      "criterion_reasoning": "Ethnicity and local ancestry within the Syrian region; a genealogical fact independent of Roman or Hellenistic law."
+    },
+    {
+      "i": 6,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "none",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Adults who are not currently in a marital kinship role; defined by life stage and lack of spouse."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "comic poet",
+      "requires_rights_definition": false,
+      "emic_label": "poiētēs",
+      "criterion_reasoning": "Vocationally identified by the production of comic drama; a productive role in Athenian culture."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "poet",
+      "requires_rights_definition": false,
+      "emic_label": "poiētēs",
+      "criterion_reasoning": "Vocationally identified by the production of poetry or drama; a productive role independent of political standing."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikos",
+      "criterion_reasoning": "Free residents of non-local ancestry; defined by residence/ancestry facts regardless of the specific Oropian metic tax."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": false,
+      "emic_label": "magu",
+      "criterion_reasoning": "A hereditary priestly caste in Achaemenid society; vocational and genealogical status."
+    },
+    {
+      "i": 11,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "polites",
+      "criterion_reasoning": "Adult free males of Miletian descent; identifies the population group independent of specific archaic voting rights."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "ploutoi",
+      "criterion_reasoning": "Persons with high material or land-based wealth ('The Fat' in Miletian history); defined by economic capacity."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "non_resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "apoikos",
+      "criterion_reasoning": "Persons of Miletian native ancestry moving to establish a new settlement; defined by movement and origin."
+    },
+    {
+      "i": 14,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "astoi",
+      "criterion_reasoning": "Free native-born males in the territory of Athens during Tyranny; criteria are sex, age, and descent."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "paides",
+      "criterion_reasoning": "Non-adults in a kinship relation to a parents; defined by life-stage."
+    },
+    {
+      "i": 16,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "guardian",
+      "requires_rights_definition": true,
+      "emic_label": "kyrios",
+      "criterion_reasoning": "Legal administrator for another person; role is intrinsically defined by the legal power to act for others."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "ruler",
+      "requires_rights_definition": true,
+      "emic_label": "basileus",
+      "criterion_reasoning": "The supreme office/role in the polity; status is intrinsically a political/legal office."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Persons of non-Athenian ancestry; defined solely by genealogical origin relative to the polity."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Persons born outside the specific Greek polis being referenced; defined by foreign descent."
+    }
+  ],
+  "input_tokens": 3466,
+  "output_tokens": 3097,
+  "status": "ok"
+}

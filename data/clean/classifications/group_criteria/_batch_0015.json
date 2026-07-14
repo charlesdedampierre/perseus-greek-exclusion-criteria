@@ -1,0 +1,371 @@
+{
+  "batch_idx": 15,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Dictators",
+      "Middle Roman Republic"
+    ],
+    [
+      "Tribunes of the people",
+      "Middle Roman Republic"
+    ],
+    [
+      "Prisoners of war",
+      "Middle Roman Republic"
+    ],
+    [
+      "Consuls",
+      "Middle Roman Republic"
+    ],
+    [
+      "Patricians",
+      "Middle Roman Republic"
+    ],
+    [
+      "Vestal virgins",
+      "Middle Roman Republic"
+    ],
+    [
+      "Tarentines",
+      "Middle Roman Republic"
+    ],
+    [
+      "Pontifex Maximus",
+      "Middle Roman Republic"
+    ],
+    [
+      "Prominent citizens",
+      "Classical Athens"
+    ],
+    [
+      "Soldiers",
+      "Middle Roman Republic"
+    ],
+    [
+      "The poor",
+      "Early Roman Republic"
+    ],
+    [
+      "Colonial citizens",
+      "Corinth"
+    ],
+    [
+      "Sicilian Greeks",
+      "Syracuse"
+    ],
+    [
+      "Syracusans",
+      "Syracuse"
+    ],
+    [
+      "The nobility",
+      "Classical Athens"
+    ],
+    [
+      "Daughters of public benefactors",
+      "Classical Athens"
+    ],
+    [
+      "Minors",
+      "Middle Roman Republic"
+    ],
+    [
+      "Nobility",
+      "Middle Roman Republic"
+    ],
+    [
+      "Foreigners",
+      "Middle Roman Republic"
+    ],
+    [
+      "Ancient family members",
+      "Classical Sparta"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "dictator",
+      "requires_rights_definition": true,
+      "emic_label": "dictator",
+      "criterion_reasoning": "An extraordinary magistrate; selection is intrinsically a legal/political act. The underlying population consists of high-status free male native citizens."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "tribunus plebis",
+      "requires_rights_definition": true,
+      "emic_label": "tribunus plebis",
+      "criterion_reasoning": "Political office-holders for the plebeian order; necessitates legal definition of the office and plebeian status."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "captivi",
+      "criterion_reasoning": "Persons captured in war and reduced to property; status is a relational fact of coercion and foreign origin prior to rights assignment."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "consul",
+      "requires_rights_definition": true,
+      "emic_label": "consul",
+      "criterion_reasoning": "Highest annual magistracy; definitionally dependent on the Roman constitutional framework of election and imperium."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "patricii",
+      "criterion_reasoning": "Members of specific hereditary clans (gentes) identified as founding lineages; genealogical fact independent of current rights."
+    },
+    {
+      "i": 5,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priestess",
+      "requires_rights_definition": true,
+      "emic_label": "virgines Vestales",
+      "criterion_reasoning": "Sacred religious office with specific legal emancipation; requires reference to the state religious and legal apparatus."
+    },
+    {
+      "i": 6,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Tarentini",
+      "criterion_reasoning": "People originating from the specific geographic locality of Tarentum; a fact of ancestry and origin."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": true,
+      "emic_label": "pontifex maximus",
+      "criterion_reasoning": "The chief high priest of the College of Pontiffs; an office defined by the state’s sacred law."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gnorimoi",
+      "criterion_reasoning": "Wealthy, influential citizens (often elites in the Roman era of Athens); based on material wealth and social visibility."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "milites",
+      "criterion_reasoning": "Persons performing the vocational role of military service; a functional/occupational category."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "pauperes",
+      "criterion_reasoning": "Individuals with low material/economic resources; a socio-economic fact regardless of enfranchisement."
+    },
+    {
+      "i": 11,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "non_resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Free males of Corinthian descent established in colonial outposts; identified by lineage and geographic displacement."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Sikeloi",
+      "criterion_reasoning": "Ethnic Greeks living on the island of Sicily; determined by ancestry and physical residency."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Syrakosioi",
+      "criterion_reasoning": "Residents of the city/territory of Syracuse; an identity based on domicile and local ancestry."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eupatridai",
+      "criterion_reasoning": "The 'well-born' or high-wealth land-owning class; defined by genealogical lineage and material surplus."
+    },
+    {
+      "i": 15,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Biological daughters of men recognized for public liturgies/service; depends on kinship and parental biography."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "impuberes",
+      "criterion_reasoning": "Persons below the biological/developmental age of adulthood (puberty); a physiological life-stage fact."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "nobilitas",
+      "criterion_reasoning": "The social elite composed of families with ancestral holders of high office; fundamentally a matter of descent/wealth."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "peregrini",
+      "criterion_reasoning": "Persons of non-Roman descent; a genealogical and geographical fact of origin outside the Roman core."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Members of established Spartan lineages (likely Spartiatai or specific clans); a fact of long-standing local descent."
+    }
+  ],
+  "input_tokens": 3681,
+  "output_tokens": 3112,
+  "status": "ok"
+}

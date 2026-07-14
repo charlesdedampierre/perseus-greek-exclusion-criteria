@@ -1,0 +1,371 @@
+{
+  "batch_idx": 17,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Slaves",
+      "Classical Sparta"
+    ],
+    [
+      "Liberated Greek allies",
+      "Classical Athens"
+    ],
+    [
+      "Slaves",
+      "Scythia"
+    ],
+    [
+      "Women",
+      "Classical Thebes"
+    ],
+    [
+      "Citizens",
+      "Classical Thebes"
+    ],
+    [
+      "The educated",
+      "Hellenistic Athens"
+    ],
+    [
+      "Servants of Cronus",
+      "Roman Empire"
+    ],
+    [
+      "Free men",
+      "Hellenistic Athens"
+    ],
+    [
+      "Male citizens",
+      "Hellenistic Greek states"
+    ],
+    [
+      "The wealthy",
+      "Hellenistic Greek states"
+    ],
+    [
+      "Women",
+      "Naucratis"
+    ],
+    [
+      "Slaves",
+      "Classical Cos"
+    ],
+    [
+      "Slaves",
+      "Archaic Rome"
+    ],
+    [
+      "Women",
+      "Republican Rome"
+    ],
+    [
+      "Youths",
+      "Archaic Rome"
+    ],
+    [
+      "Philosophers",
+      "Hellenistic Athens"
+    ],
+    [
+      "Resident aliens",
+      "Aegina"
+    ],
+    [
+      "Childless men",
+      "Aegina"
+    ],
+    [
+      "Priests",
+      "Ancient Egypt"
+    ],
+    [
+      "Citizens fit for military service",
+      "Classical Sparta"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "heilōtes",
+      "criterion_reasoning": "Helots were a population group of Laconian/Messenian ancestry held in collective servitude; their status is defined by bondage rather than law-granted rights."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Free non-Athenian Greeks resident in the city; they are defined by their status as allies (foreign free nationals) rather than Attic ancestry."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "Persons owned as property within Scythian society; ownership is a relational material fact independent of legal standing."
+    },
+    {
+      "i": 3,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological/socially assigned females; the category is independent of the rights system."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politai",
+      "criterion_reasoning": "Adult free males of native Boiotian parentage; while the label is political, the criteria are biological and genealogical."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "pepaideumenoi",
+      "criterion_reasoning": "Persons having undergone formal education (paideia); this is a social/attainment fact, not a legal definition."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Individuals performing specific ritual/devotional roles for the cult of Cronus/Saturn; defined by vocational activity."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eleutheroi",
+      "criterion_reasoning": "Adult males not owned as property; the status of 'free' is the absence of a property relation, not the presence of a legal right."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politai",
+      "criterion_reasoning": "Adult free males of local descent; criteria are genealogical and biological."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Persons possessing significant material assets or high income; wealth is a material economic position."
+    },
+    {
+      "i": 10,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological/socially assigned females; age and ancestry are unspecified but female sex is the defining criterion."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "Persons owned by another; the ownership relation is a relational fact existing prior to specific legal regulations."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "servus",
+      "criterion_reasoning": "Individuals defined as the property of a Dominus; ownership is the constitutive fact."
+    },
+    {
+      "i": 13,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "mulieres",
+      "criterion_reasoning": "Biological/socially assigned females; the label identifies sex independent of Republican legal standing."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "none",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "iuvenes",
+      "criterion_reasoning": "Persons in the early developmental life stage; age is a biological/social developmental fact."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "philosopher",
+      "requires_rights_definition": false,
+      "emic_label": "philosophoi",
+      "criterion_reasoning": "Persons engaged in the study or teaching of philosophy; defined by vocational/intellectual activity."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikos",
+      "criterion_reasoning": "Free residents of non-Aeginetan ancestry; criteria are residence and genealogy."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "none",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Adult males without offspring; the group is defined by the biological/relational fact of being childless."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": false,
+      "emic_label": "hem-netjer",
+      "criterion_reasoning": "Individuals performing temple duties/rituals; defined by vocational/sacral role."
+    },
+    {
+      "i": 19,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "homoios",
+      "criterion_reasoning": "Adult free local males physically capable of combat; criteria are sex, age, ancestry, and physical capacity."
+    }
+  ],
+  "input_tokens": 3618,
+  "output_tokens": 3103,
+  "status": "ok"
+}

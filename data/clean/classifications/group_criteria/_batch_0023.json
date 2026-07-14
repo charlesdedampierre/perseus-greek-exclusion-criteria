@@ -1,0 +1,371 @@
+{
+  "batch_idx": 23,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Pantomime dancers",
+      "Roman Empire"
+    ],
+    [
+      "Dancers",
+      "Roman Empire"
+    ],
+    [
+      "High-born men",
+      "Ionia and Pontus"
+    ],
+    [
+      "Religious initiates",
+      "Roman Empire"
+    ],
+    [
+      "Non-residents",
+      "Roman Empire"
+    ],
+    [
+      "Artists",
+      "Classical Greece"
+    ],
+    [
+      "Soldiers",
+      "Seleucid Empire"
+    ],
+    [
+      "Administrators",
+      "Roman Empire"
+    ],
+    [
+      "Sophists",
+      "Roman Empire"
+    ],
+    [
+      "Foreigners",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "Orators",
+      "Classical Athens"
+    ],
+    [
+      "Husbands",
+      "Classical Athens"
+    ],
+    [
+      "Free persons",
+      "Classical Athens"
+    ],
+    [
+      "Wealthy",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "Citizens",
+      "Classical Athens (The Four Hundred)"
+    ],
+    [
+      "The people",
+      "Classical Athens (The Five Thousand)"
+    ],
+    [
+      "Corn-controllers",
+      "Classical Athens"
+    ],
+    [
+      "Wealthy individuals",
+      "Classical Athens"
+    ],
+    [
+      "Children of slaves",
+      "Classical Athens"
+    ],
+    [
+      "Christians",
+      "Early Christian Church"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "none",
+      "c_occupation": "pantomimus",
+      "requires_rights_definition": false,
+      "emic_label": "pantomimus",
+      "criterion_reasoning": "Professional performers in the Roman theater; often of low social status or enslaved/freed, identified by their vocational role in public entertainment."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "none",
+      "c_occupation": "dancer",
+      "requires_rights_definition": false,
+      "emic_label": "saltator",
+      "criterion_reasoning": "Individuals engaged in dance for entertainment or ritual; a vocational role generally associated with the infamia category in Roman social hierarchy."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "eugeneis",
+      "criterion_reasoning": "Males of distinguished lineage and material wealth; 'high-born' refers to genealogical facts and ancestral prominence within the local Greek city-state context."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "unspecified",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "mystae",
+      "criterion_reasoning": "Individuals who have undergone specific ritual transformations in a cult (e.g. Mithraic, Isiac); participation is a social/religious fact independent of civil law."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "non_resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Persons physically located outside the territory of the polity; defined strictly by the geographic fact of non-presence."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "artist",
+      "requires_rights_definition": false,
+      "emic_label": "technitai",
+      "criterion_reasoning": "Individuals specializing in creative or mimetic production (sculptors, painters, etc.); defined by their specific vocational output."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "stratiōtai",
+      "criterion_reasoning": "Males serving in organized military units; defined by their vocational role in the state's armed forces."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "administrator",
+      "requires_rights_definition": true,
+      "emic_label": "procurator",
+      "criterion_reasoning": "Individuals holding delegated authority within the imperial bureaucracy; the role is defined by legal appointment to an office."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "philosopher",
+      "requires_rights_definition": false,
+      "emic_label": "sophistēs",
+      "criterion_reasoning": "Professional teachers of rhetoric and public speakers; defined by their vocational prowess and educational role."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Free persons residing in Athens who lack native Attic ancestry; defined by genealogical origin."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "speaker",
+      "requires_rights_definition": false,
+      "emic_label": "rhētōres",
+      "criterion_reasoning": "Citizens who actively practice public speaking and political leadership; defined by their behavior/activity in the Assembly."
+    },
+    {
+      "i": 11,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "spouse",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "anēr",
+      "criterion_reasoning": "Males in a marital relation; defined by the social/kinship fact of being a partner in a household union."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eleutheroi",
+      "criterion_reasoning": "Persons not owned by another; the status is the inverse of the ownership relation."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Individuals with high material assets or agricultural yields (e.g. 500-bushel men and knights); defined by economic capacity."
+    },
+    {
+      "i": 14,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": true,
+      "emic_label": "politai",
+      "criterion_reasoning": "Restricted group of native males defined by the oligarchic coup's legal limit (the 400); selection is rights-dependent."
+    },
+    {
+      "i": 15,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": true,
+      "emic_label": "hoi pentakischilioi",
+      "criterion_reasoning": "The 5,000 citizens in the 411 BCE regime, defined by their ability to provide hoplite equipment; defined by a legal threshold for inclusion."
+    },
+    {
+      "i": 16,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "sitophylakes",
+      "criterion_reasoning": "Magistrates overseeing grain supply; office-holders whose role is defined by legal mandate and appointment."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eupatridai",
+      "criterion_reasoning": "Individuals of high economic standing; identified by material surplus and productive capacity independent of rights."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "oikogenes",
+      "criterion_reasoning": "Minors born to enslaved parents; their status as property is inherited genealogically/relationally."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "christianos",
+      "criterion_reasoning": "Individuals identified by their adherence to Christian religious practice and community membership; a social/ideological fact."
+    }
+  ],
+  "input_tokens": 3563,
+  "output_tokens": 3170,
+  "status": "ok"
+}

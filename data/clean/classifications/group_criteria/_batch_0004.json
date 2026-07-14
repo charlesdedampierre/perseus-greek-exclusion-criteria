@@ -1,0 +1,371 @@
+{
+  "batch_idx": 4,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "The poor",
+      "Classical Greece (Oligarchical)"
+    ],
+    [
+      "Citizens",
+      "Locri (Epizephyrian)"
+    ],
+    [
+      "Children of those who died in war",
+      "Classical Athens"
+    ],
+    [
+      "Defendants in murder trials",
+      "Cyme"
+    ],
+    [
+      "Serf class",
+      "Crete"
+    ],
+    [
+      "Women",
+      "Sparta"
+    ],
+    [
+      "Minors",
+      "Sparta"
+    ],
+    [
+      "The poor",
+      "Sparta"
+    ],
+    [
+      "Nobility",
+      "Sparta"
+    ],
+    [
+      "Citizens",
+      "Crete"
+    ],
+    [
+      "Common people",
+      "Crete"
+    ],
+    [
+      "Citizens",
+      "Carthage"
+    ],
+    [
+      "The poor",
+      "Carthage"
+    ],
+    [
+      "The poor",
+      "Archaic Athens (Solonic)"
+    ],
+    [
+      "Old men",
+      "Classical Athens"
+    ],
+    [
+      "Women",
+      "Chalcidice"
+    ],
+    [
+      "Children of one non-citizen parent",
+      "Classical Athens"
+    ],
+    [
+      "Artisans",
+      "Classical Athens"
+    ],
+    [
+      "Hired laborers",
+      "Classical Athens"
+    ],
+    [
+      "Traders",
+      "Thebes"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "aporoi",
+      "criterion_reasoning": "Defined by low material-economic position; in oligarchical contexts, this identifies those below the census requirement for full participation."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Adult free males of native ancestry; Locri specifically emphasized the 'Hundred Houses' but 'citizen' generally denotes the native male group."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "orphanoi",
+      "criterion_reasoning": "Minor children of native male citizens who died in military service; defined by kinship role and age."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": "pheugōn",
+      "criterion_reasoning": "A procedural role in the legal system; the group cannot be identified without reference to the act of being accused in the rights-governed court."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "farmer",
+      "requires_rights_definition": false,
+      "emic_label": "mnoia",
+      "criterion_reasoning": "Unfree agricultural laborers tied to the land; unlike chattel slaves, they were often native to the territory."
+    },
+    {
+      "i": 5,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Spartiatis",
+      "criterion_reasoning": "Free adult females of Spartan descent; their status is fixed by sex and birth."
+    },
+    {
+      "i": 6,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "paides",
+      "criterion_reasoning": "Individuals under the age of adulthood (at Sparta, those in the agoge system); defined by life-stage."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "hypomeiones",
+      "criterion_reasoning": "Spartan-born males who lost economic standing (unable to contribute to syssitia); defined by material wealth deficit."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "homoioi",
+      "criterion_reasoning": "Full-status Spartan males meeting wealth requirements; 'nobility' here implies the founding lineage (Spartiates)."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eleutheroi",
+      "criterion_reasoning": "Free native males in Crete; primarily distinguished from the unfree (mnoia) and resident foreigners."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "damos",
+      "criterion_reasoning": "The non-aristocratic native free population; defined by lack of high-wealth/noble lineage within the native group."
+    },
+    {
+      "i": 11,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "m' rtm",
+      "criterion_reasoning": "Free Punic males of Carthaginian descent; defined by ancestry and resident status."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "dlt",
+      "criterion_reasoning": "Carthage residents with minimal material assets; defined by low productive capacity/wealth."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "thētes",
+      "criterion_reasoning": "Free native males with the lowest harvest yield (less than 200 medimnoi); defines the 'poor' in the Solonic system."
+    },
+    {
+      "i": 14,
+      "c_sex": "male",
+      "c_age": "elder",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gerontes",
+      "criterion_reasoning": "Males of advanced age (usually over 60); defined purely by chronological life-stage."
+    },
+    {
+      "i": 15,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gunaikes",
+      "criterion_reasoning": "Individuals of female sex; biological/socially assigned sex independent of legal standing."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "mixed",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "nothoi",
+      "criterion_reasoning": "Free residents with one non-citizen parent; genealogical fact of mixed ancestry."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "artisan",
+      "requires_rights_definition": false,
+      "emic_label": "banausoi",
+      "criterion_reasoning": "Free individuals engaged in manual crafts or trades; defined by vocational/productive role."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "hired laborer",
+      "requires_rights_definition": false,
+      "emic_label": "misthōtoi",
+      "criterion_reasoning": "Free persons who work for a wage; defined by their economic dependency/method of income."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "merchant",
+      "requires_rights_definition": false,
+      "emic_label": "emporoi",
+      "criterion_reasoning": "Individuals engaged in commerce and trade; defined by vocational activity regardless of citizenship."
+    }
+  ],
+  "input_tokens": 3554,
+  "output_tokens": 3114,
+  "status": "ok"
+}

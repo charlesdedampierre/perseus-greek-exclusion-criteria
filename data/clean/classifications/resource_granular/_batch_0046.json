@@ -1,0 +1,151 @@
+{
+  "batch_idx": 46,
+  "rule_ids": [
+    "tlg0062.tlg015.perseus-eng4::4",
+    "tlg0062.tlg015.perseus-eng4::7",
+    "tlg0062.tlg026.perseus-eng4::0",
+    "tlg0062.tlg026.perseus-eng4::1",
+    "tlg0062.tlg026.perseus-eng4::2",
+    "tlg0062.tlg026.perseus-eng4::3",
+    "tlg0062.tlg026.perseus-eng4::6",
+    "tlg0062.tlg026.perseus-eng4::7",
+    "tlg0062.tlg026.perseus-eng4::8",
+    "tlg0062.tlg026.perseus-eng4::9",
+    "tlg0062.tlg026.perseus-eng4::10",
+    "tlg0062.tlg030.perseus-eng2::1",
+    "tlg0062.tlg030.perseus-eng2::2",
+    "tlg0062.tlg030.perseus-eng2::4",
+    "tlg0062.tlg030.perseus-eng2::5",
+    "tlg0062.tlg030.perseus-eng2::8",
+    "tlg0062.tlg030.perseus-eng2::10",
+    "tlg0062.tlg045.perseus-eng2::1",
+    "tlg0062.tlg045.perseus-eng2::5",
+    "tlg0062.tlg045.perseus-eng2::10"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "The speaker mentions the capacity to 'hale my pupils into court' to resolve debt disputes."
+    },
+    {
+      "i": 1,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "Describes 'applying compulsion' to a girl, referring to private physical/sexual violence or outrage."
+    },
+    {
+      "i": 2,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Verbatim specifies 'Justice to assign them their juries from the whole body of the Athenians'."
+    },
+    {
+      "i": 3,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "reasoning": "The text explicitly mentions the subject 'pays his taxes like any other naturalized foreigner.'"
+    },
+    {
+      "i": 4,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Specifies 'any party doubting the justice of his sentence to have the right of appeal'."
+    },
+    {
+      "i": 5,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "Verbatim mentions 'the pay to be sixpence for each case' for the juries."
+    },
+    {
+      "i": 6,
+      "right": "Access to specialized courts",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Discusses whether 'outsiders' should be tried on 'Areopagus' or 'the other side of the Euphrates'."
+    },
+    {
+      "i": 7,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "Address to 'men of Athens' in a trial context implies the civic rights of 'countrymen' in the state."
+    },
+    {
+      "i": 8,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Addressing 'Gentlemen' who will 'remain and hear' a case as jurors."
+    },
+    {
+      "i": 9,
+      "right": "Right to a dowry",
+      "parent_meta": "Right to a dowry",
+      "reasoning": "Mentions 'bestowed the rich dowry' and the threat of bringing her into the 'divorce-court'."
+    },
+    {
+      "i": 10,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "The verbatim states jurors 'will receive a double fee' for hearing a second case."
+    },
+    {
+      "i": 11,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "Refers to work that enables one to 'make any profit yourself'."
+    },
+    {
+      "i": 12,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "Refers to work that enables one to 'make any profit yourself'."
+    },
+    {
+      "i": 13,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "Mentions study involves 'fear and floggings', contrasting school discipline with voluntary social settings."
+    },
+    {
+      "i": 14,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "Contrasts those who 'drudge all the time' with those who 'celebrate thirty holidays a month'."
+    },
+    {
+      "i": 15,
+      "right": "Exemption from military service",
+      "parent_meta": "Exemption from military service",
+      "reasoning": "Refers to the commander calling 'all those of military age' to the colours."
+    },
+    {
+      "i": 16,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "reasoning": "States 'nobody can cite a suit that has been brought against a parasite'."
+    },
+    {
+      "i": 17,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Mentions performers being 'held worthy to figure in competitions'."
+    },
+    {
+      "i": 18,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "Discusses the obligation of 'silence about the rites' for those initiated into mysteries."
+    },
+    {
+      "i": 19,
+      "right": "Testifying in court",
+      "is_new": true,
+      "parent_meta": "Right to valid professional opinion",
+      "reasoning": "Refers to prescribed domain of 'learning' and 'knowledge' required for a professional (dancer)."
+    }
+  ],
+  "input_tokens": 4449,
+  "output_tokens": 1048,
+  "status": "ok"
+}

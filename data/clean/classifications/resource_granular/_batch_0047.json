@@ -1,0 +1,170 @@
+{
+  "batch_idx": 47,
+  "rule_ids": [
+    "tlg0062.tlg045.perseus-eng2::11",
+    "tlg0062.tlg045.perseus-eng2::13",
+    "tlg0062.tlg046.perseus-eng2::1",
+    "tlg0062.tlg046.perseus-eng2::2",
+    "tlg0062.tlg046.perseus-eng2::3",
+    "tlg0062.tlg046.perseus-eng2::6",
+    "tlg0062.tlg057.perseus-eng3::0",
+    "tlg0062.tlg057.perseus-eng3::1",
+    "tlg0062.tlg059.perseus-eng3::0",
+    "tlg0062.tlg059.perseus-eng3::1",
+    "tlg0062.tlg062.perseus-eng3::0",
+    "tlg0062.tlg062.perseus-eng3::1",
+    "tlg0535.tlg001.perseus-eng2::0",
+    "tlg0535.tlg001.perseus-eng2::1",
+    "tlg0535.tlg001.perseus-eng2::2",
+    "tlg0535.tlg001.perseus-eng2::3",
+    "tlg0540.tlg001.perseus-eng2::0",
+    "tlg0540.tlg001.perseus-eng2::1",
+    "tlg0540.tlg001.perseus-eng2::2",
+    "tlg0540.tlg001.perseus-eng2::3"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Testifying in court",
+      "parent_meta": "Right to valid professional opinion",
+      "is_new": false,
+      "reasoning": "The verbatim discusses the dancer's professional mastery and stored knowledge as evidence 'to meet every occasion' of performance/presentation."
+    },
+    {
+      "i": 1,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "is_new": false,
+      "reasoning": "Men of 'first rank' perform in 'public spectacles' with 'greater pride... than in family trees and public services.'"
+    },
+    {
+      "i": 2,
+      "right": "Right to personal name",
+      "parent_meta": "Right to citizenship",
+      "is_new": true,
+      "reasoning": "Verbatim focuses on initiates being 'nameless' and 'ineffable' after being 'hallowed.'"
+    },
+    {
+      "i": 3,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Describes the 'stripes of the lash' on a goldworker's back, a form of state or master-imposed penal punishment."
+    },
+    {
+      "i": 4,
+      "right": "Protection from arbitrary arrest",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Refers to a magistrate lodging a person in 'bilboes and the stocks' (physical restraint/arrest)."
+    },
+    {
+      "i": 5,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "Describes a wife being 'unapproachable' and secluded due to lack of issue/illness."
+    },
+    {
+      "i": 6,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "Artist (Zeuxis) asserts control over his work, ordering it to be covered and 'taken home.'"
+    },
+    {
+      "i": 7,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Soldiers crown the general 'king of glorious victory' by acclamation."
+    },
+    {
+      "i": 8,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "is_new": false,
+      "reasoning": "Distinguishes between private hirelings and those in 'public service' who are 'paid by the Emperor.'"
+    },
+    {
+      "i": 9,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": false,
+      "reasoning": "Refers to 'commanding the highest fees for the public practice of rhetoric.'"
+    },
+    {
+      "i": 10,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "Mentions being 'initiated into the mysteries' after becoming a citizen."
+    },
+    {
+      "i": 11,
+      "right": "Owning land",
+      "parent_meta": "Right to own land",
+      "is_new": false,
+      "reasoning": "Refers to a 'foreign physician' buried in a mound rather than possessing civic land."
+    },
+    {
+      "i": 12,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "Mentions the right to 'acquit or punish' as a 'member of a jury' giving a 'fair vote.'"
+    },
+    {
+      "i": 13,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "Focuses on 'speaking freely from the platform' in public life."
+    },
+    {
+      "i": 14,
+      "right": "Access to specialized courts",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Lists specific venues: 'council of the Areopagus,' 'lesser courts,' and 'Heliaea.'"
+    },
+    {
+      "i": 15,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Discusses the 'jury’s judgement' governed by an oath in the context of a trial."
+    },
+    {
+      "i": 16,
+      "right": "Protection from judicial torture",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Discusses the interrogation of a 'servant-girl' under 'torture' to 'learn all.'"
+    },
+    {
+      "i": 17,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "is_new": false,
+      "reasoning": "The law states one 'shall not be convicted of murder' for killing an adulterer in the act."
+    },
+    {
+      "i": 18,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Addresses the law against 'forcibly debauching' (physical violation/assault) a free person."
+    },
+    {
+      "i": 19,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "is_new": false,
+      "reasoning": "Discusses the specific penalty of being 'condemned to death' for persuasion/seduction."
+    }
+  ],
+  "input_tokens": 4750,
+  "output_tokens": 1212,
+  "status": "ok"
+}

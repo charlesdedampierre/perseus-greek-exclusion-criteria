@@ -1,0 +1,151 @@
+{
+  "batch_idx": 28,
+  "rule_ids": [
+    "tlg0007.tlg013.perseus-eng2::12",
+    "tlg0007.tlg013.perseus-eng2::14",
+    "tlg0007.tlg014.perseus-eng2::0",
+    "tlg0007.tlg014.perseus-eng2::1",
+    "tlg0007.tlg014.perseus-eng2::2",
+    "tlg0007.tlg017.perseus-eng2::0",
+    "tlg0007.tlg017.perseus-eng2::1",
+    "tlg0007.tlg017.perseus-eng2::2",
+    "tlg0007.tlg018.perseus-eng2::0",
+    "tlg0007.tlg018.perseus-eng2::1",
+    "tlg0007.tlg018.perseus-eng2::2",
+    "tlg0007.tlg018.perseus-eng2::3",
+    "tlg0007.tlg024.perseus-eng2::0",
+    "tlg0007.tlg024.perseus-eng2::1",
+    "tlg0007.tlg024.perseus-eng2::2",
+    "tlg0007.tlg024.perseus-eng2::3",
+    "tlg0007.tlg024.perseus-eng2::5",
+    "tlg0007.tlg024.perseus-eng2::6",
+    "tlg0007.tlg028.perseus-eng2::0",
+    "tlg0007.tlg028.perseus-eng2::1"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim refers to the son as an 'officer' and his role as a 'high office' bestowed by the people."
+    },
+    {
+      "i": 1,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "reasoning": "The text describes how religious custom 'kept him at home,' restricting his ability to travel for command."
+    },
+    {
+      "i": 2,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "reasoning": "The verbatim explicitly mentions 'ostracism and banishment' as the resource from which the subjects were not protected."
+    },
+    {
+      "i": 3,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "The verbatim describes the city being enriched with 'holidays and public festivals' for the benefit of the citizens."
+    },
+    {
+      "i": 4,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "The verbatim describes 'captured soldiers' being 'ransomed' from their status as captives."
+    },
+    {
+      "i": 5,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "reasoning": "The 'disputes concerning debts' and treatment of 'poor' debtors implies the risk of seizure or harassment by creditors."
+    },
+    {
+      "i": 6,
+      "right": "Election of magistrates",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "The text mentions being 'defeated at elections' as a power the people have to 'give and take away.'"
+    },
+    {
+      "i": 7,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The 'power to give and take away' includes the result of being 'condemned in courts of justice' by the people acting as jurors."
+    },
+    {
+      "i": 8,
+      "right": "Eligibility for military command",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim describes names written down for those 'eager for the honour' of being a 'commander' for election."
+    },
+    {
+      "i": 9,
+      "right": "Owning land",
+      "parent_meta": "Right to own land",
+      "reasoning": "The verbatim explicitly mentions 'allotting the land among them' to independent citizens."
+    },
+    {
+      "i": 10,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The text mentions the 'right of free speech' and the ability to bring 'denunciations in open assembly.'"
+    },
+    {
+      "i": 11,
+      "right": "Eligibility for military command",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The people voted to 'employ a Corinthian as their general.'"
+    },
+    {
+      "i": 12,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim identifies the resource as the 'office of Archon Eponymous.'"
+    },
+    {
+      "i": 13,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "reasoning": "The text describes eligibility for 'banishment in ostracism.'"
+    },
+    {
+      "i": 14,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "Describes the procedure where 'each voter took an ostrakon' to remove a citizen."
+    },
+    {
+      "i": 15,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "The verbatim explicitly specifies the 'right to enjoy the income from his property' while banished."
+    },
+    {
+      "i": 16,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The text states 'the archons be chosen from all the Athenians.'"
+    },
+    {
+      "i": 17,
+      "right": "Right to a dowry",
+      "parent_meta": "Right to a dowry",
+      "reasoning": "The verbatim says the city was 'bestowing the dowry for the marriage.'"
+    },
+    {
+      "i": 18,
+      "right": "Access to formal education",
+      "parent_meta": "Access to the gymnasium",
+      "reasoning": "The text describes being 'trained in the arts of war' and 'taught' how to command."
+    },
+    {
+      "i": 19,
+      "right": "Eligibility for public office",
+      "is_new": false,
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim refers to the 'highest office' and the election of a 'consul.'"
+    }
+  ],
+  "input_tokens": 4703,
+  "output_tokens": 1060,
+  "status": "ok"
+}

@@ -1,0 +1,209 @@
+{
+  "batch_idx": 24,
+  "n_pairs": 11,
+  "pair_keys": [
+    [
+      "The poor",
+      "Roman Empire"
+    ],
+    [
+      "Orphans",
+      "Roman Empire"
+    ],
+    [
+      "The young",
+      "Early Christian Church"
+    ],
+    [
+      "Women",
+      "Early Christian Church"
+    ],
+    [
+      "Minors",
+      "Early Christian Church"
+    ],
+    [
+      "Laborers",
+      "Early Christian Church"
+    ],
+    [
+      "Levites",
+      "Second Temple Judea"
+    ],
+    [
+      "High Priests",
+      "Second Temple Judea"
+    ],
+    [
+      "Priests",
+      "Second Temple Judea"
+    ],
+    [
+      "Presbyters",
+      "Early Christian Church"
+    ],
+    [
+      "Heretics",
+      "Early Christian Community"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "humiliores",
+      "criterion_reasoning": "Persons of low material-economic position and social standing, often those without land or significant movable wealth."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "pueri orbitati",
+      "criterion_reasoning": "Minors whose fathers are deceased; identified by biological life-stage and kinship absence (lack of pater familias)."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "neōteroi",
+      "criterion_reasoning": "Individuals in the early developmental life-stage (infants/children/youth) within the community."
+    },
+    {
+      "i": 3,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "gynaika",
+      "criterion_reasoning": "Biological/socially-assigned females within the early Christian community across all ages and social statuses."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "nepios",
+      "criterion_reasoning": "Persons in a pre-adult developmental life-stage, regardless of sex or social status."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "manual laborer",
+      "requires_rights_definition": false,
+      "emic_label": "ergatēs",
+      "criterion_reasoning": "Persons whose primary role is manual or productive vocational labor, typically of lower economic status."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest assistant",
+      "requires_rights_definition": false,
+      "emic_label": "Lewi",
+      "criterion_reasoning": "Males of the Tribe of Levi by patrilineal descent; ancestry is a genealogical fact independent of cultic rights/duties."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "high priest",
+      "requires_rights_definition": true,
+      "emic_label": "Kohen Gadol",
+      "criterion_reasoning": "The supreme religious office-holder; eligibility is tied to Aaronic descent, but the role itself is an office defined by the cultic system."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": false,
+      "emic_label": "Kohen",
+      "criterion_reasoning": "Males of Aaronic descent; the category is genealogical (native ancestry) and linked to vocational service."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "elder",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "community leader",
+      "requires_rights_definition": true,
+      "emic_label": "presbyteros",
+      "criterion_reasoning": "Elder leaders within the community; selection is rights-mediated through religious appointment/standing, though often linked to age."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": true,
+      "emic_label": "hairetikos",
+      "criterion_reasoning": "Defined by deviation from community doctrine; the category is intrinsically defined by the ideological/legal norms of the group."
+    }
+  ],
+  "input_tokens": 3236,
+  "output_tokens": 1732,
+  "status": "ok"
+}

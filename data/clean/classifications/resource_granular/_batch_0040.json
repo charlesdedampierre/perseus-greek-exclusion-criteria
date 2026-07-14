@@ -1,0 +1,170 @@
+{
+  "batch_idx": 40,
+  "rule_ids": [
+    "tlg0026.tlg001.perseus-eng2::34",
+    "tlg0026.tlg001.perseus-eng2::35",
+    "tlg0026.tlg001.perseus-eng2::36",
+    "tlg0026.tlg001.perseus-eng2::37",
+    "tlg0026.tlg001.perseus-eng2::38",
+    "tlg0026.tlg001.perseus-eng2::39",
+    "tlg0026.tlg001.perseus-eng2::40",
+    "tlg0026.tlg001.perseus-eng2::41",
+    "tlg0026.tlg001.perseus-eng2::42",
+    "tlg0026.tlg001.perseus-eng2::43",
+    "tlg0026.tlg001.perseus-eng2::44",
+    "tlg0026.tlg003.perseus-eng2::2",
+    "tlg0026.tlg003.perseus-eng2::3",
+    "tlg0026.tlg003.perseus-eng2::6",
+    "tlg0026.tlg003.perseus-eng2::7",
+    "tlg0026.tlg003.perseus-eng2::9",
+    "tlg0026.tlg003.perseus-eng2::11",
+    "tlg0026.tlg003.perseus-eng2::12",
+    "tlg0026.tlg003.perseus-eng2::13",
+    "tlg0026.tlg003.perseus-eng2::15"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "The verbatim discusses being a 'lover of a free boy', restricted by law for slaves."
+    },
+    {
+      "i": 1,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "The verbatim refers to a man who 'addresses the people' despite his character/patrimony."
+    },
+    {
+      "i": 2,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "The verbatim commands that the man 'shall take no part in public affairs' or 'citizen’s privileges'."
+    },
+    {
+      "i": 3,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Hiring an Athenian for prostitution is treated as a 'wanton outrage' (hubris), a form of assault."
+    },
+    {
+      "i": 4,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Specifies the archon's duty to legally 'protect orphans' and uphold laws of 'chastity'."
+    },
+    {
+      "i": 5,
+      "right": "Access to the Agora",
+      "parent_meta": "Right to reside in the city",
+      "is_new": false,
+      "reasoning": "Verbatim asks 'do you thrust yourself into the market-place [agora]' and 'put on a garland'."
+    },
+    {
+      "i": 6,
+      "right": "Eligibility for the council",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "The 'Council of Elders' (Gerousia) is the specific body mentioned."
+    },
+    {
+      "i": 7,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "Prohibits an adulteress from attending 'public sacrifices'."
+    },
+    {
+      "i": 8,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "is_new": false,
+      "reasoning": "Mentions procurers being 'punished with death' via indictment."
+    },
+    {
+      "i": 9,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "Focuses on those who 'squandered their patrimony' (inheritance) through extravagance."
+    },
+    {
+      "i": 10,
+      "right": "Eligibility for priesthood",
+      "parent_meta": "Eligibility for public office",
+      "is_new": true,
+      "reasoning": "Verbatim explicitly mentions being a 'candidate for election by lot for the priesthood'."
+    },
+    {
+      "i": 11,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "is_new": false,
+      "reasoning": "States that 'no man is free from the audit' who held a public trust."
+    },
+    {
+      "i": 12,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "is_new": false,
+      "reasoning": "The law 'directs that priests and priestesses be subject to audit'."
+    },
+    {
+      "i": 13,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "is_new": false,
+      "reasoning": "The officer 'shall not leave the country' until submitting accounts."
+    },
+    {
+      "i": 14,
+      "right": "Disposing of property by will",
+      "parent_meta": "Right to dispose of property",
+      "is_new": false,
+      "reasoning": "Verbatim explicitly lists the right to 'dispose of his property by will'."
+    },
+    {
+      "i": 15,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "is_new": false,
+      "reasoning": "Refers to the 'manumission [freeing] of a slave' in a public setting."
+    },
+    {
+      "i": 16,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "is_new": false,
+      "reasoning": "Describes Callias and Demosthenes 'coming forward in your assembly' to repeat a speech."
+    },
+    {
+      "i": 17,
+      "right": "Election of magistrates",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "is_new": false,
+      "reasoning": "Discusses the assembly's motion to 'choose ambassadors' (officials)."
+    },
+    {
+      "i": 18,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "is_new": false,
+      "reasoning": "States 'everything is done there by popular vote' and cites a 'decree of the people'."
+    },
+    {
+      "i": 19,
+      "right": "Election of magistrates",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "is_new": false,
+      "reasoning": "Mentions that 'you elected Meidias... and Thrasycles' as pylagori."
+    }
+  ],
+  "input_tokens": 4608,
+  "output_tokens": 1478,
+  "status": "ok"
+}

@@ -1,0 +1,479 @@
+cell_sig	cell_long	resource_meta	MORE	LESS	n_total	net_direction
+*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	Protection from enslavement	0.0	1.0	1.0	LESS
+*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to free speech	1.0	0.0	1.0	MORE
+*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to inherit divine covenant	1.0	0.0	1.0	MORE
+*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to own property	0.0	1.0	1.0	LESS
+*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	Right to citizenship	1.0	0.0	1.0	MORE
+*-*-*-*-*-*	sex=any | age=any | ownership_status=unspecified | ancestry=unspecified | residence=unspecified | wealth=any	Right to inherit property	1.0	0.0	1.0	MORE
+*-*-*-*-*-L	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=low	Right to vote in the Ekklesia	1.0	0.0	1.0	MORE
+*-*-*-*-N-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=non_resident | wealth=any	Protection from corporal punishment	0.0	1.0	1.0	LESS
+*-*-*-*-N-*	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=non_resident | wealth=any	Right to a legal trial	0.0	1.0	1.0	LESS
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	Access to the gymnasium	1.0	0.0	1.0	MORE
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	Protection from capital punishment	1.0	0.0	1.0	MORE
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	Right to address the assembly	1.0	0.0	1.0	MORE
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	Right to professional judgement	0.0	1.0	1.0	LESS
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=unspecified	Access to religious rites	0.0	1.0	1.0	LESS
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=unspecified	Protection from legal prosecution	0.0	1.0	1.0	LESS
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to bodily autonomy	1.0	0.0	1.0	MORE
+*-*-*-*-R-*	sex=any | age=any | ownership_status=unspecified | ancestry=any | residence=resident | wealth=any	Protection from corporal punishment	1.0	0.0	1.0	MORE
+*-*-*-*-R-L	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=low	Right to professional judgement	1.0	0.0	1.0	MORE
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	Protection from enslavement	1.0	1.0	2.0	MIXED
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	Right to a legal trial	1.0	1.0	2.0	MIXED
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	Protection from capital punishment	1.0	0.0	1.0	MORE
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	Right to citizenship	1.0	0.0	1.0	MORE
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	Right to inherit property	0.0	1.0	1.0	LESS
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=unspecified | wealth=any	Protection from enslavement	0.0	1.0	1.0	LESS
+*-*-*-F-*-*	sex=any | age=any | ownership_status=unspecified | ancestry=foreign | residence=any | wealth=any	Political power	0.0	1.0	1.0	LESS
+*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=any	Right to citizenship	1.0	0.0	1.0	MORE
+*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=any	Right to own land	1.0	0.0	1.0	MORE
+*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=unspecified	Access to the gymnasium	1.0	0.0	1.0	MORE
+*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=unspecified	Eligibility for public office	1.0	0.0	1.0	MORE
+*-*-*-F-R-L	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=low	Protection from enslavement	0.0	1.0	1.0	LESS
+*-*-*-N-*-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=any | wealth=any	Right to drink wine	0.0	3.0	3.0	LESS
+*-*-*-N-*-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=any | wealth=any	Access to religious rites	0.0	1.0	1.0	LESS
+*-*-*-N-*-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=any | wealth=any	Political power	0.0	1.0	1.0	LESS
+*-*-*-N-*-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=any | wealth=any	Right to valid professional opinion	0.0	1.0	1.0	LESS
+*-*-*-N-*-*	sex=any | age=any | ownership_status=unspecified | ancestry=native | residence=any | wealth=unspecified	Right to marry	1.0	0.0	1.0	MORE
+*-*-*-N-*-*	sex=any | age=any | ownership_status=unspecified | ancestry=native | residence=any | wealth=unspecified	Right to retain own earnings	1.0	0.0	1.0	MORE
+*-*-*-N-R-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=resident | wealth=any	Access to religious rites	1.0	0.0	1.0	MORE
+*-*-*-N-R-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=resident | wealth=any	Exemption from taxes	1.0	0.0	1.0	MORE
+*-*-*-N-R-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=resident | wealth=any	Political power	0.0	1.0	1.0	LESS
+*-*-*-N-R-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=resident | wealth=any	Right to free speech	1.0	0.0	1.0	MORE
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Protection from corporal punishment	2.0	21.0	23.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Protection from enslavement	6.0	2.0	8.0	MORE
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to retain own earnings	4.0	2.0	6.0	MORE
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Political power	1.0	3.0	4.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to a legal trial	3.0	0.0	3.0	MORE
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Access to the gymnasium	1.0	1.0	2.0	MIXED
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to bear arms	1.0	1.0	2.0	MIXED
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to bodily autonomy	1.0	1.0	2.0	MIXED
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to drink wine	0.0	2.0	2.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to free speech	0.0	2.0	2.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to valid professional opinion	0.0	2.0	2.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Access to religious rites	0.0	1.0	1.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Exemption from manual labor	0.0	1.0	1.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Protection from capital punishment	1.0	0.0	1.0	MORE
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Protection from legal prosecution	1.0	0.0	1.0	MORE
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to adopt	1.0	0.0	1.0	MORE
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to inherit property	1.0	0.0	1.0	MORE
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to marry	0.0	1.0	1.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to own land	0.0	1.0	1.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to own property	0.0	1.0	1.0	LESS
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to retain property	1.0	0.0	1.0	MORE
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Right to vote in the Ekklesia	0.0	1.0	1.0	LESS
+*-*-E-F-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=foreign | residence=resident | wealth=low	Protection from enslavement	1.0	0.0	1.0	MORE
+*-*-E-F-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=foreign | residence=resident | wealth=low	Right to a legal trial	1.0	0.0	1.0	MORE
+*-*-E-N-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=native | residence=resident | wealth=low	Protection from corporal punishment	0.0	2.0	2.0	LESS
+*-*-E-N-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=native | residence=resident | wealth=low	Exemption from manual labor	0.0	1.0	1.0	LESS
+*-*-E-N-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=native | residence=resident | wealth=low	Political power	0.0	1.0	1.0	LESS
+*-*-E-N-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=native | residence=resident | wealth=low	Right to retain own earnings	1.0	0.0	1.0	MORE
+*-*-F-*-*-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=any | wealth=any	Exemption from compulsory public financing	0.0	1.0	1.0	LESS
+*-*-F-*-*-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=any | wealth=any	Exemption from manual labor	1.0	0.0	1.0	MORE
+*-*-F-*-*-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=any | wealth=any	Protection from legal prosecution	0.0	1.0	1.0	LESS
+*-*-F-*-*-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=any | wealth=any	Right to retain own earnings	1.0	0.0	1.0	MORE
+*-*-F-*-*-*	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	Protection from public libel	1.0	0.0	1.0	MORE
+*-*-F-*-*-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=any | wealth=high	Right to a dowry	1.0	0.0	1.0	MORE
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Access to religious rites	0.0	1.0	1.0	LESS
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Political power	1.0	0.0	1.0	MORE
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to a legal trial	1.0	0.0	1.0	MORE
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to address the assembly	0.0	1.0	1.0	LESS
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to bodily autonomy	1.0	0.0	1.0	MORE
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to citizenship	0.0	1.0	1.0	LESS
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to freedom of movement	0.0	1.0	1.0	LESS
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to inherit property	0.0	1.0	1.0	LESS
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to vote in the Ekklesia	1.0	0.0	1.0	MORE
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Protection from enslavement	1.0	0.0	1.0	MORE
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to retain property	0.0	3.0	3.0	LESS
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to a legal trial	0.0	1.0	1.0	LESS
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to dispose of property	0.0	1.0	1.0	LESS
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to inherit property	1.0	0.0	1.0	MORE
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to own property	1.0	0.0	1.0	MORE
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to remuneration for office	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Eligibility for public office	4.0	3.0	7.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to remuneration for office	3.0	1.0	4.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to vote in the Ekklesia	2.0	2.0	4.0	MIXED
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to citizenship	0.0	2.0	2.0	LESS
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=low	Protection from enslavement	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=low	Right to a legal trial	0.0	1.0	1.0	LESS
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Access to public honors	0.0	1.0	1.0	LESS
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Exemption from compulsory public financing	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Exemption from legal audit	0.0	1.0	1.0	LESS
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Exemption from manual labor	0.0	1.0	1.0	LESS
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Exemption from public service financing	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Political power	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Protection from corporal punishment	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to address the assembly	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to bear arms	0.0	1.0	1.0	LESS
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to burial	0.0	1.0	1.0	LESS
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to own land	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to own property	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to retain own earnings	1.0	0.0	1.0	MORE
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Right to retain property	0.0	1.0	1.0	LESS
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=any | wealth=any	Right to own land	0.0	2.0	2.0	LESS
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Access to public honors	2.0	0.0	2.0	MORE
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Right to a legal trial	1.0	1.0	2.0	MIXED
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Right to citizenship	2.0	0.0	2.0	MORE
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=any | wealth=any	Access to public honors	0.0	1.0	1.0	LESS
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=any | wealth=any	Right to reside in the city	0.0	1.0	1.0	LESS
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Eligibility for public office	1.0	0.0	1.0	MORE
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Exemption from taxes	1.0	0.0	1.0	MORE
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Protection from enslavement	0.0	1.0	1.0	LESS
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Right to own land	0.0	1.0	1.0	LESS
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Right to retain own earnings	1.0	0.0	1.0	MORE
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Right to retain property	0.0	1.0	1.0	LESS
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	Right to vote in the Ekklesia	1.0	0.0	1.0	MORE
+*-*-F-F-N-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=non_resident | wealth=any	Right to a legal trial	0.0	1.0	1.0	LESS
+*-*-F-F-N-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=non_resident | wealth=any	Right to dispose of property	0.0	1.0	1.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to citizenship	4.0	4.0	8.0	MIXED
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Protection from enslavement	0.0	2.0	2.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to own land	0.0	2.0	2.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to reside in the city	0.0	2.0	2.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to retain property	0.0	2.0	2.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Access to religious rites	0.0	1.0	1.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Eligibility for public office	1.0	0.0	1.0	MORE
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Exemption from taxes	0.0	1.0	1.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Political power	0.0	1.0	1.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Protection from corporal punishment	1.0	0.0	1.0	MORE
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to a legal trial	0.0	1.0	1.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to marry	0.0	1.0	1.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to own property	0.0	1.0	1.0	LESS
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to retain own earnings	0.0	1.0	1.0	LESS
+*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=any	Right to citizenship	0.0	2.0	2.0	LESS
+*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=any	Right to vote in the Ekklesia	0.0	2.0	2.0	LESS
+*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=unspecified	Eligibility for public office	0.0	1.0	1.0	LESS
+*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=unspecified	Right to citizenship	0.0	1.0	1.0	LESS
+*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=any | wealth=any	Right to inherit property	1.0	0.0	1.0	MORE
+*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=any | wealth=any	Right to marry	0.0	1.0	1.0	LESS
+*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=any	Right to inherit property	1.0	0.0	1.0	MORE
+*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=any	Right to retain own earnings	0.0	1.0	1.0	LESS
+*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=unspecified	Right to citizenship	1.0	0.0	1.0	MORE
+*-*-F-N-N-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	Protection from enslavement	2.0	0.0	2.0	MORE
+*-*-F-N-N-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	Protection from arbitrary banishment	1.0	0.0	1.0	MORE
+*-*-F-N-N-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	Protection from capital punishment	1.0	0.0	1.0	MORE
+*-*-F-N-N-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	Right to retain property	1.0	0.0	1.0	MORE
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Eligibility for public office	3.0	0.0	3.0	MORE
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Protection from capital punishment	1.0	2.0	3.0	LESS
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to a legal trial	3.0	0.0	3.0	MORE
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Protection from enslavement	1.0	1.0	2.0	MIXED
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to bear arms	1.0	1.0	2.0	MIXED
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Access to public honors	1.0	0.0	1.0	MORE
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Access to the gymnasium	0.0	1.0	1.0	LESS
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to address the assembly	0.0	1.0	1.0	LESS
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to citizenship	0.0	1.0	1.0	LESS
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to freedom of movement	0.0	1.0	1.0	LESS
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to remuneration for office	1.0	0.0	1.0	MORE
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to reside in the city	0.0	1.0	1.0	LESS
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to retain own earnings	0.0	1.0	1.0	LESS
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Right to bodily autonomy	1.0	0.0	1.0	MORE
+*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	Eligibility for public office	4.0	1.0	5.0	MORE
+*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	Political power	2.0	0.0	2.0	MORE
+*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	Access to public honors	1.0	0.0	1.0	MORE
+*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	Protection from arbitrary banishment	0.0	1.0	1.0	LESS
+*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	Right to dispose of property	1.0	0.0	1.0	MORE
+*-*-F-N-R-L	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=low	Eligibility for public office	1.0	0.0	1.0	MORE
+*-A-*-*-*-*	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=unspecified | wealth=any	Right to citizenship	0.0	1.0	1.0	LESS
+*-A-*-*-*-L	sex=any | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=low	Right to retain own earnings	1.0	0.0	1.0	MORE
+*-A-*-*-R-*	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Access to public honors	1.0	0.0	1.0	MORE
+*-A-*-*-R-*	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to freedom of movement	0.0	1.0	1.0	LESS
+*-A-*-*-R-*	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=unspecified	Protection from capital punishment	0.0	1.0	1.0	LESS
+*-A-*-*-R-L	sex=any | age=adult | ownership_status=any | ancestry=any | residence=resident | wealth=low	Access to religious rites	1.0	0.0	1.0	MORE
+*-A-*-*-R-L	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=low	Exemption from manual labor	0.0	1.0	1.0	LESS
+*-A-*-*-R-L	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=low	Right to valid professional opinion	0.0	1.0	1.0	LESS
+*-A-*-*-R-M	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=middle	Exemption from manual labor	0.0	1.0	1.0	LESS
+*-A-F-*-*-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	Protection from enslavement	1.0	0.0	1.0	MORE
+*-A-F-*-*-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	Right to bodily autonomy	0.0	1.0	1.0	LESS
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=high	Eligibility for public office	5.0	0.0	5.0	MORE
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=high	Exemption from taxes	0.0	2.0	2.0	LESS
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=high	Exemption from compulsory public financing	0.0	1.0	1.0	LESS
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=high	Right to address the assembly	0.0	1.0	1.0	LESS
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=high	Right to retain property	0.0	1.0	1.0	LESS
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=high	Right to retain property	0.0	1.0	1.0	LESS
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=high	Exemption from manual labor	1.0	0.0	1.0	MORE
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=high	Right to a legal trial	1.0	0.0	1.0	MORE
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=high	Right to retain property	0.0	1.0	1.0	LESS
+*-A-F-*-*-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=middle	Eligibility for public office	0.0	1.0	1.0	LESS
+*-A-F-*-*-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=middle	Right to own property	1.0	0.0	1.0	MORE
+*-A-F-*-*-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=middle	Right to retain property	1.0	0.0	1.0	MORE
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to retain own earnings	2.0	0.0	2.0	MORE
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Protection from legal prosecution	0.0	2.0	2.0	LESS
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	Exemption from military service	1.0	0.0	1.0	MORE
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to citizenship	0.0	1.0	1.0	LESS
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to reside in the city	0.0	1.0	1.0	LESS
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Access to public honors	1.0	0.0	1.0	MORE
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Eligibility for public office	0.0	1.0	1.0	LESS
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to professional judgement	1.0	0.0	1.0	MORE
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to reside in the city	0.0	1.0	1.0	LESS
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to retain property	1.0	0.0	1.0	MORE
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	Right to reside in the city	0.0	1.0	1.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Exemption from compulsory public financing	1.0	13.0	14.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to retain property	3.0	7.0	10.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Eligibility for public office	6.0	1.0	7.0	MORE
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Exemption from taxes	0.0	5.0	5.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Political power	3.0	1.0	4.0	MORE
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Protection from capital punishment	2.0	2.0	4.0	MIXED
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to retain own earnings	0.0	4.0	4.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to own land	0.0	2.0	2.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=high	Exemption from compulsory public financing	0.0	1.0	1.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=high	Exemption from taxes	0.0	1.0	1.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=high	Right to retain property	1.0	0.0	1.0	MORE
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Access to public honors	1.0	0.0	1.0	MORE
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Access to the gymnasium	1.0	0.0	1.0	MORE
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Exemption from manual labor	1.0	0.0	1.0	MORE
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Protection from public libel	0.0	1.0	1.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to citizenship	1.0	0.0	1.0	MORE
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to inherit property	0.0	1.0	1.0	LESS
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to reside in the city	0.0	1.0	1.0	LESS
+*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Eligibility for public office	1.0	3.0	4.0	LESS
+*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=low	Eligibility for public office	0.0	3.0	3.0	LESS
+*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=low	Political power	0.0	1.0	1.0	LESS
+*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Political power	0.0	1.0	1.0	LESS
+*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	Protection from legal prosecution	1.0	0.0	1.0	MORE
+*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	Eligibility for public office	1.0	1.0	2.0	MIXED
+*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	Eligibility for public office	1.0	1.0	2.0	MIXED
+*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	Exemption from military service	2.0	0.0	2.0	MORE
+*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	Right to a legal trial	1.0	0.0	1.0	MORE
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to own land	0.0	3.0	3.0	LESS
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Eligibility for public office	0.0	2.0	2.0	LESS
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Exemption from taxes	0.0	2.0	2.0	LESS
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Political power	0.0	2.0	2.0	LESS
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to a legal trial	1.0	1.0	2.0	MIXED
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Protection from capital punishment	1.0	0.0	1.0	MORE
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to address the assembly	0.0	1.0	1.0	LESS
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to citizenship	1.0	0.0	1.0	MORE
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to dispose of property	1.0	0.0	1.0	MORE
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to freedom of movement	0.0	1.0	1.0	LESS
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=freed | ancestry=foreign | residence=resident | wealth=any	Protection from legal prosecution	0.0	1.0	1.0	LESS
+*-A-F-N-*-H	sex=any | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=high	Eligibility for public office	2.0	0.0	2.0	MORE
+*-A-F-N-*-H	sex=any | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=high	Protection from corporal punishment	1.0	0.0	1.0	MORE
+*-A-F-N-R-*	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Exemption from legal audit	0.0	1.0	1.0	LESS
+*-A-F-N-R-*	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Access to religious rites	1.0	0.0	1.0	MORE
+*-A-F-N-R-H	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Eligibility for public office	2.0	0.0	2.0	MORE
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Access to religious rites	1.0	0.0	1.0	MORE
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Access to the gymnasium	1.0	0.0	1.0	MORE
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Eligibility for public office	1.0	0.0	1.0	MORE
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Political power	1.0	0.0	1.0	MORE
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Protection from enslavement	0.0	1.0	1.0	LESS
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Right to bear arms	0.0	1.0	1.0	LESS
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Right to reside in the city	0.0	1.0	1.0	LESS
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Right to vote in the Ekklesia	1.0	0.0	1.0	MORE
+*-A-F-N-R-M	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	Eligibility for public office	0.0	1.0	1.0	LESS
+*-A-F-N-R-M	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	Political power	1.0	0.0	1.0	MORE
+*-E-*-*-*-*	sex=any | age=elder | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	Access to public honors	1.0	0.0	1.0	MORE
+*-E-*-*-*-*	sex=any | age=elder | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	Right to speak first in assembly	1.0	0.0	1.0	MORE
+*-M-*-*-*-*	sex=any | age=minor | ownership_status=any | ancestry=any | residence=any | wealth=any	Access to specialized instruction	1.0	0.0	1.0	MORE
+*-M-*-*-*-*	sex=any | age=minor | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	Access to the gymnasium	1.0	0.0	1.0	MORE
+*-M-*-*-*-*	sex=any | age=minor | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	Eligibility for public office	0.0	1.0	1.0	LESS
+*-M-*-*-*-*	sex=any | age=minor | ownership_status=any | ancestry=unspecified | residence=any | wealth=unspecified	Eligibility for public office	0.0	1.0	1.0	LESS
+*-M-*-*-*-*	sex=any | age=minor | ownership_status=unspecified | ancestry=any | residence=any | wealth=unspecified	Access to education	1.0	0.0	1.0	MORE
+*-M-*-*-*-*	sex=any | age=minor | ownership_status=unspecified | ancestry=any | residence=any | wealth=unspecified	Access to religious rites	1.0	0.0	1.0	MORE
+*-M-*-*-R-*	sex=any | age=minor | ownership_status=unspecified | ancestry=unspecified | residence=resident | wealth=unspecified	Protection from capital punishment	0.0	1.0	1.0	LESS
+*-M-*-*-R-*	sex=any | age=minor | ownership_status=unspecified | ancestry=unspecified | residence=resident | wealth=unspecified	Right to inherit property	1.0	0.0	1.0	MORE
+*-M-E-*-R-L	sex=any | age=minor | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	Protection from enslavement	0.0	1.0	1.0	LESS
+*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to drink wine	0.0	1.0	1.0	LESS
+*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=any | residence=resident | wealth=unspecified	Right to a legal trial	0.0	1.0	1.0	LESS
+*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Access to the gymnasium	1.0	0.0	1.0	MORE
+*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Eligibility for public office	0.0	1.0	1.0	LESS
+*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Protection from corporal punishment	0.0	1.0	1.0	LESS
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Access to public honors	2.0	1.0	3.0	MORE
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Protection from capital punishment	2.0	1.0	3.0	MORE
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Eligibility for public office	0.0	2.0	2.0	LESS
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Exemption from taxes	2.0	0.0	2.0	MORE
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Protection from corporal punishment	1.0	1.0	2.0	MIXED
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Right to bodily autonomy	0.0	2.0	2.0	LESS
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	Access to religious rites	1.0	0.0	1.0	MORE
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	Eligibility for public office	0.0	1.0	1.0	LESS
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	Exemption from military service	0.0	1.0	1.0	LESS
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	Protection from legal prosecution	1.0	0.0	1.0	MORE
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to citizenship	0.0	1.0	1.0	LESS
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Access to the gymnasium	1.0	0.0	1.0	MORE
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Political power	0.0	1.0	1.0	LESS
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Protection from legal prosecution	1.0	0.0	1.0	MORE
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Right to address the assembly	0.0	1.0	1.0	LESS
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Right to citizenship	1.0	0.0	1.0	MORE
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Right to freedom of movement	0.0	1.0	1.0	LESS
+*-M-F-N-R-L	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=low	Right to bear arms	1.0	0.0	1.0	MORE
+F-*-*-*-*-*	sex=female | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	Protection from enslavement	0.0	1.0	1.0	LESS
+F-*-*-*-*-*	sex=female | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to bodily autonomy	0.0	1.0	1.0	LESS
+F-*-*-*-*-*	sex=female | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to retain property	0.0	1.0	1.0	LESS
+F-*-*-*-*-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	Access to religious rites	0.0	1.0	1.0	LESS
+F-*-*-*-*-*	sex=female | age=any | ownership_status=unspecified | ancestry=any | residence=any | wealth=unspecified	Right to bodily autonomy	0.0	1.0	1.0	LESS
+F-*-*-*-*-*	sex=female | age=any | ownership_status=unspecified | ancestry=any | residence=any | wealth=unspecified	Right to freedom of movement	0.0	1.0	1.0	LESS
+F-*-*-*-*-*	sex=female | age=any | ownership_status=unspecified | ancestry=any | residence=any | wealth=unspecified	Right to own property	1.0	0.0	1.0	MORE
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to a dowry	7.0	0.0	7.0	MORE
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to bodily autonomy	3.0	3.0	6.0	MIXED
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Political power	0.0	3.0	3.0	LESS
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to retain property	3.0	0.0	3.0	MORE
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to own property	1.0	1.0	2.0	MIXED
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to retain own earnings	1.0	1.0	2.0	MIXED
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	Political power	0.0	1.0	1.0	LESS
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	Right to retain property	1.0	0.0	1.0	MORE
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Access to religious rites	1.0	0.0	1.0	MORE
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Access to the gymnasium	0.0	1.0	1.0	LESS
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Eligibility for public office	0.0	1.0	1.0	LESS
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Protection from legal prosecution	0.0	1.0	1.0	LESS
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Protection from public libel	0.0	1.0	1.0	LESS
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to a legal trial	0.0	1.0	1.0	LESS
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to address the assembly	1.0	0.0	1.0	MORE
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to freedom of movement	0.0	1.0	1.0	LESS
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	Right to inherit property	0.0	1.0	1.0	LESS
+F-*-F-*-R-*	sex=female | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Access to public honors	0.0	1.0	1.0	LESS
+F-*-F-*-R-*	sex=female | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to dispose of property	0.0	1.0	1.0	LESS
+F-*-F-*-R-*	sex=female | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to drink wine	0.0	1.0	1.0	LESS
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Political power	3.0	0.0	3.0	MORE
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to bodily autonomy	1.0	2.0	3.0	LESS
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to inherit property	2.0	1.0	3.0	MORE
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to a dowry	2.0	0.0	2.0	MORE
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Access to the gymnasium	1.0	0.0	1.0	MORE
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to freedom of movement	0.0	1.0	1.0	LESS
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to vote in the Ekklesia	0.0	1.0	1.0	LESS
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Access to religious rites	0.0	1.0	1.0	LESS
+F-*-F-N-R-H	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	Right to a legal trial	1.0	0.0	1.0	MORE
+F-A-*-*-*-*	sex=female | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to citizenship	0.0	2.0	2.0	LESS
+F-A-*-*-*-*	sex=female | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Access to public honors	0.0	1.0	1.0	LESS
+F-A-*-*-*-*	sex=female | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to own property	1.0	0.0	1.0	MORE
+F-A-*-*-R-L	sex=female | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=low	Right to bodily autonomy	0.0	1.0	1.0	LESS
+F-A-F-*-*-*	sex=female | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=any	Access to religious rites	0.0	1.0	1.0	LESS
+F-A-F-*-*-*	sex=female | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=any	Right to bodily autonomy	0.0	1.0	1.0	LESS
+F-A-F-*-*-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	Right to bodily autonomy	0.0	1.0	1.0	LESS
+F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Access to public honors	0.0	1.0	1.0	LESS
+F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to a dowry	1.0	0.0	1.0	MORE
+F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to inherit property	0.0	1.0	1.0	LESS
+F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to retain property	1.0	0.0	1.0	MORE
+F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	Right to bodily autonomy	0.0	1.0	1.0	LESS
+F-A-F-*-R-H	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Right to bodily autonomy	1.0	0.0	1.0	MORE
+F-A-F-N-R-*	sex=female | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to bodily autonomy	1.0	0.0	1.0	MORE
+F-A-F-N-R-*	sex=female | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to inherit property	1.0	0.0	1.0	MORE
+F-A-F-N-R-H	sex=female | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Right to marry	1.0	0.0	1.0	MORE
+F-M-F-N-R-*	sex=female | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to a dowry	1.0	0.0	1.0	MORE
+M-*-*-*-*-*	sex=male | age=any | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	Access to religious rites	1.0	0.0	1.0	MORE
+M-*-F-*-R-*	sex=male | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Right to inherit property	3.0	0.0	3.0	MORE
+M-*-F-*-R-*	sex=male | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	Political power	1.0	0.0	1.0	MORE
+M-*-F-N-*-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=any | wealth=any	Protection from enslavement	1.0	0.0	1.0	MORE
+M-*-F-N-*-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=any	Right to inherit property	1.0	0.0	1.0	MORE
+M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to inherit property	3.0	0.0	3.0	MORE
+M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Eligibility for public office	0.0	1.0	1.0	LESS
+M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Exemption from manual labor	1.0	0.0	1.0	MORE
+M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to own property	0.0	1.0	1.0	LESS
+M-*-F-N-R-H	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	Eligibility for public office	3.0	0.0	3.0	MORE
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Eligibility for public office	1.0	1.0	2.0	MIXED
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Political power	1.0	1.0	2.0	MIXED
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to bodily autonomy	0.0	2.0	2.0	LESS
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to citizenship	1.0	1.0	2.0	MIXED
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Access to religious rites	0.0	1.0	1.0	LESS
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Exemption from legal audit	1.0	0.0	1.0	MORE
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	Right to address the assembly	0.0	1.0	1.0	LESS
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	Political power	1.0	0.0	1.0	MORE
+M-A-*-*-*-L	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=low	Protection from corporal punishment	0.0	1.0	1.0	LESS
+M-A-*-*-R-L	sex=male | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=low	Right to citizenship	0.0	1.0	1.0	LESS
+M-A-E-F-R-L	sex=male | age=adult | ownership_status=enslaved | ancestry=foreign | residence=resident | wealth=low	Political power	1.0	0.0	1.0	MORE
+M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=any | wealth=any	Protection from enslavement	1.0	0.0	1.0	MORE
+M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	Right to citizenship	1.0	0.0	1.0	MORE
+M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	Right to retain own earnings	1.0	0.0	1.0	MORE
+M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=any	Access to the gymnasium	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	Protection from corporal punishment	2.0	0.0	2.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to a legal trial	1.0	1.0	2.0	MIXED
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	Eligibility for public office	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	Exemption from manual labor	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	Political power	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Political power	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Protection from corporal punishment	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Protection from public libel	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to burial	0.0	1.0	1.0	LESS
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to dispose of property	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to freedom of movement	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to reside in the city	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	Right to valid professional opinion	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	Exemption from taxes	1.0	0.0	1.0	MORE
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	Right to retain property	1.0	0.0	1.0	MORE
+M-A-F-*-R-H	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	Access to specialized instruction	0.0	1.0	1.0	LESS
+M-A-F-*-R-L	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=low	Access to religious rites	1.0	0.0	1.0	MORE
+M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	Right to retain own earnings	1.0	0.0	1.0	MORE
+M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	Right to retain property	0.0	1.0	1.0	LESS
+M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	Right to valid professional opinion	1.0	0.0	1.0	MORE
+M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	Right to retain own earnings	1.0	0.0	1.0	MORE
+M-A-F-F-*-*	sex=male | age=adult | ownership_status=free | ancestry=foreign | residence=any | wealth=any	Protection from enslavement	1.0	0.0	1.0	MORE
+M-A-F-F-R-*	sex=male | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	Right to vote in the Ekklesia	1.0	0.0	1.0	MORE
+M-A-F-F-R-M	sex=male | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=middle	Right to retain own earnings	1.0	0.0	1.0	MORE
+M-A-F-M-*-*	sex=male | age=adult | ownership_status=free | ancestry=mixed | residence=any | wealth=any	Political power	0.0	1.0	1.0	LESS
+M-A-F-M-*-*	sex=male | age=adult | ownership_status=free | ancestry=mixed | residence=any | wealth=any	Right to inherit property	1.0	0.0	1.0	MORE
+M-A-F-M-*-*	sex=male | age=adult | ownership_status=free | ancestry=mixed | residence=any | wealth=any	Right to vote in the Ekklesia	1.0	0.0	1.0	MORE
+M-A-F-M-R-*	sex=male | age=adult | ownership_status=free | ancestry=mixed | residence=resident | wealth=any	Eligibility for public office	0.0	1.0	1.0	LESS
+M-A-F-N-*-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=any	Protection from capital punishment	0.0	1.0	1.0	LESS
+M-A-F-N-*-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=any	Right to bodily autonomy	0.0	1.0	1.0	LESS
+M-A-F-N-*-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=any	Right to citizenship	0.0	1.0	1.0	LESS
+M-A-F-N-*-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=high	Right to bodily autonomy	1.0	0.0	1.0	MORE
+M-A-F-N-N-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	Political power	0.0	1.0	1.0	LESS
+M-A-F-N-N-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	Right to military protection	1.0	0.0	1.0	MORE
+M-A-F-N-N-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=non_resident | wealth=high	Right to retain property	0.0	1.0	1.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Eligibility for public office	27.0	5.0	32.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to a legal trial	32.0	0.0	32.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Political power	18.0	1.0	19.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to address the assembly	8.0	9.0	17.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to vote in the Ekklesia	15.0	0.0	15.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to citizenship	5.0	6.0	11.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to remuneration for office	11.0	0.0	11.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to reside in the city	3.0	7.0	10.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Protection from legal prosecution	6.0	2.0	8.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Access to public honors	4.0	3.0	7.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Access to religious rites	2.0	5.0	7.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Protection from capital punishment	3.0	4.0	7.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to bear arms	3.0	3.0	6.0	MIXED
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to retain property	3.0	3.0	6.0	MIXED
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Protection from corporal punishment	4.0	1.0	5.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Protection from enslavement	5.0	0.0	5.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Protection from arbitrary banishment	3.0	1.0	4.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to own land	2.0	2.0	4.0	MIXED
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Access to the gymnasium	3.0	0.0	3.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Exemption from compulsory public financing	1.0	2.0	3.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Exemption from manual labor	1.0	2.0	3.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to adopt	2.0	1.0	3.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to bodily autonomy	2.0	1.0	3.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to burial	1.0	2.0	3.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to freedom of movement	2.0	1.0	3.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to free speech	2.0	0.0	2.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to inherit property	2.0	0.0	2.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Exemption from legal audit	1.0	0.0	1.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Protection from public libel	1.0	0.0	1.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to dispose of property	1.0	0.0	1.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to own property	1.0	0.0	1.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to retain own earnings	0.0	1.0	1.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Access to religious rites	0.0	1.0	1.0	LESS
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Eligibility for public office	1.0	0.0	1.0	MORE
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Protection from enslavement	1.0	0.0	1.0	MORE
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Eligibility for public office	13.0	1.0	14.0	MORE
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Exemption from compulsory public financing	0.0	8.0	8.0	LESS
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Right to retain property	0.0	5.0	5.0	LESS
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Protection from arbitrary banishment	0.0	3.0	3.0	LESS
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Access to public honors	2.0	0.0	2.0	MORE
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Exemption from manual labor	1.0	1.0	2.0	MIXED
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Right to citizenship	0.0	2.0	2.0	LESS
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Access to the gymnasium	1.0	0.0	1.0	MORE
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Exemption from legal audit	1.0	0.0	1.0	MORE
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Exemption from military service	1.0	0.0	1.0	MORE
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Exemption from taxes	0.0	1.0	1.0	LESS
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Political power	1.0	0.0	1.0	MORE
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Protection from capital punishment	0.0	1.0	1.0	LESS
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Protection from public libel	1.0	0.0	1.0	MORE
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Right to bodily autonomy	0.0	1.0	1.0	LESS
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Right to own property	1.0	0.0	1.0	MORE
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Right to reside in the city	0.0	1.0	1.0	LESS
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	Right to retain own earnings	0.0	1.0	1.0	LESS
+M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Eligibility for public office	2.0	3.0	5.0	LESS
+M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Right to remuneration for office	2.0	0.0	2.0	MORE
+M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Political power	0.0	1.0	1.0	LESS
+M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	Right to vote in the Ekklesia	0.0	1.0	1.0	LESS
+M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	Eligibility for public office	2.0	0.0	2.0	MORE
+M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	Access to public honors	1.0	0.0	1.0	MORE
+M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	Political power	0.0	1.0	1.0	LESS
+M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	Protection from legal prosecution	1.0	0.0	1.0	MORE
+M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	Right to freedom of movement	0.0	1.0	1.0	LESS
+M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	Right to vote in the Ekklesia	1.0	0.0	1.0	MORE
+M-E-F-*-R-*	sex=male | age=elder | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	Political power	1.0	0.0	1.0	MORE
+M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	Eligibility for public office	0.0	1.0	1.0	LESS
+M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	Exemption from compulsory public financing	0.0	1.0	1.0	LESS
+M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	Exemption from manual labor	0.0	1.0	1.0	LESS
+M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to retain property	1.0	0.0	1.0	MORE
+M-M-F-N-R-*	sex=male | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	Access to public honors	1.0	0.0	1.0	MORE
+M-M-F-N-R-*	sex=male | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to bodily autonomy	0.0	1.0	1.0	LESS
+M-M-F-N-R-*	sex=male | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	Right to free speech	0.0	1.0	1.0	LESS
+M-M-F-N-R-*	sex=male | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	Protection from corporal punishment	0.0	1.0	1.0	LESS

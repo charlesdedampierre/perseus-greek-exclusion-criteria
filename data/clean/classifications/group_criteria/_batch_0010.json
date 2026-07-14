@@ -1,0 +1,371 @@
+{
+  "batch_idx": 10,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Soldiers under the Four Hundred",
+      "Classical Athens"
+    ],
+    [
+      "Former officials under the oligarchy",
+      "Classical Athens"
+    ],
+    [
+      "Restored exiles",
+      "Classical Athens"
+    ],
+    [
+      "Daughters without brothers",
+      "Classical Athens"
+    ],
+    [
+      "Fathers",
+      "Classical Athens"
+    ],
+    [
+      "Non-citizens",
+      "Classical Athens"
+    ],
+    [
+      "Allied states",
+      "Classical Athens"
+    ],
+    [
+      "Men",
+      "Classical Athens"
+    ],
+    [
+      "Greeks",
+      "Classical Athens"
+    ],
+    [
+      "The mute",
+      "Classical Athens"
+    ],
+    [
+      "Education",
+      "Roman Empire"
+    ],
+    [
+      "Women",
+      "Roman Empire"
+    ],
+    [
+      "Lineage",
+      "Roman Empire"
+    ],
+    [
+      "The rich",
+      "Roman Empire (Greek East)"
+    ],
+    [
+      "The poor",
+      "Roman Empire (Greek East)"
+    ],
+    [
+      "Slaves",
+      "Roman Empire (Greek East)"
+    ],
+    [
+      "Women",
+      "Ancient Olympia"
+    ],
+    [
+      "Women",
+      "Byblos (Syria)"
+    ],
+    [
+      "Syrians",
+      "Hierapolis (Syria)"
+    ],
+    [
+      "Galli",
+      "Hierapolis (Syria)"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": true,
+      "emic_label": "stratiōtai",
+      "criterion_reasoning": "A military subgroup during the 411 BCE coup; occupation is physical service, but selection is contingent on political membership in the oligarchic faction."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "archōn",
+      "criterion_reasoning": "Defined by prior holding of legal office (archonship) under a specific regime; membership is intrinsically law-defined."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": true,
+      "emic_label": "katephthēsan",
+      "criterion_reasoning": "Status depends on legal restoration to citizenship and return from judicial banishment (an artificial legal state)."
+    },
+    {
+      "i": 3,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "heir",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "epiklēros",
+      "criterion_reasoning": "Daughters without legitimate brothers; defined by kinship/biological facts (descent and lack of male siblings) regardless of legal rights."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "parent",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "patēr",
+      "criterion_reasoning": "Biological/social role as a male parent; a kinship relation independent of the rights system."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Defined negatively by ancestry; includes resident foreigners and non-natives who do not share the founding lineage."
+    },
+    {
+      "i": 6,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "non_resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": true,
+      "emic_label": "poleis symmachoi",
+      "criterion_reasoning": "Populations of other cities; membership in an 'allied state' is a treaty/legal category (symmachia)."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "andres",
+      "criterion_reasoning": "Biological sex and adulthood; universally identifiable across societies without law."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "hellēnes",
+      "criterion_reasoning": "Ethnocultural/linguistic identity and descent (ancestry) distinct from 'Barbarians', prior to specific legal status."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eneoi",
+      "criterion_reasoning": "Persons with a specific biological disability/incapacity of speech; a purely physical/phenomenological state."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "philosopher",
+      "requires_rights_definition": false,
+      "emic_label": "pepaideumenoi",
+      "criterion_reasoning": "Refers to the 'educated ones'; defined by attainment of Paideia or instructional status, not legal rights."
+    },
+    {
+      "i": 11,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "mulieres",
+      "criterion_reasoning": "Biological sex and adulthood; a category that exists prepolitically."
+    },
+    {
+      "i": 12,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "clarissimi",
+      "criterion_reasoning": "High-status descent (ancestry); genealogical fact of belonging to a family with established lineage/pedigree."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "High economic/material standing; productive capacity and capital accumulation independent of legal definitions."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "penētes",
+      "criterion_reasoning": "Low material economic position; lack of resources for maintenance (subsistence level)."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "servi",
+      "criterion_reasoning": "Defined by the relational fact of being owned as property by another human being."
+    },
+    {
+      "i": 16,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological sex and adulthood; applied here in the context of ritual/festival prohibitions at Olympia."
+    },
+    {
+      "i": 17,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological sex and adulthood; refers to female participants in local Syrian/Adonis cults."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "syroi",
+      "criterion_reasoning": "Ancestry/regional origin within the Near East/Levant; an ethnic/geographic fact."
+    },
+    {
+      "i": 19,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "none",
+      "c_occupation": "priest",
+      "requires_rights_definition": false,
+      "emic_label": "galli",
+      "criterion_reasoning": "Physically/ritually emasculated male priests of Dea Syria; defined by vocational/physical change, not legal rights."
+    }
+  ],
+  "input_tokens": 3553,
+  "output_tokens": 3105,
+  "status": "ok"
+}

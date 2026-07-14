@@ -1,0 +1,292 @@
+cell_sig	cell_long	emic_labels_observed	resource_meta	MORE	LESS	n_total	pretty_direction
+*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	eneoi; ousia; syngeneis	Right to free speech	1.0	0.0	1.0	+
+*-*-*-*-*-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=any | wealth=any	eneoi; ousia; syngeneis	Right to own property	0.0	1.0	1.0	-
+*-*-*-*-*-*	sex=any | age=any | ownership_status=unspecified | ancestry=unspecified | residence=unspecified | wealth=any	eneoi; ousia; syngeneis	Right to inherit property	1.0	0.0	1.0	+
+*-*-*-*-N-*	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=non_resident | wealth=any		Right to a legal trial	0.0	1.0	1.0	-
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	hiketēs; mousikoi	Access to the gymnasium	1.0	0.0	1.0	+
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	hiketēs; mousikoi	Protection from capital punishment	1.0	0.0	1.0	+
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	hiketēs; mousikoi	Right to address the assembly	1.0	0.0	1.0	+
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	hiketēs; mousikoi	Right to professional judgement	0.0	1.0	1.0	-
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=unspecified	hiketēs; mousikoi	Access to religious rites	0.0	1.0	1.0	-
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=unspecified	hiketēs; mousikoi	Protection from legal prosecution	0.0	1.0	1.0	-
+*-*-*-*-R-*	sex=any | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	hiketēs; mousikoi	Right to bodily autonomy	1.0	0.0	1.0	+
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	barbaros; exōtikos; xenoi	Right to a legal trial	1.0	1.0	2.0	+-
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	barbaros; exōtikos; xenoi	Protection from capital punishment	1.0	0.0	1.0	+
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	barbaros; exōtikos; xenoi	Protection from enslavement	1.0	0.0	1.0	+
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=any | wealth=any	barbaros; exōtikos; xenoi	Right to inherit property	0.0	1.0	1.0	-
+*-*-*-F-*-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=unspecified | wealth=any	barbaros; exōtikos; xenoi	Protection from enslavement	0.0	1.0	1.0	-
+*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=any	Skythai	Right to citizenship	1.0	0.0	1.0	+
+*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=unspecified	Skythai	Access to the gymnasium	1.0	0.0	1.0	+
+*-*-*-F-R-*	sex=any | age=any | ownership_status=any | ancestry=foreign | residence=resident | wealth=unspecified	Skythai	Eligibility for public office	1.0	0.0	1.0	+
+*-*-*-N-*-*	sex=any | age=any | ownership_status=any | ancestry=native | residence=any | wealth=any	hellēnes	Right to valid professional opinion	0.0	1.0	1.0	-
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Protection from corporal punishment	2.0	18.0	20.0	++------------------
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Protection from enslavement	5.0	1.0	6.0	+++++-
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to retain own earnings	3.0	1.0	4.0	+++-
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Political power	0.0	3.0	3.0	---
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to a legal trial	3.0	0.0	3.0	+++
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Access to the gymnasium	1.0	1.0	2.0	+-
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to free speech	0.0	2.0	2.0	--
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to valid professional opinion	0.0	2.0	2.0	--
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Exemption from manual labor	0.0	1.0	1.0	-
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Protection from capital punishment	1.0	0.0	1.0	+
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Protection from legal prosecution	1.0	0.0	1.0	+
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to bodily autonomy	0.0	1.0	1.0	-
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to drink wine	0.0	1.0	1.0	-
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to inherit property	1.0	0.0	1.0	+
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to own land	0.0	1.0	1.0	-
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to own property	0.0	1.0	1.0	-
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to retain property	1.0	0.0	1.0	+
+*-*-E-*-R-L	sex=any | age=any | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	douloi; doulos	Right to vote in the Ekklesia	0.0	1.0	1.0	-
+*-*-F-*-*-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=any | wealth=any	eleutheroi	Exemption from manual labor	1.0	0.0	1.0	+
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Access to religious rites	0.0	1.0	1.0	-
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Political power	1.0	0.0	1.0	+
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Right to a legal trial	1.0	0.0	1.0	+
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Right to address the assembly	0.0	1.0	1.0	-
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Right to bodily autonomy	1.0	0.0	1.0	+
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Right to citizenship	0.0	1.0	1.0	-
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Right to freedom of movement	0.0	1.0	1.0	-
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Right to inherit property	0.0	1.0	1.0	-
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Right to vote in the Ekklesia	1.0	0.0	1.0	+
+*-*-F-*-R-*	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	amyētoi; asebeis; astoi kai metoikoi; eleutheroi; klēronomoi; poiētoi	Protection from enslavement	1.0	0.0	1.0	+
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	plousioi	Right to retain property	0.0	2.0	2.0	--
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	plousioi	Right to a legal trial	0.0	1.0	1.0	-
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	plousioi	Right to dispose of property	0.0	1.0	1.0	-
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	plousioi	Right to inherit property	1.0	0.0	1.0	+
+*-*-F-*-R-H	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	plousioi	Right to remuneration for office	1.0	0.0	1.0	+
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Eligibility for public office	4.0	2.0	6.0	++++--
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Right to remuneration for office	3.0	1.0	4.0	+++-
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Right to vote in the Ekklesia	2.0	2.0	4.0	++--
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Right to citizenship	0.0	2.0	2.0	--
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Exemption from compulsory public financing	1.0	0.0	1.0	+
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Exemption from legal audit	0.0	1.0	1.0	-
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Exemption from manual labor	0.0	1.0	1.0	-
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Exemption from public service financing	1.0	0.0	1.0	+
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Political power	1.0	0.0	1.0	+
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Protection from corporal punishment	1.0	0.0	1.0	+
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Right to address the assembly	1.0	0.0	1.0	+
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Right to bear arms	0.0	1.0	1.0	-
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Right to own property	1.0	0.0	1.0	+
+*-*-F-*-R-L	sex=any | age=any | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	apori; penētes; thētes	Right to retain own earnings	1.0	0.0	1.0	+
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Access to public honors	2.0	0.0	2.0	++
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Right to a legal trial	1.0	1.0	2.0	+-
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Right to citizenship	2.0	0.0	2.0	++
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=any | wealth=any	xenoi; xenos	Access to public honors	0.0	1.0	1.0	-
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Eligibility for public office	1.0	0.0	1.0	+
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Exemption from taxes	1.0	0.0	1.0	+
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Protection from enslavement	0.0	1.0	1.0	-
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Right to own land	0.0	1.0	1.0	-
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Right to retain own earnings	1.0	0.0	1.0	+
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Right to retain property	0.0	1.0	1.0	-
+*-*-F-F-*-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=unspecified | wealth=any	xenoi; xenos	Right to vote in the Ekklesia	1.0	0.0	1.0	+
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Right to citizenship	0.0	3.0	3.0	---
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Protection from enslavement	0.0	2.0	2.0	--
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Access to religious rites	0.0	1.0	1.0	-
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Exemption from taxes	0.0	1.0	1.0	-
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Political power	0.0	1.0	1.0	-
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Protection from corporal punishment	1.0	0.0	1.0	+
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Right to a legal trial	0.0	1.0	1.0	-
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Right to marry	0.0	1.0	1.0	-
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Right to own land	0.0	1.0	1.0	-
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Right to reside in the city	0.0	1.0	1.0	-
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Right to retain own earnings	0.0	1.0	1.0	-
+*-*-F-F-R-*	sex=any | age=any | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	metoikoi; metoikos; xenoi	Right to retain property	0.0	1.0	1.0	-
+*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=any	metroxenoi; nothoi; nothos	Right to citizenship	0.0	2.0	2.0	--
+*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=any	metroxenoi; nothoi; nothos	Right to vote in the Ekklesia	0.0	2.0	2.0	--
+*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=unspecified	metroxenoi; nothoi; nothos	Eligibility for public office	0.0	1.0	1.0	-
+*-*-F-M-R-*	sex=any | age=any | ownership_status=free | ancestry=mixed | residence=resident | wealth=unspecified	metroxenoi; nothoi; nothos	Right to citizenship	0.0	1.0	1.0	-
+*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=any		Right to inherit property	1.0	0.0	1.0	+
+*-*-F-N-*-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=any		Right to retain own earnings	0.0	1.0	1.0	-
+*-*-F-N-N-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	phugas	Protection from enslavement	2.0	0.0	2.0	++
+*-*-F-N-N-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	phugas	Protection from arbitrary banishment	1.0	0.0	1.0	+
+*-*-F-N-N-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=non_resident | wealth=any	phugas	Protection from capital punishment	1.0	0.0	1.0	+
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Right to a legal trial	3.0	0.0	3.0	+++
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Eligibility for public office	2.0	0.0	2.0	++
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Access to public honors	1.0	0.0	1.0	+
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Protection from capital punishment	0.0	1.0	1.0	-
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Protection from enslavement	1.0	0.0	1.0	+
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Right to address the assembly	0.0	1.0	1.0	-
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Right to citizenship	0.0	1.0	1.0	-
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Right to remuneration for office	1.0	0.0	1.0	+
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Right to reside in the city	0.0	1.0	1.0	-
+*-*-F-N-R-*	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	Athēnaioi; ebigoni; enageis	Right to retain own earnings	0.0	1.0	1.0	-
+*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	eupatridai; genē	Access to public honors	1.0	0.0	1.0	+
+*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	eupatridai; genē	Political power	1.0	0.0	1.0	+
+*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	eupatridai; genē	Protection from arbitrary banishment	0.0	1.0	1.0	-
+*-*-F-N-R-H	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	eupatridai; genē	Right to dispose of property	1.0	0.0	1.0	+
+*-*-F-N-R-L	sex=any | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=low	dysgeneis	Eligibility for public office	1.0	0.0	1.0	+
+*-A-*-*-R-*	sex=any | age=adult | ownership_status=any | ancestry=unspecified | residence=resident | wealth=unspecified		Protection from capital punishment	0.0	1.0	1.0	-
+*-A-*-*-R-L	sex=any | age=adult | ownership_status=any | ancestry=any | residence=resident | wealth=low	banausoi	Access to religious rites	1.0	0.0	1.0	+
+*-A-F-*-*-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=high	naukleros	Right to a legal trial	1.0	0.0	1.0	+
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	atheoi; iatroi; kakountes tous goneis; pepaideumenoi; philosophoi; philosophos	Protection from legal prosecution	0.0	2.0	2.0	--
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	atheoi; iatroi; kakountes tous goneis; pepaideumenoi; philosophoi; philosophos	Right to citizenship	0.0	1.0	1.0	-
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	atheoi; iatroi; kakountes tous goneis; pepaideumenoi; philosophoi; philosophos	Right to reside in the city	0.0	1.0	1.0	-
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	atheoi; iatroi; kakountes tous goneis; pepaideumenoi; philosophoi; philosophos	Right to retain own earnings	1.0	0.0	1.0	+
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	atheoi; iatroi; kakountes tous goneis; pepaideumenoi; philosophoi; philosophos	Access to public honors	1.0	0.0	1.0	+
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	atheoi; iatroi; kakountes tous goneis; pepaideumenoi; philosophoi; philosophos	Eligibility for public office	0.0	1.0	1.0	-
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	atheoi; iatroi; kakountes tous goneis; pepaideumenoi; philosophoi; philosophos	Right to professional judgement	1.0	0.0	1.0	+
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	atheoi; iatroi; kakountes tous goneis; pepaideumenoi; philosophoi; philosophos	Right to reside in the city	0.0	1.0	1.0	-
+*-A-F-*-R-*	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	atheoi; iatroi; kakountes tous goneis; pepaideumenoi; philosophoi; philosophos	Right to reside in the city	0.0	1.0	1.0	-
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Exemption from compulsory public financing	1.0	12.0	13.0	+------------
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Right to retain property	3.0	6.0	9.0	+++------
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Eligibility for public office	4.0	1.0	5.0	++++-
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Exemption from taxes	0.0	5.0	5.0	-----
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Right to retain own earnings	0.0	4.0	4.0	----
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Political power	3.0	0.0	3.0	+++
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Protection from capital punishment	2.0	1.0	3.0	++-
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Right to retain property	1.0	0.0	1.0	+
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Access to the gymnasium	1.0	0.0	1.0	+
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Exemption from manual labor	1.0	0.0	1.0	+
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Protection from public libel	0.0	1.0	1.0	-
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Right to citizenship	1.0	0.0	1.0	+
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Right to inherit property	0.0	1.0	1.0	-
+*-A-F-*-R-H	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	eupatridai; geōmoroi; plousioi	Right to own land	0.0	1.0	1.0	-
+*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	misthōtoi; opheiletai	Eligibility for public office	0.0	1.0	1.0	-
+*-A-F-*-R-L	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=low	misthōtoi; opheiletai	Political power	0.0	1.0	1.0	-
+*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	banausoi; emporos	Exemption from military service	2.0	0.0	2.0	++
+*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	banausoi; emporos	Eligibility for public office	0.0	1.0	1.0	-
+*-A-F-*-R-M	sex=any | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=middle	banausoi; emporos	Right to a legal trial	1.0	0.0	1.0	+
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	apeleutheros; metoikos	Eligibility for public office	0.0	2.0	2.0	--
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	apeleutheros; metoikos	Political power	0.0	2.0	2.0	--
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	apeleutheros; metoikos	Right to a legal trial	1.0	1.0	2.0	+-
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	apeleutheros; metoikos	Right to own land	0.0	2.0	2.0	--
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	apeleutheros; metoikos	Exemption from taxes	0.0	1.0	1.0	-
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	apeleutheros; metoikos	Protection from capital punishment	1.0	0.0	1.0	+
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	apeleutheros; metoikos	Right to address the assembly	0.0	1.0	1.0	-
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any	apeleutheros; metoikos	Right to freedom of movement	0.0	1.0	1.0	-
+*-A-F-F-R-*	sex=any | age=adult | ownership_status=freed | ancestry=foreign | residence=resident | wealth=any	apeleutheros; metoikos	Protection from legal prosecution	0.0	1.0	1.0	-
+*-A-F-N-R-*	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	hiereis	Exemption from legal audit	0.0	1.0	1.0	-
+*-A-F-N-R-*	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	hiereis	Access to religious rites	1.0	0.0	1.0	+
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	penētes; plēthos	Eligibility for public office	1.0	0.0	1.0	+
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	penētes; plēthos	Protection from enslavement	0.0	1.0	1.0	-
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	penētes; plēthos	Right to bear arms	0.0	1.0	1.0	-
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	penētes; plēthos	Right to reside in the city	0.0	1.0	1.0	-
+*-A-F-N-R-L	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	penētes; plēthos	Right to vote in the Ekklesia	1.0	0.0	1.0	+
+*-A-F-N-R-M	sex=any | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	zeugitai	Political power	1.0	0.0	1.0	+
+*-E-*-*-*-*	sex=any | age=elder | ownership_status=any | ancestry=unspecified | residence=any | wealth=any	gerontes	Right to speak first in assembly	1.0	0.0	1.0	+
+*-M-*-*-R-*	sex=any | age=minor | ownership_status=unspecified | ancestry=unspecified | residence=resident | wealth=unspecified	paides	Right to inherit property	1.0	0.0	1.0	+
+*-M-E-*-R-L	sex=any | age=minor | ownership_status=enslaved | ancestry=any | residence=resident | wealth=low	oikogenes	Protection from enslavement	0.0	1.0	1.0	-
+*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	paideia; paides	Access to the gymnasium	1.0	0.0	1.0	+
+*-M-F-*-R-*	sex=any | age=minor | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	paideia; paides	Eligibility for public office	0.0	1.0	1.0	-
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Access to public honors	2.0	1.0	3.0	++-
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Protection from capital punishment	2.0	1.0	3.0	++-
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Eligibility for public office	0.0	2.0	2.0	--
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Protection from corporal punishment	1.0	1.0	2.0	+-
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	orphanoi; paides; pais	Protection from legal prosecution	1.0	0.0	1.0	+
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	orphanoi; paides; pais	Right to citizenship	0.0	1.0	1.0	-
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Access to the gymnasium	1.0	0.0	1.0	+
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Exemption from taxes	1.0	0.0	1.0	+
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Political power	0.0	1.0	1.0	-
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Protection from legal prosecution	1.0	0.0	1.0	+
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Right to address the assembly	0.0	1.0	1.0	-
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Right to bodily autonomy	0.0	1.0	1.0	-
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Right to citizenship	1.0	0.0	1.0	+
+*-M-F-N-R-*	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	orphanoi; paides; pais	Right to freedom of movement	0.0	1.0	1.0	-
+*-M-F-N-R-L	sex=any | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=low	orphanoi	Right to bear arms	1.0	0.0	1.0	+
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to a dowry	7.0	0.0	7.0	+++++++
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to bodily autonomy	3.0	2.0	5.0	+++--
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Political power	0.0	3.0	3.0	---
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to retain property	3.0	0.0	3.0	+++
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to retain own earnings	1.0	1.0	2.0	+-
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	gynaikes	Political power	0.0	1.0	1.0	-
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=any | residence=resident | wealth=any	gynaikes	Right to retain property	1.0	0.0	1.0	+
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Access to religious rites	1.0	0.0	1.0	+
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Access to the gymnasium	0.0	1.0	1.0	-
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Eligibility for public office	0.0	1.0	1.0	-
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Protection from legal prosecution	0.0	1.0	1.0	-
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Protection from public libel	0.0	1.0	1.0	-
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to a legal trial	0.0	1.0	1.0	-
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to address the assembly	1.0	0.0	1.0	+
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to freedom of movement	0.0	1.0	1.0	-
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to inherit property	0.0	1.0	1.0	-
+F-*-*-*-R-*	sex=female | age=any | ownership_status=any | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to own property	1.0	0.0	1.0	+
+F-*-F-*-R-*	sex=female | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	gynaikes	Right to dispose of property	0.0	1.0	1.0	-
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	astē; epiklēros; gnēsiai; gynaikes; korē	Right to a dowry	2.0	0.0	2.0	++
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	astē; epiklēros; gnēsiai; gynaikes; korē	Right to bodily autonomy	1.0	1.0	2.0	+-
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	astē; epiklēros; gnēsiai; gynaikes; korē	Right to inherit property	1.0	1.0	2.0	+-
+F-*-F-N-R-*	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=unspecified	astē; epiklēros; gnēsiai; gynaikes; korē	Access to religious rites	0.0	1.0	1.0	-
+F-*-F-N-R-H	sex=female | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=high	epiklēros	Right to a legal trial	1.0	0.0	1.0	+
+F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to a dowry	1.0	0.0	1.0	+
+F-A-F-*-R-*	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	gynaikes	Right to retain property	1.0	0.0	1.0	+
+F-A-F-*-R-H	sex=female | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high		Right to bodily autonomy	1.0	0.0	1.0	+
+M-*-F-*-R-*	sex=male | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	hyioi poiētoi	Right to inherit property	3.0	0.0	3.0	+++
+M-*-F-*-R-*	sex=male | age=any | ownership_status=free | ancestry=any | residence=resident | wealth=any	hyioi poiētoi	Political power	1.0	0.0	1.0	+
+M-*-F-N-*-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=unspecified | wealth=any	ekgonoi	Right to inherit property	1.0	0.0	1.0	+
+M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	gnēsioi	Right to inherit property	3.0	0.0	3.0	+++
+M-*-F-N-R-*	sex=male | age=any | ownership_status=free | ancestry=native | residence=resident | wealth=any	gnēsioi	Eligibility for public office	0.0	1.0	1.0	-
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	andres; anēr	Eligibility for public office	1.0	1.0	2.0	+-
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	andres; anēr	Right to citizenship	1.0	1.0	2.0	+-
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	andres; anēr	Access to religious rites	0.0	1.0	1.0	-
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	andres; anēr	Exemption from legal audit	1.0	0.0	1.0	+
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	andres; anēr	Political power	0.0	1.0	1.0	-
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	andres; anēr	Right to address the assembly	0.0	1.0	1.0	-
+M-A-*-*-*-*	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=any	andres; anēr	Right to bodily autonomy	0.0	1.0	1.0	-
+M-A-*-*-*-L	sex=male | age=adult | ownership_status=any | ancestry=any | residence=any | wealth=low	nautai	Protection from corporal punishment	0.0	1.0	1.0	-
+M-A-E-F-R-L	sex=male | age=adult | ownership_status=enslaved | ancestry=foreign | residence=resident | wealth=low	toxotai	Political power	1.0	0.0	1.0	+
+M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=any | wealth=any	patēr; stratiōtai	Right to citizenship	1.0	0.0	1.0	+
+M-A-F-*-*-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=unspecified | wealth=any	patēr; stratiōtai	Access to the gymnasium	1.0	0.0	1.0	+
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	anēr; eleutheroi; poiētēs	Protection from corporal punishment	2.0	0.0	2.0	++
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	anēr; eleutheroi; poiētēs	Eligibility for public office	1.0	0.0	1.0	+
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=any	anēr; eleutheroi; poiētēs	Political power	1.0	0.0	1.0	+
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	anēr; eleutheroi; poiētēs	Protection from public libel	1.0	0.0	1.0	+
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	anēr; eleutheroi; poiētēs	Right to a legal trial	0.0	1.0	1.0	-
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=any	anēr; eleutheroi; poiētēs	Right to valid professional opinion	1.0	0.0	1.0	+
+M-A-F-*-R-*	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=unspecified	anēr; eleutheroi; poiētēs	Right to retain property	1.0	0.0	1.0	+
+M-A-F-*-R-H	sex=male | age=adult | ownership_status=free | ancestry=unspecified | residence=resident | wealth=high	kaloi kagathoi	Access to specialized instruction	0.0	1.0	1.0	-
+M-A-F-*-R-L	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=low	rhapsōdos	Access to religious rites	1.0	0.0	1.0	+
+M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	sophistēs; telōnai	Right to retain own earnings	1.0	0.0	1.0	+
+M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	sophistēs; telōnai	Right to retain property	0.0	1.0	1.0	-
+M-A-F-*-R-M	sex=male | age=adult | ownership_status=free | ancestry=any | residence=resident | wealth=middle	sophistēs; telōnai	Right to valid professional opinion	1.0	0.0	1.0	+
+M-A-F-F-R-*	sex=male | age=adult | ownership_status=free | ancestry=foreign | residence=resident | wealth=any		Right to vote in the Ekklesia	1.0	0.0	1.0	+
+M-A-F-M-R-*	sex=male | age=adult | ownership_status=free | ancestry=mixed | residence=resident | wealth=any	nothoi	Eligibility for public office	0.0	1.0	1.0	-
+M-A-F-N-*-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=any | wealth=any	lipotaktai	Right to citizenship	0.0	1.0	1.0	-
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to a legal trial	31.0	0.0	31.0	+++++++++++++++++++++++++++++++
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Eligibility for public office	23.0	3.0	26.0	+++++++++++++++++++++++---
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to address the assembly	7.0	9.0	16.0	+++++++---------
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Political power	14.0	0.0	14.0	++++++++++++++
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to vote in the Ekklesia	11.0	0.0	11.0	+++++++++++
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to remuneration for office	10.0	0.0	10.0	++++++++++
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to citizenship	4.0	5.0	9.0	++++-----
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Protection from legal prosecution	6.0	2.0	8.0	++++++--
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to reside in the city	3.0	5.0	8.0	+++-----
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Access to religious rites	2.0	5.0	7.0	++-----
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Access to public honors	3.0	3.0	6.0	+++---
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Protection from capital punishment	3.0	3.0	6.0	+++---
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Protection from enslavement	5.0	0.0	5.0	+++++
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to bear arms	2.0	3.0	5.0	++---
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to retain property	2.0	3.0	5.0	++---
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Access to the gymnasium	3.0	0.0	3.0	+++
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Exemption from compulsory public financing	1.0	2.0	3.0	+--
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Protection from corporal punishment	2.0	1.0	3.0	++-
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to adopt	2.0	1.0	3.0	++-
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to bodily autonomy	2.0	1.0	3.0	++-
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to burial	1.0	2.0	3.0	+--
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Exemption from manual labor	1.0	1.0	2.0	+-
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Protection from arbitrary banishment	1.0	1.0	2.0	+-
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to free speech	2.0	0.0	2.0	++
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to inherit property	2.0	0.0	2.0	++
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Exemption from legal audit	1.0	0.0	1.0	+
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Protection from public libel	1.0	0.0	1.0	+
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to dispose of property	1.0	0.0	1.0	+
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to freedom of movement	1.0	0.0	1.0	+
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to own land	0.0	1.0	1.0	-
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to own property	1.0	0.0	1.0	+
+M-A-F-N-R-*	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=any	agroikoi; astoi; athenaioi; ephēbos; idiōtēs; peporneumenoi; poiētēs; politai; polites; politēs; polītes; rhētores; rhētōres	Right to retain own earnings	0.0	1.0	1.0	-
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Eligibility for public office	10.0	0.0	10.0	++++++++++
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Exemption from compulsory public financing	0.0	8.0	8.0	--------
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Protection from arbitrary banishment	0.0	3.0	3.0	---
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Right to retain property	0.0	2.0	2.0	--
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Exemption from manual labor	0.0	1.0	1.0	-
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Exemption from taxes	0.0	1.0	1.0	-
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Protection from public libel	1.0	0.0	1.0	+
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Right to citizenship	0.0	1.0	1.0	-
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Right to reside in the city	0.0	1.0	1.0	-
+M-A-F-N-R-H	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=high	dynastai; eupatridai; gnorimoi; gnōrimoi; kaloi kagathoi; pentakosiomedimnoi; plousioi	Right to retain own earnings	0.0	1.0	1.0	-
+M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	adunatoi; adynatoi; plēthos; thēs; thētes	Eligibility for public office	1.0	3.0	4.0	+---
+M-A-F-N-R-L	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=low	adunatoi; adynatoi; plēthos; thēs; thētes	Right to remuneration for office	2.0	0.0	2.0	++
+M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	zeugitai; zeugitēs	Eligibility for public office	2.0	0.0	2.0	++
+M-A-F-N-R-M	sex=male | age=adult | ownership_status=free | ancestry=native | residence=resident | wealth=middle	zeugitai; zeugitēs	Right to vote in the Ekklesia	1.0	0.0	1.0	+
+M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	diaitetai; diaitētai; gerontes	Eligibility for public office	0.0	1.0	1.0	-
+M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	diaitetai; diaitētai; gerontes	Exemption from compulsory public financing	0.0	1.0	1.0	-
+M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	diaitetai; diaitētai; gerontes	Exemption from manual labor	0.0	1.0	1.0	-
+M-E-F-N-R-*	sex=male | age=elder | ownership_status=free | ancestry=native | residence=resident | wealth=any	diaitetai; diaitētai; gerontes	Right to retain property	1.0	0.0	1.0	+
+M-M-F-N-R-*	sex=male | age=minor | ownership_status=free | ancestry=native | residence=resident | wealth=any	paides	Access to public honors	1.0	0.0	1.0	+

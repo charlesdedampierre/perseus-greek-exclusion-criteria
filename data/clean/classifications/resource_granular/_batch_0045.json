@@ -1,0 +1,151 @@
+{
+  "batch_idx": 45,
+  "rule_ids": [
+    "tlg0059.tlg036.perseus-eng2::8",
+    "tlg0059.tlg036.perseus-eng2::9",
+    "tlg0059.tlg036.perseus-eng2::11",
+    "tlg0059.tlg036.perseus-eng2::15",
+    "tlg0059.tlg036.perseus-eng2::16",
+    "tlg0059.tlg036.perseus-eng2::17",
+    "tlg0059.tlg036.perseus-eng2::18",
+    "tlg0059.tlg036.perseus-eng2::26",
+    "tlg0059.tlg036.perseus-eng2::27",
+    "tlg0062.tlg001.perseus-eng2::1",
+    "tlg0062.tlg001.perseus-eng2::3",
+    "tlg0062.tlg008.perseus-eng2::0",
+    "tlg0062.tlg008.perseus-eng2::1",
+    "tlg0062.tlg008.perseus-eng2::4",
+    "tlg0062.tlg011.perseus-eng2::0",
+    "tlg0062.tlg011.perseus-eng2::1",
+    "tlg0062.tlg015.perseus-eng4::0",
+    "tlg0062.tlg015.perseus-eng4::1",
+    "tlg0062.tlg015.perseus-eng4::2",
+    "tlg0062.tlg015.perseus-eng4::3"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "The verbatim describes a citizen being fetched by force to be put to death without mention of a verdict."
+    },
+    {
+      "i": 1,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "Explicitly mentions being summoned 'before the law-courts' to answer a charge."
+    },
+    {
+      "i": 2,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "Discusses using 'compulsion' (physical force or punishment) against a slave versus a free person."
+    },
+    {
+      "i": 3,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Relates to the management and enjoyment of income from one's own property while in exile."
+    },
+    {
+      "i": 4,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "The soldiers processed against an attempt to 'reduce the pay' they were contracted to receive."
+    },
+    {
+      "i": 5,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "The ruler 'refrained from killing' the guest despite suspicions of conspiracy."
+    },
+    {
+      "i": 6,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Explicitly mentions the right of an exile to be 'enjoying the income from his property'."
+    },
+    {
+      "i": 7,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "Discusses the burden of 'furnishing a chorus' (a liturgy) and the lack of friends to help with costs."
+    },
+    {
+      "i": 8,
+      "right": "Right to a dowry",
+      "parent_meta": "Right to a dowry",
+      "reasoning": "The text specifies the need to give 'portions' (dowries) to nieces for marriage."
+    },
+    {
+      "i": 9,
+      "right": "Right of residence",
+      "parent_meta": "Right to reside in the city",
+      "reasoning": "Refers to the treatment of 'strangers' and 'visitors' and speeding them on their way with honors."
+    },
+    {
+      "i": 10,
+      "right": "Access to public subsidies",
+      "parent_meta": "Access to public honors",
+      "reasoning": "The people of Delphi depend on temple worshippers as their 'revenue' and 'subsistence'."
+    },
+    {
+      "i": 11,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "Concerns the charge of being 'uninitiated in the Eleusinian mysteries' and the choice to join them."
+    },
+    {
+      "i": 12,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "Concerns the charge of 'never having offered sacrifice' to the civic deity."
+    },
+    {
+      "i": 13,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Explicitly mentions being honored with 'Roman citizenship'."
+    },
+    {
+      "i": 14,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "reasoning": "The verbatim states the city was 'relieved of taxation'."
+    },
+    {
+      "i": 15,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "The trial for 'feeble-mindedness' was an attempt by a son to seize legal control of the father's estate."
+    },
+    {
+      "i": 16,
+      "right": "Right to attend public meals",
+      "parent_meta": "Access to public honors",
+      "is_new": true,
+      "reasoning": "Describes the gendered seating arrangements and access to a shared formal banquet."
+    },
+    {
+      "i": 17,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Concerns 'etiquette' and 'due precedence' in seating based on priesthood and blood."
+    },
+    {
+      "i": 18,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "Discusses being a 'selected bridegroom' based on status and inheritance."
+    },
+    {
+      "i": 19,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Concerns priority of seating 'in virtue of his years' (seniority)."
+    }
+  ],
+  "input_tokens": 5223,
+  "output_tokens": 1026,
+  "status": "ok"
+}

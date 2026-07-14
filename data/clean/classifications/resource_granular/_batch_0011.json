@@ -1,0 +1,151 @@
+{
+  "batch_idx": 11,
+  "rule_ids": [
+    "tlg0086.tlg035.perseus-eng2::123",
+    "tlg0086.tlg035.perseus-eng2::124",
+    "tlg0086.tlg035.perseus-eng2::125",
+    "tlg0086.tlg035.perseus-eng2::127",
+    "tlg0086.tlg035.perseus-eng2::128",
+    "tlg0086.tlg035.perseus-eng2::130",
+    "tlg0086.tlg035.perseus-eng2::131",
+    "tlg0086.tlg035.perseus-eng2::133",
+    "tlg0086.tlg035.perseus-eng2::134",
+    "tlg0086.tlg035.perseus-eng2::135",
+    "tlg0086.tlg035.perseus-eng2::136",
+    "tlg0086.tlg035.perseus-eng2::137",
+    "tlg0086.tlg035.perseus-eng2::138",
+    "tlg0086.tlg035.perseus-eng2::139",
+    "tlg0086.tlg035.perseus-eng2::140",
+    "tlg0086.tlg035.perseus-eng2::141",
+    "tlg0086.tlg035.perseus-eng2::143",
+    "tlg0086.tlg035.perseus-eng2::144",
+    "tlg0086.tlg035.perseus-eng2::145",
+    "tlg0086.tlg035.perseus-eng2::152"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Pay for assembly or jury service",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "The verbatim refers to 'payment for attendance' for the poor in 'democratic states'."
+    },
+    {
+      "i": 1,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Verbatim focuses on citizens 'control[ling] decisions as to war and peace' and audits."
+    },
+    {
+      "i": 2,
+      "right": "Freedom from state supervision",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "Explicitly mentions 'supervision' of women and 'Superintendent of Women' as a magistrate's role."
+    },
+    {
+      "i": 3,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "is_new": false,
+      "reasoning": "The rule describes 'hereditary' office holding with 'supreme control'."
+    },
+    {
+      "i": 4,
+      "right": "Eligibility for jury service",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Verbatim discusses whether 'courts [are] drawn from all the citizens' or a specific class."
+    },
+    {
+      "i": 5,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Relates to the 'share' of power and control based on equality or property."
+    },
+    {
+      "i": 6,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Mentions those superior in birth claiming 'unequal rights' due to 'ancestral virtue'."
+    },
+    {
+      "i": 7,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "reasoning": "Directly mentions the 'custom of temporary banishment' (ostracism) at Argos and Athens."
+    },
+    {
+      "i": 8,
+      "right": "Exemption from military service",
+      "parent_meta": "Exemption from military service",
+      "reasoning": "Discusses the army being 'drawn from a muster-roll' of citizens rather than mercenaries."
+    },
+    {
+      "i": 9,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Discusses property-qualifications for 'hold[ing] office' generally."
+    },
+    {
+      "i": 10,
+      "right": "Right of residence",
+      "parent_meta": "Right to reside in the city",
+      "reasoning": "Describes groups being 'expelled' or 'ejected' from a settlement/country."
+    },
+    {
+      "i": 11,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "The verbatim details a faction arising from a man who was 'rejected in his suit' for daughters/heiresses."
+    },
+    {
+      "i": 12,
+      "right": "Owning land",
+      "parent_meta": "Right to own land",
+      "reasoning": "Describes the 'expelling' of notables and later their claim to the 'country' or land."
+    },
+    {
+      "i": 13,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "Mentions 'imposing public services' (liturgies) and 'confiscating' property/revenues."
+    },
+    {
+      "i": 14,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Mentions 'magistracies are elective' and whether they are based on 'property-assessments'."
+    },
+    {
+      "i": 15,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Verbatim restricts sharing in 'magistracies' to specific family members (fathers/sons/brothers)."
+    },
+    {
+      "i": 16,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Refers to 'membership of the council and the law-courts and tenure of the other offices' based on property."
+    },
+    {
+      "i": 17,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Explicitly mentions the 'property-qualification for honors' being too high."
+    },
+    {
+      "i": 18,
+      "right": "Eligibility for military command",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Specifically names the 'office of general' and the ability to 'serve as generals continuously'."
+    },
+    {
+      "i": 19,
+      "right": "Eligibility for the kingship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Addresses the appointment of a 'king' from 'distinguished' families or those with virtue."
+    }
+  ],
+  "input_tokens": 4655,
+  "output_tokens": 1046,
+  "status": "ok"
+}

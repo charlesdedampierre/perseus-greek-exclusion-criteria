@@ -1,0 +1,371 @@
+{
+  "batch_idx": 21,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Orators and lawyers",
+      "Classical Athens"
+    ],
+    [
+      "The sick",
+      "Classical Athens"
+    ],
+    [
+      "The powerful",
+      "Classical Athens"
+    ],
+    [
+      "Musicians",
+      "Classical Athens"
+    ],
+    [
+      "Religious practitioners",
+      "Classical Athens"
+    ],
+    [
+      "Poets and Legislators",
+      "Classical Greece"
+    ],
+    [
+      "Boys",
+      "Classical Athens"
+    ],
+    [
+      "The elite",
+      "Classical Athens"
+    ],
+    [
+      "Men",
+      "Classical Greece"
+    ],
+    [
+      "Women",
+      "Classical Greece"
+    ],
+    [
+      "Noble men",
+      "Classical Athens"
+    ],
+    [
+      "Doctors",
+      "Classical Athens"
+    ],
+    [
+      "Rhapsodes",
+      "Classical Athens"
+    ],
+    [
+      "Exiled nobles",
+      "Syracuse"
+    ],
+    [
+      "Free men",
+      "Syracuse"
+    ],
+    [
+      "Minors",
+      "Macedonia"
+    ],
+    [
+      "Slaves",
+      "Classical Greece"
+    ],
+    [
+      "Metics",
+      "Syracuse"
+    ],
+    [
+      "Mercenaries",
+      "Syracuse"
+    ],
+    [
+      "Athenians",
+      "Syracuse"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "rhetōr",
+      "requires_rights_definition": false,
+      "emic_label": "rhētores",
+      "criterion_reasoning": "Free adult male native citizens who specialize in public speaking; 'legal' role is professional/vocal rather than an office."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Persons experiencing physical or mental infirmity; a biological state independent of legal standing."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "dynastai",
+      "criterion_reasoning": "Those with significant material resources, social influence, or persuasive capacity (pisteis) in the community."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "mousikos",
+      "requires_rights_definition": false,
+      "emic_label": "mousikoi",
+      "criterion_reasoning": "Vocational role defined by the performance of music or poetry; spans citizens, metics, and slaves."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "priest",
+      "requires_rights_definition": true,
+      "emic_label": "hiereis",
+      "criterion_reasoning": "Religious officials whose status is often tied to specific cultic laws and lineage/office-holding requirements."
+    },
+    {
+      "i": 5,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "poet or legislator",
+      "requires_rights_definition": true,
+      "emic_label": "nomothetai",
+      "criterion_reasoning": "Legislators (nomothetai) are a specific functional office of the state; poets are a vocational role."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "paides",
+      "criterion_reasoning": "Biological and developmental stage; free male offspring of native residents."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "kaloi kagathoi",
+      "criterion_reasoning": "High material wealth and social prestige (e.g. liturgy-payers); observable by lifestyle and economic capacity."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "andres",
+      "criterion_reasoning": "Biological/socially-assigned male sex and adult life-stage."
+    },
+    {
+      "i": 9,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological/socially-assigned female sex and adult life-stage."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eupatridai",
+      "criterion_reasoning": "Men of high-status lineage and high wealth; ancestry and economic status are observable independent of specific rights."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "doctor",
+      "requires_rights_definition": false,
+      "emic_label": "iatroi",
+      "criterion_reasoning": "Vocational role defined by the practice of medicine; can be citizens, metics, or free foreigners."
+    },
+    {
+      "i": 12,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "rhapsode",
+      "requires_rights_definition": false,
+      "emic_label": "rhapsōdos",
+      "criterion_reasoning": "Professional performer of epic poetry; vocational role independent of legal status."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "non_resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "phygiades",
+      "criterion_reasoning": "High-wealth native-born individuals currently residing outside the polity's territory due to expulsion."
+    },
+    {
+      "i": 14,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eleutheroi",
+      "criterion_reasoning": "Adult males not owned as property; includes citizens, metics, and free foreigners."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "paides",
+      "criterion_reasoning": "Developmental life-stage of individuals in Macedonia; non-adult age."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "douloi",
+      "criterion_reasoning": "Individuals owned as property by others; the relational fact of ownership is the primary identifier."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikoi",
+      "criterion_reasoning": "Free residents of Syracuse with foreign genealogical ancestry."
+    },
+    {
+      "i": 18,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "misthophoroi",
+      "criterion_reasoning": "Free foreign adult males whose primary productive role is providing military service for pay."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Athenaioi",
+      "criterion_reasoning": "Free persons of Athenian ancestry residing within the territory of Syracuse (as visitors, captives, or metics)."
+    }
+  ],
+  "input_tokens": 3516,
+  "output_tokens": 3063,
+  "status": "ok"
+}

@@ -1,0 +1,371 @@
+{
+  "batch_idx": 13,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Slaves",
+      "Thebes"
+    ],
+    [
+      "Metics",
+      "Thebes"
+    ],
+    [
+      "Honored male citizens",
+      "Hellenistic Athens"
+    ],
+    [
+      "Slaves",
+      "Hellenistic Athens"
+    ],
+    [
+      "Women",
+      "Stoic Philosophy"
+    ],
+    [
+      "The wealthy",
+      "Hellenistic Rhodes"
+    ],
+    [
+      "Court physicians",
+      "Ptolemaic Egypt"
+    ],
+    [
+      "Foreigners",
+      "Archaic Greece"
+    ],
+    [
+      "Citizens",
+      "Croton"
+    ],
+    [
+      "Women",
+      "Croton"
+    ],
+    [
+      "Free men",
+      "Archaic Greece"
+    ],
+    [
+      "Women",
+      "Archaic Greece"
+    ],
+    [
+      "Maidens",
+      "Classical Agrigentum"
+    ],
+    [
+      "Citizens",
+      "Classical Tarentum"
+    ],
+    [
+      "Nobles",
+      "Archaic Ephesus"
+    ],
+    [
+      "Citizens",
+      "Archaic Ephesus"
+    ],
+    [
+      "Citizens",
+      "Classical Samos"
+    ],
+    [
+      "Citizens",
+      "Classical Elea"
+    ],
+    [
+      "Philosophers",
+      "Classical Greece"
+    ],
+    [
+      "Minors",
+      "Achaemenid Empire"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "Persons owned as property by others in the Boeotian context; defined by the relational fact of being chattel regardless of specific legal protections."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikos",
+      "criterion_reasoning": "Free residents of non-Theban ancestry; identified by the lack of local lineage and physical residence in the territory."
+    },
+    {
+      "i": 2,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Citizens receiving honors; 'honored' is a status granted by the state, implying a rights-mediated recognition of specific individuals within the citizen body."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "doulos",
+      "criterion_reasoning": "Property-status humans in Athens; defined by the relationship of being owned by a master, which exists independently of their specific legal standing."
+    },
+    {
+      "i": 4,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikon",
+      "criterion_reasoning": "Biological/socially-assigned females; in Stoic thought, this is a natural category defined prior to any legal or ethical status."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Individuals with high material-economic position or large landholdings in Rhodes; defined by productive capacity and assets rather than law."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "physician",
+      "requires_rights_definition": true,
+      "emic_label": "archiatros",
+      "criterion_reasoning": "Physicians serving the royal court; the role is a professional appointment within the Ptolemaic state hierarchy, making it rights-dependent."
+    },
+    {
+      "i": 7,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenos",
+      "criterion_reasoning": "Persons not belonging to the local community's ancestral lineage; a genealogical and geographical fact independent of legal status."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Adult free males of native Crotoniate descent; the underlying population eligible for communal identity regardless of specific regime."
+    },
+    {
+      "i": 9,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynē",
+      "criterion_reasoning": "Free females of the Crotoniate community; defined by sex and ancestry rather than legal rights."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eleutheros",
+      "criterion_reasoning": "Males not owned as property; 'free' is defined here by the absence of an ownership relation to another person."
+    },
+    {
+      "i": 11,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "any",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynē",
+      "criterion_reasoning": "Biological females within the Archaic Greek social context."
+    },
+    {
+      "i": 12,
+      "c_sex": "female",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "none",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "parthenos",
+      "criterion_reasoning": "Young, unmarried free women of the community; identified by sex, life-stage (pre-marriage), and ancestry."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Adult free males of Tarentine lineage; the demographic cell that constitutes the body of the polis."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eupatridēs",
+      "criterion_reasoning": "Members of privileged lineages in Archaic Ephesus; defined by descent from founding families and concentrated wealth."
+    },
+    {
+      "i": 15,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free adult native-born males of Ephesus; the basic social unit of the archaic polis."
+    },
+    {
+      "i": 16,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Adult free males of Samian descent; the group identified by ancestry and sex within the Samian state."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free adult native males of Elea; the demographic core defined by lineage, not legal privilege."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "philosopher",
+      "requires_rights_definition": false,
+      "emic_label": "philosophos",
+      "criterion_reasoning": "Individuals engaged in the intellectual vocation of philosophy; a vocational/behavioral role independent of law."
+    },
+    {
+      "i": 19,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "any",
+      "c_ancestry": "any",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Individuals in the developmental life-stage before adulthood within the Achaemenid Empire; a biological/developmental fact."
+    }
+  ],
+  "input_tokens": 3309,
+  "output_tokens": 3138,
+  "status": "ok"
+}

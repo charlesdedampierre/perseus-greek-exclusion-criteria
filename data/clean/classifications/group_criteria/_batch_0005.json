@@ -1,0 +1,371 @@
+{
+  "batch_idx": 5,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Children of one citizen parent",
+      "Classical Athens"
+    ],
+    [
+      "The rich",
+      "Classical Athens"
+    ],
+    [
+      "The free",
+      "Classical Athens"
+    ],
+    [
+      "Free men",
+      "Classical Athens"
+    ],
+    [
+      "Wealthy or noble citizens",
+      "Classical Athens"
+    ],
+    [
+      "Kings",
+      "Non-Greek states"
+    ],
+    [
+      "The multitude (freemen)",
+      "Classical Athens"
+    ],
+    [
+      "The wealthy",
+      "Classical Greece"
+    ],
+    [
+      "The well-to-do",
+      "Classical Greece"
+    ],
+    [
+      "The free-born",
+      "Classical Athens"
+    ],
+    [
+      "Noble families",
+      "Classical Greece"
+    ],
+    [
+      "The poor",
+      "Classical Greece"
+    ],
+    [
+      "Citizens of non-citizen parentage",
+      "Classical Athens"
+    ],
+    [
+      "Heirs of magistrates",
+      "Classical Greece"
+    ],
+    [
+      "Middle class",
+      "Classical Greece"
+    ],
+    [
+      "The poor",
+      "Classical Sparta"
+    ],
+    [
+      "The middle class",
+      "Classical Athens"
+    ],
+    [
+      "The rich",
+      "Classical Sicily (under Charondas' laws)"
+    ],
+    [
+      "The low-born",
+      "Classical Athens"
+    ],
+    [
+      "Rich women",
+      "Classical Athens"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "mixed",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "nothos",
+      "criterion_reasoning": "Persons with only one citizen parent; after Pericles' Law (451 BCE), this genealogical fact usually meant exclusion from full politēs status, regardless of legal rights."
+    },
+    {
+      "i": 1,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Adults possessing significant material assets or land; wealth here is a material fact of productive capacity rather than a legal privilege."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eleutheroi",
+      "criterion_reasoning": "Individuals who are not the property of another person; the status of 'free' is defined by the absence of the master-slave ownership relation."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eleutheroi",
+      "criterion_reasoning": "Adult biological males who are not property; the group is defined by sex and the absence of a servitude relation."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "gnōrimoi",
+      "criterion_reasoning": "Adult native males with high material wealth or distinguished lineage; identifies elite social and economic standing among the native population."
+    },
+    {
+      "i": 5,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "king",
+      "requires_rights_definition": true,
+      "emic_label": "basileis",
+      "criterion_reasoning": "Sovereign office-holders; the role is intrinsically tied to the legal/constitutional structure of the polity, though the occupants are adult free males."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plēthos",
+      "criterion_reasoning": "The mass of free native males, typically those of lower economic status (thētes); identified by population scale and freedom from ownership."
+    },
+    {
+      "i": 7,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "euporoi",
+      "criterion_reasoning": "Individuals with high material-economic accumulation; wealth is treated as an independent variable of productive resources."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "mesoi",
+      "criterion_reasoning": "Persons with sufficient material resources to maintain themselves without manual labor for others, but below the extreme elite."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "eleutheroi",
+      "criterion_reasoning": "Persons born into freedom, never having been enslaved; distinguishes status by birth condition rather than specific legal rights."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "eupatridai",
+      "criterion_reasoning": "Lineages claiming descent from founding or divine ancestors; a genealogical fact independent of current legal office."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "tapinoi",
+      "criterion_reasoning": "Persons with little to no material property, often reliant on daily manual labor; wealth status as a material reality."
+    },
+    {
+      "i": 12,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "mixed",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "nothoi",
+      "criterion_reasoning": "Adult males of mixed ancestry (one parent not a citizen) who might be granted or claim status; ancestry is the independent genealogical criterion."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "unspecified",
+      "c_kinship_role": "heir",
+      "c_occupation": "none",
+      "requires_rights_definition": true,
+      "emic_label": null,
+      "criterion_reasoning": "Successors to legal office-holders; while kinship is a biological fact, 'magistrate' is a legal category, making the group rights-dependent."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "mesoi",
+      "criterion_reasoning": "Persons of moderate material wealth; distinct from the very rich and those in poverty, based on productive assets."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "hypomeiones",
+      "criterion_reasoning": "Spartan-descended individuals who lost economic standing (usually unable to contribute to syssitia); based on material wealth."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "zeugitai",
+      "criterion_reasoning": "Native residents with middle-tier material wealth (e.g., capable of yoking oxen); economic position independent of legal rights."
+    },
+    {
+      "i": 17,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Individuals in Sicilian polities with high material assets; wealth categorized by surplus resources/land."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "dysgeneis",
+      "criterion_reasoning": "Persons lacking distinguished or elite ancestry; a genealogical fact about descent relative to the polity's social hierarchy."
+    },
+    {
+      "i": 19,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Adult biological females with significant material resources or from wealthy households; defined by sex and material status."
+    }
+  ],
+  "input_tokens": 3558,
+  "output_tokens": 3175,
+  "status": "ok"
+}

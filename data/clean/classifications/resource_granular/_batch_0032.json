@@ -1,0 +1,150 @@
+{
+  "batch_idx": 32,
+  "rule_ids": [
+    "tlg0010.tlg010.perseus-eng2::2",
+    "tlg0010.tlg010.perseus-eng2::4",
+    "tlg0010.tlg010.perseus-eng2::5",
+    "tlg0010.tlg011.perseus-eng2::0",
+    "tlg0010.tlg011.perseus-eng2::1",
+    "tlg0010.tlg011.perseus-eng2::3",
+    "tlg0010.tlg013.perseus-eng2::0",
+    "tlg0010.tlg014.perseus-eng2::1",
+    "tlg0010.tlg014.perseus-eng2::3",
+    "tlg0010.tlg014.perseus-eng2::4",
+    "tlg0010.tlg019.perseus-eng2::0",
+    "tlg0010.tlg019.perseus-eng2::1",
+    "tlg0010.tlg019.perseus-eng2::2",
+    "tlg0010.tlg019.perseus-eng2::3",
+    "tlg0010.tlg019.perseus-eng2::4",
+    "tlg0014.tlg001.perseus-eng2::0",
+    "tlg0014.tlg001.perseus-eng2::1",
+    "tlg0014.tlg001.perseus-eng2::2",
+    "tlg0014.tlg001.perseus-eng2::3",
+    "tlg0014.tlg010.perseus-eng2::1"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "reasoning": "verbatim specifies 'no citizen... could leave the country without official authorization'"
+    },
+    {
+      "i": 1,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "the rule concerns the requirement that 'the same individuals should always engage in the same pursuits' vs changing occupations"
+    },
+    {
+      "i": 2,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "verbatim refers to appointing older men to 'have charge of the most important matters'"
+    },
+    {
+      "i": 3,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "the speaker has 'come before you to give my counsels' regarding war and concord"
+    },
+    {
+      "i": 4,
+      "right": "Resident allowance for the poor",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "describes the city as a 'securest refuge' for 'those who are unfortunate', implies public support"
+    },
+    {
+      "i": 5,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "verbatim discusses people being 'robbed by law of their share in the government'"
+    },
+    {
+      "i": 6,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "explicitly mentions 'freedom of speech' (parrhesia) as a privilege of civic life"
+    },
+    {
+      "i": 7,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "reasoning": "verbatim lists 'confiscation of property' as a misfortune from which citizens were protected"
+    },
+    {
+      "i": 8,
+      "right": "Local self-governance",
+      "parent_meta": "Political power",
+      "reasoning": "is_new: false. The rule prohibits 'political societies or unions' without sanction"
+    },
+    {
+      "i": 9,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "reasoning": "discusses 'legitimate birth' and ensuring children are not 'cheated of this noble origin' in succession"
+    },
+    {
+      "i": 10,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "verbatim mentions being 'challenged to an exchange of property on the question of a trierarchy'"
+    },
+    {
+      "i": 11,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "refers to 'granting to the accused the right of making a defense' and hearing both sides"
+    },
+    {
+      "i": 12,
+      "right": "Exemption from taxes",
+      "parent_meta": "Exemption from taxes",
+      "reasoning": "verbatim mentions being enrolled among those who 'pay the war-taxes' (eisphora)"
+    },
+    {
+      "i": 13,
+      "right": "Resident allowance for the poor",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "refers to 'bounties which are distributed by the city' for those 'compelled to get their livelihood' from it"
+    },
+    {
+      "i": 14,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "mentions having 'sat either as arbitrator or as judge' and seeking redress 'in court'"
+    },
+    {
+      "i": 15,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "describes the well-to-do spending a fraction to 'enjoy the residue in security'"
+    },
+    {
+      "i": 16,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "verbatim refers to the 'choice of the best' proposal and an 'idea would be to vote an expedition'"
+    },
+    {
+      "i": 17,
+      "right": "Exemption from legal audit",
+      "parent_meta": "Exemption from legal audit",
+      "reasoning": "statesmen must 'give a ready account of their stewardship' (euthynai)"
+    },
+    {
+      "i": 18,
+      "right": "Access to public subsidies",
+      "parent_meta": "Access to public honors",
+      "reasoning": "verbatim mentions 'appropriate the money for your festivals'"
+    },
+    {
+      "i": 19,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "explicitly mentions 'stripes and bodily outrage' as the necessity of a slave"
+    }
+  ],
+  "input_tokens": 4780,
+  "output_tokens": 1045,
+  "status": "ok"
+}

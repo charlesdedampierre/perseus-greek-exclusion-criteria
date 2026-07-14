@@ -1,0 +1,151 @@
+{
+  "batch_idx": 39,
+  "rule_ids": [
+    "tlg0026.tlg001.perseus-eng2::8",
+    "tlg0026.tlg001.perseus-eng2::9",
+    "tlg0026.tlg001.perseus-eng2::10",
+    "tlg0026.tlg001.perseus-eng2::11",
+    "tlg0026.tlg001.perseus-eng2::12",
+    "tlg0026.tlg001.perseus-eng2::14",
+    "tlg0026.tlg001.perseus-eng2::15",
+    "tlg0026.tlg001.perseus-eng2::16",
+    "tlg0026.tlg001.perseus-eng2::17",
+    "tlg0026.tlg001.perseus-eng2::18",
+    "tlg0026.tlg001.perseus-eng2::19",
+    "tlg0026.tlg001.perseus-eng2::21",
+    "tlg0026.tlg001.perseus-eng2::22",
+    "tlg0026.tlg001.perseus-eng2::23",
+    "tlg0026.tlg001.perseus-eng2::24",
+    "tlg0026.tlg001.perseus-eng2::25",
+    "tlg0026.tlg001.perseus-eng2::26",
+    "tlg0026.tlg001.perseus-eng2::29",
+    "tlg0026.tlg001.perseus-eng2::30",
+    "tlg0026.tlg001.perseus-eng2::32"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The verbatim refers to the \"right to advise\" the state as a speaker requirement linked to military service."
+    },
+    {
+      "i": 1,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "The rule excludes men who have prostituted themselves from the assembly platform."
+    },
+    {
+      "i": 2,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "Mentions excluding men who squandered patrimony from handling the \"affairs of the city\" via the platform."
+    },
+    {
+      "i": 3,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "reasoning": "Source describes a legal challenge (\"suit of scrutiny\") triggered by illegal speaking in the assembly."
+    },
+    {
+      "i": 4,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "Specifies that the invitation \"Who wishes to address the assembly?\" includes even low-status tradesmen."
+    },
+    {
+      "i": 5,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "Threat of the \"lock-up\" for those who \"corrupted a free youth\" protects the status and liberty of the youth."
+    },
+    {
+      "i": 6,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "The verbatim discusses the right of a state slave to \"bring a suit\" and have \"proceedings in court\" through a protector."
+    },
+    {
+      "i": 7,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "The text describes an attempt to \"enslave\" a public slave and the effort to \"secure his freedom.\""
+    },
+    {
+      "i": 8,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "Relates to a suit regarding \"enslavement\" and the securing of \"freedom.\""
+    },
+    {
+      "i": 9,
+      "right": "Right to engage in business",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "Discusses legal penalties for those who \"let himself out for hire\" for sex work."
+    },
+    {
+      "i": 10,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "Explicitly mentions the charge of \"breaking the laws by speaking before the assembly.\""
+    },
+    {
+      "i": 11,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "The verbatim notes that the accused were \"punished with death\" for bribery in the assembly."
+    },
+    {
+      "i": 12,
+      "right": "Resident allowance for the poor",
+      "parent_meta": "Right to remuneration for office",
+      "reasoning": "Describes a law for persons with little property to receive \"two obols each per day for their support.\""
+    },
+    {
+      "i": 13,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Mentions a citizen coming into \"control of the estate\" or household property."
+    },
+    {
+      "i": 14,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "reasoning": "Describes slaves who \"paid a fee\" to masters and could \"do business for themselves.\""
+    },
+    {
+      "i": 15,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "Discusses \"special honorable services\" like being a trierarch or choregus, and avoiding these liabilities."
+    },
+    {
+      "i": 16,
+      "right": "right to audit magistrates",
+      "parent_meta": "Political power",
+      "is_new": true,
+      "reasoning": "The text describes a \"rigorous system of accounting\" and audit (Logistai) for all public officers."
+    },
+    {
+      "i": 17,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "Mentions that laws command thieves who admit guilt \"shall be punished with death.\""
+    },
+    {
+      "i": 18,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Concerns the attempt to \"disfranchise\" a citizen by claiming they were a former slave."
+    },
+    {
+      "i": 19,
+      "right": "Speaking in the assembly",
+      "parent_meta": "Right to address the assembly",
+      "reasoning": "Explicitly mentions the goal to \"deprive him of the right to address the people in assembly.\""
+    }
+  ],
+  "input_tokens": 4721,
+  "output_tokens": 1063,
+  "status": "ok"
+}

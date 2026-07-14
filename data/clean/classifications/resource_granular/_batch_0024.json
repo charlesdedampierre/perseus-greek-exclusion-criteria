@@ -1,0 +1,152 @@
+{
+  "batch_idx": 24,
+  "rule_ids": [
+    "tlg0004.tlg001.perseus-eng2::61",
+    "tlg0004.tlg001.perseus-eng2::62",
+    "tlg0004.tlg001.perseus-eng2::63",
+    "tlg0004.tlg001.perseus-eng2::64",
+    "tlg0004.tlg001.perseus-eng2::65",
+    "tlg0004.tlg001.perseus-eng2::66",
+    "tlg0004.tlg001.perseus-eng2::67",
+    "tlg0004.tlg001.perseus-eng2::68",
+    "tlg0004.tlg001.perseus-eng2::69",
+    "tlg0004.tlg001.perseus-eng2::70",
+    "tlg0004.tlg001.perseus-eng2::71",
+    "tlg0004.tlg001.perseus-eng2::74",
+    "tlg0004.tlg001.perseus-eng2::76",
+    "tlg0004.tlg001.perseus-eng2::77",
+    "tlg0004.tlg001.perseus-eng2::78",
+    "tlg0004.tlg001.perseus-eng2::81",
+    "tlg0004.tlg001.perseus-eng2::82",
+    "tlg0004.tlg001.perseus-eng2::83",
+    "tlg0004.tlg001.perseus-eng2::89",
+    "tlg0004.tlg001.perseus-eng2::91"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "The verbatim refers to being 'sold with all his family' due to debt/cheating revenue, a loss of personal liberty."
+    },
+    {
+      "i": 1,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "reasoning": "The text explicitly states 'on his death left me all he had,' describing a bequest to the speaker."
+    },
+    {
+      "i": 2,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "reasoning": "The user was 'indicted for impiety,' which refers to the initiation of a legal trial process."
+    },
+    {
+      "i": 3,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "The verbatim says he 'married her with his (the master's) consent,' identifying the need for external permission for marriage."
+    },
+    {
+      "i": 4,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "reasoning": "The text describes an attempt to 'indict Aristotle' which he avoided, meaning the focus is on the state's power to prosecute."
+    },
+    {
+      "i": 5,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "The verbatim specifies the girl 'shall be given in marriage to Nicanor,' indicating a lack of choice in the marriage partner."
+    },
+    {
+      "i": 6,
+      "right": "Right to a dowry",
+      "parent_meta": "Right to a dowry",
+      "reasoning": "The text mentions providing a 'talent of silver' and servants to Herpyllis if she 'desires to be married.'"
+    },
+    {
+      "i": 7,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "The verbatim lists several individuals who 'shall be given their freedom,' describing manumission."
+    },
+    {
+      "i": 8,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "The rule states servants 'shall not be sold' and 'shall have their freedom,' protecting against commodity sale/slavery."
+    },
+    {
+      "i": 9,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim concerns the right to 'preside over a school' requiring permission from the Senate and people."
+    },
+    {
+      "i": 10,
+      "right": "Right of residence",
+      "parent_meta": "Right to reside in the city",
+      "reasoning": "The text discusses the 'recall of the philosophers' so they might 'return and live there as before.'"
+    },
+    {
+      "i": 11,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "The text explicitly mentions slaves being 'emancipated' and 'given their freedom.'"
+    },
+    {
+      "i": 12,
+      "right": "Owning land",
+      "parent_meta": "Right to own land",
+      "reasoning": "The text describes holding property 'in joint possession' like a temple, involving ownership and alienation restrictions."
+    },
+    {
+      "i": 13,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "The verbatim specifies individuals shall be 'set free' after further service."
+    },
+    {
+      "i": 14,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "The text discusses being 'not of pure Attic blood' and whether parents were 'free-born' in the context of being an Athenian."
+    },
+    {
+      "i": 15,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "reasoning": "The verbatim notes the person 'was banished' or 'went into exile' as a penalty for a crime."
+    },
+    {
+      "i": 16,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "reasoning": "The text states the father was imprisoned and the 'son fled' (exile) due to a crime."
+    },
+    {
+      "i": 17,
+      "is_new": true,
+      "right": "Right to exercise authority over others",
+      "parent_meta": "Political power",
+      "reasoning": "The verbatim says 'You must obey me' and describing training/teaching children, indicating a form of authoritative resource."
+    },
+    {
+      "i": 18,
+      "is_new": true,
+      "right": "Domestic management authority",
+      "parent_meta": "Political power",
+      "reasoning": "The master 'entrusted his whole household to him' and he 'administered it,' describing the resource of domestic authority."
+    },
+    {
+      "i": 19,
+      "right": "Access to public subsidies",
+      "parent_meta": "Access to public honors",
+      "reasoning": "The text describes the distribution of a large sum of money 'among his fellow-citizens.'"
+    }
+  ],
+  "input_tokens": 4751,
+  "output_tokens": 1130,
+  "status": "ok"
+}

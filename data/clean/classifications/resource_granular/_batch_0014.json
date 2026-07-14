@@ -1,0 +1,151 @@
+{
+  "batch_idx": 14,
+  "rule_ids": [
+    "tlg0086.tlg035.perseus-eng2::221",
+    "tlg0086.tlg035.perseus-eng2::223",
+    "tlg0086.tlg035.perseus-eng2::224",
+    "tlg0086.tlg035.perseus-eng2::231",
+    "tlg0086.tlg035.perseus-eng2::232",
+    "tlg0086.tlg035.perseus-eng2::234",
+    "tlg0540.tlg012.perseus-eng2::0",
+    "tlg0540.tlg012.perseus-eng2::1",
+    "tlg0540.tlg012.perseus-eng2::3",
+    "tlg0540.tlg012.perseus-eng2::5",
+    "tlg0540.tlg012.perseus-eng2::6",
+    "tlg0540.tlg012.perseus-eng2::8",
+    "tlg0540.tlg012.perseus-eng2::9",
+    "tlg0540.tlg012.perseus-eng2::10",
+    "tlg0540.tlg012.perseus-eng2::11",
+    "tlg0540.tlg012.perseus-eng2::12",
+    "tlg0540.tlg012.perseus-eng2::13",
+    "tlg0540.tlg012.perseus-eng2::14",
+    "tlg0007.tlg056.perseus-eng2::0",
+    "tlg0007.tlg056.perseus-eng2::1"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Access to common meals",
+      "parent_meta": "Access to public honors",
+      "reasoning": "The verbatim mentions the promotion to 'reclining at the public meals'."
+    },
+    {
+      "i": 1,
+      "right": "Protection from penal corporal punishment",
+      "parent_meta": "Protection from corporal punishment",
+      "reasoning": "The text specifies offenders 'must be punished with marks of dishonor and with beating'."
+    },
+    {
+      "i": 2,
+      "right": "Access to formal education",
+      "parent_meta": "Access to the gymnasium",
+      "reasoning": "The verbatim refers to the 'training of their children' conducted on a 'public system'."
+    },
+    {
+      "i": 3,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "The passage describes professional performance as 'menial' and not 'proper for free men'."
+    },
+    {
+      "i": 4,
+      "right": "Participation in sacred rites",
+      "parent_meta": "Access to religious rites",
+      "reasoning": "Refers to the assignment of 'competitions and shows' for the pleasure and relaxation of different classes."
+    },
+    {
+      "i": 5,
+      "right": "Access to formal education",
+      "parent_meta": "Access to the gymnasium",
+      "reasoning": "Directly mentions that younger pupils should be 'educated' in specific musical modes."
+    },
+    {
+      "i": 6,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Describes the resolution to 'seize' property and people for the sake of 'getting money'."
+    },
+    {
+      "i": 7,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "Explicitly states he was not 'allowed to be tried and defend himself' before execution."
+    },
+    {
+      "i": 8,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "The verbatim mentions being 'restricted... from attending their councils'."
+    },
+    {
+      "i": 9,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "reasoning": "The text notes that daughters were 'debarred from intended marriage'."
+    },
+    {
+      "i": 10,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "States they 'put to death many of the citizens without a trial'."
+    },
+    {
+      "i": 11,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "Refers to condemning citizens to death 'by a single resolution' rather than a trial."
+    },
+    {
+      "i": 12,
+      "right": "Voting in the assembly",
+      "parent_meta": "Right to vote in the Ekklesia",
+      "reasoning": "Refers to calling the 'Assembly to a debate' and the ability to 'vote in favour'."
+    },
+    {
+      "i": 13,
+      "right": "Protection from execution without trial",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "Mentions those 'put to death untried' versus trying persons 'according to law'."
+    },
+    {
+      "i": 14,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Asks if 'confiscated' property or 'pillaged' houses could be compensated."
+    },
+    {
+      "i": 15,
+      "right": "Right to a public funeral",
+      "parent_meta": "Right to burial",
+      "reasoning": "Explicitly mentions that they 'did not even allow them to be given the customary burial'."
+    },
+    {
+      "i": 16,
+      "right": "Right of residence",
+      "parent_meta": "Right to reside in the city",
+      "reasoning": "Describes being 'formally banished' from the city and living in 'exile'."
+    },
+    {
+      "i": 17,
+      "right": "Possession of arms",
+      "parent_meta": "Right to bear arms",
+      "reasoning": "Mentions being 'deprived of your arms' in a time of peace."
+    },
+    {
+      "i": 18,
+      "right": "Eligibility for public honors",
+      "parent_meta": "Access to public honors",
+      "reasoning": "Refers to taking property in moderation and being 'held in high esteem' or receiving gifts."
+    },
+    {
+      "i": 19,
+      "right": "Eligibility for the consulship",
+      "parent_meta": "Eligibility for public office",
+      "is_new": true,
+      "reasoning": "The verbatim specifically discusses the legal requirements and eligibility to 'stand for the consulship'."
+    }
+  ],
+  "input_tokens": 4920,
+  "output_tokens": 1007,
+  "status": "ok"
+}

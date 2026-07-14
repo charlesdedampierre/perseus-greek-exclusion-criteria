@@ -1,0 +1,170 @@
+{
+  "batch_idx": 42,
+  "rule_ids": [
+    "tlg0027.tlg004.perseus-eng2::2",
+    "tlg0027.tlg004.perseus-eng2::3",
+    "tlg0027.tlg004.perseus-eng2::4",
+    "tlg0027.tlg004.perseus-eng2::5",
+    "tlg0027.tlg004.perseus-eng2::8",
+    "tlg0027.tlg004.perseus-eng2::10",
+    "tlg0027.tlg004.perseus-eng2::11",
+    "tlg0028.tlg003.perseus-eng2::0",
+    "tlg0028.tlg003.perseus-eng2::1",
+    "tlg0030.tlg003.perseus-eng2::0",
+    "tlg0030.tlg003.perseus-eng2::2",
+    "tlg0030.tlg003.perseus-eng2::3",
+    "tlg0030.tlg003.perseus-eng2::4",
+    "tlg0032.tlg009.perseus-eng2::1",
+    "tlg0032.tlg009.perseus-eng2::2",
+    "tlg0032.tlg009.perseus-eng2::4",
+    "tlg0059.tlg006.perseus-eng2::1",
+    "tlg0059.tlg006.perseus-eng2::2",
+    "tlg0059.tlg006.perseus-eng2::3",
+    "tlg0059.tlg006.perseus-eng2::6"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Freedom of choice in marriage",
+      "parent_meta": "Right to bodily autonomy",
+      "is_new": false,
+      "reasoning": "The verbatim refers to the legal entitlement to 'divorce him.'"
+    },
+    {
+      "i": 1,
+      "right": "Protection from arbitrary arrest",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "The text specifies that 'no free man shall be imprisoned or placed in durance.'"
+    },
+    {
+      "i": 2,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "is_new": false,
+      "reasoning": "Refers to a fine for anyone who 'fails to gain one-fifth of the votes' in an arrest/prosecution."
+    },
+    {
+      "i": 3,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Verbatim cites laws forbidding the 'same charge to be brought twice against the same defendant.'"
+    },
+    {
+      "i": 4,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "is_new": false,
+      "reasoning": "Discusses being 'subjected to' the role of 'Choregus,' which is a liturgy."
+    },
+    {
+      "i": 5,
+      "right": "Protection from arbitrary banishment",
+      "parent_meta": "Protection from arbitrary banishment",
+      "is_new": false,
+      "reasoning": "Describes the act of 'ostracizing' individuals as a form of state punishment."
+    },
+    {
+      "i": 6,
+      "right": "Retaining one's own earnings",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": false,
+      "reasoning": "Expenditure is met 'not from monies belonging to the state, but from my own pocket.'"
+    },
+    {
+      "i": 7,
+      "right": "Access to sacred spaces",
+      "parent_meta": "Access to religious rites",
+      "is_new": false,
+      "reasoning": "The law forbids the slayer 'to set foot where he is forbidden to set foot' (sacred/public sites)."
+    },
+    {
+      "i": 8,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "is_new": false,
+      "reasoning": "Discusses whether one should 'suffer punishment' for killing without meaning to."
+    },
+    {
+      "i": 9,
+      "right": "Owning and retaining property",
+      "parent_meta": "Right to retain property",
+      "is_new": false,
+      "reasoning": "The verbatim mentions the right to return a 'slave in question' to the vendor if a disability was not declared."
+    },
+    {
+      "i": 10,
+      "right": "Disposing of property by will",
+      "parent_meta": "Right to dispose of property",
+      "is_new": false,
+      "reasoning": "Verbatim mentions the law 'allows a man to bequeath his property as he wishes' via 'wills.'"
+    },
+    {
+      "i": 11,
+      "right": "Immunity from prosecution",
+      "parent_meta": "Protection from legal prosecution",
+      "is_new": false,
+      "reasoning": "Discusses whether crimes of a slave are the 'responsibility of the master.'"
+    },
+    {
+      "i": 12,
+      "right": "Freedom of movement",
+      "parent_meta": "Right to freedom of movement",
+      "is_new": false,
+      "reasoning": "Verbatim cites a law which 'forbids metics to move in war time.'"
+    },
+    {
+      "i": 13,
+      "right": "Exemption from military service",
+      "parent_meta": "Exemption from military service",
+      "is_new": false,
+      "reasoning": "Directly states that providers of horses/arms shall be 'exempt from personal service.'"
+    },
+    {
+      "i": 14,
+      "right": "Right to a trial",
+      "parent_meta": "Right to a legal trial",
+      "is_new": false,
+      "reasoning": "Discusses not punishing 'prisoners as criminals' and providing them refuge/protection."
+    },
+    {
+      "i": 15,
+      "right": "Protection from private assault",
+      "parent_meta": "Protection from corporal punishment",
+      "is_new": false,
+      "reasoning": "Refers to 'suppliants of the gods' being suffered to go 'whithersoever they wished' without 'violence.'"
+    },
+    {
+      "i": 16,
+      "right": "Access to physical training",
+      "parent_meta": "Access to the gymnasium",
+      "is_new": false,
+      "reasoning": "Mentions youth 'anointing themselves' and 'exercising' in a 'gymnasium.'"
+    },
+    {
+      "i": 17,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "is_new": false,
+      "reasoning": "Mentions a son of a man who 'left a very large property' which was later 'squandered by trustees.'"
+    },
+    {
+      "i": 18,
+      "right": "Right to engage in business",
+      "parent_meta": "Right to retain own earnings",
+      "is_new": false,
+      "reasoning": "Uses the word 'office' and 'art' for the practice of midwifery by older women."
+    },
+    {
+      "i": 19,
+      "right": "Access to physical training",
+      "parent_meta": "Access to the gymnasium",
+      "is_new": false,
+      "reasoning": "Discusses preserving the body through 'gymnastic exercises and motions.'"
+    }
+  ],
+  "input_tokens": 4621,
+  "output_tokens": 1192,
+  "status": "ok"
+}

@@ -1,0 +1,371 @@
+{
+  "batch_idx": 0,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Greeks",
+      "Roman Empire"
+    ],
+    [
+      "Citizens of Greek city-states",
+      "Roman Empire"
+    ],
+    [
+      "Nobles",
+      "Roman Empire"
+    ],
+    [
+      "Citizens",
+      "Roman Empire"
+    ],
+    [
+      "Foreigners",
+      "Hellenistic Greece"
+    ],
+    [
+      "Nobles",
+      "Classical Sparta"
+    ],
+    [
+      "Citizens",
+      "Classical Athens"
+    ],
+    [
+      "The wealthy",
+      "Classical Athens"
+    ],
+    [
+      "State debtors",
+      "Classical Athens"
+    ],
+    [
+      "Aliens",
+      "Classical Athens"
+    ],
+    [
+      "Freedom claimants",
+      "Classical Athens"
+    ],
+    [
+      "Wives",
+      "Classical Athens"
+    ],
+    [
+      "Naturalized citizens",
+      "Classical Athens"
+    ],
+    [
+      "Slaves",
+      "Classical Athens"
+    ],
+    [
+      "The poor",
+      "Classical Athens"
+    ],
+    [
+      "Resident aliens",
+      "Classical Athens"
+    ],
+    [
+      "Foreigners",
+      "Athenian Empire"
+    ],
+    [
+      "Choragi and Trierarchs",
+      "Classical Athens"
+    ],
+    [
+      "Royal claimants",
+      "Mythological / legendary setting"
+    ],
+    [
+      "Statesmen",
+      "Classical Greece"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "foreign",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "Graeci",
+      "criterion_reasoning": "Ethnocultural grouping based on language and ancestry from the Greek East, distinct from Roman/Latian origins."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politai",
+      "criterion_reasoning": "Adult free males born to parent(s) of a specific Greek polis; membership is defined by local descent and free status regardless of Roman oversight."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "nobiles",
+      "criterion_reasoning": "High-status individuals with ancestral history of holding high office, typically associated with high wealth and inherited prestige."
+    },
+    {
+      "i": 3,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "mixed",
+      "c_residence": "any",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "cives Romani",
+      "criterion_reasoning": "Free males of Roman descent or those granted membership; can be picked out by personal status as free non-aliens in the Roman context."
+    },
+    {
+      "i": 4,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Free persons physically present in a Greek city-state who lack local ancestral descent."
+    },
+    {
+      "i": 5,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "soldier",
+      "requires_rights_definition": false,
+      "emic_label": "homoioi",
+      "criterion_reasoning": "The 'Equals' or Spartan elite; adult males of Spartan descent who have completed the agoge and contribute to syssitia."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "politēs",
+      "criterion_reasoning": "Free adult male born of two Athenian parents; criteria based on descent and life-stage rather than specific rights held."
+    },
+    {
+      "i": 7,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Individuals with high material-economic resources or land yield, capable of self-funding liturgies."
+    },
+    {
+      "i": 8,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": "opheilōn tō dēmosiō",
+      "criterion_reasoning": "Defined by a specific legal-financial relation to the treasury; requires reference to the state's accounting/penal system."
+    },
+    {
+      "i": 9,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Free persons of non-Athenian descent physically located within the borders of Attica."
+    },
+    {
+      "i": 10,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "unspecified",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": null,
+      "criterion_reasoning": "Individuals whose status as free or enslaved is under legal dispute; status is intrinsically tied to a court claim/legal process."
+    },
+    {
+      "i": 11,
+      "c_sex": "female",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "spouse",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Adult females in a relational marital union; identifiable by social/kinship role regardless of legal standing."
+    },
+    {
+      "i": 12,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": "poiētos politēs",
+      "criterion_reasoning": "Foreigners granted citizen status by decree; inclusion is entirely a product of the rights system (artificial ancestry)."
+    },
+    {
+      "i": 13,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "enslaved",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "douloi",
+      "criterion_reasoning": "Persons owned as property by another, subject to coercion and sale; a relational material fact."
+    },
+    {
+      "i": 14,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "penētes",
+      "criterion_reasoning": "Persons with little to no property who must work for a living; defined by material scarcity and economic role."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metoikoi",
+      "criterion_reasoning": "Free non-natives living long-term in Attica; ancestry and geography are the primary separators."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "foreign",
+      "c_residence": "non_resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "xenoi",
+      "criterion_reasoning": "Persons of non-Athenian ancestry living outside Attica but within the sphere of the Empire."
+    },
+    {
+      "i": 17,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": true,
+      "emic_label": "litourgountes",
+      "criterion_reasoning": "Wealthy citizens performing specific state-mandated financial roles; category is defined by the legal obligation of the liturgy."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "any",
+      "c_wealth": "high",
+      "c_kinship_role": "heir",
+      "c_occupation": "none",
+      "requires_rights_definition": true,
+      "emic_label": null,
+      "criterion_reasoning": "Individuals claiming a right to rule based on lineage; 'claimant' status is inherently relative to a contested right of office."
+    },
+    {
+      "i": 19,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "statesman",
+      "requires_rights_definition": true,
+      "emic_label": "rhētor kai stratēgos",
+      "criterion_reasoning": "Leaders active in deliberation and office; role is defined by participation in the rights-governed political system."
+    }
+  ],
+  "input_tokens": 3571,
+  "output_tokens": 3151,
+  "status": "ok"
+}

@@ -1,0 +1,371 @@
+{
+  "batch_idx": 2,
+  "n_pairs": 20,
+  "pair_keys": [
+    [
+      "Pentacosiomedimni",
+      "Classical Athens"
+    ],
+    [
+      "Eupatridae",
+      "Archaic Athens"
+    ],
+    [
+      "Those not of pure descent",
+      "Archaic Athens"
+    ],
+    [
+      "The poor",
+      "Archaic Athens (Peisistratid)"
+    ],
+    [
+      "Rural citizens",
+      "Archaic Athens (Peisistratid)"
+    ],
+    [
+      "Athenians of 'polluted' lineage",
+      "Archaic Athens"
+    ],
+    [
+      "Citizens",
+      "Classical Athens (Cleisthenic)"
+    ],
+    [
+      "Influential citizens",
+      "Classical Athens"
+    ],
+    [
+      "Ostracized citizens",
+      "Classical Athens"
+    ],
+    [
+      "Citizens in public service",
+      "Classical Athens"
+    ],
+    [
+      "Zeugitae",
+      "Classical Athens"
+    ],
+    [
+      "Persons of mixed parentage",
+      "Classical Athens"
+    ],
+    [
+      "Jurors",
+      "Classical Athens"
+    ],
+    [
+      "Magistrates",
+      "Classical Athens (the Four Hundred)"
+    ],
+    [
+      "The Five Thousand",
+      "Classical Athens (the Five Thousand)"
+    ],
+    [
+      "Minors",
+      "Classical Athens (the Four Hundred)"
+    ],
+    [
+      "The poor",
+      "Classical Athens (the Five Thousand)"
+    ],
+    [
+      "Women",
+      "Classical Athens (the Thirty Tyrants)"
+    ],
+    [
+      "The wealthy",
+      "Classical Athens (the Thirty Tyrants)"
+    ],
+    [
+      "Citizens",
+      "Classical Athens (the Thirty Tyrants)"
+    ]
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "pentakosiomedimnoi",
+      "criterion_reasoning": "Highest Solonic wealth class, defined by land yield of 500+ medimnoi; a material productive capacity independent of legal standing."
+    },
+    {
+      "i": 1,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "unspecified",
+      "requires_rights_definition": false,
+      "emic_label": "eupatridai",
+      "criterion_reasoning": "The 'well-born' nobility; defined by genealogical descent from traditional aristocratic clans, not by specific statutory rights."
+    },
+    {
+      "i": 2,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "mixed",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": null,
+      "criterion_reasoning": "Persons of non-Athenian or mixed parentage; a genealogical and biological fact about ancestry."
+    },
+    {
+      "i": 3,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "apori",
+      "criterion_reasoning": "Defined by lack of material resources/wealth; a socioeconomic status independent of the legal/political system."
+    },
+    {
+      "i": 4,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "farmer",
+      "requires_rights_definition": false,
+      "emic_label": "agroikoi",
+      "criterion_reasoning": "Free native males residing in the rural demes (chora) rather than the city; defined by physical residence and occupation."
+    },
+    {
+      "i": 5,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "enageis",
+      "criterion_reasoning": "Members of families (e.g., Alcmaeonids) considered religiously impure due to ancestral sacrilege; a genealogical/religious distinction."
+    },
+    {
+      "i": 6,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politai",
+      "criterion_reasoning": "Free adult males of native Attic ancestry registered in a deme; criteria are demographic/genealogical."
+    },
+    {
+      "i": 7,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gnorimoi",
+      "criterion_reasoning": "Citizens with high social standing, wealth, or 'notoriety'; defined by informal social capital and material status."
+    },
+    {
+      "i": 8,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "non_resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": "ostrakisthentes",
+      "criterion_reasoning": "Persons expelled via a specific legal procedure; defined by the legal act of ostracism, though the group is adult native males."
+    },
+    {
+      "i": 9,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "public servant",
+      "requires_rights_definition": true,
+      "emic_label": "en tei dēmousiai",
+      "criterion_reasoning": "Citizens currently performing state duties (jury, assembly, office); defined by active legal/political roles."
+    },
+    {
+      "i": 10,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "farmer",
+      "requires_rights_definition": false,
+      "emic_label": "zeugitai",
+      "criterion_reasoning": "Middle wealth class (200-300 medimnoi) able to maintain hoplite equipment; defined by material/productive capacity."
+    },
+    {
+      "i": 11,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "mixed",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "metroxenoi",
+      "criterion_reasoning": "Individuals with only one Athenian parent; a biological and genealogical fact about lineage."
+    },
+    {
+      "i": 12,
+      "c_sex": "male",
+      "c_age": "elder",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "juror",
+      "requires_rights_definition": true,
+      "emic_label": "dikastai",
+      "criterion_reasoning": "Court participants; the role is a legal office/function (must be a citizen over 30)."
+    },
+    {
+      "i": 13,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "magistrate",
+      "requires_rights_definition": true,
+      "emic_label": "archontes",
+      "criterion_reasoning": "Office-holders under oligarchy; group defined by possession of specific governing powers."
+    },
+    {
+      "i": 14,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "middle",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": true,
+      "emic_label": "hoi pentakischilioi",
+      "criterion_reasoning": "A legally designated body of 5,000 citizens based on wealth/equipment; defined by a political decree."
+    },
+    {
+      "i": 15,
+      "c_sex": "any",
+      "c_age": "minor",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "child",
+      "c_occupation": "none",
+      "requires_rights_definition": false,
+      "emic_label": "paides",
+      "criterion_reasoning": "Persons below the age of physical/social maturity; a developmental stage."
+    },
+    {
+      "i": 16,
+      "c_sex": "any",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "low",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "thētes",
+      "criterion_reasoning": "Individuals with low or no land-based wealth; defined by material precarity."
+    },
+    {
+      "i": 17,
+      "c_sex": "female",
+      "c_age": "any",
+      "c_ownership_status": "free",
+      "c_ancestry": "any",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "gynaikes",
+      "criterion_reasoning": "Biological/socially assigned females; a biological fact independent of the political regime."
+    },
+    {
+      "i": 18,
+      "c_sex": "any",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "unspecified",
+      "c_residence": "resident",
+      "c_wealth": "high",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "plousioi",
+      "criterion_reasoning": "Possessors of significant material assets; defined by economic capacity."
+    },
+    {
+      "i": 19,
+      "c_sex": "male",
+      "c_age": "adult",
+      "c_ownership_status": "free",
+      "c_ancestry": "native",
+      "c_residence": "resident",
+      "c_wealth": "any",
+      "c_kinship_role": "unspecified",
+      "c_occupation": "any",
+      "requires_rights_definition": false,
+      "emic_label": "politai",
+      "criterion_reasoning": "Free adult native males; though rights were curtailed by the Thirty, the demographic cell remains consistent."
+    }
+  ],
+  "input_tokens": 3610,
+  "output_tokens": 3131,
+  "status": "ok"
+}

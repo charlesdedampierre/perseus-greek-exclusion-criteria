@@ -1,0 +1,150 @@
+{
+  "batch_idx": 13,
+  "rule_ids": [
+    "tlg0086.tlg035.perseus-eng2::181",
+    "tlg0086.tlg035.perseus-eng2::182",
+    "tlg0086.tlg035.perseus-eng2::183",
+    "tlg0086.tlg035.perseus-eng2::184",
+    "tlg0086.tlg035.perseus-eng2::185",
+    "tlg0086.tlg035.perseus-eng2::186",
+    "tlg0086.tlg035.perseus-eng2::187",
+    "tlg0086.tlg035.perseus-eng2::188",
+    "tlg0086.tlg035.perseus-eng2::189",
+    "tlg0086.tlg035.perseus-eng2::191",
+    "tlg0086.tlg035.perseus-eng2::192",
+    "tlg0086.tlg035.perseus-eng2::196",
+    "tlg0086.tlg035.perseus-eng2::197",
+    "tlg0086.tlg035.perseus-eng2::199",
+    "tlg0086.tlg035.perseus-eng2::206",
+    "tlg0086.tlg035.perseus-eng2::207",
+    "tlg0086.tlg035.perseus-eng2::208",
+    "tlg0086.tlg035.perseus-eng2::210",
+    "tlg0086.tlg035.perseus-eng2::212",
+    "tlg0086.tlg035.perseus-eng2::219"
+  ],
+  "scores": [
+    {
+      "i": 0,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "The verbatim refers to 'holders of the greatest magistracies' and property-qualifications for 'higher offices'."
+    },
+    {
+      "i": 1,
+      "right": "Owning land",
+      "parent_meta": "Right to own land",
+      "reasoning": "Explicitly mentions 'prohibiting the ownership of more than a certain amount of land'."
+    },
+    {
+      "i": 2,
+      "right": "Inheriting property",
+      "parent_meta": "Right to inherit property",
+      "reasoning": "Refers to the 'sale of the original allotments' (estates) and loans secured on a 'man’s existing estate'."
+    },
+    {
+      "i": 3,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Directly mentions 'admit to citizenship' and the status of children of citizen-birth."
+    },
+    {
+      "i": 4,
+      "right": "Personal liberty",
+      "parent_meta": "Protection from enslavement",
+      "reasoning": "Refers to 'licence among slaves' and the 'indulgence to live as one likes'."
+    },
+    {
+      "i": 5,
+      "right": "Protection from property seizure",
+      "parent_meta": "Right to retain property",
+      "reasoning": "Enacting that nothing belonging to persons condemned 'shall be confiscated', but 'consecrated'."
+    },
+    {
+      "i": 6,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Distinguishes between 'indispensable offices' and 'more important' offices based on property."
+    },
+    {
+      "i": 7,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Discusses a 'share in the government' and eligibility after abstaining from 'mechanic industries'."
+    },
+    {
+      "i": 8,
+      "right": "Eligibility for the archonship",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Mentions 'most supreme offices' having 'expensive duties' to exclude the common people."
+    },
+    {
+      "i": 9,
+      "right": "Exemption from liturgies",
+      "parent_meta": "Exemption from compulsory public financing",
+      "reasoning": "The verbatim mentions being 'excused from useless public services' (liturgies)."
+    },
+    {
+      "i": 10,
+      "right": "Exemption from manual or agricultural labor",
+      "parent_meta": "Exemption from manual labor",
+      "reasoning": "Describes how the poor are 'forced to employ their women and children as servants' due to lack of slaves."
+    },
+    {
+      "i": 11,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Describes the 'work of a ruler' to 'distribute the offices according to merit'."
+    },
+    {
+      "i": 12,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Discusses who is 'part of the state' versus resident aliens and slaves."
+    },
+    {
+      "i": 13,
+      "right": "Right to citizenship",
+      "parent_meta": "Right to citizenship",
+      "reasoning": "Explicitly states 'no need for these [common sailors] to be citizens'."
+    },
+    {
+      "i": 14,
+      "right": "Owning land",
+      "parent_meta": "Right to own land",
+      "reasoning": "Specifies that 'properties must belong to these classes' and not the 'tillers of the soil'."
+    },
+    {
+      "i": 15,
+      "right": "Deliberative authority",
+      "parent_meta": "Political power",
+      "reasoning": "Refers to citizens who 'take part in deliberation as to wars'."
+    },
+    {
+      "i": 16,
+      "right": "Right of residence",
+      "parent_meta": "Right to reside in the city",
+      "reasoning": "Ensuring water supply for 'citizens when they are debarred from their territory by war'."
+    },
+    {
+      "i": 17,
+      "right": "Access to the Agora",
+      "parent_meta": "Right to reside in the city",
+      "reasoning": "Mentions a 'free agora' which artisans or farmers may not 'intrude' upon."
+    },
+    {
+      "i": 18,
+      "right": "Eligibility for public office",
+      "parent_meta": "Eligibility for public office",
+      "reasoning": "Refers to the distinction between those who are to 'be governed' and those who 'govern' based on age."
+    },
+    {
+      "i": 19,
+      "right": "Protection from capital punishment",
+      "parent_meta": "Protection from capital punishment",
+      "reasoning": "Concerns the law on 'exposing' (killing/abandoning) children and whether they are 'reared'."
+    }
+  ],
+  "input_tokens": 4614,
+  "output_tokens": 1042,
+  "status": "ok"
+}
