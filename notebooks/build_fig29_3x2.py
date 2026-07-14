@@ -221,35 +221,56 @@ def fig_group_panels_3x2(node_scale=1.4, text_scale=1.9, vs=150, xs_gap=250,
     per column and the tallest per row. Node size is proportional to population
     share, exactly as the original panel.
     """
-    def build_panel(t, title):
+    # Precompute each panel's lattice shape (number of tiers, widest tier) so we
+    # can give every sub-figure roughly the same drawn width and height. Rather
+    # than scaling whole panels (which would change node/font sizes unevenly), we
+    # stretch each panel's vertical and horizontal *spacing* to a shared node
+    # span. Node radii and font sizes stay identical across all six panels.
+    shapes = []
+    for t, title in PANELS:
         idxs = rights_of_type(t)
         hmap = {n: held(GROUPS[n], idxs) for n in GNAMES}
+        tiers = {}
+        for n in GNAMES:
+            tiers.setdefault(len(hmap[n]), []).append(n)
+        levels = len(tiers)
+        maxk = max(len(v) for v in tiers.values())
+        shapes.append((title, hmap, levels, maxk))
+
+    span_y = vs * (max(s[2] for s in shapes) - 1)      # tallest panel's tier span
+    span_x = xs_gap * (max(s[3] for s in shapes) - 1)  # widest panel's node span
+
+    def build_panel(title, hmap, levels, maxk):
+        vs_i = span_y / (levels - 1) if levels > 1 else vs
+        xs_i = span_x / (maxk - 1) if maxk > 1 else xs_gap
         return type_panel(0, top, title, GNAMES, hmap,
                           radius=lambda n: node_scale * max(9.0, 1.35 * math.sqrt(POPULATION[n])),
-                          split=lambda n: GROUP_SPLIT[n], vs=vs, xs_gap=xs_gap,
+                          split=lambda n: GROUP_SPLIT[n], vs=vs_i, xs_gap=xs_i,
                           hy_off=52, label_fs=14 * text_scale, title_fs=20 * text_scale,
                           label_inside=False)
 
-    panels = [build_panel(t, title) for t, title in PANELS]
+    panels = [build_panel(*s) for s in shapes]
     rows = math.ceil(len(panels) / cols)
 
     pw = [x1 - x0 for _, (x0, _, x1, _) in panels]
     ph = [y1 - y0 for _, (_, y0, _, y1) in panels]
-    col_w = [max(pw[i] for i in range(len(panels)) if i % cols == c) for c in range(cols)]
-    row_h = [max(ph[i] for i in range(len(panels)) if i // cols == r) for r in range(rows)]
-    col_x = [margin + sum(col_w[:c]) + c * gutter for c in range(cols)]
-    row_y = [margin + sum(row_h[:r]) + r * gutter for r in range(rows)]
+
+    # Uniform grid cell = the largest panel's box; every panel is centred inside
+    # an identically sized cell. Because the node spans were equalised above, the
+    # panels themselves are now close to the same width and height.
+    cell_w, cell_h = max(pw), max(ph)
+    col_x = [margin + c * (cell_w + gutter) for c in range(cols)]
+    row_y = [margin + r * (cell_h + gutter) for r in range(rows)]
 
     parts = []
     for i, (body, (x0, y0, x1, y1)) in enumerate(panels):
         col, rowi = i % cols, i // cols
-        # centre horizontally within the column, top-align within the row
-        dx = col_x[col] + (col_w[col] - pw[i]) / 2 - x0
-        dy = row_y[rowi] - y0
+        dx = col_x[col] + (cell_w - pw[i]) / 2 - x0
+        dy = row_y[rowi] + (cell_h - ph[i]) / 2 - y0
         parts.append(f'<g transform="translate({dx:.1f} {dy:.1f})">\n{body}\n</g>')
 
-    W = 2 * margin + sum(col_w) + (cols - 1) * gutter
-    H = 2 * margin + sum(row_h) + (rows - 1) * gutter
+    W = 2 * margin + cols * cell_w + (cols - 1) * gutter
+    H = 2 * margin + rows * cell_h + (rows - 1) * gutter
     return svg(W, H, "\n".join(parts))
 
 
