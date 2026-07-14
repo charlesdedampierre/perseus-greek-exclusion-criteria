@@ -213,8 +213,8 @@ PANELS = [(None, "All rights")] + [(t, f"{t} rights") for t in TYPES]
 
 
 def fig_group_panels_3x2(node_scale=1.4, text_scale=1.9, vs=150, xs_gap=250,
-                         top=140, cols=2, gutter=70, margin=40):
-    """Six group Hasse panels arranged on a `cols`-wide grid (3 x 2 by default).
+                         top=140, cols=3, gutter=70, margin=40):
+    """Six group Hasse panels arranged on a `cols`-wide grid (3 columns x 2 rows by default).
 
     Each panel is rendered in its own coordinates, its true bounding box is
     measured, then it is translated into a grid cell sized to the widest panel
